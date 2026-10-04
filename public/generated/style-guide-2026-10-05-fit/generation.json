@@ -1,0 +1,29 @@
+{
+  "kind": "original_ai_styling_illustration",
+  "date": "2026-10-05",
+  "creator": "FASHION KARTELL",
+  "tool": "OpenAI built-in image_gen",
+  "disclosure": "Original AI-generated styling examples. No real before-and-after experiment, measured height change, brand product identity, or purchase price is claimed.",
+  "assets": [
+    {
+      "filename": "cover.png",
+      "prompt": "Create one premium photorealistic menswear magazine cover photograph in a standard PORTRAIT 4:5 rectangular canvas (width 1536, height 1920). Do NOT create a tall narrow canvas. Two full length depictions of the same anonymous adult Korean man side by side, occupying the top two thirds of image with generous charcoal studio floor in bottom third. Both identical height and body, same black tee, dark blue wide jeans and black leather shoes. Left tee hangs too long covering hips and very long trousers pile at shoes. Right front tee tucked to reveal waistline, clean trouser hem grazing shoe. View head-to-toe with adequate margins, stylish natural faces, realistic cotton denim texture, dark gray concrete studio setting, soft dimensional editorial light. Outfit comparison without body alteration. Center the pair and leave enough horizontal margin that neither gets cropped. No letters, no numbers, no logos, no brand marks, no watermark. Composition ready for big Korean headline overlay at bottom, but do not add text."
+    },
+    {
+      "filename": "hem.png",
+      "prompt": "Photorealistic editorial fashion detail comparison image, portrait 4:5 ideally 2048x2560 or at least1536x1920. Equal side-by-side close views from mid-thigh to floor of same pair dark indigo straight wide-leg jeans and exactly same black leather minimal low-top sneakers on same anonymous adult. Left trouser hem far too long, folding in thick piles covering sneaker; right proper full-length hem lightly touching sneaker vamp, one gentle break, entire toe visible. No physical body transformation, no measuring ruler. Deliberate controlled comparison identical angle and shoe. Rich authentic denim grain and subtle leather texture, warm gray concrete studio floor/background, soft daylight magazine still life. Legs and footwear wholly inside central 80percent width and upper72percent height, keep bottom25percent clear floor for later Korean text. No text, labels, arrows, brands, logos or watermark. Sophisticated streetwear magazine editorial quality."
+    },
+    {
+      "filename": "waist.png",
+      "prompt": "Original photorealistic fashion magazine styling illustration, portrait4:5 ideally2048x2560 or at least1536x1920. Side-by-side same anonymous adult East Asian male model photographed straight on full length, identical height/body/pose/camera and identical offwhite heavy tee, charcoal wide-leg trousers, simple black shoes. LEFT tee untucked and overly long covering entire hips, lowered visual waistline. RIGHT exactly same tee with only front hem neatly tucked into trousers, waistline visible and remaining tee falls naturally, sleeves and body not changed. No slimming, no body transformation, no skin exposure. Clean muted warm concrete studio, premium real fabric texture and natural shadows, Korean contemporary magazine composition. Both figures fullhead and shoes insidecentral80percentwidth and upper72percentheight. Bottomquarter minimalemptyfloor for text overlay. No lettering, brands, labels, arrows or watermarks. Clearly useful comparison of garment arrangement."
+    },
+    {
+      "filename": "shoes.png",
+      "prompt": "Create photorealistic premium fashion editorial styling comparison, portrait4:5 ideally2048x2560 or at least1536x1920. Two adjacent lower body views from waist tofloor of identical anonymous male same loose black wide-leg trousers. LEFT tiny slim low-profile black shoes barely visible under very wide trouser opening, shapeless silhouette. RIGHT chunky structured unbranded black leather derby with rounded toe and thick but ordinary sole visible below same wide trousers, hem grazing vamp, visually balanced. Both are editorial styling options not objectively bad bodies. Natural matte fabric grain and leather textures, moody gray studio floor/background, soft directional light, slightly close camera with all footwear inside safe horizontal margin, keysubjects upper72percentheight and bottomquarterclearfloor for future captions. No text, no logos, no brand marks, no arrows or labels. Fashion magazine photo realism."
+    },
+    {
+      "filename": "outro.png",
+      "prompt": "Premium photorealistic Korean streetwear magazine editorial photograph, portrait4:5 ideally2048x2560 or at least1536x1920. One anonymous adult East Asian man in well-proportioned contemporary outfit: offwhite tee lightly front-tucked, short boxy charcoal overshirt worn open, clean dark denim wide-leg trousers one gentlebreak, black substantialderbyshoes. Hands relaxed, natural standingpose, wholehead and shoes visible with safe margins. Gray architectural concrete studio with nuanced texture and soft sidelighting, muted sophisticated palette, tactile natural clothingdetail. Subject upper70percentframe, darkfloornegative space lower30percent suitable for existing magazine end card overlay. No text, brands, logos, watermark. Original fictional styling example, no claim of real product or actualphotographedperson."
+    }
+  ]
+}
