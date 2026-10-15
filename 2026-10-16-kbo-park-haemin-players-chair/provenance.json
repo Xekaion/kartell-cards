@@ -1,0 +1,259 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "박해민, 선수협 새 회장에 당선",
+  "issueKey": "kbo-2026-park-haemin-players-association-chair",
+  "checkedAt": "2026-10-15T19:36:17.396Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=554644",
+  "corroboratingUrls": [
+    "http://www.kpbpa.com/kwa-30266-271",
+    "http://www.kpbpa.com/kwa-30266-270",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012980",
+    "https://www.yna.co.kr/view/AKR20261015111700007",
+    "http://www.kpbpa.com/kwa-30249-165",
+    "https://www.newspim.com/news/view/20261013000952"
+  ],
+  "sourceRoles": [
+    {
+      "url": "http://www.kpbpa.com/kwa-30266-271",
+      "title": "한국프로야구선수협회, 사무총장 공개 모집",
+      "publishedAt": "2026-10-15",
+      "role": "현재 뉴스의 직접 공식 발표"
+    },
+    {
+      "url": "http://www.kpbpa.com/kwa-30266-270",
+      "title": "(사)한국프로야구선수협회 제14대 회장에 LG 트윈스 박해민 선출",
+      "publishedAt": "2026-10-13",
+      "role": "차기 회장 당선·임기·정기총회의 직접 공식 발표"
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=554644",
+      "title": "['득표율 86.1%' 양현종 이을 선수협 14대 회장, 박해민 선출...12월 1일부터 임기 시작 [공식발표]",
+      "publishedAt": "2026-10-13",
+      "role": "관련 실제 KBO 게재 뉴스, OSEN 조형래 기자. 원제목의 득표율 표기는 본문의 투표율과 다르므로 카드에서는 투표율만 사용"
+    },
+    {
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012980",
+      "title": "\"지금은 선수협 얘기할 시기 아니다\" 회장님은 말을 아꼈다, 가을야구가 더 중요하니까",
+      "publishedAt": "2026-10-14T16:42:00+09:00",
+      "role": "박해민 당선 후 실제 인터뷰와 당장의 소속 팀 집중 입장"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261015111700007",
+      "title": "프로야구선수협회, 새 사무총장 공개 모집",
+      "publishedAt": "2026-10-15T14:18:00+09:00",
+      "role": "현 모집 공고와 회장 임기를 분리해 재확인"
+    },
+    {
+      "url": "http://www.kpbpa.com/kwa-30249-165",
+      "title": "한국프로야구선수협회, 사무총장 공개 모집",
+      "publishedAt": "2026-10-15",
+      "role": "공식 협회 공지와 채용 PDF 링크"
+    },
+    {
+      "url": "https://www.newspim.com/news/view/20261013000952",
+      "role": "선수 경력과 회장 선출·투표율·임기 대조"
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "박해민",
+      "subject": "LG 트윈스 박해민",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/10/2026101514190118466_1.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/10/15/2026101514190118466",
+      "imageCredit": "스타뉴스 · 김진경",
+      "creditDisplay": "사진 · 스타뉴스 · 김진경 (2026.10.14 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test5\\research-photos\\group-a-source-1.jpg",
+      "photoDate": "2026-10-14",
+      "checkedAt": "2026-10-15T19:32:36.352Z",
+      "context": "2026년 10월 14일 잠실 LG-두산 와일드카드전에서 박해민이 안타 후 양손으로 세리머니하는 세로 경기 사진. 선수협 회장 선거 현장 사진은 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.starnewskorea.com/21/2026/10/2026101514190118466_1.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1787,
+        "bytes": 2290795,
+        "coverScale": 0.9,
+        "effectiveSharpness": 1.3252706673303583,
+        "effectiveDetailRatio": 0.471167,
+        "perceptualHash": "632f949d0d0d2227",
+        "sha256": "2178793fd869acf3253f5a72af579ddf501352578f1973d01a00634182bf780e"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "2178793fd869acf3253f5a72af579ddf501352578f1973d01a00634182bf780e",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "photoDateLabel": "2026-10-14 자료사진"
+    },
+    {
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0729/1785319093066274.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2177509",
+      "photoDate": "2026-07-29",
+      "imageCredit": "엑스포츠뉴스 박지영",
+      "displayCredit": "사진 · 엑스포츠뉴스 박지영 (7월 29일 자료사진)",
+      "captionEvidence": "원문: 2026년 7월 29일 잠실 키움-LG 경기 1회말 무사 1루 LG 박해민이 안타를 치고 있다. 사진·기사 박지영 기자.",
+      "visualReview": "원본 직접 확인. LG 줄무늬 유니폼·헬멧·박해민 이름·등번호17·타격 팔로스루·얼굴 측면 확인. 단독 주피사체가 중앙에서 크게 보이는 세로사진. 타격 동작의 손과 방망이를 보존한다. 회장 당선일이나 취임 현장 사진으로 설명하지 않는다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test5\\research-photos\\park-haemin-july-hit.webp",
+      "person": "박해민",
+      "team": "LG 트윈스",
+      "checkedAt": "2026-10-15T19:34:13.527Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0729/1785319093066274.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1375,
+        "bytes": 270620,
+        "coverScale": 0.982,
+        "effectiveSharpness": 5.085027798222526,
+        "effectiveDetailRatio": 0.564863,
+        "perceptualHash": "49361b9b0f2de656",
+        "sha256": "96a38abccb5f5d4a7aa4222ae25e7c8bede93e7c181eb74a81763629ee99f705"
+      },
+      "sha256": "96a38abccb5f5d4a7aa4222ae25e7c8bede93e7c181eb74a81763629ee99f705",
+      "fit": "cover",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 제공한 계약 권한을 해당 원문 실제 사진 사용의 근거로 기록한다. 공개 URL로 사용권을 추정하지 않는다."
+      },
+      "photoDateLabel": "2026-07-29 자료사진"
+    },
+    {
+      "name": "박해민",
+      "subject": "LG 트윈스 박해민",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791982049458112.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207658",
+      "imageCredit": "엑스포츠뉴스 · 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 · 김한준 (2026.10.14 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test5\\research-photos\\group-a-source-2.webp",
+      "photoDate": "2026-10-14",
+      "checkedAt": "2026-10-15T19:32:36.352Z",
+      "context": "2026년 10월 14일 잠실 LG-두산 와일드카드전에서 박해민이 주루하는 세로 사진. 등번호 17과 이름을 확인했고 얼굴은 뒤돌아보는 옆모습이다. 선수협 회장 선거 현장 사진은 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791982049458112.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1425,
+        "bytes": 214996,
+        "coverScale": 0.947,
+        "effectiveSharpness": 3.468954490326312,
+        "effectiveDetailRatio": 0.570192,
+        "perceptualHash": "31234ac6272e962c",
+        "sha256": "0b7b05261f991ddc43bb5c814765354eed8a01a6ea6bec0a5807409767a2e5f7"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "0b7b05261f991ddc43bb5c814765354eed8a01a6ea6bec0a5807409767a2e5f7",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "photoDateLabel": "2026-10-14 자료사진"
+    },
+    {
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0728/1785240055399463.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2177176",
+      "photoDate": "2026-07-28",
+      "imageCredit": "엑스포츠뉴스 박지영",
+      "displayCredit": "사진 · 엑스포츠뉴스 박지영 (7월 28일 자료사진)",
+      "captionEvidence": "원문: 2026년 7월 28일 잠실 키움-LG 경기 8회초 무사1루 LG 중견수 박해민이 추재현의 플라이 타구를 호수비로 처리한다. 사진·기사 박지영 기자.",
+      "visualReview": "원본 직접 확인. LG 줄무늬 TWINS 유니폼의 중견수 박해민이 담장 앞에서 공을 향해 점프하며 글러브를 들고 있다. 주피사체 하나가 중앙, 얼굴은 화면 높이 약43~47%에 노출됨. 원본 세로 비율에서 cover로 얼굴을 잘라내지 않으며, 최종 오버레이가 얼굴이나 글러브를 가리지 않게 확인한다. 회장 당선/취임 현장 사진으로 설명하지 않는다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test5\\research-photos\\park-haemin-july-field.webp",
+      "person": "박해민",
+      "team": "LG 트윈스",
+      "checkedAt": "2026-10-15T19:34:13.527Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0728/1785240055399463.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1616,
+        "bytes": 205926,
+        "coverScale": 0.9,
+        "effectiveSharpness": 1.6508398385960243,
+        "effectiveDetailRatio": 0.467127,
+        "perceptualHash": "146623c745252721",
+        "sha256": "cebb9464defdf81c4618d8dc501e4f7c501fe96d187a96c67e4ddd80e375fce4"
+      },
+      "sha256": "cebb9464defdf81c4618d8dc501e4f7c501fe96d187a96c67e4ddd80e375fce4",
+      "fit": "cover",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 제공한 계약 권한을 해당 원문 실제 사진 사용의 근거로 기록한다. 공개 URL로 사용권을 추정하지 않는다."
+      },
+      "photoDateLabel": "2026-07-28 자료사진"
+    },
+    {
+      "name": "박해민",
+      "subject": "LG 트윈스 박해민",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791979854252313.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207636",
+      "imageCredit": "엑스포츠뉴스 · 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 · 김한준 (2026.10.14 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test5\\research-photos\\group-a-source-3.webp",
+      "photoDate": "2026-10-14",
+      "checkedAt": "2026-10-15T19:32:36.352Z",
+      "context": "2026년 10월 14일 잠실 LG-두산 와일드카드전에서 박해민(왼쪽)이 문정빈(오른쪽) 및 김용의 코치(가운데, 등번호75)와 대화하는 세로 사진. 선수협 회장 선거 현장 사진은 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791979854252313.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1352,
+        "bytes": 281368,
+        "coverScale": 0.999,
+        "effectiveSharpness": 4.553041040848085,
+        "effectiveDetailRatio": 0.538632,
+        "perceptualHash": "d4d45b5ba5a59c1e",
+        "sha256": "ac0c26e5a430ea24463244f87ffa4606c18bff9315b225901727c2e62df12c73"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "ac0c26e5a430ea24463244f87ffa4606c18bff9315b225901727c2e62df12c73",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "photoDateLabel": "2026-10-14 자료사진"
+    }
+  ]
+}
