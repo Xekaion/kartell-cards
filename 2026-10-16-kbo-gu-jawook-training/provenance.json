@@ -1,0 +1,211 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "구자욱, 가벼운 타격 훈련 재개한다",
+  "issueKey": "kbo-2026-samsung-gu-jawook-training-return",
+  "checkedAt": "2026-10-15T18:50:16.984Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=554897",
+  "corroboratingUrls": [
+    "https://v.isplus.com/article/view/isp202610150064",
+    "https://www.yna.co.kr/view/AKR20261015082600007",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013261",
+    "https://www.xportsnews.com/article/2207780/"
+  ],
+  "sourceRoles": {
+    "KBO / OSEN": "10월 15일 결과 발표 전 부상·시즌 기록·일정 배경. MRI 호전 결과의 출처로 주장하지 않음.",
+    "일간스포츠 / 연합뉴스 / 스포티비뉴스": "10월 15일 삼성 구단 발표의 재검진 결과·훈련 계획 및 제한 사항을 직접 읽고 교차 확인."
+  },
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "sourceUrl": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1013261_2028385_1979.jpg",
+      "sourcePageUrl": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013261",
+      "imageCredit": "삼성 라이온즈 제공",
+      "creditDisplay": "사진 · 삼성 라이온즈 제공 (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test3\\research-photos\\source-2.jpg",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T18:47:39.344Z",
+      "context": "구자욱이 흰색 삼성 유니폼을 입고 타격하는 세로 자료사진.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1013261_2028385_1979.jpg",
+        "format": "jpeg",
+        "width": 1252,
+        "height": 1879,
+        "bytes": 253326,
+        "coverScale": 0.863,
+        "effectiveSharpness": 1.0172186219663506,
+        "effectiveDetailRatio": 0.462304,
+        "perceptualHash": "19bc8787839343c6",
+        "sha256": "22b04f7761167b5626676350416ac446e0eb1a33f0f7fd22f1fed405871cbe94"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "22b04f7761167b5626676350416ac446e0eb1a33f0f7fd22f1fed405871cbe94",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "photoDateLabel": "자료사진",
+      "fit": "cover"
+    },
+    {
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1015/1792031989035768.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207780/",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "creditDisplay": "사진 · 엑스포츠뉴스 DB (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test3\\research-photos\\source-5.webp",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T18:47:39.344Z",
+      "context": "구자욱이 파란 원정 유니폼을 입고 타격하는 세로 자료사진.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1015/1792031989035768.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1385,
+        "bytes": 165682,
+        "coverScale": 0.975,
+        "effectiveSharpness": 1.561304411315213,
+        "effectiveDetailRatio": 0.485755,
+        "perceptualHash": "1f98b8434359499d",
+        "sha256": "ccda60a383ee1e9b6b74cb2ca6bf4d05bc02b06db138f7eaa7aad14304d510cb"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "ccda60a383ee1e9b6b74cb2ca6bf4d05bc02b06db138f7eaa7aad14304d510cb",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "photoDateLabel": "자료사진",
+      "fit": "cover"
+    },
+    {
+      "sourceUrl": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1013261_2028384_9301.jpg",
+      "sourcePageUrl": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013261",
+      "imageCredit": "삼성 라이온즈 제공",
+      "creditDisplay": "사진 · 삼성 라이온즈 제공 (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test3\\research-photos\\source-3.jpg",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T18:47:39.344Z",
+      "context": "구자욱(왼쪽)이 삼성 관계자와 하이파이브하는 세로 자료사진.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1013261_2028384_9301.jpg",
+        "format": "jpeg",
+        "width": 1334,
+        "height": 2000,
+        "bytes": 346132,
+        "coverScale": 0.81,
+        "effectiveSharpness": 1.9936192652504234,
+        "effectiveDetailRatio": 0.598623,
+        "perceptualHash": "e5c6665479783333",
+        "sha256": "af715f7a5bc3c9fab81c0493aec6d57f6584104e9d8d313a26d23a4b809ca596"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "af715f7a5bc3c9fab81c0493aec6d57f6584104e9d8d313a26d23a4b809ca596",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "photoDateLabel": "자료사진",
+      "fit": "cover"
+    },
+    {
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/10/2026101511025692920_3.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/10/15/2026101511025692920",
+      "imageCredit": "스타뉴스 · 김진경",
+      "creditDisplay": "사진 · 스타뉴스 · 김진경 (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test3\\research-photos\\source-4.jpg",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T18:47:39.344Z",
+      "context": "구자욱이 고척 키움전에서 타격하는 과거 경기 사진. 캡션에는 27일만 명시되어 정확한 월과 날짜는 추정하지 않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.starnewskorea.com/21/2026/10/2026101511025692920_3.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1403,
+        "bytes": 1833944,
+        "coverScale": 0.962,
+        "effectiveSharpness": 1.0396651295981592,
+        "effectiveDetailRatio": 0.460076,
+        "perceptualHash": "87ba28cc8c16636b",
+        "sha256": "49768e13e1f2515cd77d9b49590700b54cf63d038d416d3c819934c3125143ea"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "49768e13e1f2515cd77d9b49590700b54cf63d038d416d3c819934c3125143ea",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "photoDateLabel": "자료사진",
+      "fit": "cover"
+    },
+    {
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1010/1791560194764312.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2206055",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "creditDisplay": "사진 · 엑스포츠뉴스 DB (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test3\\research-photos\\alternative-1.webp",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T18:49:48.610Z",
+      "context": "파란색 삼성 원정 유니폼과 타격 헬멧을 쓰고 양손을 귀 옆에 든 구자욱의 과거 경기 세리머니 사진. 중앙 인물 구도로 cover 적합. 정확한 촬영일 불명으로 자료사진 표시.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1010/1791560194764312.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1636,
+        "bytes": 207918,
+        "coverScale": 0.9,
+        "effectiveSharpness": 1.524503614599226,
+        "effectiveDetailRatio": 0.453578,
+        "perceptualHash": "c625658786de4ecd",
+        "sha256": "5e5d037a51528d8a5c12783de797b30e5a5a345c9a42cd1123d0245ea04829d2"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5e5d037a51528d8a5c12783de797b30e5a5a345c9a42cd1123d0245ea04829d2",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "photoDateLabel": "자료사진",
+      "fit": "cover"
+    }
+  ]
+}
