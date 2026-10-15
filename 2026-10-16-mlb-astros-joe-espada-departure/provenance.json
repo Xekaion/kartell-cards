@@ -1,0 +1,393 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "휴스턴, 에스파다 감독과 3년 만에 결별",
+  "issueKey": "mlb-2026-astros-joe-espada-contract-nonrenewal",
+  "checkedAt": "2026-10-15T21:06:32.848Z",
+  "sourceUrl": "https://statsapi.mlb.com/api/v1/teams/117/coaches?season=2026",
+  "corroboratingUrls": [
+    "https://www.mlb.com/news/joe-espada-astros-part-ways",
+    "https://www.mk.co.kr/news/sports/12176311",
+    "https://isplus.com/article/view/isp202610150009",
+    "https://www.spochoo.com/news/articleView.html?idxno=131100"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://statsapi.mlb.com/api/v1/teams/117/coaches?season=2026",
+      "role": "official-season-background",
+      "note": "2026시즌 코칭 명단의 에스파다(id 440053) 연결을 확인했다. Manager 표기는 시즌 명단이며 현재 재계약·잔류의 증거로 쓰지 않는다. 최신 결별은 별도 공식 발표 및 국내 보도로 확인했다."
+    },
+    {
+      "url": "https://www.mlb.com/news/joe-espada-astros-part-ways",
+      "role": "latest-official-announcement",
+      "publishedAt": "2026-10-14T15:58:00Z",
+      "note": "계약 비갱신 구단 발표와 9월 30일 감독 발언 확인."
+    },
+    {
+      "url": "https://www.mk.co.kr/news/sports/12176311",
+      "role": "independent-current-report",
+      "publishedAt": "2026-10-15T05:24:00+09:00",
+      "note": "3시즌 256승 229패, 2024·2026 지구 우승, 2026 81승 81패 및 WC 2패."
+    },
+    {
+      "url": "https://isplus.com/article/view/isp202610150009",
+      "role": "independent-current-report",
+      "publishedAt": "2026-10-15T07:29:00+09:00",
+      "note": "결별 발표·시애틀 면접 허용 교차확인. 시애틀 부임으로 쓰지 않는다."
+    },
+    {
+      "url": "https://www.spochoo.com/news/articleView.html?idxno=131100",
+      "role": "season-context-current-report",
+      "publishedAt": "2026-10-15T10:05:00+09:00",
+      "note": "신규 영입 투수 6명 합산 ERA 5.52, 코치 5명 비갱신과 프런트 재정비 배경."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "조 에스파다",
+      "subject": "조 에스파다",
+      "team": "휴스턴 애스트로스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2024/04/18/2024041801001449200195954_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2024-04-18/202404180100144920019595",
+      "imageCredit": "스포츠조선 · AFP연합뉴스",
+      "creditDisplay": "사진 · 스포츠조선 · AFP연합뉴스 (2024년 기사 자료 · 촬영일 미확인)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb4-story\\photos\\espada-portrait.jpg",
+      "photoDate": null,
+      "photoDateLabel": "2024년 기사 자료 · 촬영일 미확인",
+      "checkedAt": "2026-10-15T21:05:12.373Z",
+      "context": "2024년 4월 18일 기사에 실린 휴스턴 유니폼 에스파다 인물 사진이다. 2026년 결별 발표 현장이 아니다.",
+      "originalCaption": null,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:48:18.512Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 1025478,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9530065661050584,
+        "entropy": 6.779165724990889,
+        "effectiveDetailRatio": 0.570247,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2024/04/18/2024041801001449200195954_w.jpg",
+        "sha256": "e3ad0ae636ce3cc4d0c994b3d55a7034f8d806db1c28f06741f27c826ba8562c",
+        "perceptualHash": "2b6960162731f094",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQIBAQICAQEBBBczTSwpLzMvRj8kBwQBAAAAAQEBAQEBAwMBAQEDMEtBJn6qdLBtHDJKPQgCAQABAQEAAAIDAgEBAwUyTR8OV5ZIF3CUIwoPRjYGAgEBAQABAQIDAgEBBRlFHAcKL5ePhpWcDgkHGkAVAwIAAQEBAQACAwEABCM7DwMGLUGZeaQ0EwcCEzcdAgMBAAABAQECAgIBAiQ3DwEFBjYsDzkmDAwDDDUkAwECAQEBAQECAgIBAyQ3DwcMCgEGAgEJEBYVDjEnAQEBAQEBAAABAgICBCM9GAsGFB0qKR8YDAIRHT0sAwIBAQABAAECAgIDBDtBEQ0gHhwmQ003IBcUCDxPDAICAQEAAQEBAwEEHkchJjIVARc0K0k8IyM4Tg9INAEBAQEAAgEBAgEEF0EsXywiHigcVCtTHElRfFM1JwMAAgEBAQIDAgEDAhtHMjAsPRwlVBZgW2hUPotJGgUAAQEBAgIEAwIBCw4nCiEfIhojSy8+Ui8rCkhVJAUBAQAAAQEDAwMBCwk4GhEIEh4tQS8SFAkPDCZDJwIBAAABAAECAgMDARkcKwgKKzIxWS4qIAUFFic7JQMBAAECAAIDAwIBAwogDwUTHyIZPUAaGBAGEixIEwQBAQEBAAEDAwQCAQkRBgsVJBUXIio1MxMEE005BQIBAgMCAQECAgMEAQESDAkiKQklIw4JRj4DO1EKAQEBAQECAQEDAwEEAwAODgsYGiAOKCglIUUJSDMBAwIBAAEBAQEBAgIDBQIJEA0OCA8YLi8WKRYPQi0BAgEDAwQDAwEBAgEBAwQIEgsSCQcdJxQIBA0ONjEDAgICAgMFAQIBAgIAAAIIFwQPCw0UMjAbAwkONDECAwMBAAEDAQEBAQMBAAIFEAwQBhERIC4oFRgKPTQECgMDAQACAQECAQECAwgNDwkRDwoXJE85Fw0HNj82LwwIAwIBAQEAAgMFBzU/GBISEAwVQz0fBwMGNRUlrYgoCQkEAgIEBQYSbp1RLxwdCBoyKw4QDQsTI1Sgj+LHa1AVBAgII2ODuGihGB8aFQsXPjYSBgsWCnpP7ECQgsi0CCJxuZpQUj29RT0HCxkVJisYAgokaZiA5SJDHFahdMPEdFEGRhbNnlQ0FhAHGyArMUh0jzL6xQ1HEDMKznsqBDUoVh97/0pRPzw9RVNgcGZZKL3/UTRHQB0KJwoGCBpZOU4Pt/9mGSgnLDw0NR8q0/90FWkSTgQKCwQBAQlARXA2Fqb/zFYQBQQHK5T//2MKYihoEQYIAQMDAgEHWih0MwBl3P+7RgZp//+5NBBgPmElDggGAgIFAwIBBVsuWUomImDN/63/0kQKJWkwVjEKBwoCBAoKBAcBBwhITx5pRCEjXcpuCws5bwtgIgMHCQQJDhAJDwwOIksXMmQ2UVsXFDoHDUdnKV0UBgcFAgYIGw8Qe1R8gB9RGhRJbxp+LxwJO2pDTAkHAwMDAwEBKhdoiH4pZ30fAQMMJ4tOii0iXxNUDQQCAwMBAQMD",
+          "top": "AQIBAQICAQEBBBczTSwpLzMvRj8kBwQBAAAAAQEBAQEBAwMBAQEDMEtBJn6qdLBtHDJKPQgCAQABAQEAAAIDAgEBAwUyTR8OV5ZIF3CUIwoPRjYGAgEBAQABAQIDAgEBBRlFHAcKL5ePhpWcDgkHGkAVAwIAAQEBAQACAwEABCM7DwMGLUGZeaQ0EwcCEzcdAgMBAAABAQECAgIBAiQ3DwEFBjYsDzkmDAwDDDUkAwECAQEBAQECAgIBAyQ3DwcMCgEGAgEJEBYVDjEnAQEBAQEBAAABAgICBCM9GAsGFB0qKR8YDAIRHT0sAwIBAQABAAECAgIDBDtBEQ0gHhwmQ003IBcUCDxPDAICAQEAAQEBAwEEHkchJjIVARc0K0k8IyM4Tg9INAEBAQEAAgEBAgEEF0EsXywiHigcVCtTHElRfFM1JwMAAgEBAQIDAgEDAhtHMjAsPRwlVBZgW2hUPotJGgUAAQEBAgIEAwIBCw4nCiEfIhojSy8+Ui8rCkhVJAUBAQAAAQEDAwMBCwk4GhEIEh4tQS8SFAkPDCZDJwIBAAABAAECAgMDARkcKwgKKzIxWS4qIAUFFic7JQMBAAEC",
+          "middle": "AgIEAwIBCw4nCiEfIhojSy8+Ui8rCkhVJAUBAQAAAQEDAwMBCwk4GhEIEh4tQS8SFAkPDCZDJwIBAAABAAECAgMDARkcKwgKKzIxWS4qIAUFFic7JQMBAAECAAIDAwIBAwogDwUTHyIZPUAaGBAGEixIEwQBAQEBAAEDAwQCAQkRBgsVJBUXIio1MxMEE005BQIBAgMCAQECAgMEAQESDAkiKQklIw4JRj4DO1EKAQEBAQECAQEDAwEEAwAODgsYGiAOKCglIUUJSDMBAwIBAAEBAQEBAgIDBQIJEA0OCA8YLi8WKRYPQi0BAgEDAwQDAwEBAgEBAwQIEgsSCQcdJxQIBA0ONjEDAgICAgMFAQIBAgIAAAIIFwQPCw0UMjAbAwkONDECAwMBAAEDAQEBAQMBAAIFEAwQBhERIC4oFRgKPTQECgMDAQACAQECAQECAwgNDwkRDwoXJE85Fw0HNj82LwwIAwIBAQEAAgMFBzU/GBISEAwVQz0fBwMGNRUlrYgoCQkEAgIEBQYSbp1RLxwdCBoyKw4QDQsTI1Sgj+LHa1AVBAgII2ODuGihGB8aFQsXPjYSBgsWCnpP7ECQgsi0",
+          "bottom": "AQECAQECAwgNDwkRDwoXJE85Fw0HNj82LwwIAwIBAQEAAgMFBzU/GBISEAwVQz0fBwMGNRUlrYgoCQkEAgIEBQYSbp1RLxwdCBoyKw4QDQsTI1Sgj+LHa1AVBAgII2ODuGihGB8aFQsXPjYSBgsWCnpP7ECQgsi0CCJxuZpQUj29RT0HCxkVJisYAgokaZiA5SJDHFahdMPEdFEGRhbNnlQ0FhAHGyArMUh0jzL6xQ1HEDMKznsqBDUoVh97/0pRPzw9RVNgcGZZKL3/UTRHQB0KJwoGCBpZOU4Pt/9mGSgnLDw0NR8q0/90FWkSTgQKCwQBAQlARXA2Fqb/zFYQBQQHK5T//2MKYihoEQYIAQMDAgEHWih0MwBl3P+7RgZp//+5NBBgPmElDggGAgIFAwIBBVsuWUomImDN/63/0kQKJWkwVjEKBwoCBAoKBAcBBwhITx5pRCEjXcpuCws5bwtgIgMHCQQJDhAJDwwOIksXMmQ2UVsXFDoHDUdnKV0UBgcFAgYIGw8Qe1R8gB9RGhRJbxp+LxwJO2pDTAkHAwMDAwEBKhdoiH4pZ30fAQMMJ4tOii0iXxNUDQQCAwMBAQMD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.106768,
+          "top": 13.837337,
+          "middle": 20.22621,
+          "bottom": 21.557761,
+          "effectiveRatio": 0.570247
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1799
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "e3ad0ae636ce3cc4d0c994b3d55a7034f8d806db1c28f06741f27c826ba8562c",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "원본을 개별 육안 확인했다. 기사 캡션의 인물·유니폼과 일치하며, 중앙 4:5 구도에서 얼굴과 주요 동작이 남는다. 완성 카드의 글 가림은 최종 렌더 검수 대상이다.",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약과 사용료 지급 완료.",
+        "note": "국내 언론 원문에 실린 실제 사진을 사용자 제공 계약 권한으로 이용한다. 해외 원공급자의 공개 URL을 무료 사용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "제레미 페냐 · 샘 안토나치",
+      "subject": "제레미 페냐 · 샘 안토나치",
+      "team": "휴스턴 애스트로스 · 시카고 화이트삭스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/30/2026093001002027700134482_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-30/202609300100202770013448",
+      "imageCredit": "스포츠조선 · UPI연합뉴스",
+      "creditDisplay": "사진 · 스포츠조선 · UPI연합뉴스 (2026년 WC 1차전 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb4-story\\photos\\pena-antonacci-wildcard.jpg",
+      "photoDate": null,
+      "photoDateLabel": "2026년 WC 1차전 자료사진",
+      "checkedAt": "2026-10-15T21:05:12.373Z",
+      "context": "원문은 9월 30일 한국시간 와일드카드 1차전으로 설명한다. 휴스턴 페냐가 송구하고 화이트삭스 안토나치가 슬라이딩한다. 한국 기사 날짜를 미국 현지 촬영일로 옮겨 적지 않는다.",
+      "originalCaption": "샘 안토나치가 30일 텍사스주 휴스턴 타이킨파크에서 열린 MLB 아메리칸리그 와일드카드 시리즈 1차전에서휴스턴 유격수 제러미 페나가 1루로 송구하는 사이 2루로 슬라이딩하고 있다.UPI연합뉴스",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:51:20.416Z",
+        "width": 1200,
+        "height": 1720,
+        "bytes": 1285840,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9342013127609718,
+        "entropy": 7.756139488428744,
+        "effectiveDetailRatio": 0.489786,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/30/2026093001002027700134482_w.jpg",
+        "sha256": "b0172743f30d8211b4fd23adcbeff9a62540f8013f0cbdacfd8d6a37554c7fc7",
+        "perceptualHash": "2c3685f7f3737591",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "UHc1VVhsa2knRm9oYV5rZ0QqQT4JAQEBAyBqQmhTJUjISLkbKkglSC4XFBUbGUU5Rk9RDwQBCDCBJT+fDCRNo02RO0wgRSgVERIVF0E2KRsyTwkFAzVZLVE/CRgWX1Q7pHQ0MCAKBAwSFC0sMTBjJxoEAl95TTEhBgUHJGF7OMCkiGUcJBYHBigmTl9Ti1EdBGiZPzc0ChEODiVU4r42r//UYjQQEjA4G1l8YXpVB2WqXT8uIikmLCo7EsDdbRCw7d2tfINVRFtDhmEvFjV4i3+IV2RlYFNsfFwsdJuFLWCwwc6lrKaEG0ObwWQeIiYYEhgeHxgfKSMQM2uP1qokGiwxM1mXWE+Qu8YaPkIjTWJhXEdgZmgyMUxDWNHBq20ME1xcMj+GKM96Wh1LBRQJFQQaCUQ4QzgNDCeYu+BiQpJiODqdPF3KHQwzDRkOHAweDEY3QzoUEh4yLbhomY4rXmuyRDikREY6AxEEEgoYBEAzOzEIIC0dTGMoaQ4vKSSmxg3GflwxChkLGA4gEEg+ODcgTCU2LWNfapk+NjkmoUrCrRwLCRIGFAwfAklCOzNNImAQW185DWikYTskZC62oBEbEiMiJhozOEwuKUE/aUsnVoORIgg4jUI8hCvSTAdFZHV6dWqAjJJlWXefbhU0T2SnOS45RUQ8XmCkNyJ1eX9+eniFdz4LQU5akm1KUK+XI0l2ajN4XYtnBE6BKispKCUKR6/Vl2izGkkMglhCOqZypLx3Sad0KXVjHhAZEje9yccXoodMRkUcfIiaaW2in1Q0adVqSXFFQzgvRarDmTzEezyDgVBYDFbA/zAUDg4TVeFdVGE8FSMNInaGaYqitVt3K1hcYi8M9sErLRwDfeU4Tl4/PTgrRnu84f97cD0kQU4nUT4OaMI9Uy4WrM8ZMldTIhkIDhtrPNixdTw3ZU9uWwYJRKs2TFct1akNES5HHR0iJisrLZiuPFZhkpyIKBILKLNqOWlI2nxESUAlUk9OUU1UZJ17GUvIU9ooCRsJHGKgTXUVpow3PzQxQkc/PztAT39KaXUd9UIOCxVag75mFFZuZqshGRIWHBcbGxobF2CKQViuRhkFCmK1gTcmMztoC4xMKiwsJCYlJSUlJD/hnxAqEQYPCpWeKjSGcEJyLWhJEBgXCw0NDQ4OGi9X4sJKCRAXKtFxIHpBYonm/2tbGwoJCwoJCQkFGxsxKqqyUTgMk8sdBxyCiWYxsf+SCREGAgEBAgIKJiNWMjGfiJxswWcNBAENRqa8xUSxuQ4CBwYHBwQ2EnpfaSkxXFFzTyMOBAYDChpml//bhWsACAYFDCcXlZ0Tam1eM0UlOFIFCgsLDhg1VEOnuSYOMDEzJit8sBKRFFVxd1tFOGw+KzIzNjBHYyYeMls1Ih81TzrCKns/L1tRIEU3MUxOJCciIT5GbRgQaXsuCgkcYp4zcjMQCiByhCknNE1ZHgkGHS23ZiRKa2l7EBU+JDJfE0EKPD4ZZX9WQiNONQ8WNItePYRwOS5S",
+          "top": "UHc1VVhsa2knRm9oYV5rZ0QqQT4JAQEBAyBqQmhTJUjISLkbKkglSC4XFBUbGUU5Rk9RDwQBCDCBJT+fDCRNo02RO0wgRSgVERIVF0E2KRsyTwkFAzVZLVE/CRgWX1Q7pHQ0MCAKBAwSFC0sMTBjJxoEAl95TTEhBgUHJGF7OMCkiGUcJBYHBigmTl9Ti1EdBGiZPzc0ChEODiVU4r42r//UYjQQEjA4G1l8YXpVB2WqXT8uIikmLCo7EsDdbRCw7d2tfINVRFtDhmEvFjV4i3+IV2RlYFNsfFwsdJuFLWCwwc6lrKaEG0ObwWQeIiYYEhgeHxgfKSMQM2uP1qokGiwxM1mXWE+Qu8YaPkIjTWJhXEdgZmgyMUxDWNHBq20ME1xcMj+GKM96Wh1LBRQJFQQaCUQ4QzgNDCeYu+BiQpJiODqdPF3KHQwzDRkOHAweDEY3QzoUEh4yLbhomY4rXmuyRDikREY6AxEEEgoYBEAzOzEIIC0dTGMoaQ4vKSSmxg3GflwxChkLGA4gEEg+ODcgTCU2LWNfapk+NjkmoUrCrRwLCRIGFAwfAklCOzNNImAQW185DWikYTskZC62oBEb",
+          "middle": "AxEEEgoYBEAzOzEIIC0dTGMoaQ4vKSSmxg3GflwxChkLGA4gEEg+ODcgTCU2LWNfapk+NjkmoUrCrRwLCRIGFAwfAklCOzNNImAQW185DWikYTskZC62oBEbEiMiJhozOEwuKUE/aUsnVoORIgg4jUI8hCvSTAdFZHV6dWqAjJJlWXefbhU0T2SnOS45RUQ8XmCkNyJ1eX9+eniFdz4LQU5akm1KUK+XI0l2ajN4XYtnBE6BKispKCUKR6/Vl2izGkkMglhCOqZypLx3Sad0KXVjHhAZEje9yccXoodMRkUcfIiaaW2in1Q0adVqSXFFQzgvRarDmTzEezyDgVBYDFbA/zAUDg4TVeFdVGE8FSMNInaGaYqitVt3K1hcYi8M9sErLRwDfeU4Tl4/PTgrRnu84f97cD0kQU4nUT4OaMI9Uy4WrM8ZMldTIhkIDhtrPNixdTw3ZU9uWwYJRKs2TFct1akNES5HHR0iJisrLZiuPFZhkpyIKBILKLNqOWlI2nxESUAlUk9OUU1UZJ17GUvIU9ooCRsJHGKgTXUVpow3PzQxQkc/PztAT39KaXUd9UIOCxVag75mFFZuZqshGRIW",
+          "bottom": "IhkIDhtrPNixdTw3ZU9uWwYJRKs2TFct1akNES5HHR0iJisrLZiuPFZhkpyIKBILKLNqOWlI2nxESUAlUk9OUU1UZJ17GUvIU9ooCRsJHGKgTXUVpow3PzQxQkc/PztAT39KaXUd9UIOCxVag75mFFZuZqshGRIWHBcbGxobF2CKQViuRhkFCmK1gTcmMztoC4xMKiwsJCYlJSUlJD/hnxAqEQYPCpWeKjSGcEJyLWhJEBgXCw0NDQ4OGi9X4sJKCRAXKtFxIHpBYonm/2tbGwoJCwoJCQkFGxsxKqqyUTgMk8sdBxyCiWYxsf+SCREGAgEBAgIKJiNWMjGfiJxswWcNBAENRqa8xUSxuQ4CBwYHBwQ2EnpfaSkxXFFzTyMOBAYDChpml//bhWsACAYFDCcXlZ0Tam1eM0UlOFIFCgsLDhg1VEOnuSYOMDEzJit8sBKRFFVxd1tFOGw+KzIzNjBHYyYeMls1Ih81TzrCKns/L1tRIEU3MUxOJCciIT5GbRgQaXsuCgkcYp4zcjMQCiByhCknNE1ZHgkGHS23ZiRKa2l7EBU+JDJfE0EKPD4ZZX9WQiNONQ8WNItePYRwOS5S"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 20.896429,
+          "top": 24.012933,
+          "middle": 20.344152,
+          "bottom": 17.724401,
+          "effectiveRatio": 0.489786
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1720
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "b0172743f30d8211b4fd23adcbeff9a62540f8013f0cbdacfd8d6a37554c7fc7",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "원본을 개별 육안 확인했다. 기사 캡션의 인물·유니폼과 일치하며, 중앙 4:5 구도에서 얼굴과 주요 동작이 남는다. 완성 카드의 글 가림은 최종 렌더 검수 대상이다.",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약과 사용료 지급 완료.",
+        "note": "국내 언론 원문에 실린 실제 사진을 사용자 제공 계약 권한으로 이용한다. 해외 원공급자의 공개 URL을 무료 사용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "조 에스파다 · 이숭용",
+      "subject": "조 에스파다 · 이숭용",
+      "team": "휴스턴 애스트로스 · SSG 랜더스",
+      "sourceUrl": "https://t1.daumcdn.net/news/202602/20/SpoChosun/20260220075219789zikm.jpg",
+      "sourcePageUrl": "https://v.daum.net/v/62hK98UZFO",
+      "imageCredit": "스포츠조선 · SSG 랜더스 제공",
+      "creditDisplay": "사진 · 스포츠조선 · SSG 랜더스 제공 (2026.02.18 캠프 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb4-story\\photos\\espada-lee-camp.jpg",
+      "photoDate": "2026-02-18",
+      "photoDateLabel": "2026.02.18 캠프 자료사진",
+      "checkedAt": "2026-10-15T21:05:12.373Z",
+      "context": "플로리다 캠프에서 이숭용 SSG 감독(왼쪽)과 에스파다 감독(오른쪽)이 만난 자료사진이다. 원문에 18일 만남이 명시돼 있다.",
+      "originalCaption": null,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:43:43.593Z",
+        "width": 1200,
+        "height": 1356,
+        "bytes": 1037210,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.6196368533076257,
+        "entropy": 7.340410645259908,
+        "effectiveDetailRatio": 0.612521,
+        "kind": "source",
+        "coverScale": 0.996,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://t1.daumcdn.net/news/202602/20/SpoChosun/20260220075219789zikm.jpg",
+        "sha256": "7ef01c00663068ee6c4f2f9da7bac31099d8fa1c47bd025be56ebe809ee9f55c",
+        "perceptualHash": "1934707030f4f3f3",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BwsMDg0KIE5RMyIQKC0uLSYJFREJBwUGCRYmGQ01BQQMHDNNWUUYFBwWExsbFSAqFBQYEAgJAg0WMwg9EyEvODUhCA8ZFA4PHiMnJCUnIRUYHx0XGiMmFA47LC42R11fWV5dXl9db4+NWENJOiwrMjo7PUZmUQE/PExVV1RQUEdHTUZZlolWal00ICIkISMkIB5KeA4+CwgMERgLEAsJAhBPRCcqKT4wFgcLDRQRDw8edj05DhAlJRsPDg4DDRg8PEcKIUNNHhomJyUbGBESO1MYERUcDhMaHBUSGiAzLSAaIXJHMkI5GRUKNyckMygQFhUQBxAWFRgUEiAtLB4RQlQkIyAnSTpRPiknEiIRCQ0JCQcEAgEDEhVjWDcYNoWVk5x9NS5Qc0UFBhQUBwYLBgUEBQYOGWqTNT8hQzE5QEFzHjcRd1ETCwwMBgUIAgQEBAwmi408HBkoCRIcPzw8PhopiRsrDwwKBQcHAwQDCCGCdyIaEhIYDhAwIk4WRg9GbgkkEAsEBAYFAwICCDR8NAYKDxYEKBARPiCBFSFaczcpEwwFCAcICAYFCTx1LgEJBwsEFScRSmglXSUxfYJSEwYEMx43NzIwFUNwKQANFCUcBBMAI1JlKREQGD53fhgDWDlzWlN2VCx5KggDHBkcDQwQBxwmKBAEAh0Tj20RLx8mIiQgah5uHwsCBBIIBQcECQYPBBgUQiQTLm9LJxMjBgY2PxdjLgcJAwQKDQsQCBUrUiVgMWg+ZTQ8Jw4kFxgvLi1nLgQLCQkIBwkGBzFcLDMbPgs/ERU9NwcyClVGIyE5GgsHAgUIBQMJKk4uHxkZEj83IwpMHyslYV4jJD9xOwUEBggJBwgjTBINGh8eO0lFMS86PzBfbDIPDSFnRQcCBgEEAgEydSBCMktJNAlMVycXjmqmeTs3MDCBbQ8FBwECBAOUYLJUKB4XCxNRRy8eGikaJBMJDBdxhh4MBQQCBAZue3RZBQkEAwUyVjU8ST1VNyQuJyNVayAQDAsKDAhFYUdYDQYECAkOLRVUFS8iDhMlJDFfaxMJDwoMCwY/eSelQwoJEB50fFdWCxUGJDAUQllNVAoEAwMDAQQlg1xhnHdueIuUOTYcCAopLAk1Wy8xOxECAgQFBQIOVHUhK15nVUcfAhwoDBQfGiVcGREaISgDBAADCgIHSXkdDRAFEgsUDyQqBBAWIWczEw4LKR4DBAELCgQLMXA7BwgLCA8DDh4pCgcvdkAGBQsVMDoGAwQOAQQMLGdEAwoaDQMFIEE5HCdsPAYBAQIJFCU1BggJAwQKL21ABhVHGQgcTWs6IzgpPy41QkFLJUAGCysYBwQQSnowBjgPQQwwaC4oEShKSkZLTU13dhoCLmhbFAY3g2EFAx0/KAUWOmhdBAUHChoRCBBRhicMb2SORQpWjSwcBwghDBAHEiIXBw0GCAUEDAVzexsfkUaCYwhgihYhAgUTChYKBgsLDgkKBQcEBSOGTwxDmBx/YwhofxgXAgcNEhMHCgoK",
+          "top": "BwsMDg0KIE5RMyIQKC0uLSYJFREJBwUGCRYmGQ01BQQMHDNNWUUYFBwWExsbFSAqFBQYEAgJAg0WMwg9EyEvODUhCA8ZFA4PHiMnJCUnIRUYHx0XGiMmFA47LC42R11fWV5dXl9db4+NWENJOiwrMjo7PUZmUQE/PExVV1RQUEdHTUZZlolWal00ICIkISMkIB5KeA4+CwgMERgLEAsJAhBPRCcqKT4wFgcLDRQRDw8edj05DhAlJRsPDg4DDRg8PEcKIUNNHhomJyUbGBESO1MYERUcDhMaHBUSGiAzLSAaIXJHMkI5GRUKNyckMygQFhUQBxAWFRgUEiAtLB4RQlQkIyAnSTpRPiknEiIRCQ0JCQcEAgEDEhVjWDcYNoWVk5x9NS5Qc0UFBhQUBwYLBgUEBQYOGWqTNT8hQzE5QEFzHjcRd1ETCwwMBgUIAgQEBAwmi408HBkoCRIcPzw8PhopiRsrDwwKBQcHAwQDCCGCdyIaEhIYDhAwIk4WRg9GbgkkEAsEBAYFAwICCDR8NAYKDxYEKBARPiCBFSFaczcpEwwFCAcICAYFCTx1LgEJBwsEFScRSmglXSUxfYJSEwYE",
+          "middle": "BQcHAwQDCCGCdyIaEhIYDhAwIk4WRg9GbgkkEAsEBAYFAwICCDR8NAYKDxYEKBARPiCBFSFaczcpEwwFCAcICAYFCTx1LgEJBwsEFScRSmglXSUxfYJSEwYEMx43NzIwFUNwKQANFCUcBBMAI1JlKREQGD53fhgDWDlzWlN2VCx5KggDHBkcDQwQBxwmKBAEAh0Tj20RLx8mIiQgah5uHwsCBBIIBQcECQYPBBgUQiQTLm9LJxMjBgY2PxdjLgcJAwQKDQsQCBUrUiVgMWg+ZTQ8Jw4kFxgvLi1nLgQLCQkIBwkGBzFcLDMbPgs/ERU9NwcyClVGIyE5GgsHAgUIBQMJKk4uHxkZEj83IwpMHyslYV4jJD9xOwUEBggJBwgjTBINGh8eO0lFMS86PzBfbDIPDSFnRQcCBgEEAgEydSBCMktJNAlMVycXjmqmeTs3MDCBbQ8FBwECBAOUYLJUKB4XCxNRRy8eGikaJBMJDBdxhh4MBQQCBAZue3RZBQkEAwUyVjU8ST1VNyQuJyNVayAQDAsKDAhFYUdYDQYECAkOLRVUFS8iDhMlJDFfaxMJDwoMCwY/eSelQwoJEB50fFdW",
+          "bottom": "jmqmeTs3MDCBbQ8FBwECBAOUYLJUKB4XCxNRRy8eGikaJBMJDBdxhh4MBQQCBAZue3RZBQkEAwUyVjU8ST1VNyQuJyNVayAQDAsKDAhFYUdYDQYECAkOLRVUFS8iDhMlJDFfaxMJDwoMCwY/eSelQwoJEB50fFdWCxUGJDAUQllNVAoEAwMDAQQlg1xhnHdueIuUOTYcCAopLAk1Wy8xOxECAgQFBQIOVHUhK15nVUcfAhwoDBQfGiVcGREaISgDBAADCgIHSXkdDRAFEgsUDyQqBBAWIWczEw4LKR4DBAELCgQLMXA7BwgLCA8DDh4pCgcvdkAGBQsVMDoGAwQOAQQMLGdEAwoaDQMFIEE5HCdsPAYBAQIJFCU1BggJAwQKL21ABhVHGQgcTWs6IzgpPy41QkFLJUAGCysYBwQQSnowBjgPQQwwaC4oEShKSkZLTU13dhoCLmhbFAY3g2EFAx0/KAUWOmhdBAUHChoRCBBRhicMb2SORQpWjSwcBwghDBAHEiIXBw0GCAUEDAVzexsfkUaCYwhgihYhAgUTChYKBgsLDgkKBQcEBSOGTwxDmBx/YwhofxgXAgcNEhMHCgoK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 35.465062,
+          "top": 21.687813,
+          "middle": 30.034558,
+          "bottom": 45.909837,
+          "effectiveRatio": 0.612521
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1356
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "7ef01c00663068ee6c4f2f9da7bac31099d8fa1c47bd025be56ebe809ee9f55c",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "원본을 개별 육안 확인했다. 기사 캡션의 인물·유니폼과 일치하며, 중앙 4:5 구도에서 얼굴과 주요 동작이 남는다. 완성 카드의 글 가림은 최종 렌더 검수 대상이다.",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약과 사용료 지급 완료.",
+        "note": "국내 언론 원문에 실린 실제 사진을 사용자 제공 계약 권한으로 이용한다. 해외 원공급자의 공개 URL을 무료 사용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "이마이 다쓰야",
+      "subject": "이마이 다쓰야",
+      "team": "휴스턴 애스트로스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/01/06/2026010601000345000036036_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-01-06/202601060100034500003603",
+      "imageCredit": "스포츠조선 · AP연합뉴스",
+      "creditDisplay": "사진 · 스포츠조선 · AP연합뉴스 (2026년 1월 입단 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb4-story\\photos\\imai-introduction.jpg",
+      "photoDate": null,
+      "photoDateLabel": "2026년 1월 입단 자료사진",
+      "checkedAt": "2026-10-15T21:05:12.373Z",
+      "context": "1월 6일 한국시간 기사에 실린 이마이 휴스턴 입단 기자회견 사진이다. 원문 확인 범위인 월·행사만 표시한다. 시즌을 앞둔 투수 영입과 시즌 종료 후 평가의 맥락을 잇는다.",
+      "originalCaption": "AP연합뉴스",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:54:08.186Z",
+        "width": 1200,
+        "height": 1499,
+        "bytes": 1314272,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6931367876172088,
+        "entropy": 7.216147396713495,
+        "effectiveDetailRatio": 0.482004,
+        "kind": "source",
+        "coverScale": 0.901,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/01/06/2026010601000345000036036_w.jpg",
+        "sha256": "a9f63422f9d3e96405ceeb5f0add553b12e523d68f99a6d2c23a09a033325bc7",
+        "perceptualHash": "77636d8f1715978b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AhBlm4VujJNDAwECAQECAQAAAQEBAgEBAgEBAQIDCWWuUTMzIXyoPAQBAgEBAgECAgMCAQECAgIBAQECPKFJlZAxomKGjx4EAgMBAQICBQcDAgEBAQMDAgEBZnpkfH9XYaUolkYCAQcGBwcpNzUNAwEBAAQEAwEBcCtPb6o8uz5PUmAOGhgRDoJlJ1VpEAlTHhESAgIBbw4hgjEcSWwrLm8+KREciYZnIFh3kYJ6fIU1FgICcQFteKESq1ZxJZBIEBgVhbycTl0HaWUSSGqLLgYDciZidXd5eGleSJYnExcUE29kat6wd2x2Z494KQQDYV5MV46ChWQ8fIYeElBnbZeOPkJ2d25lZmkoBgIBOJs3hHdPfoBIoXhSebenjGKrsz83DgICAQECAgEADWmmN1F1WkqkNy2VbXM0TBIfm1gOAwEBAQECAwEBAxZ0mnFVeplrDqEjN0g7ISgSZ2UDAQEBAQICAQIBAgESTm92eEchQ1O8PCQiGxgbck4FAQEBAQICAAACAQEABhkkGAYGNztwbyoxGAlBjzUHAwICAQECAgIBAQEDAQQCAwIDDEHGUQovMyaaaw0BAQICAgEBAgEBAAAAAgEAAAQbBc/Ih3IZEktlFQcGBAQDAQABAQIBAQEBAQABBB4SoutGPIySQmDeaSwcGA8CAgIBAQECAQcKBwYEDW/Y4pgmCCI7LSej9Na5k3E5BQQCAQQEBxEMCQgKtP+xmytEIzxaHlY7UouuusirVA4EBxMFFAwFERHA/1UGCUAgJA5daUlIDw8RMGu2rHATFhkNHQ0OJIn/QAYIBAUeGQwWQVEOHRABDhNMYoNhIQcZIBElLO+FCw8CAgkyPScMBwkXCw8SI0d9aHE8GBIhJA8ffNdEHBoCBBpPKk8LJAsQCQIlSXhqFUlKDyAeFxIOo6JIgnUnBQYbUAkcQUkYSlpJY2ATHVlVBx8DShAlrFGXM5mAHQQGEjRzhm0OR3Zaby8jFGlYARYZMRYXmUUzBCGPMwcHRHlyKFRIejRQRAsWL3eZCwokEykEgmZ3I6l0FQsfcYwwIGBZOIVZGCwNShrsXw4gehwSVdaHdFshJypJiA+BSIdDFmxffUJGXmii4iYQYFcSOeiNIB8MERVnXVFeXDsQISNMETdKVjpB7msGkRUSJZ7Qpk8oIBkWfkozDzcSIhFHiFVCFiQlxI4NKgsPCj2puaBCIRMLBAsiKF8LFRJ+XltcFhYiwY0JSg0PCxoxo+RMEhQSGBYZUJFFGhdZhSaQHgtL5GsLQhYOByEnN/W5GAkPIRgloibOLQs4o1FgzIjjyRwbOAMVEwotGYXse1RTHAkRZcyYbBYVYrS1jMihMgIGGg8RGScSI0lnVVF0USEmBaMgqkhYayux9TIdP0NBICMXIRkpTF5gQkpQsaR/h7JZfbq0u729NUYyLiwsT1BBTFBLNRgjUEY7cIyeiogpOVQ8OSwsFAgBAwcGJCUeGBgcDAYEEA0LKhgXHwcZBhQWFhUTDAYDBAIB",
+          "top": "AhBlm4VujJNDAwECAQECAQAAAQEBAgEBAgEBAQIDCWWuUTMzIXyoPAQBAgEBAgECAgMCAQECAgIBAQECPKFJlZAxomKGjx4EAgMBAQICBQcDAgEBAQMDAgEBZnpkfH9XYaUolkYCAQcGBwcpNzUNAwEBAAQEAwEBcCtPb6o8uz5PUmAOGhgRDoJlJ1VpEAlTHhESAgIBbw4hgjEcSWwrLm8+KREciYZnIFh3kYJ6fIU1FgICcQFteKESq1ZxJZBIEBgVhbycTl0HaWUSSGqLLgYDciZidXd5eGleSJYnExcUE29kat6wd2x2Z494KQQDYV5MV46ChWQ8fIYeElBnbZeOPkJ2d25lZmkoBgIBOJs3hHdPfoBIoXhSebenjGKrsz83DgICAQECAgEADWmmN1F1WkqkNy2VbXM0TBIfm1gOAwEBAQECAwEBAxZ0mnFVeplrDqEjN0g7ISgSZ2UDAQEBAQICAQIBAgESTm92eEchQ1O8PCQiGxgbck4FAQEBAQICAAACAQEABhkkGAYGNztwbyoxGAlBjzUHAwICAQECAgIBAQEDAQQCAwIDDEHGUQovMyaaaw0BAQICAgEBAgEB",
+          "middle": "AgESTm92eEchQ1O8PCQiGxgbck4FAQEBAQICAAACAQEABhkkGAYGNztwbyoxGAlBjzUHAwICAQECAgIBAQEDAQQCAwIDDEHGUQovMyaaaw0BAQICAgEBAgEBAAAAAgEAAAQbBc/Ih3IZEktlFQcGBAQDAQABAQIBAQEBAQABBB4SoutGPIySQmDeaSwcGA8CAgIBAQECAQcKBwYEDW/Y4pgmCCI7LSej9Na5k3E5BQQCAQQEBxEMCQgKtP+xmytEIzxaHlY7UouuusirVA4EBxMFFAwFERHA/1UGCUAgJA5daUlIDw8RMGu2rHATFhkNHQ0OJIn/QAYIBAUeGQwWQVEOHRABDhNMYoNhIQcZIBElLO+FCw8CAgkyPScMBwkXCw8SI0d9aHE8GBIhJA8ffNdEHBoCBBpPKk8LJAsQCQIlSXhqFUlKDyAeFxIOo6JIgnUnBQYbUAkcQUkYSlpJY2ATHVlVBx8DShAlrFGXM5mAHQQGEjRzhm0OR3Zaby8jFGlYARYZMRYXmUUzBCGPMwcHRHlyKFRIejRQRAsWL3eZCwokEykEgmZ3I6l0FQsfcYwwIGBZOIVZGCwNShrsXw4g",
+          "bottom": "FxIOo6JIgnUnBQYbUAkcQUkYSlpJY2ATHVlVBx8DShAlrFGXM5mAHQQGEjRzhm0OR3Zaby8jFGlYARYZMRYXmUUzBCGPMwcHRHlyKFRIejRQRAsWL3eZCwokEykEgmZ3I6l0FQsfcYwwIGBZOIVZGCwNShrsXw4gehwSVdaHdFshJypJiA+BSIdDFmxffUJGXmii4iYQYFcSOeiNIB8MERVnXVFeXDsQISNMETdKVjpB7msGkRUSJZ7Qpk8oIBkWfkozDzcSIhFHiFVCFiQlxI4NKgsPCj2puaBCIRMLBAsiKF8LFRJ+XltcFhYiwY0JSg0PCxoxo+RMEhQSGBYZUJFFGhdZhSaQHgtL5GsLQhYOByEnN/W5GAkPIRgloibOLQs4o1FgzIjjyRwbOAMVEwotGYXse1RTHAkRZcyYbBYVYrS1jMihMgIGGg8RGScSI0lnVVF0USEmBaMgqkhYayux9TIdP0NBICMXIRkpTF5gQkpQsaR/h7JZfbq0u729NUYyLiwsT1BBTFBLNRgjUEY7cIyeiogpOVQ8OSwsFAgBAwcGJCUeGBgcDAYEEA0LKhgXHwcZBhQWFhUTDAYDBAIB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 16.353105,
+          "top": 11.459349,
+          "middle": 19.601129,
+          "bottom": 19.651825,
+          "effectiveRatio": 0.482004
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1499
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "a9f63422f9d3e96405ceeb5f0add553b12e523d68f99a6d2c23a09a033325bc7",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "원본을 개별 육안 확인했다. 기사 캡션의 인물·유니폼과 일치하며, 중앙 4:5 구도에서 얼굴과 주요 동작이 남는다. 완성 카드의 글 가림은 최종 렌더 검수 대상이다.",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약과 사용료 지급 완료.",
+        "note": "국내 언론 원문에 실린 실제 사진을 사용자 제공 계약 권한으로 이용한다. 해외 원공급자의 공개 URL을 무료 사용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "호세 알투베",
+      "subject": "호세 알투베",
+      "team": "휴스턴 애스트로스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2025/09/29/2025092901002137100310783_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2025-09-29/202509290100213710031078",
+      "imageCredit": "스포츠조선 · AFP연합뉴스",
+      "creditDisplay": "사진 · 스포츠조선 · AFP연합뉴스 (2025년 기사 자료 · 촬영일 미확인)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb4-story\\photos\\altuve-archive.jpg",
+      "photoDate": null,
+      "photoDateLabel": "2025년 기사 자료 · 촬영일 미확인",
+      "checkedAt": "2026-10-15T21:05:12.373Z",
+      "context": "2025년 9월 29일 기사에 실린 호세 알투베 사진이다. 2026년 결별 발표 당시 촬영한 사진으로 표시하지 않는다.",
+      "originalCaption": "호세 알투베. AFP연합뉴스",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:52:11.833Z",
+        "width": 1200,
+        "height": 1800,
+        "bytes": 1377040,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.599401245531347,
+        "entropy": 7.418910767824855,
+        "effectiveDetailRatio": 0.526107,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2025/09/29/2025092901002137100310783_w.jpg",
+        "sha256": "568afe5343f1f313f6ed747c6a2e761865741deb05ce6be0bf314e533bc42086",
+        "perceptualHash": "434d4647e3e88894",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BwYEBAMGBicdCAUCAQMLFTcsLSYLFhEJAQEBAQMHCwYEAwQFGCYIEx0tUWlpaE4QIjI+HxQUBAEBAgQIDQYDAwQFIhgaKjZUamiCrcuXJw0ZMRkOAQEBAwQIDwUCAwQCGxoiJy47OztJVXDPjiMvCQ4GAgEBBAUJDgYEBAQBDxYYHyAnOT44KhVvmEUOAQoEAQACBAYJDwkEAgEBBw4PIiEeMzYqJBQ/Yk8RDQYEAAACBQYJEQkBAQECBAQTJhMYP0M8Fw1NYUMhEgsCAgIEBgYIEgcBAQEDBxISOy8NJ3SMdTQ3hW1CUh4JBAUFBgYHEgcBAQECARIbGFE5Vj1ccG8xWWxlb14iBgcHBwgGEgcBAQECBA0ZHGCGiIRlWkI4MUkePW4wCAkJCQgHEQYCAQEBAgcVEHuPLlpLSj8OGVEsNm8gCAkHCAkJEQUBAgICAwoDEYZuajA1MSUlFzZCcmYDCQcHCAgHEQYBAgICAwsNC0qBPAhMKRIkFw9grS4ICQcHBgYGEAYCAgMDBAQRDSJXQCU+PRcTD1ewTwUJBgQFBgYECwUDAwUGCAQJARUXBQ1cSx0bI2ymHAcGAwQFBAQCBQMFBwgNFRcECho6M1cPXCAhLWiiHggDBAQEBAMCAQQKEBYSE0weBg88Qxs5LzAlMHqwHA0NBgIDAwEBERoVDi49Z01UGCk5LS8LChw6Ribz4btKDAoFAwEBGz9SWHMdEUpCEBUoPDgnFCgzQExMhf//u08KBwUDuem7NyFECBw4Eg8DCRgpNSYsRClKQlmd9P/TWQ0HdkCtjBhCHixRaDQnICAuKxsoPS4sWjw8D4T//91iLWAvb1VdSDRBdoZgRTwXKi0nDxJeXCRNF0Qecf7/FBkEHFJKXDU6G0ldWnViGS0YSWVSImYFKy4pOCVYFy8gIg4nKkYfOTEIJSSaZiiKZB0/cStGGRwyITRRBBQLFAsRHwAxOQkoGj8SgodpIlVbGVAqHRkdGx0dGDINNwwyOS0XDyYjIyY+WFFDWyYYHxMuFREGCAkCCRsfiXqEUT81nIhFHkhdN0tgDSULBhMXFAUHBwkJJQlrdWV0lw+riDaIIQ55C2UGKw0KAwoQEwkFAgsQLUYrk3cxaZB2H0BQJiZdGj0YDgsFBAQLFA0DCgUSZpRlT2sVZ5E0ciJpcTQ7Di0PCQkFAgMIERAJCgcXhUSVK4s4Fz43XTZciTYtCTkECgcCBAUJDRAQCRYiezx7UXVIVFVFWjZxSFwvVlYsFwkCBQ0LCxAVChwrSWBWh0eHE4c6NU9te6MzkpSEkxwFDygOCAgfFyElKXlWL4g8VGcnmkMrH5ktnjwfmooZWZ2XPwwHMxQpHmBllEqcKHxoT7Y1XaE5hiUeB5ErxzZ7wjweIB8kETYiL4EadAxmKXV9ZnZgoxZoc32AQZI7aoFnJSIWUG6HTmiEPxykmTaHSIlld2Afkx2fQyFLolGicyclYFRNnA96R1wPpgSmDIVwIR4cgSBxaWMZaqo3cEIb",
+          "top": "BwYEBAMGBicdCAUCAQMLFTcsLSYLFhEJAQEBAQMHCwYEAwQFGCYIEx0tUWlpaE4QIjI+HxQUBAEBAgQIDQYDAwQFIhgaKjZUamiCrcuXJw0ZMRkOAQEBAwQIDwUCAwQCGxoiJy47OztJVXDPjiMvCQ4GAgEBBAUJDgYEBAQBDxYYHyAnOT44KhVvmEUOAQoEAQACBAYJDwkEAgEBBw4PIiEeMzYqJBQ/Yk8RDQYEAAACBQYJEQkBAQECBAQTJhMYP0M8Fw1NYUMhEgsCAgIEBgYIEgcBAQEDBxISOy8NJ3SMdTQ3hW1CUh4JBAUFBgYHEgcBAQECARIbGFE5Vj1ccG8xWWxlb14iBgcHBwgGEgcBAQECBA0ZHGCGiIRlWkI4MUkePW4wCAkJCQgHEQYCAQEBAgcVEHuPLlpLSj8OGVEsNm8gCAkHCAkJEQUBAgICAwoDEYZuajA1MSUlFzZCcmYDCQcHCAgHEQYBAgICAwsNC0qBPAhMKRIkFw9grS4ICQcHBgYGEAYCAgMDBAQRDSJXQCU+PRcTD1ewTwUJBgQFBgYECwUDAwUGCAQJARUXBQ1cSx0bI2ymHAcGAwQFBAQC",
+          "middle": "EQYBAgICAwsNC0qBPAhMKRIkFw9grS4ICQcHBgYGEAYCAgMDBAQRDSJXQCU+PRcTD1ewTwUJBgQFBgYECwUDAwUGCAQJARUXBQ1cSx0bI2ymHAcGAwQFBAQCBQMFBwgNFRcECho6M1cPXCAhLWiiHggDBAQEBAMCAQQKEBYSE0weBg88Qxs5LzAlMHqwHA0NBgIDAwEBERoVDi49Z01UGCk5LS8LChw6Ribz4btKDAoFAwEBGz9SWHMdEUpCEBUoPDgnFCgzQExMhf//u08KBwUDuem7NyFECBw4Eg8DCRgpNSYsRClKQlmd9P/TWQ0HdkCtjBhCHixRaDQnICAuKxsoPS4sWjw8D4T//91iLWAvb1VdSDRBdoZgRTwXKi0nDxJeXCRNF0Qecf7/FBkEHFJKXDU6G0ldWnViGS0YSWVSImYFKy4pOCVYFy8gIg4nKkYfOTEIJSSaZiiKZB0/cStGGRwyITRRBBQLFAsRHwAxOQkoGj8SgodpIlVbGVAqHRkdGx0dGDINNwwyOS0XDyYjIyY+WFFDWyYYHxMuFREGCAkCCRsfiXqEUT81nIhFHkhdN0tgDSULBhMXFAUHBwkJ",
+          "bottom": "Fy8gIg4nKkYfOTEIJSSaZiiKZB0/cStGGRwyITRRBBQLFAsRHwAxOQkoGj8SgodpIlVbGVAqHRkdGx0dGDINNwwyOS0XDyYjIyY+WFFDWyYYHxMuFREGCAkCCRsfiXqEUT81nIhFHkhdN0tgDSULBhMXFAUHBwkJJQlrdWV0lw+riDaIIQ55C2UGKw0KAwoQEwkFAgsQLUYrk3cxaZB2H0BQJiZdGj0YDgsFBAQLFA0DCgUSZpRlT2sVZ5E0ciJpcTQ7Di0PCQkFAgMIERAJCgcXhUSVK4s4Fz43XTZciTYtCTkECgcCBAUJDRAQCRYiezx7UXVIVFVFWjZxSFwvVlYsFwkCBQ0LCxAVChwrSWBWh0eHE4c6NU9te6MzkpSEkxwFDygOCAgfFyElKXlWL4g8VGcnmkMrH5ktnjwfmooZWZ2XPwwHMxQpHmBllEqcKHxoT7Y1XaE5hiUeB5ErxzZ7wjweIB8kETYiL4EadAxmKXV9ZnZgoxZoc32AQZI7aoFnJSIWUG6HTmiEPxykmTaHSIlld2Afkx2fQyFLolGicyclYFRNnA96R1wPpgSmDIVwIR4cgSBxaWMZaqo3cEIb"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.241705,
+          "top": 14.011963,
+          "middle": 21.089933,
+          "bottom": 22.168211,
+          "effectiveRatio": 0.526107
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1800
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "568afe5343f1f313f6ed747c6a2e761865741deb05ce6be0bf314e533bc42086",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "원본을 개별 육안 확인했다. 기사 캡션의 인물·유니폼과 일치하며, 중앙 4:5 구도에서 얼굴과 주요 동작이 남는다. 완성 카드의 글 가림은 최종 렌더 검수 대상이다.",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약과 사용료 지급 완료.",
+        "note": "국내 언론 원문에 실린 실제 사진을 사용자 제공 계약 권한으로 이용한다. 해외 원공급자의 공개 URL을 무료 사용권으로 간주하지 않는다."
+      }
+    }
+  ]
+}
