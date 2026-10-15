@@ -1,0 +1,373 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "레이예스 211안타, KBO 한 시즌 신기록",
+  "issueKey": "kbo-2026-reyes-211-season-hits-record",
+  "checkedAt": "2026-10-15T20:20:09.682Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/BreakingNews/View.aspx?bdSe=62563",
+  "corroboratingUrls": [
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12189",
+    "https://www.xportsnews.com/article/2206835",
+    "https://www.xportsnews.com/article/2206816",
+    "https://www.xportsnews.com/article/2206892"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/BreakingNews/View.aspx?bdSe=62563",
+      "title": "韓역사상 이런 외인 없었다! 211안타 레이예스, 3년 연속 안타왕",
+      "publishedAt": "2026-10-12",
+      "role": "새로 다루는 사건의 실제 KBO 기사. 최종전7-4,5타수4안타1홈런2타점1득점,6회홈런과3년연속안타왕211개·최원준208개 확인. 16일 경기나 새 기록 달성으로 표시하지 않는다."
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12189",
+      "title": "2026 신한 SOL KBO 리그 주요 달성 기록",
+      "publishedAt": "2026-10-13",
+      "role": "KBO 공식 보도자료의 최종 시즌 기록. 레이예스211·2024년202개 경신·최원준208,두 선수10월6일200안타,최초동반200안타·최초200안타2시즌 확인."
+    },
+    {
+      "url": "https://www.xportsnews.com/article/2206835",
+      "title": "\"최원준 수고했다는 말 전하고파\" 안타도 인성도 끝판왕!…레이예스, '211안타' 韓 최초 역사 썼다 [잠실 인터뷰]",
+      "publishedAt": "2026-10-12T23:59:45+09:00",
+      "role": "김근한 기자 실제 인터뷰 본문 직접 읽음. 6회210·8회211,3년연속144경기목표,최원준에게전한말,내년건강한출전·롯데잔류희망 확인. 잔류 희망을 재계약 확정으로 바꾸지 않는다."
+    },
+    {
+      "url": "https://www.xportsnews.com/article/2206816",
+      "title": "'굿바이 잠실' 롯데, 레이예스 211안타+안타왕 대기록 잔치!…최종전 두산 7-4 격파→3년 연속 7위 마무리 [잠실:스코어]",
+      "publishedAt": "2026-10-12T22:55:20+09:00",
+      "role": "기존 root 취재 경기 결과 및 사진 캡션을 대조한 보조 기사. 제목의 굿바이 잠실은 원고에 사용하지 않는다."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "롯데 자이언츠 레이예스",
+      "subject": "롯데 자이언츠 레이예스",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1013/1791818127606708.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2206855",
+      "imageCredit": "엑스포츠뉴스 · 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 · 김한준 (2026.10.12 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\reyes-story\\photos\\original-1.webp",
+      "photoDate": "2026-10-12",
+      "photoDateLabel": "2026-10-12 자료사진",
+      "checkedAt": "2026-10-15T20:19:16.388Z",
+      "context": "10월 12일 잠실 롯데-두산 정규시즌 최종전이 끝난 뒤 레이예스가 기념구를 들고 포즈를 취하는 실제 사진이다. 사진 기사는 자정이 지난 13일 등록됐지만 실제 촬영일은 원문 본문의 12일이다. 얼굴·기념구·롯데 유니폼을 재육안 검수했다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:10:45.809Z",
+        "width": 1200,
+        "height": 1374,
+        "bytes": 330346,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 3.820808062890413,
+        "entropy": 7.760235327063128,
+        "effectiveDetailRatio": 0.540424,
+        "kind": "source",
+        "coverScale": 0.983,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1013/1791818127606708.webp",
+        "sha256": "2c9e1b4bb1c3e4e9f700ea0d0be9cc612cf403343abaac83a46a3bda10151871",
+        "perceptualHash": "87d574343c7917bc",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "UTYeMxBAQhcZplkoVVg7KWJcTY9yd306hyMXEzQ8EDEYEwUNDBiKhSxyToS3qicILEyHa5F4jFsSOEYbPx0fERgIAluDMo87CTA/1JcJQkBuQJRBXW0pPSsWOCMgAQsIFmZiWXgLJCgYf7sJY2ZJX0UeX6GNjoqjZ3U8Bx4NGl9fXpE4Px8WbcIBeztAVh8zXZeQl5mpMoqbGhgHKlVNkawbHwsDZ7tSf0g/KEBZaGwlGCoiKCOnTQ4jEFxidKsfUzI4cHdvTl8kMxdbQkERExYVTCtfgRIlDFtrZrWEaWN/P19QRFkXSA1BIToEBgEJQSsHfTAeGU9oK1NhISU4O2u0k2wuYzAnICoECAMUTywbYlsXMkFsG01pOTE4aiKDeEo4dpR2EyUSDw4WVjEVN2cfTSVqh5xtNgl3DDMmFQsLGkqGh0UpFggaWTYfFl8XLDhGWW1LiXNOOSUTCgMGAwkMaKFQEBUhY0YkA0g6enJ155MaRG4nKT4HBhQWDA8WDoyZGCMQW2cvE2OmP7lTqL48JRUuWykGGSU1IRcXEI6dGhkfOWw8S5YLkS91b1xOPC5nWRMMJSwrPyQmD5y9ah8mI3BgnThzJ0YkPThLO1lDFg8NCTAgIDIfKhabnXWxHDN6aXdjIUJaOyhFIhYHFgoNEwgMODoNNAEObouRLFdGY5oUZLaIJCEZIRAqDQ4REgQnRyoLPiUjHUJ4VjE9laOW230wYCgaHCoDCQcLJCM8MSckM0ERIEZ7PQQNJ62dH8SdVUYgCxEcJC9BUi0kCQkwEkcpMXtAJkJQPBc9/7GIujw8PScbGiMYEBoTCQ0aR4ZoVl4oZdzP1rWzrwkoaKA0HS4YCCJLOB4dEBkbenduEE1e0LSKr72bQisTZHccITsiFSsWOCobJyoGboZmZSJYjT0ABzR/Oj5UUaSKQzwUITMqCiYgE0BOg8ZNibStkDUBAAYwcj4tT0Jwlq2uW0s3MTlRUWiczLhonkRFgF8IAgEEQ2syGCAbHT2Sxc2tnZWgv8zIzIUkHBEuTEIsBgQCBEdbHBkVFQ4YP1V5cVRISj83OxEEAg4XOQs4KgQGBgc7PBgSCA4QCwgJBAQFDRgZCgEDEiNBNQkTVSwCBgoMLCUGAgcLExMNBg4ZFg0GAQYVO1tcMVslPFgkAQQNDyIbGQsGDxccHBUKAwADGDJVbFE8b2YmCVVJFQIBCxI2GykWDSIxJAYAAxZNXldcRUo9KWtGIWJ3XhAEAgclTxQ2Oy4iBAEOToh8V09QTUIPOyhYUlBEaVUNDAQHLDwzEQwHBjyPo29NXF40Diw3GCMyMWmtPwtMCQkECRYDCho6iL6kZ1lsXjoqIxcoERwoOXl4Djw9VwYLERkOEC6qsWw+T2U9IiwoOk9bFiQ5Pz53NTg3hTwNGBcZDoSuTzo4MyQ5LwYWFBAoGhsVMSByYmdkW6iLqbR9ivyMNTJMaoF4d2F2g4OPDQELFEMfDh85H7Pa38q/w3SGbGpvclZmfnFqbGFK",
+          "top": "UTYeMxBAQhcZplkoVVg7KWJcTY9yd306hyMXEzQ8EDEYEwUNDBiKhSxyToS3qicILEyHa5F4jFsSOEYbPx0fERgIAluDMo87CTA/1JcJQkBuQJRBXW0pPSsWOCMgAQsIFmZiWXgLJCgYf7sJY2ZJX0UeX6GNjoqjZ3U8Bx4NGl9fXpE4Px8WbcIBeztAVh8zXZeQl5mpMoqbGhgHKlVNkawbHwsDZ7tSf0g/KEBZaGwlGCoiKCOnTQ4jEFxidKsfUzI4cHdvTl8kMxdbQkERExYVTCtfgRIlDFtrZrWEaWN/P19QRFkXSA1BIToEBgEJQSsHfTAeGU9oK1NhISU4O2u0k2wuYzAnICoECAMUTywbYlsXMkFsG01pOTE4aiKDeEo4dpR2EyUSDw4WVjEVN2cfTSVqh5xtNgl3DDMmFQsLGkqGh0UpFggaWTYfFl8XLDhGWW1LiXNOOSUTCgMGAwkMaKFQEBUhY0YkA0g6enJ155MaRG4nKT4HBhQWDA8WDoyZGCMQW2cvE2OmP7lTqL48JRUuWykGGSU1IRcXEI6dGhkfOWw8S5YLkS91b1xOPC5nWRMMJSwrPyQmD5y9ah8m",
+          "middle": "Y0YkA0g6enJ155MaRG4nKT4HBhQWDA8WDoyZGCMQW2cvE2OmP7lTqL48JRUuWykGGSU1IRcXEI6dGhkfOWw8S5YLkS91b1xOPC5nWRMMJSwrPyQmD5y9ah8mI3BgnThzJ0YkPThLO1lDFg8NCTAgIDIfKhabnXWxHDN6aXdjIUJaOyhFIhYHFgoNEwgMODoNNAEObouRLFdGY5oUZLaIJCEZIRAqDQ4REgQnRyoLPiUjHUJ4VjE9laOW230wYCgaHCoDCQcLJCM8MSckM0ERIEZ7PQQNJ62dH8SdVUYgCxEcJC9BUi0kCQkwEkcpMXtAJkJQPBc9/7GIujw8PScbGiMYEBoTCQ0aR4ZoVl4oZdzP1rWzrwkoaKA0HS4YCCJLOB4dEBkbenduEE1e0LSKr72bQisTZHccITsiFSsWOCobJyoGboZmZSJYjT0ABzR/Oj5UUaSKQzwUITMqCiYgE0BOg8ZNibStkDUBAAYwcj4tT0Jwlq2uW0s3MTlRUWiczLhonkRFgF8IAgEEQ2syGCAbHT2Sxc2tnZWgv8zIzIUkHBEuTEIsBgQCBEdbHBkVFQ4YP1V5cVRISj83OxEEAg4X",
+          "bottom": "jT0ABzR/Oj5UUaSKQzwUITMqCiYgE0BOg8ZNibStkDUBAAYwcj4tT0Jwlq2uW0s3MTlRUWiczLhonkRFgF8IAgEEQ2syGCAbHT2Sxc2tnZWgv8zIzIUkHBEuTEIsBgQCBEdbHBkVFQ4YP1V5cVRISj83OxEEAg4XOQs4KgQGBgc7PBgSCA4QCwgJBAQFDRgZCgEDEiNBNQkTVSwCBgoMLCUGAgcLExMNBg4ZFg0GAQYVO1tcMVslPFgkAQQNDyIbGQsGDxccHBUKAwADGDJVbFE8b2YmCVVJFQIBCxI2GykWDSIxJAYAAxZNXldcRUo9KWtGIWJ3XhAEAgclTxQ2Oy4iBAEOToh8V09QTUIPOyhYUlBEaVUNDAQHLDwzEQwHBjyPo29NXF40Diw3GCMyMWmtPwtMCQkECRYDCho6iL6kZ1lsXjoqIxcoERwoOXl4Djw9VwYLERkOEC6qsWw+T2U9IiwoOk9bFiQ5Pz53NTg3hTwNGBcZDoSuTzo4MyQ5LwYWFBAoGhsVMSByYmdkW6iLqbR9ivyMNTJMaoF4d2F2g4OPDQELFEMfDh85H7Pa38q/w3SGbGpvclZmfnFqbGFK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 32.490215,
+          "top": 30.391783,
+          "middle": 34.707527,
+          "bottom": 31.295548,
+          "effectiveRatio": 0.540424
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1374
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "2c9e1b4bb1c3e4e9f700ea0d0be9cc612cf403343abaac83a46a3bda10151871",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 확인한 국내 언론사·야구 관련인 사진 계약 권한을 사용 근거로 기록했다. 공개 URL을 무료 이용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "롯데 자이언츠 레이예스",
+      "subject": "롯데 자이언츠 레이예스",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1012/1791808496839759.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2206807",
+      "imageCredit": "엑스포츠뉴스 · 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 · 김한준 (2026.10.12 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\reyes-story\\more-photos\\original-3.webp",
+      "photoDate": "2026-10-12",
+      "photoDateLabel": "2026-10-12 자료사진",
+      "checkedAt": "2026-10-15T20:19:16.388Z",
+      "context": "10월 12일 잠실 두산전 8회초 211번째 안타를 친 뒤 세리머니하는 레이예스의 실제 사진이다. 원문 캡션의 상황, 얼굴과 유니폼을 다시 대조했고 표지 기념 촬영과 서로 다른 장면이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:11:54.927Z",
+        "width": 1200,
+        "height": 1453,
+        "bytes": 230092,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.8829866952276149,
+        "entropy": 7.612821171525866,
+        "effectiveDetailRatio": 0.49551,
+        "kind": "source",
+        "coverScale": 0.929,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1012/1791808496839759.webp",
+        "sha256": "f8873c2342adcf9b3def8a1ad862f2a0483a3f923ff5c06e61800d256f06c931",
+        "perceptualHash": "45be72c29c589ec6",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "D0RGHz1TFwkJJTkXFBomNk5vNUtbW3pzRzd0DYB+DyA0PRNdUh8IHDsvExIQUkM1aVVujBx6PC1iVxd0MgkIKBEjYVceN18jDA4hFScVWWNtdzBeNjghWjF8Hx8QHSUpImIdW08OIAU1ChYsOGgXNxNRWzweLTVSWyocJC8KLls7YTsMJFw2GSAcI30QfyQcKkBeE1c4UUFFKyUPDD9tPDIWRVFKPggYFzZaNiEJBhlPh1w2CRs7RiIUEiI3PQ0bOydrkGBUSC4vJxEMFQxrghpTFhMQIBoRDgoGFQ0LIjx4H1FoOiQ9UkInOA9fiTJIIQcXBgwDQQsRCxAEBz1nXBMqWScWQlcvSVMag0U4HxsQCg9IP1AJCQQKJVgaUi6ZLl8SJS0pLk4lSlAnBR0LDjtbJUoPGkZCT00sW4FPrStyGSkVDCAtCzEuEgkUKmc4Q24wUEYmJBEcOSZlq3F+VhYmQTwdFwVCBRIZZUpgTkx/OhtWWicUJT6DTSgyoCw9FVQzFwRVDg0TWpmmc44pJ0lWSz0RBR9ZZ1JempAYThZaKw1dEANHjIVbVlMoKyVCWCECIRAKg6YkarE+S0FxPVtpDxN/YEEyQkhYOiwZFB4sGBYfF4rKG6WXC3V2dm1bDTpSQD0gGR4rSVcqMCATESYJIBuv37KnGK5fgyBNOVhROTkNCgcvd10ZIAkUGCcnG1ZSisU0DhrFRxMmDYOPMx8NHGunRRYVGBcTFygYMkEiCRkcQEyEWBRTQXt3QkRCf5tAMVIeFQICBAQQEAoaKxU/hLBdRT9bLyJDQFFVTAw8IjY7EgQDBQsEEQoHMSqIZRhZBkhbIyQgDRIWDhEcQRNKCggFCgMMGQIIGSpfOzxSJWI8BAQEFA0LCgsVOx5BBAYOBgQUGAkFDiM7KShGUEM3BgYFAgEFCAkGIB41Cg4MBgUgEhUGEi0jIQkRQCcMHh0aHhogKCgrMSw1CgkEAxQkBhEUFSQnDggDBwoJExIQDwcSGRM9JkAlBAQBCx8UCgocCygaDQsHAgQGBggFCAQVDQ5EEUEICQcSHh4HCgUbFyYLDQoHAwIWBAYIDgcWDCIuLisPFBodGQwDCAsENhIHDQoEAQQrBAcPEhQWCxUbUjgQGhEPBwQJBActJw4NDgsGAgg7CwwLCxUUBhCDi9h5BiNev1w8cWU9DxsNEg4GAxJFBhMHBAgJAiugh3X9zMrysuvKxLC6VgwPEA4HAhpKQU03JlYsR2+wYCZjsphkCW+PWF2J7WMPEQ0HAh9MhJKFWodcd5RqHSQQAwIBBwoKECEav6AKEQ8GAiBNHTJsLzYnKjEgFCYMBAQEBAUJEBMFmL4ZEwoFAiFPi1guCgVSBGpcDRYKBQEEAwYMFwYOnLQDEQoGASJQZXMpCQ8dK0MZCBgUAgICBAQIDyMa1aYTEgkGAiVQZgVRDRNadYxKCAcnEwEDBQUBCQlaxGo+ODU2KDRdY5GHPUqMQLd9CRUTPQoDBQcCBgpe0ilHIiYZLjNN",
+          "top": "D0RGHz1TFwkJJTkXFBomNk5vNUtbW3pzRzd0DYB+DyA0PRNdUh8IHDsvExIQUkM1aVVujBx6PC1iVxd0MgkIKBEjYVceN18jDA4hFScVWWNtdzBeNjghWjF8Hx8QHSUpImIdW08OIAU1ChYsOGgXNxNRWzweLTVSWyocJC8KLls7YTsMJFw2GSAcI30QfyQcKkBeE1c4UUFFKyUPDD9tPDIWRVFKPggYFzZaNiEJBhlPh1w2CRs7RiIUEiI3PQ0bOydrkGBUSC4vJxEMFQxrghpTFhMQIBoRDgoGFQ0LIjx4H1FoOiQ9UkInOA9fiTJIIQcXBgwDQQsRCxAEBz1nXBMqWScWQlcvSVMag0U4HxsQCg9IP1AJCQQKJVgaUi6ZLl8SJS0pLk4lSlAnBR0LDjtbJUoPGkZCT00sW4FPrStyGSkVDCAtCzEuEgkUKmc4Q24wUEYmJBEcOSZlq3F+VhYmQTwdFwVCBRIZZUpgTkx/OhtWWicUJT6DTSgyoCw9FVQzFwRVDg0TWpmmc44pJ0lWSz0RBR9ZZ1JempAYThZaKw1dEANHjIVbVlMoKyVCWCECIRAKg6YkarE+S0FxPVtp",
+          "middle": "BRIZZUpgTkx/OhtWWicUJT6DTSgyoCw9FVQzFwRVDg0TWpmmc44pJ0lWSz0RBR9ZZ1JempAYThZaKw1dEANHjIVbVlMoKyVCWCECIRAKg6YkarE+S0FxPVtpDxN/YEEyQkhYOiwZFB4sGBYfF4rKG6WXC3V2dm1bDTpSQD0gGR4rSVcqMCATESYJIBuv37KnGK5fgyBNOVhROTkNCgcvd10ZIAkUGCcnG1ZSisU0DhrFRxMmDYOPMx8NHGunRRYVGBcTFygYMkEiCRkcQEyEWBRTQXt3QkRCf5tAMVIeFQICBAQQEAoaKxU/hLBdRT9bLyJDQFFVTAw8IjY7EgQDBQsEEQoHMSqIZRhZBkhbIyQgDRIWDhEcQRNKCggFCgMMGQIIGSpfOzxSJWI8BAQEFA0LCgsVOx5BBAYOBgQUGAkFDiM7KShGUEM3BgYFAgEFCAkGIB41Cg4MBgUgEhUGEi0jIQkRQCcMHh0aHhogKCgrMSw1CgkEAxQkBhEUFSQnDggDBwoJExIQDwcSGRM9JkAlBAQBCx8UCgocCygaDQsHAgQGBggFCAQVDQ5EEUEICQcSHh4HCgUbFyYLDQoHAwIW",
+          "bottom": "BgYFAgEFCAkGIB41Cg4MBgUgEhUGEi0jIQkRQCcMHh0aHhogKCgrMSw1CgkEAxQkBhEUFSQnDggDBwoJExIQDwcSGRM9JkAlBAQBCx8UCgocCygaDQsHAgQGBggFCAQVDQ5EEUEICQcSHh4HCgUbFyYLDQoHAwIWBAYIDgcWDCIuLisPFBodGQwDCAsENhIHDQoEAQQrBAcPEhQWCxUbUjgQGhEPBwQJBActJw4NDgsGAgg7CwwLCxUUBhCDi9h5BiNev1w8cWU9DxsNEg4GAxJFBhMHBAgJAiugh3X9zMrysuvKxLC6VgwPEA4HAhpKQU03JlYsR2+wYCZjsphkCW+PWF2J7WMPEQ0HAh9MhJKFWodcd5RqHSQQAwIBBwoKECEav6AKEQ8GAiBNHTJsLzYnKjEgFCYMBAQEBAUJEBMFmL4ZEwoFAiFPi1guCgVSBGpcDRYKBQEEAwYMFwYOnLQDEQoGASJQZXMpCQ8dK0MZCBgUAgICBAQIDyMa1aYTEgkGAiVQZgVRDRNadYxKCAcnEwEDBQUBCQlaxGo+ODU2KDRdY5GHPUqMQLd9CRUTPQoDBQcCBgpe0ilHIiYZLjNN"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.414997,
+          "top": 21.098084,
+          "middle": 21.7965,
+          "bottom": 16.614101,
+          "effectiveRatio": 0.49551
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1453
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "f8873c2342adcf9b3def8a1ad862f2a0483a3f923ff5c06e61800d256f06c931",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 확인한 국내 언론사·야구 관련인 사진 계약 권한을 사용 근거로 기록했다. 공개 URL을 무료 이용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "롯데 자이언츠 레이예스와 손성빈",
+      "subject": "롯데 자이언츠 레이예스와 손성빈",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1013/1791818127175175.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2206854",
+      "imageCredit": "엑스포츠뉴스 · 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 · 김한준 (2026.10.12 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\reyes-story\\photos\\original-2.webp",
+      "photoDate": "2026-10-12",
+      "photoDateLabel": "2026-10-12 자료사진",
+      "checkedAt": "2026-10-15T20:19:16.388Z",
+      "context": "10월 12일 잠실 두산전 승리 뒤 손성빈이 레이예스를 안아 축하하는 실제 사진이다. 손성빈의 이름 마킹·레이예스 얼굴·롯데 유니폼과 원문 명명을 재대조했다. 기사 등록일 13일과 촬영일 12일을 구분한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:10:46.080Z",
+        "width": 1200,
+        "height": 1452,
+        "bytes": 265020,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 3.0795687818753255,
+        "entropy": 7.497573675820604,
+        "effectiveDetailRatio": 0.53897,
+        "kind": "source",
+        "coverScale": 0.93,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1013/1791818127175175.webp",
+        "sha256": "7509389d0624843a8d867f79e63ea4f3e60b154f02ef728a64546ebaf3396604",
+        "perceptualHash": "ece4f18985cdc9f3",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "UW5QTx0XCRRDZWxcXS4oJYUvIzBBXVVvNE45WzJyDjshMCkJHTpHWzgnpVZUR2NNLjM1YGFxKFlCazl1J1QHHhgdInRpcHZOf4ZzawRKTRgECRM3PUlrWDFvIRYuGSoNjZVnXG1RGUVJal5INBEICB4qV1ZnJhJYChYXIi9npEpEChIqBBgOLVojZzQPCw4jdHUlGCAiAAEIEwyVukUTBQoiGQYLJmdmYJSFJhVPipVBEw8QBAgIESKxuDEHBAkdFREXH4lmGjpyhywCG360TxIQAgIob7uTUocSDSAaGw4WEFOASgRRW103kaKOYgQJDGOqxolXKGucEyg8KCMmCSRtcTlRP29etXZXCg0Oa6BnMG9GY1NAaQkrLQ0aJSJNc2AtLwqIVhAPDgUEc0hPdC1cQgxSNRIBAwMEFB8mWUYcJlZoHAgICxFcKDdZJlxUDwsXIB8bEhcXBBEcb1dNKnI7CgsQDBmmTj94hkUjVxEGFw8LFygZFh0MYGdUJnx/HwYKD1XEenWUJzg7EDIyCgYFGh6aNDc9LjE1I1GDNQIDAYy7JEILDyYTEhMnLy8sJ6EVdwcVHSYbM19rJwkIBZumCgYJDSMrFgcSEBUkJAl+DBMHDRMGH3l1IAIEEKqSBAIEAxAdIR4dGwgUBQVtewUNSz8gDnuVLQoJOaVvDQYCAwkRDQkSI2hKA2yXp4tMaVRiMZ2tFAYDabhAFggGAgIQFAcafEyAOVJvVINBVQ5pBr1zCAg5t4oPgBUGBQQIERIrYBxRQ1iEn1hDaWFjHa96ChAulG0EvBUIAgQIBQ4QbXVpRBBeMWZ3EkslFqGQAwhDqGsEoQYGBgsKDRAOD19PCE9toHiRxYMOFpCgEAgXmooidQgJCwcWDg8cCgYeX1o6Oy5JSc+8O5CLIAJCqlppYwwOCBpCGhwEFRQuWC08X0kDDxSQWHpaJAJHh2V2fAQNFkIxRhMfChxnVBEdICAeIT1sSFcoFQcGV0wiQg0BCjFJLw4OIhYrPSUYTYuHlaa6W7uOMgEJNjQiKxkBAgczGQo4lJuhkGk6bnxudmZfIGquVxQRIC0eWCErBgoLCx+pomBgMC5wcW1NJi8kPIOXNgwNFkQQ4qV/SQ0BAj2NlGJGNyUISTxZRyMqeKyMCgwFFT8jV620yIYiDAtKlpRiRycfP1AtGQpOkpUdBQkONEM1BRM2fsWuGQwELF2Adl0cT05KOCJkrUQJDAgGUSw/BA8VHiS0gQQGCAUxY5d1nGI2FQQnq4IKBgssVQ4/BQQpPA1skAkgJyMfDSdjKQ4OCQ0xy2cGCQgTYF1BBQQTOS1NwKm5vYEVIRPTxZ6ktD2s0QwNCggBG2pCBAIHHC0Va6mmr9iRVcz/znii1v/vhwkNCBEQEAs2BAAEDhcNECUmIHHJxOSDVDBVL4irKzIRBw0KDA0MBAEEBxQRHDAaCidYboYEI085CgYLGSQVCRMNCRIRAgMCCQwLFBUaGhYREA4GBx0GBAgNChoYDAgNBhIa",
+          "top": "UW5QTx0XCRRDZWxcXS4oJYUvIzBBXVVvNE45WzJyDjshMCkJHTpHWzgnpVZUR2NNLjM1YGFxKFlCazl1J1QHHhgdInRpcHZOf4ZzawRKTRgECRM3PUlrWDFvIRYuGSoNjZVnXG1RGUVJal5INBEICB4qV1ZnJhJYChYXIi9npEpEChIqBBgOLVojZzQPCw4jdHUlGCAiAAEIEwyVukUTBQoiGQYLJmdmYJSFJhVPipVBEw8QBAgIESKxuDEHBAkdFREXH4lmGjpyhywCG360TxIQAgIob7uTUocSDSAaGw4WEFOASgRRW103kaKOYgQJDGOqxolXKGucEyg8KCMmCSRtcTlRP29etXZXCg0Oa6BnMG9GY1NAaQkrLQ0aJSJNc2AtLwqIVhAPDgUEc0hPdC1cQgxSNRIBAwMEFB8mWUYcJlZoHAgICxFcKDdZJlxUDwsXIB8bEhcXBBEcb1dNKnI7CgsQDBmmTj94hkUjVxEGFw8LFygZFh0MYGdUJnx/HwYKD1XEenWUJzg7EDIyCgYFGh6aNDc9LjE1I1GDNQIDAYy7JEILDyYTEhMnLy8sJ6EVdwcVHSYbM19rJwkIBZum",
+          "middle": "Tj94hkUjVxEGFw8LFygZFh0MYGdUJnx/HwYKD1XEenWUJzg7EDIyCgYFGh6aNDc9LjE1I1GDNQIDAYy7JEILDyYTEhMnLy8sJ6EVdwcVHSYbM19rJwkIBZumCgYJDSMrFgcSEBUkJAl+DBMHDRMGH3l1IAIEEKqSBAIEAxAdIR4dGwgUBQVtewUNSz8gDnuVLQoJOaVvDQYCAwkRDQkSI2hKA2yXp4tMaVRiMZ2tFAYDabhAFggGAgIQFAcafEyAOVJvVINBVQ5pBr1zCAg5t4oPgBUGBQQIERIrYBxRQ1iEn1hDaWFjHa96ChAulG0EvBUIAgQIBQ4QbXVpRBBeMWZ3EkslFqGQAwhDqGsEoQYGBgsKDRAOD19PCE9toHiRxYMOFpCgEAgXmooidQgJCwcWDg8cCgYeX1o6Oy5JSc+8O5CLIAJCqlppYwwOCBpCGhwEFRQuWC08X0kDDxSQWHpaJAJHh2V2fAQNFkIxRhMfChxnVBEdICAeIT1sSFcoFQcGV0wiQg0BCjFJLw4OIhYrPSUYTYuHlaa6W7uOMgEJNjQiKxkBAgczGQo4lJuhkGk6bnxudmZfIGquVxQRIC0e",
+          "bottom": "YwwOCBpCGhwEFRQuWC08X0kDDxSQWHpaJAJHh2V2fAQNFkIxRhMfChxnVBEdICAeIT1sSFcoFQcGV0wiQg0BCjFJLw4OIhYrPSUYTYuHlaa6W7uOMgEJNjQiKxkBAgczGQo4lJuhkGk6bnxudmZfIGquVxQRIC0eWCErBgoLCx+pomBgMC5wcW1NJi8kPIOXNgwNFkQQ4qV/SQ0BAj2NlGJGNyUISTxZRyMqeKyMCgwFFT8jV620yIYiDAtKlpRiRycfP1AtGQpOkpUdBQkONEM1BRM2fsWuGQwELF2Adl0cT05KOCJkrUQJDAgGUSw/BA8VHiS0gQQGCAUxY5d1nGI2FQQnq4IKBgssVQ4/BQQpPA1skAkgJyMfDSdjKQ4OCQ0xy2cGCQgTYF1BBQQTOS1NwKm5vYEVIRPTxZ6ktD2s0QwNCggBG2pCBAIHHC0Va6mmr9iRVcz/znii1v/vhwkNCBEQEAs2BAAEDhcNECUmIHHJxOSDVDBVL4irKzIRBw0KDA0MBAEEBxQRHDAaCidYboYEI085CgYLGSQVCRMNCRIRAgMCCQwLFBUaGhYREA4GBx0GBAgNChoYDAgNBhIa"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 28.259819,
+          "top": 34.552157,
+          "middle": 28.780058,
+          "bottom": 21.097593,
+          "effectiveRatio": 0.53897
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1452
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "7509389d0624843a8d867f79e63ea4f3e60b154f02ef728a64546ebaf3396604",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 확인한 국내 언론사·야구 관련인 사진 계약 권한을 사용 근거로 기록했다. 공개 URL을 무료 이용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "KT 위즈 최원준",
+      "subject": "KT 위즈 최원준",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947599191728.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207326",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "creditDisplay": "사진 · 엑스포츠뉴스 DB (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\reyes-story\\photos\\choi-won-jun-archive.webp",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 자료사진",
+      "checkedAt": "2026-10-15T20:19:16.388Z",
+      "context": "10월 14일 월간 MVP 후보 안내 기사에 실린 최원준의 실제 타격 자료사진이다. KT 검정 유니폼·최원준 한글 이름·등번호3·얼굴 측면과 팔로스루를 다시 직접 확인했다. 정확한 촬영일이 확인되지 않아 10월 12일 최종전 장면으로 쓰지 않는다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:19:16.589Z",
+        "width": 1200,
+        "height": 1450,
+        "bytes": 223072,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.9401988650889637,
+        "entropy": 7.814033096190542,
+        "effectiveDetailRatio": 0.507115,
+        "kind": "source",
+        "coverScale": 0.931,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947599191728.webp",
+        "sha256": "278a929c25fa649bc482f3e5bc9376bf970943362020c868db991c29feae048d",
+        "perceptualHash": "884ec5490b2c8458",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "TFIrYGwvfEczSSwZMEhVZbJBPRkjK3QaETg3QTE1CCdNUD5WZRAbIkxYNGNDOXZrZmgzWkYuUU44FFVnRm1kA1qQJi4YWlOEkhcVRmNLHDc9Pi5tM1OPiU6SkTs2ajB4eEY6URFgSFceNCkvWjsZRnhQJzKRg6p+Hx8JImcuRxgtQ252MzEaOFJTHzyALXo8LFZjRUVlKgQJGwlJZF8wCFycMzIoWUczGys6YylGLTA0GhgnIhUiQER0dFmMjX6UQDMad41LammraCsWChEeJAkWAS4wSSdyqmpiLjZgKCYgIGx1hVV2LWs6Fx0YFQYDLBgQf4M2jX0oOSRXcjYTFwoTF1VLemg3NTc0My0/MRVFanycPWAyFzoec1UTOigjMkgTVgFvPCwwFB0OUDlHM6pgEzRsUiJtPKs8KxkbMBwvXw5tQDo5QTJFIRghVK6AEwUzRbo8ylyHIl0kPlcsfAo6TEZTO1BBZldXeFx+KQsDEFnQI0+Zc1prbjSNNBcbFx0iGSQmOz5HHC5ISRwICRtPSR51bTxzXodOKB49OzUrIhsSOTQ0MjYtSyoHBC6SSoAlDQQGCAgGBAYNBwUJCAcKAgQCBw4MIicEEQwzlUo3GxcZGhwcHBoWFxkaIyUpDQ0NEBMYP0IYCBQVDx0tNDdARExOUE9OTU9JR0Q9Tk9RUFFSVBkLExNYfhEbJCchGQ8EBwsYIygrMzY2GyMpLi0qIyMJKLT/8PmvQBgzRVtseoaPkpaTlJKIg4eHhH9zbFkku+ePV9D//0lRXGVoamphWlVPRj83XVRLQTkxLjVBi1Y/Bg0r3KgXIR8hKzlGT1hbX19UXHV7enRgLzuRkmYyBgwHa7Y0GgsRJThJVltiX1lOcXZ2TBt8s8C/XS8BBQMJPIA9Eg0OExcYFA8NBwYLEA5s+f/cnVsoCgYEBgYGRY1fU0xHRDs0KCEbEAgEHV//z0sCDhIWGi4LAQYCgcZ4ZEQyKR0SCQIIJDEoQ6CzNUIeSWNsdYeXFQIGNv+1IzATECY/Pz5ARDAuNUSlLU4zaZW1rGqtsBICA57/JxM3NFU6NDEuIQoGKCu7amE6eolZVkRBmG0LAR//vxMRWV8cCwgSDw0LEiBQeWh3ZU9KMV04Q5U5BQJf/4g1V1kQNxcWChMjEywSPRWYU4+HLYNIHZfrOQYDjLN9dkwgHC8YGkxaDTwoMxkpoyi/OWopR1XM/08v+HmgNCwaHSsGPFohCScOLAkcLr04h1NBSn5Sy+Tv/z84eitiHBsXI1xgKzU0WFkkHWEkd8g1SpGCFmyyYYo6NytRclAcGytIPCxBIh4yDqSVuT90Q3BzNlRMdScpTGl0H0+NckkvS2Kup5yGeqJjf7o5bFY7HTJaLikaFSqDm6efI1tbT2iDcVVhQU6Edy8TMwwzMiUpJDYgHRs9fkQ+bCNTLh0YJg8NZEIvRVhVeGJCRDxHSE9JVVlWLUM5FEkeJhgQEy8hQYaAZpeTazIuPTZNUiwrKiVIEioiMzAI",
+          "top": "TFIrYGwvfEczSSwZMEhVZbJBPRkjK3QaETg3QTE1CCdNUD5WZRAbIkxYNGNDOXZrZmgzWkYuUU44FFVnRm1kA1qQJi4YWlOEkhcVRmNLHDc9Pi5tM1OPiU6SkTs2ajB4eEY6URFgSFceNCkvWjsZRnhQJzKRg6p+Hx8JImcuRxgtQ252MzEaOFJTHzyALXo8LFZjRUVlKgQJGwlJZF8wCFycMzIoWUczGys6YylGLTA0GhgnIhUiQER0dFmMjX6UQDMad41LammraCsWChEeJAkWAS4wSSdyqmpiLjZgKCYgIGx1hVV2LWs6Fx0YFQYDLBgQf4M2jX0oOSRXcjYTFwoTF1VLemg3NTc0My0/MRVFanycPWAyFzoec1UTOigjMkgTVgFvPCwwFB0OUDlHM6pgEzRsUiJtPKs8KxkbMBwvXw5tQDo5QTJFIRghVK6AEwUzRbo8ylyHIl0kPlcsfAo6TEZTO1BBZldXeFx+KQsDEFnQI0+Zc1prbjSNNBcbFx0iGSQmOz5HHC5ISRwICRtPSR51bTxzXodOKB49OzUrIhsSOTQ0MjYtSyoHBC6SSoAlDQQGCAgGBAYNBwUJCAcK",
+          "middle": "ZldXeFx+KQsDEFnQI0+Zc1prbjSNNBcbFx0iGSQmOz5HHC5ISRwICRtPSR51bTxzXodOKB49OzUrIhsSOTQ0MjYtSyoHBC6SSoAlDQQGCAgGBAYNBwUJCAcKAgQCBw4MIicEEQwzlUo3GxcZGhwcHBoWFxkaIyUpDQ0NEBMYP0IYCBQVDx0tNDdARExOUE9OTU9JR0Q9Tk9RUFFSVBkLExNYfhEbJCchGQ8EBwsYIygrMzY2GyMpLi0qIyMJKLT/8PmvQBgzRVtseoaPkpaTlJKIg4eHhH9zbFkku+ePV9D//0lRXGVoamphWlVPRj83XVRLQTkxLjVBi1Y/Bg0r3KgXIR8hKzlGT1hbX19UXHV7enRgLzuRkmYyBgwHa7Y0GgsRJThJVltiX1lOcXZ2TBt8s8C/XS8BBQMJPIA9Eg0OExcYFA8NBwYLEA5s+f/cnVsoCgYEBgYGRY1fU0xHRDs0KCEbEAgEHV//z0sCDhIWGi4LAQYCgcZ4ZEQyKR0SCQIIJDEoQ6CzNUIeSWNsdYeXFQIGNv+1IzATECY/Pz5ARDAuNUSlLU4zaZW1rGqtsBICA57/JxM3NFU6NDEuIQoG",
+          "bottom": "EA5s+f/cnVsoCgYEBgYGRY1fU0xHRDs0KCEbEAgEHV//z0sCDhIWGi4LAQYCgcZ4ZEQyKR0SCQIIJDEoQ6CzNUIeSWNsdYeXFQIGNv+1IzATECY/Pz5ARDAuNUSlLU4zaZW1rGqtsBICA57/JxM3NFU6NDEuIQoGKCu7amE6eolZVkRBmG0LAR//vxMRWV8cCwgSDw0LEiBQeWh3ZU9KMV04Q5U5BQJf/4g1V1kQNxcWChMjEywSPRWYU4+HLYNIHZfrOQYDjLN9dkwgHC8YGkxaDTwoMxkpoyi/OWopR1XM/08v+HmgNCwaHSsGPFohCScOLAkcLr04h1NBSn5Sy+Tv/z84eitiHBsXI1xgKzU0WFkkHWEkd8g1SpGCFmyyYYo6NytRclAcGytIPCxBIh4yDqSVuT90Q3BzNlRMdScpTGl0H0+NckkvS2Kup5yGeqJjf7o5bFY7HTJaLikaFSqDm6efI1tbT2iDcVVhQU6Edy8TMwwzMiUpJDYgHRs9fkQ+bCNTLh0YJg8NZEIvRVhVeGJCRDxHSE9JVVlWLUM5FEkeJhgQEy8hQYaAZpeTazIuPTZNUiwrKiVIEioiMzAI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.803851,
+          "top": 26.34203,
+          "middle": 23.931788,
+          "bottom": 31.209476,
+          "effectiveRatio": 0.507115
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1450
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "278a929c25fa649bc482f3e5bc9376bf970943362020c868db991c29feae048d",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 확인한 국내 언론사·야구 관련인 사진 계약 권한을 사용 근거로 기록했다. 공개 URL을 무료 이용권으로 간주하지 않는다."
+      }
+    },
+    {
+      "name": "롯데 자이언츠 레이예스와 윤동희",
+      "subject": "롯데 자이언츠 레이예스와 윤동희",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1013/1791818127539245.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2206856",
+      "imageCredit": "엑스포츠뉴스 · 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 · 김한준 (2026.10.12 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\reyes-story\\photos\\original-0.webp",
+      "photoDate": "2026-10-12",
+      "photoDateLabel": "2026-10-12 자료사진",
+      "checkedAt": "2026-10-15T20:19:16.388Z",
+      "context": "10월 12일 잠실 두산전이 끝난 뒤 윤동희가 레이예스를 안아 축하하는 실제 사진이다. 원문 캡션의 윤동희와 레이예스, 롯데 유니폼을 재대조했다. 3페이지 손성빈 포옹 사진과 다른 인물·원본이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:10:45.307Z",
+        "width": 1200,
+        "height": 1500,
+        "bytes": 299420,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.6458005331555774,
+        "entropy": 7.767830941360444,
+        "effectiveDetailRatio": 0.544483,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1013/1791818127539245.webp",
+        "sha256": "b2789b1c0b0d40b1a62243b5551cecc2c7c68e3d12913946f956e311dc20b929",
+        "perceptualHash": "d072e5583939b237",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "ZScGNaK2KQ0ZKz1HUFItJSNBMhwrIhcPKjtDMycr0sq/sbZeQlBPPFtUTC5jTXpJHRosOkRJKw8NDCkgYB8UOyZOZ2Y5JysbNHxMFj+dUTIXJggXNjEuKzUMYWNkVzsoFBgbHBEla2g6OAdkeyYVHhYjIhsWGT8MKxcRDRAdHisQBi1fTwkgmUFCezcLAg8fLyovGzkRDhUVDh4KGxgLDEA+HilpKcZTj0UWIR4pIgsZHTsJEg8ZFQscEBweHzo5IiVBWld4TBYzGSAbEB0gIDoKEhQpFykcHBUrJkw8LxVKTRoQXU1KJiMFDBIoN1M7HSIbKhsxFyAgTTEdFxNXVkuHODpFTBUpGS80JEARNR8GHyUOHxItKBMcKDNeJJ4VNRYiXTQTKgoUGTgEHEMhGwokMBxBPDJAPk4ae0augxolQ3kuFiQZGjwrJAo6CjhFH3x+Hh9CKUlTNLPUqpIgJm1/LhkwTz4dFkYyKTcwl38aKxwnQywzWZt01nkHIDOVVwQ6E2YSERcyFTFkaSIVPG5eXY+pTiupiA8WLRpoligsEDs0OkIyCjRFZFJNv31ufGtSnGA0DQ06ERY6f1hBPFI7FmE4KR9KRTp6kC8KHgQ5QnNhHjMaDT+QXC8gMEgqWFBJbmpcloMNvqhkSG2UpZw2HxgLQdGXdB9KYTo9bmUQLTdre2U9KIqShn13aCgNDRMZj5grLj5oVGlsEsnPVyqBKV0nLwc5WlJCGBQRDAgJOaN+hVw1QG6Ao5J3sFJdLlkqGyURLDgVSjoFEhMUFVRxDGlySHGHK56sRQ2Ts3C6mnlEKAdTsbNYCAMENztp28+hgYFRBiARDBsmiNeXw83GhWbuqpjMfR1AlrLY3UU5YzsIBgYLCyZQLDQCIk6kkZyWCS9aprPGspDJNRAJSSoMCwkKBjVMEgQEDhNRPTwUDSAhOY1/UDsUBAkPPzUMAQIECDhCEQIGEBBbRCYKAw4SHBk0PRIECw8TQjAHBQUHAzREDwMGDBAsShEIBQ0GHzMzDgUQDBQMQSAMDQ4NDSJVLQIFCBAmKxMPDQ0HIykrFAgODwMhOBcSHhoWCxBERxEEChIhOyEMCwcVEgo3Mw8MDQ8qNRYETE9DO0pDPh8DCxEdIz07PykiKykSNBUNFggdRz05XFtNQkk7ASUKCBMhBDEgIycfHBwbJRcOEgEOMkM3DwoOFwQdDRgCBBIjCB4GEwcTBAgTFBoREQQXEwgOKQwMCBEaDRsDCBQoCRsHBwgMAggQFRcTDAcTEgQBDgEKHiMZDBkGCR0oDiEQDQcNAwIMBgcCEAIZEgUGIyo4MxsgFRULCiIqCBQSDRwRDQcFFg8PDhYdKSUnTk9GNDIiGAsQCi4lJC0pLSYVCwUSNigLDyAsS0pRMCskKTlILgkMFEE7KzMqLz4uBQ4/M08BD0BLLCQpCQkEBjZXFA8GHygtGQUDDjUvEg1RE10JED9BDQMZDQsKCU1FCQ8JDDc8DAkFBUtFEgtNF1EQBzU2Dg4R",
+          "top": "ZScGNaK2KQ0ZKz1HUFItJSNBMhwrIhcPKjtDMycr0sq/sbZeQlBPPFtUTC5jTXpJHRosOkRJKw8NDCkgYB8UOyZOZ2Y5JysbNHxMFj+dUTIXJggXNjEuKzUMYWNkVzsoFBgbHBEla2g6OAdkeyYVHhYjIhsWGT8MKxcRDRAdHisQBi1fTwkgmUFCezcLAg8fLyovGzkRDhUVDh4KGxgLDEA+HilpKcZTj0UWIR4pIgsZHTsJEg8ZFQscEBweHzo5IiVBWld4TBYzGSAbEB0gIDoKEhQpFykcHBUrJkw8LxVKTRoQXU1KJiMFDBIoN1M7HSIbKhsxFyAgTTEdFxNXVkuHODpFTBUpGS80JEARNR8GHyUOHxItKBMcKDNeJJ4VNRYiXTQTKgoUGTgEHEMhGwokMBxBPDJAPk4ae0augxolQ3kuFiQZGjwrJAo6CjhFH3x+Hh9CKUlTNLPUqpIgJm1/LhkwTz4dFkYyKTcwl38aKxwnQywzWZt01nkHIDOVVwQ6E2YSERcyFTFkaSIVPG5eXY+pTiupiA8WLRpoligsEDs0OkIyCjRFZFJNv31ufGtSnGA0DQ06ERY6f1hBPFI7",
+          "middle": "FkYyKTcwl38aKxwnQywzWZt01nkHIDOVVwQ6E2YSERcyFTFkaSIVPG5eXY+pTiupiA8WLRpoligsEDs0OkIyCjRFZFJNv31ufGtSnGA0DQ06ERY6f1hBPFI7FmE4KR9KRTp6kC8KHgQ5QnNhHjMaDT+QXC8gMEgqWFBJbmpcloMNvqhkSG2UpZw2HxgLQdGXdB9KYTo9bmUQLTdre2U9KIqShn13aCgNDRMZj5grLj5oVGlsEsnPVyqBKV0nLwc5WlJCGBQRDAgJOaN+hVw1QG6Ao5J3sFJdLlkqGyURLDgVSjoFEhMUFVRxDGlySHGHK56sRQ2Ts3C6mnlEKAdTsbNYCAMENztp28+hgYFRBiARDBsmiNeXw83GhWbuqpjMfR1AlrLY3UU5YzsIBgYLCyZQLDQCIk6kkZyWCS9aprPGspDJNRAJSSoMCwkKBjVMEgQEDhNRPTwUDSAhOY1/UDsUBAkPPzUMAQIECDhCEQIGEBBbRCYKAw4SHBk0PRIECw8TQjAHBQUHAzREDwMGDBAsShEIBQ0GHzMzDgUQDBQMQSAMDQ4NDSJVLQIFCBAmKxMPDQ0HIykrFAgODwMhOBcS",
+          "bottom": "CwkKBjVMEgQEDhNRPTwUDSAhOY1/UDsUBAkPPzUMAQIECDhCEQIGEBBbRCYKAw4SHBk0PRIECw8TQjAHBQUHAzREDwMGDBAsShEIBQ0GHzMzDgUQDBQMQSAMDQ4NDSJVLQIFCBAmKxMPDQ0HIykrFAgODwMhOBcSHhoWCxBERxEEChIhOyEMCwcVEgo3Mw8MDQ8qNRYETE9DO0pDPh8DCxEdIz07PykiKykSNBUNFggdRz05XFtNQkk7ASUKCBMhBDEgIycfHBwbJRcOEgEOMkM3DwoOFwQdDRgCBBIjCB4GEwcTBAgTFBoREQQXEwgOKQwMCBEaDRsDCBQoCRsHBwgMAggQFRcTDAcTEgQBDgEKHiMZDBkGCR0oDiEQDQcNAwIMBgcCEAIZEgUGIyo4MxsgFRULCiIqCBQSDRwRDQcFFg8PDhYdKSUnTk9GNDIiGAsQCi4lJC0pLSYVCwUSNigLDyAsS0pRMCskKTlILgkMFEE7KzMqLz4uBQ4/M08BD0BLLCQpCQkEBjZXFA8GHygtGQUDDjUvEg1RE10JED9BDQMZDQsKCU1FCQ8JDDc8DAkFBUtFEgtNF1EQBzU2Dg4R"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.773379,
+          "top": 28.046423,
+          "middle": 26.663108,
+          "bottom": 16.224345,
+          "effectiveRatio": 0.544483
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1500
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "b2789b1c0b0d40b1a62243b5551cecc2c7c68e3d12913946f956e311dc20b929",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 확인한 국내 언론사·야구 관련인 사진 계약 권한을 사용 근거로 기록했다. 공개 URL을 무료 이용권으로 간주하지 않는다."
+      }
+    }
+  ]
+}
