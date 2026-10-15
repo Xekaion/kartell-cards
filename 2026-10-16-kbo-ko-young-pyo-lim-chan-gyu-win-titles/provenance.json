@@ -1,0 +1,396 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "고영표·임찬규, 15승으로 공동 다승왕",
+  "issueKey": "kbo-2026-ko-young-pyo-lim-chan-gyu-joint-win-title",
+  "checkedAt": "2026-10-15T21:58:54.175Z",
+  "sourceUrl": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=64001",
+  "corroboratingUrls": [
+    "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=61101",
+    "https://mobile.newsis.com/view/NISX20261012_0003822720",
+    "https://m.seoul.co.kr/news/sport/baseball/2026/10/13/20261013035003",
+    "https://isplus.com/article/view/isp202610110135",
+    "https://www.yna.co.kr/view/AKR20261007205400007"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=64001",
+      "publishedAt": null,
+      "role": "official-final-season-record",
+      "note": "현재 2026 조회형 공식 기록: 고영표15승7패29G172⅔IPERA3.28,승리순위1. 게시일 없음."
+    },
+    {
+      "url": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=61101",
+      "publishedAt": null,
+      "role": "official-final-season-record",
+      "note": "현재 2026 조회형 공식 기록: 임찬규15승7패31G169⅔IPERA4.46,10월12일3⅓IP2ER승리없음. 게시일 없음."
+    },
+    {
+      "url": "https://mobile.newsis.com/view/NISX20261012_0003822720",
+      "publishedAt": "2026-10-13T07:00:00+09:00",
+      "role": "current-season-title-confirmation",
+      "note": "정규시즌 종료 후 두 선수의 생애 첫 공동 다승왕 확정 결산."
+    },
+    {
+      "url": "https://m.seoul.co.kr/news/sport/baseball/2026/10/13/20261013035003",
+      "publishedAt": "2026-10-13",
+      "role": "current-season-title-confirmation",
+      "note": "10월12일 임찬규3⅓IP2실점 승리불발과 최종 공동15승 확인."
+    },
+    {
+      "url": "https://isplus.com/article/view/isp202610110135",
+      "publishedAt": "2026-10-11T18:21:00+09:00",
+      "role": "firsthand-final-win-interview",
+      "note": "고영표5IP68구4H5K1비자책점15승,종전13승,동료감사·긴장감인터뷰. 당시 미확정 상태를 당시상황으로만 사용."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261007205400007",
+      "publishedAt": "2026-10-07T22:39:00+09:00",
+      "role": "firsthand-fifteenth-win-interview",
+      "note": "LG7–5승리·임찬규5IP5R·동료와박동원감사 인터뷰. 당시 단독선두와최종공동수상 구분."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "고영표",
+      "subject": "고영표",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/06/2026100601000390100025093_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-06/202610060100039010002509",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch9\\kbo-story\\sc-ko\\photo-48fc84fcd0f4.jpg",
+      "imageCredit": "스포츠조선 정재근",
+      "creditDisplay": "사진 · 스포츠조선 정재근 (2026.10.05 자료사진)",
+      "photoDate": "2026-10-05",
+      "photoDateLabel": "2026.10.05 자료사진",
+      "checkedAt": "2026-10-15T21:57:15.075Z",
+      "context": "5일 수원 KT위즈파크에서 열린 롯데 자이언츠와 KT 위즈의 경기. KT가 정규리그 우승을 확정지은 후 축하행사를 진행했다. 고영표가 챔피언 깃발을 들고 환호하고 있다. 수원=정재근 기자 cjg@sportschosun.com/2026.10.5/",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:54:39.143Z",
+        "width": 1200,
+        "height": 1492,
+        "bytes": 896420,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.1758750995052547,
+        "entropy": 7.74780299662234,
+        "effectiveDetailRatio": 0.516122,
+        "kind": "source",
+        "coverScale": 0.905,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/06/2026100601000390100025093_w.jpg",
+        "sha256": "48fc84fcd0f4fcd711a7f5b4f9c67a2548348ade9c8673b1830813baa9ecf51b",
+        "perceptualHash": "6669686c70ceced2",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Lj5FOw4wL0M4VFRMOhk6KB46WSlJOzk1ThchCj8mdGVPZ1k8MChGNEcpKicyFmxXSDA/SQkKVV8fNEZcKCUbYj9LODY7LAweL0A2cl0jRzAIERxPBlNbWiMzk6JXJEJLGSxDUCpdIAw2FBs6LCMXJDovSykcRj01darMJYyEKXhYRR5ka0hXP0llCTFXJTYNSDdYTF4zGnXND8YZIFAmNkstPiwxYm0uU1oMTDlLPD4hDTlHQU+XSpJ2OYR0gnBMcDRHXBIka0dkUD5vJUFYXXUzUDylXUprIwgJJkYOE0Ima87I0uOrIQgcEw8vJgcfMnFsPSFpPCctHlY3kXBhgWMzE07VvHYqM0ZuinAyMyE9QQQ1WzU8QEdcdSEqJ11/hnRjNm1XI1Q7IlE2MjliZAsTPiIxVFFgIn1tckZDh6NnYS1hEksxkFI2ShhzSQkJUVNQPX4vm5eYYiguPDsWF1RVWjktQm0KVoReMxACQpcNKWuXfnwVNw4nJTIrRDhiJShEPisvVkl5YyUCCHFmUSQhSRcoIRgGGxdCKlGHI2VIKSsXNkRWozYIL6aCWVmGVxYTKD8yPFJYGXk3LA8WF0hOTCY8nGIvrbRFW1AokEAzQAsdNIwzSDIqEzozaEg6Vj4hZGkwvWNTXDRWZiEzMXJcUxd7NF5eEjU1Kl8LGWNJeVseYXUoJF0VNHA7VDkmQUwkcDBbNxs1SXw2kUM+LFcTZ5ZCakxEOXSEaD03Wik5O0s7PC4SdBM2UXhWOHUeoJAsYxlGOi4tQUxzcotlUy0mOjVfUTZGMBhVh18iV5BaFi5jJwkNFBAaSj1CLEFMfVlljnU2Jw8olz0BKIiaJlJrNQYJDRERERoLCgYpWWyXODt9JSRGiyRK4tFRFW4aZQ8BBQkOCwkQCAYJI105fF4dcUmHgyzgxTMSGFBVgS4NAwYJCAMMB2EfEiaCnHRuXXprI6zKNwwQDyCKRWgSBQYCCwYTbitgMjSrOkFhmzYKRedzEgwMCwF5LpMWExIHBAsaL3AxHDRxcyIPZ2cUk88hEA8OCgZJjHhNRSgaYjg/VB8WDwhxbD5gOWQiu38DDQ0NCw4WgRt8dEeAk5lNHJFDFyk9n1cTWKolylEEDAgQCg4kn2SRUTRqFU1rG0aTQCREcEJlP7cYxjMBCwYUBQmA0Tw1PCYdKBQvRiSMZyMdlzVFTcQdwxwGEgkOCQuHqCUELz8lUxsYTTOoWBYPlVwmatReoA8JDQ0KBguJrC5QewkhI4BUNE+nYg4aQKNSlbCUcwcLCA0KCQypj1RyQX1zq2RpaT2VbAkSKohKz2u2SgUOCQsTD2TzJkMNLD5GIVQmXGacLAsIBWiAwiS2LgUXFQ4aS6xzal6LaE0xORtXYno5BwkJL3NobGSoHxkVITZDFjDApoxlIk9MYYBqHwhHOkRPaQ8YL6euCBkcHhcdRjFHXSkLBgUBGksvQTNILyQ9Qh4nLLpjHwkKDys9IAsCCAoDAQQFAhkvMjFDQkZTSCNB",
+          "top": "Lj5FOw4wL0M4VFRMOhk6KB46WSlJOzk1ThchCj8mdGVPZ1k8MChGNEcpKicyFmxXSDA/SQkKVV8fNEZcKCUbYj9LODY7LAweL0A2cl0jRzAIERxPBlNbWiMzk6JXJEJLGSxDUCpdIAw2FBs6LCMXJDovSykcRj01darMJYyEKXhYRR5ka0hXP0llCTFXJTYNSDdYTF4zGnXND8YZIFAmNkstPiwxYm0uU1oMTDlLPD4hDTlHQU+XSpJ2OYR0gnBMcDRHXBIka0dkUD5vJUFYXXUzUDylXUprIwgJJkYOE0Ima87I0uOrIQgcEw8vJgcfMnFsPSFpPCctHlY3kXBhgWMzE07VvHYqM0ZuinAyMyE9QQQ1WzU8QEdcdSEqJ11/hnRjNm1XI1Q7IlE2MjliZAsTPiIxVFFgIn1tckZDh6NnYS1hEksxkFI2ShhzSQkJUVNQPX4vm5eYYiguPDsWF1RVWjktQm0KVoReMxACQpcNKWuXfnwVNw4nJTIrRDhiJShEPisvVkl5YyUCCHFmUSQhSRcoIRgGGxdCKlGHI2VIKSsXNkRWozYIL6aCWVmGVxYTKD8yPFJYGXk3LA8WF0hO",
+          "middle": "VoReMxACQpcNKWuXfnwVNw4nJTIrRDhiJShEPisvVkl5YyUCCHFmUSQhSRcoIRgGGxdCKlGHI2VIKSsXNkRWozYIL6aCWVmGVxYTKD8yPFJYGXk3LA8WF0hOTCY8nGIvrbRFW1AokEAzQAsdNIwzSDIqEzozaEg6Vj4hZGkwvWNTXDRWZiEzMXJcUxd7NF5eEjU1Kl8LGWNJeVseYXUoJF0VNHA7VDkmQUwkcDBbNxs1SXw2kUM+LFcTZ5ZCakxEOXSEaD03Wik5O0s7PC4SdBM2UXhWOHUeoJAsYxlGOi4tQUxzcotlUy0mOjVfUTZGMBhVh18iV5BaFi5jJwkNFBAaSj1CLEFMfVlljnU2Jw8olz0BKIiaJlJrNQYJDRERERoLCgYpWWyXODt9JSRGiyRK4tFRFW4aZQ8BBQkOCwkQCAYJI105fF4dcUmHgyzgxTMSGFBVgS4NAwYJCAMMB2EfEiaCnHRuXXprI6zKNwwQDyCKRWgSBQYCCwYTbitgMjSrOkFhmzYKRedzEgwMCwF5LpMWExIHBAsaL3AxHDRxcyIPZ2cUk88hEA8OCgZJjHhNRSgaYjg/VB8WDwhxbD5g",
+          "bottom": "cUmHgyzgxTMSGFBVgS4NAwYJCAMMB2EfEiaCnHRuXXprI6zKNwwQDyCKRWgSBQYCCwYTbitgMjSrOkFhmzYKRedzEgwMCwF5LpMWExIHBAsaL3AxHDRxcyIPZ2cUk88hEA8OCgZJjHhNRSgaYjg/VB8WDwhxbD5gOWQiu38DDQ0NCw4WgRt8dEeAk5lNHJFDFyk9n1cTWKolylEEDAgQCg4kn2SRUTRqFU1rG0aTQCREcEJlP7cYxjMBCwYUBQmA0Tw1PCYdKBQvRiSMZyMdlzVFTcQdwxwGEgkOCQuHqCUELz8lUxsYTTOoWBYPlVwmatReoA8JDQ0KBguJrC5QewkhI4BUNE+nYg4aQKNSlbCUcwcLCA0KCQypj1RyQX1zq2RpaT2VbAkSKohKz2u2SgUOCQsTD2TzJkMNLD5GIVQmXGacLAsIBWiAwiS2LgUXFQ4aS6xzal6LaE0xORtXYno5BwkJL3NobGSoHxkVITZDFjDApoxlIk9MYYBqHwhHOkRPaQ8YL6euCBkcHhcdRjFHXSkLBgUBGksvQTNILyQ9Qh4nLLpjHwkKDys9IAsCCAoDAQQFAhkvMjFDQkZTSCNB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.663709,
+          "top": 18.55006,
+          "middle": 19.763074,
+          "bottom": 28.671549,
+          "effectiveRatio": 0.516122
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1492
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "48fc84fcd0f4fcd711a7f5b4f9c67a2548348ade9c8673b1830813baa9ecf51b",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 언론사가 실제 게재한 사진에 사용자 제공 계약 권한을 적용한다. 공개 URL 자체를 무료 사용권으로 간주하지 않는다."
+      },
+      "visualReviewNote": "정규리그 우승 축하행사에서 챔피언 깃발을 든 고영표. 얼굴·모자·깃발 손잡이가 명확하다. 관중은 배경이다."
+    },
+    {
+      "name": "임찬규",
+      "subject": "임찬규",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/07/2026100701000516200033291_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-07/202610070100051620003329",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch9\\kbo-story\\sc-lim\\photo-4b8b2f42c1b8.jpg",
+      "imageCredit": "스포츠조선 박재만",
+      "creditDisplay": "사진 · 스포츠조선 박재만 (2026.10.07 자료사진)",
+      "photoDate": "2026-10-07",
+      "photoDateLabel": "2026.10.07 자료사진",
+      "checkedAt": "2026-10-15T21:57:15.075Z",
+      "context": "[포토] LG 임찬규, 승리 투수",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:54:52.706Z",
+        "width": 1200,
+        "height": 1702,
+        "bytes": 1089977,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.713469025936518,
+        "entropy": 7.653368384693749,
+        "effectiveDetailRatio": 0.518267,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/07/2026100701000516200033291_w.jpg",
+        "sha256": "4b8b2f42c1b8aa70230b5bf03c67cd3744cd93b6658b46bdf8a795b7e53ad316",
+        "perceptualHash": "634b696d8c0c4495",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "F7q3N2FITGIwOmUlJaQ9N3XCdz5tOV4wUGlsYlxDXb9YOFYYUmM5Gngb+KDx2jAiZr0/TXRXEUJAZExfW0R5My4wakRPGFNrmkUc7K0gFaiLdTZhYo5LSl08KEFkfS5SSC8vBDJvNS0uo8gcE0R2SUUjUTYOTUscbw8nXnFaJBEEICtbFRg7gei1FScoDHdEUDwdJhgNUBEUGjglJiUeJS5JJjMVK3KWj15sSyxaOjc2GBlXLxAVBhE0MRwmQxxHRzAfJlrgL5MPbwwlQUgpDhhVRDpDQj9bYkpUWhx2X2xlKIlIWDtrSh8ORxQMEhEvEwcJMyY8ZoOQhFxmhU46PGZhGitLLCgYLDcvLy9iR6OrZIGXdCgJFho3TWBxHIpTJR0xOSQpBwEBBwUemWZ/YYCMtK9PQDU0UFEwzIkeFyI0XJ9ygIF0U1IwSuA+GkQRMmlZFi4laYLHgRUyIhgjgDyco7bDu8KyDn+WR1E4W4EZEjtFJkYpSDsdBQsnJtp/Jh81RExeIy1mWFiBlj8ZCxAtMzE7KRQGERQaK03kVg0PDRR9NiFroWJMYDAyHR8VBwoJFTA3IhsVMBXYthEeEDLGKh6xiqfTRzUoERYMDRASMS0ZUzkhNRh8+TQeHCfOLBSB/x3IkRk3EQoODAwQFTs8LD0uDSxbyaNSHkPfN1gL2pfCSxApFBoTAgsJBxEgG0cIPCgdPZdRbSrZATtDXo1EDAQfBhARBgQOBxEgHEAeKBYBDmmXVkDVBj5XKV4iHgQaDQcQBQQLFRwRIhoVFRkGD6aZG2LcCjxfD1wNMQ0aDQkNAggJGgsgIRQGERoPC0PZ3ouWDjNbGVwGNwofDQgMBAMLDgoiIw4cFRsWBCVokKwxBzNVKlULNAwcEQsECAYMCAsYDyAUIh4aAR8keao9BkFERkgNMRsdGAUHCgsPBAobIRwQJyUjARckkFxIBkssVTYNJiQSGQMGDwoPCQYgDB4rBjIoBiE9XSU7BlwNXh8FHSEJFgMBDwgMDAsYEgYqKTQdEikpfiUdNlszVhIOHTYNGgQECwgHDAQeFhsZOSkIFigLhT8jTzJWKhkLNRUqEgMHBwkHDg4PIRouGRAWGBkadm02URFTGxEWJRsOEQkDBQkDFAcNBiYaDEAHGgssM39iSAhUKyQqEBAMFAsGBgwHEBEODhYfNDAiIRUqBzZGPCM2ExcHFgUTGxMLBw4NBA8fBhsmPggpCx8UBRcqLTc6KCIHDhUFEBsSDQ0VFSQRGxosHBoZEgoIDB02FSxwnnwcBw0GBhAQDwgJEQ8NDQYOGxMKCQ4JJw1EBHL/b7RpDxYMGgQKDwoDFxwbDxUaKSgIDEQ2Dyo5JL+xXXluExpmORcgIiUeHBcoO09DljsYR6ewbBoqMqlYQkJKFk2i8bFnTT5lpb/Gv8N7a5sLtIGAsz4jWrUrGFVFDIDBgsve0rfLr5KEeXU1OJUdgUswhlMkSXRORV4oCIatDxExQUQ3FAcJC1YrOpBcqVF0bjlI",
+          "top": "F7q3N2FITGIwOmUlJaQ9N3XCdz5tOV4wUGlsYlxDXb9YOFYYUmM5Gngb+KDx2jAiZr0/TXRXEUJAZExfW0R5My4wakRPGFNrmkUc7K0gFaiLdTZhYo5LSl08KEFkfS5SSC8vBDJvNS0uo8gcE0R2SUUjUTYOTUscbw8nXnFaJBEEICtbFRg7gei1FScoDHdEUDwdJhgNUBEUGjglJiUeJS5JJjMVK3KWj15sSyxaOjc2GBlXLxAVBhE0MRwmQxxHRzAfJlrgL5MPbwwlQUgpDhhVRDpDQj9bYkpUWhx2X2xlKIlIWDtrSh8ORxQMEhEvEwcJMyY8ZoOQhFxmhU46PGZhGitLLCgYLDcvLy9iR6OrZIGXdCgJFho3TWBxHIpTJR0xOSQpBwEBBwUemWZ/YYCMtK9PQDU0UFEwzIkeFyI0XJ9ygIF0U1IwSuA+GkQRMmlZFi4laYLHgRUyIhgjgDyco7bDu8KyDn+WR1E4W4EZEjtFJkYpSDsdBQsnJtp/Jh81RExeIy1mWFiBlj8ZCxAtMzE7KRQGERQaK03kVg0PDRR9NiFroWJMYDAyHR8VBwoJFTA3IhsVMBXYthEeEDLG",
+          "middle": "Dn+WR1E4W4EZEjtFJkYpSDsdBQsnJtp/Jh81RExeIy1mWFiBlj8ZCxAtMzE7KRQGERQaK03kVg0PDRR9NiFroWJMYDAyHR8VBwoJFTA3IhsVMBXYthEeEDLGKh6xiqfTRzUoERYMDRASMS0ZUzkhNRh8+TQeHCfOLBSB/x3IkRk3EQoODAwQFTs8LD0uDSxbyaNSHkPfN1gL2pfCSxApFBoTAgsJBxEgG0cIPCgdPZdRbSrZATtDXo1EDAQfBhARBgQOBxEgHEAeKBYBDmmXVkDVBj5XKV4iHgQaDQcQBQQLFRwRIhoVFRkGD6aZG2LcCjxfD1wNMQ0aDQkNAggJGgsgIRQGERoPC0PZ3ouWDjNbGVwGNwofDQgMBAMLDgoiIw4cFRsWBCVokKwxBzNVKlULNAwcEQsECAYMCAsYDyAUIh4aAR8keao9BkFERkgNMRsdGAUHCgsPBAobIRwQJyUjARckkFxIBkssVTYNJiQSGQMGDwoPCQYgDB4rBjIoBiE9XSU7BlwNXh8FHSEJFgMBDwgMDAsYEgYqKTQdEikpfiUdNlszVhIOHTYNGgQECwgHDAQeFhsZOSkIFigLhT8j",
+          "bottom": "BkFERkgNMRsdGAUHCgsPBAobIRwQJyUjARckkFxIBkssVTYNJiQSGQMGDwoPCQYgDB4rBjIoBiE9XSU7BlwNXh8FHSEJFgMBDwgMDAsYEgYqKTQdEikpfiUdNlszVhIOHTYNGgQECwgHDAQeFhsZOSkIFigLhT8jTzJWKhkLNRUqEgMHBwkHDg4PIRouGRAWGBkadm02URFTGxEWJRsOEQkDBQkDFAcNBiYaDEAHGgssM39iSAhUKyQqEBAMFAsGBgwHEBEODhYfNDAiIRUqBzZGPCM2ExcHFgUTGxMLBw4NBA8fBhsmPggpCx8UBRcqLTc6KCIHDhUFEBsSDQ0VFSQRGxosHBoZEgoIDB02FSxwnnwcBw0GBhAQDwgJEQ8NDQYOGxMKCQ4JJw1EBHL/b7RpDxYMGgQKDwoDFxwbDxUaKSgIDEQ2Dyo5JL+xXXluExpmORcgIiUeHBcoO09DljsYR6ewbBoqMqlYQkJKFk2i8bFnTT5lpb/Gv8N7a5sLtIGAsz4jWrUrGFVFDIDBgsve0rfLr5KEeXU1OJUdgUswhlMkSXRORV4oCIatDxExQUQ3FAcJC1YrOpBcqVF0bjlI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.19255,
+          "top": 17.867613,
+          "middle": 20.176793,
+          "bottom": 24.250879,
+          "effectiveRatio": 0.518267
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1702
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "4b8b2f42c1b8aa70230b5bf03c67cd3744cd93b6658b46bdf8a795b7e53ad316",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 언론사가 실제 게재한 사진에 사용자 제공 계약 권한을 적용한다. 공개 URL 자체를 무료 사용권으로 간주하지 않는다."
+      },
+      "visualReviewNote": "두산전 승리 뒤 임찬규. 얼굴과 머리가 명확하고 양옆 동료는 부분적으로만 들어온 배경 인물이다."
+    },
+    {
+      "name": "고영표",
+      "subject": "고영표",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/11/2026101101000657800042553_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-11/202610110100065780004255",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch9\\kbo-story\\sc-ko\\photo-5c4213a3d5bf.jpg",
+      "imageCredit": "스포츠조선 송정헌",
+      "creditDisplay": "사진 · 스포츠조선 송정헌 (2026.10.03 자료사진)",
+      "photoDate": "2026-10-03",
+      "photoDateLabel": "2026.10.03 자료사진",
+      "checkedAt": "2026-10-15T21:57:15.075Z",
+      "context": "3일 수원 케이티위즈파크에서 열린 KT와 롯데의 경기. 선발 투구하고 있는 KT 고영표. 수원=송정헌 기자 songs@sportschosun.com/2026.10.03/",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:54:34.954Z",
+        "width": 1200,
+        "height": 1631,
+        "bytes": 940870,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9108301367616505,
+        "entropy": 7.24014231437468,
+        "effectiveDetailRatio": 0.47991,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/11/2026101101000657800042553_w.jpg",
+        "sha256": "5c4213a3d5bf551452c697a1a95a4f31bd4adcb560205c5dc23239a47ef5a72b",
+        "perceptualHash": "f47aee70b4e47297",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "f4AwBixEORQpJUdjSW1GBQICBAQEAgMEAgABAAEGi5SDTaGeoXwBK0iisXk0MAMBBAQDAQEEAwABAgUyOlxfnI1Vb7SAHUJiLTiHNwgDAwQDAQIEAgEBBSqHIjk0ZxZKI6yIJBl3gntRRSEHAgQDAAMDAgEABTmUIiUVKElcT4qRTXpYWW69hAsCBAQDAQQFAgEAAhBdIiQQI1RPYINhdW44HllYnF8TAQQDAQMFAgEBAQMPIjQzXQ5WKohvXjc5MTILdXgMAQYDAAMFAwEAAAEBJ1VPoXAeNFckRg9CE1UHqVkFBQQCAQMGAwEAAQMFK1+ZVoQ7CVtvhlciNzJckRsKCwkEAQMFBAECAQFXKF6XPqFGG0DcKng/OEAhcl1ENx8HAgMFAwIBAj6mM2JtboEVOWJIW0cqMlUvPyM2XWRDBAYEAwEBAliUUGZlZ2sgV4DJZE9pNSmTYDBINz9KQAMGAwEBAx14XGmCYK5ByLJKLRE6kqCcMRxMbWxjBBoHAgEBAQQdiY+OHpuRmw8fIypZOktNTR42JhRANgkCBQEAAQEEiYk/CiozMi0NHyFARWteNz4gFSomRRUFBgEBAAEBKigIKjAhKy8yFysnZRcWQEAMI3qCID4OAwMBAAABAwICGCNCLCdujDoVJ05GSxILdHZ7dDY9CwIBAAABCggECxUKJHBXiaY2JAoWGBIEDVweHgFAJQIEAgMEBAQDDwsjGQ6GIKdMPCIFBBIJGqx0axIlLAoEBAQDAQMEERsSIUs5JFc+UkAEBQ0JiqecjyoyIgYFBQQECgkJFSU0RzcjSVOHNTgKFAkZf4CoghJJaRwKBQcHJScmOAtpUkZCWVsJWH5rOSZd5T2NgU6rJmFKMzQzbGpldG86RB8ZHTVHTBY7PDruxDeBrS0WgDhZcW1tW1paWpBnGikyExUfPVM/O5qjKTURhZhYL4VrTUNGIiQlHJuwfeffgRwNDxowVbZPVC0ytHKhtzqRVRsWBgUHCZZK/6Gn/3gSDAwWKqrNflODiJm3OXg9dxQJAwQDDlWNkH1r/ZwSCQkJCjeMl4ZtM4Op0mFWXSoHBAMCBhGfMenv4ioGAgIEBQUEHxhmCE95IkGAiDMJBAQEBwpB75SZJAkEAQIFAwQIN97NehAdQi89l1QKBwYGBQEctuYnBQoDAwQFAwYRyP+O/zpCWgwjXnEcBgYGBwszQ/+aXQoJCAQKCBGM/4wU/OttMTaFqEMCAgIDAwgoIJnx5qdPZIFsb5XRk0wkNbGaUJeSOAkDAwIBAQQYJxlZddzCwbKlnpZ1NzgsJTswTD8LEQsIBgYFBQYRJxMdCj1zYD06Pkc6HyEnLkIKCRINCAsLAQICAwQJLSUsMBgbFiEfJTocEx0WODYHAQEBAgIDCAgGCAYFEj0QDAYNIzYIPCkOEBkIPSgKCAkJCQcHAQICAwICBikcFxQRESAnRC8OExUQPBcPDhcRFREVGxoaHBoZGx4eCxEQCwgYQxoKFhgmKxgaExMSFBQV",
+          "top": "f4AwBixEORQpJUdjSW1GBQICBAQEAgMEAgABAAEGi5SDTaGeoXwBK0iisXk0MAMBBAQDAQEEAwABAgUyOlxfnI1Vb7SAHUJiLTiHNwgDAwQDAQIEAgEBBSqHIjk0ZxZKI6yIJBl3gntRRSEHAgQDAAMDAgEABTmUIiUVKElcT4qRTXpYWW69hAsCBAQDAQQFAgEAAhBdIiQQI1RPYINhdW44HllYnF8TAQQDAQMFAgEBAQMPIjQzXQ5WKohvXjc5MTILdXgMAQYDAAMFAwEAAAEBJ1VPoXAeNFckRg9CE1UHqVkFBQQCAQMGAwEAAQMFK1+ZVoQ7CVtvhlciNzJckRsKCwkEAQMFBAECAQFXKF6XPqFGG0DcKng/OEAhcl1ENx8HAgMFAwIBAj6mM2JtboEVOWJIW0cqMlUvPyM2XWRDBAYEAwEBAliUUGZlZ2sgV4DJZE9pNSmTYDBINz9KQAMGAwEBAx14XGmCYK5ByLJKLRE6kqCcMRxMbWxjBBoHAgEBAQQdiY+OHpuRmw8fIypZOktNTR42JhRANgkCBQEAAQEEiYk/CiozMi0NHyFARWteNz4gFSomRRUFBgEBAAEB",
+          "middle": "XGmCYK5ByLJKLRE6kqCcMRxMbWxjBBoHAgEBAQQdiY+OHpuRmw8fIypZOktNTR42JhRANgkCBQEAAQEEiYk/CiozMi0NHyFARWteNz4gFSomRRUFBgEBAAEBKigIKjAhKy8yFysnZRcWQEAMI3qCID4OAwMBAAABAwICGCNCLCdujDoVJ05GSxILdHZ7dDY9CwIBAAABCggECxUKJHBXiaY2JAoWGBIEDVweHgFAJQIEAgMEBAQDDwsjGQ6GIKdMPCIFBBIJGqx0axIlLAoEBAQDAQMEERsSIUs5JFc+UkAEBQ0JiqecjyoyIgYFBQQECgkJFSU0RzcjSVOHNTgKFAkZf4CoghJJaRwKBQcHJScmOAtpUkZCWVsJWH5rOSZd5T2NgU6rJmFKMzQzbGpldG86RB8ZHTVHTBY7PDruxDeBrS0WgDhZcW1tW1paWpBnGikyExUfPVM/O5qjKTURhZhYL4VrTUNGIiQlHJuwfeffgRwNDxowVbZPVC0ytHKhtzqRVRsWBgUHCZZK/6Gn/3gSDAwWKqrNflODiJm3OXg9dxQJAwQDDlWNkH1r/ZwSCQkJCjeMl4ZtM4Op0mFWXSoH",
+          "bottom": "W1paWpBnGikyExUfPVM/O5qjKTURhZhYL4VrTUNGIiQlHJuwfeffgRwNDxowVbZPVC0ytHKhtzqRVRsWBgUHCZZK/6Gn/3gSDAwWKqrNflODiJm3OXg9dxQJAwQDDlWNkH1r/ZwSCQkJCjeMl4ZtM4Op0mFWXSoHBAMCBhGfMenv4ioGAgIEBQUEHxhmCE95IkGAiDMJBAQEBwpB75SZJAkEAQIFAwQIN97NehAdQi89l1QKBwYGBQEctuYnBQoDAwQFAwYRyP+O/zpCWgwjXnEcBgYGBwszQ/+aXQoJCAQKCBGM/4wU/OttMTaFqEMCAgIDAwgoIJnx5qdPZIFsb5XRk0wkNbGaUJeSOAkDAwIBAQQYJxlZddzCwbKlnpZ1NzgsJTswTD8LEQsIBgYFBQYRJxMdCj1zYD06Pkc6HyEnLkIKCRINCAsLAQICAwQJLSUsMBgbFiEfJTocEx0WODYHAQEBAgIDCAgGCAYFEj0QDAYNIzYIPCkOEBkIPSgKCAkJCQcHAQICAwICBikcFxQRESAnRC8OExUQPBcPDhcRFREVGxoaHBoZGx4eCxEQCwgYQxoKFhgmKxgaExMSFBQV"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.490637,
+          "top": 25.037563,
+          "middle": 34.783112,
+          "bottom": 27.036901,
+          "effectiveRatio": 0.47991
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1631
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5c4213a3d5bf551452c697a1a95a4f31bd4adcb560205c5dc23239a47ef5a72b",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 언론사가 실제 게재한 사진에 사용자 제공 계약 권한을 적용한다. 공개 URL 자체를 무료 사용권으로 간주하지 않는다."
+      },
+      "visualReviewNote": "롯데전 선발 투구 중인 고영표. 얼굴과 모자·공·던지는 손·글러브가 모두 명확하다."
+    },
+    {
+      "name": "임찬규",
+      "subject": "임찬규",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/12/2026101201000775000050261_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-12/202610120100077500005026",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch9\\kbo-story\\sc-lim\\photo-d25a432cc8d9.jpg",
+      "imageCredit": "스포츠조선 박재만",
+      "creditDisplay": "사진 · 스포츠조선 박재만 (2026.10.12 자료사진)",
+      "photoDate": "2026-10-12",
+      "photoDateLabel": "2026.10.12 자료사진",
+      "checkedAt": "2026-10-15T21:57:15.075Z",
+      "context": "[포토] 임찬규, 역투",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:54:50.650Z",
+        "width": 1200,
+        "height": 1497,
+        "bytes": 1390610,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.8489237075394693,
+        "entropy": 7.297487208619714,
+        "effectiveDetailRatio": 0.442083,
+        "kind": "source",
+        "coverScale": 0.902,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/12/2026101201000775000050261_w.jpg",
+        "sha256": "d25a432cc8d984f406dc09e72a8f433bb407a3a70bd91ca7d1bdd75b4116b018",
+        "perceptualHash": "49999f3030c61bc9",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwECAwMCAgQDAQeM6VO51i8GCgMBAgACBAQCBgUBAQMDAQICAwEEBgdimtvrXggFCgICAAECBAEDBAICAgQAAQEFAQEIEGNRT3dBDQICCgYAAAMDAwIEBAMBAwEEBAQCBAgZLi4sLA0NLA4LDg4GBQQFBAUEBQYFAwQFBwUGAxIIEFo/clQePi0BCAsIAwYDBAEEBAICAgEFBwUFAwQWfLhSL6gcFkEeBwoDAQABAQMBAQQAAQAEBAMBBQRq43xbL425LisSBAQCAgIBAwEBBAMCAQECAwIDAwGBqigcSRW9oGwIBAUBAQEDAAEBAQMCAQEEAwECAgmKihgjJzNQ2WUHBgQDAgECAAIEAgICAgEBAgQCBQhhv0UaLaTjiE8IAgIDAwYDBAMCBAMCAAIBBwMEBAktvLdCl8pdRRBbTg8LBAMCAwQBAgQCAgIFBQIEAwQKMrhHazMPBFhPpYEhCwMDBAACAQECBAIEBAIAAwMKHLCae4YBFzW4JXt4NwoEBQcEBAEBAwQEBQQEAhA01tNsURgHGRtWpFkFUjIGAAMCBAMEBAIHGRUIElr/8mSf9VsQHwoFMD08MiQEBQUDBAUBDws6yLM5uv/RECpf8IIXFBISEAclFhIYDh4pKhwPPSjq5ui68F6Bs83/7xQfHCIQHQsREggVUH6Bg3heP0Xock1ZD3mhuK2mSDQhNxENFw4FBxNHY2VubX+MKBWu/8U4HjbEhFFBFhIwFAgJEhULF4gMkqUlBRhFGDkdib6qGSNFu6RnMBMREg0OGwcDlRSbH7evQjMZcoiDPYuWIRQ1GZyoOw4eCwIJFRESHpoyKiSicUhZcXCSg6xZEAcTBRfCuCkTEAsFGBsOGA0VAwZCUBcwISA7fGIdFA0WAxoQto4VCR8WCg0XFx4iGAhjUispDBMTMCYgKCUgJTGVv0ciVpWhSiIZJhUPIAJLeSoRCxQVCysoICwxNVSIT3KJ0eDt/++XGxwRGCA5gE1FCAUNCC00IhtAPSxwxIqXtlc7isf/8AkQEyIQSFxKEQcFCzNMQzgaeadhQFZ/NA8LDAtB/+kgBziTSyQZORgFJGF8VDHOrC9dOnEeCRcLCxYeNP+oP3mgeVEHXksPWIRrev9Mfi52bBASAQ8fFAYVGn3/sZwrZFY6M2EiY3id/wqGMJBEERQNERogJxgNAwxw9YULRSpJF1FSHqOgQEltexcVCBMXISMkLzQeDA4OLlZtVRQZKlFlnBRkEYRaCxcQGCczICQ4Tkw5Jh4IQkc7pycyIjPCPU06RS1qf4FuamEkIUlYWnNuVi8hpEFCbYgwFbZ2SDpqq7CchElOXkI3YGVCIlB5b0GOkWpzTrFImZMTPmNwOBsdNCJKBgheWzIRBxE0Z1W4SJFec8Q3qz0mMUQVVQ49OnEuWCM5PCYLCQQiJ1sqUk1BbWJfdRg0ZGccQHtIMi6VIClsTlI0GxZgQCMxMzU/Lkd6DVSEgEgpQxcIDXBgLVELZTZpNDJxK1UYQFwwN0My",
+          "top": "AwECAwMCAgQDAQeM6VO51i8GCgMBAgACBAQCBgUBAQMDAQICAwEEBgdimtvrXggFCgICAAECBAEDBAICAgQAAQEFAQEIEGNRT3dBDQICCgYAAAMDAwIEBAMBAwEEBAQCBAgZLi4sLA0NLA4LDg4GBQQFBAUEBQYFAwQFBwUGAxIIEFo/clQePi0BCAsIAwYDBAEEBAICAgEFBwUFAwQWfLhSL6gcFkEeBwoDAQABAQMBAQQAAQAEBAMBBQRq43xbL425LisSBAQCAgIBAwEBBAMCAQECAwIDAwGBqigcSRW9oGwIBAUBAQEDAAEBAQMCAQEEAwECAgmKihgjJzNQ2WUHBgQDAgECAAIEAgICAgEBAgQCBQhhv0UaLaTjiE8IAgIDAwYDBAMCBAMCAAIBBwMEBAktvLdCl8pdRRBbTg8LBAMCAwQBAgQCAgIFBQIEAwQKMrhHazMPBFhPpYEhCwMDBAACAQECBAIEBAIAAwMKHLCae4YBFzW4JXt4NwoEBQcEBAEBAwQEBQQEAhA01tNsURgHGRtWpFkFUjIGAAMCBAMEBAIHGRUIElr/8mSf9VsQHwoFMD08MiQEBQUDBAUB",
+          "middle": "BAIEBAIAAwMKHLCae4YBFzW4JXt4NwoEBQcEBAEBAwQEBQQEAhA01tNsURgHGRtWpFkFUjIGAAMCBAMEBAIHGRUIElr/8mSf9VsQHwoFMD08MiQEBQUDBAUBDws6yLM5uv/RECpf8IIXFBISEAclFhIYDh4pKhwPPSjq5ui68F6Bs83/7xQfHCIQHQsREggVUH6Bg3heP0Xock1ZD3mhuK2mSDQhNxENFw4FBxNHY2VubX+MKBWu/8U4HjbEhFFBFhIwFAgJEhULF4gMkqUlBRhFGDkdib6qGSNFu6RnMBMREg0OGwcDlRSbH7evQjMZcoiDPYuWIRQ1GZyoOw4eCwIJFRESHpoyKiSicUhZcXCSg6xZEAcTBRfCuCkTEAsFGBsOGA0VAwZCUBcwISA7fGIdFA0WAxoQto4VCR8WCg0XFx4iGAhjUispDBMTMCYgKCUgJTGVv0ciVpWhSiIZJhUPIAJLeSoRCxQVCysoICwxNVSIT3KJ0eDt/++XGxwRGCA5gE1FCAUNCC00IhtAPSxwxIqXtlc7isf/8AkQEyIQSFxKEQcFCzNMQzgaeadhQFZ/NA8LDAtB/+kgBziTSyQZ",
+          "bottom": "DBMTMCYgKCUgJTGVv0ciVpWhSiIZJhUPIAJLeSoRCxQVCysoICwxNVSIT3KJ0eDt/++XGxwRGCA5gE1FCAUNCC00IhtAPSxwxIqXtlc7isf/8AkQEyIQSFxKEQcFCzNMQzgaeadhQFZ/NA8LDAtB/+kgBziTSyQZORgFJGF8VDHOrC9dOnEeCRcLCxYeNP+oP3mgeVEHXksPWIRrev9Mfi52bBASAQ8fFAYVGn3/sZwrZFY6M2EiY3id/wqGMJBEERQNERogJxgNAwxw9YULRSpJF1FSHqOgQEltexcVCBMXISMkLzQeDA4OLlZtVRQZKlFlnBRkEYRaCxcQGCczICQ4Tkw5Jh4IQkc7pycyIjPCPU06RS1qf4FuamEkIUlYWnNuVi8hpEFCbYgwFbZ2SDpqq7CchElOXkI3YGVCIlB5b0GOkWpzTrFImZMTPmNwOBsdNCJKBgheWzIRBxE0Z1W4SJFec8Q3qz0mMUQVVQ49OnEuWCM5PCYLCQQiJ1sqUk1BbWJfdRg0ZGccQHtIMi6VIClsTlI0GxZgQCMxMzU/Lkd6DVSEgEgpQxcIDXBgLVELZTZpNDJxK1UYQFwwN0My"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 28.061533,
+          "top": 19.92937,
+          "middle": 24.697091,
+          "bottom": 36.458639,
+          "effectiveRatio": 0.442083
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1497
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d25a432cc8d984f406dc09e72a8f433bb407a3a70bd91ca7d1bdd75b4116b018",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 언론사가 실제 게재한 사진에 사용자 제공 계약 권한을 적용한다. 공개 URL 자체를 무료 사용권으로 간주하지 않는다."
+      },
+      "visualReviewNote": "KIA전 선발 투구 중인 임찬규. 얼굴과 모자·글러브·공을 쥔 손이 남고 투구 자세가 뚜렷하다."
+    },
+    {
+      "name": "고영표",
+      "subject": "고영표",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/07/2026100701000499500032033_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-07/202610070100049950003203",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch9\\kbo-story\\sc-lim\\photo-18abac31a65b.jpg",
+      "imageCredit": "스포츠조선 송정헌",
+      "creditDisplay": "사진 · 스포츠조선 송정헌 (2026.10.03 자료사진)",
+      "photoDate": "2026-10-03",
+      "photoDateLabel": "2026.10.03 자료사진",
+      "checkedAt": "2026-10-15T21:57:15.075Z",
+      "context": "3일 수원 케이티위즈파크에서 열린 KT와 롯데의 경기. KT가 롯데에 승리했다. 완봉승을 거둔 고영표가 주먹을 쥐어보이고 있다. 수원=송정헌 기자 songs@sportschosun.com/2026.10.03/",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:54:57.642Z",
+        "width": 1200,
+        "height": 1550,
+        "bytes": 929423,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.7422626677918662,
+        "entropy": 7.7324163036828395,
+        "effectiveDetailRatio": 0.491104,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/07/2026100701000499500032033_w.jpg",
+        "sha256": "18abac31a65b1e33562db0aa265e52d758c3356ceebbdf1ffea535d232270b53",
+        "perceptualHash": "696d2de6d3e56509",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "RJwwLzJubhSL1pamvPGIDDTCXa2ag2Z8LIApNkNwfXpHMmtRq1HzfEA1MsPdDymdsh1DDnSpboBPJHuFiRJ5MVdnblyeAhkXGE3/ozquijcsk7YkuEN9V5WaVmsihSJ+TK5jPxM5IU1xvXBvU0JVz0DRfjNiZniSNoduYjspNpNcUz4ihi8dUSM3Rz0Uhs+LPGchapxwQl1w36YpU5MpUpmIcUaJj2KKQSkPDzk0gxZtHU0gPyUQT6mQZeBgnE1hDy1gLzZfhy4GBAYPbHI1TVQrSR0NLLerC42/YigwRBxFRwM9iDgBAgkKO2VHXlEqRR0PYqlkLUwtUm5RPFobLxKDbwoCBAkOMDUxYycQQh8iaYk4XXqCXmc+VjoeMGykOgoGAwMPRFBiTxQINQkVKn9tUU4eMg1qXCxdkpU4FAkLBwwQUWAtfFdIOCpAeC9ANSY0HjwtOgubgzBtIxUQDwoGPnIrGzdRIFNLQSYWKR8FJi41imO8Jsa4eSYOJY9yKkoqFxA2MjlIOhw0HiguLCQnC5E7h9Nl004kqcjZcTgiDjFnPVBFOk9IHCMeITQpTjkKgskM0olVzmFwvCsaK4VdLF8wYVgzJRgEIg1bKl4QecBDgbF8V00xXG1SO51AbGkbhlIeIiIfGUEeZy0aio9EZTxSGjA8R5I6W4Raex9JdGUTETgwTWpDRUc6hoBaUS0eKB1id0qjWUJaa1haWzUNBk5xS3CHUy9sO7lwGCswNy85hntLIS5TIjwehU8JBkV6MFV8M15FKGhdczhhGk2HE2w7FmlCKCodfIkXERhza4hQG0IsI3+6Xx8kfShjllIzYEhHPjsoXockChFGO2EFDSQoav9vOiAqPBslbk5CUnp3HBUVlpwWA1tBZDEbHhszz4YdDhAREQkTFRQYFRMaGRkbj3wJBjJcQgASCghAqFYeGhgXFxgaHR4eGx4jAggcmGoEGAs3BQ0DBgQup18WCwYGCAYEAwQHBAQDCAounF4NAhEJEAgBBAMMlJZPOxADFAQUOTo8DAcHKQVCpU0xBg0JBQ0JBAUUpuc+WjMnUw4/VEBOO0lNWQ9dis3enE0pDyoyEhYi/8AKUR9dOjNFLRQtJlxAVxQdxva+///QRcJqHwiV/0EeURNaGTVQHxAeHiE7WAtsnBcHQ3vf7qXVhU3stxUhXghUAyIlDA4fFBZSXBt+JBoQHikgaUiZ+tHWZRkdUR9aFRQuBBAfGRRKVT1lDA8KFTghESc5UaBeBAoUM0lALjMPGhAgHCwhUUJXDBAKEQslIisHKxgNHBUWER00UyYLBg8gGBBdS0ZQDgoKBgsUDQUqERAsDhEPG0hGFFQ0FBMeGhpdVkVgFQEFCxALAiALHRsWGQs2VDlFVRlQQSUqLSwvfy65KBcGDA4CCAMtFhIJLU0MYRJiFFYTRTIzJGE4XUa9igcNCwkDBBUcIicdUEUrWRBaCk5GLx0dCi41HnxawAsTCgkBCB4HKx4SUB8pXRBcRQUNEg00Oh4r",
+          "top": "RJwwLzJubhSL1pamvPGIDDTCXa2ag2Z8LIApNkNwfXpHMmtRq1HzfEA1MsPdDymdsh1DDnSpboBPJHuFiRJ5MVdnblyeAhkXGE3/ozquijcsk7YkuEN9V5WaVmsihSJ+TK5jPxM5IU1xvXBvU0JVz0DRfjNiZniSNoduYjspNpNcUz4ihi8dUSM3Rz0Uhs+LPGchapxwQl1w36YpU5MpUpmIcUaJj2KKQSkPDzk0gxZtHU0gPyUQT6mQZeBgnE1hDy1gLzZfhy4GBAYPbHI1TVQrSR0NLLerC42/YigwRBxFRwM9iDgBAgkKO2VHXlEqRR0PYqlkLUwtUm5RPFobLxKDbwoCBAkOMDUxYycQQh8iaYk4XXqCXmc+VjoeMGykOgoGAwMPRFBiTxQINQkVKn9tUU4eMg1qXCxdkpU4FAkLBwwQUWAtfFdIOCpAeC9ANSY0HjwtOgubgzBtIxUQDwoGPnIrGzdRIFNLQSYWKR8FJi41imO8Jsa4eSYOJY9yKkoqFxA2MjlIOhw0HiguLCQnC5E7h9Nl004kqcjZcTgiDjFnPVBFOk9IHCMeITQpTjkKgskM0olVzmFwvCsaK4Vd",
+          "middle": "IFNLQSYWKR8FJi41imO8Jsa4eSYOJY9yKkoqFxA2MjlIOhw0HiguLCQnC5E7h9Nl004kqcjZcTgiDjFnPVBFOk9IHCMeITQpTjkKgskM0olVzmFwvCsaK4VdLF8wYVgzJRgEIg1bKl4QecBDgbF8V00xXG1SO51AbGkbhlIeIiIfGUEeZy0aio9EZTxSGjA8R5I6W4Raex9JdGUTETgwTWpDRUc6hoBaUS0eKB1id0qjWUJaa1haWzUNBk5xS3CHUy9sO7lwGCswNy85hntLIS5TIjwehU8JBkV6MFV8M15FKGhdczhhGk2HE2w7FmlCKCodfIkXERhza4hQG0IsI3+6Xx8kfShjllIzYEhHPjsoXockChFGO2EFDSQoav9vOiAqPBslbk5CUnp3HBUVlpwWA1tBZDEbHhszz4YdDhAREQkTFRQYFRMaGRkbj3wJBjJcQgASCghAqFYeGhgXFxgaHR4eGx4jAggcmGoEGAs3BQ0DBgQup18WCwYGCAYEAwQHBAQDCAounF4NAhEJEAgBBAMMlJZPOxADFAQUOTo8DAcHKQVCpU0xBg0JBQ0JBAUUpuc+WjMnUw4/VEBOO0lN",
+          "bottom": "GRkbj3wJBjJcQgASCghAqFYeGhgXFxgaHR4eGx4jAggcmGoEGAs3BQ0DBgQup18WCwYGCAYEAwQHBAQDCAounF4NAhEJEAgBBAMMlJZPOxADFAQUOTo8DAcHKQVCpU0xBg0JBQ0JBAUUpuc+WjMnUw4/VEBOO0lNWQ9dis3enE0pDyoyEhYi/8AKUR9dOjNFLRQtJlxAVxQdxva+///QRcJqHwiV/0EeURNaGTVQHxAeHiE7WAtsnBcHQ3vf7qXVhU3stxUhXghUAyIlDA4fFBZSXBt+JBoQHikgaUiZ+tHWZRkdUR9aFRQuBBAfGRRKVT1lDA8KFTghESc5UaBeBAoUM0lALjMPGhAgHCwhUUJXDBAKEQslIisHKxgNHBUWER00UyYLBg8gGBBdS0ZQDgoKBgsUDQUqERAsDhEPG0hGFFQ0FBMeGhpdVkVgFQEFCxALAiALHRsWGQs2VDlFVRlQQSUqLSwvfy65KBcGDA4CCAMtFhIJLU0MYRJiFFYTRTIzJGE4XUa9igcNCwkDBBUcIicdUEUrWRBaCk5GLx0dCi41HnxawAsTCgkBCB4HKx4SUB8pXRBcRQUNEg00Oh4r"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.474063,
+          "top": 23.802852,
+          "middle": 25.78215,
+          "bottom": 19.827801,
+          "effectiveRatio": 0.491104
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1550
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "18abac31a65b1e33562db0aa265e52d758c3356ceebbdf1ffea535d232270b53",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 언론사가 실제 게재한 사진에 사용자 제공 계약 권한을 적용한다. 공개 URL 자체를 무료 사용권으로 간주하지 않는다."
+      },
+      "visualReviewNote": "롯데전 완봉승 뒤 주먹을 쥔 고영표. 옆얼굴과 모자·주먹이 명확하며 던지는 사진과 다른 실제 순간이다."
+    }
+  ]
+}
