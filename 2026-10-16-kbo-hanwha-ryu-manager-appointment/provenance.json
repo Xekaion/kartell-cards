@@ -1,0 +1,381 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "한화 새 감독은 류지현, 3년 20억원에 계약",
+  "issueKey": "kbo-2026-hanwha-ryu-ji-hyun-manager-appointment",
+  "checkedAt": "2026-10-15T20:17:38.110Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=554642",
+  "corroboratingUrls": [
+    "https://www.starnewskorea.com/sports/2026/10/13/2026101311593140240",
+    "https://www.newsis.com/view/NISX20261013_0003824064",
+    "https://www.thesportstimes.co.kr/news/articleView.html?idxno=376514",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012978",
+    "https://www.starnewskorea.com/sports/2026/10/14/2026101407103611846"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=554642",
+      "title": "[공식발표] 한화, 류지현 감독 제15대 사령탑 선임 '3년 총액 20억원'…석장현 신임 단장 체제",
+      "publishedAt": "2026-10-13",
+      "role": "같은 사건의 직접 KBO게재 OSEN 조은혜 기사. 한화구단공식발표 인용. 계약규모·취임각오·LG/대표팀경력·신임단장·전임퇴진 사실의1차핵심근거."
+    },
+    {
+      "url": "https://www.starnewskorea.com/sports/2026/10/13/2026101311593140240",
+      "publishedAt": "2026-10-13T12:05:00+09:00",
+      "role": "한화의 공식 선임발표와계약조건,석장현단장내정의독립교차보도."
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261013_0003824064",
+      "publishedAt": "2026-10-13T14:47:13+09:00",
+      "role": "선임당일 류지현 직접인터뷰.16일취임기자회견예정,팀사정파악,코치진구성및마무리훈련우선준비. 미래예정을완료로쓰지않음."
+    },
+    {
+      "url": "https://www.thesportstimes.co.kr/news/articleView.html?idxno=376514",
+      "publishedAt": "2026-10-14T03:19:00+09:00",
+      "role": "16일선수단상견례예정과감독의당일인터뷰계획교차확인."
+    },
+    {
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012978",
+      "publishedAt": "2026-10-14T15:02:00+09:00",
+      "role": "공식제공계약사진원문및후속인사보도.왕옌청재계약세부는독립이슈라카드원고에섞지않음."
+    },
+    {
+      "url": "https://www.starnewskorea.com/sports/2026/10/14/2026101407103611846",
+      "publishedAt": "2026-10-14T07:21:00+09:00",
+      "role": "계약사진촬영일10월13일과석장현의구단최초직원출신내부승격교차확인."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "류지현",
+      "subject": "한화 이글스 신임 감독 류지현",
+      "sourceUrl": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1012978_2027861_7898.jpg",
+      "sourcePageUrl": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012978",
+      "imageCredit": "한화 이글스 제공",
+      "creditDisplay": "사진 · 한화 이글스 제공 (10월 13일 계약 사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\manager-story\\source-1.jpg",
+      "photoDate": "2026-10-13",
+      "checkedAt": "2026-10-15T20:12:01.330Z",
+      "context": "류지현 감독이 한화와 감독계약을 마치고 계약서 앞에서 펜을 든 실제 10월13일 공식제공사진. 스포티비원문크레딧한화이글스, 스타뉴스10월14일동일계약장면캡션으로날짜교차확인. 단독전경인물류지현.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:08:45.535Z",
+        "width": 1500,
+        "height": 2250,
+        "bytes": 423864,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7666673713281273,
+        "entropy": 7.6860904955833576,
+        "effectiveDetailRatio": 0.463146,
+        "kind": "source",
+        "coverScale": 0.72,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1012978_2027861_7898.jpg",
+        "sha256": "afc55f24749f14e04b11816f48399b72f92ffe70628669623749d13efbdcda17",
+        "perceptualHash": "d3db3333ececacf1",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CQkKCwwMDAwMDg0MDAwNDh0tDhMPERIUFRYaGhscCQgICgkJCQoKCgoKCgsKCw0OCwsLCgsMDg8SExUWBAUFBwcICAoKCgoLCwoJCwo5DwgFBgcJCQkNDg8RDQcCAgMFBgYHBQMCAgUHDTlJPRACBAICBAEDBAIEOzo6ODUyMC0rJyYkIiMkJWArYxoOCAYDBgkJCwwMKTE4PUFER0hJSEZCPzo3OII4oJSLioiFgnx1bWNZAgIBAgQGCQwOERIUFBgMM7OnKEIpHxEEDRkiLDhCAQECAgMDBAQEBgUFBCd6lbxRydrBwsHAvrq1r6efAgMCAwIBAAEBAgMHRsfWzJgknWQXGiMsOEVKU1tnBQQEBAMDAgMCAwdA6tRBJBRa2IcECQkKDAsNDAsKAwMDAwQEBAMEBhay3xV8cHlTqvM4CQMEBgkFAwIDERIPBwMFBwYGCizMfXNJHUhwQuNxDQcHBgYGBgMEHR8jIxoLBAUHDiWPhUoRDAwuWaVnEAQBBgcLChsYGRodKTUwGwoCBhFcYCcmBRYdHIhpJR8wQT86YIlQEg8PERgpNjMiFxZLX0grNiIcEnrMsrK0qKaku5ywCgQEBQIGEyg0NTpFk1IdGB4dHFKIhIh3aGxyTitqBQYJDAoIBAQDDBYmX0slJBsITW1yZWNdVlNJQUQ9BAYICAsPCgUDBQQbZlAaDRxBfG5WXWFOSm1qSmh0CA4YHxIZFhcdIUCBiFgbISFjaigYCxEZGiIqHy8ZCw8OBQkLIy04TKByZCJ/ECRXXFc/JxwXEyMzCSotEgsWEREyZlxihmEeQ3dzWUgiYkxqc1AvDQ8VEwcREhYRDSt7Y1NWRAQTLZgyQxJWVywiTGBiSEFDLTwxDxgnDjWFVSMXBAgKGGVEJBNARRUICCSEkQ8cHREbCh5VMl59NhECAwQEB1tHJCpgQxAODQlCiU8dIjEoPT8lJlBeIxMMBAABCEphEgxkTQcRBg4makQOJDxLLigKIVlRHhMcDAQFBjRcGhZOQw0SEBwWfFQSLScgLBgZJE82HRMfGAUCBClhIxBRThYTFxQRZIUdOk1JEgtAY0kmHBIbIBAAAxdcOAxWVxAMDhENKY9nMgQMFE1fLCMaISATHSAPBAlRSRBWSQwPHg0bF0NQFyUvFVQzL09GUoZmUiIiCAtRSRNRTRkeGh8jEDNpKx8eUDgfGiZynFl3ipwcGBFLTyZOOykiaC4iFR9pXAsIXws7KzlYEzEQFG2SHhE/QAJGb22JgY0gIhI+YB4rUVVENUIrKwIWDBN5bo6wgnGArN7zcs7lt52llEczgX4QTE0sDQgDCiVhxNCfZFFEW1pYLFKHe3JPEEA3np5IPSkbNj86SnhrZiAJJT1cfZ6vnZuXfEwqKg1PM7N9I1NtTCIaFDVwiJqbl5KQnpJxXl07PEtRSlFLDT14cEQgTHeGg4qKiYBkRDIfFxAoGCIpPlAvGg0IBhUwPjVARjUaFQwOChYlIx4jHA8RPUkkTlQpISUP",
+          "top": "CQkKCwwMDAwMDg0MDAwNDh0tDhMPERIUFRYaGhscCQgICgkJCQoKCgoKCgsKCw0OCwsLCgsMDg8SExUWBAUFBwcICAoKCgoLCwoJCwo5DwgFBgcJCQkNDg8RDQcCAgMFBgYHBQMCAgUHDTlJPRACBAICBAEDBAIEOzo6ODUyMC0rJyYkIiMkJWArYxoOCAYDBgkJCwwMKTE4PUFER0hJSEZCPzo3OII4oJSLioiFgnx1bWNZAgIBAgQGCQwOERIUFBgMM7OnKEIpHxEEDRkiLDhCAQECAgMDBAQEBgUFBCd6lbxRydrBwsHAvrq1r6efAgMCAwIBAAEBAgMHRsfWzJgknWQXGiMsOEVKU1tnBQQEBAMDAgMCAwdA6tRBJBRa2IcECQkKDAsNDAsKAwMDAwQEBAMEBhay3xV8cHlTqvM4CQMEBgkFAwIDERIPBwMFBwYGCizMfXNJHUhwQuNxDQcHBgYGBgMEHR8jIxoLBAUHDiWPhUoRDAwuWaVnEAQBBgcLChsYGRodKTUwGwoCBhFcYCcmBRYdHIhpJR8wQT86YIlQEg8PERgpNjMiFxZLX0grNiIcEnrMsrK0qKaku5yw",
+          "middle": "HR8jIxoLBAUHDiWPhUoRDAwuWaVnEAQBBgcLChsYGRodKTUwGwoCBhFcYCcmBRYdHIhpJR8wQT86YIlQEg8PERgpNjMiFxZLX0grNiIcEnrMsrK0qKaku5ywCgQEBQIGEyg0NTpFk1IdGB4dHFKIhIh3aGxyTitqBQYJDAoIBAQDDBYmX0slJBsITW1yZWNdVlNJQUQ9BAYICAsPCgUDBQQbZlAaDRxBfG5WXWFOSm1qSmh0CA4YHxIZFhcdIUCBiFgbISFjaigYCxEZGiIqHy8ZCw8OBQkLIy04TKByZCJ/ECRXXFc/JxwXEyMzCSotEgsWEREyZlxihmEeQ3dzWUgiYkxqc1AvDQ8VEwcREhYRDSt7Y1NWRAQTLZgyQxJWVywiTGBiSEFDLTwxDxgnDjWFVSMXBAgKGGVEJBNARRUICCSEkQ8cHREbCh5VMl59NhECAwQEB1tHJCpgQxAODQlCiU8dIjEoPT8lJlBeIxMMBAABCEphEgxkTQcRBg4makQOJDxLLigKIVlRHhMcDAQFBjRcGhZOQw0SEBwWfFQSLScgLBgZJE82HRMfGAUCBClhIxBRThYTFxQRZIUdOk1J",
+          "bottom": "Ch5VMl59NhECAwQEB1tHJCpgQxAODQlCiU8dIjEoPT8lJlBeIxMMBAABCEphEgxkTQcRBg4makQOJDxLLigKIVlRHhMcDAQFBjRcGhZOQw0SEBwWfFQSLScgLBgZJE82HRMfGAUCBClhIxBRThYTFxQRZIUdOk1JEgtAY0kmHBIbIBAAAxdcOAxWVxAMDhENKY9nMgQMFE1fLCMaISATHSAPBAlRSRBWSQwPHg0bF0NQFyUvFVQzL09GUoZmUiIiCAtRSRNRTRkeGh8jEDNpKx8eUDgfGiZynFl3ipwcGBFLTyZOOykiaC4iFR9pXAsIXws7KzlYEzEQFG2SHhE/QAJGb22JgY0gIhI+YB4rUVVENUIrKwIWDBN5bo6wgnGArN7zcs7lt52llEczgX4QTE0sDQgDCiVhxNCfZFFEW1pYLFKHe3JPEEA3np5IPSkbNj86SnhrZiAJJT1cfZ6vnZuXfEwqKg1PM7N9I1NtTCIaFDVwiJqbl5KQnpJxXl07PEtRSlFLDT14cEQgTHeGg4qKiYBkRDIfFxAoGCIpPlAvGg0IBhUwPjVARjUaFQwOChYlIx4jHA8RPUkkTlQpISUP"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 12.694031,
+          "top": 6.900302,
+          "middle": 9.08996,
+          "bottom": 17.294275,
+          "effectiveRatio": 0.463146
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1500,
+        "rawHeight": 2250
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "afc55f24749f14e04b11816f48399b72f92ffe70628669623749d13efbdcda17",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 원문 사진 사용의 근거로 기록한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "류지현",
+      "subject": "한화 이글스 신임 감독 류지현",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789992779021286.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2198536",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (09월 21일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\manager-story\\ryu-2198536.webp",
+      "photoDate": "2026-09-21",
+      "checkedAt": "2026-10-15T20:12:01.330Z",
+      "context": "9월21일 오카자키시민구장 아시안게임 대만전 승리후류지현감독의단독자료사진. 새한화훈련/계약현장으로쓰지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:08:57.088Z",
+        "width": 1200,
+        "height": 1561,
+        "bytes": 196744,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.396908304277707,
+        "entropy": 7.504385994048789,
+        "effectiveDetailRatio": 0.490281,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789992779021286.webp",
+        "sha256": "d63303736255bae51998677c60289eaa2b0c7c3ae03507b93bcbbb82027eeb84",
+        "perceptualHash": "d84c0e25cf8787c6",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "NTQxHRsWDBgLDxIETqCDOhyyv00YIScXCRgdIwoLuri1srCwsLGvrqusvkRRmn4Xusycnp2ZmJCCeXl9fXl5fH+AgoiPk5GTdr59b6e1NJqdqbOzqqKHfYCAEREMCggKCw0IAQcruo8SFCCNoUgSFhooIigkCAYHEQwLDQ4MDA8TDgdBt2UgMSwhmVUHGCEHJTQeCQkKDAkKFhsZGBQUHhcvqIgTPRwthEcQCRwMJy0UAgICCAYQGhgVFRURICMbWLtANSxnbRkUDhYIJikSAQMBBQQSGAUEBgcHBw0MHnE8OS5KWEETEBgBKCMOAAICDQoPDhACDAgBDhMVicE9PiMbKb64YxoCKCIOAQICEhcdFQ0IBhAWEVbfxAZHLDJig4+b/8caJiMMAwEAFx8bEh4YFRcUmPlkqQ4+OHKO2Gr/GP/YESINAQAAEhAHCAUKCQV+9UXBZeGBjrk2kf8v+iX/eCAPAQEAERcLFBQaF0HlYbM4oQ0KZxccG2aoaYql6g4PAgIBGh8bFxQUA6jYcHSMGTU4BBdQYXNiS3ok64ULAwMCBQQJBAQDP+RawCWOWGldVZCoX0Q0X44Whds4BwoLCAoLDAkKnNFOqTFjkzdXkkMUOx9kNrxCMMWlGxAQDhARDQRO4XJ8kj4YbC5ebUKIX2FSmraoBlnWdQ4HDAsLEQ6osxN9Y1E2g18limJoQTEs0Cf/IlB8mjgHBwQFEC2Uq2PFdFJRT3mWsEsICRsJq5XtrMtvijAGCwsZFhE+qLrjN+Z3N5ydDg8KCxcJfcYgwZB1Wg0EBBkpLSEEF1F1A7G6cToTBA8KDRMSQ7B1Pw9AEAsDDS0gLzEMEyA2HcizDwQSBAgMExQQFZGUGwoRCgQDEjwIQjEIFRcuIsqTBxkOAQwQFBUMP5hwEQYQCQIDNTEsPBsSDRseMceWEwgJCQ0ZGAorOFV1KwkMDgABOT1OLhggDh8WENm6CQkLDBkWDhAaSWB4QgoOEQEBJDsXCzQdHyUNCsTPKWeSoKiRQS80OWOMUAkQEwEBKSINNRs6FiUXDpiUP2Jcwc63aRYTCjaLUgYWDQUBOy8rNg5CUns1GKHZOYfsvpXYpUYVO4+PeHstDgMDGRocKRCRvqaHOcbbBRFWy9yvSDkjGZMJzbeaHQICP0YeHVLbX3iVQsjGBQUDIB4LCBNEWJA/g0OjYwICNmdZGX+9oKmeK+O6CwEIBw0NAgc0QXcDji2FYgYAL3NGEmxKrX5rO/C0BwgVFgkOEAscTJw+hkaJTAMDMGksfWJLS1wbO+2sCRMSMBgNAgsgZ79IcGRdFgECK18bRk9PGBoKNOy2CxIlD0sHAAtAaaJMQTkWCAIBKVoJOzMPGA8EM9K6BxIULm49AQswfLVLJxcICwIBKVwgJgwKGQ0RMbG7KQgTaV9wAQsmk7kxIhQJCwMCJ1wsFwcSEggZL5y6MRghg0CYBw4rkakvGBMHCAQFJlk1CgEOAxkhKnWwUhQgkTyqAxAziZ1IQjs7Ox5L",
+          "top": "NTQxHRsWDBgLDxIETqCDOhyyv00YIScXCRgdIwoLuri1srCwsLGvrqusvkRRmn4Xusycnp2ZmJCCeXl9fXl5fH+AgoiPk5GTdr59b6e1NJqdqbOzqqKHfYCAEREMCggKCw0IAQcruo8SFCCNoUgSFhooIigkCAYHEQwLDQ4MDA8TDgdBt2UgMSwhmVUHGCEHJTQeCQkKDAkKFhsZGBQUHhcvqIgTPRwthEcQCRwMJy0UAgICCAYQGhgVFRURICMbWLtANSxnbRkUDhYIJikSAQMBBQQSGAUEBgcHBw0MHnE8OS5KWEETEBgBKCMOAAICDQoPDhACDAgBDhMVicE9PiMbKb64YxoCKCIOAQICEhcdFQ0IBhAWEVbfxAZHLDJig4+b/8caJiMMAwEAFx8bEh4YFRcUmPlkqQ4+OHKO2Gr/GP/YESINAQAAEhAHCAUKCQV+9UXBZeGBjrk2kf8v+iX/eCAPAQEAERcLFBQaF0HlYbM4oQ0KZxccG2aoaYql6g4PAgIBGh8bFxQUA6jYcHSMGTU4BBdQYXNiS3ok64ULAwMCBQQJBAQDP+RawCWOWGldVZCoX0Q0X44Whds4BwoL",
+          "middle": "ERcLFBQaF0HlYbM4oQ0KZxccG2aoaYql6g4PAgIBGh8bFxQUA6jYcHSMGTU4BBdQYXNiS3ok64ULAwMCBQQJBAQDP+RawCWOWGldVZCoX0Q0X44Whds4BwoLCAoLDAkKnNFOqTFjkzdXkkMUOx9kNrxCMMWlGxAQDhARDQRO4XJ8kj4YbC5ebUKIX2FSmraoBlnWdQ4HDAsLEQ6osxN9Y1E2g18limJoQTEs0Cf/IlB8mjgHBwQFEC2Uq2PFdFJRT3mWsEsICRsJq5XtrMtvijAGCwsZFhE+qLrjN+Z3N5ydDg8KCxcJfcYgwZB1Wg0EBBkpLSEEF1F1A7G6cToTBA8KDRMSQ7B1Pw9AEAsDDS0gLzEMEyA2HcizDwQSBAgMExQQFZGUGwoRCgQDEjwIQjEIFRcuIsqTBxkOAQwQFBUMP5hwEQYQCQIDNTEsPBsSDRseMceWEwgJCQ0ZGAorOFV1KwkMDgABOT1OLhggDh8WENm6CQkLDBkWDhAaSWB4QgoOEQEBJDsXCzQdHyUNCsTPKWeSoKiRQS80OWOMUAkQEwEBKSINNRs6FiUXDpiUP2Jcwc63aRYTCjaLUgYWDQUB",
+          "bottom": "NTEsPBsSDRseMceWEwgJCQ0ZGAorOFV1KwkMDgABOT1OLhggDh8WENm6CQkLDBkWDhAaSWB4QgoOEQEBJDsXCzQdHyUNCsTPKWeSoKiRQS80OWOMUAkQEwEBKSINNRs6FiUXDpiUP2Jcwc63aRYTCjaLUgYWDQUBOy8rNg5CUns1GKHZOYfsvpXYpUYVO4+PeHstDgMDGRocKRCRvqaHOcbbBRFWy9yvSDkjGZMJzbeaHQICP0YeHVLbX3iVQsjGBQUDIB4LCBNEWJA/g0OjYwICNmdZGX+9oKmeK+O6CwEIBw0NAgc0QXcDji2FYgYAL3NGEmxKrX5rO/C0BwgVFgkOEAscTJw+hkaJTAMDMGksfWJLS1wbO+2sCRMSMBgNAgsgZ79IcGRdFgECK18bRk9PGBoKNOy2CxIlD0sHAAtAaaJMQTkWCAIBKVoJOzMPGA8EM9K6BxIULm49AQswfLVLJxcICwIBKVwgJgwKGQ0RMbG7KQgTaV9wAQsmk7kxIhQJCwMCJ1wsFwcSEggZL5y6MRghg0CYBw4rkakvGBMHCAQFJlk1CgEOAxkhKnWwUhQgkTyqAxAziZ1IQjs7Ox5L"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.323124,
+          "top": 24.805789,
+          "middle": 29.489132,
+          "bottom": 23.428739,
+          "effectiveRatio": 0.490281
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1561
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d63303736255bae51998677c60289eaa2b0c7c3ae03507b93bcbbb82027eeb84",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 원문 사진 사용의 근거로 기록한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "류지현",
+      "subject": "한화 이글스 신임 감독 류지현",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/09/2026092716561340594_1.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/09/28/2026092716561340594",
+      "imageCredit": "스타뉴스 강영조",
+      "creditDisplay": "사진 · 스타뉴스 강영조 (09월 25일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\manager-story\\star-ceremony.jpg",
+      "photoDate": "2026-09-25",
+      "checkedAt": "2026-10-15T20:12:01.330Z",
+      "context": "9월25일 도요하시시민구장 아시안게임 한국-일본전 개막세리머니의 류지현감독박수장면. 후임취임식이나한화행사아닌대표팀자료사진.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:10:14.045Z",
+        "width": 1200,
+        "height": 1289,
+        "bytes": 1282318,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.0494750594534585,
+        "entropy": 6.653832215408329,
+        "effectiveDetailRatio": 0.433794,
+        "kind": "source",
+        "coverScale": 1.047,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/09/2026092716561340594_1.jpg",
+        "sha256": "9a4e18e32142c087729b351e3e823c012d48abc1397bf01c9b7bca4bad069373",
+        "perceptualHash": "46a426979a684cb4",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgMDBAMCAgMEAwMDAwICAgMDBAUFBAQEBAQDAwMDAQIAAgIBAQECAQICAgECAwQFBAIBAwMDAwMEBAMDAgECAgECAQIBAQEBAAACAgEBCRwaBAEAAgECBAMDAgEAAQMEAQIBAQEBAgEBAQQcUp11OwcCAQEDAgMDAQECAgMBAwABAQEBAgIBBidZlyZsZzYGBAQEAQEBBAQDAwMBBAMCAgIBAQMCHDxOccSLciUfBgMBAQAAAgMCAwUDAgQDAQEBAgENJjyClGh8FgYsFwIEAQIBAgICAwEDAQEEBAIDAwIJIVAXN0YfLRAVIAYAAQABAgIBAQMCAQEDBAQEAwQGQ6Gvurq6RxswIAIDAgICAgICAQACAAECAwMCAwlGm6OeSES+63AcJgIBAQABAQIBAQICAQMCBAMCBQdJkzw2MDwvgKM2FgECAQIBAQEBAgEDAwQDAQQCAgVWgSApBBocdmUmBAQEBAUEAgIDBQUFBgQEBhsGAgZCjTYeExwhd0kKBwMCAwMDBgYGBQQDBAYHQmk1AwIRZIRRMy9qdCQGBAIBAQEBBQQDAQIBAwo/h1FyLg4KGhw+V1dDHAgLAQQDAgICAQEBAgEBAR5yWyNvYmMfZUo7QiA/TkAzDgMFBgYFAQIDAQIBBUF3LxE5YXVvYjEfQFZNKBpLXhsGBAQEAQEEBQMCBz57Lg4gIQZEHAoWHho4dzB7GG80DQQBBAQFBwcGBkJ8IAcdGxsSCWF1eY52iOcUn0xAUg4DAgIBAQECBjt0MRoDKAsXZn9eXVzixYr/hYCAKE8GAgMFBQUFBy58UBBDdkFHK10/BAwXyNZb4nVvVkclAgQDAQEBByhetpu/ZpBQapAeCx2AmqiK5VhBaBswAQACAwEFHhdjlqiVT2qIkiMUAm2rP2nIaRIkUw0pAQIBAgIGITZtISAfHA8KPhUGEB5sZphoFgpKZkMvAgICAQQTEmQ8BRZVbHTDjkMiCR9ckkbAJBJwOngQAgMDAgEaOm0lHEpLOFcXrKcJEgpTmMaBLy2RHHwvAQEBAQ87hEEREy9vFk2POLpmHAgSV4snAjhiZz5FAAEBBDJrQgkNCBl4yH45X4B2BycODBIiQmg0ixMwBAIEBkBUGAIDBgVbthdPPnghOjEiCgYIFEyRUj4fBAMFBiRsNgMEEkiu1T5Ro1RFNxQxHQEEESJOUVILAQIBBRFoVAcmbZSxNtHPYCUjBQAULh4VIRwgZDgFAwIBAQY4f1t8YiZu05I+EwcxMA4BECMcFwk2bCYFAgIDAwEEN1M2Ej81HxITCQIJLDEeDwUJAglNWQsGAwMDAgICAgQFCDwoCgEEBAoGDBsqLRwHBQY5YB8GAQIBAgECAQIGCT8sCgEEDQkFCwcMGi4YAgg0YyIGBwcFBQUFBQQDDT4wCAwTGB8XCQMFAxMuEgYwZygFBwcGBQUEAwIBDzg9ODo6KRk2GgsGAwUdKBAjaT0EBgcFAgUGBQUEEBULEAsGFx4iIwsFCQQJGxocYTkH",
+          "top": "AgMDBAMCAgMEAwMDAwICAgMDBAUFBAQEBAQDAwMDAQIAAgIBAQECAQICAgECAwQFBAIBAwMDAwMEBAMDAgECAgECAQIBAQEBAAACAgEBCRwaBAEAAgECBAMDAgEAAQMEAQIBAQEBAgEBAQQcUp11OwcCAQEDAgMDAQECAgMBAwABAQEBAgIBBidZlyZsZzYGBAQEAQEBBAQDAwMBBAMCAgIBAQMCHDxOccSLciUfBgMBAQAAAgMCAwUDAgQDAQEBAgENJjyClGh8FgYsFwIEAQIBAgICAwEDAQEEBAIDAwIJIVAXN0YfLRAVIAYAAQABAgIBAQMCAQEDBAQEAwQGQ6Gvurq6RxswIAIDAgICAgICAQACAAECAwMCAwlGm6OeSES+63AcJgIBAQABAQIBAQICAQMCBAMCBQdJkzw2MDwvgKM2FgECAQIBAQEBAgEDAwQDAQQCAgVWgSApBBocdmUmBAQEBAUEAgIDBQUFBgQEBhsGAgZCjTYeExwhd0kKBwMCAwMDBgYGBQQDBAYHQmk1AwIRZIRRMy9qdCQGBAIBAQEBBQQDAQIBAwo/h1FyLg4KGhw+V1dDHAgLAQQDAgIC",
+          "middle": "AgIDBQUFBgQEBhsGAgZCjTYeExwhd0kKBwMCAwMDBgYGBQQDBAYHQmk1AwIRZIRRMy9qdCQGBAIBAQEBBQQDAQIBAwo/h1FyLg4KGhw+V1dDHAgLAQQDAgICAQEBAgEBAR5yWyNvYmMfZUo7QiA/TkAzDgMFBgYFAQIDAQIBBUF3LxE5YXVvYjEfQFZNKBpLXhsGBAQEAQEEBQMCBz57Lg4gIQZEHAoWHho4dzB7GG80DQQBBAQFBwcGBkJ8IAcdGxsSCWF1eY52iOcUn0xAUg4DAgIBAQECBjt0MRoDKAsXZn9eXVzixYr/hYCAKE8GAgMFBQUFBy58UBBDdkFHK10/BAwXyNZb4nVvVkclAgQDAQEBByhetpu/ZpBQapAeCx2AmqiK5VhBaBswAQACAwEFHhdjlqiVT2qIkiMUAm2rP2nIaRIkUw0pAQIBAgIGITZtISAfHA8KPhUGEB5sZphoFgpKZkMvAgICAQQTEmQ8BRZVbHTDjkMiCR9ckkbAJBJwOngQAgMDAgEaOm0lHEpLOFcXrKcJEgpTmMaBLy2RHHwvAQEBAQ87hEEREy9vFk2POLpmHAgSV4snAjhiZz5F",
+          "bottom": "AQIBAgIGITZtISAfHA8KPhUGEB5sZphoFgpKZkMvAgICAQQTEmQ8BRZVbHTDjkMiCR9ckkbAJBJwOngQAgMDAgEaOm0lHEpLOFcXrKcJEgpTmMaBLy2RHHwvAQEBAQ87hEEREy9vFk2POLpmHAgSV4snAjhiZz5FAAEBBDJrQgkNCBl4yH45X4B2BycODBIiQmg0ixMwBAIEBkBUGAIDBgVbthdPPnghOjEiCgYIFEyRUj4fBAMFBiRsNgMEEkiu1T5Ro1RFNxQxHQEEESJOUVILAQIBBRFoVAcmbZSxNtHPYCUjBQAULh4VIRwgZDgFAwIBAQY4f1t8YiZu05I+EwcxMA4BECMcFwk2bCYFAgIDAwEEN1M2Ej81HxITCQIJLDEeDwUJAglNWQsGAwMDAgICAgQFCDwoCgEEBAoGDBsqLRwHBQY5YB8GAQIBAgECAQIGCT8sCgEEDQkFCwcMGi4YAgg0YyIGBwcFBQUFBQQDDT4wCAwTGB8XCQMFAxMuEgYwZygFBwcGBQUEAwIBDzg9ODo6KRk2GgsGAwUdKBAjaT0EBgcFAgUGBQUEEBULEAsGFx4iIwsFCQQJGxocYTkH"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 13.598987,
+          "top": 7.189988,
+          "middle": 14.900182,
+          "bottom": 17.684479,
+          "effectiveRatio": 0.433794
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1289
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "9a4e18e32142c087729b351e3e823c012d48abc1397bf01c9b7bca4bad069373",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 원문 사진 사용의 근거로 기록한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "류지현",
+      "subject": "한화 이글스 신임 감독 류지현",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789976450419657.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2198232",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (09월 21일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\manager-story\\ryu-2198232.webp",
+      "photoDate": "2026-09-21",
+      "checkedAt": "2026-10-15T20:12:01.330Z",
+      "context": "9월21일 오카자키시민구장 대만전경기전 베이스를밟아보는류지현감독단독자료사진. 한화신임단장석장현사진으로오인시키지않는다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:10:01.914Z",
+        "width": 1200,
+        "height": 1577,
+        "bytes": 183410,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.9829645165982628,
+        "entropy": 6.583645801059902,
+        "effectiveDetailRatio": 0.512031,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789976450419657.webp",
+        "sha256": "f28e1f9919a674a4808da3d1e15accef5ffd64f89d13aee737152c490811885c",
+        "perceptualHash": "117363734b4bc90e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BQUEBQMEAwMDAwIDAi+ed1xMDgECAgECAgMDBAUFBgUHBQQEBQYGAwQCDot0TnFuSQQBAwMCAQUCBAQFAwQEBAUEAwIEAgQFGWedQRWAYgIDBAUDCQMFBgQBAwIDBAUHBQMDBAEBBiRianl1FwIEBAMEBgIGAQICBAICAQEDAQMEBAUEQ4FyDTUVCgYFBQEFAgIBBAIEAwQEAQEDBAICARdBnGiknFsJBAIBAQEBBAIDAgEBAAECAgECBAMFIXl4W0kNXJhYBwkJDw0PEhIVFBMQCgkHDgsKCAgbi3lNKxkeRzNYJg8RDxASFBQRERMVERMUFRYVFBRQgjclNQ4yIhpQJQkJAgcEBAQCAgQECg4NCAoICAdhgC8LGEMSOxRAQwMCAgIEBAMBAwIEAQIDAwUGCCiRWwoXGRAxNTJZVgcGAwUDBggFBwcHBwcGBwcIB2OOJwkWEyUOFTdeXwgGBQIDAwMCAgIBBAMEBAUEIndXCxU6WhMPJjmBVQQEBQIBAAICAQICAgMEBAQEBFm0LD9PXUkOJBtmfxoFAwQCAQACAQIDBAQEBAQFBAehjTGNUWgrBBxOdiIFBAUEBAUEBAMBBAQEBAQEAwRum2M9Q5AnExxrfQMEAwICAwMEAwMDAQIDAgECAwRyZ8udhah9KB51dgEBAwMBAAICAgEDAQQEAwEDAQQNfmc6fEnwlG+WNQQDBAIBAwMCAQMFAAECBAEEAgUIPAsVTDaJ22IsCgoKBwUGBQUGBgkJBAMDAwQECAYKPSEdUR4cZFoLBgUFBQQEBAQCBAUCBAMFBAQEBAUII081QC8Ga1YJBAECAQECBAYCBQIBBAMBAgQCAgIFBEkiI0MOakgJBQYEAwUICAcICwkIBQUEAwMEBAUHByU+LFIRZUALCAkIBwgIBwcJCAUEAQIEBAMDBQYICQ9KJDE5aGELBQQFBQMEBAECAQIDAQIAAAEDAwMFCAxAGhdNQ3AMBwYBAQQHCAsICQcEAQUFBQcDBAYHCQk8MRE6HF8cCAQCBAQCAgQEBAUHAwQAAQIFAgMFCBdGFw0nEVsUBgMEBAECAQECAQADAQQDBAMAAQMDCC5IBg8kFl0SBAQDAQECAwICAwMDAQQEBAQEBAMFA0wxEwoqIGELBQMCAQIDAQQEBAUFAwUDBQQCBAYGFEYgDxglE2AHBgUDBAQDBAQFAwMBAgECAgECAwQEHzUeJj8sBGARBQQEAgMDAgQDAwQGBwQFBQYEBggGKjwzI1VOCWMdBwMEBAQBBQQFAwQDBgcIBwYHBQQHRFIIVCZdDmAuCggEBwcEBAMEBQQEAQMEBggKCggYLFc2T0BtFGI4DAoICAUJBAYCBAQDOjMhCwQFBgknLihQEYYtY1dkDwYGBgMCAQQFBAMDDhkuPD5AOyscITJXZQ1PEHpuUD0dBwQEAgUBAgMER0lFKQ8JFi5FRkxGQDIzEC19cnBpWjoFChIVFRMSAQ4iOkNGREAwDwkFKjIyKQwHEw0VL1cuGRcaFwoh",
+          "top": "BQUEBQMEAwMDAwIDAi+ed1xMDgECAgECAgMDBAUFBgUHBQQEBQYGAwQCDot0TnFuSQQBAwMCAQUCBAQFAwQEBAUEAwIEAgQFGWedQRWAYgIDBAUDCQMFBgQBAwIDBAUHBQMDBAEBBiRianl1FwIEBAMEBgIGAQICBAICAQEDAQMEBAUEQ4FyDTUVCgYFBQEFAgIBBAIEAwQEAQEDBAICARdBnGiknFsJBAIBAQEBBAIDAgEBAAECAgECBAMFIXl4W0kNXJhYBwkJDw0PEhIVFBMQCgkHDgsKCAgbi3lNKxkeRzNYJg8RDxASFBQRERMVERMUFRYVFBRQgjclNQ4yIhpQJQkJAgcEBAQCAgQECg4NCAoICAdhgC8LGEMSOxRAQwMCAgIEBAMBAwIEAQIDAwUGCCiRWwoXGRAxNTJZVgcGAwUDBggFBwcHBwcGBwcIB2OOJwkWEyUOFTdeXwgGBQIDAwMCAgIBBAMEBAUEIndXCxU6WhMPJjmBVQQEBQIBAAICAQICAgMEBAQEBFm0LD9PXUkOJBtmfxoFAwQCAQACAQIDBAQEBAQFBAehjTGNUWgrBBxOdiIFBAUEBAUEBAMB",
+          "middle": "BAMEBAUEIndXCxU6WhMPJjmBVQQEBQIBAAICAQICAgMEBAQEBFm0LD9PXUkOJBtmfxoFAwQCAQACAQIDBAQEBAQFBAehjTGNUWgrBBxOdiIFBAUEBAUEBAMBBAQEBAQEAwRum2M9Q5AnExxrfQMEAwICAwMEAwMDAQIDAgECAwRyZ8udhah9KB51dgEBAwMBAAICAgEDAQQEAwEDAQQNfmc6fEnwlG+WNQQDBAIBAwMCAQMFAAECBAEEAgUIPAsVTDaJ22IsCgoKBwUGBQUGBgkJBAMDAwQECAYKPSEdUR4cZFoLBgUFBQQEBAQCBAUCBAMFBAQEBAUII081QC8Ga1YJBAECAQECBAYCBQIBBAMBAgQCAgIFBEkiI0MOakgJBQYEAwUICAcICwkIBQUEAwMEBAUHByU+LFIRZUALCAkIBwgIBwcJCAUEAQIEBAMDBQYICQ9KJDE5aGELBQQFBQMEBAECAQIDAQIAAAEDAwMFCAxAGhdNQ3AMBwYBAQQHCAsICQcEAQUFBQcDBAYHCQk8MRE6HF8cCAQCBAQCAgQEBAUHAwQAAQIFAgMFCBdGFw0nEVsUBgMEBAECAQECAQAD",
+          "bottom": "AQIEBAMDBQYICQ9KJDE5aGELBQQFBQMEBAECAQIDAQIAAAEDAwMFCAxAGhdNQ3AMBwYBAQQHCAsICQcEAQUFBQcDBAYHCQk8MRE6HF8cCAQCBAQCAgQEBAUHAwQAAQIFAgMFCBdGFw0nEVsUBgMEBAECAQECAQADAQQDBAMAAQMDCC5IBg8kFl0SBAQDAQECAwICAwMDAQQEBAQEBAMFA0wxEwoqIGELBQMCAQIDAQQEBAUFAwUDBQQCBAYGFEYgDxglE2AHBgUDBAQDBAQFAwMBAgECAgECAwQEHzUeJj8sBGARBQQEAgMDAgQDAwQGBwQFBQYEBggGKjwzI1VOCWMdBwMEBAQBBQQFAwQDBgcIBwYHBQQHRFIIVCZdDmAuCggEBwcEBAMEBQQEAQMEBggKCggYLFc2T0BtFGI4DAoICAUJBAYCBAQDOjMhCwQFBgknLihQEYYtY1dkDwYGBgMCAQQFBAMDDhkuPD5AOyscITJXZQ1PEHpuUD0dBwQEAgUBAgMER0lFKQ8JFi5FRkxGQDIzEC19cnBpWjoFChIVFRMSAQ4iOkNGREAwDwkFKjIyKQwHEw0VL1cuGRcaFwoh"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.685058,
+          "top": 13.718465,
+          "middle": 17.171085,
+          "bottom": 24.642374,
+          "effectiveRatio": 0.512031
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1577
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "f28e1f9919a674a4808da3d1e15accef5ffd64f89d13aee737152c490811885c",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 원문 사진 사용의 근거로 기록한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "류지현",
+      "subject": "한화 이글스 신임 감독 류지현",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0918/1789709264855388.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2197082",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (09월 18일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch6\\manager-story\\ryu-2197082.webp",
+      "photoDate": "2026-09-18",
+      "checkedAt": "2026-10-15T20:12:01.330Z",
+      "context": "9월18일 일본나고야츄부국제공항입국때인터뷰하는류지현감독. 10월16일취임기자회견사진이아닌대표팀자료사진. 미확인사람들은작고흐린후경이며개별신원을추정하지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:10:02.032Z",
+        "width": 1200,
+        "height": 1381,
+        "bytes": 207386,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.9970111943692466,
+        "entropy": 7.3706532373144,
+        "effectiveDetailRatio": 0.554388,
+        "kind": "source",
+        "coverScale": 0.978,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0918/1789709264855388.webp",
+        "sha256": "a7ce4f0f443f341e64767c3e73c365faa4e3fc7678ca40a0951cfbc3b98f8fca",
+        "perceptualHash": "f0f87ce471583abc",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AAANNEhERkpOUVp6po6Yp5uHaWFMPTlBNjEqJiAZAAAtTSwmJycjL2aYekU6RXaPclNJOBENCwkHCQsIAAAlQSAJCwYQXpJqL0AuLklVa1BQXGoaCwsSDwsJAAAfOyALCxRNkmMNIh0wJSkuV1Q/QW9oNgkLFRALAAAaNSMSDyp6eyNWPjAXDhAYIjo/P1Zwe0cLDxQQAAASKiITEkSJQGM4O0sZDA8IDRgeFixFWaEyDRkPAAALIB4QC1RUSi8TQkolCwsHAwwMChY5E46BGhUDAAAKIR0NFF1EMRo/NTs4KCoWCBEJBgYtH2CcMhEGAAAKHhsNJzVIGz4lITFRUFpiMQ8SBQQWHkufUxQNAAALHhsOBy1WSS8XECEMKTlceikLBQQNFjiUbhMUAAAPJxsGBWpvKxE9Iw4mFxEZaWITOzxcG0CtXxUTAAAOJBoJAjppJTMPIkgaExEbQGZeblNeUlPKOygTAAANHRoQBBhNUBsLGwoTDBUfOj2BMQYMQV/LFiMGAAAKHR0MDE5gRBcfGBoJESQaIEEzSBkIK6yTMyMEAAAKHyAJO2M2KxAOHg4FFSkVCBokVxUWGqNGLg4KAAAPJRsEUC8oSg4TCQgHGSgTCQIxMzRTXYQJBwcOAAARJhcCMUhJWRweDgcMHSARAQsZMUxJpksDBhAOAAUZIBAFEGlzJg4YHgwQGxkPBgorTndHrBsQXntLAAAWKRcIEC1pURscEBAQFxQMDSU0VpB6jhdfanKnPzgZMh0VFTBlOxIMCwoRExASGCIvIXN9TREomX96i3kpOSMUGyJVPg4ECgsLDxEUHyw1GkpDCxsTLIdyUGlRHykLCitUKBQPBwIHDhEQFS48PwcxDS0lDgwVen4tJCsMDxRxYjMaCAIICxAQFCY0SVBHZjMrNwwmVyoWKzELEDgXY11MEw0LCwwREx8cPlQcWkcdKjIYEyQdITAWBRMsOl2KTBIOCw4OFB4LFx58XQ8uClQME0QeMiAYGBQzSR5ulCgQEA0IECMXDFqCDQYrWCZwWkEmMBMLEhw4GQwpeGgbDQUDBxYeRGw4CREmJW0pl1YrFBYOBBocBQY2Vlw3DgEFBClWZTMmBBUVIhMMK0EeHRsgGw0kGRk/Nl1QJy09W2tcKBUmBhYGIRYPJjdLRQ8HHEElBCknDExyXmJoWTYiDRYeAhQRHyUQIhCUfSweRB4YEy8aEgc+SDsoFR0QCQ0bCzIsKTktFJp0qIU5HhEWKygXChYFDgsMCxYCCwQTI08hHi40m4YQXuVsEQkcHzIOCxcFBgYCCwwKAg8ZTDQOCRUXcxAOFdCwBAMNPh1FCRYMChMcJTdCU01HQgUNCxAMEAcTTv+iBwQEMldOJRIeHhoUI01TQzEmEQ4LCgwIJwhA69cWAiRBGGsVSBI4Cw0XMyULFRYQDQ8MBgoIelWM3CsOQWN4UDdcPx8hJitDGw0TERAVJiIkHA8SeZdprD8yWU1NfBxnMzkyEz4OFiMJEhEcHBUIEQ4P",
+          "top": "AAANNEhERkpOUVp6po6Yp5uHaWFMPTlBNjEqJiAZAAAtTSwmJycjL2aYekU6RXaPclNJOBENCwkHCQsIAAAlQSAJCwYQXpJqL0AuLklVa1BQXGoaCwsSDwsJAAAfOyALCxRNkmMNIh0wJSkuV1Q/QW9oNgkLFRALAAAaNSMSDyp6eyNWPjAXDhAYIjo/P1Zwe0cLDxQQAAASKiITEkSJQGM4O0sZDA8IDRgeFixFWaEyDRkPAAALIB4QC1RUSi8TQkolCwsHAwwMChY5E46BGhUDAAAKIR0NFF1EMRo/NTs4KCoWCBEJBgYtH2CcMhEGAAAKHhsNJzVIGz4lITFRUFpiMQ8SBQQWHkufUxQNAAALHhsOBy1WSS8XECEMKTlceikLBQQNFjiUbhMUAAAPJxsGBWpvKxE9Iw4mFxEZaWITOzxcG0CtXxUTAAAOJBoJAjppJTMPIkgaExEbQGZeblNeUlPKOygTAAANHRoQBBhNUBsLGwoTDBUfOj2BMQYMQV/LFiMGAAAKHR0MDE5gRBcfGBoJESQaIEEzSBkIK6yTMyMEAAAKHyAJO2M2KxAOHg4FFSkVCBokVxUWGqNGLg4K",
+          "middle": "AAANHRoQBBhNUBsLGwoTDBUfOj2BMQYMQV/LFiMGAAAKHR0MDE5gRBcfGBoJESQaIEEzSBkIK6yTMyMEAAAKHyAJO2M2KxAOHg4FFSkVCBokVxUWGqNGLg4KAAAPJRsEUC8oSg4TCQgHGSgTCQIxMzRTXYQJBwcOAAARJhcCMUhJWRweDgcMHSARAQsZMUxJpksDBhAOAAUZIBAFEGlzJg4YHgwQGxkPBgorTndHrBsQXntLAAAWKRcIEC1pURscEBAQFxQMDSU0VpB6jhdfanKnPzgZMh0VFTBlOxIMCwoRExASGCIvIXN9TREomX96i3kpOSMUGyJVPg4ECgsLDxEUHyw1GkpDCxsTLIdyUGlRHykLCitUKBQPBwIHDhEQFS48PwcxDS0lDgwVen4tJCsMDxRxYjMaCAIICxAQFCY0SVBHZjMrNwwmVyoWKzELEDgXY11MEw0LCwwREx8cPlQcWkcdKjIYEyQdITAWBRMsOl2KTBIOCw4OFB4LFx58XQ8uClQME0QeMiAYGBQzSR5ulCgQEA0IECMXDFqCDQYrWCZwWkEmMBMLEhw4GQwpeGgbDQUDBxYeRGw4CREmJW0p",
+          "bottom": "VyoWKzELEDgXY11MEw0LCwwREx8cPlQcWkcdKjIYEyQdITAWBRMsOl2KTBIOCw4OFB4LFx58XQ8uClQME0QeMiAYGBQzSR5ulCgQEA0IECMXDFqCDQYrWCZwWkEmMBMLEhw4GQwpeGgbDQUDBxYeRGw4CREmJW0pl1YrFBYOBBocBQY2Vlw3DgEFBClWZTMmBBUVIhMMK0EeHRsgGw0kGRk/Nl1QJy09W2tcKBUmBhYGIRYPJjdLRQ8HHEElBCknDExyXmJoWTYiDRYeAhQRHyUQIhCUfSweRB4YEy8aEgc+SDsoFR0QCQ0bCzIsKTktFJp0qIU5HhEWKygXChYFDgsMCxYCCwQTI08hHi40m4YQXuVsEQkcHzIOCxcFBgYCCwwKAg8ZTDQOCRUXcxAOFdCwBAMNPh1FCRYMChMcJTdCU01HQgUNCxAMEAcTTv+iBwQEMldOJRIeHhoUI01TQzEmEQ4LCgwIJwhA69cWAiRBGGsVSBI4Cw0XMyULFRYQDQ8MBgoIelWM3CsOQWN4UDdcPx8hJitDGw0TERAVJiIkHA8SeZdprD8yWU1NfBxnMzkyEz4OFiMJEhEcHBUIEQ4P"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 17.954221,
+          "top": 19.65856,
+          "middle": 12.86172,
+          "bottom": 17.857845,
+          "effectiveRatio": 0.554388
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1381
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "a7ce4f0f443f341e64767c3e73c365faa4e3fc7678ca40a0951cfbc3b98f8fca",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 원문 사진 사용의 근거로 기록한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    }
+  ]
+}
