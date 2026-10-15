@@ -1,0 +1,389 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "MLB 골드글러브, 최종 후보 60명 발표",
+  "issueKey": "mlb-2026-gold-glove-finalists-announcement",
+  "checkedAt": "2026-10-15T21:00:15.383Z",
+  "sourceUrl": "https://statsapi.mlb.com/api/v1/people/691718/stats?stats=season&group=fielding&season=2026",
+  "corroboratingUrls": [
+    "https://www.rawlings.com/gold-glove-finalists.html",
+    "https://www.mlb.com/news/2026-gold-glove-award-finalists",
+    "https://www.mlbkor.com/news/articleView.html?idxno=34063",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013263"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://statsapi.mlb.com/api/v1/people/691718/stats?stats=season&group=fielding&season=2026",
+      "publishedAt": null,
+      "checkedAt": "2026-10-15T20:58:32.612Z",
+      "title": "Pete Crow-Armstrong 2026 regular-season fielding statistics",
+      "role": "직접 관련 공식 MLB 기록 배경. 691718의2026정규시즌CF157경기1370이닝과시카고컵스소속을실제응답으로확인. 날짜가없는조회형API로후보발표일이나후보명단을증명하지않는다."
+    },
+    {
+      "url": "https://www.rawlings.com/gold-glove-finalists.html",
+      "publishedAt": "2026-10-14",
+      "title": "2026 Rawlings Gold Glove Award Finalists Announced",
+      "role": "현재 이슈의 직접 공식 발표 원문. 전체60후보, 구단별5명최다, 발표예정시각과선정방식확인. 최상단publishedAt은이현재공식발표일이며StatsAPI발행일이라는뜻이아니다."
+    },
+    {
+      "url": "https://www.mlb.com/news/2026-gold-glove-award-finalists",
+      "publishedAt": "2026-10-14",
+      "title": "2026 Gold Glove Award finalists revealed",
+      "role": "전체 후보·팀·포지션, 투표75/25·유틸별도, 선수과거수상이력교차. 수상결과로과장하지않음."
+    },
+    {
+      "url": "https://www.mlbkor.com/news/articleView.html?idxno=34063",
+      "publishedAt": "2026-10-15",
+      "role": "국내 선수명 통용 표기와 전체 후보명단 교차. 자동 직역에 기대지 않고 SPOTV·국내사진원문과 대조."
+    },
+    {
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013263",
+      "publishedAt": "2026-10-15",
+      "role": "피트 크로-암스트롱·앤디 파헤스·맥스 먼시 등 국내 표기와 NL 후보·소속 대조. 수상 유력 전망은 확정 사실로 쓰지 않음."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "체이스 메이드로스",
+      "subject": "체이스 메이드로스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/01/2026100101000053500000882_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-01/202610010100005350000088",
+      "imageCredit": "Alex Slitz / Getty Images / AFP",
+      "creditDisplay": "사진 · Getty Images/AFP (9월 30일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\cle-extra\\photo-53122f1c2bdf.jpg",
+      "photoDate": "2026-09-30",
+      "photoDateLabel": "9월 30일 자료사진",
+      "checkedAt": "2026-10-15T20:58:32.612Z",
+      "context": "휴스턴 다이킨파크 와일드카드 2차전 6회 3점 홈런 뒤의 실제 체이스 메이드로스 사진. 등번호10과 원문 영문캡션으로 인물·화이트삭스 소속 확인. 뒤쪽에 가려져 부분만 보이는 동료는 주제가 아니며 신원을 추정하지 않는다. 골드글러브 수상 현장이 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:54:00.498Z",
+        "width": 1200,
+        "height": 1691,
+        "bytes": 1242535,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.818508666551317,
+        "entropy": 7.6208024537190795,
+        "effectiveDetailRatio": 0.554644,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/01/2026100101000053500000882_w.jpg",
+        "sha256": "53122f1c2bdf900678faace8245272a7dbb6ae70822aca5ae1ecf18a8dd1ec56",
+        "perceptualHash": "0f0f6141f8990b9b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DAMNCAoICYX/w/8V+3PhUo5MrVkuPm19GgIIEQ0LCgIOCwwLBweP6nkLl9ZCRBZwMWIwa3iXohgNCwYKCwMLCxAIBQYJJBAOHl0qYG0rFiUlRFxwgFoJBAEFDAUDCAQUDxgiFgoIJx48RWpkFEomUmdzVyEZMjsaHBMKFjRAOC0nLSAXIzJJQSBCZhlUIisOHi8nPE4/JSwqSHZfQSIVIDFAYFxlcUFgKzQ8PjFGMSUGQyZDUywYXE40OxYPExoqHDYiRiYeCC1pDxRgcSQkJ0IZPj4IUUhoUi4eIyMNGyJLFzlRQUB0RXdcZ2EDFQQOGkMFJl08Fg8dFxsZEhUmJ207fDlUfkJlaj8wKjERNCMJHgpKTjobHCkgSkI2ak0tanFEEG9WNC5HMUAmExQJHE4rLTsgCSBNRiN2OVtEMGdHejcYJi8aHCpJDhIZDzJILRUeHSwFSigLQDwoBCA/NTAPKEdjDAg/EBwGHQ4JGhkcQA9FEi8IGh4NMWZECDeMh5VYZB8wGRMkIx0uHBFoMisXNwwNDxIdr6x8FqCNHtyyRzEUGiY0FhkeFkZjBy0ZDQwLBgl1njCqFZEgPxjARTwaJjEpGxQJN2cpFB0mBBkFBwIoh0lnUJBbKjNMbQkUITgQJBEuSVgOCxUvZIhRCgMsfFxZjj2QPjMvTx5COS4VHjU4OCMGEzaBkiOtSRUcTZs3f0dvRjMqGBhXLx0LDSpDc2E8CkCDKgtTVg0cKGuQam9gZyEgISM/GgYhFCFSaFpag15hmy22WRILDhBhfRmPbjQdBw09DRIJODBzVnk0mYRDbqVvBgkHCxUlIhqLcyUZEBIeJRgoFFQ5K19GH5VwFykUCQQIDgwKBxGDgRwbOCUhGhYFDlegfzgoNVxhEAoDAwQJDAkKBEe1QhQnLiQ4PCAsOlp+dEAmMkxZGAwKDQYLCQgKBJSlNTkpVjU4BxQoU0VBXGY9O5B8GRkFDhUKCQkMEJ+aEUZbRSMdLR0aSGSDUkg9HE6vlHMaGgMMBg5Ab6BpKCoWBTgcHyYYImASHCoYGSBWoK+1LSIUDk2ggVagR5tvSDIRODUhDRg2SzcXFyZMNUq30W0XGX5PQHKGQ46jJxokMiM4DQ4xR0UiOlNQChg1lc+rgoRWT0JGVVCCODUyMRQNIRJCDjUrOn1OEwcZFECHoYFWHidAZGCWjl1iQx0vHxZGHxgZIIVuDyokTkcnCwIUJTIXnYerJxoSFU0lIVYXEBRYYGNXFyZFK01LMiAQBy1ZQDFmkI6HETxDIyYdFFdJKCpLDA4XYkUwMhsTBD1zFU8gGBMtLhIpJBIECEZENFFYDBAHR1cvOAkTFnNUTTCEZ2h9KwQVNjQZLzMOFlJbBgkQW2U4SgcJGXJFI1cfICAoPhgOHSwtRDULGytdDQgOblRFPgcEKitdMRZIQEMjNVMqRDMuMTMkITJxGQsLXlU5OAcIGhQaUhYsMVAiHhYjIkQrDUVCCj9xFxEVZT47LwQLGQwVT4gUGTMh",
+          "top": "DAMNCAoICYX/w/8V+3PhUo5MrVkuPm19GgIIEQ0LCgIOCwwLBweP6nkLl9ZCRBZwMWIwa3iXohgNCwYKCwMLCxAIBQYJJBAOHl0qYG0rFiUlRFxwgFoJBAEFDAUDCAQUDxgiFgoIJx48RWpkFEomUmdzVyEZMjsaHBMKFjRAOC0nLSAXIzJJQSBCZhlUIisOHi8nPE4/JSwqSHZfQSIVIDFAYFxlcUFgKzQ8PjFGMSUGQyZDUywYXE40OxYPExoqHDYiRiYeCC1pDxRgcSQkJ0IZPj4IUUhoUi4eIyMNGyJLFzlRQUB0RXdcZ2EDFQQOGkMFJl08Fg8dFxsZEhUmJ207fDlUfkJlaj8wKjERNCMJHgpKTjobHCkgSkI2ak0tanFEEG9WNC5HMUAmExQJHE4rLTsgCSBNRiN2OVtEMGdHejcYJi8aHCpJDhIZDzJILRUeHSwFSigLQDwoBCA/NTAPKEdjDAg/EBwGHQ4JGhkcQA9FEi8IGh4NMWZECDeMh5VYZB8wGRMkIx0uHBFoMisXNwwNDxIdr6x8FqCNHtyyRzEUGiY0FhkeFkZjBy0ZDQwLBgl1njCqFZEgPxjARTwa",
+          "middle": "EBwGHQ4JGhkcQA9FEi8IGh4NMWZECDeMh5VYZB8wGRMkIx0uHBFoMisXNwwNDxIdr6x8FqCNHtyyRzEUGiY0FhkeFkZjBy0ZDQwLBgl1njCqFZEgPxjARTwaJjEpGxQJN2cpFB0mBBkFBwIoh0lnUJBbKjNMbQkUITgQJBEuSVgOCxUvZIhRCgMsfFxZjj2QPjMvTx5COS4VHjU4OCMGEzaBkiOtSRUcTZs3f0dvRjMqGBhXLx0LDSpDc2E8CkCDKgtTVg0cKGuQam9gZyEgISM/GgYhFCFSaFpag15hmy22WRILDhBhfRmPbjQdBw09DRIJODBzVnk0mYRDbqVvBgkHCxUlIhqLcyUZEBIeJRgoFFQ5K19GH5VwFykUCQQIDgwKBxGDgRwbOCUhGhYFDlegfzgoNVxhEAoDAwQJDAkKBEe1QhQnLiQ4PCAsOlp+dEAmMkxZGAwKDQYLCQgKBJSlNTkpVjU4BxQoU0VBXGY9O5B8GRkFDhUKCQkMEJ+aEUZbRSMdLR0aSGSDUkg9HE6vlHMaGgMMBg5Ab6BpKCoWBTgcHyYYImASHCoYGSBWoK+1LSIUDk2ggVagR5tvSDIR",
+          "bottom": "PCAsOlp+dEAmMkxZGAwKDQYLCQgKBJSlNTkpVjU4BxQoU0VBXGY9O5B8GRkFDhUKCQkMEJ+aEUZbRSMdLR0aSGSDUkg9HE6vlHMaGgMMBg5Ab6BpKCoWBTgcHyYYImASHCoYGSBWoK+1LSIUDk2ggVagR5tvSDIRODUhDRg2SzcXFyZMNUq30W0XGX5PQHKGQ46jJxokMiM4DQ4xR0UiOlNQChg1lc+rgoRWT0JGVVCCODUyMRQNIRJCDjUrOn1OEwcZFECHoYFWHidAZGCWjl1iQx0vHxZGHxgZIIVuDyokTkcnCwIUJTIXnYerJxoSFU0lIVYXEBRYYGNXFyZFK01LMiAQBy1ZQDFmkI6HETxDIyYdFFdJKCpLDA4XYkUwMhsTBD1zFU8gGBMtLhIpJBIECEZENFFYDBAHR1cvOAkTFnNUTTCEZ2h9KwQVNjQZLzMOFlJbBgkQW2U4SgcJGXJFI1cfICAoPhgOHSwtRDULGytdDQgOblRFPgcEKitdMRZIQEMjNVMqRDMuMTMkITJxGQsLXlU5OAcIGhQaUhYsMVAiHhYjIkQrDUVCCj9xFxEVZT47LwQLGQwVT4gUGTMh"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 34.931635,
+          "top": 34.990498,
+          "middle": 40.447405,
+          "bottom": 28.73192,
+          "effectiveRatio": 0.554644
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1691
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "53122f1c2bdf900678faace8245272a7dbb6ae70822aca5ae1ecf18a8dd1ec56",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 국내 언론사 실제 게재 원문 사진과 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "피트 크로-암스트롱 · 에단 살라스",
+      "subject": "피트 크로-암스트롱 · 에단 살라스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/01/2026100101000091800003171_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-01/202610010100009180000317",
+      "imageCredit": "AFP연합뉴스",
+      "creditDisplay": "사진 · AFP연합뉴스 (촬영일 미확인 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb5-story\\sc-more\\original-4.jpg",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 자료사진",
+      "checkedAt": "2026-10-15T20:58:32.612Z",
+      "context": "10월1일 스포츠조선 원문에 게재된 PCA와 샌디에이고 포수 에단 살라스의 첫 타석 인사 실제 사진. 촬영일 자체는 캡션에서 명시하지 않아 미확인으로 표기한다. 에단 살라스가 골드글러브 후보라는 뜻이 아니며 두 인물·컵스·파드리스 태그를 포함한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:46:47.767Z",
+        "width": 1200,
+        "height": 1608,
+        "bytes": 1463657,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.253365126896657,
+        "entropy": 7.790218191046733,
+        "effectiveDetailRatio": 0.551242,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/01/2026100101000091800003171_w.jpg",
+        "sha256": "d30b8283ca061baf49a1d23c0c1cf3d4385f6baf63e0adc68a727664ed240570",
+        "perceptualHash": "0c81273676773735",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "GxwlBA5Cj8kpRW1SMlARKDdWaSlXkixxeziQOTSHEREMGhU6NCp5X1h4KywwMSkETHk2UlM8RBmHgW9eCiwVOCYSTjFJh6ocLjccGEYhTRUjHg4iXDY4RVVZKwscByBCJ3wbUIp+KkROQConSUVXLzVHTRRNQkE5CiMiPSpJejaOfDBJEDlYQRINQSQfeiBdq8poPR5JOzIRCkBQarVsOWIMFkQ3bJinnrCQLaOrhsHHOCs3LVA4QzE7xGQYRWMsTig4bHJTLWCtCNZTGRiJlitwSEAJJkutsAlCW3EoNkAyy4AEHlufcbokUmMwlS6KOSUWKV+lWVBQe0cHCSslUKxAMzFrrVRNVWRRWUVmBh5OJx2AIp+3PAkHBSMtVZR2Ix9FRktALhd0WSxPBCwtNGGVZUfO/38FCBcHEV9/YywJbkkINlsodDdmFyUXY+eBLAsltP91P19XUltpWzyKajRPL0SDMkduQVFh1YIeFw0LFKiXDy4TJiQSYFNEDBAlX0tUVy57Ml2IhjMOEhMWQY60KjYmEhUOHBwOCAghGkcKRzRikItWNgoPCyNRiEu0NiAVEw0KIio2HSY2DScqDRZQfp5mOgcbGTmhJFJyWxwDGQkaVFoqXVUuISMeFC5IiG9dVxIXLDl9RjRTdiEeDAxPXRQ/LGohMyEhXCQvbHpsTBImIxR3aUd3jAckCCRPEUMSEGEYNRprUpYQPitfrConJy85H0iNiAQcAitWDz41MmoTLxhmTYVTTjUblP+eNpGyYUFHZBItAQ9JdxMmcVcQNigojz6RGDcVmDnUfIdUSw4yakwuIxATWHVZPRguKSA2LZu9GRqQlveuTIpfRgsVPH1UNksjHRkqJw4WGy4cNpdKHzCjhUyEWYfMLiUeDx0ze7a1t4pgWyovKyQeDFxxDxu5mE4gO7l2f0IUJDZAi1BemlZEUmE6I1kIJxsvHFeOTRIno4RoaUsbPENwq8bDnX1AKTdFQjkZFA4kTEk9bm8UR8/Tn258Vx0vp6u286N8WUkRHAwfFSVNM0B4hRIJBS1kgoXWLxE+EhsjHkVlOjQ9KBgiHRAuE2KwSgkDAgQJECjBqSscXWpUZktAlot/WGVLGCIVB320MAUCAgEEERJ7wR5dhoq6fICdjS0TJix7SB8eGXipKgMIBgsJCRRqtxeLeUBDTmdjJR8hElRwJDEbEVSuRhMMDQkLCBKDsCOOMAsmEQsUGCIZOGJIMCcGO0rNzRgLBgYFCCGWiix8LwkNDR4UMWA+O2JkHhgQDg1A/JENCQwJDBd1nyOMRwgNDyQYWlkkd1nDWwwNO0U5nLEVBgQKDhuLtiWeZQIVETMjP2o6iHNXy38WUCEZsIgGAQYMERh6wS6gfQsLKghbFzCFR1FrF7i1XhhHzm8JAgYJGRRv2rbQkhQOGk0xYGFHYE8USy906Z5NsYoKAgcSIQ8acOLEEA0NEkUucSsRGTI3RCgpbotfkoIJBBYcTxEXM5mCNgwEBjAhdh8ICw0IKCMK",
+          "top": "GxwlBA5Cj8kpRW1SMlARKDdWaSlXkixxeziQOTSHEREMGhU6NCp5X1h4KywwMSkETHk2UlM8RBmHgW9eCiwVOCYSTjFJh6ocLjccGEYhTRUjHg4iXDY4RVVZKwscByBCJ3wbUIp+KkROQConSUVXLzVHTRRNQkE5CiMiPSpJejaOfDBJEDlYQRINQSQfeiBdq8poPR5JOzIRCkBQarVsOWIMFkQ3bJinnrCQLaOrhsHHOCs3LVA4QzE7xGQYRWMsTig4bHJTLWCtCNZTGRiJlitwSEAJJkutsAlCW3EoNkAyy4AEHlufcbokUmMwlS6KOSUWKV+lWVBQe0cHCSslUKxAMzFrrVRNVWRRWUVmBh5OJx2AIp+3PAkHBSMtVZR2Ix9FRktALhd0WSxPBCwtNGGVZUfO/38FCBcHEV9/YywJbkkINlsodDdmFyUXY+eBLAsltP91P19XUltpWzyKajRPL0SDMkduQVFh1YIeFw0LFKiXDy4TJiQSYFNEDBAlX0tUVy57Ml2IhjMOEhMWQY60KjYmEhUOHBwOCAghGkcKRzRikItWNgoPCyNRiEu0NiAVEw0KIio2HSY2DScqDRZQ",
+          "middle": "QVFh1YIeFw0LFKiXDy4TJiQSYFNEDBAlX0tUVy57Ml2IhjMOEhMWQY60KjYmEhUOHBwOCAghGkcKRzRikItWNgoPCyNRiEu0NiAVEw0KIio2HSY2DScqDRZQfp5mOgcbGTmhJFJyWxwDGQkaVFoqXVUuISMeFC5IiG9dVxIXLDl9RjRTdiEeDAxPXRQ/LGohMyEhXCQvbHpsTBImIxR3aUd3jAckCCRPEUMSEGEYNRprUpYQPitfrConJy85H0iNiAQcAitWDz41MmoTLxhmTYVTTjUblP+eNpGyYUFHZBItAQ9JdxMmcVcQNigojz6RGDcVmDnUfIdUSw4yakwuIxATWHVZPRguKSA2LZu9GRqQlveuTIpfRgsVPH1UNksjHRkqJw4WGy4cNpdKHzCjhUyEWYfMLiUeDx0ze7a1t4pgWyovKyQeDFxxDxu5mE4gO7l2f0IUJDZAi1BemlZEUmE6I1kIJxsvHFeOTRIno4RoaUsbPENwq8bDnX1AKTdFQjkZFA4kTEk9bm8UR8/Tn258Vx0vp6u286N8WUkRHAwfFSVNM0B4hRIJBS1kgoXWLxE+EhsjHkVlOjQ9KBgiHRAu",
+          "bottom": "Dxu5mE4gO7l2f0IUJDZAi1BemlZEUmE6I1kIJxsvHFeOTRIno4RoaUsbPENwq8bDnX1AKTdFQjkZFA4kTEk9bm8UR8/Tn258Vx0vp6u286N8WUkRHAwfFSVNM0B4hRIJBS1kgoXWLxE+EhsjHkVlOjQ9KBgiHRAuE2KwSgkDAgQJECjBqSscXWpUZktAlot/WGVLGCIVB320MAUCAgEEERJ7wR5dhoq6fICdjS0TJix7SB8eGXipKgMIBgsJCRRqtxeLeUBDTmdjJR8hElRwJDEbEVSuRhMMDQkLCBKDsCOOMAsmEQsUGCIZOGJIMCcGO0rNzRgLBgYFCCGWiix8LwkNDR4UMWA+O2JkHhgQDg1A/JENCQwJDBd1nyOMRwgNDyQYWlkkd1nDWwwNO0U5nLEVBgQKDhuLtiWeZQIVETMjP2o6iHNXy38WUCEZsIgGAQYMERh6wS6gfQsLKghbFzCFR1FrF7i1XhhHzm8JAgYJGRRv2rbQkhQOGk0xYGFHYE8USy906Z5NsYoKAgcSIQ8acOLEEA0NEkUucSsRGTI3RCgpbotfkoIJBBYcTxEXM5mCNgwEBjAhdh8ICw0IKCMK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 32.924144,
+          "top": 30.616191,
+          "middle": 35.116052,
+          "bottom": 31.294832,
+          "effectiveRatio": 0.551242
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1608
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d30b8283ca061baf49a1d23c0c1cf3d4385f6baf63e0adc68a727664ed240570",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 국내 언론사 실제 게재 원문 사진과 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "블라디미르 게레로 주니어",
+      "subject": "블라디미르 게레로 주니어",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/14/2026091401000937100061344_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-14/202609140100093710006134",
+      "imageCredit": "Imagn Images연합뉴스",
+      "creditDisplay": "사진 · Imagn Images연합뉴스 (9월 14일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb5-story\\sc-photos\\original-2.jpg",
+      "photoDate": "2026-09-14",
+      "photoDateLabel": "9월 14일 자료사진",
+      "checkedAt": "2026-10-15T20:58:32.612Z",
+      "context": "원문 캡션상 9월14일 한국시각 로저스센터 볼티모어전 5회말 홈런 뒤 홈팬들을 향한 실제 세리머니 사진. 승리 뒤 음료세례 사진이라고 쓰지 않는다. 중앙 주요 인물은 게레로 주니어이며 가장자리 동료와 관중은 부수적인 후경이다. 수상 현장 사진이 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:46:28.970Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 2008732,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 4.5060715881300055,
+        "entropy": 7.583280938502867,
+        "effectiveDetailRatio": 0.584613,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/14/2026091401000937100061344_w.jpg",
+        "sha256": "a46562e90a7a15bea78a5cf774b0d8bbc003eaef97338ba91444a1ec9768b94c",
+        "perceptualHash": "897878d3ce2e2e3f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Eyw1SE0eYjtPGkpKVBVaJTR6NyQoDh1MWENRDxwwEx4QTC8zTEk+FW0qU1NBeXcKlGkdIRA0VHEdPDM8LBIfN0M8FAwNOAkxB0WJW1mpVGBDHhEYRR1DGCsJHTQ6HkExLkY9JkIxECk+IAc0aVEFHC4cLzkPMQYfGzUsjlV5kyQtHy0IGRA3JwENAwkdRShIKCI9IyFQeT4gPmNrbW0cLiEkDRA5LwIBCgguOxw1Ni8oEEVfQI8oPjNZWDULHCMeIRU0MQAEBQUSNUAeTCoVd10pNkswEhIZAx0VEx4YGhwcJhELDA4gHyo6OwltTkYpGV9UNj9MSkhFWEElO0QtUTArKypKGB0XFi1EFSNPCxUmLy8XHjVDRGIxYVc3WIdqYWlaNhdSTVk/OSMhGhUFAwUQEAQKOW1mch1FPUlKQUdBakKIKTQqHCAOCQsJBwkIBAMOZiqhIHqQhnkTEkCPDalIGAQLCCcNKCQeGBMMDAYrcDd1EYR8PKhpT3E3lI8OJg4RIyUmeXx5d3VwamVxS1FqQJldBTqSbhtncElFLyMcMToaRkNRU1pgY2lhG2BOg1wuGh8eZHA6PpCThnd1dYJzL2EjBAEECAkfIyliJRwDHyY9E35eYFtNTFRTVlphXXmPIAcBAQIGFBocGwcPKDomUB+MTV1ADQICAgYHMiCPawoEAQUJNjApDxIuKR0bMEEkTB0rIwwEBAUJJD9EW0ghBglfORwQJBMePUEZHxYaJiwlKwQDBgAGIzcoWB9QIF5APRcLFhUNDQoPBhQXIxlIFwkJBAMFTycdVFUiKGczFw8hHwQYBAYEHAwZI0EiAgQCAQEBG0RGSjlyMgM5Jyg7KkwgGQkSDwUhJhIEAQEDAgIEWksZL2ZTNFEnGWE0o3SBiEEZOxUNAwQCAgQEAwQEPTMGKCsfUhwZaBChg09ykLqduEkGBgQEBAQDBAwJDAswEzYOLCtPJiCPnDIwGVKAyccNEBAMAwMCHzISIgkQN0VDUxk7JxBK1WMJBwUuaeU2DgMLCQUdMRsPHQQJSC5fHk1KRSgguZILCiM3KNN0DxASCggOMC8QGwkIIklCBWwtSik2h6kaCysFKrCTCwkQCgMJCRMgHAsPBCccX1MkLQ4ZT4QwBSAOHKCjCAoLDCYLHAYOGgwGDSA6HzlBMSAcSaxUCSoSIJeoCREIMBcpER0dGgsDBBYyTR4pKRIPMqxiHmobGXagGBcRHgodDw0mGA4JGygOY4JEMy4uObVYdotPGoh6FR4bMQQZFxAmFxAIKBB/sVR4RjVGIKYoqDV5DItPERAyHwsbHSkmFw8KKx6XZBNLMSJBK7McrAV6ZXAoCQgRDw8WFBcWFhEJMC2eTiVCDRBQWZdwpQtccSchAgMJAwMEAwIDFRIHMDyhOChGNkMbe2KwdQ8LHCMJAAEGBAMEAQMCEhUJKkeQJSFMUQYjjC+wTz0dCxACAQQGBAQDAAIDEx4OO1iRIx9GOzhEti3YPINBFxohGxcXGBUSEhAM",
+          "top": "Eyw1SE0eYjtPGkpKVBVaJTR6NyQoDh1MWENRDxwwEx4QTC8zTEk+FW0qU1NBeXcKlGkdIRA0VHEdPDM8LBIfN0M8FAwNOAkxB0WJW1mpVGBDHhEYRR1DGCsJHTQ6HkExLkY9JkIxECk+IAc0aVEFHC4cLzkPMQYfGzUsjlV5kyQtHy0IGRA3JwENAwkdRShIKCI9IyFQeT4gPmNrbW0cLiEkDRA5LwIBCgguOxw1Ni8oEEVfQI8oPjNZWDULHCMeIRU0MQAEBQUSNUAeTCoVd10pNkswEhIZAx0VEx4YGhwcJhELDA4gHyo6OwltTkYpGV9UNj9MSkhFWEElO0QtUTArKypKGB0XFi1EFSNPCxUmLy8XHjVDRGIxYVc3WIdqYWlaNhdSTVk/OSMhGhUFAwUQEAQKOW1mch1FPUlKQUdBakKIKTQqHCAOCQsJBwkIBAMOZiqhIHqQhnkTEkCPDalIGAQLCCcNKCQeGBMMDAYrcDd1EYR8PKhpT3E3lI8OJg4RIyUmeXx5d3VwamVxS1FqQJldBTqSbhtncElFLyMcMToaRkNRU1pgY2lhG2BOg1wuGh8eZHA6PpCThnd1dYJz",
+          "middle": "KCQeGBMMDAYrcDd1EYR8PKhpT3E3lI8OJg4RIyUmeXx5d3VwamVxS1FqQJldBTqSbhtncElFLyMcMToaRkNRU1pgY2lhG2BOg1wuGh8eZHA6PpCThnd1dYJzL2EjBAEECAkfIyliJRwDHyY9E35eYFtNTFRTVlphXXmPIAcBAQIGFBocGwcPKDomUB+MTV1ADQICAgYHMiCPawoEAQUJNjApDxIuKR0bMEEkTB0rIwwEBAUJJD9EW0ghBglfORwQJBMePUEZHxYaJiwlKwQDBgAGIzcoWB9QIF5APRcLFhUNDQoPBhQXIxlIFwkJBAMFTycdVFUiKGczFw8hHwQYBAYEHAwZI0EiAgQCAQEBG0RGSjlyMgM5Jyg7KkwgGQkSDwUhJhIEAQEDAgIEWksZL2ZTNFEnGWE0o3SBiEEZOxUNAwQCAgQEAwQEPTMGKCsfUhwZaBChg09ykLqduEkGBgQEBAQDBAwJDAswEzYOLCtPJiCPnDIwGVKAyccNEBAMAwMCHzISIgkQN0VDUxk7JxBK1WMJBwUuaeU2DgMLCQUdMRsPHQQJSC5fHk1KRSgguZILCiM3KNN0DxASCggOMC8Q",
+          "bottom": "PTMGKCsfUhwZaBChg09ykLqduEkGBgQEBAQDBAwJDAswEzYOLCtPJiCPnDIwGVKAyccNEBAMAwMCHzISIgkQN0VDUxk7JxBK1WMJBwUuaeU2DgMLCQUdMRsPHQQJSC5fHk1KRSgguZILCiM3KNN0DxASCggOMC8QGwkIIklCBWwtSik2h6kaCysFKrCTCwkQCgMJCRMgHAsPBCccX1MkLQ4ZT4QwBSAOHKCjCAoLDCYLHAYOGgwGDSA6HzlBMSAcSaxUCSoSIJeoCREIMBcpER0dGgsDBBYyTR4pKRIPMqxiHmobGXagGBcRHgodDw0mGA4JGygOY4JEMy4uObVYdotPGoh6FR4bMQQZFxAmFxAIKBB/sVR4RjVGIKYoqDV5DItPERAyHwsbHSkmFw8KKx6XZBNLMSJBK7McrAV6ZXAoCQgRDw8WFBcWFhEJMC2eTiVCDRBQWZdwpQtccSchAgMJAwMEAwIDFRIHMDyhOChGNkMbe2KwdQ8LHCMJAAEGBAMEAQMCEhUJKkeQJSFMUQYjjC+wTz0dCxACAQQGBAQDAAIDEx4OO1iRIx9GOzhEti3YPINBFxohGxcXGBUSEhAM"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 33.190003,
+          "top": 37.079075,
+          "middle": 31.430456,
+          "bottom": 27.676875,
+          "effectiveRatio": 0.584613
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1799
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "a46562e90a7a15bea78a5cf774b0d8bbc003eaef97338ba91444a1ec9768b94c",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 국내 언론사 실제 게재 원문 사진과 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "앤디 파헤스 · 맥스 먼시",
+      "subject": "앤디 파헤스 · 맥스 먼시",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/04/15/2026041501001014700065414_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-04-15/202604150100101470006541",
+      "imageCredit": "Harry How / Getty Images / AFP",
+      "creditDisplay": "사진 · Getty Images/AFP (4월 10일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb5-story\\sc-extra\\original-13.jpg",
+      "photoDate": "2026-04-10",
+      "photoDateLabel": "4월 10일 자료사진",
+      "checkedAt": "2026-10-15T20:58:32.612Z",
+      "context": "4월10일 현지 다저스타디움 텍사스전 8회 2점 홈런 뒤 앤디 파헤스44와 맥스 먼시13이 인사하는 실제 사진. 두 사람 모두 2026년 공식 후보이며 사진 자체는 4월 자료사진이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:48:03.145Z",
+        "width": 1200,
+        "height": 1586,
+        "bytes": 940592,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.4683041332617122,
+        "entropy": 7.51906928444987,
+        "effectiveDetailRatio": 0.475083,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/04/15/2026041501001014700065414_w.jpg",
+        "sha256": "2122a0a63d45ec54154de2e09d7d2e45f28a7e397ad4da504af530cea113395d",
+        "perceptualHash": "d219191333155595",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CiQWKzoaDQ49ERwZECUgCQkYCAkqPUIJNyAFBRMhTDUtOCkUBw4dHgQpHhIhCB8MExM8MigwMwoGEiQMSRgROywqDgoiFCILESMNEQkaExxAERxEJA4WKh8WNzFAMBQTIQklIyE+Hx8MCAUECkImMigvKxMtQ04vKT4kFxIpJkycj5R/RQwKAxwTCR48EEUxOw1WQTFSCwkMByIptuGdanfc0TEEECgVCxI1WzNRSjlCIRIhEQgLHkT+ykc4V1Ir//9aHhYXRhg+SDosl6InIB0PExQbH/m3K10uF11gJc//QCYzUnKcdUDHzLHGMzUmBAESu+YjHSkrQk0oISjaoTRPQGVbPydoCQqXzF5NBAtV4kAkOJ1YP2mMDDWbnhdZblRso7PQdS4j0o43DQlsvGcvbEclbUiiF1jIfBspT1FFcg6pnmQ2oooUFR9xVGxzTH4QR0eUT3vKNR4RM0MgancnjIaKkIcRCD1/UICXY414YoQ+PoWUBxIQPmBjTJZEPneSZ38MDQ02dzdytEhQFl5KHU6ikIFFS6ZrL46sRx85dB4jHhQdDxqCpFYQDyg5dEtTbKORMbE4IDSNs6l/YCAjLyswJhtYQltHOFlQW4F1tFS4WbktFhIZSG60aBcLFikaPhWVjXEnXH9rY6otaJVQc7M6M0NCF0C0YA4OIxAuNUrOlCkMHXVkddFzKSQHjrQYLxhBWivGgQwSKRQaJWSfQCgkHyAYMah6GxoXsJ4LHDVGFi6olhwHHzoFBnqACRwqOSoVIJmULRouwn4RFDU5JieLliknDiklCnVuCCAWMkArIaOgGQdLzG8fMzM6JhB0dTQxEx8uFHKEIhM0FSEnEJeGFg9YumMBTjw4Lg1zbhMhISE3FlWySRgwKi0iH6d9BAhcqFkSW1g8MBOGeytOERAaGEqmWCFcOmAVO8FxBwNknlgEk0phLySRb0JoLy8tInKcQyFwE1cTQb9SCQJjjE0hlBdqMCKIVVBbIxsfE3u6OT+KIWktb8o5CAdykzwulxlqQw5/d0hfEg0JK81+B266QJQfo6UmFA9xkUlyrBBzZDl1o1lwCQ0EeaM+V99+c6ABq4gcKjGXbAWcbxVBeFBJpD1yExIpn1A+v4oUlYkDkYoYETlzPjOaMwcOenNFpi9/DRJmnCilgQ0ajoYhwpIME1OLR2ioHCYLWnsloSONBBVNgod9DwUpjWZByFIXD1ueLZyFChkIS4ILh3Y9DSsSGUwMCQ8til1rvDIRG42gKc9ZFRcOTIYGeG0rEhYQJBoGCA4rmViXpR4UM69lg6wYDxcSUo82e34wCCAOJhMHDA9Fpxy9fBALTYxYp30JCR0SRsQipYssFBgQDwkFDA1dpiC9Ux8SNmuVeUkaGh4FLYWQgWo1FRYSEAsJDQZWfTOOWhAyKjRMOBwXGhUFHiBkTSknDh4SBQYCCghsf2xRdTISPjk1Jw4RDw8MDwkLFQcRICIkHyIkIDEfSFFIBi0tQElIKS0oIyIfJCQnKigk",
+          "top": "CiQWKzoaDQ49ERwZECUgCQkYCAkqPUIJNyAFBRMhTDUtOCkUBw4dHgQpHhIhCB8MExM8MigwMwoGEiQMSRgROywqDgoiFCILESMNEQkaExxAERxEJA4WKh8WNzFAMBQTIQklIyE+Hx8MCAUECkImMigvKxMtQ04vKT4kFxIpJkycj5R/RQwKAxwTCR48EEUxOw1WQTFSCwkMByIptuGdanfc0TEEECgVCxI1WzNRSjlCIRIhEQgLHkT+ykc4V1Ir//9aHhYXRhg+SDosl6InIB0PExQbH/m3K10uF11gJc//QCYzUnKcdUDHzLHGMzUmBAESu+YjHSkrQk0oISjaoTRPQGVbPydoCQqXzF5NBAtV4kAkOJ1YP2mMDDWbnhdZblRso7PQdS4j0o43DQlsvGcvbEclbUiiF1jIfBspT1FFcg6pnmQ2oooUFR9xVGxzTH4QR0eUT3vKNR4RM0MgancnjIaKkIcRCD1/UICXY414YoQ+PoWUBxIQPmBjTJZEPneSZ38MDQ02dzdytEhQFl5KHU6ikIFFS6ZrL46sRx85dB4jHhQdDxqCpFYQDyg5dEtTbKORMbE4IDSNs6l/YCAj",
+          "middle": "CD1/UICXY414YoQ+PoWUBxIQPmBjTJZEPneSZ38MDQ02dzdytEhQFl5KHU6ikIFFS6ZrL46sRx85dB4jHhQdDxqCpFYQDyg5dEtTbKORMbE4IDSNs6l/YCAjLyswJhtYQltHOFlQW4F1tFS4WbktFhIZSG60aBcLFikaPhWVjXEnXH9rY6otaJVQc7M6M0NCF0C0YA4OIxAuNUrOlCkMHXVkddFzKSQHjrQYLxhBWivGgQwSKRQaJWSfQCgkHyAYMah6GxoXsJ4LHDVGFi6olhwHHzoFBnqACRwqOSoVIJmULRouwn4RFDU5JieLliknDiklCnVuCCAWMkArIaOgGQdLzG8fMzM6JhB0dTQxEx8uFHKEIhM0FSEnEJeGFg9YumMBTjw4Lg1zbhMhISE3FlWySRgwKi0iH6d9BAhcqFkSW1g8MBOGeytOERAaGEqmWCFcOmAVO8FxBwNknlgEk0phLySRb0JoLy8tInKcQyFwE1cTQb9SCQJjjE0hlBdqMCKIVVBbIxsfE3u6OT+KIWktb8o5CAdykzwulxlqQw5/d0hfEg0JK81+B266QJQfo6UmFA9xkUlyrBBzZDl1o1lw",
+          "bottom": "ERAaGEqmWCFcOmAVO8FxBwNknlgEk0phLySRb0JoLy8tInKcQyFwE1cTQb9SCQJjjE0hlBdqMCKIVVBbIxsfE3u6OT+KIWktb8o5CAdykzwulxlqQw5/d0hfEg0JK81+B266QJQfo6UmFA9xkUlyrBBzZDl1o1lwCQ0EeaM+V99+c6ABq4gcKjGXbAWcbxVBeFBJpD1yExIpn1A+v4oUlYkDkYoYETlzPjOaMwcOenNFpi9/DRJmnCilgQ0ajoYhwpIME1OLR2ioHCYLWnsloSONBBVNgod9DwUpjWZByFIXD1ueLZyFChkIS4ILh3Y9DSsSGUwMCQ8til1rvDIRG42gKc9ZFRcOTIYGeG0rEhYQJBoGCA4rmViXpR4UM69lg6wYDxcSUo82e34wCCAOJhMHDA9Fpxy9fBALTYxYp30JCR0SRsQipYssFBgQDwkFDA1dpiC9Ux8SNmuVeUkaGh4FLYWQgWo1FRYSEAsJDQZWfTOOWhAyKjRMOBwXGhUFHiBkTSknDh4SBQYCCghsf2xRdTISPjk1Jw4RDw8MDwkLFQcRICIkHyIkIDEfSFFIBi0tQElIKS0oIyIfJCQnKigk"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 17.265355,
+          "top": 19.551513,
+          "middle": 15.361344,
+          "bottom": 16.026047,
+          "effectiveRatio": 0.475083
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1586
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "2122a0a63d45ec54154de2e09d7d2e45f28a7e397ad4da504af530cea113395d",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 국내 언론사 실제 게재 원문 사진과 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "체이스 메이드로스",
+      "subject": "체이스 메이드로스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/01/2026100101000053500000883_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-01/202610010100005350000088",
+      "imageCredit": "Alex Slitz / Getty Images / AFP",
+      "creditDisplay": "사진 · Getty Images/AFP (9월 30일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\cle-extra\\photo-d017932a0871.jpg",
+      "photoDate": "2026-09-30",
+      "photoDateLabel": "9월 30일 자료사진",
+      "checkedAt": "2026-10-15T20:58:32.612Z",
+      "context": "휴스턴 다이킨파크 9월30일 현지 와일드카드 2차전 1회 안타 뒤 1루에서 세리머니하는 실제 사진. 표지의 6회 홈런 뒤 사진과 서로 다른 순간·원본이다. 중앙 크롭에서 모자 윗부분이 프레임 밖으로 나올 수 있으므로 완성본의 눈·얼굴·양손 유지 여부를 추가 확인한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:53:59.602Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 1424991,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.0924156663407856,
+        "entropy": 7.698587930412032,
+        "effectiveDetailRatio": 0.57559,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/01/2026100101000053500000883_w.jpg",
+        "sha256": "d017932a08718ed7c8b97547c0dd0d37eb36fdd816acd10af0f6de9803617e2d",
+        "perceptualHash": "6064b28a6fa5944b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "MQc5UDwZJqWnYCsOAAIkQkI3QhUcEAweHB0RChkKMAs7TzsYLH5lWmkwGx6Epm9zXxsJEQQaKh0GCSEULgw7TzwXLmZgPUNwXVl2cVqoBTcOFAkwMCMZJS4xKw5DWDQQVs10XVIYDxcOYWxOXhYNHg5HQhgkHyArKwhPbCwNeL1YWGGEalglTlY4ETskEBAYMxZ6OhEePTwmc35JVG2SXHE9GSolDC8lRCkcFBkoWIMKn0xaQxUKQ4y+snxAbTkgIBwPEwssR7plNChbv1N8cGE0U4xpUYhWMzVOIm1lHxYXKwklr0HNZxeLjmtQN05QkFUggUA7a4gTRkpNYByDiUoIeo6bXlkxZ38qNScUG0Z4bBdwcF5jBC41HF52WYskSqFFYzopJTVEWGUlXWooXkQmnj1OEBQbBz2dgokkEmWLKx4mPh0UXIg0Fi5wZZNMZzooExkiESNUfikDBhVeUw0UKj80LEdpIylFjU+lpz0xGVZtRyQUDAMDDhFQUgIaDx8zS04SVYJAEne2M4I4Sl9JmFoSBAMIEhZvNQ0WGgUgLSIvfHuDEIuUS2k4PVccY56rShwJDWKLCRUaNxEQRUtCRY1/NKdCajs3QlVfOZ2p9HlAO7EvLSM0OVdDIJMsPn9djy+AMDEzGktnmocsgeG9s4w4CEEkG0mARpIcbBldaXErLR8fBRQrtIIaHTdhglJkHTYLBRY9UnNWQy1BTGsTHh4cAwgjrIQLJyJZRzxJFiQRFTFNSYQqMhYcQhsfMSwuBAUNna0OJGVKQxpJPCUTOmU9joNkCBUNERwnSTQ+AwEMXts/E0tPKSJhdChIZyccVXBvDhsIIBVCOEg9AgEJIseDBydJFzxRNX1raYofGykpCSEKIwRQKk47AgMECIu8Ih1HQ1l1O4FRl5tvEgcGCR4YGRZIJ00+AwIBCkrTVx1Kh0ajJH42gV1+CgwFEBkdDA08KlFACgkHCBe1kRNwnRp/b2EZfEWHBg0EBCQuBxkyKkpBBwEGCQ6cnRePcxpGizQtdDWQBRAESEMlEiZBQURrV1U/QDq4kiaUWhIhSXEfkjePBQ4FZDkWMyJlShRFWGBddp6wXhKGhBYeAxxKcHh1ExMENlEuLiN2OwoaHx4yQ1c6LBdfjUIuIis6IE9FNBoXPEoWUU1WYhoWEhMdFzlUbzoranJcSzYoDRJJRj4+IHVrNWJkaxAJCAoMGzdjl5QyERAzVltGMiIVEBcjFTxmLEt6HwMHBQQGBkB7LYgoEBk0LwArP0xEKhUIGyAbDBAJHh4dGxshFTtFT0MzTjRRL0JCNxgbRFFEMjU2MzU5NjYzMTE1HGQEYl9ZEsBuOSo6T2RuXDccFRgTEhEVFhQWFRIeImeBHzVirsBOQiMfHic4U2lpDw4PDw0TFRIVFBA5ZghSQxNAhTRKGxMbFxgTDxEcAgIABAsLBwgJDQ4iXIBhKQwfAjAeFh0fGx4gGxcYNjQ0MCsvMzAwLy0zFQQpLTA0NS0uKCQrKCgnHBYW",
+          "top": "MQc5UDwZJqWnYCsOAAIkQkI3QhUcEAweHB0RChkKMAs7TzsYLH5lWmkwGx6Epm9zXxsJEQQaKh0GCSEULgw7TzwXLmZgPUNwXVl2cVqoBTcOFAkwMCMZJS4xKw5DWDQQVs10XVIYDxcOYWxOXhYNHg5HQhgkHyArKwhPbCwNeL1YWGGEalglTlY4ETskEBAYMxZ6OhEePTwmc35JVG2SXHE9GSolDC8lRCkcFBkoWIMKn0xaQxUKQ4y+snxAbTkgIBwPEwssR7plNChbv1N8cGE0U4xpUYhWMzVOIm1lHxYXKwklr0HNZxeLjmtQN05QkFUggUA7a4gTRkpNYByDiUoIeo6bXlkxZ38qNScUG0Z4bBdwcF5jBC41HF52WYskSqFFYzopJTVEWGUlXWooXkQmnj1OEBQbBz2dgokkEmWLKx4mPh0UXIg0Fi5wZZNMZzooExkiESNUfikDBhVeUw0UKj80LEdpIylFjU+lpz0xGVZtRyQUDAMDDhFQUgIaDx8zS04SVYJAEne2M4I4Sl9JmFoSBAMIEhZvNQ0WGgUgLSIvfHuDEIuUS2k4PVccY56rShwJDWKLCRUaNxEQRUtC",
+          "middle": "IylFjU+lpz0xGVZtRyQUDAMDDhFQUgIaDx8zS04SVYJAEne2M4I4Sl9JmFoSBAMIEhZvNQ0WGgUgLSIvfHuDEIuUS2k4PVccY56rShwJDWKLCRUaNxEQRUtCRY1/NKdCajs3QlVfOZ2p9HlAO7EvLSM0OVdDIJMsPn9djy+AMDEzGktnmocsgeG9s4w4CEEkG0mARpIcbBldaXErLR8fBRQrtIIaHTdhglJkHTYLBRY9UnNWQy1BTGsTHh4cAwgjrIQLJyJZRzxJFiQRFTFNSYQqMhYcQhsfMSwuBAUNna0OJGVKQxpJPCUTOmU9joNkCBUNERwnSTQ+AwEMXts/E0tPKSJhdChIZyccVXBvDhsIIBVCOEg9AgEJIseDBydJFzxRNX1raYofGykpCSEKIwRQKk47AgMECIu8Ih1HQ1l1O4FRl5tvEgcGCR4YGRZIJ00+AwIBCkrTVx1Kh0ajJH42gV1+CgwFEBkdDA08KlFACgkHCBe1kRNwnRp/b2EZfEWHBg0EBCQuBxkyKkpBBwEGCQ6cnRePcxpGizQtdDWQBRAESEMlEiZBQURrV1U/QDq4kiaUWhIhSXEfkjePBQ4F",
+          "bottom": "CR4YGRZIJ00+AwIBCkrTVx1Kh0ajJH42gV1+CgwFEBkdDA08KlFACgkHCBe1kRNwnRp/b2EZfEWHBg0EBCQuBxkyKkpBBwEGCQ6cnRePcxpGizQtdDWQBRAESEMlEiZBQURrV1U/QDq4kiaUWhIhSXEfkjePBQ4FZDkWMyJlShRFWGBddp6wXhKGhBYeAxxKcHh1ExMENlEuLiN2OwoaHx4yQ1c6LBdfjUIuIis6IE9FNBoXPEoWUU1WYhoWEhMdFzlUbzoranJcSzYoDRJJRj4+IHVrNWJkaxAJCAoMGzdjl5QyERAzVltGMiIVEBcjFTxmLEt6HwMHBQQGBkB7LYgoEBk0LwArP0xEKhUIGyAbDBAJHh4dGxshFTtFT0MzTjRRL0JCNxgbRFFEMjU2MzU5NjYzMTE1HGQEYl9ZEsBuOSo6T2RuXDccFRgTEhEVFhQWFRIeImeBHzVirsBOQiMfHic4U2lpDw4PDw0TFRIVFBA5ZghSQxNAhTRKGxMbFxgTDxEcAgIABAsLBwgJDQ4iXIBhKQwfAjAeFh0fGx4gGxcYNjQ0MCsvMzAwLy0zFQQpLTA0NS0uKCQrKCgnHBYW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.982331,
+          "top": 36.40914,
+          "middle": 23.306716,
+          "bottom": 28.964448,
+          "effectiveRatio": 0.57559
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1799
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d017932a08718ed7c8b97547c0dd0d37eb36fdd816acd10af0f6de9803617e2d",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 국내 언론사 실제 게재 원문 사진과 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      },
+      "cropReview": {
+        "resolved": true,
+        "checkedAt": "2026-10-15T20:59:40.993Z",
+        "researchPreviewPage": 5,
+        "note": "실제 완성 프리뷰 개별 육안 확인: 모자 최상단 일부만 프레임 밖이고 눈·얼굴 전체·양손·동작은 모두 남는다. 얼굴과 주요 동작 크롭 문제가 없어 승인했다."
+      }
+    }
+  ]
+}
