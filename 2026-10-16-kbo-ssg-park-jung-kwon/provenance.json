@@ -1,0 +1,219 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "박정권 퓨처스 감독이 SSG를 떠난다",
+  "issueKey": "kbo-2026-ssg-park-jung-kwon-contract-end",
+  "checkedAt": "2026-10-15T18:16:40.766Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=554896",
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "page": 1,
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1015/1792050172163911.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207940",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "localPath": "logs/codex-2026-10-16-kbo-test2/research-photos/xports-park-2207940.webp",
+      "photoDate": null,
+      "photoDateLabel": "자료사진",
+      "photoDateEvidence": "2026-10-15 기사에 게시된 DB 사진. 촬영일 별도 미표시. 기사 발행일을 촬영일로 쓰지 않음.",
+      "identity": "원문 제목·본문 박정권 감독과 상단 인물사진 연결. 붉은 SSG 유니폼·안경 차림 박정권 클로즈업.",
+      "visualReview": "직접 원본 확인. 인물 선명하고 전체전면 사진+하단텍스트에 적합. 오른쪽 다른 인물 일부 보이며 박정권은 화면중앙. 워터마크 하단우측.",
+      "recommendedUse": "cover",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1015/1792050172163911.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1532,
+        "bytes": 317202,
+        "coverScale": 0.9,
+        "effectiveSharpness": 2.729668555804768,
+        "effectiveDetailRatio": 0.549272,
+        "perceptualHash": "493819b3d1cbcfc7",
+        "sha256": "b521345abf24066c78b0bd32cd9e2def57d256598cd4d08433230a2ebd5e5f3e"
+      },
+      "sha256": "b521345abf24066c78b0bd32cd9e2def57d256598cd4d08433230a2ebd5e5f3e",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료사용권으로 추정하지 않는다. 원문·제공자와 연결해 기록하며 세부계약기간 등은 추정하지 않는다."
+      },
+      "alterations": "none: downloaded actual declared original bytes only",
+      "checkedAt": "2026-10-15T18:13:05.545Z",
+      "fit": "cover"
+    },
+    {
+      "page": 2,
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2025/0127/1737955137953140.jpg",
+      "sourcePageUrl": "https://www.xportsnews.com/article/1955373",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "localPath": "logs/codex-2026-10-16-kbo-test2/research-photos/park-jungkwon-retirement-portrait.jpg",
+      "photoDate": "2021-10-02",
+      "photoDateLabel": "2021.10.02 은퇴식 자료사진",
+      "photoDateEvidence": {
+        "caption": "2일 오후 인천 SSG랜더스필드에서 가을 남자 박정권의 은퇴식이 진행됐다. 박정권이 맞은편 가족들을 바라보고 있다. 엑스포츠뉴스 DB",
+        "eventDateEvidenceUrl": "https://www.yna.co.kr/view/AKR20211002053000007"
+      },
+      "identity": "흰 인천 유니폼과 검정 마스크·모자 차림으로 정면을 보는 박정권 단독 사진.",
+      "visualReview": "child와 본 담당자 모두 개별 원본 육안 확인 완료. 흰 인천유니폼·마스크를 쓴 사람이 박정권. 액자사진에서는 왼쪽 박정권, 오른쪽 참석자는 별도인물.",
+      "recommendedUse": "career-context",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2025/0127/1737955137953140.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1637,
+        "bytes": 261856,
+        "coverScale": 0.9,
+        "effectiveSharpness": 2.7453785412878045,
+        "effectiveDetailRatio": 0.543712,
+        "perceptualHash": "0e4d1e371b1f3636",
+        "sha256": "b3dbae31f2b2d27f956f3cdb81f3ccf6e9e0bd0215fb6470054d136cdc0a8c0c"
+      },
+      "sha256": "b3dbae31f2b2d27f956f3cdb81f3ccf6e9e0bd0215fb6470054d136cdc0a8c0c",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료사용권으로 추정하지 않는다. 원문·제공자와 연결해 기록하며 세부계약기간 등은 추정하지 않는다."
+      },
+      "alterations": "none: downloaded actual declared original bytes only",
+      "checkedAt": "2026-10-15T18:13:05.547Z",
+      "fit": "cover"
+    },
+    {
+      "page": 3,
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2025/0127/1737955183439819.jpg",
+      "sourcePageUrl": "https://www.xportsnews.com/article/1955373",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "localPath": "logs/codex-2026-10-16-kbo-test2/research-photos/park-jungkwon-retirement-ceremony.jpg",
+      "photoDate": "2021-10-02",
+      "photoDateLabel": "2021.10.02 은퇴식 자료사진",
+      "photoDateEvidence": {
+        "caption": "2일 오후 인천 SSG랜더스필드에서 가을 남자 박정권의 은퇴식이 진행됐다. 박정권이 기념 촬영을 하고 있다. 엑스포츠뉴스 DB",
+        "eventDateEvidenceUrl": "https://www.yna.co.kr/view/AKR20211002053000007"
+      },
+      "identity": "박정권이 다른 참석자와 은퇴 기념 액자를 함께 들고 있는 별도 프레임. 기사 내용에 맞는 자료사진 표기 필요.",
+      "visualReview": "child와 본 담당자 모두 개별 원본 육안 확인 완료. 흰 인천유니폼·마스크를 쓴 사람이 박정권. 액자사진에서는 왼쪽 박정권, 오른쪽 참석자는 별도인물.",
+      "recommendedUse": "post-retirement-context",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2025/0127/1737955183439819.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1364,
+        "bytes": 398149,
+        "coverScale": 0.99,
+        "effectiveSharpness": 5.365378601046555,
+        "effectiveDetailRatio": 0.573815,
+        "perceptualHash": "33335357332b5b53",
+        "sha256": "347f9201770388e55948f444e230dbdfa40136eb7c66b281701b72c1c9ef0d28"
+      },
+      "sha256": "347f9201770388e55948f444e230dbdfa40136eb7c66b281701b72c1c9ef0d28",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료사용권으로 추정하지 않는다. 원문·제공자와 연결해 기록하며 세부계약기간 등은 추정하지 않는다."
+      },
+      "alterations": "none: downloaded actual declared original bytes only",
+      "checkedAt": "2026-10-15T18:13:05.547Z",
+      "fit": "cover"
+    },
+    {
+      "page": 4,
+      "sourceUrl": "https://isp.edailystatic.com/data/isp/image/2025/01/28/isp20250128000043.1280x.0.jpg",
+      "sourcePageUrl": "https://v.isplus.com/article/view/isp202610150053",
+      "imageCredit": "SSG 랜더스 제공",
+      "localPath": "logs/codex-2026-10-16-kbo-test2/research-photos/park-jungkwon-ssg-202501-interview.jpg",
+      "photoDate": "2025-01",
+      "photoDateLabel": "2025년 1월 자료사진",
+      "photoDateEvidence": {
+        "caption": "2025년 1월 SSG 2군 사령탑에 선임된 박정권 감독이 인터뷰하고 있다. SSG 제공"
+      },
+      "identity": "안경과 검정 후드 차림으로 야구 포지션 화이트보드 앞 의자에 앉아 두 손을 모은 박정권. 뉴스1의 네트 앞 주먹 포즈와 다른 프레임.",
+      "visualReview": "child와 본 담당자 모두 개별 원본 육안 확인 완료. 앉은인터뷰 장면은 뉴스1 주먹포즈와 다른장면.",
+      "recommendedUse": "manager-appointment",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://isp.edailystatic.com/data/isp/image/2025/01/28/isp20250128000043.1280x.0.jpg",
+        "format": "jpeg",
+        "width": 1280,
+        "height": 1795,
+        "bytes": 1324837,
+        "coverScale": 0.844,
+        "effectiveSharpness": 1.042547514830672,
+        "effectiveDetailRatio": 0.484964,
+        "perceptualHash": "386c6d7974cab034",
+        "sha256": "477471805687aca2d8c5f44e0b8bb8b6d43fe51c5882906c3a8b18fd15ce9d4c"
+      },
+      "sha256": "477471805687aca2d8c5f44e0b8bb8b6d43fe51c5882906c3a8b18fd15ce9d4c",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료사용권으로 추정하지 않는다. 원문·제공자와 연결해 기록하며 세부계약기간 등은 추정하지 않는다."
+      },
+      "alterations": "none: downloaded actual declared original bytes only",
+      "checkedAt": "2026-10-15T18:13:05.547Z",
+      "fit": "cover"
+    },
+    {
+      "page": 5,
+      "sourceUrl": "https://i3n.news1.kr/system/photos/2025/1/28/7105710/high.jpg",
+      "sourcePageUrl": "https://www.news1.kr/sports/baseball/6320987",
+      "imageCredit": "SSG 랜더스 제공 · 뉴스1",
+      "localPath": "logs/codex-2026-10-16-kbo-test2/research-photos/news1-park-20250128.jpg",
+      "photoDate": null,
+      "photoDateLabel": "자료사진",
+      "photoDateEvidence": "원문 개별caption: 박정권 SSG 랜더스 퓨처스팀 감독이 팀을 떠난다.(SSG 랜더스 제공. 재판매 및 DB 금지). asset 경로2025/1/28은 관찰되나 실제촬영일 직접미기재이므로 표시상정확날짜추정하지 않음.",
+      "identity": "원문 개별 캡션 박정권 명시. 초록연습장 네트앞 검정후드, 모자를 들고 오른주먹을 든 박정권.",
+      "visualReview": "직접 원본 확인. 초점양호, 얼굴명확. ISplus앉은사진과배경·자세모두다름.",
+      "recommendedUse": "future-plan-context",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://i3n.news1.kr/system/photos/2025/1/28/7105710/high.jpg",
+        "format": "jpeg",
+        "width": 1400,
+        "height": 1929,
+        "bytes": 309481,
+        "coverScale": 0.771,
+        "effectiveSharpness": 0.9091959086624766,
+        "effectiveDetailRatio": 0.505727,
+        "perceptualHash": "a0ccccd896c6eee8",
+        "sha256": "d6a14009efea1991df58f328ca6dd19e8936c696ca6960244e2b2fe06120ca0c"
+      },
+      "sha256": "d6a14009efea1991df58f328ca6dd19e8936c696ca6960244e2b2fe06120ca0c",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료사용권으로 추정하지 않는다. 원문·제공자와 연결해 기록하며 세부계약기간 등은 추정하지 않는다."
+      },
+      "alterations": "none: downloaded actual declared original bytes only",
+      "checkedAt": "2026-10-15T18:13:05.547Z",
+      "fit": "cover"
+    }
+  ]
+}
