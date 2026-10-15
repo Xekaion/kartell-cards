@@ -1,0 +1,249 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "김도영 포함 33명, APBC 대표팀 발표",
+  "issueKey": "kbo-2026-apbc-roster-33-announcement",
+  "checkedAt": "2026-10-15T19:55:22.303Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12192",
+  "corroboratingUrls": [
+    "https://www.starnewskorea.com/sports/2026/10/13/2026101316141782421",
+    "https://www.xportsnews.com/article/2207059/"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12192",
+      "title": "2026 아시아 프로야구 챔피언십(APBC) 대표팀 엔트리 확정",
+      "publishedAt": "2026-10-13",
+      "role": "직접 공식 발표. 참가 자격·보호 기준·33명에서 최종28명 조정·소집과 출국 일정의 근거"
+    },
+    {
+      "url": "https://directsend.co.kr/index.php/mail_report_api/image_down/VTcxNDYwOA/18854",
+      "role": "공식 페이지에 실제 첨부된 명단 표. 김도영=KIA, 이재현·김지찬=삼성, 한동희·최준용=롯데와 와일드카드 표기를 직접 육안 대조. 본문 사진으로 사용하지 않음"
+    },
+    {
+      "url": "https://www.starnewskorea.com/sports/2026/10/13/2026101316141782421",
+      "title": "[공식발표] '김도영-최민석-안현민 발탁' APBC 엔트리 확정... KIA 5명 최다 선발",
+      "publishedAt": "2026-10-13T17:01:00+09:00",
+      "role": "공식 발표와 일정 교차 확인 및 김도영 사진의 촬영일·출처"
+    },
+    {
+      "url": "https://www.xportsnews.com/article/2207059/",
+      "title": "2026 APBC 33인 엔트리 구성, 최종 28인 KS 후 결정",
+      "publishedAt": "2026-10-13T17:08:00+09:00",
+      "role": "인원 조정 기준과 선발 자격, 와일드카드 한동희·최준용 대조"
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "김도영",
+      "subject": "KIA 타이거즈 김도영",
+      "team": "KIA 타이거즈",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/10/2026101316141782421_1.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/10/13/2026101316141782421",
+      "imageCredit": "스타뉴스 · 강영조",
+      "creditDisplay": "사진 · 스타뉴스 · 강영조 (2026.09.27 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch5\\national-story\\research-photos\\kim-do-young.jpg",
+      "photoDate": "2026-09-27",
+      "checkedAt": "2026-10-15T19:54:15.104Z",
+      "context": "일본 도요하시 시민구장 아시안게임 한국–일본 결승에서 안타 후 포효하는 김도영. 2026 APBC 경기 또는 소집 사진이 아닌 9월 국가대표 경기 자료사진이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.starnewskorea.com/21/2026/10/2026101316141782421_1.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1385,
+        "bytes": 1459037,
+        "coverScale": 0.975,
+        "effectiveSharpness": 1.042770957487832,
+        "effectiveDetailRatio": 0.41652,
+        "perceptualHash": "cfc7cb29f5673a3f",
+        "sha256": "d572a663798ba7ca5eb76ed5f5f6dfe77615cd79454fc5d42022490fbd0a23c9"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d572a663798ba7ca5eb76ed5f5f6dfe77615cd79454fc5d42022490fbd0a23c9",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "인터넷 원본을 각각 직접 확인했다. 인물·유니폼·원문 캡션과 일치하며 4:5 중앙 크롭에서 주요 얼굴과 동작이 보이는 사진을 선정했다. 완성 카드의 텍스트 가독성과 크롭은 루트의 최종 렌더 검수 대상으로 남긴다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다. 아래 개별 원문 페이지와 그 페이지에 실제로 선언된 사진 원본을 연결했다."
+      },
+      "photoDateLabel": "2026-09-27 자료사진"
+    },
+    {
+      "name": "이재현",
+      "subject": "삼성 라이온즈 이재현",
+      "team": "삼성 라이온즈",
+      "sourceUrl": "https://t1.daumcdn.net/news/202609/16/starnews/20260916155038922kbpa.jpg",
+      "sourcePageUrl": "https://v.daum.net/v/znuSkkLxlZ",
+      "imageCredit": "스타뉴스 · 김진경",
+      "creditDisplay": "사진 · 스타뉴스 · 김진경 (2026.09.16 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch5\\national-story\\research-photos\\lee-jae-hyun.jpg",
+      "photoDate": "2026-09-16",
+      "checkedAt": "2026-10-15T19:54:15.104Z",
+      "context": "고척스카이돔 아시안게임 대표팀 베이스 러닝 훈련의 이재현. 뒤편 인물은 원문에서 개별 신원을 확인하지 않았으므로 이름이나 현재 직책을 추정하지 않는다. APBC 소집 사진이 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://t1.daumcdn.net/news/202609/16/starnews/20260916155038922kbpa.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1430,
+        "bytes": 1809109,
+        "coverScale": 0.944,
+        "effectiveSharpness": 1.3512908644331107,
+        "effectiveDetailRatio": 0.456955,
+        "perceptualHash": "1c1b6ca8bbca8c50",
+        "sha256": "40b91e68f7b5e07ef7aafa6a5f7918936b400310e0dfcf6e1b8599e0ba669b74"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "40b91e68f7b5e07ef7aafa6a5f7918936b400310e0dfcf6e1b8599e0ba669b74",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "인터넷 원본을 각각 직접 확인했다. 인물·유니폼·원문 캡션과 일치하며 4:5 중앙 크롭에서 주요 얼굴과 동작이 보이는 사진을 선정했다. 완성 카드의 텍스트 가독성과 크롭은 루트의 최종 렌더 검수 대상으로 남긴다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다. 아래 개별 원문 페이지와 그 페이지에 실제로 선언된 사진 원본을 연결했다."
+      },
+      "photoDateLabel": "2026-09-16 자료사진"
+    },
+    {
+      "name": "김지찬",
+      "subject": "삼성 라이온즈 김지찬",
+      "team": "삼성 라이온즈",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/09/2026092721354271250_2.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/09/27/2026092721354271250",
+      "imageCredit": "스타뉴스 · 강영조",
+      "creditDisplay": "사진 · 스타뉴스 · 강영조 (2026.09.27 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch5\\national-story\\research-photos\\kim-ji-chan.jpg",
+      "photoDate": "2026-09-27",
+      "checkedAt": "2026-10-15T19:54:15.104Z",
+      "context": "일본 도요하시 시민구장 아시안게임 한국–일본 결승 8회초 2루타로 출루한 김지찬. 무릎을 굽히고 세리머니하는 두 번째 원본이며 APBC 경기 사진이 아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.starnewskorea.com/21/2026/09/2026092721354271250_2.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1289,
+        "bytes": 1546719,
+        "coverScale": 1.047,
+        "effectiveSharpness": 1.4857207752200694,
+        "effectiveDetailRatio": 0.431459,
+        "perceptualHash": "48cac5c54b3bcacd",
+        "sha256": "5f4b1b126a29851fef408b0f033d73c67d09865c0102cfa338c5c6cface4ac15"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5f4b1b126a29851fef408b0f033d73c67d09865c0102cfa338c5c6cface4ac15",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "인터넷 원본을 각각 직접 확인했다. 인물·유니폼·원문 캡션과 일치하며 4:5 중앙 크롭에서 주요 얼굴과 동작이 보이는 사진을 선정했다. 완성 카드의 텍스트 가독성과 크롭은 루트의 최종 렌더 검수 대상으로 남긴다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다. 아래 개별 원문 페이지와 그 페이지에 실제로 선언된 사진 원본을 연결했다."
+      },
+      "photoDateLabel": "2026-09-27 자료사진"
+    },
+    {
+      "name": "최준용",
+      "subject": "롯데 자이언츠 최준용",
+      "team": "롯데 자이언츠",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/10/2026101221502564164_3.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/10/12/2026101221502564164",
+      "imageCredit": "스타뉴스 · 강영조",
+      "creditDisplay": "사진 · 스타뉴스 · 강영조 (2026.10.12 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch5\\national-story\\research-photos\\choi-jun-yong-oct.jpg",
+      "photoDate": "2026-10-12",
+      "checkedAt": "2026-10-15T19:54:15.104Z",
+      "context": "잠실 정규리그 두산–롯데전 8회말 등판한 롯데 최준용의 세 번째 투구 원본. 다음 페이지의 국가대표 훈련 사진과 촬영일·유니폼·장소·동작이 다른 별개 사진이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.starnewskorea.com/21/2026/10/2026101221502564164_3.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1336,
+        "bytes": 1611463,
+        "coverScale": 1.01,
+        "effectiveSharpness": 1.4471009164431201,
+        "effectiveDetailRatio": 0.477011,
+        "perceptualHash": "594b71b91b27cbca",
+        "sha256": "6ed36d0b82a7d035c48900f8d5ce0dd7ac1bd7dc90c2ed7bbe5b79461563f510"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "6ed36d0b82a7d035c48900f8d5ce0dd7ac1bd7dc90c2ed7bbe5b79461563f510",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "인터넷 원본을 각각 직접 확인했다. 인물·유니폼·원문 캡션과 일치하며 4:5 중앙 크롭에서 주요 얼굴과 동작이 보이는 사진을 선정했다. 완성 카드의 텍스트 가독성과 크롭은 루트의 최종 렌더 검수 대상으로 남긴다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다. 아래 개별 원문 페이지와 그 페이지에 실제로 선언된 사진 원본을 연결했다."
+      },
+      "photoDateLabel": "2026-10-12 자료사진"
+    },
+    {
+      "name": "최준용",
+      "subject": "롯데 자이언츠 최준용",
+      "team": "롯데 자이언츠",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/09/2026091615430454916_1.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/09/16/2026091615430454916",
+      "imageCredit": "스타뉴스 · 김진경",
+      "creditDisplay": "사진 · 스타뉴스 · 김진경 (2026.09.16 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-batch5\\national-story\\research-photos\\choi-jun-yong.jpg",
+      "photoDate": "2026-09-16",
+      "checkedAt": "2026-10-15T19:54:15.104Z",
+      "context": "고척스카이돔 아시안게임 대표팀 투구 훈련의 최준용. 11월 APBC 소집이 이미 진행된 사진처럼 설명하지 않으며 촬영일을 카드와 캡션에 자료사진으로 표기한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.starnewskorea.com/21/2026/09/2026091615430454916_1.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1364,
+        "bytes": 1584940,
+        "coverScale": 0.99,
+        "effectiveSharpness": 1.0500913197419455,
+        "effectiveDetailRatio": 0.428791,
+        "perceptualHash": "75357173e4652d6e",
+        "sha256": "0d78df43fe4f6d7dcf2264ae0e7b1ea67121827ce68180b326bbb3f8028a8c92"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "0d78df43fe4f6d7dcf2264ae0e7b1ea67121827ce68180b326bbb3f8028a8c92",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "인터넷 원본을 각각 직접 확인했다. 인물·유니폼·원문 캡션과 일치하며 4:5 중앙 크롭에서 주요 얼굴과 동작이 보이는 사진을 선정했다. 완성 카드의 텍스트 가독성과 크롭은 루트의 최종 렌더 검수 대상으로 남긴다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다. 아래 개별 원문 페이지와 그 페이지에 실제로 선언된 사진 원본을 연결했다."
+      },
+      "photoDateLabel": "2026-09-16 자료사진"
+    }
+  ]
+}
