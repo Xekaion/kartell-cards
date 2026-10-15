@@ -1,0 +1,378 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "김재윤, 35세이브로 생애 첫 세이브왕",
+  "issueKey": "kbo-2026-samsung-kim-jae-yun-first-save-title",
+  "checkedAt": "2026-10-15T21:36:24.930Z",
+  "sourceUrl": "https://www.koreabaseball.com/record/Player/PitcherDetail/Basic.aspx?playerId=65062",
+  "corroboratingUrls": [
+    "https://www.hidomin.com/news/articleView.html?idxno=724772",
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=11950",
+    "https://www.mt.co.kr/amp/sports/2026/09/10/2026091008414514761"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/record/Player/PitcherDetail/Basic.aspx?playerId=65062",
+      "publishedAt": null,
+      "checkedAt": "2026-10-15T21:34:17.156Z",
+      "title": "KBO 김재윤 공식 선수페이지",
+      "role": "실제로직접조회한고유공식선수URL.2026최종35SV1위와최종기록및2022/23순위배경을확인.무날짜갱신형페이지이므로최상단publishedAt10/13은현재국내결산기사일자이며공식선수페이지발행일이라는뜻이아니다."
+    },
+    {
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=724772",
+      "publishedAt": "2026-10-13T22:19:58+09:00",
+      "title": "사자군단 캡틴 구자욱 생애 첫 타율1위…마무리 김재윤은 세이브1위",
+      "role": "정규시즌종료뒤현재타이틀확정·35SV·삼성에서2021오승환이후5년만·PO일정을교차.구자욱부상기사는기존발행이므로새이슈로재사용하지않으며기사의검진전전망/원정세부지표도원고제외."
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=11950",
+      "publishedAt": "2026-05-17",
+      "title": "삼성 김재윤, 7시즌 연속 10세이브 -1",
+      "role": "직접관련과거KBO보도자료.2015데뷔/2016첫14SV와5월8일통산200SV역대6번째달성이라는완료사실만배경사용.당시-1예고나19G수치를현재성적으로쓰지않는다."
+    },
+    {
+      "url": "https://www.mt.co.kr/amp/sports/2026/09/10/2026091008414514761",
+      "publishedAt": "2026-09-10",
+      "title": "타격왕 구자욱·SV왕 김재윤? 삼성의 시선은 오직 정상",
+      "role": "당시프로첫세이브왕도전·과거2022/23세이브2위경력을명시하는선행보도.현재확정35개성적과별도시점으로구분하고당시31SV수치는사용하지않음."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "김재윤",
+      "subject": "삼성 라이온즈 김재윤",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0403/1775218174769091.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2131827",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (4월 3일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch8\\kbo2-story\\kim-photos\\original-7.webp",
+      "photoDate": "2026-04-03",
+      "photoDateLabel": "4월 3일 자료사진",
+      "checkedAt": "2026-10-15T21:34:17.156Z",
+      "context": "수원KT전9회투구준비중인김재윤단독주인물.얼굴·모자·공든손·글러브가보인다.수상식사진아님.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:30:54.099Z",
+        "width": 1200,
+        "height": 1430,
+        "bytes": 223844,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.7561853055209364,
+        "entropy": 7.7849722226383165,
+        "effectiveDetailRatio": 0.525131,
+        "kind": "source",
+        "coverScale": 0.944,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0403/1775218174769091.webp",
+        "sha256": "5e1d0ec165a6d16ecc97741e954d555b8096d50c86eb9be7dd0a6b6682d51ee4",
+        "perceptualHash": "2d2cecadb98d8e9a",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BwhzSDJXUTYxZ4NtaGBRJyhvWAxVRRZyajw9UGUxJipcdUofHhplXywIiW04IiQ0b1paV0lNM2JKOyYyQBsvUywOODtMQA4pZ1s3FS1RGhpVSwclHlUvHxcIEycjSiseFR4VX11NK2ksN1weCXFvSjxIEVQbCh4XNwwdH0A1SFMiS29tSTFynEVwhXIKDR5UPk16TCQaGBwVCh5ib0I9JhpNC2dfIwtZfGUuKBUSZD89iWBVBCYhIRFxehQca4JGLExNIiNDXDJLJD8TT2djUX8/ES0WZYxaeU9/kjBGKkx5TSEbX2hENx0+Glx0LmRlQlRod49nK0VDJRcVNihWbEclVUkdVV0vQ0ZUYzxuZX8rSDlVFwo6azgHLC1xQh41WB0EGDZrYhN5fjBFcTBdKjYfDiItQVgiK1VbICEzGAgSESkVhFKPbBQqUklUFCBALyY4KzAxNVsjLRcSHRUaEh03G2VRVTdFbF0uAicaSRlNQR8gSyQuEwYhKCIqHhwjORcbSGRreC8xGyQaPRUwORxLTR4/P15DMC8cIhkWKDZESUxIIghAJTAIKR4KHBwnVhs5TiwcUWgiOSchbFlebQlGX11DKT8jRycmKhkZYyUKDUQ1SnMwJiM4YmYlgVstJX5sTCMdPRwFNxggXywxO0gxcDcQLlkWVl1YD49CSjhPVDZxxmhPcEMhhRo1MyEiMB0VF0EvP2c+l1k2hU4oSEppV8JcWpJpmYIuDA8WHRYmGjpIHB4mIwUTI1NwXWGXbR1xLmq1L4QtBggODgoMEwRDCXd8nWczdFgeTEZaYWM0MGBrPDceChYnIwsNBRwvIIVcWoIpMWgzeEcrRV95OSpPJjIbFC0dGhwMCxoYbntEhYcEi1tVOVs2FxpyVA5QNS8VMBAmIg8NBB9BTTkEqV8TtzlWiV0eQ2AWWDM4eB87IRMPBQQRDB9PPiY9pyoNbRwDRUVvNWNyZmIccLFXIi84G0pXWnxFgTphiFYNXyIJTJ+AKjuUZCZBR27Joo92ZHeJg7mrikM7WaNuhVk2lp9RO0kcVqBqeAU+dVxGYjMiGG0gCVdHMjubZVhAnVMEGQVdt2fJZQUGAQkMIQqNprJ7pF4gTGacPU4drIwcRS94jmzlKQwOCQICHbW+ZztDJmNHUHgqhb8ZfJpGbBdoWce3FhYTEAcFg9YfEjwSSDtCbz5GNPy1V2s5LWxPQLdZFBILGAhDxHIkTyUmHDYcHj5fO2flLng4fkpDCZ4qCxsbJBBOjWc1JBkMQT8HPzVSHiCvPIBCYzBrMIoEAgYtFystpppXQpVhJyZDMyUgKhJ7H24nECV/PYwEBwQnIE8JVaLAz7+ebB4sGAVEMx6CDXcZDyt4RpUBBQQZUHROIVZofmbKRGFVXxBTLRlbX1wQGxaHOZ8EBwYeoVTHPg4GBmbQLG5LVjpJRBo6IiQmJyCFLqYGBQJowTa3qgwECEbCqhYeRGE7T4FvZWhAKzqKRqcTDAaUsB5N0VQIBj9ZXWBhSFoz",
+          "top": "BwhzSDJXUTYxZ4NtaGBRJyhvWAxVRRZyajw9UGUxJipcdUofHhplXywIiW04IiQ0b1paV0lNM2JKOyYyQBsvUywOODtMQA4pZ1s3FS1RGhpVSwclHlUvHxcIEycjSiseFR4VX11NK2ksN1weCXFvSjxIEVQbCh4XNwwdH0A1SFMiS29tSTFynEVwhXIKDR5UPk16TCQaGBwVCh5ib0I9JhpNC2dfIwtZfGUuKBUSZD89iWBVBCYhIRFxehQca4JGLExNIiNDXDJLJD8TT2djUX8/ES0WZYxaeU9/kjBGKkx5TSEbX2hENx0+Glx0LmRlQlRod49nK0VDJRcVNihWbEclVUkdVV0vQ0ZUYzxuZX8rSDlVFwo6azgHLC1xQh41WB0EGDZrYhN5fjBFcTBdKjYfDiItQVgiK1VbICEzGAgSESkVhFKPbBQqUklUFCBALyY4KzAxNVsjLRcSHRUaEh03G2VRVTdFbF0uAicaSRlNQR8gSyQuEwYhKCIqHhwjORcbSGRreC8xGyQaPRUwORxLTR4/P15DMC8cIhkWKDZESUxIIghAJTAIKR4KHBwnVhs5TiwcUWgiOSchbFlebQlG",
+          "middle": "bF0uAicaSRlNQR8gSyQuEwYhKCIqHhwjORcbSGRreC8xGyQaPRUwORxLTR4/P15DMC8cIhkWKDZESUxIIghAJTAIKR4KHBwnVhs5TiwcUWgiOSchbFlebQlGX11DKT8jRycmKhkZYyUKDUQ1SnMwJiM4YmYlgVstJX5sTCMdPRwFNxggXywxO0gxcDcQLlkWVl1YD49CSjhPVDZxxmhPcEMhhRo1MyEiMB0VF0EvP2c+l1k2hU4oSEppV8JcWpJpmYIuDA8WHRYmGjpIHB4mIwUTI1NwXWGXbR1xLmq1L4QtBggODgoMEwRDCXd8nWczdFgeTEZaYWM0MGBrPDceChYnIwsNBRwvIIVcWoIpMWgzeEcrRV95OSpPJjIbFC0dGhwMCxoYbntEhYcEi1tVOVs2FxpyVA5QNS8VMBAmIg8NBB9BTTkEqV8TtzlWiV0eQ2AWWDM4eB87IRMPBQQRDB9PPiY9pyoNbRwDRUVvNWNyZmIccLFXIi84G0pXWnxFgTphiFYNXyIJTJ+AKjuUZCZBR27Joo92ZHeJg7mrikM7WaNuhVk2lp9RO0kcVqBqeAU+dVxGYjMiGG0gCVdHMjub",
+          "bottom": "tzlWiV0eQ2AWWDM4eB87IRMPBQQRDB9PPiY9pyoNbRwDRUVvNWNyZmIccLFXIi84G0pXWnxFgTphiFYNXyIJTJ+AKjuUZCZBR27Joo92ZHeJg7mrikM7WaNuhVk2lp9RO0kcVqBqeAU+dVxGYjMiGG0gCVdHMjubZVhAnVMEGQVdt2fJZQUGAQkMIQqNprJ7pF4gTGacPU4drIwcRS94jmzlKQwOCQICHbW+ZztDJmNHUHgqhb8ZfJpGbBdoWce3FhYTEAcFg9YfEjwSSDtCbz5GNPy1V2s5LWxPQLdZFBILGAhDxHIkTyUmHDYcHj5fO2flLng4fkpDCZ4qCxsbJBBOjWc1JBkMQT8HPzVSHiCvPIBCYzBrMIoEAgYtFystpppXQpVhJyZDMyUgKhJ7H24nECV/PYwEBwQnIE8JVaLAz7+ebB4sGAVEMx6CDXcZDyt4RpUBBQQZUHROIVZofmbKRGFVXxBTLRlbX1wQGxaHOZ8EBwYeoVTHPg4GBmbQLG5LVjpJRBo6IiQmJyCFLqYGBQJowTa3qgwECEbCqhYeRGE7T4FvZWhAKzqKRqcTDAaUsB5N0VQIBj9ZXWBhSFoz"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.767741,
+          "top": 20.083026,
+          "middle": 24.616922,
+          "bottom": 30.433611,
+          "effectiveRatio": 0.525131
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1430
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5e1d0ec165a6d16ecc97741e954d555b8096d50c86eb9be7dd0a6b6682d51ee4",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 국내 기사 게재 원본 사진과 연결하며 공개 URL 자체를 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김재윤 · 강민호",
+      "subject": "삼성 라이온즈 김재윤 · 강민호",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0403/1775224285955578.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2131865",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (4월 3일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch8\\kbo2-story\\kim-photos\\original-5.webp",
+      "photoDate": "2026-04-03",
+      "photoDateLabel": "4월 3일 자료사진",
+      "checkedAt": "2026-10-15T21:34:17.156Z",
+      "context": "수원KT전9회무사1루김재윤과강민호가대화하는실제모습.두사람얼굴과모자·마스크및손의기존배치를보존한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:30:53.523Z",
+        "width": 1200,
+        "height": 1489,
+        "bytes": 314010,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 3.012114879072358,
+        "entropy": 7.836586473393254,
+        "effectiveDetailRatio": 0.504111,
+        "kind": "source",
+        "coverScale": 0.907,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0403/1775224285955578.webp",
+        "sha256": "63a5d529570e4e91ba579aefe94e4010584ff8fcf7f0a26cad61249ce1c96034",
+        "perceptualHash": "9c9e73514f793395",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "RGhNKDhYVS0lVhlVWEMjPzppVCA5JiQ3JBk5G0A7EzcDU1lWPSdNJzQZMnMqNy0/Vi4PJlBSTBUzRWxTCCkeZ1csVWgnJhwQTilyICgYOEwVN21VeIMVjFkzJTY3aUgneD06JiEHKFgQIR4dLUsyXUwyWHo9WCs3QCE+RyslTl5EKxkwGCA1GCg/QS1OIh4whUFcQzRKVVAlKw0oFSYmOysyUVZFETBBQVcZGSE2YRNKQxEYMGdpVSsUMBAZRYI1SBxrYxhoQgYuHgxTXCcybEI+KBlEX1kwFRksDX58HQA3UigbR0sUJDplGil7Xi4STGZIFDZac25vtrQLSkZlZzRRQyFEW3CGEmR3Kgc8KFcwHR1TV2NUQw9RU5V9MxZCOSomMU49UmtRHluKOCZABSxGEC5KTlljllhYRQ9LKj82IZ0+YCRPV5BXH1gzKUJkJDggBCVYQA0SNC55DkBxQzBMXyA4ZWAKGj45Jo4xQzshCRpIfA0FUaQscmxIgZ9NG2MWaSkDJSBUJ4QaXDUQExgLeVkQYFyCUh+TbUFOSzOWRxIJDjlUSGVHXxINBgoTXG1iiz43LnhWYWJWFEhXmSQSKlRJbz9hRBoRBgMNMWW+S3Q8DVZRaklidTQvhUoTRFlHnRd0KB8UBAIRHGsVxBo8XB9/D4aKLyw6UmQgTlhFfjtVDDQPBAEZEi0/WlYVIGROU1cqFh8ePVsXaGN6cV1DGS8GBBQhC04yUTstJ483PyMIDSMYQlopbjWCUlcjJS4NByUeGBltZk0rc1teezkXEDE5Plg0ZyKCfFRlI0khFSwPTi4wN5OlTSwhf10OFyZEOVY2dCxsXjBOG1EoLRlZWXqBn5oGHi8lWH8OFAc6JFpVIV6DMhUoOE5VOSRHWRcXMXmdmGRBLZIZIWRgNKt+Wo9rEBMlQhxtb0tldIOcw8WqnIiCYIUiRSNmjnp8RjMzPxMeSDg5M01giol9VzUXIWRCYTUfNTM+YFBWJG1gIgQXWk4OEgYkDCYNGxkMK2YyBEsSnU+hRURFJlFgNBkZIldAMkROSExpKAYkMHU5D0YXdx6ISWpHRVMmUoeDmJmhtZqBLTFJQCEvT1YkNjlMdwqPNHhJQHsa0bZleYB3m3FIlHcmJCMbT1scNSZDdxmSN1dzP56RyD4GAR0DDHg9WntIPxk2IwpVcnVLXi2KPh9QMDBaRg0CAiEEGiJ0a8NlfYM1dtKPlKtTUjmZohRmJ0RlPQwGCBsXJAYDHrcbubG00XgQAXmFIn5dzn0voKZujC0UCQUlGhsFGcIPuSpvDAUeNWRaS6MfvoUggS2bgCotGAocCBkGPrFOmBQJEwsKKGU1b2pLwmAeO4llUEMeLRAYBRoHWZEzg0YUExEDO1gkWB6WuSMaY2kWPKQxIxwXAhoId4c+c1EzGSECUXJAYXi7jA0XVT9Ag5e2JQoWBRkHm7pqiGpDMSgs3aElOHQqcUFqPDdppjL9YgUgAxgGjuEsolUfRhi/2E9eDSYySkFE",
+          "top": "RGhNKDhYVS0lVhlVWEMjPzppVCA5JiQ3JBk5G0A7EzcDU1lWPSdNJzQZMnMqNy0/Vi4PJlBSTBUzRWxTCCkeZ1csVWgnJhwQTilyICgYOEwVN21VeIMVjFkzJTY3aUgneD06JiEHKFgQIR4dLUsyXUwyWHo9WCs3QCE+RyslTl5EKxkwGCA1GCg/QS1OIh4whUFcQzRKVVAlKw0oFSYmOysyUVZFETBBQVcZGSE2YRNKQxEYMGdpVSsUMBAZRYI1SBxrYxhoQgYuHgxTXCcybEI+KBlEX1kwFRksDX58HQA3UigbR0sUJDplGil7Xi4STGZIFDZac25vtrQLSkZlZzRRQyFEW3CGEmR3Kgc8KFcwHR1TV2NUQw9RU5V9MxZCOSomMU49UmtRHluKOCZABSxGEC5KTlljllhYRQ9LKj82IZ0+YCRPV5BXH1gzKUJkJDggBCVYQA0SNC55DkBxQzBMXyA4ZWAKGj45Jo4xQzshCRpIfA0FUaQscmxIgZ9NG2MWaSkDJSBUJ4QaXDUQExgLeVkQYFyCUh+TbUFOSzOWRxIJDjlUSGVHXxINBgoTXG1iiz43LnhWYWJWFEhXmSQS",
+          "middle": "Gj45Jo4xQzshCRpIfA0FUaQscmxIgZ9NG2MWaSkDJSBUJ4QaXDUQExgLeVkQYFyCUh+TbUFOSzOWRxIJDjlUSGVHXxINBgoTXG1iiz43LnhWYWJWFEhXmSQSKlRJbz9hRBoRBgMNMWW+S3Q8DVZRaklidTQvhUoTRFlHnRd0KB8UBAIRHGsVxBo8XB9/D4aKLyw6UmQgTlhFfjtVDDQPBAEZEi0/WlYVIGROU1cqFh8ePVsXaGN6cV1DGS8GBBQhC04yUTstJ483PyMIDSMYQlopbjWCUlcjJS4NByUeGBltZk0rc1teezkXEDE5Plg0ZyKCfFRlI0khFSwPTi4wN5OlTSwhf10OFyZEOVY2dCxsXjBOG1EoLRlZWXqBn5oGHi8lWH8OFAc6JFpVIV6DMhUoOE5VOSRHWRcXMXmdmGRBLZIZIWRgNKt+Wo9rEBMlQhxtb0tldIOcw8WqnIiCYIUiRSNmjnp8RjMzPxMeSDg5M01giol9VzUXIWRCYTUfNTM+YFBWJG1gIgQXWk4OEgYkDCYNGxkMK2YyBEsSnU+hRURFJlFgNBkZIldAMkROSExpKAYkMHU5D0YXdx6ISWpH",
+          "bottom": "Wo9rEBMlQhxtb0tldIOcw8WqnIiCYIUiRSNmjnp8RjMzPxMeSDg5M01giol9VzUXIWRCYTUfNTM+YFBWJG1gIgQXWk4OEgYkDCYNGxkMK2YyBEsSnU+hRURFJlFgNBkZIldAMkROSExpKAYkMHU5D0YXdx6ISWpHRVMmUoeDmJmhtZqBLTFJQCEvT1YkNjlMdwqPNHhJQHsa0bZleYB3m3FIlHcmJCMbT1scNSZDdxmSN1dzP56RyD4GAR0DDHg9WntIPxk2IwpVcnVLXi2KPh9QMDBaRg0CAiEEGiJ0a8NlfYM1dtKPlKtTUjmZohRmJ0RlPQwGCBsXJAYDHrcbubG00XgQAXmFIn5dzn0voKZujC0UCQUlGhsFGcIPuSpvDAUeNWRaS6MfvoUggS2bgCotGAocCBkGPrFOmBQJEwsKKGU1b2pLwmAeO4llUEMeLRAYBRoHWZEzg0YUExEDO1gkWB6WuSMaY2kWPKQxIxwXAhoId4c+c1EzGSECUXJAYXi7jA0XVT9Ag5e2JQoWBRkHm7pqiGpDMSgs3aElOHQqcUFqPDdppjL9YgUgAxgGjuEsolUfRhi/2E9eDSYySkFE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 30.018624,
+          "top": 28.080648,
+          "middle": 31.745473,
+          "bottom": 28.550575,
+          "effectiveRatio": 0.504111
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1489
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "63a5d529570e4e91ba579aefe94e4010584ff8fcf7f0a26cad61249ce1c96034",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 국내 기사 게재 원본 사진과 연결하며 공개 URL 자체를 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김재윤 · 강민호",
+      "subject": "삼성 라이온즈 김재윤 · 강민호",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0403/1775224285046522.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2131866",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (4월 3일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch8\\kbo2-story\\kim-photos\\original-4.webp",
+      "photoDate": "2026-04-03",
+      "photoDateLabel": "4월 3일 자료사진",
+      "checkedAt": "2026-10-15T21:34:17.156Z",
+      "context": "수원KT전2-1승리뒤김재윤과강민호포옹.얼굴은원본부터포옹으로부분가려져있으며추가크롭으로신체를숨기지않는다.앞장의9회대화와다른순간이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:30:53.214Z",
+        "width": 1200,
+        "height": 1501,
+        "bytes": 280828,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 3.219453526529148,
+        "entropy": 7.753813596442342,
+        "effectiveDetailRatio": 0.518946,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0403/1775224285046522.webp",
+        "sha256": "690c1d2291394c1f2fbb8b6951a933436d79d6212a8163f48977c208b856b0a0",
+        "perceptualHash": "2dc5061717173c50",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "IjMjLDMndVM/RUs7UgYmLxkrFjYQESQfLEMvGyUhKBIPECVcIkFVQB4kKxESRDMlUhgfBhMNGyccBh0nSiAJERlLgF1+Olo0Oi5OM1EXZRoTNCciJj1CCQ8ZN0ItNUk3PEFVPSo8NVwRVjAoO01HOkI9TFgNLCI0SDUoNhMQGxcWKSolSiNULUlSNBwYRi8dFw9TKzgUOz5ARkA9OTEkJisqGTYrXDlyRiI0RCUiJCktNDo7HR8mKSEiFRoaET4zLBwgHoMJUY5pFEAxISEtKy0uBgYFBwsODRIaKB4aIy4PDhRYRRmQFi0XAw8eKTIqBQUFBQoGBhMfYDEVOTo6OXciGzZIREAjEAcABxEPCQcHCAsFBwpNMlJlPUFkfRk4Fx5GOh4eCAUICwcBFhYVFhEQDQ0uPlRJHztVMGM6NisUNh0YCgoGBAYEOTc2NTo5PD0XOSdxdop8okgdGSUlOic2ODMzMjAyS0xMTEpMTlNXCRIecoyTdERfMQ03KXJCRERERUJECw0MCwoNEBtLFh8wQRUqS5IYYSwrQE0SEhMSExIRCwgICQoKCxhFIig5FRAUPWlRAgsaYHoIBwcFBQUFBAMCBAQFBSpnTVlOMx8FNVAxMQ0kMHgmAQMECgAAAQMFBAUEBUvRf7edrlUXQlYgO5WDh4Y1AQZeihUAAwICAxICB8f6R3aIueIoQi5m2Ytrnf9mBGCjm60TAgYGLIMnJN6oARI9Rv+6KaXpUQsPB//VC26RRZVtBQEnnSyBBOG1DRkIHuvPMNCzIhIEG+Hqc6gVb2o1BxOoSlZtgrj4GQwTMOy5GN7SFxQMDf9m7FGATCwYDJ6aJzxt1VH1ZAQRI+vPHtvqBhgNgP+Cm3JoMEWZt7ZHeW9lZe2ufQISIqz9sv+tEgoIpnnwU2K7vNDsrURmc2FZJ4RzCwsOIipkU1JZJgYbVU90JyhnhIBDqHqikHlZdMfITQ0OFkZ9ikt6gAcWQyvVvINmu9S1pnuqv7qQuNe4wkwPFXauN1lBV4JnhsbDzHmF1berFh0kIUtjYT//rh4tGoCOFSQ5HIFjCX5Xa1RjSHorWjk2QxwyOf/QEV5xFnukL0oFOEJ8Ss6Wfks/LyR5ZVJeW2dx8dgNWGxPSmmqgzwdKRIkcoBSVjtCGS11EyceIDe/tyEZPll9QGFwyDsXIVMXQ0NKTyYyWLOQEB4DC2R+KhcGGUE3jzqPbpc0OiMnOk4iTiwXXXw+R09DYng9DRQQDAVHWmhTaYQoLzNiSFE0PEFDRGcZMBEMPToEGxYOEgw1JUQJal0WRURrFFkMSgs+FFgGTFRqYx0hChsQBQ0tHSILeU4QFTdTOlsOK0ZRN3YcLSlXUAwmKDc3Ozg3Ixhrf00lMSo0NyY2WyAGXHdGKiwxNyA3SUBARUMrEl94O4Z/QSUpXmFlU00sLTFAIB8lLFk0JhQTEB8RPlUaiE84VjAdYBQeclEdJQkLEBEHBgwrBwQGBAoaGjVQLEBFGRQvEDEqQRIFCwkG",
+          "top": "IjMjLDMndVM/RUs7UgYmLxkrFjYQESQfLEMvGyUhKBIPECVcIkFVQB4kKxESRDMlUhgfBhMNGyccBh0nSiAJERlLgF1+Olo0Oi5OM1EXZRoTNCciJj1CCQ8ZN0ItNUk3PEFVPSo8NVwRVjAoO01HOkI9TFgNLCI0SDUoNhMQGxcWKSolSiNULUlSNBwYRi8dFw9TKzgUOz5ARkA9OTEkJisqGTYrXDlyRiI0RCUiJCktNDo7HR8mKSEiFRoaET4zLBwgHoMJUY5pFEAxISEtKy0uBgYFBwsODRIaKB4aIy4PDhRYRRmQFi0XAw8eKTIqBQUFBQoGBhMfYDEVOTo6OXciGzZIREAjEAcABxEPCQcHCAsFBwpNMlJlPUFkfRk4Fx5GOh4eCAUICwcBFhYVFhEQDQ0uPlRJHztVMGM6NisUNh0YCgoGBAYEOTc2NTo5PD0XOSdxdop8okgdGSUlOic2ODMzMjAyS0xMTEpMTlNXCRIecoyTdERfMQ03KXJCRERERUJECw0MCwoNEBtLFh8wQRUqS5IYYSwrQE0SEhMSExIRCwgICQoKCxhFIig5FRAUPWlRAgsaYHoIBwcFBQUF",
+          "middle": "S0xMTEpMTlNXCRIecoyTdERfMQ03KXJCRERERUJECw0MCwoNEBtLFh8wQRUqS5IYYSwrQE0SEhMSExIRCwgICQoKCxhFIig5FRAUPWlRAgsaYHoIBwcFBQUFBAMCBAQFBSpnTVlOMx8FNVAxMQ0kMHgmAQMECgAAAQMFBAUEBUvRf7edrlUXQlYgO5WDh4Y1AQZeihUAAwICAxICB8f6R3aIueIoQi5m2Ytrnf9mBGCjm60TAgYGLIMnJN6oARI9Rv+6KaXpUQsPB//VC26RRZVtBQEnnSyBBOG1DRkIHuvPMNCzIhIEG+Hqc6gVb2o1BxOoSlZtgrj4GQwTMOy5GN7SFxQMDf9m7FGATCwYDJ6aJzxt1VH1ZAQRI+vPHtvqBhgNgP+Cm3JoMEWZt7ZHeW9lZe2ufQISIqz9sv+tEgoIpnnwU2K7vNDsrURmc2FZJ4RzCwsOIipkU1JZJgYbVU90JyhnhIBDqHqikHlZdMfITQ0OFkZ9ikt6gAcWQyvVvINmu9S1pnuqv7qQuNe4wkwPFXauN1lBV4JnhsbDzHmF1berFh0kIUtjYT//rh4tGoCOFSQ5HIFjCX5Xa1RjSHor",
+          "bottom": "rURmc2FZJ4RzCwsOIipkU1JZJgYbVU90JyhnhIBDqHqikHlZdMfITQ0OFkZ9ikt6gAcWQyvVvINmu9S1pnuqv7qQuNe4wkwPFXauN1lBV4JnhsbDzHmF1berFh0kIUtjYT//rh4tGoCOFSQ5HIFjCX5Xa1RjSHorWjk2QxwyOf/QEV5xFnukL0oFOEJ8Ss6Wfks/LyR5ZVJeW2dx8dgNWGxPSmmqgzwdKRIkcoBSVjtCGS11EyceIDe/tyEZPll9QGFwyDsXIVMXQ0NKTyYyWLOQEB4DC2R+KhcGGUE3jzqPbpc0OiMnOk4iTiwXXXw+R09DYng9DRQQDAVHWmhTaYQoLzNiSFE0PEFDRGcZMBEMPToEGxYOEgw1JUQJal0WRURrFFkMSgs+FFgGTFRqYx0hChsQBQ0tHSILeU4QFTdTOlsOK0ZRN3YcLSlXUAwmKDc3Ozg3Ixhrf00lMSo0NyY2WyAGXHdGKiwxNyA3SUBARUMrEl94O4Z/QSUpXmFlU00sLTFAIB8lLFk0JhQTEB8RPlUaiE84VjAdYBQeclEdJQkLEBEHBgwrBwQGBAoaGjVQLEBFGRQvEDEqQRIFCwkG"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.619432,
+          "top": 33.220046,
+          "middle": 26.770789,
+          "bottom": 31.791113,
+          "effectiveRatio": 0.518946
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1501
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "690c1d2291394c1f2fbb8b6951a933436d79d6212a8163f48977c208b856b0a0",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 국내 기사 게재 원본 사진과 연결하며 공개 URL 자체를 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김재윤 · 강민호",
+      "subject": "삼성 라이온즈 김재윤 · 강민호",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2025/1013/1760361473196894.jpg",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2064399",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (2025년 10월 13일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch8\\kbo2-story\\kim-archive\\original-13.jpg",
+      "photoDate": "2025-10-13",
+      "photoDateLabel": "2025년 10월 13일 자료사진",
+      "checkedAt": "2026-10-15T21:34:17.156Z",
+      "context": "2025준PO3차전SSG전승리후김재윤과강민호실제포옹.2026새경기또는타이틀확정현장으로오인하지않게연도를명시한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:31:14.648Z",
+        "width": 1200,
+        "height": 1420,
+        "bytes": 275780,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.386769695268375,
+        "entropy": 7.495850181614514,
+        "effectiveDetailRatio": 0.532275,
+        "kind": "source",
+        "coverScale": 0.951,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2025/1013/1760361473196894.jpg",
+        "sha256": "ad54e7994504a37749e9af566649431f3ee1702a4bacd5831f250dab1e6f0642",
+        "perceptualHash": "05a22361d83919c8",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DA4NDg4NCw0PDAkGGQUEDA4PAQcOCggICgkJCAYIBgMEBwcFBAUFJhsfESQSDg5AOS8TBQQHBgUEBwQHAwMEBAMCAggzIVwoEB01D1V0NiY+EQgBAQEBAQQCAQECBAIDCSkoYR1sJUg4YXgJUCQQQQ0IAgECAgIHBgUICQkICCEOH0EtPCExLDBBRh4rJiwPDQwNDQ8WEA8RDw4RFCcTJ1BvS0UtODN3MxQJFS4EGBYTExgDQ0EwO0VERjdEWFAshG1SXytcZRZPMFJLKCAaNEdKPj4JJEA4NjhFnls6dzmSPEVuVJFJHyxBQiEiUVcsAz8oTB0IGi5VRWxvgTdihll7XG8mJSwhKyYpPw8rPURARVU0GQsHFA8xeHW6zCwqRyMfVUB7WRNKMQgyGEgoHjFqekVAHzCOgRuKj3VPQTFzQxhCqoIxGgFVIi9aGnKsNmMlQ0xFsc9IDj/LVL1wEBgUNZJRGi9ROR9DEps9LWVVRU4RIoicRhA1hTwGEAwUCTVLRitNBjwhRmELIYthLjETQmZiYywlRUwxCBIfCiOebnBHMTU5X0sTNqBPNzA+Zj0eNjhVR05VECQ9SASgoFAzWjA7blwXg8RTNBxPe3lkRUcxXzNzJDshRDgymlETMmcrTFQOz4Q2JQIUWVmGZFdHTkhmTB4GLyYvRjgdFCs4PUZMpgVkeEVJTp19L0lTMjQ0NlsfRRk7QiMlJw0oHjRaxl9Kb7261saMZSJPaFVAYHqrPhksHlJODxsZIVJKcp00ckMzQyNLmVxWW0JHUVae1ScaPjVLNEM9Mk9jh4AtZo2rqJFkoIUUPDgNRUoyoIMaHg0MNCYRPjNeKixZTU4hIGejbWclUikWHoijnh0MFyIWBw8jQhduhoWIh4eZsKRCVipUPRsNMlKBKzIBGQclJhkgH1tzKhssHwsPOHjZukxjDx8WHFk+NBURBiAkLisOE0oxBgkCCxEOFB0flaQHIA8SGTtBKQkUEBwMLTVGRUonGxcSEgIJLzQWLDtJExwMIWJgSzUaEgoLO0xaVX03CA4EBgQdFDFGWzdJLC4wOlhTVEM2BwMNJissOJZrHBgXDAMQJiNwbEkSZB4eKHmIWCYTHQkNCwQNRapPBgILEA0MCg5cYzosM0tpWVk2GQ0XD2hkBgkURKlDEAsNBwwODQNUSisjHVdBFgwWDQYGYlMCBwYST6UyIEYXCwkGBAY3TB4OMiwNBwMPCwkLEXBqc0EaVJouVUVRMxwUCQwVODw7JEcVDRESAw4MGBQGf6GbbH1ISA1OQ1VBJw8MEyROLlVBBAsPBQsRBhYbhDc2hyIfHxooHQ83OhAGAw4xUQ9NOBcOCAgTBxQTSmFoJTAhPhVSUUMvKg4JFRspPhQ3IyQMCAUKFSMeVWg9RwZqLyFFMCUgEgMCFBglSBlGGhgPCAgELREsNEcyZGhcHyxGRQwLBwQIGAsbThxKBwwRDQQKHCQGGRMCVmdiPT4wTwYEDAUPGAsQSBtAAwwIEAUTVRMN",
+          "top": "DA4NDg4NCw0PDAkGGQUEDA4PAQcOCggICgkJCAYIBgMEBwcFBAUFJhsfESQSDg5AOS8TBQQHBgUEBwQHAwMEBAMCAggzIVwoEB01D1V0NiY+EQgBAQEBAQQCAQECBAIDCSkoYR1sJUg4YXgJUCQQQQ0IAgECAgIHBgUICQkICCEOH0EtPCExLDBBRh4rJiwPDQwNDQ8WEA8RDw4RFCcTJ1BvS0UtODN3MxQJFS4EGBYTExgDQ0EwO0VERjdEWFAshG1SXytcZRZPMFJLKCAaNEdKPj4JJEA4NjhFnls6dzmSPEVuVJFJHyxBQiEiUVcsAz8oTB0IGi5VRWxvgTdihll7XG8mJSwhKyYpPw8rPURARVU0GQsHFA8xeHW6zCwqRyMfVUB7WRNKMQgyGEgoHjFqekVAHzCOgRuKj3VPQTFzQxhCqoIxGgFVIi9aGnKsNmMlQ0xFsc9IDj/LVL1wEBgUNZJRGi9ROR9DEps9LWVVRU4RIoicRhA1hTwGEAwUCTVLRitNBjwhRmELIYthLjETQmZiYywlRUwxCBIfCiOebnBHMTU5X0sTNqBPNzA+Zj0eNjhVR05VECQ9SASgoFAz",
+          "middle": "OR9DEps9LWVVRU4RIoicRhA1hTwGEAwUCTVLRitNBjwhRmELIYthLjETQmZiYywlRUwxCBIfCiOebnBHMTU5X0sTNqBPNzA+Zj0eNjhVR05VECQ9SASgoFAzWjA7blwXg8RTNBxPe3lkRUcxXzNzJDshRDgymlETMmcrTFQOz4Q2JQIUWVmGZFdHTkhmTB4GLyYvRjgdFCs4PUZMpgVkeEVJTp19L0lTMjQ0NlsfRRk7QiMlJw0oHjRaxl9Kb7261saMZSJPaFVAYHqrPhksHlJODxsZIVJKcp00ckMzQyNLmVxWW0JHUVae1ScaPjVLNEM9Mk9jh4AtZo2rqJFkoIUUPDgNRUoyoIMaHg0MNCYRPjNeKixZTU4hIGejbWclUikWHoijnh0MFyIWBw8jQhduhoWIh4eZsKRCVipUPRsNMlKBKzIBGQclJhkgH1tzKhssHwsPOHjZukxjDx8WHFk+NBURBiAkLisOE0oxBgkCCxEOFB0flaQHIA8SGTtBKQkUEBwMLTVGRUonGxcSEgIJLzQWLDtJExwMIWJgSzUaEgoLO0xaVX03CA4EBgQdFDFGWzdJLC4wOlhTVEM2BwMN",
+          "bottom": "JhkgH1tzKhssHwsPOHjZukxjDx8WHFk+NBURBiAkLisOE0oxBgkCCxEOFB0flaQHIA8SGTtBKQkUEBwMLTVGRUonGxcSEgIJLzQWLDtJExwMIWJgSzUaEgoLO0xaVX03CA4EBgQdFDFGWzdJLC4wOlhTVEM2BwMNJissOJZrHBgXDAMQJiNwbEkSZB4eKHmIWCYTHQkNCwQNRapPBgILEA0MCg5cYzosM0tpWVk2GQ0XD2hkBgkURKlDEAsNBwwODQNUSisjHVdBFgwWDQYGYlMCBwYST6UyIEYXCwkGBAY3TB4OMiwNBwMPCwkLEXBqc0EaVJouVUVRMxwUCQwVODw7JEcVDRESAw4MGBQGf6GbbH1ISA1OQ1VBJw8MEyROLlVBBAsPBQsRBhYbhDc2hyIfHxooHQ83OhAGAw4xUQ9NOBcOCAgTBxQTSmFoJTAhPhVSUUMvKg4JFRspPhQ3IyQMCAUKFSMeVWg9RwZqLyFFMCUgEgMCFBglSBlGGhgPCAgELREsNEcyZGhcHyxGRQwLBwQIGAsbThxKBwwRDQQKHCQGGRMCVmdiPT4wTwYEDAUPGAsQSBtAAwwIEAUTVRMN"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 28.742424,
+          "top": 32.709126,
+          "middle": 34.016993,
+          "bottom": 21.033977,
+          "effectiveRatio": 0.532275
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1420
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "ad54e7994504a37749e9af566649431f3ee1702a4bacd5831f250dab1e6f0642",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 국내 기사 게재 원본 사진과 연결하며 공개 URL 자체를 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김재윤 · 강민호",
+      "subject": "삼성 라이온즈 김재윤 · 강민호",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2025/1014/1760447718522257.jpg",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2064906",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (2025년 10월 14일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch8\\kbo2-story\\kim-archive\\original-10.jpg",
+      "photoDate": "2025-10-14",
+      "photoDateLabel": "2025년 10월 14일 자료사진",
+      "checkedAt": "2026-10-15T21:34:17.156Z",
+      "context": "2025준PO4차전SSG전승리후김재윤과강민호의실제포옹뒷모습.김재윤얼굴은원래가려져있고크롭으로제거한것이아니다.2025자료사진연도를명시하며앞장과다른날의실제순간이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T21:31:11.955Z",
+        "width": 1200,
+        "height": 1388,
+        "bytes": 299787,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.8409494970154245,
+        "entropy": 7.778689361643046,
+        "effectiveDetailRatio": 0.538276,
+        "kind": "source",
+        "coverScale": 0.973,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2025/1014/1760447718522257.jpg",
+        "sha256": "3795956114c4cde63a0be460eede6486991970112944f0c56c480beb0e654a48",
+        "perceptualHash": "9b2b0f2626632727",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "XjBzXSc5iWxzTwkMKR1nMhhMWUZKYiYgTUu5Uj1gX3ddMUleWXw3Yw5CDl84OxMsYlgcFBgfIi6jXCdjDzUIPl0QI3ZyDysYIA00RxkeDEtNSyAmO0GRVxw9BwgIHko4GChZNAEYIRgiKSw8HSAXOiMIEzB6OhQHEwoMETkaEQkwYTFDQ2ImCjcaCAwDPhoZKGFpMhchAgMQWYhYLDonRWZxRmluT0oaImhiTydCLV9YHwofBwcvi0hQUTRMWTsdNlt7Q0Qcax6JWFpEW2s8FRoLChE9fTwqOVFjSo7WxJ1SSX88C2BnN2ZCajUKDhYnDjHUmmFVX1GNusXhj923gOLGfVk2OnRSUykjIyg6CpesJkJeQiGKaWo3BC5LJS14un8ULUb/iQoMCREpDYSYKgsSFUwyMygPGRwZOhQnNJdGImBw/2tVVmh9D0O6l18idkRPPFIfDAwmGys4RymZLIRXfnUVGCYkNxlJpW0JSrB4W09PDRIlEigjWC1DZHUQeVonFDUtiYc+cdUebgxHRz00NB4KIgsWK0gURk1/ZFojHTA5MIiI5H1bUn9lG7a+bDkbDg4GEyx8jCJJJXWUTEx3qThvpRkwJ1xm6ZqhmWE3EBENEDK0LHFjgcxeaqVHjcR1LyIjJjYgiP+CfDQlKAoODmORCnQqq60Du6UwN7yVIx4vI0IKMYlBeEkZFxIPKJV2HXdjnrMo03kNFbe+GRYoFjIpcruSq30ZEA0FECSagytGb4JGx1YLVcK8EAcjGiW94J9Lsc8nBQ4SDwsVVDFaVtRKtC4HKOiFEQYGM5GTQC0wb/ReLjU2QlZudE5kg6JpgxkCU+9CBgIQKV2dWBMqWmqigIOLaFc0GRwlJUpaTygDnqsOCQcJIj5wik8nMRg1IDI8Ym2Il5aPnoFGQ0wQosIgDQMLGU1PYotNHC2rroqYbFhHM1pfO4KOIF4mTZJmBAw0eShMWFluQ4G5HQ0TEQ4FFRUNMoSSLkYwZa4vCTiDVnM3JklIGXJkCw4NBRAzJSZIfaZjDRc150kjGhx1Zktut4NbNoKVEhUYIT8cGxcwWXYmWxMoxBwLCTQrMV2+UsWEHjmkTwMMCR5HLSpFXd+vUUIjZh8EDTpJGz2h/yZ+NzWPdg0QDQwLAwcEDnbPJ08rWRQEGg84RhkZ3bQtQlqiUAcNCAwGBg8XD3C8GT8XdxQFGQEGDAkMpNUkNHSvUREQDQcHCyErH3THKVs6qw0EFgIECgkRlPM8GYTXSQYOAgcHHTA+LFrJWiArbAMEFQEDCwkLeuKSoLm6OBINAwkmOGA0QTyYfGZSLAQAGAICAhQhOG1PREs0Hx0QDS5JcWQhOUlLLRwvnSUGFQIEAiApD1RqhYxeIx0FHDxXThg4EXRwSFFR02EHEAMDDxoWHZCOH4WjJx4DHQpJWR8dNnYmDAYHilENDAQFEQkNJGtuKV50KhsNFR4jUS0hIldtW0xbkmQKCwMJDwUHDmSCJ1p/MxsJARRCSzdEFxsZJRsa",
+          "top": "XjBzXSc5iWxzTwkMKR1nMhhMWUZKYiYgTUu5Uj1gX3ddMUleWXw3Yw5CDl84OxMsYlgcFBgfIi6jXCdjDzUIPl0QI3ZyDysYIA00RxkeDEtNSyAmO0GRVxw9BwgIHko4GChZNAEYIRgiKSw8HSAXOiMIEzB6OhQHEwoMETkaEQkwYTFDQ2ImCjcaCAwDPhoZKGFpMhchAgMQWYhYLDonRWZxRmluT0oaImhiTydCLV9YHwofBwcvi0hQUTRMWTsdNlt7Q0Qcax6JWFpEW2s8FRoLChE9fTwqOVFjSo7WxJ1SSX88C2BnN2ZCajUKDhYnDjHUmmFVX1GNusXhj923gOLGfVk2OnRSUykjIyg6CpesJkJeQiGKaWo3BC5LJS14un8ULUb/iQoMCREpDYSYKgsSFUwyMygPGRwZOhQnNJdGImBw/2tVVmh9D0O6l18idkRPPFIfDAwmGys4RymZLIRXfnUVGCYkNxlJpW0JSrB4W09PDRIlEigjWC1DZHUQeVonFDUtiYc+cdUebgxHRz00NB4KIgsWK0gURk1/ZFojHTA5MIiI5H1bUn9lG7a+bDkbDg4GEyx8jCJJJXWUTEx3",
+          "middle": "NxlJpW0JSrB4W09PDRIlEigjWC1DZHUQeVonFDUtiYc+cdUebgxHRz00NB4KIgsWK0gURk1/ZFojHTA5MIiI5H1bUn9lG7a+bDkbDg4GEyx8jCJJJXWUTEx3qThvpRkwJ1xm6ZqhmWE3EBENEDK0LHFjgcxeaqVHjcR1LyIjJjYgiP+CfDQlKAoODmORCnQqq60Du6UwN7yVIx4vI0IKMYlBeEkZFxIPKJV2HXdjnrMo03kNFbe+GRYoFjIpcruSq30ZEA0FECSagytGb4JGx1YLVcK8EAcjGiW94J9Lsc8nBQ4SDwsVVDFaVtRKtC4HKOiFEQYGM5GTQC0wb/ReLjU2QlZudE5kg6JpgxkCU+9CBgIQKV2dWBMqWmqigIOLaFc0GRwlJUpaTygDnqsOCQcJIj5wik8nMRg1IDI8Ym2Il5aPnoFGQ0wQosIgDQMLGU1PYotNHC2rroqYbFhHM1pfO4KOIF4mTZJmBAw0eShMWFluQ4G5HQ0TEQ4FFRUNMoSSLkYwZa4vCTiDVnM3JklIGXJkCw4NBRAzJSZIfaZjDRc150kjGhx1Zktut4NbNoKVEhUYIT8cGxcwWXYmWxMo",
+          "bottom": "osIgDQMLGU1PYotNHC2rroqYbFhHM1pfO4KOIF4mTZJmBAw0eShMWFluQ4G5HQ0TEQ4FFRUNMoSSLkYwZa4vCTiDVnM3JklIGXJkCw4NBRAzJSZIfaZjDRc150kjGhx1Zktut4NbNoKVEhUYIT8cGxcwWXYmWxMoxBwLCTQrMV2+UsWEHjmkTwMMCR5HLSpFXd+vUUIjZh8EDTpJGz2h/yZ+NzWPdg0QDQwLAwcEDnbPJ08rWRQEGg84RhkZ3bQtQlqiUAcNCAwGBg8XD3C8GT8XdxQFGQEGDAkMpNUkNHSvUREQDQcHCyErH3THKVs6qw0EFgIECgkRlPM8GYTXSQYOAgcHHTA+LFrJWiArbAMEFQEDCwkLeuKSoLm6OBINAwkmOGA0QTyYfGZSLAQAGAICAhQhOG1PREs0Hx0QDS5JcWQhOUlLLRwvnSUGFQIEAiApD1RqhYxeIx0FHDxXThg4EXRwSFFR02EHEAMDDxoWHZCOH4WjJx4DHQpJWR8dNnYmDAYHilENDAQFEQkNJGtuKV50KhsNFR4jUS0hIldtW0xbkmQKCwMJDwUHDmSCJ1p/MxsJARRCSzdEFxsZJRsa"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 33.037017,
+          "top": 36.6736,
+          "middle": 34.489002,
+          "bottom": 27.277438,
+          "effectiveRatio": 0.538276
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1388
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "3795956114c4cde63a0be460eede6486991970112944f0c56c480beb0e654a48",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 실제 국내 기사 게재 원본 사진과 연결하며 공개 URL 자체를 무료 이용권으로 추정하지 않는다."
+      }
+    }
+  ]
+}
