@@ -1,0 +1,364 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "김원형, 두산의 내년 과제로 공격 보완 꼽았다",
+  "issueKey": "kbo-2026-doosan-kim-won-hyung-offense-review",
+  "checkedAt": "2026-10-15T20:49:14.916Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/Interview/View.aspx?bdSe=62570",
+  "corroboratingUrls": [
+    "https://www.newspim.com/news/view/20261015000017",
+    "https://www.xportsnews.com/article/2208006"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/Interview/View.aspx?bdSe=62570",
+      "publishedAt": "2026-10-14",
+      "title": "곽빈 투구 극찬한 김원형 감독 “와일드카드는 끝나면 좀 허무하네요”",
+      "role": "직접 관련 KBO 경기후 인터뷰의일문일답.새기사핵심은김원형의내년공격보완·젊은야수과제·디테일·감독부터새출발발언이며,이미발행한LG62571의김도영대응과구별한다."
+    },
+    {
+      "url": "https://www.newspim.com/news/view/20261015000017",
+      "publishedAt": "2026-10-15T09:24:00+09:00",
+      "title": "[WC 포커스] 유망주 성장 베테랑 정체 두산 타격, 2027시즌에는 보완될까",
+      "role": "최신후속시즌결산.팀타율·홈런순위와김민석성장,감독의타격보완필요성을교차확인.자동AI요약이아닌기자본문을직접확인."
+    },
+    {
+      "url": "https://www.xportsnews.com/article/2208006",
+      "publishedAt": "2026-10-16T02:07:00+09:00",
+      "role": "김원형의공격부족·젊은선수과제발언을전하는최신후속.제목과후반부FA전망은추측이므로원고제외.본문의8회추가실점수등세부서술도이번이슈핵심이아니므로사용하지않음."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "김원형",
+      "subject": "두산 베어스 김원형",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791980653103410.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207645",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (10월 14일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\doosan-story\\photos\\source-2207645-0.webp",
+      "photoDate": "2026-10-14",
+      "checkedAt": "2026-10-15T20:46:37.094Z",
+      "context": "10월14일잠실와일드카드1차전중경기를지켜보는김원형감독. 감독의얼굴은원래더그아웃기둥옆에있고,추가크롭으로얼굴을자르지않는다. 우측가장자리일부분만보이는사람은주요인물이아니며신원을추정하지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:42:01.360Z",
+        "width": 1200,
+        "height": 1565,
+        "bytes": 176010,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.191598983258951,
+        "entropy": 7.347970544826239,
+        "effectiveDetailRatio": 0.457855,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791980653103410.webp",
+        "sha256": "7e487feeadf672169cf436af7a2b8e2f8366ab9f0ae448c879d4488b975976f3",
+        "perceptualHash": "afea4c6212cd5550",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQMFAgECBgUyqq2jm10hKWN5eXVsZF5aUkxHST5OBAIFAwMCBgU0QQsGPrynu6s4CwEEAgQGLBkKJ2MuBgMFBAEDBQM8RwsJT7NRZGNVV3dmiot7o4QgKV8kAQUGBAICBwM/Tg0TD4PYgIYXXqKFgGNJX6d+KFsvBAkHBAUEAgJBUwoUFhh0nyUmd0UtMlAuX4Vva3kpBggDBQEFBAE8UQ8IDxMcIChDhrBTPhonJTtbq2paBAIBAQUBAwE6TxEBCQUbLB8YJFOePTknIR9pUF+zBAYCAwQBAwQ2WUMSDC41T2IhaV9ReEVNRV4yKB58BAYGBgUEBQYTM2pOKRk7R1E4R0tsoZNXWVxRJAocAQIEAwIBAQMMEh1od2ZrPzd2VGApJRtnonI1MDArAQEDBAMAAgIOCyc3Tl5gHkFchYY5RbSoQBMRBiBWAAECAgEEBAMXBykhHQ8UGxMbXbOUkoUpFAsFCAQGEwECAgIEAQUXCyMpJwweEi0kJUNKPh0ZCAgMCAULJgICAwACBAQbESIxMQ8UIiMeJjogFx4NDQ4RDgcOKAECAgIAAgIeGQ4tRkIfHyc8GgQQIwsGBQwUHAwDJwMEAwEAAwQkESMhDTQ1PTlOKQodGwICBAwXFRQrIwMEAQEDBAMoMFlKGAsSEgU1OQ8aDwwLCBsHJRhrRQMEAgIEBgIXb21Jb1pMNEZUU0oaLhMNCxgXJyNBVRcGAwMHBgMrSoa+XCZ0bleaaTdJIhgRFhAeFQ00Sy8HBAQHAgQbKDxNndBsGGK8YQ0hIBYoJQccEQwIUC8EAwQGAwQxaRBFLGzNo62mPBcBBQIWNSgSEBAQLwMDBAcDAgYOPlgkKRhKh3ETFTAEAQUCEjMXHREJBAEEBwQCBAMtVC4CFBgbPzkbPCIBBAUICxs1BCMZAQQHBQIGAQIxbTktHgwfHTYvDBUICAUGBgknKhceBgYFAQYDAQMsbzwLGg4dDgQQCRQPXTMFBAcJGAwGKicJBQQCAAInbUMGEBAPDwgRCRVPYWEuBQgIE2tYL0FBFQICAwQgb0oJCQ4MEQUNFRtKIlQ5CAgSZk1KEBY+SRcGBgMHW14LBA8KFAkGISFOMiJVKAcPFVdbBgYVREsOBQUkaUMCAxQFFQ8HI0MeTFI0LQIGDCMMBAgMHlRCCAUiakUGBxAFCw4QDCArQzI3CwcIOCk/HAwEDi1fKgQfZEgFBhIKEAUQBBsRLQsGDBAbDy5AWCUGChFYUAUdaE0PCUIuIApUGBwjHzgpGRAUCxYtBD0GFhE3byQYW04+MVIkQzc4aBYRBkIYIQ4PEhAXPSAvIiQUXFsQSEJQAhEhAR0xWA8aLAk4CQcQBBgMSTAmNSoULXs0LiJQODpESzFOUkorLDYbDQkRAxkUHzETHiURFH+Jp41/ISk8MhNLTg0UFjoIDwkTBxQaEjILFhoeGANuZzkjSyw3RBVCBiIVKhQHEREOCBcmHFImEy4+FhApBgQEGRAKFhEYBAYGEAsQCRsXIi0e",
+          "top": "AQMFAgECBgUyqq2jm10hKWN5eXVsZF5aUkxHST5OBAIFAwMCBgU0QQsGPrynu6s4CwEEAgQGLBkKJ2MuBgMFBAEDBQM8RwsJT7NRZGNVV3dmiot7o4QgKV8kAQUGBAICBwM/Tg0TD4PYgIYXXqKFgGNJX6d+KFsvBAkHBAUEAgJBUwoUFhh0nyUmd0UtMlAuX4Vva3kpBggDBQEFBAE8UQ8IDxMcIChDhrBTPhonJTtbq2paBAIBAQUBAwE6TxEBCQUbLB8YJFOePTknIR9pUF+zBAYCAwQBAwQ2WUMSDC41T2IhaV9ReEVNRV4yKB58BAYGBgUEBQYTM2pOKRk7R1E4R0tsoZNXWVxRJAocAQIEAwIBAQMMEh1od2ZrPzd2VGApJRtnonI1MDArAQEDBAMAAgIOCyc3Tl5gHkFchYY5RbSoQBMRBiBWAAECAgEEBAMXBykhHQ8UGxMbXbOUkoUpFAsFCAQGEwECAgIEAQUXCyMpJwweEi0kJUNKPh0ZCAgMCAULJgICAwACBAQbESIxMQ8UIiMeJjogFx4NDQ4RDgcOKAECAgIAAgIeGQ4tRkIfHyc8GgQQIwsGBQwUHAwD",
+          "middle": "EwECAgIEAQUXCyMpJwweEi0kJUNKPh0ZCAgMCAULJgICAwACBAQbESIxMQ8UIiMeJjogFx4NDQ4RDgcOKAECAgIAAgIeGQ4tRkIfHyc8GgQQIwsGBQwUHAwDJwMEAwEAAwQkESMhDTQ1PTlOKQodGwICBAwXFRQrIwMEAQEDBAMoMFlKGAsSEgU1OQ8aDwwLCBsHJRhrRQMEAgIEBgIXb21Jb1pMNEZUU0oaLhMNCxgXJyNBVRcGAwMHBgMrSoa+XCZ0bleaaTdJIhgRFhAeFQ00Sy8HBAQHAgQbKDxNndBsGGK8YQ0hIBYoJQccEQwIUC8EAwQGAwQxaRBFLGzNo62mPBcBBQIWNSgSEBAQLwMDBAcDAgYOPlgkKRhKh3ETFTAEAQUCEjMXHREJBAEEBwQCBAMtVC4CFBgbPzkbPCIBBAUICxs1BCMZAQQHBQIGAQIxbTktHgwfHTYvDBUICAUGBgknKhceBgYFAQYDAQMsbzwLGg4dDgQQCRQPXTMFBAcJGAwGKicJBQQCAAInbUMGEBAPDwgRCRVPYWEuBQgIE2tYL0FBFQICAwQgb0oJCQ4MEQUNFRtKIlQ5CAgSZk1K",
+          "bottom": "AQQHBQIGAQIxbTktHgwfHTYvDBUICAUGBgknKhceBgYFAQYDAQMsbzwLGg4dDgQQCRQPXTMFBAcJGAwGKicJBQQCAAInbUMGEBAPDwgRCRVPYWEuBQgIE2tYL0FBFQICAwQgb0oJCQ4MEQUNFRtKIlQ5CAgSZk1KEBY+SRcGBgMHW14LBA8KFAkGISFOMiJVKAcPFVdbBgYVREsOBQUkaUMCAxQFFQ8HI0MeTFI0LQIGDCMMBAgMHlRCCAUiakUGBxAFCw4QDCArQzI3CwcIOCk/HAwEDi1fKgQfZEgFBhIKEAUQBBsRLQsGDBAbDy5AWCUGChFYUAUdaE0PCUIuIApUGBwjHzgpGRAUCxYtBD0GFhE3byQYW04+MVIkQzc4aBYRBkIYIQ4PEhAXPSAvIiQUXFsQSEJQAhEhAR0xWA8aLAk4CQcQBBgMSTAmNSoULXs0LiJQODpESzFOUkorLDYbDQkRAxkUHzETHiURFH+Jp41/ISk8MhNLTg0UFjoIDwkTBxQaEjILFhoeGANuZzkjSyw3RBVCBiIVKhQHEREOCBcmHFImEy4+FhApBgQEGRAKFhEYBAYGEAsQCRsXIi0e"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 13.362308,
+          "top": 10.533435,
+          "middle": 10.726611,
+          "bottom": 15.853034,
+          "effectiveRatio": 0.457855
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1565
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "7e487feeadf672169cf436af7a2b8e2f8366ab9f0ae448c879d4488b975976f3",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김원형",
+      "subject": "두산 베어스 김원형",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0813/1786618890165407.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2183438",
+      "imageCredit": "엑스포츠뉴스 박지영",
+      "creditDisplay": "사진 · 엑스포츠뉴스 박지영 (8월 13일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\doosan-story\\photos\\source-2183438-0.webp",
+      "photoDate": "2026-08-13",
+      "checkedAt": "2026-10-15T20:46:37.094Z",
+      "context": "8월13일잠실한화전경기전그라운드를보는김원형감독단독주요인물자료사진. 원고는시즌결산이며새훈련현장사진으로오인시키지않음. 후경과프레임밖부분신원은추정하지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:44:03.256Z",
+        "width": 1200,
+        "height": 1541,
+        "bytes": 232698,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 3.7404244296860063,
+        "entropy": 7.532780332490802,
+        "effectiveDetailRatio": 0.550677,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0813/1786618890165407.webp",
+        "sha256": "3a3d6b650949db823217918e1c2ed784276388f037f2404c7d337c8908ecd872",
+        "perceptualHash": "4f5f5fc79727cecc",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AAIDDw0JBwgRFwgEBAUBAwQEAwIEBQICAQEACAkCAgEIEhYMCAQFFxEMSEZKQS4LBAMEBgUBAgEBCQkBAgIMVlsjBgMCFySAf0Y3Sl9LCwUEBgUCAgECCgoBAgFWnYeIIAEMMKFxJ0AlFwpKPwUGCQcEBAQECwsCAgeEjzexhiYijG05QDYOIUcvIhMGCQcFAwQFDQsBAARepzZeq35sjSBTHxsFKCUZEhEICwcDBAMEDgwBAQAphY06a4B3ZjdyimhRRCAQBRMMDgoEBgUFEQ4EBzWu64wLNioIKR0ZO0lZf1EmLygkHBUOCwgGEg8ER/n2fxA9QE0tOBsLER8fQFEtNjA4NzInHhYRFQ8H79soHDcuHzIxUyoZJCc5YxcTDxwfLTgzLiooIxEH5yAkGighEBMyaUpQNilINx00FgkGChUeIiczOhwJbxYhCwsXJ2VkVHUdHDQlJT0RMhcrJSYfFxIoRiERDi0oFBUYG18vJ0YLFh0TKzIZZoAYSVBMSUZENxUTNDYyJwkLDm9mE2tYCh5HKBGJ0rr/swYtLC0rGQAUXjlfLBkMDl9VIBNMPh0YJknZYxiL//9ZAwICBAUaWRyCVi0HD1uBJTwkglwhE7yzBwcFIub/bQACAwYaTi8gcz8JEDRsVUjHwM+L5/URAgYRK3eZ/00DAQYXJwonIWQtFSI0OaHKIm3B0g5GBg00jlGYi8cHAQQSEiINKD1JKCUqOMA3CidbEUkDOx1MUjohVMc3AQYWAkGbZVo5OxISe1YnIwsTBwo/DSBrbDYSM8+uAQgYdeBWVhw2OCMZcBcdJQUZWVc5CAUcnKFgqG//SQUU10F7CWJAUCpQaSYNDhdmV0BLLAQGGIBuIF/U3RAJImIxU3h5i04rQBwwNklHJDEsBQZRGh8jOTQd+5kDM00qiT/BICEHJ1AtLkEMFB9xElQ7QgkbHVJUqv88SRx5Q6CCHikYJEAnFgsKISFcRkJGQyEWLlyC0vCkQ1NhPY00GRU+F1IuGxwiKUhEPAo/OleT6/nz65gPKGYEa2UzMTNWCHAGOksiKkJzDCFjwr2pemo9DQIIXS09b1ohCw4TJFxiNl5/WlAWGGD2YFYsYVAEAglXSjYpMlYsLSQl2axlqZhGLAEYFsZoSS87gxoFCG7uJTYnKpF0aUK56N2btxRFCSMUdHg8GjiAQAwJgP+4SQ8vRpLDv5y2dmn/Z0UQNR9cFmVgY3pEDgps/4U1LxY5a2NOXVlkEuTOMwY8GDsOYXzMjCsOCV3kewkZHhlHckYGMRssWcdNFTsXIRkZqf+bIgkLXp1oiFJiJxxVho5taRUiTdGHGgxEgy2T/4UVDhFNOD9zjl1uNhIwXn6knlcbJ92hzpp3Q0uekhULJz8oR3adl2p7NSMdOxhKkooTQs441OpPPTFdmz0rKixhrrZ4nWdzQh42QE481TgE48KkpYKISDcgU1oZJXZzfDsYKyoaQT45Fz23iAumowwmtbYvNkpSTGgzhZFJEFUyLTcd",
+          "top": "AAIDDw0JBwgRFwgEBAUBAwQEAwIEBQICAQEACAkCAgEIEhYMCAQFFxEMSEZKQS4LBAMEBgUBAgEBCQkBAgIMVlsjBgMCFySAf0Y3Sl9LCwUEBgUCAgECCgoBAgFWnYeIIAEMMKFxJ0AlFwpKPwUGCQcEBAQECwsCAgeEjzexhiYijG05QDYOIUcvIhMGCQcFAwQFDQsBAARepzZeq35sjSBTHxsFKCUZEhEICwcDBAMEDgwBAQAphY06a4B3ZjdyimhRRCAQBRMMDgoEBgUFEQ4EBzWu64wLNioIKR0ZO0lZf1EmLygkHBUOCwgGEg8ER/n2fxA9QE0tOBsLER8fQFEtNjA4NzInHhYRFQ8H79soHDcuHzIxUyoZJCc5YxcTDxwfLTgzLiooIxEH5yAkGighEBMyaUpQNilINx00FgkGChUeIiczOhwJbxYhCwsXJ2VkVHUdHDQlJT0RMhcrJSYfFxIoRiERDi0oFBUYG18vJ0YLFh0TKzIZZoAYSVBMSUZENxUTNDYyJwkLDm9mE2tYCh5HKBGJ0rr/swYtLC0rGQAUXjlfLBkMDl9VIBNMPh0YJknZYxiL//9ZAwICBAUa",
+          "middle": "Di0oFBUYG18vJ0YLFh0TKzIZZoAYSVBMSUZENxUTNDYyJwkLDm9mE2tYCh5HKBGJ0rr/swYtLC0rGQAUXjlfLBkMDl9VIBNMPh0YJknZYxiL//9ZAwICBAUaWRyCVi0HD1uBJTwkglwhE7yzBwcFIub/bQACAwYaTi8gcz8JEDRsVUjHwM+L5/URAgYRK3eZ/00DAQYXJwonIWQtFSI0OaHKIm3B0g5GBg00jlGYi8cHAQQSEiINKD1JKCUqOMA3CidbEUkDOx1MUjohVMc3AQYWAkGbZVo5OxISe1YnIwsTBwo/DSBrbDYSM8+uAQgYdeBWVhw2OCMZcBcdJQUZWVc5CAUcnKFgqG//SQUU10F7CWJAUCpQaSYNDhdmV0BLLAQGGIBuIF/U3RAJImIxU3h5i04rQBwwNklHJDEsBQZRGh8jOTQd+5kDM00qiT/BICEHJ1AtLkEMFB9xElQ7QgkbHVJUqv88SRx5Q6CCHikYJEAnFgsKISFcRkJGQyEWLlyC0vCkQ1NhPY00GRU+F1IuGxwiKUhEPAo/OleT6/nz65gPKGYEa2UzMTNWCHAGOksiKkJzDCFjwr2pemo9DQII",
+          "bottom": "M00qiT/BICEHJ1AtLkEMFB9xElQ7QgkbHVJUqv88SRx5Q6CCHikYJEAnFgsKISFcRkJGQyEWLlyC0vCkQ1NhPY00GRU+F1IuGxwiKUhEPAo/OleT6/nz65gPKGYEa2UzMTNWCHAGOksiKkJzDCFjwr2pemo9DQIIXS09b1ohCw4TJFxiNl5/WlAWGGD2YFYsYVAEAglXSjYpMlYsLSQl2axlqZhGLAEYFsZoSS87gxoFCG7uJTYnKpF0aUK56N2btxRFCSMUdHg8GjiAQAwJgP+4SQ8vRpLDv5y2dmn/Z0UQNR9cFmVgY3pEDgps/4U1LxY5a2NOXVlkEuTOMwY8GDsOYXzMjCsOCV3kewkZHhlHckYGMRssWcdNFTsXIRkZqf+bIgkLXp1oiFJiJxxVho5taRUiTdGHGgxEgy2T/4UVDhFNOD9zjl1uNhIwXn6knlcbJ92hzpp3Q0uekhULJz8oR3adl2p7NSMdOxhKkooTQs441OpPPTFdmz0rKixhrrZ4nWdzQh42QE481TgE48KkpYKISDcgU1oZJXZzfDsYKyoaQT45Fz23iAumowwmtbYvNkpSTGgzhZFJEFUyLTcd"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 33.056796,
+          "top": 30.256391,
+          "middle": 35.882029,
+          "bottom": 31.823943,
+          "effectiveRatio": 0.550677
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1541
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "3a3d6b650949db823217918e1c2ed784276388f037f2404c7d337c8908ecd872",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김민석",
+      "subject": "두산 베어스 김민석",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0802/1785663411124660.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2179355",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (8월 2일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\doosan-story\\photos\\source-2179355-0.webp",
+      "photoDate": "2026-08-02",
+      "checkedAt": "2026-10-15T20:46:37.094Z",
+      "context": "8월2일잠실LG전1회말적시타후김민석의실제자료사진. 단독주요인물로얼굴·손·타구후동작확인. 시즌성장소개용이며와일드카드안타사진이아님.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:44:05.186Z",
+        "width": 1200,
+        "height": 1447,
+        "bytes": 210828,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.7029758138552458,
+        "entropy": 7.372617186978459,
+        "effectiveDetailRatio": 0.540019,
+        "kind": "source",
+        "coverScale": 0.933,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0802/1785663411124660.webp",
+        "sha256": "676a2c55c4b197a7231a8f59e2a6732ca5b4696ee593e1557c2d80a520fc23f2",
+        "perceptualHash": "6b09adb29a749c48",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "IDo6LWlzND8wZRkiCQwJORUEDRgeJ3A0JBxJLhsJTkAsRjhxS0lDUU9sSF5kXlteYENlcoJVRFRYQzA9hhgmID5RIw4SMS85LRg3YEMYHjMtRhFIGB8LHB8pOE1EX3BpRjIyVzY/QQwmOD5bSE1KLWZqQ1lUVEE0i3NsPkA1JjkqRkwkN351lVkgHTdUUFU6Hy5HNjc2w4U9EhlRc0s0XFYpvahf1XojKR4GCQYPGSAQGBUUMmROdnN+PmIPLS6A100yyLZwdYCFg4B6fYODgIR/SlCwSxhUllefVjl+cRAzfzoXGRA5ZnV4dnJzc3Y3JslVk40kQ0abMlBwWwZtyH05U5OrXAkUEAsLCz154Md7gXYxx3KQsR6UclBkp5KHg1g6xlsIAgQEAjJwyB2VfXWQZpp0Nmw/WWJ4JlJFSYd4TJIiBQQDAwMocBSUfnORGhJVdAkjFyM5KhwWL1GdRpInBQQEAgtkbxOSfHKPGwMXTC8rIxJCeGpjgtVTr3UPAwQFBFmZZhSSfHKOGgIBGlYiVktOURkWEbL7aSEbDgQDBEVmEReSfnKQGgEBBytsaIV0l4ZmQSKZjleKQw4FAwNHXWSNenGOGwAAI4prFzUzRmuGw3RVut8vijwEBAQEgWsycXCPHAABE06SiHpTOyWCWo1vUdnOUCYEAgMFWoEzcm+OHgICAhFER0goZXkbgkpHSw2bMggGBAIEe1mJeW2OHgQDAwECAgIEWDp4IkdYOBVhRAgGBQQECBaLmpKMHgICBAMDBAQDRkIyFGY+HBNkQwgFAwQEBAYujI4xCwEBAQMDAwQDFzgSKXAlEBB5KhEMFhIRAwQFJiUIBAQCAQEBAgIEFCUkKmQsGUGILi8hMzg1AwQEAwQEBAQEAQIDBAMMNDwcRllKKXaRDSYIGQU0BQcIBwUEBQUGBgYHBAccOxtYSilXGJZqJyQdHSUnVVRVV1leYFtZW1pZWFY1FWCCISZOF6g+NSdEMEE8AgADBAkIBAgEAwMDBi5HWYJQJB8lcacaCAQICAYEcW5ub3R4e3Z2dXR1dXMXZ10ka0Boil07e3p4dnZ1JCMkIyIgJCUlJCQmKEYtdS9Db0424oWqSjAtLCssAQIEBAIDAwMCAgICC18JmzGNYiPHf1iuhxgDAwYGAgICAQICAQQBBAMEAz9oWbHOapRG/0qEw1ICBQQFAgIEBAIEAgUEBAMEBgNEhH5yU4SOnvoMupAHAwEEBAUDAQMCAQMDAQEBAQEDN92vXWuXXtXIe7wxAwICAgEDAAIBAAICAAQCAwICAzDe3AycuUntaqtoBwYGJyIuLi4tLy4xKTQuLi0vNC8Xgs83ZItAgJEfCjEvGhscGhsYGRsaGhcdHBwbGx0YEUCMqXk+Wk44SzgfCAQPEA8PFBMVERkUFBQXHBIJHxNfRCF7BjAFTm5UGRUUDxQUIBYZIhckHh85MTM/RkMvP2QlVURFHytHSUxOVFBQT0tQUk9OT1BQTU1SNzdoZ3EkKTxmdIqH",
+          "top": "IDo6LWlzND8wZRkiCQwJORUEDRgeJ3A0JBxJLhsJTkAsRjhxS0lDUU9sSF5kXlteYENlcoJVRFRYQzA9hhgmID5RIw4SMS85LRg3YEMYHjMtRhFIGB8LHB8pOE1EX3BpRjIyVzY/QQwmOD5bSE1KLWZqQ1lUVEE0i3NsPkA1JjkqRkwkN351lVkgHTdUUFU6Hy5HNjc2w4U9EhlRc0s0XFYpvahf1XojKR4GCQYPGSAQGBUUMmROdnN+PmIPLS6A100yyLZwdYCFg4B6fYODgIR/SlCwSxhUllefVjl+cRAzfzoXGRA5ZnV4dnJzc3Y3JslVk40kQ0abMlBwWwZtyH05U5OrXAkUEAsLCz154Md7gXYxx3KQsR6UclBkp5KHg1g6xlsIAgQEAjJwyB2VfXWQZpp0Nmw/WWJ4JlJFSYd4TJIiBQQDAwMocBSUfnORGhJVdAkjFyM5KhwWL1GdRpInBQQEAgtkbxOSfHKPGwMXTC8rIxJCeGpjgtVTr3UPAwQFBFmZZhSSfHKOGgIBGlYiVktOURkWEbL7aSEbDgQDBEVmEReSfnKQGgEBBytsaIV0l4ZmQSKZjleKQw4FAwNH",
+          "middle": "bxOSfHKPGwMXTC8rIxJCeGpjgtVTr3UPAwQFBFmZZhSSfHKOGgIBGlYiVktOURkWEbL7aSEbDgQDBEVmEReSfnKQGgEBBytsaIV0l4ZmQSKZjleKQw4FAwNHXWSNenGOGwAAI4prFzUzRmuGw3RVut8vijwEBAQEgWsycXCPHAABE06SiHpTOyWCWo1vUdnOUCYEAgMFWoEzcm+OHgICAhFER0goZXkbgkpHSw2bMggGBAIEe1mJeW2OHgQDAwECAgIEWDp4IkdYOBVhRAgGBQQECBaLmpKMHgICBAMDBAQDRkIyFGY+HBNkQwgFAwQEBAYujI4xCwEBAQMDAwQDFzgSKXAlEBB5KhEMFhIRAwQFJiUIBAQCAQEBAgIEFCUkKmQsGUGILi8hMzg1AwQEAwQEBAQEAQIDBAMMNDwcRllKKXaRDSYIGQU0BQcIBwUEBQUGBgYHBAccOxtYSilXGJZqJyQdHSUnVVRVV1leYFtZW1pZWFY1FWCCISZOF6g+NSdEMEE8AgADBAkIBAgEAwMDBi5HWYJQJB8lcacaCAQICAYEcW5ub3R4e3Z2dXR1dXMXZ10ka0Boil07e3p4dnZ1",
+          "bottom": "BQcIBwUEBQUGBgYHBAccOxtYSilXGJZqJyQdHSUnVVRVV1leYFtZW1pZWFY1FWCCISZOF6g+NSdEMEE8AgADBAkIBAgEAwMDBi5HWYJQJB8lcacaCAQICAYEcW5ub3R4e3Z2dXR1dXMXZ10ka0Boil07e3p4dnZ1JCMkIyIgJCUlJCQmKEYtdS9Db0424oWqSjAtLCssAQIEBAIDAwMCAgICC18JmzGNYiPHf1iuhxgDAwYGAgICAQICAQQBBAMEAz9oWbHOapRG/0qEw1ICBQQFAgIEBAIEAgUEBAMEBgNEhH5yU4SOnvoMupAHAwEEBAUDAQMCAQMDAQEBAQEDN92vXWuXXtXIe7wxAwICAgEDAAIBAAICAAQCAwICAzDe3AycuUntaqtoBwYGJyIuLi4tLy4xKTQuLi0vNC8Xgs83ZItAgJEfCjEvGhscGhsYGRsaGhcdHBwbGx0YEUCMqXk+Wk44SzgfCAQPEA8PFBMVERkUFBQXHBIJHxNfRCF7BjAFTm5UGRUUDxQUIBYZIhckHh85MTM/RkMvP2QlVURFHytHSUxOVFBQT0tQUk9OT1BQTU1SNzdoZ3EkKTxmdIqH"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 24.755147,
+          "top": 22.184598,
+          "middle": 17.375932,
+          "bottom": 29.599891,
+          "effectiveRatio": 0.540019
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1447
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "676a2c55c4b197a7231a8f59e2a6732ca5b4696ee593e1557c2d80a520fc23f2",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김민석",
+      "subject": "두산 베어스 김민석",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0802/1785670089058861.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2179411",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (8월 2일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\doosan-story\\photos\\source-2179411-0.webp",
+      "photoDate": "2026-08-02",
+      "checkedAt": "2026-10-15T20:46:37.094Z",
+      "context": "8월2일잠실LG전7회말주루플레이후박수를치는김민석단독실제자료사진.3페이지1회말과다른실제순간이며동일원본재크롭아님. 다른선수의실수현장으로단정하지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:44:05.544Z",
+        "width": 1200,
+        "height": 1588,
+        "bytes": 187918,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.8759938913565732,
+        "entropy": 7.516287948470563,
+        "effectiveDetailRatio": 0.507221,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0802/1785670089058861.webp",
+        "sha256": "068d7cde84e88252237c3d6677c046271a6d95ce55089f7ad985cec4341bb632",
+        "perceptualHash": "b32d8d99190e5255",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "EhkMUy9SWHcXrkYxOSUVL09fdFBTKykYO2aFWDC/EA4HJks+UlVUT1WbTHMRKB88NSJFMktKND84aWZkGxMIExxEZTU5TKFDIVCFHRUoDT1ENUZMN1JCIH5eDSkSEyFKaRsYj2SogZIXHCcrQTszNBQ/Hkk6VGeZIBwPDSAnXRURV3BfQD8zHDU9RlhDITseNWBnXlRIJh4QEjIkZToPQ1oUHRVHMyQQM3ceShY1RiYyLjdNOEpJPTYjLzpPNoZSIxVbTB0aPDMZMFY7LSUZYGdNTEpMS0pKfpNwEzZPWUUiViosiXRSQ095hXZ6dmVeDRURBAgQVr1gJz8wPTVoJkJigwwzNzUgJyceBQwbFBQTEhARQ6BKTTcbY35WcBtvopiVlZiWlJaZiYCMBwICAgQGH51ouk1ETUxDXR0XKywtKiowa3hwFRRWBwIBAwUEBUxPCmoGaGCJIRZLaGVfZoaMSw1wn4yHCQQCBAIDB0dZwkWbdVtKHzh0TEdJRjqLhw17jliSIAQDAgQEBxuiiWhbCAQmIQ1QbWtmnHZtiQ58kFWUdSIEAQIECAellww0KjFPEwZJa21vo3pujQ59j1aTiy8FAgIEBwyUciQ0NryhMziUmGpKRjiPjA57jlaSQAUEAQEGBwyQpSJElHGfi1OWJmR3eJWZTAV8j1aTDgcDAQQFCBm+fB8kLNw9Z1KRPaJTQz8zETN8jlWTBggEAQIEC1i7JB8ZB2EsVVGUNK6NiI2TmolRgVaVCQYCAQMFCWWqExIiDWgrVlOhUiVDOi4dC3UOd1aWCgQDAQMFCWOuEBM0Bn07ZB1/nYuAhIuRlYduj1aWCwIDAgIECCvCYTAwHJkugxg0SUtIPjcqHRF/p4eaCgMBBAQGCQqWpBoLNHtYZxgBAQQBAgMCAwUshZs8CAMBAwMECQiWpBchPzxgOBkCAQICAAIBAQECKjEOCQMCAQECBgqniCspJw9UEhsBAQEBAQEAAgEAAQIBCwUAAgEFCSCkUzIgHTA4EB0CAQQFBQUFBgcGBgcKDgkHBggGCF/BGCM6IS0bMm9mZG1rZmZnaWtra3B5Q0RJR0lNTbCmHl0rQDFFg0pGQT49Pj0+Ozs8Pj47S0xPT1BQV0lsU0QUVUtMUDgvLDYzLi4xMjM0NjlDExQTExUVXZXorQ4vesW3ExkXFhUVFhUWFBQWFxUVBQQDBAQLkaJwsYBdm3HZgQkJCgkKCgoICAsMCwwKBQcFBQcinoJJwU1MlEqGmAcAAAACAgQCAgMDAgICCgYHCAcxpGyVsRMjq32DoxsICAcICAgICAkICgkIAwMCAQFKpSDDbQEBi7NgniQGCAcHBgUHBggHCQYFBAgLDw1srle7LQgIR80KnT4PDA0LCAoIBAYMDQ4OFBcWGRl9ZtVeFhYUGI9mti4VDRAPERETExMSEBESBwQBBAs6oJM5BgMBAS6aiDdfQQ4DAwMCBAECBgYGExkZFzQiPR87RBMSEhBNPUAKQTwQCQkLFRYUEwUb",
+          "top": "EhkMUy9SWHcXrkYxOSUVL09fdFBTKykYO2aFWDC/EA4HJks+UlVUT1WbTHMRKB88NSJFMktKND84aWZkGxMIExxEZTU5TKFDIVCFHRUoDT1ENUZMN1JCIH5eDSkSEyFKaRsYj2SogZIXHCcrQTszNBQ/Hkk6VGeZIBwPDSAnXRURV3BfQD8zHDU9RlhDITseNWBnXlRIJh4QEjIkZToPQ1oUHRVHMyQQM3ceShY1RiYyLjdNOEpJPTYjLzpPNoZSIxVbTB0aPDMZMFY7LSUZYGdNTEpMS0pKfpNwEzZPWUUiViosiXRSQ095hXZ6dmVeDRURBAgQVr1gJz8wPTVoJkJigwwzNzUgJyceBQwbFBQTEhARQ6BKTTcbY35WcBtvopiVlZiWlJaZiYCMBwICAgQGH51ouk1ETUxDXR0XKywtKiowa3hwFRRWBwIBAwUEBUxPCmoGaGCJIRZLaGVfZoaMSw1wn4yHCQQCBAIDB0dZwkWbdVtKHzh0TEdJRjqLhw17jliSIAQDAgQEBxuiiWhbCAQmIQ1QbWtmnHZtiQ58kFWUdSIEAQIECAellww0KjFPEwZJa21vo3pujQ59j1aT",
+          "middle": "CQQCBAIDB0dZwkWbdVtKHzh0TEdJRjqLhw17jliSIAQDAgQEBxuiiWhbCAQmIQ1QbWtmnHZtiQ58kFWUdSIEAQIECAellww0KjFPEwZJa21vo3pujQ59j1aTiy8FAgIEBwyUciQ0NryhMziUmGpKRjiPjA57jlaSQAUEAQEGBwyQpSJElHGfi1OWJmR3eJWZTAV8j1aTDgcDAQQFCBm+fB8kLNw9Z1KRPaJTQz8zETN8jlWTBggEAQIEC1i7JB8ZB2EsVVGUNK6NiI2TmolRgVaVCQYCAQMFCWWqExIiDWgrVlOhUiVDOi4dC3UOd1aWCgQDAQMFCWOuEBM0Bn07ZB1/nYuAhIuRlYduj1aWCwIDAgIECCvCYTAwHJkugxg0SUtIPjcqHRF/p4eaCgMBBAQGCQqWpBoLNHtYZxgBAQQBAgMCAwUshZs8CAMBAwMECQiWpBchPzxgOBkCAQICAAIBAQECKjEOCQMCAQECBgqniCspJw9UEhsBAQEBAQEAAgEAAQIBCwUAAgEFCSCkUzIgHTA4EB0CAQQFBQUFBgcGBgcKDgkHBggGCF/BGCM6IS0bMm9mZG1rZmZnaWtra3B5",
+          "bottom": "CAMBAwMECQiWpBchPzxgOBkCAQICAAIBAQECKjEOCQMCAQECBgqniCspJw9UEhsBAQEBAQEAAgEAAQIBCwUAAgEFCSCkUzIgHTA4EB0CAQQFBQUFBgcGBgcKDgkHBggGCF/BGCM6IS0bMm9mZG1rZmZnaWtra3B5Q0RJR0lNTbCmHl0rQDFFg0pGQT49Pj0+Ozs8Pj47S0xPT1BQV0lsU0QUVUtMUDgvLDYzLi4xMjM0NjlDExQTExUVXZXorQ4vesW3ExkXFhUVFhUWFBQWFxUVBQQDBAQLkaJwsYBdm3HZgQkJCgkKCgoICAsMCwwKBQcFBQcinoJJwU1MlEqGmAcAAAACAgQCAgMDAgICCgYHCAcxpGyVsRMjq32DoxsICAcICAgICAkICgkIAwMCAQFKpSDDbQEBi7NgniQGCAcHBgUHBggHCQYFBAgLDw1srle7LQgIR80KnT4PDA0LCAoIBAYMDQ4OFBcWGRl9ZtVeFhYUGI9mti4VDRAPERETExMSEBESBwQBBAs6oJM5BgMBAS6aiDdfQQ4DAwMCBAECBgYGExkZFzQiPR87RBMSEhBNPUAKQTwQCQkLFRYUEwUb"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 18.526576,
+          "top": 20.890739,
+          "middle": 15.416881,
+          "bottom": 16.941089,
+          "effectiveRatio": 0.507221
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1588
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "068d7cde84e88252237c3d6677c046271a6d95ce55089f7ad985cec4341bb632",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "김원형",
+      "subject": "두산 베어스 김원형",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0811/1786445278501054.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2182492",
+      "imageCredit": "엑스포츠뉴스 박지영",
+      "creditDisplay": "사진 · 엑스포츠뉴스 박지영 (8월 11일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\doosan-story\\photos\\source-2182492-0.webp",
+      "photoDate": "2026-08-11",
+      "checkedAt": "2026-10-15T20:46:37.094Z",
+      "context": "8월11일잠실한화전더그아웃에서경기를보는김원형감독단독자료사진.2027시즌훈련이나신규코칭개편현장사진이아님.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:44:03.587Z",
+        "width": 1200,
+        "height": 1477,
+        "bytes": 172888,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.1600264588628293,
+        "entropy": 6.948484043125063,
+        "effectiveDetailRatio": 0.480644,
+        "kind": "source",
+        "coverScale": 0.914,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0811/1786445278501054.webp",
+        "sha256": "c3f42287818a2c3d38d82b76cc97b3d4da2323046d9ccf98a8ea2120f1e23837",
+        "perceptualHash": "beac8d191c163b2d",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CWgsIzYoKyYOGiAOIDRKOSIOGRgONwECAwAAAAcRQzgQD0QwHiogQW6AeD82IR0YHBguFQICAwEAAAUSSBgjCTA4KyxSfHpzcXlDShUcKhkNFAAFAwEAAQUOLRQZBSIlLzdjNgwFaZAHZDIjQCARDwEEAwAAAQUMDxIQAyAXLEUeBgcEDZOleGwYKgoPBAEEAQAAAAYLDxAGBBIaIhEEBQMDBBRweC4cQRoRAQIDAQAAAAYNBwgGBAkQDwVBKgQGBwYXZSRBDQ8fFAECAQECAAcNBwoGBwgOBEowQC0FGqq80Y89Gh4cCgMDAwMBAgcQBwQEBAQIICgiHTZir9KCbsBbHxMKAgQDAgECAQYVDQIAAQICIlA5N2tsamgjYsBsJgEBBAgMCwUEAQYUDwMDAQoCXFo3L0QXNi0eUFS/UAMECVFqRVE9DQMJFQECCAQIOXggLystMzcrLg2IjAMCUIJdTVtdQAoJKxcXGA4VGHlvHBouIiQNHDicbwIEVWkCDRpYRQ0EBgUHBwQJCwhlXUcoIh0iKiWMVwMEWGIMBRZTPBIBFBMUExIRDxo+XU0eGxoaH2esMgIDVl4EDBZWQBEEAQABAQIDH6u+jlceCR4nLsyDCAIDWGQHDTJRLA9EAQEBAgEEsv96wUY6Ig0Kp6IKAgMCVGUICxlTRi95AgECAQFi/3IZHHZTYj52sh0BAgIBUGcPCxxSRjhkAgEBAVT/qgMUGzMwWZG5p3UhAQIES28XDh1USzdpAAEBNuWtAQMVGBIRC0WU3fT1bwIETHEYFCJTRzhoAQEDg7o8FAUVGRIODgkvUV3H/5MFQ3U1ECNZRkxqAAIKjZgpGQoSFRQLCgsGHSIhcP9vIGJhSEdiSFBLAgEUco5EGhMbChUTBgsJCTdPIKH/Kyw7S2FOF1syAQIXe5RBDiQeFQMdFwQFCAwvPz7+zg0SHiMUAl9jAQIuoYUvChk7DhEMHhUICSYvQzpW8DAVJA8HBF9wAgRQlXUxCCcwHxsIHTmbVGktFgcW7K4KJg4BBmNoAgF1jDRPKh8ONhUcJI2teDBOLS9CS/9gHxUBBGl+AwF6kB0kTjUNPAciSYZTv5IzNmQqONbiMBkBBWd3AQFvnCUXDTA2iCQWJkCiehZYqKtcSIfskyIAA2SCAQeGhhMjHydHrI0EIQk6Pcb//9vUvdNxylQCBhhzABeFgigUFSKXOuQ6FRZu//+XQCA9iV2/UX4HBQQcBBqLexslEhaZasW3enL+tisGCA8PBgQQcwcIBQQCEhR4hjUWDQVXeyaAXWFzRg0DCAwRCAYJCwsMCAUDCwtxiTgSDQJygwlOKRdngC0GBgYQDAgBBAgPCgEBEx1/dyMoDBZ6ahUbOS4yc2coAgQJDAcGBAgMCwMBAi59dy0ZCAt8fBcnIikmNWx/dzAEEQkFCAQMDQMBBw5jjkAhHw1zehozeWBzfo+r0+WhGRMcMyc1PxtSBRFViUkiIxRtcxtYlzk/UmJqaLT/+g0/PkI2TDw9",
+          "top": "CWgsIzYoKyYOGiAOIDRKOSIOGRgONwECAwAAAAcRQzgQD0QwHiogQW6AeD82IR0YHBguFQICAwEAAAUSSBgjCTA4KyxSfHpzcXlDShUcKhkNFAAFAwEAAQUOLRQZBSIlLzdjNgwFaZAHZDIjQCARDwEEAwAAAQUMDxIQAyAXLEUeBgcEDZOleGwYKgoPBAEEAQAAAAYLDxAGBBIaIhEEBQMDBBRweC4cQRoRAQIDAQAAAAYNBwgGBAkQDwVBKgQGBwYXZSRBDQ8fFAECAQECAAcNBwoGBwgOBEowQC0FGqq80Y89Gh4cCgMDAwMBAgcQBwQEBAQIICgiHTZir9KCbsBbHxMKAgQDAgECAQYVDQIAAQICIlA5N2tsamgjYsBsJgEBBAgMCwUEAQYUDwMDAQoCXFo3L0QXNi0eUFS/UAMECVFqRVE9DQMJFQECCAQIOXggLystMzcrLg2IjAMCUIJdTVtdQAoJKxcXGA4VGHlvHBouIiQNHDicbwIEVWkCDRpYRQ0EBgUHBwQJCwhlXUcoIh0iKiWMVwMEWGIMBRZTPBIBFBMUExIRDxo+XU0eGxoaH2esMgIDVl4EDBZWQBEE",
+          "middle": "KxcXGA4VGHlvHBouIiQNHDicbwIEVWkCDRpYRQ0EBgUHBwQJCwhlXUcoIh0iKiWMVwMEWGIMBRZTPBIBFBMUExIRDxo+XU0eGxoaH2esMgIDVl4EDBZWQBEEAQABAQIDH6u+jlceCR4nLsyDCAIDWGQHDTJRLA9EAQEBAgEEsv96wUY6Ig0Kp6IKAgMCVGUICxlTRi95AgECAQFi/3IZHHZTYj52sh0BAgIBUGcPCxxSRjhkAgEBAVT/qgMUGzMwWZG5p3UhAQIES28XDh1USzdpAAEBNuWtAQMVGBIRC0WU3fT1bwIETHEYFCJTRzhoAQEDg7o8FAUVGRIODgkvUV3H/5MFQ3U1ECNZRkxqAAIKjZgpGQoSFRQLCgsGHSIhcP9vIGJhSEdiSFBLAgEUco5EGhMbChUTBgsJCTdPIKH/Kyw7S2FOF1syAQIXe5RBDiQeFQMdFwQFCAwvPz7+zg0SHiMUAl9jAQIuoYUvChk7DhEMHhUICSYvQzpW8DAVJA8HBF9wAgRQlXUxCCcwHxsIHTmbVGktFgcW7K4KJg4BBmNoAgF1jDRPKh8ONhUcJI2teDBOLS9CS/9gHxUBBGl+",
+          "bottom": "AQIXe5RBDiQeFQMdFwQFCAwvPz7+zg0SHiMUAl9jAQIuoYUvChk7DhEMHhUICSYvQzpW8DAVJA8HBF9wAgRQlXUxCCcwHxsIHTmbVGktFgcW7K4KJg4BBmNoAgF1jDRPKh8ONhUcJI2teDBOLS9CS/9gHxUBBGl+AwF6kB0kTjUNPAciSYZTv5IzNmQqONbiMBkBBWd3AQFvnCUXDTA2iCQWJkCiehZYqKtcSIfskyIAA2SCAQeGhhMjHydHrI0EIQk6Pcb//9vUvdNxylQCBhhzABeFgigUFSKXOuQ6FRZu//+XQCA9iV2/UX4HBQQcBBqLexslEhaZasW3enL+tisGCA8PBgQQcwcIBQQCEhR4hjUWDQVXeyaAXWFzRg0DCAwRCAYJCwsMCAUDCwtxiTgSDQJygwlOKRdngC0GBgYQDAgBBAgPCgEBEx1/dyMoDBZ6ahUbOS4yc2coAgQJDAcGBAgMCwMBAi59dy0ZCAt8fBcnIikmNWx/dzAEEQkFCAQMDQMBBw5jjkAhHw1zehozeWBzfo+r0+WhGRMcMyc1PxtSBRFViUkiIxRtcxtYlzk/UmJqaLT/+g0/PkI2TDw9"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.487087,
+          "top": 18.661037,
+          "middle": 22.997476,
+          "bottom": 26.898029,
+          "effectiveRatio": 0.480644
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1477
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "c3f42287818a2c3d38d82b76cc97b3d4da2323046d9ccf98a8ea2120f1e23837",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    }
+  ]
+}
