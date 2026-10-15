@@ -1,0 +1,414 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "클리블랜드 3대2 승리, ALCS 2승1패로 앞섰다",
+  "issueKey": "mlb-2026-alcs-game3-cleveland-two-one",
+  "checkedAt": "2026-10-15T21:11:46.683Z",
+  "sourceUrl": "https://statsapi.mlb.com/api/v1.1/game/849818/feed/live",
+  "corroboratingUrls": [
+    "https://www.mlb.com/news/guardians-win-alcs-game-3-2026",
+    "https://www.xportsnews.com/article/2206377",
+    "https://www.mlbkor.com/news/articleView.html?idxno=34015"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://statsapi.mlb.com/api/v1.1/game/849818/feed/live",
+      "title": "MLB 공식 StatsAPI 849818 · ALCS Game 3 Tampa Bay Rays at Cleveland Guardians",
+      "publishedAt": "2026-10-15 미국 / 2026-10-16 한국",
+      "role": "실제uniquegamePk849818 최종경기feed직접읽음. Final3-2/CLEseries2-1/2회로우2루타아델득점/4회심슨2RBI3루타/5회할핀베일리2RHR/윌리엄스5IP9K2R/스미스1.1IP세이브/라미레즈3타2안타 확인."
+    },
+    {
+      "url": "https://www.mlb.com/news/guardians-win-alcs-game-3-2026",
+      "title": "Huge go-ahead HR (and bigger bat flip) flips ALCS back in Guardians’ favor",
+      "publishedAt": "2026-10-15 미국 / 2026-10-16 한국",
+      "role": "KeeganMatheson의MLB공식경기후완결기사. Nodefetch본문직접읽음. 클리블랜드3-2/2승1패/할핀5회역전투런/윌리엄스5IP9K/월드시리즈까지2승 대조. 경기전FAQ와구별했다."
+    },
+    {
+      "url": "https://www.mlbkor.com/news/articleView.html?idxno=34015",
+      "title": "\"대반전의 시작일까?\" ALCS 2차전 프리뷰: PS 4연승 클리블랜드 vs 분위기 반전이 필요한 탬파베이",
+      "publishedAt": "2026-10-13T16:03:00+09:00",
+      "role": "국내통용표기피티할핀·네이트로우·챈들러심슨·케이드스미스를원문라인업과캡션으로확인. 해당2차전예고를3차전결과근거로전용하지않는다."
+    },
+    {
+      "url": "https://www.xportsnews.com/article/2206377",
+      "title": "이런 미친 투혼이 있나, 2차전 선발→2일 쉬고 4차전 마무리→단 하루 쉬고 5차전 12K 선발승…리버스 스윕 이끈 닥터K 대호투",
+      "publishedAt": "2026-10-11T14:26:00+09:00",
+      "role": "ALDS2연패뒤3연승배경과개빈윌리엄스국내표기 확인. 당시투구기록을ALCS3기록과혼동하지않음."
+    },
+    {
+      "url": "https://statsapi.mlb.com/api/v1/teams/114/roster?date=2026-10-09&hydrate=person",
+      "title": "MLB 공식 Cleveland Guardians 2026-10-09 active roster",
+      "publishedAt": "2026-10-09 기준",
+      "role": "JoAdell7/Ramirez11/StevenKwan38/BrayanRocchio4 및같은소속을확인. 조아델자료사진신원에원문명명과함께대조했다."
+    },
+    {
+      "url": "https://www.sportschosun.com/ext/2026-10-09/202610090100060620003867",
+      "title": "스포츠조선 실제 자료사진 게재 원문",
+      "publishedAt": "2026-10-09",
+      "role": "스포츠조선10월9일 ALDS4기사의 실제 라미레즈 세리머니 사진. 얼굴·11번벨트·가디언스회색유니폼을 원문주요인물과 대조했다. 정확한개별촬영일은확인되지않아미확인자료사진으로쓴다."
+    },
+    {
+      "url": "https://www.sportschosun.com/ext/2026-10-06/202610060100038440002477",
+      "title": "스포츠조선 실제 자료사진 게재 원문",
+      "publishedAt": "2026-10-06",
+      "role": "스포츠조선10월6일 기사 전체 주인공인 조아델의 실제 붉은가디언스유니폼사진이다. 기사본문이8회413피트3루타를친조아델을반복명명하고,MLB공식10월9일CLE로스터No7=JoAdell과사진No7벨트를대조했다. 개별caption은AFP연합만이므로이신원근거와촬영일미확인을함께보존한다."
+    },
+    {
+      "url": "https://www.sportschosun.com/ext/2026-10-09/202610090100060620003867",
+      "title": "스포츠조선 실제 자료사진 게재 원문",
+      "publishedAt": "2026-10-09",
+      "role": "스포츠조선10월9일 ALDS4기사에게재된라미레즈의실제타격사진이다. 얼굴·11번벨트·회색가디언스유니폼·팔로스루를원문라미레즈보도와직접대조했다. 표지세리머니와다른장면이다. 정확한촬영일미확인자료사진이다."
+    },
+    {
+      "url": "https://www.sportschosun.com/ext/2026-04-07/202604070100046460002979",
+      "title": "스포츠조선 실제 자료사진 게재 원문",
+      "publishedAt": "2026-04-07",
+      "role": "스포츠조선4월7일 라미레즈기사의실제실버슬러거트로피기념사진. 트로피에JOSE RAMIREZ-3B/ClevelandGuardians/2025가명확하고얼굴·홈유니폼과직접대조했다. 기사당일1620경기기념베이스사진으로설명하지않는다. 정확한촬영일미확인수상기념자료사진이다."
+    },
+    {
+      "url": "https://www.sportschosun.com/ext/2026-10-09/202610090100060620003867",
+      "title": "'KBO역수출 신화' 페디 위기탈출도 허사…89% 확률 날린 시카고WS→ALDS 2승2패 원점",
+      "publishedAt": "2026-10-09",
+      "role": "스포츠조선10월9일 클리블랜드-화이트삭스ALDS4 기사에 게재된 실제 무라카미 무네타카 사진. 화이트삭스5번·얼굴·헬멧을 들어올리는 동작을 원문 주요선수 명명 및 유니폼으로 직접 대조했다. 정확한 개별촬영일은 확인되지 않아 미확인 자료사진으로 표기한다. 현재 ALCS3에 출전한 것으로 쓰지 않고 앞선 디비전시리즈 화이트삭스와의 대결 배경에만 연결한다."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "클리블랜드 가디언스 호세 라미레즈",
+      "subject": "클리블랜드 가디언스 호세 라미레즈",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/09/2026100901000606200038672_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-09/202610090100060620003867",
+      "imageCredit": "스포츠조선 게재 · AFP · 연합뉴스",
+      "creditDisplay": "라미레즈 자료사진 · AFP/연합뉴스",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb2-story\\photos\\candidate-3.jpg",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 자료사진",
+      "checkedAt": "2026-10-15T21:04:55.739Z",
+      "context": "스포츠조선10월9일 ALDS4기사의 실제 라미레즈 세리머니 사진. 얼굴·11번벨트·가디언스회색유니폼을 원문주요인물과 대조했다. 정확한개별촬영일은확인되지않아미확인자료사진으로쓴다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:48:00.480Z",
+        "width": 1200,
+        "height": 1499,
+        "bytes": 1024166,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.8466128440886878,
+        "entropy": 7.3620062838936065,
+        "effectiveDetailRatio": 0.524525,
+        "kind": "source",
+        "coverScale": 0.901,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/09/2026100901000606200038672_w.jpg",
+        "sha256": "d327c952114afc2f577e62dba80a3bc2117feab2146c0543e4e1ccc5418443a5",
+        "perceptualHash": "ddad23138f8b9b97",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "EQoNDwkQCQwVFSAqGxAqNh4LEQ8UDgoUBAkPChYSEQwQCwUOCQ0QCxYnLwU8TBMXSBIdGQMQEA0EBxYQFAkJBgsPCBMGCRcvSBRnOixpPU0aFwYUEgQFEBcDIRAGBggGEg8IDhYKOS5HID5XUD1FGwoUFg4JFA8JGRAMCQoTFBAUFwM9QUEjFgg/XUojEwUfJBQWFQ0IGQwEBw0MDQkTHCJDVFgiCgoEESsGDAsnIgoWFA4IEwkJBgQNDAQUHx9BKysYSE1BIQ0TDAclJAYYFwoHBAgCChEPEAsaHxEgWVRYX0tbUz0QDwMcJxASGQ4HCggLCwYTDQoXGg07OhAXEAsdIkQyGAchJA4NGREMDQMJDRIZCAsRHigNIzQmIigsEAlTNBkeGAkJFRAPHA4BChcSCwwVISIVAxcaFiULCCpaxaBYJBcQEwYPHxkJDBEbIiAVERkZGC0VNCAYFnWZjL7MricWDRISGB4QDyE3MTEUCiQ4oZhLNRtHppdHLQc1ouRECg4aEBgXH0xMLTIpICDOrY7tUp3KmzkiGzAmHo3XOBEXBw4OQXVBJy84GZSRCTqSqLF0EAodNzUbHB/BgRQVBwwkYmcpHTMzL5UzFhMuZ00XEhk1RB0zCzBwrg8QFRAyYVQYJDglU3IiBDFeKyxeRDoxJzQtHzBlfzMdIgsmXlkxP0UnaUJOZ5NVPnSRlHRiJj4kFV0pWVkTRRwOTGNMSk89dBNka2gsPlxGVE5lREc5NTcXaoIGbEITIUVOQkVqczBNKS1QKERhWilVWgxdfLmke18ZcFceHhkiODqhMVotXJNGZn5+iICLH2JVNyU3fTYTeTQlFAkQEYuEXkZIeU00dRAmK0s6ZFM9jZhpASIXVx4kIRUVdFRLgEA4XzmPRLNWO1peVDp0IVxnJAwjHCY3BxBVT0BMG3dZVVNBkkFMX1pAPSl6nalhEgMdGzslGQQhXEYrOR9wWjg5XRIdOzdUcT9aGS8pKQ0cCC5JJwoLIiQPDEA9VStVbBxHLyclHCh8hXgMJxIMIgsgMyEEGRoaHSAbVR13QxEOGDAdLUhqF48bIx4hJCchKB0MIh0GBhAyYCyALSE/PzYxKTEnRlcrBxsgCxcaHQcVFAsYGCU1N09IY0tOHhUqHwoYIzEqGhkUExIPDQkUBgoJJygUDyxlVxYVUzIWICAiJS8rFg8nDhIaGgsPCQcLJxs2SnlkUnRbUUY6KFRITFhSGAskBRIQEhIQDBIUEyqHS1qtuEsWU3VhSVM9F39fChIfGBUEBw0OEhocEoqJGCIwZGtAamxGHSoaCm5jEQ8PHhMbEAcKFw4MbHQ0PTRIbi4hUTgCIiMRCmhSKC4iEygfFwsSGAlBhhgbFCY8CzpLQA8aFxoNDm4sMC43IB0XFwkTERKFNDMyFQkeTjUyFgwkFSMHInQNKw0mFQ4XJA4SHFR7EA0XPloyDQ4UBxwgCyAQSFYkEyQqFhEPKisYO4w1Qm9/dU1kNhkMChwSFxwFZzEbFCYZ",
+          "top": "EQoNDwkQCQwVFSAqGxAqNh4LEQ8UDgoUBAkPChYSEQwQCwUOCQ0QCxYnLwU8TBMXSBIdGQMQEA0EBxYQFAkJBgsPCBMGCRcvSBRnOixpPU0aFwYUEgQFEBcDIRAGBggGEg8IDhYKOS5HID5XUD1FGwoUFg4JFA8JGRAMCQoTFBAUFwM9QUEjFgg/XUojEwUfJBQWFQ0IGQwEBw0MDQkTHCJDVFgiCgoEESsGDAsnIgoWFA4IEwkJBgQNDAQUHx9BKysYSE1BIQ0TDAclJAYYFwoHBAgCChEPEAsaHxEgWVRYX0tbUz0QDwMcJxASGQ4HCggLCwYTDQoXGg07OhAXEAsdIkQyGAchJA4NGREMDQMJDRIZCAsRHigNIzQmIigsEAlTNBkeGAkJFRAPHA4BChcSCwwVISIVAxcaFiULCCpaxaBYJBcQEwYPHxkJDBEbIiAVERkZGC0VNCAYFnWZjL7MricWDRISGB4QDyE3MTEUCiQ4oZhLNRtHppdHLQc1ouRECg4aEBgXH0xMLTIpICDOrY7tUp3KmzkiGzAmHo3XOBEXBw4OQXVBJy84GZSRCTqSqLF0EAodNzUbHB/BgRQV",
+          "middle": "GB4QDyE3MTEUCiQ4oZhLNRtHppdHLQc1ouRECg4aEBgXH0xMLTIpICDOrY7tUp3KmzkiGzAmHo3XOBEXBw4OQXVBJy84GZSRCTqSqLF0EAodNzUbHB/BgRQVBwwkYmcpHTMzL5UzFhMuZ00XEhk1RB0zCzBwrg8QFRAyYVQYJDglU3IiBDFeKyxeRDoxJzQtHzBlfzMdIgsmXlkxP0UnaUJOZ5NVPnSRlHRiJj4kFV0pWVkTRRwOTGNMSk89dBNka2gsPlxGVE5lREc5NTcXaoIGbEITIUVOQkVqczBNKS1QKERhWilVWgxdfLmke18ZcFceHhkiODqhMVotXJNGZn5+iICLH2JVNyU3fTYTeTQlFAkQEYuEXkZIeU00dRAmK0s6ZFM9jZhpASIXVx4kIRUVdFRLgEA4XzmPRLNWO1peVDp0IVxnJAwjHCY3BxBVT0BMG3dZVVNBkkFMX1pAPSl6nalhEgMdGzslGQQhXEYrOR9wWjg5XRIdOzdUcT9aGS8pKQ0cCC5JJwoLIiQPDEA9VStVbBxHLyclHCh8hXgMJxIMIgsgMyEEGRoaHSAbVR13QxEOGDAdLUhqF48bIx4h",
+          "bottom": "HCY3BxBVT0BMG3dZVVNBkkFMX1pAPSl6nalhEgMdGzslGQQhXEYrOR9wWjg5XRIdOzdUcT9aGS8pKQ0cCC5JJwoLIiQPDEA9VStVbBxHLyclHCh8hXgMJxIMIgsgMyEEGRoaHSAbVR13QxEOGDAdLUhqF48bIx4hJCchKB0MIh0GBhAyYCyALSE/PzYxKTEnRlcrBxsgCxcaHQcVFAsYGCU1N09IY0tOHhUqHwoYIzEqGhkUExIPDQkUBgoJJygUDyxlVxYVUzIWICAiJS8rFg8nDhIaGgsPCQcLJxs2SnlkUnRbUUY6KFRITFhSGAskBRIQEhIQDBIUEyqHS1qtuEsWU3VhSVM9F39fChIfGBUEBw0OEhocEoqJGCIwZGtAamxGHSoaCm5jEQ8PHhMbEAcKFw4MbHQ0PTRIbi4hUTgCIiMRCmhSKC4iEygfFwsSGAlBhhgbFCY8CzpLQA8aFxoNDm4sMC43IB0XFwkTERKFNDMyFQkeTjUyFgwkFSMHInQNKw0mFQ4XJA4SHFR7EA0XPloyDQ4UBxwgCyAQSFYkEyQqFhEPKisYO4w1Qm9/dU1kNhkMChwSFxwFZzEbFCYZ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.203455,
+          "top": 20.936722,
+          "middle": 25.348694,
+          "bottom": 16.807185,
+          "effectiveRatio": 0.524525
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1499
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d327c952114afc2f577e62dba80a3bc2117feab2146c0543e4e1ccc5418443a5",
+      "visuallyReviewed": true,
+      "coverCropConcern": "주요얼굴·실명자료표시·동작을렌더후재검수한다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "국내 스포츠조선 원문에 실제 게재된 사진 사용을 사용자제공권한에연결했다. 외국 사진사와직접계약·공개무료이용권을임의로주장하지않는다."
+      }
+    },
+    {
+      "name": "클리블랜드 가디언스 조 아델",
+      "subject": "클리블랜드 가디언스 조 아델",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/06/2026100601000384400024771_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-06/202610060100038440002477",
+      "imageCredit": "스포츠조선 게재 · AFP · 연합뉴스",
+      "creditDisplay": "조 아델 자료사진 · AFP/연합뉴스",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb2-story\\photos\\candidate-5.jpg",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 자료사진",
+      "checkedAt": "2026-10-15T21:04:55.739Z",
+      "context": "스포츠조선10월6일 기사 전체 주인공인 조아델의 실제 붉은가디언스유니폼사진이다. 기사본문이8회413피트3루타를친조아델을반복명명하고,MLB공식10월9일CLE로스터No7=JoAdell과사진No7벨트를대조했다. 개별caption은AFP연합만이므로이신원근거와촬영일미확인을함께보존한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:48:02.494Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 1240203,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.276198144213455,
+        "entropy": 7.464022509288043,
+        "effectiveDetailRatio": 0.509519,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/06/2026100601000384400024771_w.jpg",
+        "sha256": "441c0af87400fac2c286997d30ff08e985b285d85c49af8686d3b0089e7eaf9b",
+        "perceptualHash": "421c1b2646468353",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DQoPCQYKAwwtUWcdSlcmM2QtBDgZQXJRMEk5IDtIDQ0NBAkMCTFKPCY+TkofCwkYGSAZKCMUPE4ZOB04AgYIBgkOEUAuDBgsOCU1VWGIghIYFwkXMSceIB4lAQcGAwQMEjEsKwwbJRdOSDpEdngMFhkyUT0sKxM8AwUCAAMlXUwGEkFOYCJIR0JumyQhChg7RxJFRhtIBAMFBCVueFk9HU8qZW82UjdlMAYYGxojKzM7SBFcCQoJElFoGENDDkcrJ3llJR0YBh4JExEWIyk3OQRFCg4LHEYpQkIcL0UsDz5bRyQRPkoaGBwZERInHRxTBgUDITYcLxweOEFADltdJw4vU0iYPTMbExdjWDRFBgkMFzI0IiM1UlsQSkhGX1dARVBysFcTHoSEgDcSBQkLCxwaBxRodRYtDi1JWXx4TGwbS51IXoIPfkceDA8MBhEiETV6H0AXAgY5Kxk5VhsFDD9pImGWdRALBgYNChciFVksJyQyEiAMJBkEEwoEAyRpSmxrMTIsBQoHDAcrQ0cOHAlRNBwjDgUWExQFBSBzZxgWGQwaCis/IyBCRz8pPxsyg1M1KB4pFRwZFCF5WjJGNSERKmduZTIxO0IifmNAQ044NB0ZGxICDyx2KTwhMzUxVFgZVFcrNUhuQZE8JjUdEhgNFx4KH1pYBisuDzBAS0MwBU9tTxZPazkrGxcbLB4ZBxIZLzY+FiM9KxwlQTgqQUQvZ2lbXUklJhU8HkEXGhEIGzVRLC0gMCoUMzovSId6dJUzU1IiLTMxMxUXICIOND0ZNh4QJhsjIjw+QnKlaV8ZCjBXDyQ4OBwbGRAPNzQGBysIPDpkFSIoIBFNciUFFi4zLAkQGy8aHhkIPDEXMwo0OYAsCQgLGiINNBMLHgwPIQYLJRQRBRYaLlhFNjQ1HWdTFBoiHRUgFAoFGB0sGxYWBw4WJiMZK3JRF0ooIj1LExYYBwgVLxADGz8tDhcaHigzIRIST3g8JBgeQbOZFxsWFQ4lKiwSMGVxQTsbKS1aVSkXTi8NF0daaY8zFhICCQYcCDMdY7iVmYSJQDxXUJqczJAQHlYyIi07GQIGCAoWGyYmadZmT1SZ++HC+cdos/8wGj1jPjpDHgQRHhAQIQlURtpuAggZSqfchSkDTPx1DxhKX3NUJh0VHB8LGkAeKql2HAUVKkEeCSMJFN26EB0MOWd/GRsYCxENCTcHKLh3PgkUMkFCGwwfCrjSExUBHTtqFSUlFRoOE0EvwNw/nmRDNS85LhwQC43zTx4MGBUGOzgcCBsYHjzBvzHPh/87SD9TEhEUIEH/mBQGHjEoRhMaJCATFAOrzEzCtI/DLC9hRCQRDSPswgkiOA07OBgKJCglKyWWwnuna/9bbhNVOCQVEA3M6ENSPStFPg4dGw4GFy0zqYMVvZtGjFBQMjEZDAmMyYGMbm9zJjBOS0I/Pi8nIYx3VCR4zIGfL0AnCgZVcycfFRpfH0AyGxwaMTVdgmArQR2p2jTZZ0M8EQlbiWVpYICO",
+          "top": "DQoPCQYKAwwtUWcdSlcmM2QtBDgZQXJRMEk5IDtIDQ0NBAkMCTFKPCY+TkofCwkYGSAZKCMUPE4ZOB04AgYIBgkOEUAuDBgsOCU1VWGIghIYFwkXMSceIB4lAQcGAwQMEjEsKwwbJRdOSDpEdngMFhkyUT0sKxM8AwUCAAMlXUwGEkFOYCJIR0JumyQhChg7RxJFRhtIBAMFBCVueFk9HU8qZW82UjdlMAYYGxojKzM7SBFcCQoJElFoGENDDkcrJ3llJR0YBh4JExEWIyk3OQRFCg4LHEYpQkIcL0UsDz5bRyQRPkoaGBwZERInHRxTBgUDITYcLxweOEFADltdJw4vU0iYPTMbExdjWDRFBgkMFzI0IiM1UlsQSkhGX1dARVBysFcTHoSEgDcSBQkLCxwaBxRodRYtDi1JWXx4TGwbS51IXoIPfkceDA8MBhEiETV6H0AXAgY5Kxk5VhsFDD9pImGWdRALBgYNChciFVksJyQyEiAMJBkEEwoEAyRpSmxrMTIsBQoHDAcrQ0cOHAlRNBwjDgUWExQFBSBzZxgWGQwaCis/IyBCRz8pPxsyg1M1KB4pFRwZFCF5WjJGNSER",
+          "middle": "BgYNChciFVksJyQyEiAMJBkEEwoEAyRpSmxrMTIsBQoHDAcrQ0cOHAlRNBwjDgUWExQFBSBzZxgWGQwaCis/IyBCRz8pPxsyg1M1KB4pFRwZFCF5WjJGNSERKmduZTIxO0IifmNAQ044NB0ZGxICDyx2KTwhMzUxVFgZVFcrNUhuQZE8JjUdEhgNFx4KH1pYBisuDzBAS0MwBU9tTxZPazkrGxcbLB4ZBxIZLzY+FiM9KxwlQTgqQUQvZ2lbXUklJhU8HkEXGhEIGzVRLC0gMCoUMzovSId6dJUzU1IiLTMxMxUXICIOND0ZNh4QJhsjIjw+QnKlaV8ZCjBXDyQ4OBwbGRAPNzQGBysIPDpkFSIoIBFNciUFFi4zLAkQGy8aHhkIPDEXMwo0OYAsCQgLGiINNBMLHgwPIQYLJRQRBRYaLlhFNjQ1HWdTFBoiHRUgFAoFGB0sGxYWBw4WJiMZK3JRF0ooIj1LExYYBwgVLxADGz8tDhcaHigzIRIST3g8JBgeQbOZFxsWFQ4lKiwSMGVxQTsbKS1aVSkXTi8NF0daaY8zFhICCQYcCDMdY7iVmYSJQDxXUJqczJAQHlYyIi07",
+          "bottom": "FBoiHRUgFAoFGB0sGxYWBw4WJiMZK3JRF0ooIj1LExYYBwgVLxADGz8tDhcaHigzIRIST3g8JBgeQbOZFxsWFQ4lKiwSMGVxQTsbKS1aVSkXTi8NF0daaY8zFhICCQYcCDMdY7iVmYSJQDxXUJqczJAQHlYyIi07GQIGCAoWGyYmadZmT1SZ++HC+cdos/8wGj1jPjpDHgQRHhAQIQlURtpuAggZSqfchSkDTPx1DxhKX3NUJh0VHB8LGkAeKql2HAUVKkEeCSMJFN26EB0MOWd/GRsYCxENCTcHKLh3PgkUMkFCGwwfCrjSExUBHTtqFSUlFRoOE0EvwNw/nmRDNS85LhwQC43zTx4MGBUGOzgcCBsYHjzBvzHPh/87SD9TEhEUIEH/mBQGHjEoRhMaJCATFAOrzEzCtI/DLC9hRCQRDSPswgkiOA07OBgKJCglKyWWwnuna/9bbhNVOCQVEA3M6ENSPStFPg4dGw4GFy0zqYMVvZtGjFBQMjEZDAmMyYGMbm9zJjBOS0I/Pi8nIYx3VCR4zIGfL0AnCgZVcycfFRpfH0AyGxwaMTVdgmArQR2p2jTZZ0M8EQlbiWVpYICO"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 26.530926,
+          "top": 28.621017,
+          "middle": 31.482161,
+          "bottom": 22.27964,
+          "effectiveRatio": 0.509519
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1799
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "441c0af87400fac2c286997d30ff08e985b285d85c49af8686d3b0089e7eaf9b",
+      "visuallyReviewed": true,
+      "coverCropConcern": "주요얼굴·실명자료표시·동작을렌더후재검수한다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "국내 스포츠조선 원문에 실제 게재된 사진 사용을 사용자제공권한에연결했다. 외국 사진사와직접계약·공개무료이용권을임의로주장하지않는다."
+      }
+    },
+    {
+      "name": "클리블랜드 가디언스 호세 라미레즈",
+      "subject": "클리블랜드 가디언스 호세 라미레즈",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/09/2026100901000606200038671_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-09/202610090100060620003867",
+      "imageCredit": "스포츠조선 게재 · AFP · 연합뉴스",
+      "creditDisplay": "라미레즈 자료사진 · AFP/연합뉴스",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb2-story\\photos\\candidate-1.jpg",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 자료사진",
+      "checkedAt": "2026-10-15T21:04:55.739Z",
+      "context": "스포츠조선10월9일 ALDS4기사에게재된라미레즈의실제타격사진이다. 얼굴·11번벨트·회색가디언스유니폼·팔로스루를원문라미레즈보도와직접대조했다. 표지세리머니와다른장면이다. 정확한촬영일미확인자료사진이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:47:59.988Z",
+        "width": 1200,
+        "height": 1500,
+        "bytes": 1032150,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6491229076440403,
+        "entropy": 7.47165640811545,
+        "effectiveDetailRatio": 0.501808,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/09/2026100901000606200038671_w.jpg",
+        "sha256": "55bcd4d9403b47fe37e6218596553bc6ee1ce48bcd9063d832391f3818a2565b",
+        "perceptualHash": "54226d0f4d85ce5e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "HhNSn1gfURQpRDM2WC9GOF8IGD5NGS8/iSolVRt2NVOjRd+4OF0eGhU+TjZ7DEEUSToiHUQedFEnK0lASkRH4jnK/3tgXgYUSCpkFF5AQi0vCD81H1I1OVAhYw1kfNzHJKa8VkggRCNCRWRoQFACGig1RxUWIhYqQ0g8Fzkfw9VCkWoULwxNBxU0Yhg+ChZDLEQpHXeQGAkXWlpCWDiKSk8dKzM1X21+GDM3GCkwOz8TeJlnKSs9GDs0NksdQRhEOwJkbUlJLFBFJCohLhkhX3RHITA7CEc3ICZOJzJIKXMNFy83HDxdNTYQMi8YK2dSGCsKZFofLiYpHhY+NDA7OzclCww8GTwJDwtGAjMcBBNbnD0bT3FaWE1UkMd4Wi4lSiV+K0UdKFkaH05ODTatVENHWEuMSD4hiShSRT8/LIwsS0kRXholHy1fCnOENxMXCSMcd4KUTIZkPhxJJUtoKjBVM3cJIgpCKIVQRzQrLkxyjSOUYXxONDg6QR0VDgJXampyHgQPKi1sQ0Q7UGs9Lw85SQ8mIRZzm3UwJxgmak9zSS8qLhM3OFJcZwEnNhE3FzkUH4CSWHtYFxwjB1EcLyklFDsUDkI9R0cZQTY4SHJvf4MuKY5fDwU/R0FMS0lFMTATCBMCICcNFCYVaHGVdykYMJ1GIS02JiQrNTYyHxUfBBAHRj0TFBgbdZIaHCMYLo8zOzg4FxcYGRkXHwYeBQ8eTCE6LBQoelUwOxgydqcRTCAsCggJDQoJDQ0UBBJFF000JyIlvEhMISpTTzVMgTtBFRQGKDwLBBcnI0kqPC0JGBw/qzkZJz2Chy5yjXM8FBM5RSkwM2AfHho/OA4OBBRSqj8WGhk7fntfEsJZIGSHVxwcj2tHLC8zCggKI0YLuoMTAy0FLYNDaobQ+OxpXoZLqYFhJisPDA4HU1ZmaN5eDh8oC0F/kY10SXCKRnWtnoOWHB4eCQ0Df0uCQluXQwYyJBuylHXR2mtqcYO7aXuPFAsNKgQcJmYnpf+GBhUKORidqhAmisZPRBelOjSYKxM9YDhKczuF+nhPaBAhEy9mrwwfF4uPlFBkUTqeWyVcJTFCNSFccRs6LSw2ChVBmUEiGT4odLyKYZMcVSgcVzA1NkeggTpnNF48OxM5ik4NMGtHOpzQmS8pNio4MTdFDjR11MBJZD0xPBFOkT4GVI4kuEBfgUsUEzpDSQpLFkONN1igUz4/Q06BnRYZMFqcO8ikmhtFZUtCQx9KXVadmKtWOHhVEVZ5VAUcDBtEa5w/UoFioWRdHysZWYWIXztIfXFVOEgeRhsfHxtETbgNEhSKS5M1TBowEGtIUEZygSl6Z1EuTDQhKyEDLIEFGAQYbgieG0cMNINcTlFVFTYshkxiLysdEhQ8VMcyFwQMIIYvYBU1HIWLaUEOUyscfiU1RoAXKBU+DsdPQT5FRRAuTE42TnNcMUYIW3JOn0EsHW6BTUtpgshNWFRTZ3ZrRl5gSBMeOBIeDFJ5KkozRTBPVFBvkFQr",
+          "top": "HhNSn1gfURQpRDM2WC9GOF8IGD5NGS8/iSolVRt2NVOjRd+4OF0eGhU+TjZ7DEEUSToiHUQedFEnK0lASkRH4jnK/3tgXgYUSCpkFF5AQi0vCD81H1I1OVAhYw1kfNzHJKa8VkggRCNCRWRoQFACGig1RxUWIhYqQ0g8Fzkfw9VCkWoULwxNBxU0Yhg+ChZDLEQpHXeQGAkXWlpCWDiKSk8dKzM1X21+GDM3GCkwOz8TeJlnKSs9GDs0NksdQRhEOwJkbUlJLFBFJCohLhkhX3RHITA7CEc3ICZOJzJIKXMNFy83HDxdNTYQMi8YK2dSGCsKZFofLiYpHhY+NDA7OzclCww8GTwJDwtGAjMcBBNbnD0bT3FaWE1UkMd4Wi4lSiV+K0UdKFkaH05ODTatVENHWEuMSD4hiShSRT8/LIwsS0kRXholHy1fCnOENxMXCSMcd4KUTIZkPhxJJUtoKjBVM3cJIgpCKIVQRzQrLkxyjSOUYXxONDg6QR0VDgJXampyHgQPKi1sQ0Q7UGs9Lw85SQ8mIRZzm3UwJxgmak9zSS8qLhM3OFJcZwEnNhE3FzkUH4CSWHtYFxwjB1EcLykl",
+          "middle": "KIVQRzQrLkxyjSOUYXxONDg6QR0VDgJXampyHgQPKi1sQ0Q7UGs9Lw85SQ8mIRZzm3UwJxgmak9zSS8qLhM3OFJcZwEnNhE3FzkUH4CSWHtYFxwjB1EcLyklFDsUDkI9R0cZQTY4SHJvf4MuKY5fDwU/R0FMS0lFMTATCBMCICcNFCYVaHGVdykYMJ1GIS02JiQrNTYyHxUfBBAHRj0TFBgbdZIaHCMYLo8zOzg4FxcYGRkXHwYeBQ8eTCE6LBQoelUwOxgydqcRTCAsCggJDQoJDQ0UBBJFF000JyIlvEhMISpTTzVMgTtBFRQGKDwLBBcnI0kqPC0JGBw/qzkZJz2Chy5yjXM8FBM5RSkwM2AfHho/OA4OBBRSqj8WGhk7fntfEsJZIGSHVxwcj2tHLC8zCggKI0YLuoMTAy0FLYNDaobQ+OxpXoZLqYFhJisPDA4HU1ZmaN5eDh8oC0F/kY10SXCKRnWtnoOWHB4eCQ0Df0uCQluXQwYyJBuylHXR2mtqcYO7aXuPFAsNKgQcJmYnpf+GBhUKORidqhAmisZPRBelOjSYKxM9YDhKczuF+nhPaBAhEy9mrwwfF4uPlFBk",
+          "bottom": "qYFhJisPDA4HU1ZmaN5eDh8oC0F/kY10SXCKRnWtnoOWHB4eCQ0Df0uCQluXQwYyJBuylHXR2mtqcYO7aXuPFAsNKgQcJmYnpf+GBhUKORidqhAmisZPRBelOjSYKxM9YDhKczuF+nhPaBAhEy9mrwwfF4uPlFBkUTqeWyVcJTFCNSFccRs6LSw2ChVBmUEiGT4odLyKYZMcVSgcVzA1NkeggTpnNF48OxM5ik4NMGtHOpzQmS8pNio4MTdFDjR11MBJZD0xPBFOkT4GVI4kuEBfgUsUEzpDSQpLFkONN1igUz4/Q06BnRYZMFqcO8ikmhtFZUtCQx9KXVadmKtWOHhVEVZ5VAUcDBtEa5w/UoFioWRdHysZWYWIXztIfXFVOEgeRhsfHxtETbgNEhSKS5M1TBowEGtIUEZygSl6Z1EuTDQhKyEDLIEFGAQYbgieG0cMNINcTlFVFTYshkxiLysdEhQ8VMcyFwQMIIYvYBU1HIWLaUEOUyscfiU1RoAXKBU+DsdPQT5FRRAuTE42TnNcMUYIW3JOn0EsHW6BTUtpgshNWFRTZ3ZrRl5gSBMeOBIeDFJ5KkozRTBPVFBvkFQr"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 18.709329,
+          "top": 17.140653,
+          "middle": 16.678069,
+          "bottom": 20.551866,
+          "effectiveRatio": 0.501808
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1500
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "55bcd4d9403b47fe37e6218596553bc6ee1ce48bcd9063d832391f3818a2565b",
+      "visuallyReviewed": true,
+      "coverCropConcern": "주요얼굴·실명자료표시·동작을렌더후재검수한다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "국내 스포츠조선 원문에 실제 게재된 사진 사용을 사용자제공권한에연결했다. 외국 사진사와직접계약·공개무료이용권을임의로주장하지않는다."
+      }
+    },
+    {
+      "name": "클리블랜드 가디언스 호세 라미레즈",
+      "subject": "클리블랜드 가디언스 호세 라미레즈",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/04/07/2026040701000464600029791_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-04-07/202604070100046460002979",
+      "imageCredit": "스포츠조선 게재 · AFP · 연합뉴스",
+      "creditDisplay": "라미레즈 수상 자료 · AFP/연합뉴스",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb2-story\\photos\\ramirez-apr.jpg",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 자료사진",
+      "checkedAt": "2026-10-15T21:04:55.739Z",
+      "context": "스포츠조선4월7일 라미레즈기사의실제실버슬러거트로피기념사진. 트로피에JOSE RAMIREZ-3B/ClevelandGuardians/2025가명확하고얼굴·홈유니폼과직접대조했다. 기사당일1620경기기념베이스사진으로설명하지않는다. 정확한촬영일미확인수상기념자료사진이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:53:15.131Z",
+        "width": 1200,
+        "height": 1800,
+        "bytes": 1593866,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.702831338263563,
+        "entropy": 7.368673417950049,
+        "effectiveDetailRatio": 0.542335,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/04/07/2026040701000464600029791_w.jpg",
+        "sha256": "2caea1622c9842e72e1aa0fbb179f19ba5f4d53031fc4927befde794ba2ed495",
+        "perceptualHash": "2de1997935574715",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "LDRJFhYPIycjJk00L1FgIiIsNSYJECckGRkgKTROPTNMGC0PIBYgLCpNOiZPJyErNjgVDxYuLTMzIjMeQ1EvHQwRFgsODRs3NiUTHxEiC0UaJSEeHS0tDQchHyk0GgwOEBcTO2lshUooODVfEDtoHxcHFB06VR4mJUZAJQQQGA8gSkkTMEBOalSBXnByTAEiMkpKNkBCcE08JRw/HBkoH0JBRR97WxMpj2qQVwU5Fz1oXzJ8NRFhaz4OEhcRHBEnHB1lIg5cOD2cbR8hX2JMV0QuV1pRKwUwHBszfoM1PSSPFU1xOSqGbStPPVdrOieTLCo4XFhQQ0Klrqr6fG2Nb3tIgSF7VRcWS0E/PV41SkxHXWNZVJKVGhaX73uJm31Rqha2j1lQWWFmTlGZBwkJBAkUN1gEKicpQoLvs0afVknMiQsJBQQDAgMDFwoOEhcdLzgmK0mQf53/jz94GHaLgxYWFhYXFxYXDBwVFRghNCxFR6F3moRMPTw5TWNWggMBAQEDBAQEBQ4bHSMoLDpdgqeBUWh2MBAFZBZHewQIBAUFAgICBgcDAwgECVbX3n1HcW25hiENT1RWUQoGBgYDAwQEBQMDCAYRNqNufa3gu5XGqDcbDZVuLwsHBAEBAQIEHB0eHSEfFpL4dgRLl7tvTWdfZTSlaR4eJSUmJycoIyIfFRQTExym1mKGiF8uWxd9pNOmWCojFhwbFxQUCAgLCgUGDiImo3GGVzVwK596Y21EEAgmCwwNDAoLDAkHAgQJGyQuNaFCQSkek7QQDQwTESUCMg0EAQECAQIEBAMpDzE4NzlGTWpDny0qBwMEBgkqCSgMAQMECQkJCykqLSYwCQsVJCkvMi0sIQkGCwoSKRAEAwMBCQgGCzQIOw0uCg0OIhgNJD0LPA8HCQgGBgcGAwMDAwICCDUxOQgeLhgQJjMzREIcMCMBAQEDAgIDBAMDAQICAQ04CwMXFCMWHUYhNUoXJgQBAgQBAgEBAQIBAgEABAQHBAQFDw8DEj8jMjEOHgcCBAQAAQEAAwICBAQDBgMCAwMABhQHBSk0HCkMGwsEBgICAgIDAwQDAQQGBAIBAgEEBBMfBAsjByUMHw8FBQIAAQMHBQcHBAIDAgIDAwEFAQkQHAsWCSwsHxIFAwYEAgcFAAUIFhUWExEPEA8RFhMeDhMYHwgwCxwWGhcUFRcbGRcYBAMKCQoLCAYKEg8XJBYHISMjGQYFBAIHERAKFycnMS8uJCIhKSYnIxEgIB4xERcbEDEjIiUsLCkpMCcnGBgXHSAbGxsgJhENEh0aJh0kMB4VBwsNAwMQBwIGAQoEEBQQCAQFEx8ICBcFEikVNh0JDAoHAgkMCAkMCAQECwYHCAUCAh4JCgQFEh8nLS8ICQoEBAkGBwwICg0KDxALBQQGEA0rGSMGFBkVIygFAAQFBwEFAggIDg0SAgEKBwoJBAQdFSYbIiMTKSYREQ4GBAUICQ0HFRcRDhESBQoOEAxCKEQPQzMRNEsRERIKDQcJDQwJ",
+          "top": "LDRJFhYPIycjJk00L1FgIiIsNSYJECckGRkgKTROPTNMGC0PIBYgLCpNOiZPJyErNjgVDxYuLTMzIjMeQ1EvHQwRFgsODRs3NiUTHxEiC0UaJSEeHS0tDQchHyk0GgwOEBcTO2lshUooODVfEDtoHxcHFB06VR4mJUZAJQQQGA8gSkkTMEBOalSBXnByTAEiMkpKNkBCcE08JRw/HBkoH0JBRR97WxMpj2qQVwU5Fz1oXzJ8NRFhaz4OEhcRHBEnHB1lIg5cOD2cbR8hX2JMV0QuV1pRKwUwHBszfoM1PSSPFU1xOSqGbStPPVdrOieTLCo4XFhQQ0Klrqr6fG2Nb3tIgSF7VRcWS0E/PV41SkxHXWNZVJKVGhaX73uJm31Rqha2j1lQWWFmTlGZBwkJBAkUN1gEKicpQoLvs0afVknMiQsJBQQDAgMDFwoOEhcdLzgmK0mQf53/jz94GHaLgxYWFhYXFxYXDBwVFRghNCxFR6F3moRMPTw5TWNWggMBAQEDBAQEBQ4bHSMoLDpdgqeBUWh2MBAFZBZHewQIBAUFAgICBgcDAwgECVbX3n1HcW25hiENT1RWUQoGBgYDAwQE",
+          "middle": "DBwVFRghNCxFR6F3moRMPTw5TWNWggMBAQEDBAQEBQ4bHSMoLDpdgqeBUWh2MBAFZBZHewQIBAUFAgICBgcDAwgECVbX3n1HcW25hiENT1RWUQoGBgYDAwQEBQMDCAYRNqNufa3gu5XGqDcbDZVuLwsHBAEBAQIEHB0eHSEfFpL4dgRLl7tvTWdfZTSlaR4eJSUmJycoIyIfFRQTExym1mKGiF8uWxd9pNOmWCojFhwbFxQUCAgLCgUGDiImo3GGVzVwK596Y21EEAgmCwwNDAoLDAkHAgQJGyQuNaFCQSkek7QQDQwTESUCMg0EAQECAQIEBAMpDzE4NzlGTWpDny0qBwMEBgkqCSgMAQMECQkJCykqLSYwCQsVJCkvMi0sIQkGCwoSKRAEAwMBCQgGCzQIOw0uCg0OIhgNJD0LPA8HCQgGBgcGAwMDAwICCDUxOQgeLhgQJjMzREIcMCMBAQEDAgIDBAMDAQICAQ04CwMXFCMWHUYhNUoXJgQBAgQBAgEBAQIBAgEABAQHBAQFDw8DEj8jMjEOHgcCBAQAAQEAAwICBAQDBgMCAwMABhQHBSk0HCkMGwsEBgICAgIDAwQD",
+          "bottom": "AwICCDUxOQgeLhgQJjMzREIcMCMBAQEDAgIDBAMDAQICAQ04CwMXFCMWHUYhNUoXJgQBAgQBAgEBAQIBAgEABAQHBAQFDw8DEj8jMjEOHgcCBAQAAQEAAwICBAQDBgMCAwMABhQHBSk0HCkMGwsEBgICAgIDAwQDAQQGBAIBAgEEBBMfBAsjByUMHw8FBQIAAQMHBQcHBAIDAgIDAwEFAQkQHAsWCSwsHxIFAwYEAgcFAAUIFhUWExEPEA8RFhMeDhMYHwgwCxwWGhcUFRcbGRcYBAMKCQoLCAYKEg8XJBYHISMjGQYFBAIHERAKFycnMS8uJCIhKSYnIxEgIB4xERcbEDEjIiUsLCkpMCcnGBgXHSAbGxsgJhENEh0aJh0kMB4VBwsNAwMQBwIGAQoEEBQQCAQFEx8ICBcFEikVNh0JDAoHAgkMCAkMCAQECwYHCAUCAh4JCgQFEh8nLS8ICQoEBAkGBwwICg0KDxALBQQGEA0rGSMGFBkVIygFAAQFBwEFAggIDg0SAgEKBwoJBAQdFSYbIiMTKSYREQ4GBAUICQ0HFRcRDhESBQoOEAxCKEQPQzMRNEsRERIKDQcJDQwJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 32.880828,
+          "top": 33.399043,
+          "middle": 28.166015,
+          "bottom": 34.919902,
+          "effectiveRatio": 0.542335
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1800
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "2caea1622c9842e72e1aa0fbb179f19ba5f4d53031fc4927befde794ba2ed495",
+      "visuallyReviewed": true,
+      "coverCropConcern": "주요얼굴·실명자료표시·동작을렌더후재검수한다.",
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "국내 스포츠조선 원문에 실제 게재된 사진 사용을 사용자제공권한에연결했다. 외국 사진사와직접계약·공개무료이용권을임의로주장하지않는다."
+      }
+    },
+    {
+      "name": "시카고 화이트삭스 무라카미 무네타카",
+      "subject": "시카고 화이트삭스 무라카미 무네타카",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/09/2026100901000606200038673_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-10-09/202610090100060620003867",
+      "imageCredit": "스포츠조선 게재 · AFP · 연합뉴스",
+      "creditDisplay": "무라카미 자료사진 · AFP/연합뉴스",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb2-story\\photos\\candidate-4.jpg",
+      "photoDate": null,
+      "photoDateLabel": "촬영일 미확인 ALDS 자료사진",
+      "checkedAt": "2026-10-15T21:10:00.776Z",
+      "context": "스포츠조선10월9일 클리블랜드-화이트삭스ALDS4 기사에 게재된 실제 무라카미 무네타카 사진. 화이트삭스5번·얼굴·헬멧을 들어올리는 동작을 원문 주요선수 명명 및 유니폼으로 직접 대조했다. 정확한 개별촬영일은 확인되지 않아 미확인 자료사진으로 표기한다. 현재 ALCS3에 출전한 것으로 쓰지 않고 앞선 디비전시리즈 화이트삭스와의 대결 배경에만 연결한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:48:00.735Z",
+        "width": 1199,
+        "height": 1680,
+        "bytes": 975900,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3406778301601836,
+        "entropy": 7.437929035170782,
+        "effectiveDetailRatio": 0.592061,
+        "kind": "source",
+        "coverScale": 0.901,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/09/2026100901000606200038673_w.jpg",
+        "sha256": "133b874df3830fed2b8774012a87e5bb2878327485e538db005cd564fdec4bd8",
+        "perceptualHash": "b2091d1e9c8dd4c6",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "KSwgDh1OH0AYIjIsGBsWBRQECQgPESEXMS0EJRAJV0grME4MDi4dCDZBCxkUGhcPGxgICicpAyA0IRwMORwWJTZRKBEoLSAzeWBzcCYNCyAbFh0yNTdBJx8XGA0EHR01W2lbM0JzilFAhoQ1HSIyEgkKCRMxNBcdKhEEEiMzrxupTGKrK0lGXnEkBRoEFRgbGg8UNDUhHBsZCAUhlKCREIR0CF1RbDwqFiUZJBoDBQgNEQoUEwctRUQnC4EYJmp3H0hzVmS1jiAtDAYIAwcKDQITFyRHQzAzHCh2kbiQIU+Cw8ix55A4ShICDA8UHyYXOVtgFiwnIJe6prZeRERlVS4726NDFxIRGRsaHhwoQFAPSjA4LsxwOhUSQmFvBx5QgJdOMzo7LiYlJj9AQkVjVS4hE6LQMUodZ3aNY0GMVxgRCBgNDh0EAwUcP0ghFwUFK3KNElVdDKdRaF2VPTU3OEElPkM8NBAnBC1LRDURLWOPJkhlGDN8KomQMRccHh4oMA0nNCwiEkpRSU1ePlLBS10RCQQURtB/UwlCGxBDGT8bHjQaE2JrKzNOYRTHXgsJDhIMRs5xMEweIgU1QDktLDwfJ3ZyGi1EZVTFQwgbCCAJR8qLHidLXjUCNhZgfHNveJI3WT8oPJV+KAgYMiUaLoaXWllaVHhAMmFSJQciECRHTyoiMzZoNwt2lYYTYok1HAxGRTksGBlOaXVnXml3WzUyTnOJfFSEJG1LhGBSOi5EUT0aFSssJzA1FBUVDxEOED3Rfh9/oqxImd05CggGBgYFBAQIDAsJCAkJBwQJDTDAdg4MGCQBT91gDAcFBwcFBQkHBwcIUFBOTE5LR2DEbhYVOTQVHseuTlVVVltcW15eXVxdX11YVFZVT2BoOxMnIjAkE1uVP0hGSEtLS0pKSUlCXV5eYGBWVFiZXgIgGSMkEzh4amBramtsbG1tbGxxcXBubW9lXm210CcgC0YWD0nJgk9WXF1dYGRkYmFZBQkFBAgQDB5h11MpUqJxETPBgSQjBQAEDAcFBwUSJAIGARUQDhtCxmwZnFztPimtgCY5HwMIFhMFBhEQNCQEEh4MEBU2tIQYsW7cjReMjAczMAEWHyMWEyIOFzEEJhsNEAUllZUdunWxsRh1kzEvKQAoISYuHiMaFCQPIwkTDxMripkdtH9r0zFpmkkpEQUyIRAPAhknJiwCHCYLBy4ya34XtpMrpFEwgH0RExoZGgQHFBEFLw8kCB4ZHCsmdH8EiKlViDgNSYdVUUc7NkUuMjpGBjA2NQQdCR89jLYWWGI5UB0ZGkk/Szs8PjU5LUFHWmU8YEQmBBkZgr0oZmMWQDJANDgkJCw/FwgxNy4eRywKLzwnKiELe7o/UWYbN0YqSzMZExwmJxYgKiALHSAoNSocJhoEbM1aMWAiKUIjTT4ODAkTKBEnHxMSDggNIRgKHB8MTcORL2YeJ0QqN2kyDAkMKxUMDSANNDg7TFhZYXR2foN5BkIFGSE+ShRTNRMPKz4uLAcN",
+          "top": "KSwgDh1OH0AYIjIsGBsWBRQECQgPESEXMS0EJRAJV0grME4MDi4dCDZBCxkUGhcPGxgICicpAyA0IRwMORwWJTZRKBEoLSAzeWBzcCYNCyAbFh0yNTdBJx8XGA0EHR01W2lbM0JzilFAhoQ1HSIyEgkKCRMxNBcdKhEEEiMzrxupTGKrK0lGXnEkBRoEFRgbGg8UNDUhHBsZCAUhlKCREIR0CF1RbDwqFiUZJBoDBQgNEQoUEwctRUQnC4EYJmp3H0hzVmS1jiAtDAYIAwcKDQITFyRHQzAzHCh2kbiQIU+Cw8ix55A4ShICDA8UHyYXOVtgFiwnIJe6prZeRERlVS4726NDFxIRGRsaHhwoQFAPSjA4LsxwOhUSQmFvBx5QgJdOMzo7LiYlJj9AQkVjVS4hE6LQMUodZ3aNY0GMVxgRCBgNDh0EAwUcP0ghFwUFK3KNElVdDKdRaF2VPTU3OEElPkM8NBAnBC1LRDURLWOPJkhlGDN8KomQMRccHh4oMA0nNCwiEkpRSU1ePlLBS10RCQQURtB/UwlCGxBDGT8bHjQaE2JrKzNOYRTHXgsJDhIMRs5xMEweIgU1QDktLDwf",
+          "middle": "BC1LRDURLWOPJkhlGDN8KomQMRccHh4oMA0nNCwiEkpRSU1ePlLBS10RCQQURtB/UwlCGxBDGT8bHjQaE2JrKzNOYRTHXgsJDhIMRs5xMEweIgU1QDktLDwfJ3ZyGi1EZVTFQwgbCCAJR8qLHidLXjUCNhZgfHNveJI3WT8oPJV+KAgYMiUaLoaXWllaVHhAMmFSJQciECRHTyoiMzZoNwt2lYYTYok1HAxGRTksGBlOaXVnXml3WzUyTnOJfFSEJG1LhGBSOi5EUT0aFSssJzA1FBUVDxEOED3Rfh9/oqxImd05CggGBgYFBAQIDAsJCAkJBwQJDTDAdg4MGCQBT91gDAcFBwcFBQkHBwcIUFBOTE5LR2DEbhYVOTQVHseuTlVVVltcW15eXVxdX11YVFZVT2BoOxMnIjAkE1uVP0hGSEtLS0pKSUlCXV5eYGBWVFiZXgIgGSMkEzh4amBramtsbG1tbGxxcXBubW9lXm210CcgC0YWD0nJgk9WXF1dYGRkYmFZBQkFBAgQDB5h11MpUqJxETPBgSQjBQAEDAcFBwUSJAIGARUQDhtCxmwZnFztPimtgCY5HwMIFhMFBhEQ",
+          "bottom": "XV5eYGBWVFiZXgIgGSMkEzh4amBramtsbG1tbGxxcXBubW9lXm210CcgC0YWD0nJgk9WXF1dYGRkYmFZBQkFBAgQDB5h11MpUqJxETPBgSQjBQAEDAcFBwUSJAIGARUQDhtCxmwZnFztPimtgCY5HwMIFhMFBhEQNCQEEh4MEBU2tIQYsW7cjReMjAczMAEWHyMWEyIOFzEEJhsNEAUllZUdunWxsRh1kzEvKQAoISYuHiMaFCQPIwkTDxMripkdtH9r0zFpmkkpEQUyIRAPAhknJiwCHCYLBy4ya34XtpMrpFEwgH0RExoZGgQHFBEFLw8kCB4ZHCsmdH8EiKlViDgNSYdVUUc7NkUuMjpGBjA2NQQdCR89jLYWWGI5UB0ZGkk/Szs8PjU5LUFHWmU8YEQmBBkZgr0oZmMWQDJANDgkJCw/FwgxNy4eRywKLzwnKiELe7o/UWYbN0YqSzMZExwmJxYgKiALHSAoNSocJhoEbM1aMWAiKUIjTT4ODAkTKBEnHxMSDggNIRgKHB8MTcORL2YeJ0QqN2kyDAkMKxUMDSANNDg7TFhZYXR2foN5BkIFGSE+ShRTNRMPKz4uLAcN"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.912638,
+          "top": 25.133477,
+          "middle": 24.675403,
+          "bottom": 22.434912,
+          "effectiveRatio": 0.592061
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1199,
+        "rawHeight": 1680
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "133b874df3830fed2b8774012a87e5bb2878327485e538db005cd564fdec4bd8",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "국내 스포츠조선 원문에 실제 게재된 사진 사용을 사용자제공권한에연결했다. 외국 사진사와직접계약·공개무료이용권을임의로주장하지않는다."
+      },
+      "cropReview": {
+        "resolved": true,
+        "checkedAt": "2026-10-15T21:11:40.335Z",
+        "reviewer": "root",
+        "note": "Final JPEG individually viewed: full face, head, hands and helmet remain visible."
+      }
+    }
+  ]
+}
