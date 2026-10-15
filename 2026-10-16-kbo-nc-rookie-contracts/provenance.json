@@ -1,0 +1,375 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "NC, 박보승 등 신인 12명 계약 완료",
+  "issueKey": "kbo-2026-nc-twelve-rookie-contracts-park-boseung",
+  "checkedAt": "2026-10-15T20:45:04.869Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=552278",
+  "corroboratingUrls": [
+    "https://www.xportsnews.com/article/2206950",
+    "https://www3.newsen.com/news_view.php?uid=202610131139081031",
+    "https://www.newsis.com/view/NISX20261013_0003823753",
+    "https://www.knnews.co.kr/news/articleView.php?idxno=1552722"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=552278",
+      "publishedAt": "2026-09-22",
+      "title": "“TV 보는데 딱 눈에 띄더라” 알고 보니 NC의 미래…호부지가 반한 박보승·황성현 [오!쎈 대구]",
+      "role": "직접 관련 KBO 게재 OSEN 손찬익의 두 신인 평가 인터뷰. 계약 발표 전 배경으로만 사용하며 10월 계약이 이때 체결됐다고 쓰지 않는다."
+    },
+    {
+      "url": "https://www.xportsnews.com/article/2206950",
+      "publishedAt": "2026-10-13T13:57:00+09:00",
+      "role": "현재 이슈: NC 공식발표 인용.11일계약완료/13일발표/21일합류예정,금액과구단지원발언."
+    },
+    {
+      "url": "https://www3.newsen.com/news_view.php?uid=202610131139081031",
+      "publishedAt": "2026-10-13T11:39:27+09:00",
+      "role": "구단공식발표 교차.11일계약완료,교육내용,임선남발언을 확인."
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261013_0003823753",
+      "publishedAt": "2026-10-13T11:36:53+09:00",
+      "role": "계약조건·전체6순위·합류일 교차.9월21일사진의박보승과임선남신원교차."
+    },
+    {
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552722",
+      "publishedAt": "2026-10-13T20:21:51+09:00",
+      "role": "3라운드임준원·황성현각1억원과전원12명계약교차."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "박보승",
+      "subject": "NC 다이노스 박보승",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789972764699665.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2198172",
+      "imageCredit": "엑스포츠뉴스 고아라",
+      "creditDisplay": "사진 · 엑스포츠뉴스 고아라 (9월 21일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\nc-story\\photos\\source-2198172-0.webp",
+      "photoDate": "2026-09-21",
+      "checkedAt": "2026-10-15T20:43:45.229Z",
+      "context": "신인드래프트에서 NC 유니폼과 모자를 착용한 박보승 단독 실제 사진. 계약서 서명이나10월21일합류사진이아닌9월21일자료사진.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:41:30.099Z",
+        "width": 1200,
+        "height": 1566,
+        "bytes": 284956,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.963758437523966,
+        "entropy": 6.723080308031058,
+        "effectiveDetailRatio": 0.496164,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789972764699665.webp",
+        "sha256": "5ee9b60ffcca69804c986ec5aa32fb5aaa351963aafe9691fb5968ae3c2efb7f",
+        "perceptualHash": "98b030101033ace0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "PUJqUAsMAyh2wSEFHLhoZzQQHhQGCAYmZcA3BAERYUFoTgkKCx2unwkr3cg2O2VqLCooDQcifLkiAgIQY0FnTwcIITTXYyLi0iRUWy6FGhEvLQQXj6wWAAUPYURkUgYGMJHMIJTrEGc+M41dCAcXMAcLoZcNAAoQZUZoVQYqLPFxCb6tFTyPbGYHCAkYKSYirXwJAREhYUNmWScL3r0RMtGaQUJKUEo5FBEVTw8ZvF0EASIwX0JsdBnY3iIQebyANAILAhY/UiEIPEuzqjUDAQEjWUmAPN/CGQMva5GUNDprgFQmEjEJFMPaIjQDAQAAMEQpa4Bdgh0BS4GVjJ6qm7Sdk3hbPdqEKD5MAQAAkFBsLA5Tpo8HIIZfrJhTL3ytqoJtbqc+FTlZRgEASq9/kSOzKM0+DzlXThcgOyYwMDglZFcqBEowSzIBKj1Qio5MsnGrCS0cEjI2KFgOLS8IVEQaAgY6KiAZAilAL8JPolPJYSssDS8LKTIcHh0nZyQCBAUKIRgEAis8InrZNL850AozPDIOBzYtEyM7VgQAAQUJDgUSATE4MQjrfoyTpY46GDM7RjQkOiVMRAEBAgYLDgEBAjQxNC2B9Au8M9gjLT4mN1hmUBxfTgMCBAQMDgEAAjktOCkUw8lTwTa/LkVriYFBJ01gOwMDAwMMDgEAAjwpOyUDO+p7jqFuUVRGHkF+cDE+PAEBAgANDQEAAUEkQCMDBHDzKbGIUkBog4dkJicnUwcAAAENDAAAAUEfQRwCAQiVrDyXMgcmKxoSFSITRCkDAQEUEAsHA0cXRxYDInPUqjM2QpSNe257f3pCSSUIAw8jUDcpM1gXS1qdyuaoJA00upiQlHycm0qweRAPDCRCP0BGOUhTps3NkDcZFA0BlPdjIBgie/GoDxQXCRhAPB88NXqbilwgHRcRAgoSD7Cluovc3m4bFhURBwcIQjQqfuFACQQTFgEFChQTCDVSjaF9RRoQBgwRFBUKGhAP+YkQCwkVBAMQExQHAQgwBhwXFAAQEhkWAwkbDBIP0iIEAwoBBQwcEgUBAwQSFA8BCxIZFQkNEhUGGxABbggJCRAWChMWBgENDBAUCwQLFxUKCAcCEBQVBBERJgoPJ0cgGhQTAg0XEQwMAxAYEgoEBAYTEQ8PDQgVDQgiRxI9LRIEChMYCAECERQPBAMBDxgWGRoOFg4VGAwVKUYkFgUJGhAOCAcTFxImBBUQHQ8EARkDDQMSEBEfFRkxJms/EihTcx5nVy9xH2hTKS0pDBEBEgMUEQgPH1ZYYihgHWJRbDFdWkdLQklHSHs6TgQGCwUNGgw/R2AtXmFEAjwsDRkzDCkcSkEXODk3MzUKFAkGEBY6VikSSm0aPi8dCxwsIiAiMiUzJlFTSxUOCgkKGAtBUCgdPjwnCDsUSC4yTVs6SyVNSEAraDYMDAwHCwNAO0xNXjM6XjYYMQ8vO0wxH1NWVkFidyAKEBcUBggfNzk/ZmmEjVJcJhd1YW5LdVgHL1FdIQkPDw0N",
+          "top": "PUJqUAsMAyh2wSEFHLhoZzQQHhQGCAYmZcA3BAERYUFoTgkKCx2unwkr3cg2O2VqLCooDQcifLkiAgIQY0FnTwcIITTXYyLi0iRUWy6FGhEvLQQXj6wWAAUPYURkUgYGMJHMIJTrEGc+M41dCAcXMAcLoZcNAAoQZUZoVQYqLPFxCb6tFTyPbGYHCAkYKSYirXwJAREhYUNmWScL3r0RMtGaQUJKUEo5FBEVTw8ZvF0EASIwX0JsdBnY3iIQebyANAILAhY/UiEIPEuzqjUDAQEjWUmAPN/CGQMva5GUNDprgFQmEjEJFMPaIjQDAQAAMEQpa4Bdgh0BS4GVjJ6qm7Sdk3hbPdqEKD5MAQAAkFBsLA5Tpo8HIIZfrJhTL3ytqoJtbqc+FTlZRgEASq9/kSOzKM0+DzlXThcgOyYwMDglZFcqBEowSzIBKj1Qio5MsnGrCS0cEjI2KFgOLS8IVEQaAgY6KiAZAilAL8JPolPJYSssDS8LKTIcHh0nZyQCBAUKIRgEAis8InrZNL850AozPDIOBzYtEyM7VgQAAQUJDgUSATE4MQjrfoyTpY46GDM7RjQkOiVMRAEBAgYLDgEB",
+          "middle": "AilAL8JPolPJYSssDS8LKTIcHh0nZyQCBAUKIRgEAis8InrZNL850AozPDIOBzYtEyM7VgQAAQUJDgUSATE4MQjrfoyTpY46GDM7RjQkOiVMRAEBAgYLDgEBAjQxNC2B9Au8M9gjLT4mN1hmUBxfTgMCBAQMDgEAAjktOCkUw8lTwTa/LkVriYFBJ01gOwMDAwMMDgEAAjwpOyUDO+p7jqFuUVRGHkF+cDE+PAEBAgANDQEAAUEkQCMDBHDzKbGIUkBog4dkJicnUwcAAAENDAAAAUEfQRwCAQiVrDyXMgcmKxoSFSITRCkDAQEUEAsHA0cXRxYDInPUqjM2QpSNe257f3pCSSUIAw8jUDcpM1gXS1qdyuaoJA00upiQlHycm0qweRAPDCRCP0BGOUhTps3NkDcZFA0BlPdjIBgie/GoDxQXCRhAPB88NXqbilwgHRcRAgoSD7Cluovc3m4bFhURBwcIQjQqfuFACQQTFgEFChQTCDVSjaF9RRoQBgwRFBUKGhAP+YkQCwkVBAMQExQHAQgwBhwXFAAQEhkWAwkbDBIP0iIEAwoBBQwcEgUBAwQSFA8BCxIZFQkNEhUGGxAB",
+          "bottom": "NXqbilwgHRcRAgoSD7Cluovc3m4bFhURBwcIQjQqfuFACQQTFgEFChQTCDVSjaF9RRoQBgwRFBUKGhAP+YkQCwkVBAMQExQHAQgwBhwXFAAQEhkWAwkbDBIP0iIEAwoBBQwcEgUBAwQSFA8BCxIZFQkNEhUGGxABbggJCRAWChMWBgENDBAUCwQLFxUKCAcCEBQVBBERJgoPJ0cgGhQTAg0XEQwMAxAYEgoEBAYTEQ8PDQgVDQgiRxI9LRIEChMYCAECERQPBAMBDxgWGRoOFg4VGAwVKUYkFgUJGhAOCAcTFxImBBUQHQ8EARkDDQMSEBEfFRkxJms/EihTcx5nVy9xH2hTKS0pDBEBEgMUEQgPH1ZYYihgHWJRbDFdWkdLQklHSHs6TgQGCwUNGgw/R2AtXmFEAjwsDRkzDCkcSkEXODk3MzUKFAkGEBY6VikSSm0aPi8dCxwsIiAiMiUzJlFTSxUOCgkKGAtBUCgdPjwnCDsUSC4yTVs6SyVNSEAraDYMDAwHCwNAO0xNXjM6XjYYMQ8vO0wxH1NWVkFidyAKEBcUBggfNzk/ZmmEjVJcJhd1YW5LdVgHL1FdIQkPDw0N"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.817752,
+          "top": 19.394304,
+          "middle": 24.598738,
+          "bottom": 43.938579,
+          "effectiveRatio": 0.496164
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1566
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5ee9b60ffcca69804c986ec5aa32fb5aaa351963aafe9691fb5968ae3c2efb7f",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "박보승·임선남",
+      "subject": "NC 다이노스 박보승·임선남",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789974564945661.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2198198",
+      "imageCredit": "엑스포츠뉴스 고아라",
+      "creditDisplay": "사진 · 엑스포츠뉴스 고아라 (9월 21일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\nc-story\\photos\\source-2198198-0.webp",
+      "photoDate": "2026-09-21",
+      "checkedAt": "2026-10-15T20:43:45.229Z",
+      "context": "9월21일신인드래프트에서 임선남NC단장이 박보승에게 유니폼을 입혀주는 실제 장면. 임선남 신원은 뉴시스10월13일동일드래프트캡션으로 교차확인. 뒤의가려진진행요원은주요인물이아니며신원을추정하지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:41:29.418Z",
+        "width": 1200,
+        "height": 1565,
+        "bytes": 346828,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 4.304884179388208,
+        "entropy": 7.31706137675792,
+        "effectiveDetailRatio": 0.612512,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789974564945661.webp",
+        "sha256": "3aa359768cae8dbef88dd055175129ef54e47529afdf77e20adc012723209a47",
+        "perceptualHash": "55323a7e5c587a78",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "VkxDOTM2WjUMF0t+OwlpbwmPaG54Nz1LdXKTaU9pKDA6Q0pZLxImHwg7aW5tBgZhjItVezFdBW5mVCceTEE5MComBjplWqBcHA4EAwIDXAYGRmczAzULLQgGAwIEBAMEOI+OoIh9Rx4HBwQGBQYIBgUHBQQEDAUHAQMEBAQEcbRdYlxfQSUICQcFBAQFBwUFBAQCBgoEAgQDAwMGj6ceIEVaViQGBggGBAQFBgoEBAgKCgcHBAQEAgMprXUeOkZrTg4EBQYGBQcEHQcKDQkGCgkIBAQEAgFx2D8yPU1vOgQEAgUEBgUbHycOCgcOGA8FBAQCAnn/kDleXHNRHwUCAQQGBQMdG1UTHw8ZDyIDAwMBW/+MCSmIiDtCUAQCBAQEBgUyWJaIiAwVHhQdAwIb+cIBERRQip+utWsYJjkVEwtXmU+UjqchNRxjBAWp/RsCCR8RNBpRX66LYKZOO0y5Vzckc5oUUn93BTLJlQMIFhMJPD9gfzZ9c05zcJ09PnY+aZBOinJrBUzAcwQPFhIoTjZyJpVSKZVNZU2MfYWSp24ceGlJBly/YQ0sGhVCaRweRXqjqKFspKqHXTVmHgcEh5ZVC2u4Q05DMQh9TEFKsyZZRjkRChI9AgUIAwUFWJV4CnGmCTkONQ9lfVVhXQEOAgcJFQ4BBAYIBQYEOzc8BHulDkQ0JkogWnmcrIMOCQYRBwcFBQQDBAYmozU+CYKpLIWzx4ktIBRidaTbJgIJGhUPCAICAgahf6FBGYOVhtaWdsF5Cg8hYTG+vqiBGSIdFw4ABAh77XmQF3+NX7lBGZWCBAweexwSaGXKmjEREBQKBAkx5keqBYePQatlPZhbBxQlQH1FaGdSlx8dGAwEBgpN1HduBoGhNrVtG7aABh0OFlq0XR1uSwYFBwIBCBOj4U+VEXWcKqlxEJC+KAoHFIN2ER9INQYIBAgMDkHlOL48FVmJFrRtCle6XQ4KGXlmNjAoHQIFBwgHGC3BgHcPFVGWKatVEjWtehkMHJOJQjEWJgQICQIQFhtkTxkEB2ChLIVZWxKwkBoJG4aqSS49Fw4NCAoXEC+FLywVIWKUGHUpiWmqqBYOKJaoPhAqHhYRCgkIDAtSXBgQJleMF2oVWoeEZEATMp6aRx0MGxsFBwcRCwhEZiYrIkhoFGw6SVJFMUMmYZ1eM0QnHxcGBgENEAUna0UrFhhfDW1cTyMmHmptmnRMJQRBDxUFCAMPEAYidW1AMCRZLUqMFC0lXX1rOSc0NDYgGQ0KBgQVEQMYjZROSFVWL1E+P1lFWyo3cxg4dSc1GCQlFRIYEAcQnr48KS0zHCUET2MrMkyNSFULdz0HEg4RFwwMCwocob02GQwNGxMBEVp0G2F0b1sucUADDhoVEwUQEgsuyqgMCQgKDggDCSiAG1gdVlhloDkJEw4IAg0NBAgw66cNAAECBQQCBhJqQFBPOdLEMhkJGBUBCgMQDAyU/0QCAgEDCQgFBxyAQm1aEtmsDQsSCxsGAgYUc2f6zwsI",
+          "top": "VkxDOTM2WjUMF0t+OwlpbwmPaG54Nz1LdXKTaU9pKDA6Q0pZLxImHwg7aW5tBgZhjItVezFdBW5mVCceTEE5MComBjplWqBcHA4EAwIDXAYGRmczAzULLQgGAwIEBAMEOI+OoIh9Rx4HBwQGBQYIBgUHBQQEDAUHAQMEBAQEcbRdYlxfQSUICQcFBAQFBwUFBAQCBgoEAgQDAwMGj6ceIEVaViQGBggGBAQFBgoEBAgKCgcHBAQEAgMprXUeOkZrTg4EBQYGBQcEHQcKDQkGCgkIBAQEAgFx2D8yPU1vOgQEAgUEBgUbHycOCgcOGA8FBAQCAnn/kDleXHNRHwUCAQQGBQMdG1UTHw8ZDyIDAwMBW/+MCSmIiDtCUAQCBAQEBgUyWJaIiAwVHhQdAwIb+cIBERRQip+utWsYJjkVEwtXmU+UjqchNRxjBAWp/RsCCR8RNBpRX66LYKZOO0y5Vzckc5oUUn93BTLJlQMIFhMJPD9gfzZ9c05zcJ09PnY+aZBOinJrBUzAcwQPFhIoTjZyJpVSKZVNZU2MfYWSp24ceGlJBly/YQ0sGhVCaRweRXqjqKFspKqHXTVmHgcEh5ZV",
+          "middle": "BTLJlQMIFhMJPD9gfzZ9c05zcJ09PnY+aZBOinJrBUzAcwQPFhIoTjZyJpVSKZVNZU2MfYWSp24ceGlJBly/YQ0sGhVCaRweRXqjqKFspKqHXTVmHgcEh5ZVC2u4Q05DMQh9TEFKsyZZRjkRChI9AgUIAwUFWJV4CnGmCTkONQ9lfVVhXQEOAgcJFQ4BBAYIBQYEOzc8BHulDkQ0JkogWnmcrIMOCQYRBwcFBQQDBAYmozU+CYKpLIWzx4ktIBRidaTbJgIJGhUPCAICAgahf6FBGYOVhtaWdsF5Cg8hYTG+vqiBGSIdFw4ABAh77XmQF3+NX7lBGZWCBAweexwSaGXKmjEREBQKBAkx5keqBYePQatlPZhbBxQlQH1FaGdSlx8dGAwEBgpN1HduBoGhNrVtG7aABh0OFlq0XR1uSwYFBwIBCBOj4U+VEXWcKqlxEJC+KAoHFIN2ER9INQYIBAgMDkHlOL48FVmJFrRtCle6XQ4KGXlmNjAoHQIFBwgHGC3BgHcPFVGWKatVEjWtehkMHJOJQjEWJgQICQIQFhtkTxkEB2ChLIVZWxKwkBoJG4aqSS49Fw4NCAoXEC+FLywV",
+          "bottom": "EXWcKqlxEJC+KAoHFIN2ER9INQYIBAgMDkHlOL48FVmJFrRtCle6XQ4KGXlmNjAoHQIFBwgHGC3BgHcPFVGWKatVEjWtehkMHJOJQjEWJgQICQIQFhtkTxkEB2ChLIVZWxKwkBoJG4aqSS49Fw4NCAoXEC+FLywVIWKUGHUpiWmqqBYOKJaoPhAqHhYRCgkIDAtSXBgQJleMF2oVWoeEZEATMp6aRx0MGxsFBwcRCwhEZiYrIkhoFGw6SVJFMUMmYZ1eM0QnHxcGBgENEAUna0UrFhhfDW1cTyMmHmptmnRMJQRBDxUFCAMPEAYidW1AMCRZLUqMFC0lXX1rOSc0NDYgGQ0KBgQVEQMYjZROSFVWL1E+P1lFWyo3cxg4dSc1GCQlFRIYEAcQnr48KS0zHCUET2MrMkyNSFULdz0HEg4RFwwMCwocob02GQwNGxMBEVp0G2F0b1sucUADDhoVEwUQEgsuyqgMCQgKDggDCSiAG1gdVlhloDkJEw4IAg0NBAgw66cNAAECBQQCBhJqQFBPOdLEMhkJGBUBCgMQDAyU/0QCAgEDCQgFBxyAQm1aEtmsDQsSCxsGAgYUc2f6zwsI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 38.866688,
+          "top": 39.233092,
+          "middle": 48.518956,
+          "bottom": 33.797167,
+          "effectiveRatio": 0.612512
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1565
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "3aa359768cae8dbef88dd055175129ef54e47529afdf77e20adc012723209a47",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "박보승·임선남",
+      "subject": "NC 다이노스 박보승·임선남",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789970037914297.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2198135",
+      "imageCredit": "엑스포츠뉴스 고아라",
+      "creditDisplay": "사진 · 엑스포츠뉴스 고아라 (9월 21일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\nc-story\\photos\\source-2198135-0.webp",
+      "photoDate": "2026-09-21",
+      "checkedAt": "2026-10-15T20:43:45.229Z",
+      "context": "9월21일드래프트에서 박보승이 NC유니폼을 입기 시작하는 장면. 임선남단장외확인되지않은전경주요인물없음. 2페이지와서로다른실제순간이며원본의다른크롭이아니다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:41:30.986Z",
+        "width": 1200,
+        "height": 1636,
+        "bytes": 294878,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 3.1034856781916402,
+        "entropy": 7.619812712538987,
+        "effectiveDetailRatio": 0.544146,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789970037914297.webp",
+        "sha256": "5c187776fb627965aca18a86906dca3105b800c3a200e0a5e4118fabdf2892aa",
+        "perceptualHash": "10363c2c3c95d478",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CQcHCQQFBAQJDmZFIh8HBgYGBwoGAAQJBwcHDYpUBQkGCQMFAgM9r7rKbSQXBgYFEQ0PBRgMBgUFCTiFAwsFDAQFBFbcs0d8vVAQBwcOGCA5MQ0WBQUHBwMyBQkKCAsFYv+pIh9dUVElBwUREYegeCkeEgQFAwEADAYKBQpl/74sVmJ7YSMeEwMgcaBir34EEAYEAwUEDxgxBETvoAUEIpu5KWaQaBiYZJ+IoZMRHQoICQgKEjc8GauZNhkGDoXBL6IZgztDl4melywQJxIIDAkJHDYeLahbWwYjaXVmLGnFgWCoeSMcEAQPKSoLBgcFJC8jYZJOLCU2T4eqQW5MBTliIwsKBQEJHTIWKwkIGy0jT59CGgcrhNhkCREWFB0YGxcNBAgJHTh7VHJvJzEeUKc/FQQEHuzBcrirhREIFhARBggHIZ9nF1KAJDQRiKoUAgIDA4R3YXfC/+NNAhoSBgYJLkxfU2ojHyoIf4QBAQQGCY+zO6ZoG9HDORgRCggFPmyOOwxbDSYHgZQBBQYKBXeKPC5aXkDGaA0JFRUJc4NBb1RhHysGhY8bBQIGH4xpECVLQ19YgwsPBBcBSDs1XzsIKRcKXV0fIAIEMllXHnVCIBheQgUJDxkMX1EeHRkfKgwafp4iBQQIUZ8XilBLcl9dRBQIDQ4MZ1sLBhAQChYGhHcCAAkHbkROH0QYaWmaVhkJEBcLUVgkKyMmBAYVfXYVAw4DTHMvQx5pCZJhnj4MBxgOXIViZ2peLkY0cmAjChQNLCxHTw0wv8ygUBUZDRkQb7VgO05bVllmZCYmEREWMRwbAxVO2nUfEhkYFhcRj9JDHBwjMR4xLREdGgUPNRsVBQ2h6S4aMxgPBxQG0+AcDgYJGgcTDRY6pURGTBALDjvymRQ5Di0DBAdD/5IBAQICFiEVD1OTbWEdJyIJDoX+RSI2GkAEAQec+zMCAgQEBhAHAQSNkYM9OQwFENnDBwpjV2w4BAXJ0AIBAwIBMicjICg0Zg0LIRcXYf9rBgNicFZSBAmm2SwUDRceWlJQS0xNMgoLHhYdvNwUAwR4bW1TCQSVyTIfPFhoKS47OjNHTiAiR1pCuaYFAwRuTmgzBAJlx15QZEc/BAIPDw4+fYFaaiMekZcJBglaOkwgBAEzoWZtVkQ0JyUiHxM8n6GzODEYn5sKBwtLLDsdDAcGX148RFNMDAIHDQZSXUJwgVpOmXMQCwpFMzYlChQENEAkHhgYFAcIBiFjSBJlNYdY4awDCAJpIFoRDBIHNmooJikhCg0JCQ9ROWNVC3LX/7UHBQRfJFENCyMMHmUyGQsHBwsNBgdkPEILJFm2pxkIBghNLTsGJTkhDlU3CREXAQ4GERwZg0M0FE5MKQoIBBQ3MCkSRCw0BkpPCggOOzhIQBdFYyxZW0+1eSQGBBwcKRAqXUJFEjVDFw0UMCQhXSdyjDqoHDwkzWYEBiMaIAhbc2JyBjlZGhYjXlduL49Sj6wQg2vKbykCBggaDR9GR1xERjlVLCc3",
+          "top": "CQcHCQQFBAQJDmZFIh8HBgYGBwoGAAQJBwcHDYpUBQkGCQMFAgM9r7rKbSQXBgYFEQ0PBRgMBgUFCTiFAwsFDAQFBFbcs0d8vVAQBwcOGCA5MQ0WBQUHBwMyBQkKCAsFYv+pIh9dUVElBwUREYegeCkeEgQFAwEADAYKBQpl/74sVmJ7YSMeEwMgcaBir34EEAYEAwUEDxgxBETvoAUEIpu5KWaQaBiYZJ+IoZMRHQoICQgKEjc8GauZNhkGDoXBL6IZgztDl4melywQJxIIDAkJHDYeLahbWwYjaXVmLGnFgWCoeSMcEAQPKSoLBgcFJC8jYZJOLCU2T4eqQW5MBTliIwsKBQEJHTIWKwkIGy0jT59CGgcrhNhkCREWFB0YGxcNBAgJHTh7VHJvJzEeUKc/FQQEHuzBcrirhREIFhARBggHIZ9nF1KAJDQRiKoUAgIDA4R3YXfC/+NNAhoSBgYJLkxfU2ojHyoIf4QBAQQGCY+zO6ZoG9HDORgRCggFPmyOOwxbDSYHgZQBBQYKBXeKPC5aXkDGaA0JFRUJc4NBb1RhHysGhY8bBQIGH4xpECVLQ19YgwsPBBcBSDs1XzsI",
+          "middle": "HyoIf4QBAQQGCY+zO6ZoG9HDORgRCggFPmyOOwxbDSYHgZQBBQYKBXeKPC5aXkDGaA0JFRUJc4NBb1RhHysGhY8bBQIGH4xpECVLQ19YgwsPBBcBSDs1XzsIKRcKXV0fIAIEMllXHnVCIBheQgUJDxkMX1EeHRkfKgwafp4iBQQIUZ8XilBLcl9dRBQIDQ4MZ1sLBhAQChYGhHcCAAkHbkROH0QYaWmaVhkJEBcLUVgkKyMmBAYVfXYVAw4DTHMvQx5pCZJhnj4MBxgOXIViZ2peLkY0cmAjChQNLCxHTw0wv8ygUBUZDRkQb7VgO05bVllmZCYmEREWMRwbAxVO2nUfEhkYFhcRj9JDHBwjMR4xLREdGgUPNRsVBQ2h6S4aMxgPBxQG0+AcDgYJGgcTDRY6pURGTBALDjvymRQ5Di0DBAdD/5IBAQICFiEVD1OTbWEdJyIJDoX+RSI2GkAEAQec+zMCAgQEBhAHAQSNkYM9OQwFENnDBwpjV2w4BAXJ0AIBAwIBMicjICg0Zg0LIRcXYf9rBgNicFZSBAmm2SwUDRceWlJQS0xNMgoLHhYdvNwUAwR4bW1TCQSVyTIfPFho",
+          "bottom": "FiEVD1OTbWEdJyIJDoX+RSI2GkAEAQec+zMCAgQEBhAHAQSNkYM9OQwFENnDBwpjV2w4BAXJ0AIBAwIBMicjICg0Zg0LIRcXYf9rBgNicFZSBAmm2SwUDRceWlJQS0xNMgoLHhYdvNwUAwR4bW1TCQSVyTIfPFhoKS47OjNHTiAiR1pCuaYFAwRuTmgzBAJlx15QZEc/BAIPDw4+fYFaaiMekZcJBglaOkwgBAEzoWZtVkQ0JyUiHxM8n6GzODEYn5sKBwtLLDsdDAcGX148RFNMDAIHDQZSXUJwgVpOmXMQCwpFMzYlChQENEAkHhgYFAcIBiFjSBJlNYdY4awDCAJpIFoRDBIHNmooJikhCg0JCQ9ROWNVC3LX/7UHBQRfJFENCyMMHmUyGQsHBwsNBgdkPEILJFm2pxkIBghNLTsGJTkhDlU3CREXAQ4GERwZg0M0FE5MKQoIBBQ3MCkSRCw0BkpPCggOOzhIQBdFYyxZW0+1eSQGBBwcKRAqXUJFEjVDFw0UMCQhXSdyjDqoHDwkzWYEBiMaIAhbc2JyBjlZGhYjXlduL49Sj6wQg2vKbykCBggaDR9GR1xERjlVLCc3"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 28.222444,
+          "top": 28.875449,
+          "middle": 31.277945,
+          "bottom": 26.573486,
+          "effectiveRatio": 0.544146
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1636
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5c187776fb627965aca18a86906dca3105b800c3a200e0a5e4118fabdf2892aa",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "이호준",
+      "subject": "NC 다이노스 이호준",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0901/1788265266923864.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2190865",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "creditDisplay": "사진 · 엑스포츠뉴스 김한준 (9월 1일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\nc-story\\photos\\source-2190865-0.webp",
+      "photoDate": "2026-09-01",
+      "checkedAt": "2026-10-15T20:43:45.229Z",
+      "context": "9월1일창원KIA전7회말경기를지켜보는이호준NC감독단독자료사진. 본문9월22일신인평가인터뷰사진으로오인시키지않음.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:41:31.632Z",
+        "width": 1200,
+        "height": 1562,
+        "bytes": 180976,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.308996260989703,
+        "entropy": 7.339037855039351,
+        "effectiveDetailRatio": 0.469384,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0901/1788265266923864.webp",
+        "sha256": "c863055099ec3c66b24cd05a7815ed03ab5d5ebfeef66b92064d7e2af6dac972",
+        "perceptualHash": "dd322626b52a9498",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "NB0GDipEZkYrpnQLCmyYdjkOYH2fP5IrWigqBggaVSwTBAwMN1YptmQYer5XT1hSbS1kdj1bOSMuBxwVV00iERo5WzpalUNAm1ctP2l8PwwINlJRGiwsCCAUKEg5KjE/KitddGppcSolT1RGNjEWR0hARkwjIS1EEwwyNTAVChUPOFxlO0YlByMiCig3OFdfQ0M2Nj4/GBQXFxkaGgcIFxYZJRQaJyZDLg5OMTgNDw8QDw0eAQECAwQEIGCZFQIOFkIeEDtMOipfPFstBgICAwEqAQECAwQBY5idnAkOEUZbYoFaipCYMmBQCAIBAgE4AQMDGF59iIxQtSoXQzddeUIdaHNJLGJYAgECAgNMAwIflK2QhoQcfIUXOUI3HzdKQRcsOWdEAhUmMgpiARF/nR8oJS5HWI4vIT4wNR8UJy0USzdgPWpVaTWWAjh6O0UfOkApT5M6H0BDRQ0xKwQqNSonCRkTKmJRASVpPREwFh2JXpEqFyU8RDZSW09aW1VgRGBHbx01ARJfYywHIWkle3YeHREUGSY6WmFIJzoUChQQGW58HBRIjz02QQ16YjQRGSQeFQcYHA8OHRQvKgoFDDaJSkEqZFg+KiFRTk8aIBkyMUNRQ0JANiUqODQtMj6KGSklEEQRHUVZFzU4PUhCMCsVDwwEBA0QCwkMEClcPCUQFkw4NFUWDRAJCAYaHCM4OTo6PDkxKyonJTpyAhsLERcvDhoQCwYRExQRFSIJBAkTDg8gAiIOEDF1jHYcOWd+XV9lHzZmIQImgXKUUVkZAy6fNH0qhxpbio5HVHF2PxBabHNXZgN4ixhgZ2tbErJBbxKVS2pbeoBFUFdubjdONSRzYgF1Kx1IH2pfS5cvfnZpuEh8mEmLdkAWfmQ8QkJcah54jBaNMVqino1TfjYilwh+VrtebWRZMZJ7Y2dUXzRYbLdpo2ZJEYiPpxt8fxKGAjuVlTCNhH9tLjR1LEcOeiYAPJqFWX8cXVB8JECYAgEUEwEFHQYPCAgRQiEDEgcCBxYYEg0DChQVCWa1HAQfIB8fHR4cHB8lJh8dIB8hICEgISAiHhwSMa6lLR8yKSsoKSkqKSssLSMnJycpKyklJSciIiAPft92RRgQDAsMDQ0NAQMKDhEICgMEAgQJDQIDBCFEtrpBPlMTAQIBAgENLTAUHxkICgsHAwoGHgsJCxmA4H8kMkgVCQIBAwItTzA5BiAWFwgKAg0gERQJA0PkwzUJIToOEwkBAQ1cJDgzHgsEBAoHFgkBHgcMEJnyZg8DK0c6DAEBAjBNESwmJgMBBwgLAw8JCAgOQNS2KwYDVDYNAQIDASpFIDxLMggCAQUFDggCCAcObd1/GwYDCwMCAQEBAS5mMDdjZA8AAQUEBAIFBgcendNVFAgDCwMCBQMCBSlkORNUdhYBBQUCAQUEBAk9z7ovDAkDCgMCAgMDAShoORFMeBsBAwICAwQFAgl59H4MCQ0FWU1RDAEEATRzPBBRgyQDAwIEAwQCACLM4DoMCxAJ",
+          "top": "NB0GDipEZkYrpnQLCmyYdjkOYH2fP5IrWigqBggaVSwTBAwMN1YptmQYer5XT1hSbS1kdj1bOSMuBxwVV00iERo5WzpalUNAm1ctP2l8PwwINlJRGiwsCCAUKEg5KjE/KitddGppcSolT1RGNjEWR0hARkwjIS1EEwwyNTAVChUPOFxlO0YlByMiCig3OFdfQ0M2Nj4/GBQXFxkaGgcIFxYZJRQaJyZDLg5OMTgNDw8QDw0eAQECAwQEIGCZFQIOFkIeEDtMOipfPFstBgICAwEqAQECAwQBY5idnAkOEUZbYoFaipCYMmBQCAIBAgE4AQMDGF59iIxQtSoXQzddeUIdaHNJLGJYAgECAgNMAwIflK2QhoQcfIUXOUI3HzdKQRcsOWdEAhUmMgpiARF/nR8oJS5HWI4vIT4wNR8UJy0USzdgPWpVaTWWAjh6O0UfOkApT5M6H0BDRQ0xKwQqNSonCRkTKmJRASVpPREwFh2JXpEqFyU8RDZSW09aW1VgRGBHbx01ARJfYywHIWkle3YeHREUGSY6WmFIJzoUChQQGW58HBRIjz02QQ16YjQRGSQeFQcYHA8OHRQvKgoFDDaJ",
+          "middle": "ASVpPREwFh2JXpEqFyU8RDZSW09aW1VgRGBHbx01ARJfYywHIWkle3YeHREUGSY6WmFIJzoUChQQGW58HBRIjz02QQ16YjQRGSQeFQcYHA8OHRQvKgoFDDaJSkEqZFg+KiFRTk8aIBkyMUNRQ0JANiUqODQtMj6KGSklEEQRHUVZFzU4PUhCMCsVDwwEBA0QCwkMEClcPCUQFkw4NFUWDRAJCAYaHCM4OTo6PDkxKyonJTpyAhsLERcvDhoQCwYRExQRFSIJBAkTDg8gAiIOEDF1jHYcOWd+XV9lHzZmIQImgXKUUVkZAy6fNH0qhxpbio5HVHF2PxBabHNXZgN4ixhgZ2tbErJBbxKVS2pbeoBFUFdubjdONSRzYgF1Kx1IH2pfS5cvfnZpuEh8mEmLdkAWfmQ8QkJcah54jBaNMVqino1TfjYilwh+VrtebWRZMZJ7Y2dUXzRYbLdpo2ZJEYiPpxt8fxKGAjuVlTCNhH9tLjR1LEcOeiYAPJqFWX8cXVB8JECYAgEUEwEFHQYPCAgRQiEDEgcCBxYYEg0DChQVCWa1HAQfIB8fHR4cHB8lJh8dIB8hICEgISAiHhwSMa6l",
+          "bottom": "VrtebWRZMZJ7Y2dUXzRYbLdpo2ZJEYiPpxt8fxKGAjuVlTCNhH9tLjR1LEcOeiYAPJqFWX8cXVB8JECYAgEUEwEFHQYPCAgRQiEDEgcCBxYYEg0DChQVCWa1HAQfIB8fHR4cHB8lJh8dIB8hICEgISAiHhwSMa6lLR8yKSsoKSkqKSssLSMnJycpKyklJSciIiAPft92RRgQDAsMDQ0NAQMKDhEICgMEAgQJDQIDBCFEtrpBPlMTAQIBAgENLTAUHxkICgsHAwoGHgsJCxmA4H8kMkgVCQIBAwItTzA5BiAWFwgKAg0gERQJA0PkwzUJIToOEwkBAQ1cJDgzHgsEBAoHFgkBHgcMEJnyZg8DK0c6DAEBAjBNESwmJgMBBwgLAw8JCAgOQNS2KwYDVDYNAQIDASpFIDxLMggCAQUFDggCCAcObd1/GwYDCwMCAQEBAS5mMDdjZA8AAQUEBAIFBgcendNVFAgDCwMCBQMCBSlkORNUdhYBBQUCAQUEBAk9z7ovDAkDCgMCAgMDAShoORFMeBsBAwICAwQFAgl59H4MCQ0FWU1RDAEEATRzPBBRgyQDAwIEAwQCACLM4DoMCxAJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 15.674607,
+          "top": 13.548024,
+          "middle": 17.962104,
+          "bottom": 15.800645,
+          "effectiveRatio": 0.469384
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1562
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "c863055099ec3c66b24cd05a7815ed03ab5d5ebfeef66b92064d7e2af6dac972",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    },
+    {
+      "name": "박보승·임선남",
+      "subject": "NC 다이노스 박보승·임선남",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789974586048309.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2198198",
+      "imageCredit": "엑스포츠뉴스 고아라",
+      "creditDisplay": "사진 · 엑스포츠뉴스 고아라 (9월 21일 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\nc-story\\photos\\source-2198198-2.webp",
+      "photoDate": "2026-09-21",
+      "checkedAt": "2026-10-15T20:43:45.229Z",
+      "context": "9월21일드래프트에서 유니폼착용을마치고돌아선박보승과임선남단장. 앞면단추채우는2페이지/옷입기시작3페이지와독립된실제순간. 10월21일교육현장사진이아님.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-15T20:41:29.821Z",
+        "width": 1200,
+        "height": 1565,
+        "bytes": 255746,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 2.606563953973635,
+        "entropy": 7.124802191043273,
+        "effectiveDetailRatio": 0.546856,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/0921/1789974586048309.webp",
+        "sha256": "59cff8841be7cb543f067c43a80e6ec574b397078f5a108ae8460524de9baacf",
+        "perceptualHash": "559d1d18363e3cfc",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "QUtWX2Zubm51dk1if4QvA0p5cyppQV8jalFkEAVdMCQYDgMEBQcGFhdIIwkZGQRHBAQeXTwEFwQMBQQBBAQEBAMEAwUHC1dicXs6EAQECA0MEgwEAwUGBQQEBAMDAwMDAwYGT5lVoX5rHAUKDgUJCwsRAwMEBAQEAwMDAgMDAwQUnpFYRoJnIAYMDRAMEh0XDwQEBQQEDQMDAwIDAgpwykkMU3JgGgkOAyweGB4JFAYGBAQEEgoEBAQDBDS5fyxNWmBQDgkFJw8fCgcPAgQDBAICDQ0GBQQDDrnoVWiQMjkxBAIpZSklJCMRAQMBBAICDAYEBAIk4v9hEw93t7rDUS50W4oTBhUgEgIMAyEEBQQDAif59zcPAQkHO4LS/y9eB6VxO0t8d2JZdHAdBgYEE+bYGTk1CkQlAwMMsY9FRkVqEVRaZWZcZYdqBQQDn99JFjo0EklBIQQETG5Tk59NK1i7cUcOD2FlBAM91T4ULjw7MkZOCQddtrG0WA4FAgJNjpBTGV93BAN5xyovPhUqVh4uB1T/4YVCAwUFCQIEJ1+ye29kCQaQqRZRQmQwJ1BpKcXZGQkDBg8HAgQBBAdUpXg+CwyVnkAiGUpsXB9MC9SXCgoNEAoIBgEIBgYEFVcZCAupoxYsZ0tpgiJ0Rtx4ABIJEAsIBAkJBQMGFjIhEgufkypsHJU+Yo4kiehGERQMCw4CBg8GBQgEGEImER+la0wXRU9dEHIQ6M0bHBIIEQwGDgkBBAMNFEs0ASiYYEtkIWkdbl15/2IUEg0XDQIKCAMCAQgNCFdKAyaTXsQgfnEMXQ3o1xIWHhYWCwUHBAICBQYLBlZ2ByaJe2nUNwUEAYH/VhAQMA8NCQMABwYFChcJEFHAEBpJf1F6IggBBrvdIRcgFxgLAQQKBwEJDgURD0A+DgIZRnudHQQJAs7WJRVNHwcLBwYLCQQDBAkKEk89FQ8OCHSiMQkDNuylGFtSOQ8IBgMGCwoIBQYLIlEpDgkKC3OeLAcOYeGDMbgzPgsGCQkLCQcJCQgHUWUeFQ4LC2CWNAYEgOJpnoSUHA4QCQwKCQkICwYxij4bCBURDG+WJAgJl+wm3B2jDxULAwoKBwcCAwNgcwkgEQ0ICXx3DAoPquxe51mrCRMFAwoQBwIGCgdpZiAyHhUQKHNlFQcEMspejo+mAxAHAg8PAgMICgOHjysjUltXVV9pIwQIKIh4V5SkDhAHBBALAgMNBwJ7liIqZmducXM2DA0IC0BjQIKyIBELDQ8IAgUKBQFtqWRGGxYsNTgOGzVBQ1dhNjN5QR8lKCYgHB0XEgpsznMYCg0OBQIkNhsUX21CcJ/XTAwFChEYIB8RECyb1U4BEg8FAgEHHzttZEt8HFzicBgaHh4UAgsMCE7lpgABAQABAQEFAggVaCpPCUzSgQUECRgXDREID0bZlQIBCAUFBQMFBAgNPRBJEj/RigwGEBMICg0OBjPaoAUFCAQEBAIFBAYENTU+IjDQmAoEEhYLDwwgbGPNxg8O",
+          "top": "QUtWX2Zubm51dk1if4QvA0p5cyppQV8jalFkEAVdMCQYDgMEBQcGFhdIIwkZGQRHBAQeXTwEFwQMBQQBBAQEBAMEAwUHC1dicXs6EAQECA0MEgwEAwUGBQQEBAMDAwMDAwYGT5lVoX5rHAUKDgUJCwsRAwMEBAQEAwMDAgMDAwQUnpFYRoJnIAYMDRAMEh0XDwQEBQQEDQMDAwIDAgpwykkMU3JgGgkOAyweGB4JFAYGBAQEEgoEBAQDBDS5fyxNWmBQDgkFJw8fCgcPAgQDBAICDQ0GBQQDDrnoVWiQMjkxBAIpZSklJCMRAQMBBAICDAYEBAIk4v9hEw93t7rDUS50W4oTBhUgEgIMAyEEBQQDAif59zcPAQkHO4LS/y9eB6VxO0t8d2JZdHAdBgYEE+bYGTk1CkQlAwMMsY9FRkVqEVRaZWZcZYdqBQQDn99JFjo0EklBIQQETG5Tk59NK1i7cUcOD2FlBAM91T4ULjw7MkZOCQddtrG0WA4FAgJNjpBTGV93BAN5xyovPhUqVh4uB1T/4YVCAwUFCQIEJ1+ye29kCQaQqRZRQmQwJ1BpKcXZGQkDBg8HAgQBBAdUpXg+",
+          "middle": "BAM91T4ULjw7MkZOCQddtrG0WA4FAgJNjpBTGV93BAN5xyovPhUqVh4uB1T/4YVCAwUFCQIEJ1+ye29kCQaQqRZRQmQwJ1BpKcXZGQkDBg8HAgQBBAdUpXg+CwyVnkAiGUpsXB9MC9SXCgoNEAoIBgEIBgYEFVcZCAupoxYsZ0tpgiJ0Rtx4ABIJEAsIBAkJBQMGFjIhEgufkypsHJU+Yo4kiehGERQMCw4CBg8GBQgEGEImER+la0wXRU9dEHIQ6M0bHBIIEQwGDgkBBAMNFEs0ASiYYEtkIWkdbl15/2IUEg0XDQIKCAMCAQgNCFdKAyaTXsQgfnEMXQ3o1xIWHhYWCwUHBAICBQYLBlZ2ByaJe2nUNwUEAYH/VhAQMA8NCQMABwYFChcJEFHAEBpJf1F6IggBBrvdIRcgFxgLAQQKBwEJDgURD0A+DgIZRnudHQQJAs7WJRVNHwcLBwYLCQQDBAkKEk89FQ8OCHSiMQkDNuylGFtSOQ8IBgMGCwoIBQYLIlEpDgkKC3OeLAcOYeGDMbgzPgsGCQkLCQcJCQgHUWUeFQ4LC2CWNAYEgOJpnoSUHA4QCQwKCQkICwYxij4b",
+          "bottom": "DgIZRnudHQQJAs7WJRVNHwcLBwYLCQQDBAkKEk89FQ8OCHSiMQkDNuylGFtSOQ8IBgMGCwoIBQYLIlEpDgkKC3OeLAcOYeGDMbgzPgsGCQkLCQcJCQgHUWUeFQ4LC2CWNAYEgOJpnoSUHA4QCQwKCQkICwYxij4bCBURDG+WJAgJl+wm3B2jDxULAwoKBwcCAwNgcwkgEQ0ICXx3DAoPquxe51mrCRMFAwoQBwIGCgdpZiAyHhUQKHNlFQcEMspejo+mAxAHAg8PAgMICgOHjysjUltXVV9pIwQIKIh4V5SkDhAHBBALAgMNBwJ7liIqZmducXM2DA0IC0BjQIKyIBELDQ8IAgUKBQFtqWRGGxYsNTgOGzVBQ1dhNjN5QR8lKCYgHB0XEgpsznMYCg0OBQIkNhsUX21CcJ/XTAwFChEYIB8RECyb1U4BEg8FAgEHHzttZEt8HFzicBgaHh4UAgsMCE7lpgABAQABAQEFAggVaCpPCUzSgQUECRgXDREID0bZlQIBCAUFBQMFBAgNPRBJEj/RigwGEBMICg0OBjPaoAUFCAQEBAIFBAYENTU+IjDQmAoEEhYLDwwgbGPNxg8O"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.976771,
+          "top": 29.307316,
+          "middle": 28.643626,
+          "bottom": 22.107708,
+          "effectiveRatio": 0.546856
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1565
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "59cff8841be7cb543f067c43a80e6ec574b397078f5a108ae8460524de9baacf",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자 제공 계약 권한을 해당 실제 원문 사진에 연결한다. 공개 URL을 무료 이용권으로 추정하지 않는다."
+      }
+    }
+  ]
+}
