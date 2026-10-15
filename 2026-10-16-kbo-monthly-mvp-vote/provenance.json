@@ -1,0 +1,273 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "9~10월 MVP 후보 6명, 팬 투표는 19일까지",
+  "issueKey": "kbo-2026-sep-oct-monthly-mvp-vote",
+  "checkedAt": "2026-10-15T19:22:35.968Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12194",
+  "corroboratingUrls": [
+    "https://www.yna.co.kr/view/AKR20261014065500007",
+    "https://www.mk.co.kr/news/sports/12175438",
+    "https://nwww.newsis.com/view/NISX20261014_0003825200"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12194",
+      "role": "KBO 공식 2026년10월14일 후보 발표. 선수6명·9~10월 기간 성적·팬 투표10월14~19일·슈퍼 SOL·기자단 합산을 직접 확인했다.",
+      "httpStatus": 200,
+      "publicationDateEvidence": "직접 받은 HTML .detail 본문 2026. 10. 14. (수). 정확한 발표 시각은 추정하지 않았다."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261014065500007",
+      "role": "2026-10-14 10:22 연합뉴스 원문. 후보 명단·최원준 타격4부문·힐리어드14홈런40타점·데이비슨12홈런장타율.806·투표를 대조했다."
+    },
+    {
+      "url": "https://www.mk.co.kr/news/sports/12175438",
+      "role": "2026-10-14 11:40 MK스포츠 원문. 아빌라·대니엘 상세성적·힐리어드7월 수상 이력·데이비슨 기간 성적을 대조했다."
+    },
+    {
+      "url": "https://nwww.newsis.com/view/NISX20261014_0003825200",
+      "role": "2026-10-14 10:46:36 뉴시스 원문. 아빌라 기간 성적과9월4일 완봉·29일 완투,대니엘54탈삼진,조병현8경기 연속 세이브를 대조했다."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "person": "최원준",
+      "team": "KT 위즈",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947599191728.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207326",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "photoDate": null,
+      "displayCredit": "사진 · 엑스포츠뉴스 DB (자료사진)",
+      "captionEvidence": "동일 월간 MVP 기사 최원준 단락 뒤에 공개된 실사진이다. 원문 말미 통합 표기는 사진=엑스포츠뉴스 DB / KBO. KBO는 마지막 후보 안내 이미지이며 선택 사진에는 엑스포츠뉴스 워터마크가 있다.",
+      "visualReview": "KT 검정 유니폼·등번호 3·최원준 한글 마킹·타격 팔로스루·얼굴 측면 확인. 단일 선수 중심 세로사진. 정확한 촬영일 미확인이므로 자료사진으로 표시한다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test4-mvp\\research-photos\\batter-choi-mvp.webp",
+      "checkedAt": "2026-10-15T19:21:17.220Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947599191728.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1450,
+        "bytes": 223072,
+        "coverScale": 0.931,
+        "effectiveSharpness": 2.9401988650891426,
+        "effectiveDetailRatio": 0.507115,
+        "perceptualHash": "884ec5490b2c8458",
+        "sha256": "278a929c25fa649bc482f3e5bc9376bf970943362020c868db991c29feae048d"
+      },
+      "sha256": "278a929c25fa649bc482f3e5bc9376bf970943362020c868db991c29feae048d",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 제공한 계약 권한을 이 원문 실제 사진 사용 근거로 기록한다. 공개 URL만으로 사용권을 추정하지 않는다."
+      },
+      "photoDateLabel": "자료사진"
+    },
+    {
+      "name": "아빌라",
+      "team": "SSG 랜더스",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947586237831.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207326",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "creditDisplay": "사진 · 엑스포츠뉴스 DB (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test4-mvp\\research-photos\\xports-candidate-1.webp",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T19:21:26.803Z",
+      "context": "빨간 SSG 유니폼을 입고 투구하는 페드로 아빌라의 세로 경기 자료사진. MVP 기사 아빌라 설명과 함께 게재된 원본이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947586237831.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1549,
+        "bytes": 198542,
+        "coverScale": 0.9,
+        "effectiveSharpness": 1.7810533183291692,
+        "effectiveDetailRatio": 0.50766,
+        "perceptualHash": "74f0b8634697adeb",
+        "sha256": "5acc825d859ed5093c01dc8ee449f170615bee5b916b49c7058e9d959d7f635b"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "5acc825d859ed5093c01dc8ee449f170615bee5b916b49c7058e9d959d7f635b",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "photoDateLabel": "자료사진"
+    },
+    {
+      "name": "조병현",
+      "team": "SSG 랜더스",
+      "sourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947593126708.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2207326",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "creditDisplay": "사진 · 엑스포츠뉴스 DB (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test4-mvp\\research-photos\\xports-candidate-2.webp",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T19:21:26.803Z",
+      "context": "빨간 SSG 유니폼을 입고 투구하는 조병현의 세로 경기 자료사진. MVP 기사 조병현 설명과 함께 게재된 원본이다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1014/1791947593126708.webp",
+        "format": "webp",
+        "width": 1200,
+        "height": 1372,
+        "bytes": 203460,
+        "coverScale": 0.984,
+        "effectiveSharpness": 2.2642734338113946,
+        "effectiveDetailRatio": 0.510984,
+        "perceptualHash": "0a3b39291b1a1149",
+        "sha256": "dc05e3755b9fffa7cfed12a1cc7688152069383e0377a6c8d7ef09174878d4af"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "dc05e3755b9fffa7cfed12a1cc7688152069383e0377a6c8d7ef09174878d4af",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "photoDateLabel": "자료사진"
+    },
+    {
+      "name": "대니엘",
+      "team": "KT 위즈",
+      "sourceUrl": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1012924_2027758_9581.jpg",
+      "sourcePageUrl": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012924",
+      "imageCredit": "KT 위즈 제공",
+      "creditDisplay": "사진 · KT 위즈 제공 (자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test4-mvp\\research-photos\\daniel.jpg",
+      "photoDate": null,
+      "checkedAt": "2026-10-15T19:21:26.803Z",
+      "context": "KT 유니폼을 입고 투구하는 데이비스 대니엘의 경기 자료사진. SPOTV 원문 캡션이 데이비스 대니엘과 KT 위즈 제공을 명시한다. 중앙 4:5 crop에서 얼굴과 투구 상체가 포함된다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202610/1012924_2027758_9581.jpg",
+        "format": "jpeg",
+        "width": 4000,
+        "height": 2668,
+        "bytes": 1409441,
+        "coverScale": 0.506,
+        "effectiveSharpness": 1.261857232373287,
+        "effectiveDetailRatio": 0.569303,
+        "perceptualHash": "2f33b333130f1f1f",
+        "sha256": "7d81bd1d9d9b93b8473e24c6580ae39880f1ad280c5ad4705dd7563d8610ffd5"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "7d81bd1d9d9b93b8473e24c6580ae39880f1ad280c5ad4705dd7563d8610ffd5",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "공개 URL을 무료 사용권으로 추정하지 않으며 사용자 제공 권한을 근거로 수집한다."
+      },
+      "photoDateLabel": "자료사진"
+    },
+    {
+      "person": "샘 힐리어드",
+      "team": "KT 위즈",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/17/2026071701001072800067521_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-17/202607170100107280006752",
+      "imageCredit": "스포츠조선 박재만",
+      "photoDate": "2026-07-17",
+      "displayCredit": "사진 · 스포츠조선 박재만 (7월 17일 자료사진)",
+      "captionEvidence": "7월 17일 잠실 LG-KT 경기 5회초 2사 1루 KT 힐리어드가 투런포를 날린 뒤 환호. 원문 캡션에 잠실=박재만 기자 /2026.07.17/ 명시.",
+      "visualReview": "KT 검정 유니폼의 좌타자 힐리어드 얼굴·헬멧·붉은 보호대·환호 동작 확인. 뒤쪽 LG 포수보다 주인공이 상단 중앙에 크고 선명하게 보임. 9~10월 경기사진으로 표현하지 않는다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test4-mvp\\research-photos\\batter-hilliard.jpg",
+      "checkedAt": "2026-10-15T19:21:17.220Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.sportschosun.com/article/html/2026/07/17/2026071701001072800067521_w.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1717,
+        "bytes": 1256325,
+        "coverScale": 0.9,
+        "effectiveSharpness": 1.8523816278186238,
+        "effectiveDetailRatio": 0.472508,
+        "perceptualHash": "dc5ad74e2d2c4757",
+        "sha256": "216abf6281959d1bc2ff2fa6ca213f003882947b78019db803e24a07d1fe5432"
+      },
+      "sha256": "216abf6281959d1bc2ff2fa6ca213f003882947b78019db803e24a07d1fe5432",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 제공한 계약 권한을 이 원문 실제 사진 사용 근거로 기록한다. 공개 URL만으로 사용권을 추정하지 않는다."
+      },
+      "photoDateLabel": "2026-07-17 자료사진"
+    },
+    {
+      "person": "맷 데이비슨",
+      "team": "키움 히어로즈",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/08/13/2026081301000802600049741_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-08-13/202608130100080260004974",
+      "imageCredit": "스포츠조선 박재만",
+      "photoDate": "2026-08-13",
+      "displayCredit": "사진 · 스포츠조선 박재만 (8월 13일 훈련 자료사진)",
+      "captionEvidence": "8월 13일 고척 키움-LG 경기 전 키움 데이비슨 타격 훈련. 원문 캡션에 고척=박재만 기자 /2026.08.13/ 명시.",
+      "visualReview": "키움 버건디색 훈련복을 입은 데이비슨이 배팅 케이지 앞에서 방망이를 들고 있음. 얼굴과 수염·백인 타자 신체·실제 훈련 장면 확인. NC 유니폼 아님. 9~10월 경기사진으로 표현하지 않는다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-kbo-test4-mvp\\research-photos\\batter-davidson.jpg",
+      "checkedAt": "2026-10-15T19:21:17.220Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.sportschosun.com/article/html/2026/08/13/2026081301000802600049741_w.jpg",
+        "format": "jpeg",
+        "width": 1200,
+        "height": 1635,
+        "bytes": 1415522,
+        "coverScale": 0.9,
+        "effectiveSharpness": 1.3642517350635461,
+        "effectiveDetailRatio": 0.454253,
+        "perceptualHash": "999999ab3319cae4",
+        "sha256": "ac6f34acdac7a3a3fb814a47acca6efb26202a96569c22b032ec8e8157224e48"
+      },
+      "sha256": "ac6f34acdac7a3a3fb814a47acca6efb26202a96569c22b032ec8e8157224e48",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "fit": "cover",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "사용자가 제공한 계약 권한을 이 원문 실제 사진 사용 근거로 기록한다. 공개 URL만으로 사용권을 추정하지 않는다."
+      },
+      "photoDateLabel": "2026-08-13 자료사진"
+    }
+  ]
+}
