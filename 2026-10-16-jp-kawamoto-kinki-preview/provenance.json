@@ -1,0 +1,499 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "가와모토 7이닝 무실점, 긴키대회 향하는 고2 좌완",
+  "issueKey": "highschool-jp-2026-kawamoto-october-scoreless-kinki-preview",
+  "checkedAt": "2026-10-16T11:14:27.546Z",
+  "sourceUrl": "https://npb.jp/junior/2021/roster_l.html",
+  "corroboratingUrls": [
+    "https://www.hb-nippon.com/articles/17984",
+    "https://www.nikkansports.com/baseball/highschool/news/202610030001551.html",
+    "https://baseball.omyutech.com/playerTop.action?playerId=3105063",
+    "https://npb.jp/junior/2021/roster_l.html",
+    "https://www.japan-baseball.jp/jp/profile/202405007.html",
+    "https://www.nikkansports.com/baseball/highschool/news/202603310001266.html?mode=all",
+    "https://www.jhbf.or.jp/topics/detail/621",
+    "https://www.hb-nippon.com/games/51298"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.hb-nippon.com/articles/17984",
+      "publishedAt": "2026-10-03",
+      "role": "primary-current-performance-report",
+      "note": "오사카도인 7-0 리세이샤, 가와모토 2학년·7이닝4피안타8탈삼진무실점.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.nikkansports.com/baseball/highschool/news/202610030001551.html",
+      "publishedAt": "2026-10-03T19:08:00+09:00",
+      "role": "firsthand-current-match-and-team-speed-gun",
+      "note": "당일 팀 스피드건 최고154km/h. 다른 매체의 계측과 차이가 있어 기사에는 계측 주체를 명시한다.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://baseball.omyutech.com/playerTop.action?playerId=3105063",
+      "publishedAt": null,
+      "role": "match-score-and-spring-statistics",
+      "note": "10월3일7IP4H8K5BB0R,3월센바츠4G24IP36K ERA1.50. 플랫폼의 수집 경기만 포함하는 경력합계는 사용하지 않는다.",
+      "localFetchError": "TypeError: fetch failed",
+      "browserReadVerified": true
+    },
+    {
+      "url": "https://npb.jp/junior/2021/roster_l.html",
+      "publishedAt": null,
+      "role": "official-2021-junior-career-background",
+      "note": "2021세이부라이온스주니어11번川本晴大초6좌투좌타. 현재10월경기나진로발표의근거가아니며본문4쪽의초등학교경력만뒷받침한다.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.japan-baseball.jp/jp/profile/202405007.html",
+      "publishedAt": null,
+      "role": "official-identity-u15-background",
+      "note": "독음かわもとはると·좌투좌타·2024 U15월드컵대표경력. 현고교와192cm신장은2026직접취재프로필로별도확인.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.nikkansports.com/baseball/highschool/news/202603310001266.html?mode=all",
+      "publishedAt": "2026-04-01T05:30:00+09:00",
+      "role": "spring-final-background",
+      "note": "3월31일센바츠결승9이닝6피안타3실점15K완투승·7-3우승.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.jhbf.or.jp/topics/detail/621",
+      "publishedAt": "2026-09-15",
+      "role": "official-next-tournament-schedule",
+      "note": "2026추계긴키대회10월17일개막·와카사스타디움교토.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.hb-nippon.com/games/51298",
+      "publishedAt": null,
+      "role": "next-opponent-schedule",
+      "note": "10월17일09:00오사카도인-류코쿠대헤이안1회전. 아직경기전이며가와모토선발확정으로쓰지않는다.",
+      "httpStatus": 200
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "센바츠 우승을 확정하고 환호하는 가와모토",
+      "subject": "가와모토 하루토",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/highschool/photonews/photonews_nsInc_202603310001266-7.html",
+      "sourceArticleUrl": "https://www.nikkansports.com/baseball/highschool/news/202603310001266.html?mode=all",
+      "sourceUrl": "https://www.nikkansports.com/baseball/highschool/news/img/202603310001266-w1300_7.jpg",
+      "imageCredit": "닛칸스포츠 · 우에다 히로시(上田博志)",
+      "creditDisplay": "사진 · 닛칸스포츠 · 우에다 히로시(上田博志) (2026.03.31 자료사진)",
+      "photoDate": "2026-03-31",
+      "photoDateLabel": "2026-03-31 자료사진",
+      "checkedAt": "2026-10-16T11:06:24.798Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-kawamoto-story\\photos\\photo-ab763c90f72a.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:01:34.867Z",
+        "width": 1300,
+        "height": 1868,
+        "bytes": 281207,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6630148756029963,
+        "entropy": 7.482259831536794,
+        "effectiveDetailRatio": 0.551518,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.nikkansports.com/baseball/highschool/news/img/202603310001266-w1300_7.jpg",
+        "sha256": "ab763c90f72a96ae29d7f86664a41c9774be282ac675e354ee27bfa9d8264e34",
+        "perceptualHash": "4a222e8ea56436cc",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "I0k6ZCVJKjYKIFQheFFvSmIgHRFgTUpNXXFFLhsmHwcYGENCHzcYKGFRbzmFL0U8P2J2QUhDPhFshFaCRD04QTcnFgsdLRFCIypCVwMvRkNiPh9oMj1FER4NLCc6Q0QsKBkrGxgtTEEmEAcdDxYVDyQTERcVIyglHTgmFyNYeJIWXh0cDzEiRQ5LIUA7EAcKBhEtLioGZiVMZExwZ8DNDFAVRBRzXoAyeC0WQD87RjNRAyQcmlJ6eE5HMjzDQU1jHVBvWJ1WXiVzbCZGSZVXWj06ioeFXkMMXj5zZHk7oDVsfoGiYVhj28U0KF+zdIWJOFFLSTdvZ2NIJiaZX2pAlzPdWFBwJfmUHhsrN0ssay0zeZmNGTgwRZJwjDBCywOjhX5ks37AGhMYFhYWUyMqVZd5TCsnXBt4JEIqmlRmOFoojp9jDgkDBQIEcxgycD+EeyQidFZHGDZ3uK07TzYzNWgjCgkMCQYJfzdVZnOyOTU3YXcoWIxRQXo7QEJYTxsJBAEBAwMDtSssRU85LyYmQ5yPjoEpRkInJi5vcgcIBgcGBAIFlzZMLwxeMicZIVuJZQxJWxpAbElef0gFAQECCREOo1yEKBBYVBUVIQ4LKVs3AT40UGmJs0AtLjE2Mz1E3jhWQVVQfh1WPgchST4uNBgXJyVTmF1hbGhefnBrojqbf00xvTRVjFqGWStYHEQSPQggfFxnb2VKfFVSimezTTAVooYvg73XpBA9aUZMLiUhF1IuDiZAIzxBPcOYISANFkAWb3kvvLJOHnNTaSwZVxhWCyMeFgg7kKBfODM5Y2FmRwg4JkWaegWcQjtYXnVwW1F+YHKEfi8ZIjZmgRRkdlg9XrSbN1k9WlF3J3Urfm5PeV9LHyQmaUUQO3BUWG0QSHZ6WmyjvqYbHwEhAgkaAxsiNZhRVyAiGR5obGxlW65YGQ0mc78hGhoVHBkSFQwKb1s1DDYbCQgRZF0YLJFtCTQmI65HKBQVExEQFBQTXXhYWDYRERARFiITL56IHSgiGqptExAVFhQSDw0NOWwnMSAMDwsJAwMGCWbUVRceHZR6CAUBAwMEBQEDBAUVGgcIBgMFAwYIBh6vmgMeGYp5CQgKDQsKBwcHEBMRDwwNDQkJBwcJBg5mvjUaJ41uDQ0QDAoHCAkIBgcEBwcICgsLCgcEBgcrs3ETS5BLCwIEAQEEBAYEAwQDAwECAwcKDA4LDQ4VlJIeY4c7DQUGBwMOCwwOGhYQFBYPFhgZHR0gGR0abrGIe2QpFxQPDg8NCQgJCgwJEhELDAQGBgYIDhANGnaeeCsFDgsJCAUPEA0PFRUOFBgTGBscISAcFxgWFhksMR4SFBMSERIJCBAUBggFCQoGBgcEAgMDBgYLCxQTIwkBBgUDAgQJAwsEAgQFAwMFBAQEBAUCBAUQKAgXDQQKCA4KDQkGCQwSAwUDAwQEBAUCAgMDCBU2HyYbDQcHAAYIBgUNAwEDAwIEBgMFBwkICAYIETKvpEhoBw4OEREUEQ8TFg8O",
+          "top": "I0k6ZCVJKjYKIFQheFFvSmIgHRFgTUpNXXFFLhsmHwcYGENCHzcYKGFRbzmFL0U8P2J2QUhDPhFshFaCRD04QTcnFgsdLRFCIypCVwMvRkNiPh9oMj1FER4NLCc6Q0QsKBkrGxgtTEEmEAcdDxYVDyQTERcVIyglHTgmFyNYeJIWXh0cDzEiRQ5LIUA7EAcKBhEtLioGZiVMZExwZ8DNDFAVRBRzXoAyeC0WQD87RjNRAyQcmlJ6eE5HMjzDQU1jHVBvWJ1WXiVzbCZGSZVXWj06ioeFXkMMXj5zZHk7oDVsfoGiYVhj28U0KF+zdIWJOFFLSTdvZ2NIJiaZX2pAlzPdWFBwJfmUHhsrN0ssay0zeZmNGTgwRZJwjDBCywOjhX5ks37AGhMYFhYWUyMqVZd5TCsnXBt4JEIqmlRmOFoojp9jDgkDBQIEcxgycD+EeyQidFZHGDZ3uK07TzYzNWgjCgkMCQYJfzdVZnOyOTU3YXcoWIxRQXo7QEJYTxsJBAEBAwMDtSssRU85LyYmQ5yPjoEpRkInJi5vcgcIBgcGBAIFlzZMLwxeMicZIVuJZQxJWxpAbElef0gFAQECCREO",
+          "middle": "fzdVZnOyOTU3YXcoWIxRQXo7QEJYTxsJBAEBAwMDtSssRU85LyYmQ5yPjoEpRkInJi5vcgcIBgcGBAIFlzZMLwxeMicZIVuJZQxJWxpAbElef0gFAQECCREOo1yEKBBYVBUVIQ4LKVs3AT40UGmJs0AtLjE2Mz1E3jhWQVVQfh1WPgchST4uNBgXJyVTmF1hbGhefnBrojqbf00xvTRVjFqGWStYHEQSPQggfFxnb2VKfFVSimezTTAVooYvg73XpBA9aUZMLiUhF1IuDiZAIzxBPcOYISANFkAWb3kvvLJOHnNTaSwZVxhWCyMeFgg7kKBfODM5Y2FmRwg4JkWaegWcQjtYXnVwW1F+YHKEfi8ZIjZmgRRkdlg9XrSbN1k9WlF3J3Urfm5PeV9LHyQmaUUQO3BUWG0QSHZ6WmyjvqYbHwEhAgkaAxsiNZhRVyAiGR5obGxlW65YGQ0mc78hGhoVHBkSFQwKb1s1DDYbCQgRZF0YLJFtCTQmI65HKBQVExEQFBQTXXhYWDYRERARFiITL56IHSgiGqptExAVFhQSDw0NOWwnMSAMDwsJAwMGCWbUVRceHZR6CAUBAwMEBQED",
+          "bottom": "NZhRVyAiGR5obGxlW65YGQ0mc78hGhoVHBkSFQwKb1s1DDYbCQgRZF0YLJFtCTQmI65HKBQVExEQFBQTXXhYWDYRERARFiITL56IHSgiGqptExAVFhQSDw0NOWwnMSAMDwsJAwMGCWbUVRceHZR6CAUBAwMEBQEDBAUVGgcIBgMFAwYIBh6vmgMeGYp5CQgKDQsKBwcHEBMRDwwNDQkJBwcJBg5mvjUaJ41uDQ0QDAoHCAkIBgcEBwcICgsLCgcEBgcrs3ETS5BLCwIEAQEEBAYEAwQDAwECAwcKDA4LDQ4VlJIeY4c7DQUGBwMOCwwOGhYQFBYPFhgZHR0gGR0abrGIe2QpFxQPDg8NCQgJCgwJEhELDAQGBgYIDhANGnaeeCsFDgsJCAUPEA0PFRUOFBgTGBscISAcFxgWFhksMR4SFBMSERIJCBAUBggFCQoGBgcEAgMDBgYLCxQTIwkBBgUDAgQJAwsEAgQFAwMFBAQEBAUCBAUQKAgXDQQKCA4KDQkGCQwSAwUDAwQEBAUCAgMDCBU2HyYbDQcHAAYIBgUNAwEDAwIEBgMFBwkICAYIETKvpEhoBw4OEREUEQ8TFg8O"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 20.606494,
+          "top": 18.157708,
+          "middle": 24.052478,
+          "bottom": 18.099976,
+          "effectiveRatio": 0.551518
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1300,
+        "rawHeight": 1868
+      },
+      "sha256": "ab763c90f72a96ae29d7f86664a41c9774be282ac675e354ee27bfa9d8264e34",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.8307692307692308
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "닛칸스포츠신문사 / 원문 명시 촬영자",
+        "note": "사용자가 이번 일본 매체 사진 사용권 확보를 확인했다. 원매체·촬영자·사진 시점·원문 URL은 그대로 보존한다. 생성·AI 확대를 하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "大阪桐蔭対智弁学園　完投で優勝を決めた大阪桐蔭・川本は雄たけびを上げて喜ぶ（撮影・上田博志）",
+      "context": {
+        "event": "2026-03-31 센바츠 고교야구 실제 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "가와모토하루토",
+            "team": "오사카도인고교"
+          }
+        ],
+        "visualNote": "노란 글러브를 가슴 앞에 놓고 왼팔을 높이 올린 가와모토의 얼굴과 동작이 선명하다.",
+        "editorialNote": "2026년 10월 경기 사진이 아닌 3월 자료사진으로 카드와 캡션에 날짜를 명시한다."
+      }
+    },
+    {
+      "name": "구마모토공고전에서 공을 던지는 가와모토",
+      "subject": "가와모토 하루토",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/highschool/photonews/photonews_nsInc_202603240001117-0.html",
+      "sourceArticleUrl": "https://www.nikkansports.com/baseball/highschool/news/202603240001117.html?mode=all",
+      "sourceUrl": "https://www.nikkansports.com/baseball/highschool/news/img/202603240001117-w1300_0.jpg",
+      "imageCredit": "닛칸스포츠 · 이와시타 쇼타(岩下翔太)",
+      "creditDisplay": "사진 · 닛칸스포츠 · 이와시타 쇼타(岩下翔太) (2026.03.24 자료사진)",
+      "photoDate": "2026-03-24",
+      "photoDateLabel": "2026-03-24 자료사진",
+      "checkedAt": "2026-10-16T11:06:24.798Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-kawamoto-story\\photos\\photo-e5e90eb0d9fb.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:02:04.702Z",
+        "width": 1300,
+        "height": 1536,
+        "bytes": 223175,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.9292098655195447,
+        "entropy": 7.2228986092231935,
+        "effectiveDetailRatio": 0.60787,
+        "kind": "source",
+        "coverScale": 0.879,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.nikkansports.com/baseball/highschool/news/img/202603240001117-w1300_0.jpg",
+        "sha256": "e5e90eb0d9fbc7f276f693e50a39e18772abecca3df3f0bb153c7d5a42830286",
+        "perceptualHash": "4949d92e1dd22148",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQEBAQEBAQQEBTI8BhFETEcUFhEbiY8lSw0zXBsnAQEAAQIBAgUCDEx5en5pSRAFFBAiZGpMJSUiSjtRAQAAAgEBAQYISmpXMDlrgFANExMWY2tFDS8WGxcIAQEAAgIBAgYIQ2g+DC4PV3IWFRUkNz+HDT4YNDJJAgEBAQMCAgQDBjpqF14/MHcZEA5MC2+NHlA2PSggAwMDAwQFBAcMRXUbgFNqIXJEDz4hUG5nFz87RDEQFBMTExISDxUcUE1odQlgbEhUJCSLMbF4CztEVTMENDU0MTMuTmQrGhogFjMbJR8uR38teoB2ESlRYT0sGhwaEBAeRDBiLQwRFAcDAhowgmiAO0VrIitKQ0cdISAjIyUmcLw/U0kwMxYNNiyQmGFAGU+HanhWBCFLISMiGRg0TgxLSxMYT310T7SHXmQJDQxId2NIGmFCBAYFBAkZOFY2NXallTAmuaRwYwMBBgcJGRMwGjwfCQgGBgwQH1UKjHsSWl5JgUplBgQHBgcJDRAgG0RUBgcICQ0DZoVuQl9YSQ8BOEsOBggHBwcJCQsWOR0jCw0QDxlo0Ey6WDwXBA4dPygOCgkJCAcGBQULJ0c+CQsMFSy1XDI6JhoiMVUsZEYQCQkLCgoKCQkKEyUuAQYJEVOGPS1/YmFFRlaHVXILCQMBAQEBAgECAQICAgQKCXJsBkSGPTssP3JYMIYbDQMCAQAAAQEAAQICAQMLBXGGLC1aT2xbPRI2JX88DwQEAgEBAQEBAQEBBQQHCAyPbUB5RWMJJgcmYU1bCgcEBAMDAwMEAwQDBgYFBBdBW54tiUYnFRBEGhIyFwwGBwcHBwgIBwcGCgoKDAsxV3FBo0FYTi8iZ0pqEQoJCgsLDA0LCwoJBwYHBwYLMwV8sBuzNEVFIC5wHgkBAAABAgEBAQEBbGpqbW5ocXZ1sVZpgy4fJCF9al1dXl1bW1xbW1pZd3l6fYGEhYWTYD8oWVIZOTJLi32CgYCAgIF/fn2AAgEDAwMJDQ4XET4NMlZFG01CHBQWFBIVFxcXFhcZPD4+Ojk4OTY5Ol0oKiFWFUA7ODU5NTYzMzczMTAvKS4vLSwrLCkvLUk+RRtOOi0kPTU0Mi0tLzEyMzA3DgsJDxYbFhIRBy89mbIaWxQNIxoUGBMSFBYeGhkeBwYMDxQSCwkIAQZtb8GlKgILHQQCBQkFCREPCwoKBw0LBgoVEQ0QDxQ7gSiIFw0VFRQTEAwHDhkXEREUCgkVGRwaFRUZGBw/fzd5BRYOCAcIDg0KBxMXEg4HDhEbDwoQDQMPEQs5gyGHIhYXExQXGQ8HBwUEAgYFGA8YHxsVHB0dISouX2dbUUpEOysbDxUUGBMMDg8OIBwHChYOEh0LGSETEY9rLBMyOkxILA4OAg0MDxoXFiYiGRMXHSgvKx4hRkhAVTM7HydJbWdHJxgUEQwRAwwZFA4TGBIxGhQXVneNdUceNRclK1hueXdpYj5AICAgIR8gHS04LTImJDAgKFFySkBJTEc3KAcTJjEc",
+          "top": "AQEBAQEBAQQEBTI8BhFETEcUFhEbiY8lSw0zXBsnAQEAAQIBAgUCDEx5en5pSRAFFBAiZGpMJSUiSjtRAQAAAgEBAQYISmpXMDlrgFANExMWY2tFDS8WGxcIAQEAAgIBAgYIQ2g+DC4PV3IWFRUkNz+HDT4YNDJJAgEBAQMCAgQDBjpqF14/MHcZEA5MC2+NHlA2PSggAwMDAwQFBAcMRXUbgFNqIXJEDz4hUG5nFz87RDEQFBMTExISDxUcUE1odQlgbEhUJCSLMbF4CztEVTMENDU0MTMuTmQrGhogFjMbJR8uR38teoB2ESlRYT0sGhwaEBAeRDBiLQwRFAcDAhowgmiAO0VrIitKQ0cdISAjIyUmcLw/U0kwMxYNNiyQmGFAGU+HanhWBCFLISMiGRg0TgxLSxMYT310T7SHXmQJDQxId2NIGmFCBAYFBAkZOFY2NXallTAmuaRwYwMBBgcJGRMwGjwfCQgGBgwQH1UKjHsSWl5JgUplBgQHBgcJDRAgG0RUBgcICQ0DZoVuQl9YSQ8BOEsOBggHBwcJCQsWOR0jCw0QDxlo0Ey6WDwXBA4dPygOCgkJCAcGBQULJ0c+",
+          "middle": "CQgGBgwQH1UKjHsSWl5JgUplBgQHBgcJDRAgG0RUBgcICQ0DZoVuQl9YSQ8BOEsOBggHBwcJCQsWOR0jCw0QDxlo0Ey6WDwXBA4dPygOCgkJCAcGBQULJ0c+CQsMFSy1XDI6JhoiMVUsZEYQCQkLCgoKCQkKEyUuAQYJEVOGPS1/YmFFRlaHVXILCQMBAQEBAgECAQICAgQKCXJsBkSGPTssP3JYMIYbDQMCAQAAAQEAAQICAQMLBXGGLC1aT2xbPRI2JX88DwQEAgEBAQEBAQEBBQQHCAyPbUB5RWMJJgcmYU1bCgcEBAMDAwMEAwQDBgYFBBdBW54tiUYnFRBEGhIyFwwGBwcHBwgIBwcGCgoKDAsxV3FBo0FYTi8iZ0pqEQoJCgsLDA0LCwoJBwYHBwYLMwV8sBuzNEVFIC5wHgkBAAABAgEBAQEBbGpqbW5ocXZ1sVZpgy4fJCF9al1dXl1bW1xbW1pZd3l6fYGEhYWTYD8oWVIZOTJLi32CgYCAgIF/fn2AAgEDAwMJDQ4XET4NMlZFG01CHBQWFBIVFxcXFhcZPD4+Ojk4OTY5Ol0oKiFWFUA7ODU5NTYzMzczMTAv",
+          "bottom": "bGpqbW5ocXZ1sVZpgy4fJCF9al1dXl1bW1xbW1pZd3l6fYGEhYWTYD8oWVIZOTJLi32CgYCAgIF/fn2AAgEDAwMJDQ4XET4NMlZFG01CHBQWFBIVFxcXFhcZPD4+Ojk4OTY5Ol0oKiFWFUA7ODU5NTYzMzczMTAvKS4vLSwrLCkvLUk+RRtOOi0kPTU0Mi0tLzEyMzA3DgsJDxYbFhIRBy89mbIaWxQNIxoUGBMSFBYeGhkeBwYMDxQSCwkIAQZtb8GlKgILHQQCBQkFCREPCwoKBw0LBgoVEQ0QDxQ7gSiIFw0VFRQTEAwHDhkXEREUCgkVGRwaFRUZGBw/fzd5BRYOCAcIDg0KBxMXEg4HDhEbDwoQDQMPEQs5gyGHIhYXExQXGQ8HBwUEAgYFGA8YHxsVHB0dISouX2dbUUpEOysbDxUUGBMMDg8OIBwHChYOEh0LGSETEY9rLBMyOkxILA4OAg0MDxoXFiYiGRMXHSgvKx4hRkhAVTM7HydJbWdHJxgUEQwRAwwZFA4TGBIxGhQXVneNdUceNRclK1hueXdpYj5AICAgIR8gHS04LTImJDAgKFFySkBJTEc3KAcTJjEc"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 32.827907,
+          "top": 17.108634,
+          "middle": 21.902658,
+          "bottom": 44.431426,
+          "effectiveRatio": 0.60787
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1300,
+        "rawHeight": 1536
+      },
+      "sha256": "e5e90eb0d9fbc7f276f693e50a39e18772abecca3df3f0bb153c7d5a42830286",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.87890625
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "닛칸스포츠신문사 / 원문 명시 촬영자",
+        "note": "사용자가 이번 일본 매체 사진 사용권 확보를 확인했다. 원매체·촬영자·사진 시점·원문 URL은 그대로 보존한다. 생성·AI 확대를 하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "大阪桐蔭対熊本工　大阪桐蔭先発の川本（撮影・岩下翔太）",
+      "context": {
+        "event": "2026-03-24 센바츠 고교야구 실제 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "가와모토하루토",
+            "team": "오사카도인고교"
+          }
+        ],
+        "visualNote": "왼손에서 공이 막 나오는 투구 순간이다. 얼굴·공·글러브가 보이며 다른 와인드업 컷과 동작이 다르다.",
+        "editorialNote": "2026년 10월 경기 사진이 아닌 3월 자료사진으로 카드와 캡션에 날짜를 명시한다."
+      }
+    },
+    {
+      "name": "센바츠 우승 뒤 동료들과 기뻐하는 가와모토",
+      "subject": "가와모토 하루토",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/highschool/photonews/photonews_nsInc_202603310001266-5.html",
+      "sourceArticleUrl": "https://www.nikkansports.com/baseball/highschool/news/202603310001266.html?mode=all",
+      "sourceUrl": "https://www.nikkansports.com/baseball/highschool/news/img/202603310001266-w1300_5.jpg",
+      "imageCredit": "닛칸스포츠 · 우에야마 준이치(上山淳一)",
+      "creditDisplay": "사진 · 닛칸스포츠 · 우에야마 준이치(上山淳一) (2026.03.31 자료사진)",
+      "photoDate": "2026-03-31",
+      "photoDateLabel": "2026-03-31 자료사진",
+      "checkedAt": "2026-10-16T11:06:24.798Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-kawamoto-story\\photos\\photo-816b2fe059c5.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:01:34.985Z",
+        "width": 1300,
+        "height": 1839,
+        "bytes": 291387,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.965221810576996,
+        "entropy": 7.590825598133961,
+        "effectiveDetailRatio": 0.532922,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.nikkansports.com/baseball/highschool/news/img/202603310001266-w1300_5.jpg",
+        "sha256": "816b2fe059c5ea8c7a04a7fc6e2084c955d7d3be74e4c9fa824f0ca6027c0ffb",
+        "perceptualHash": "111a9c8d5a786b6c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "ExYVEQsnMBQIExIdMCcoJy4qFBUJCwULR2JFWDQuAQABDBwUHCk2LBcKFxgEDg8JCxEWEQsNFEE1GioYBAQDGCIXEAYZOCUIEhYoGxQVEhQZEQ4JAwwOIhQvBgcGHSMYFQQSMyoLCzEnGAQEAwAPCgkFBBFXMyQSAgMDICIYFgMSMiYILz8tCwcABgoPEgsJE2JcaR0KAwIDISMbHhYaNSEINTEMHgcBBBAnJxkEWF0OVSYGAQMCIyIRKSYdJR0HIDo1Ig4VMD4tPx1HYBRZTQUFAgICIigRCR4VJhYMDSYnITBBSDh+Q1dSIkBjEQgDWEcKISwGNzI7LAsBDQo3KD1FEA0raDM0IoI0Hx0giIdMFysXMy9QGREHBjguHSxHVEQQCQgOhV4bJyQrTXt1DiodMzdaEBcKFCwfJys5PlQoO0FUYwsJDQUGFnFyCiQeMjZqHiQlHxpJgqkuEyoUIyAwHCEjJyQoPIJ1CiMeNCx1NBc6EhqO6Hq3JCciLCIbGh4bHCYiiYVBER8cMh9zPxgkIVSzMjeYlTgsCxgPDRAPDw8NTTUIISQiMhNpSgwjJIiGGR45bKdJGA4DAQkKBwAJCRYtDhQSKAZXYSEcUXEvHiwaE2GUL0YWJ1FYRh1CJywvHk44IwRDdi8NHhc8FhIaBj1bM0A9TVRVVSxUglZHdWSBaQc8amNAMDgrECAPDlA8ERQYIS0KNhMsry8va2wcjjRCJS44byk3RTUqPl8ZJkg8TURJOyU0sRlUT0EyblYzQFp9PTwrpIRdSTYpOTEBM0hNRyo70V9fGhlED2oVf2IuHU1sUzlVQxFGLBEMCBUWFggZZ8AlUVU9Ki50PltiC2FSDyM3UzUqeVwLBwQECQ4tVVWvvpKOgmNAWiiODGx+RWVLZYF6RoNdCAQIFRs1ZYCzGBJnSkltKJFiI3CBSSsdKU9XnyVtGhE7lKBoMYg5No3hVRZHZ2ctY3J2NQYMBis9RVAvLDKZbVurLUUtPbAnlZSSR0FBnB2ecpNfcYZJOzQkEkA0SlwmNEUIUCxrUjZAZV+WG3g3XbjO2eZWHiBAHFNBH0ZXP2MUTQkmEBtNhmUy21IgfZIcGFGLO0goHEY1JUBHQlgPKyEqOEJta4P/gK6HKZG2r7ZMKHHWZEo0LCg+PWETKBc6MB6TQs5GRimyWi9IV1QsgqJO/0lRKVg5N2gJFyEeGRhGhT86JzJOwjcZHQ6BfliLP8YYKCpRKWQmFhMcGxkREy9HHiUhlbIiGLGXLEBkZ2A7ERAaEFMqCAYQPxFKWUY6OR0aBJOAo7YFPDA6a0lBGxAKHlBDAwYOGj1PWHlcRRYQidRYqRgxOy9AgGIXOgUdGWk7CAEPHwpJi1GAgSkkrHAwlXkaTlE4eW8+EBoSH11IKQ4pIVapaiFbgyI6RJMddWI1TUogIIJGBQ81ASyCU1VIOV8mCSxLlj5MLlULQi4jPS4VF1CBIDYcHI2DDgdUUcfMKRkob4VibHQQak8mQRYHGxBjLCY/",
+          "top": "ExYVEQsnMBQIExIdMCcoJy4qFBUJCwULR2JFWDQuAQABDBwUHCk2LBcKFxgEDg8JCxEWEQsNFEE1GioYBAQDGCIXEAYZOCUIEhYoGxQVEhQZEQ4JAwwOIhQvBgcGHSMYFQQSMyoLCzEnGAQEAwAPCgkFBBFXMyQSAgMDICIYFgMSMiYILz8tCwcABgoPEgsJE2JcaR0KAwIDISMbHhYaNSEINTEMHgcBBBAnJxkEWF0OVSYGAQMCIyIRKSYdJR0HIDo1Ig4VMD4tPx1HYBRZTQUFAgICIigRCR4VJhYMDSYnITBBSDh+Q1dSIkBjEQgDWEcKISwGNzI7LAsBDQo3KD1FEA0raDM0IoI0Hx0giIdMFysXMy9QGREHBjguHSxHVEQQCQgOhV4bJyQrTXt1DiodMzdaEBcKFCwfJys5PlQoO0FUYwsJDQUGFnFyCiQeMjZqHiQlHxpJgqkuEyoUIyAwHCEjJyQoPIJ1CiMeNCx1NBc6EhqO6Hq3JCciLCIbGh4bHCYiiYVBER8cMh9zPxgkIVSzMjeYlTgsCxgPDRAPDw8NTTUIISQiMhNpSgwjJIiGGR45bKdJGA4DAQkKBwAJ",
+          "middle": "PIJ1CiMeNCx1NBc6EhqO6Hq3JCciLCIbGh4bHCYiiYVBER8cMh9zPxgkIVSzMjeYlTgsCxgPDRAPDw8NTTUIISQiMhNpSgwjJIiGGR45bKdJGA4DAQkKBwAJCRYtDhQSKAZXYSEcUXEvHiwaE2GUL0YWJ1FYRh1CJywvHk44IwRDdi8NHhc8FhIaBj1bM0A9TVRVVSxUglZHdWSBaQc8amNAMDgrECAPDlA8ERQYIS0KNhMsry8va2wcjjRCJS44byk3RTUqPl8ZJkg8TURJOyU0sRlUT0EyblYzQFp9PTwrpIRdSTYpOTEBM0hNRyo70V9fGhlED2oVf2IuHU1sUzlVQxFGLBEMCBUWFggZZ8AlUVU9Ki50PltiC2FSDyM3UzUqeVwLBwQECQ4tVVWvvpKOgmNAWiiODGx+RWVLZYF6RoNdCAQIFRs1ZYCzGBJnSkltKJFiI3CBSSsdKU9XnyVtGhE7lKBoMYg5No3hVRZHZ2ctY3J2NQYMBis9RVAvLDKZbVurLUUtPbAnlZSSR0FBnB2ecpNfcYZJOzQkEkA0SlwmNEUIUCxrUjZAZV+WG3g3XbjO2eZWHiBAHFNBH0ZX",
+          "bottom": "ZYCzGBJnSkltKJFiI3CBSSsdKU9XnyVtGhE7lKBoMYg5No3hVRZHZ2ctY3J2NQYMBis9RVAvLDKZbVurLUUtPbAnlZSSR0FBnB2ecpNfcYZJOzQkEkA0SlwmNEUIUCxrUjZAZV+WG3g3XbjO2eZWHiBAHFNBH0ZXP2MUTQkmEBtNhmUy21IgfZIcGFGLO0goHEY1JUBHQlgPKyEqOEJta4P/gK6HKZG2r7ZMKHHWZEo0LCg+PWETKBc6MB6TQs5GRimyWi9IV1QsgqJO/0lRKVg5N2gJFyEeGRhGhT86JzJOwjcZHQ6BfliLP8YYKCpRKWQmFhMcGxkREy9HHiUhlbIiGLGXLEBkZ2A7ERAaEFMqCAYQPxFKWUY6OR0aBJOAo7YFPDA6a0lBGxAKHlBDAwYOGj1PWHlcRRYQidRYqRgxOy9AgGIXOgUdGWk7CAEPHwpJi1GAgSkkrHAwlXkaTlE4eW8+EBoSH11IKQ4pIVapaiFbgyI6RJMddWI1TUogIIJGBQ81ASyCU1VIOV8mCSxLlj5MLlULQi4jPS4VF1CBIDYcHI2DDgdUUcfMKRkob4VibHQQak8mQRYHGxBjLCY/"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.947857,
+          "top": 14.083549,
+          "middle": 30.483539,
+          "bottom": 35.809087,
+          "effectiveRatio": 0.532922
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1300,
+        "rawHeight": 1839
+      },
+      "sha256": "816b2fe059c5ea8c7a04a7fc6e2084c955d7d3be74e4c9fa824f0ca6027c0ffb",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.8307692307692308
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "닛칸스포츠신문사 / 원문 명시 촬영자",
+        "note": "사용자가 이번 일본 매체 사진 사용권 확보를 확인했다. 원매체·촬영자·사진 시점·원문 URL은 그대로 보존한다. 생성·AI 확대를 하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "大阪桐蔭対智弁学園　優勝を決め歓喜する大阪桐蔭の川本（右）とナインたち（撮影・上山淳一）",
+      "context": {
+        "event": "2026-03-31 센바츠 고교야구 실제 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "가와모토하루토",
+            "team": "오사카도인고교"
+          }
+        ],
+        "visualNote": "가와모토와 동료들이 모인 우승 직후 장면이다. 가와모토 얼굴과 팀 유니폼이 분명하다.",
+        "editorialNote": "2026년 10월 경기 사진이 아닌 3월 자료사진으로 카드와 캡션에 날짜를 명시한다."
+      }
+    },
+    {
+      "name": "구마모토공고전 투구 팔로스루",
+      "subject": "가와모토 하루토",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/highschool/photonews/photonews_nsInc_202603240001117-13.html",
+      "sourceArticleUrl": "https://www.nikkansports.com/baseball/highschool/news/202603240001117.html?mode=all",
+      "sourceUrl": "https://www.nikkansports.com/baseball/highschool/news/img/202603240001117-w1300_13.jpg",
+      "imageCredit": "닛칸스포츠 · 이와시타 쇼타(岩下翔太)",
+      "creditDisplay": "사진 · 닛칸스포츠 · 이와시타 쇼타(岩下翔太) (2026.03.24 자료사진)",
+      "photoDate": "2026-03-24",
+      "photoDateLabel": "2026-03-24 자료사진",
+      "checkedAt": "2026-10-16T11:06:24.798Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-kawamoto-story\\photos\\photo-9e2e36fab664.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:02:06.395Z",
+        "width": 1300,
+        "height": 1385,
+        "bytes": 227866,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.2786323113688807,
+        "entropy": 7.804346379358321,
+        "effectiveDetailRatio": 0.465027,
+        "kind": "source",
+        "coverScale": 0.975,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.nikkansports.com/baseball/highschool/news/img/202603240001117-w1300_13.jpg",
+        "sha256": "9e2e36fab664d81ac9b77c832acbd65ea7313dadcec7cf6f030ea4cbc5f7705b",
+        "perceptualHash": "16e0ce9e18992426",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "RJBlW4lOYHR6JEkVRXtOn1gZW3WvPo19MnIqj0HHFnFgEXdCM4wmIBMUeFWIUF4heylDLSx1ej0/dz04UluaFkg1YzpeTEJCkGuFgEBeU4RJUWU7I0BgaBRQTVqNJExKFHyDg4x9gTF3dBxgUUmOe2aGeyBDWzJ5cYtzGRp+LGAxOUtYNjONgFFFRYxrCxs3TTRzQiE6Hl0KPFwbPTM+MhZxHIhGh2Snsm0pZlkOcppIrS8VYUZZQCU1HiEgKHBkllIEN1ZHWUiVXoIrb1lldCULhzNLDHdleCBOVXwQfBM5rWTJNmicKX4cJDshUERhQ0QzJExHg382L61VRGHjqDKFSSNpUWE+Nl4mfzKreg2MVTRDIzIYdU/VR/+2iadIATdaalk9HFRHUyaVQ1lUSB1KZXAoQXZWe8o3G2zsohVuQnYzWn+0QSJXik5LMhhyWZKMHC8OkWwhNUgu39NxYzMkNB5gZSFYQWZLPzpE0Reao6N1YmcONFFqQKGmf3mcXUtIEBEVUzYeciz/dYk6t1J4XTpBSyREaCVUV2yLhjEVIgxESj81DfrNbFqJZilOQyZFRgw3USl0PzFwsSFXKxplRiwqiYodb0N3GUMcVRljNQIvQzuIT0mGYl9/U1NEWkQ7LaqFOSNGfV84Ri1cQw8cL0uBKk9XD6FaKEYdHChLUVyIS0lPeXhxEE+hmTgRMkd6NxgaWklBWxRFbh5xShZIHAQYHq43H4P4MZBIVDdKVUY+P0s1Im88eiFyVUmjPlgulXAtU6x6XiRjYlIWChNNQ2YFVyJ+Lj+DEIxRGBhjcg5ialk0LT4NVWR0QTElehKpqYZcOT55TmVJREtOJk1qOSIlEC89DG9/uGRTZI/eMalHF1tXrEUxXHgTE3GYJh8hBQcxUEYTbMdUCZQjzklgUpa/BgsoMWcFVdBxRSkoCT9kNg0SQFNgT19lXlo7nTBnjkplbV8ebLJxPyoVDE41FRKPt2cRKF1EWlM2cldiETEvjEwuO0eSZiMsJV09KJe2kntnhlonRE9kQGMfKAsdd3QoKBUzSDVPfjRIeFqjMC4THwYoVGdNPDw4HSsXMIwwKyQmmKRjNaGtTjJ1qpFjS3dHJQ8ZcSdUFUgQC0tcITnhsSCbtn6BlXokb11bVzwLW0k1HVtfMmVNBzl5ps5qpbZiF2FdfcqOPFmMIyoNKH9RgTUMeGVibmKaOWe3hEEkHFeXIXvJb8AQYmE/KXUxXWssekFHt5mR52cHMCsRHHora60b2Y6eUklgLqZXakQFaC0kYo/JQVpjCCsTCkxtmYipiVZLn0hFd6RDa2gUi4gZMAowgFA5YRwwBhIwZy2RVqJ2NoBOhi45DjAPa3FEW0ozRiaAIlkeOCUgRF5Ed5dXh2Akm34yFywagkCNwmUdYVOYnjhaOS4CIk85iDFPHxULT6CTMDYadhTaYoFsi0c5UT2ENikrIxCAR6xhXjMLHUClKgwfjRDEmK0PNtS+VVuBgCU9EF0ZPyt+cRYHBiYi",
+          "top": "RJBlW4lOYHR6JEkVRXtOn1gZW3WvPo19MnIqj0HHFnFgEXdCM4wmIBMUeFWIUF4heylDLSx1ej0/dz04UluaFkg1YzpeTEJCkGuFgEBeU4RJUWU7I0BgaBRQTVqNJExKFHyDg4x9gTF3dBxgUUmOe2aGeyBDWzJ5cYtzGRp+LGAxOUtYNjONgFFFRYxrCxs3TTRzQiE6Hl0KPFwbPTM+MhZxHIhGh2Snsm0pZlkOcppIrS8VYUZZQCU1HiEgKHBkllIEN1ZHWUiVXoIrb1lldCULhzNLDHdleCBOVXwQfBM5rWTJNmicKX4cJDshUERhQ0QzJExHg382L61VRGHjqDKFSSNpUWE+Nl4mfzKreg2MVTRDIzIYdU/VR/+2iadIATdaalk9HFRHUyaVQ1lUSB1KZXAoQXZWe8o3G2zsohVuQnYzWn+0QSJXik5LMhhyWZKMHC8OkWwhNUgu39NxYzMkNB5gZSFYQWZLPzpE0Reao6N1YmcONFFqQKGmf3mcXUtIEBEVUzYeciz/dYk6t1J4XTpBSyREaCVUV2yLhjEVIgxESj81DfrNbFqJZilOQyZFRgw3USl0PzFwsSFXKxpl",
+          "middle": "QWZLPzpE0Reao6N1YmcONFFqQKGmf3mcXUtIEBEVUzYeciz/dYk6t1J4XTpBSyREaCVUV2yLhjEVIgxESj81DfrNbFqJZilOQyZFRgw3USl0PzFwsSFXKxplRiwqiYodb0N3GUMcVRljNQIvQzuIT0mGYl9/U1NEWkQ7LaqFOSNGfV84Ri1cQw8cL0uBKk9XD6FaKEYdHChLUVyIS0lPeXhxEE+hmTgRMkd6NxgaWklBWxRFbh5xShZIHAQYHq43H4P4MZBIVDdKVUY+P0s1Im88eiFyVUmjPlgulXAtU6x6XiRjYlIWChNNQ2YFVyJ+Lj+DEIxRGBhjcg5ialk0LT4NVWR0QTElehKpqYZcOT55TmVJREtOJk1qOSIlEC89DG9/uGRTZI/eMalHF1tXrEUxXHgTE3GYJh8hBQcxUEYTbMdUCZQjzklgUpa/BgsoMWcFVdBxRSkoCT9kNg0SQFNgT19lXlo7nTBnjkplbV8ebLJxPyoVDE41FRKPt2cRKF1EWlM2cldiETEvjEwuO0eSZiMsJV09KJe2kntnhlonRE9kQGMfKAsdd3QoKBUzSDVPfjRIeFqjMC4THwYoVGdN",
+          "bottom": "Upa/BgsoMWcFVdBxRSkoCT9kNg0SQFNgT19lXlo7nTBnjkplbV8ebLJxPyoVDE41FRKPt2cRKF1EWlM2cldiETEvjEwuO0eSZiMsJV09KJe2kntnhlonRE9kQGMfKAsdd3QoKBUzSDVPfjRIeFqjMC4THwYoVGdNPDw4HSsXMIwwKyQmmKRjNaGtTjJ1qpFjS3dHJQ8ZcSdUFUgQC0tcITnhsSCbtn6BlXokb11bVzwLW0k1HVtfMmVNBzl5ps5qpbZiF2FdfcqOPFmMIyoNKH9RgTUMeGVibmKaOWe3hEEkHFeXIXvJb8AQYmE/KXUxXWssekFHt5mR52cHMCsRHHora60b2Y6eUklgLqZXakQFaC0kYo/JQVpjCCsTCkxtmYipiVZLn0hFd6RDa2gUi4gZMAowgFA5YRwwBhIwZy2RVqJ2NoBOhi45DjAPa3FEW0ozRiaAIlkeOCUgRF5Ed5dXh2Akm34yFywagkCNwmUdYVOYnjhaOS4CIk85iDFPHxULT6CTMDYadhTaYoFsi0c5UT2ENikrIxCAR6xhXjMLHUClKgwfjRDEmK0PNtS+VVuBgCU9EF0ZPyt+cRYHBiYi"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 18.348175,
+          "top": 18.422878,
+          "middle": 23.392445,
+          "bottom": 12.797212,
+          "effectiveRatio": 0.465027
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1300,
+        "rawHeight": 1385
+      },
+      "sha256": "9e2e36fab664d81ac9b77c832acbd65ea7313dadcec7cf6f030ea4cbc5f7705b",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9747292418772563
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "닛칸스포츠신문사 / 원문 명시 촬영자",
+        "note": "사용자가 이번 일본 매체 사진 사용권 확보를 확인했다. 원매체·촬영자·사진 시점·원문 URL은 그대로 보존한다. 생성·AI 확대를 하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "大阪桐蔭対熊本工　雄たけびをあげながら力投する大阪桐蔭先発の川本（撮影・岩下翔太）",
+      "context": {
+        "event": "2026-03-24 센바츠 고교야구 실제 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "가와모토하루토",
+            "team": "오사카도인고교"
+          }
+        ],
+        "visualNote": "직접육안확인: 머리가원본상단에서충분히떨어진투구팔로스루세로컷이다.1300x1385로중앙4:5크롭시세로상하절삭이없고좌우만약96px씩잘린다.머리와모자가온전히보인다.",
+        "editorialNote": "머리상단이중앙cover에서잘렸던와인드업원본을동일경기의다른실제원본으로교체했다.최종렌더육안재검수는루트담당."
+      }
+    },
+    {
+      "name": "가와모토에게 말을 건네는 니시타니 감독",
+      "subject": "가와모토하루토 · 니시타니고이치",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/highschool/photonews/photonews_nsInc_202603240001117-10.html",
+      "sourceArticleUrl": "https://www.nikkansports.com/baseball/highschool/news/202603240001117.html?mode=all",
+      "sourceUrl": "https://www.nikkansports.com/baseball/highschool/news/img/202603240001117-w1300_10.jpg",
+      "imageCredit": "닛칸스포츠 · 우에다 히로시(上田博志)",
+      "creditDisplay": "사진 · 닛칸스포츠 · 우에다 히로시(上田博志) (2026.03.24 자료사진)",
+      "photoDate": "2026-03-24",
+      "photoDateLabel": "2026-03-24 자료사진",
+      "checkedAt": "2026-10-16T11:06:24.798Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-kawamoto-story\\photos\\photo-f8a43eacca91.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:02:06.019Z",
+        "width": 1300,
+        "height": 1657,
+        "bytes": 323222,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.2876586667805823,
+        "entropy": 7.648592672077939,
+        "effectiveDetailRatio": 0.534387,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.nikkansports.com/baseball/highschool/news/img/202603240001117-w1300_10.jpg",
+        "sha256": "f8a43eacca9147af87abb532bc13ad70e3e8a1fd5d4f123047cbe57a14ee35fc",
+        "perceptualHash": "7a1b039b03abd54b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "MicdRj04Wy9VHDNbSniuHyEuMEsyRkpvN2pPiHU9Ox43SFgdZHIsS0oThYpPjxsxKkNMWXwgVDQrcjyGLyNoPDY7QnN5TWW5oU9jMgwpQyk4Cnt0Jg4xOl4qMC9TNyc1PTBzg86sT4/7fSFPJT5DhxOePyYmDlw/YRVWUhUHOxFciUQeDzWd/01JHisvHXYJlTIJWmEwVEM5eTozQ14oNH+yS0w4kqpAUxcoWS4cj3gNPVIkQgsaTkdTRj5pZHs4mUxb4o1ybTQjNUZgSbxJPEoiGU9KVjVULERMLAQfZTSUHLmsjVZChGxwd0KFdUQ8OkUXPCNZTyZFNCMqf1Y1dzEcJk9wkjqP2iNhWX1nLGFzQFuGpi9ZOUJPmz4lEBANWRA6NhYWsKBcfnoFOSadQpBocHwYUQlNKCYdJAlZOUI5ZDRCOtZuJDdBlqCbHIg6eVMXDBIPQylHCCowVydCOBIYNWiiboFwkpx5Tqsooz4NCwwgSAdVHRAJPS04QjA+P6JUdX2GJwQXPtsNnzAyBBMSXV1ASgkJCSE6MQ9P12hxKiYlMHEdnKMQcS4uUSVILTFGVEkIBgUiOS6Yn0pIkJKQGEYagEtqY2JtJg8YfGyaCkgLBAQYKDBPiQVCYEBCaxVQVjFpDVs4ERYnSA6WJ0ViKREPFzZRoytLLwwNgGOUNjo7NmsqHicuYw2sLiAmUWFlbVh5lUpkKS0tIUxSVV83M3oaHSkmajm3E4d0bVciX11jq1IwISQlBQQHXYUmjy8LExgUQzWJMYMUG2+MdKOV0QsFAQIDCQkKFYaTGiEKIi4gNQxzUXsREQo1YEi52RYJCAkMLSAdMFhGeDAeRlZPRiVmYmAFBQ0ULjWr7y8jLgweIhQJNTIiF2AqhUB7UyBVXjwOESg4JU5g0TgfHRAeLhoTLltKPVsfqBqSRUhHdCkFI0NDOU5Y20YhKgUaHhQEBSpmgl03zB+kQWYchxwEKm1IQUBJ4lkTDwUQs0oNBA5UlUtzt0apX2AzdhoDZaZqYxpMvk0OBwUFIqtZIxaGnBSicj+SiGw8XBYMp6B/exhNqjsNBgcHiwZzZpcPrFxjV2FMmblFQw0+w3iliyci0phkY2FjUWImL2+VQI1glo6Ta5mfQyA2VbOWNxohTrqcl52fMCgzTi9zQKSKCQRrph52qp1RGhQtVYJ5TRcNIRMeUyM2Ry1hMCqRfx5afBwbZ5doKiQ/gaKiK0Q8J0B0WiFFQ1hHLwUpkClwfTUZPGKEHw1RnkibTwgfUGQ5GQ4kGmteHQsFZCo/KldJHr0xKx07WEqbJBcePxQuIBkfHSKWOAELZCIgEEdQjowvOBVLQWGvIBYsVjRKIh4ZCkKnfQ4JclZIRz9YrhWBQIE4Y52Pclh6GaMfHyAnI4As5ksYHmAXaGw0O5deH1ZYV5E+vExHTigrCC4CD1iaYHpDRzNPICtiaExGOygsL0iUPF0wITo3HBAbIhg0OCktKjk0EBMQHhEhHisvKRwKFycrMyIW",
+          "top": "MicdRj04Wy9VHDNbSniuHyEuMEsyRkpvN2pPiHU9Ox43SFgdZHIsS0oThYpPjxsxKkNMWXwgVDQrcjyGLyNoPDY7QnN5TWW5oU9jMgwpQyk4Cnt0Jg4xOl4qMC9TNyc1PTBzg86sT4/7fSFPJT5DhxOePyYmDlw/YRVWUhUHOxFciUQeDzWd/01JHisvHXYJlTIJWmEwVEM5eTozQ14oNH+yS0w4kqpAUxcoWS4cj3gNPVIkQgsaTkdTRj5pZHs4mUxb4o1ybTQjNUZgSbxJPEoiGU9KVjVULERMLAQfZTSUHLmsjVZChGxwd0KFdUQ8OkUXPCNZTyZFNCMqf1Y1dzEcJk9wkjqP2iNhWX1nLGFzQFuGpi9ZOUJPmz4lEBANWRA6NhYWsKBcfnoFOSadQpBocHwYUQlNKCYdJAlZOUI5ZDRCOtZuJDdBlqCbHIg6eVMXDBIPQylHCCowVydCOBIYNWiiboFwkpx5Tqsooz4NCwwgSAdVHRAJPS04QjA+P6JUdX2GJwQXPtsNnzAyBBMSXV1ASgkJCSE6MQ9P12hxKiYlMHEdnKMQcS4uUSVILTFGVEkIBgUiOS6Yn0pIkJKQ",
+          "middle": "kpx5Tqsooz4NCwwgSAdVHRAJPS04QjA+P6JUdX2GJwQXPtsNnzAyBBMSXV1ASgkJCSE6MQ9P12hxKiYlMHEdnKMQcS4uUSVILTFGVEkIBgUiOS6Yn0pIkJKQGEYagEtqY2JtJg8YfGyaCkgLBAQYKDBPiQVCYEBCaxVQVjFpDVs4ERYnSA6WJ0ViKREPFzZRoytLLwwNgGOUNjo7NmsqHicuYw2sLiAmUWFlbVh5lUpkKS0tIUxSVV83M3oaHSkmajm3E4d0bVciX11jq1IwISQlBQQHXYUmjy8LExgUQzWJMYMUG2+MdKOV0QsFAQIDCQkKFYaTGiEKIi4gNQxzUXsREQo1YEi52RYJCAkMLSAdMFhGeDAeRlZPRiVmYmAFBQ0ULjWr7y8jLgweIhQJNTIiF2AqhUB7UyBVXjwOESg4JU5g0TgfHRAeLhoTLltKPVsfqBqSRUhHdCkFI0NDOU5Y20YhKgUaHhQEBSpmgl03zB+kQWYchxwEKm1IQUBJ4lkTDwUQs0oNBA5UlUtzt0apX2AzdhoDZaZqYxpMvk0OBwUFIqtZIxaGnBSicj+SiGw8XBYMp6B/exhNqjsNBgcH",
+          "bottom": "LhoTLltKPVsfqBqSRUhHdCkFI0NDOU5Y20YhKgUaHhQEBSpmgl03zB+kQWYchxwEKm1IQUBJ4lkTDwUQs0oNBA5UlUtzt0apX2AzdhoDZaZqYxpMvk0OBwUFIqtZIxaGnBSicj+SiGw8XBYMp6B/exhNqjsNBgcHiwZzZpcPrFxjV2FMmblFQw0+w3iliyci0phkY2FjUWImL2+VQI1glo6Ta5mfQyA2VbOWNxohTrqcl52fMCgzTi9zQKSKCQRrph52qp1RGhQtVYJ5TRcNIRMeUyM2Ry1hMCqRfx5afBwbZ5doKiQ/gaKiK0Q8J0B0WiFFQ1hHLwUpkClwfTUZPGKEHw1RnkibTwgfUGQ5GQ4kGmteHQsFZCo/KldJHr0xKx07WEqbJBcePxQuIBkfHSKWOAELZCIgEEdQjowvOBVLQWGvIBYsVjRKIh4ZCkKnfQ4JclZIRz9YrhWBQIE4Y52Pclh6GaMfHyAnI4As5ksYHmAXaGw0O5deH1ZYV5E+vExHTigrCC4CD1iaYHpDRzNPICtiaExGOygsL0iUPF0wITo3HBAbIhg0OCktKjk0EBMQHhEhHisvKRwKFycrMyIW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 35.78796,
+          "top": 40.84805,
+          "middle": 35.088888,
+          "bottom": 31.316623,
+          "effectiveRatio": 0.534387
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1300,
+        "rawHeight": 1657
+      },
+      "sha256": "f8a43eacca9147af87abb532bc13ad70e3e8a1fd5d4f123047cbe57a14ee35fc",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.8307692307692308
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "닛칸스포츠신문사 / 원문 명시 촬영자",
+        "note": "사용자가 이번 일본 매체 사진 사용권 확보를 확인했다. 원매체·촬영자·사진 시점·원문 URL은 그대로 보존한다. 생성·AI 확대를 하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "大阪桐蔭対熊本工　大阪桐蔭先発の川本（左）に声を掛ける西谷監督（撮影・上田博志）",
+      "context": {
+        "event": "2026-03-24 센바츠 고교야구 실제 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "가와모토하루토",
+            "team": "오사카도인고교"
+          },
+          {
+            "name": "니시타니고이치",
+            "team": "오사카도인고교"
+          }
+        ],
+        "visualNote": "등번호 10번 가와모토와 니시타니 고이치 감독이 벤치 앞에서 대화한다. 감독은 원문 캡션으로 신원을 확인했다.",
+        "editorialNote": "2026년 10월 경기 사진이 아닌 3월 자료사진으로 카드와 캡션에 날짜를 명시한다."
+      }
+    }
+  ]
+}
