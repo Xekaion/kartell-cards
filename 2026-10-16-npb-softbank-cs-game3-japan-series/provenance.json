@@ -1,0 +1,490 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "소프트뱅크, 3연승으로 일본시리즈 진출",
+  "issueKey": "npb-softbank-20261016-cs-game3-japan-series",
+  "checkedAt": "2026-10-16T12:07:09.834Z",
+  "sourceUrl": "https://npb.jp/scores/2026/1016/h-f-03/",
+  "corroboratingUrls": [
+    "https://npb.jp/scores/2026/1016/h-f-03/box.html",
+    "https://npb.jp/scores/2026/1016/h-f-03/playbyplay.html",
+    "https://npb.jp/games/2026/info_cs.html",
+    "https://npb.jp/bis/2026/stats/std_p.html",
+    "https://npb.jp/nippons/2026/information.html",
+    "https://npb.jp/nippons/2024/",
+    "https://npb.jp/nippons/2025/"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://npb.jp/scores/2026/1016/h-f-03/",
+      "role": "official-current-completed-game",
+      "note": "공식 종료시각21:02·9회초마지막삼진·9이닝박스·승패투수결정이확정됐다. 조회시상단상태라벨은試合中으로남아있어근거를함께보존한다."
+    },
+    {
+      "url": "https://npb.jp/scores/2026/1016/h-f-03/box.html",
+      "role": "official-box-score"
+    },
+    {
+      "url": "https://npb.jp/scores/2026/1016/h-f-03/playbyplay.html",
+      "role": "official-play-by-play"
+    },
+    {
+      "url": "https://npb.jp/games/2026/info_cs.html",
+      "role": "official-current-CS-rule"
+    },
+    {
+      "url": "https://npb.jp/bis/2026/stats/std_p.html",
+      "role": "official-regular-season-final-standings"
+    },
+    {
+      "url": "https://npb.jp/nippons/2026/information.html",
+      "role": "official-next-series-schedule"
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "마에다 유고(前田悠伍)",
+      "subject": "마에다 유고(前田悠伍)",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610160001288-w1300_0.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610160001288-0.html",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\photo-1.jpg",
+      "imageCredit": "닛칸스포츠",
+      "creditDisplay": "사진 · 닛칸스포츠 (2026.10 자료사진)",
+      "photoDate": null,
+      "photoDateLabel": "2026.10 자료사진",
+      "checkedAt": "2026-10-16T12:06:24.615847+00:00",
+      "context": {
+        "originalContext": "ソフトバンク前田悠伍（2026年10月撮影）",
+        "currentStoryUse": "오늘 선발 마에다의 자료사진. 승리·진출 확정 장면으로 표현하지 않는다."
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T12:06:26.345Z",
+        "width": 1300,
+        "height": 1504,
+        "bytes": 247809,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.642142537271416,
+        "entropy": 6.981909363530576,
+        "effectiveDetailRatio": 0.530547,
+        "kind": "source",
+        "coverScale": 0.898,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1300,
+        "rawHeight": 1504,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "c90d9686c64e39ec",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BAUCAQQEAQMFAgQJDBobOiRHNCQFCAQEAwIHAwMEBwIEBgcDBAQBBgcQIhEjQZR8fXtrRAoGBwYCBAQFBgQFCQcIAgYHBxowHzc7RZA3I1JxlGEOBgQJBAQIBgMEBwcECAQFH0gwV2dmg4+HiT8DQ5BACQYEBAcIBwQHBAQGBAgZVCcpVDgXM345W5dDDXZWBgQGBAYGAgEHBQQDCB1dDEhiYSGaxSceEGKICXBbCwIBAgEEBQsIBwcFHGAPajBar820L2QsEhW+JbFEFQoGBgQCCAQFCQYZWCBgOgkmUVR6eiBfA1uqoL8lHwgCBAcHBQcHBBNMMkRTEwMQKzsaLSU9WIUksjJWCQQEBQcIBAUEBzhBH0hAIwoKFQ1BMyhijjcRNFNFBAcDBQMCBgcFG0EeE1+dmX1oUUJIW4ZoMxQOJlk/AgUGAwEDBAgGBCNgZ0orUWt2hGF+fEsGCwoKOm0xCAIGBAMEBQQBAQ0dc20hHA8LIRksDQkEAwgHQYEmDwIFBQIEBAQECAQNbHVHKhgOFRYjMgQDBAUOO4MtCwQHBQIEBwQIAgIIHHR7dl0hDBs0JCkEBAAPRIQmDgEEAgEDBwgKCAcLChckS3pXHBojMB0EBAUHU34bCAQEBAMGAgEGBggGCQoMCk1UHB4gFwQEAwkEYHUMCQUEBggLBAACBgMHBQQDC0FgHBkVAgQBBAgHam8FCQUFBQoEBQIEAwEBCAcEDDByGwYcDAMEBgQEaGkDCQQGCAkDBQQCAwQFBAYICRhdQgcRBwYLCQkPZW8CCwkKBAQIFRMQDg4ICQoKDRNNNhsbBQoHBxEgSoASDg4EBQUGIScrJiUpKCgoIx1hVBkPCAIHEQcmM38mEBQXEA8KFRUYHyMiHSQjIR9leRwGBwsQEA0oLJlBIiIjHiYkBgkHBgEHAwUDBwhagycHEAwUDAofK6VKGBMVFBUYKi8wMjU2MjMvLyWSgRUUBQwTHBgqJqxZFQ4LCAwDCAEEAQsKEhYVFSV9TRUZFxAaLUxzsZlkKiklJycnKy4sIx4lKCUfKCOZ5snDubnJ4uzq74QfExsYEhUfExgiLyYiGRMFDkN6oqytsrClj25JUoU5AgMEAgYBDBMPCwgJCxUULU03DQgICgkHCg0OMXg5BgMBBwEBCAoNEhsaDgUeIm07DAQEAgECBQQCKnJBAwIBBAMJKiwqKSssKikrL1BQHgIEBRcDAQQGKX9BCwAJAwMFEBsYEh4fFRASP08/QAgHJ3gdBAICEXdkDgQGCgcCFxIPDRAOCQQDcFkvNzIdlW9+EAUBCWRzEQgECgIJKTAvLDM1MSksZ2QlMy5YpDORJAgHGWB9EgkGAw0CKyEgJyUpND06WlIcJw+Fcl+JJwUZK0FxGQsBCQIJBgQQDQwMCxAPRzQEA0BNR1BKVzUlKS56LgkGBgUHBg0MCAgJAQEWSiQEI1ARCxcMOlhWIiuAcy4pGxMGCQQNBQcKBwksPBIRSi8ECwkIDBBbVwsybkMuNDg4",
+          "top": "BAUCAQQEAQMFAgQJDBobOiRHNCQFCAQEAwIHAwMEBwIEBgcDBAQBBgcQIhEjQZR8fXtrRAoGBwYCBAQFBgQFCQcIAgYHBxowHzc7RZA3I1JxlGEOBgQJBAQIBgMEBwcECAQFH0gwV2dmg4+HiT8DQ5BACQYEBAcIBwQHBAQGBAgZVCcpVDgXM345W5dDDXZWBgQGBAYGAgEHBQQDCB1dDEhiYSGaxSceEGKICXBbCwIBAgEEBQsIBwcFHGAPajBar820L2QsEhW+JbFEFQoGBgQCCAQFCQYZWCBgOgkmUVR6eiBfA1uqoL8lHwgCBAcHBQcHBBNMMkRTEwMQKzsaLSU9WIUksjJWCQQEBQcIBAUEBzhBH0hAIwoKFQ1BMyhijjcRNFNFBAcDBQMCBgcFG0EeE1+dmX1oUUJIW4ZoMxQOJlk/AgUGAwEDBAgGBCNgZ0orUWt2hGF+fEsGCwoKOm0xCAIGBAMEBQQBAQ0dc20hHA8LIRksDQkEAwgHQYEmDwIFBQIEBAQECAQNbHVHKhgOFRYjMgQDBAUOO4MtCwQHBQIEBwQIAgIIHHR7dl0hDBs0JCkEBAAPRIQmDgEEAgED",
+          "middle": "BQQBAQ0dc20hHA8LIRksDQkEAwgHQYEmDwIFBQIEBAQECAQNbHVHKhgOFRYjMgQDBAUOO4MtCwQHBQIEBwQIAgIIHHR7dl0hDBs0JCkEBAAPRIQmDgEEAgEDBwgKCAcLChckS3pXHBojMB0EBAUHU34bCAQEBAMGAgEGBggGCQoMCk1UHB4gFwQEAwkEYHUMCQUEBggLBAACBgMHBQQDC0FgHBkVAgQBBAgHam8FCQUFBQoEBQIEAwEBCAcEDDByGwYcDAMEBgQEaGkDCQQGCAkDBQQCAwQFBAYICRhdQgcRBwYLCQkPZW8CCwkKBAQIFRMQDg4ICQoKDRNNNhsbBQoHBxEgSoASDg4EBQUGIScrJiUpKCgoIx1hVBkPCAIHEQcmM38mEBQXEA8KFRUYHyMiHSQjIR9leRwGBwsQEA0oLJlBIiIjHiYkBgkHBgEHAwUDBwhagycHEAwUDAofK6VKGBMVFBUYKi8wMjU2MjMvLyWSgRUUBQwTHBgqJqxZFQ4LCAwDCAEEAQsKEhYVFSV9TRUZFxAaLUxzsZlkKiklJycnKy4sIx4lKCUfKCOZ5snDubnJ4uzq74QfExsYEhUf",
+          "bottom": "BgkHBgEHAwUDBwhagycHEAwUDAofK6VKGBMVFBUYKi8wMjU2MjMvLyWSgRUUBQwTHBgqJqxZFQ4LCAwDCAEEAQsKEhYVFSV9TRUZFxAaLUxzsZlkKiklJycnKy4sIx4lKCUfKCOZ5snDubnJ4uzq74QfExsYEhUfExgiLyYiGRMFDkN6oqytsrClj25JUoU5AgMEAgYBDBMPCwgJCxUULU03DQgICgkHCg0OMXg5BgMBBwEBCAoNEhsaDgUeIm07DAQEAgECBQQCKnJBAwIBBAMJKiwqKSssKikrL1BQHgIEBRcDAQQGKX9BCwAJAwMFEBsYEh4fFRASP08/QAgHJ3gdBAICEXdkDgQGCgcCFxIPDRAOCQQDcFkvNzIdlW9+EAUBCWRzEQgECgIJKTAvLDM1MSksZ2QlMy5YpDORJAgHGWB9EgkGAw0CKyEgJyUpND06WlIcJw+Fcl+JJwUZK0FxGQsBCQIJBgQQDQwMCxAPRzQEA0BNR1BKVzUlKS56LgkGBgUHBg0MCAgJAQEWSiQEI1ARCxcMOlhWIiuAcy4pGxMGCQQNBQcKBwksPBIRSi8ECwkIDBBbVwsybkMuNDg4"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.172885,
+          "top": 26.090066,
+          "middle": 19.868306,
+          "bottom": 23.033782,
+          "effectiveRatio": 0.530547
+        },
+        "extendable": false,
+        "sha256": "a44831cdfbbacdb5af7e8cdd0d57684d29e9a4531b549dddce06ac38841591ef",
+        "url": "https://www.nikkansports.com/baseball/news/img/202610160001288-w1300_0.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.898
+      },
+      "sha256": "a44831cdfbbacdb5af7e8cdd0d57684d29e9a4531b549dddce06ac38841591ef",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "루트는 2026-10-16 후속 작업 지시에서 사용자가 일본 매체 사진 사용 권한도 확보했다고 직접 회신했음을 전달했다.",
+        "authority": "human-user authorization relayed by /root",
+        "record": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\rights-authorization.json",
+        "note": "닛칸스포츠 원권리자·기자·사진 원문과 촬영 맥락을 보존했다. 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "visualReviewNote": "마에다가 회색 훈련복으로 양팔을 올려 스트레칭하는 2026년10월 자료사진. 얼굴이 선명하고 위·좌우 여유가 있다.",
+      "fullNameJapanese": [
+        "前田悠伍"
+      ],
+      "subjects": [
+        {
+          "nameKorean": "마에다 유고",
+          "fullNameJapanese": "前田悠伍",
+          "role": "투수",
+          "currentTeam": "후쿠오카 소프트뱅크 호크스",
+          "officialProfile": "https://npb.jp/bis/players/13115159.html"
+        }
+      ]
+    },
+    {
+      "name": "마사키 도모야(正木智也)·다미야 유아(田宮裕涼)",
+      "subject": "마사키 도모야(正木智也)·다미야 유아(田宮裕涼)",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610160001725-w1300_2.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610160001725-2.html",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\photo-2.jpg",
+      "imageCredit": "닛칸스포츠 梅根麻紀",
+      "creditDisplay": "사진 · 닛칸스포츠 梅根麻紀 (2026.10.16)",
+      "photoDate": "2026-10-16",
+      "photoDateLabel": "2026.10.16",
+      "checkedAt": "2026-10-16T12:06:24.615847+00:00",
+      "context": {
+        "originalContext": "ソフトバンク対日本ハム　5回裏ソフトバンク1死二塁、正木智也は左中間に逆転となる2点本塁打を放つ（撮影・梅根麻紀）",
+        "currentStoryUse": "오늘5회말 마사키 역전2점홈런 실전 사진. 뒤에 보이는 포수는 닛폰햄의 다미야 유아이다."
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T12:06:26.497Z",
+        "width": 1300,
+        "height": 1294,
+        "bytes": 243236,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.337780702670928,
+        "entropy": 7.26661534095183,
+        "effectiveDetailRatio": 0.515487,
+        "kind": "source",
+        "coverScale": 1.043,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1300,
+        "rawHeight": 1294,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "cc999999cac3d333",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BQQIDwQJCAkHBggJCAEDCw0MBgYGBgcFBgYHBwcFDAYHEgcBAQICAgIDDQQIBwcCAQICAgIBAgMBAQMBCgQFEA0RDg8NDQ8ODAMFBAwKBwkJCAkHCgwMDAwKDAIEBxMKCgYEBQQFBQMFBwUIBwcGBQYHCAIAAQICCwECDAsMCxceGxsaFx0WBwIFBwYFBggLCDc/Ojk3DAIHCQYGDTE7NTUzMC4nEQEEBwYFAgQJSahUQnJZCwADCQgIIjIOCxRCUxwwHwQNHBsUCQto1DldKRYxBAIBBQQHHSYGBzhRPlIwHQ0oMywrGpi5HoFYFT41FQEBBgMJREggBzMkRDtDJRIwFBojlHGCgygeKBYRHQMBAwhDWSQgHTJdUzM2IQomEAxbD6lwSh4BJhs0GQICAw9BQRBNRTAiFhYbGxIkIRA0fzkfNB0KMTM2GwEBBQceSWkirYrY02wVi5pIFC0tDA0PKg4jCxYVGgECBAEjV01NZpZVdMUYmGWLQg4fHAcSQz05RVlQGgECAwQTR6d0VLf/+E5tdZFnDQgQHxMUUEEFIBcQDQMCBAMdpqRg6aMpX10ZTEsxIiIeFQEXSysZAyMaBgYFCQookK1qmpDGrIgySCg4CAcFBAYTXmc7LjY2GgAKDSkwEsVfcZx0O4+nHkwRCQkLCgsJH2drZV1vHwkTFlgXWk7EQhoQFjPXzBcLCQYGBgUFBQgJCQwKYVVZbkMeKVePhAkREiw6/8ZYWllZVFpXVVdWV1dWeHJ3bycOQEhQuQ8nZ04gYp10cnR0jqh+cXR2dXZ2KCktT1IdETyHihtRH4FzTloXLihAeGhXLC8wLi4uDgwYSFZtm0pRJz88gWMyYYEqGxBDOy1MHBENDQwMDyVWRkVJOXNFVEYnGQw+ZZw+MxQ0PR9CJgwODw8QDVBfDkuWk0RYiG8JJjYrVlNHBhYsGCYWLikZDQ4NBxJkgGAZLREcnoIRMkQYkGQzAx0jCQEZGiIjEAkHBRR0jh8uRw4WdKcNJWA0yFlmDhIgHA8ZIR8TCQQFDw6UixdQQnIofaMiIElOyyuZIhYLDR4LBBIKCg0mIRN2zB5aND1zpnsYJDtLvxyqKB1JUUlFS0hFRERGFhBT1jpgPDBrl1w7K05ppRp1R0cpCRgHBBACCQUUEA0ot4IyLGKUXIRZDVJ6bxuGLiZHUE9FSUlHSkhKBQgLaZ8dHWc51MaGBUMxRSp8KhYTFxcWFRIVFBITKCg/gT0sHU1YY0GVRyZBNC9rQBkbFRQUEw0EAAICEA8hPmlnalwntG1XewRPcWNcFwoOCQcCCw0LCA0LKyguNElPbz0XQ5RxTEwrOlEPDgQFBwYFHSAJEhQUEBIaGAYpIBoaEx9rXD0gLBsaEQkLDBAnJxEkGQwIFxoSBCAWISEMDhMZEERGKx4aIBkdHBwPIygIECAZDA4RDQ0qJBIHAwEDAgMKBQcQEAUNDxIkHgUJCwEFAQYDAwUFBwQFAQMFAgIFCAUFCgwNDQoKBQQKDhQO",
+          "top": "BQQIDwQJCAkHBggJCAEDCw0MBgYGBgcFBgYHBwcFDAYHEgcBAQICAgIDDQQIBwcCAQICAgIBAgMBAQMBCgQFEA0RDg8NDQ8ODAMFBAwKBwkJCAkHCgwMDAwKDAIEBxMKCgYEBQQFBQMFBwUIBwcGBQYHCAIAAQICCwECDAsMCxceGxsaFx0WBwIFBwYFBggLCDc/Ojk3DAIHCQYGDTE7NTUzMC4nEQEEBwYFAgQJSahUQnJZCwADCQgIIjIOCxRCUxwwHwQNHBsUCQto1DldKRYxBAIBBQQHHSYGBzhRPlIwHQ0oMywrGpi5HoFYFT41FQEBBgMJREggBzMkRDtDJRIwFBojlHGCgygeKBYRHQMBAwhDWSQgHTJdUzM2IQomEAxbD6lwSh4BJhs0GQICAw9BQRBNRTAiFhYbGxIkIRA0fzkfNB0KMTM2GwEBBQceSWkirYrY02wVi5pIFC0tDA0PKg4jCxYVGgECBAEjV01NZpZVdMUYmGWLQg4fHAcSQz05RVlQGgECAwQTR6d0VLf/+E5tdZFnDQgQHxMUUEEFIBcQDQMCBAMdpqRg6aMpX10ZTEsxIiIeFQEXSysZAyMa",
+          "middle": "GgECBAEjV01NZpZVdMUYmGWLQg4fHAcSQz05RVlQGgECAwQTR6d0VLf/+E5tdZFnDQgQHxMUUEEFIBcQDQMCBAMdpqRg6aMpX10ZTEsxIiIeFQEXSysZAyMaBgYFCQookK1qmpDGrIgySCg4CAcFBAYTXmc7LjY2GgAKDSkwEsVfcZx0O4+nHkwRCQkLCgsJH2drZV1vHwkTFlgXWk7EQhoQFjPXzBcLCQYGBgUFBQgJCQwKYVVZbkMeKVePhAkREiw6/8ZYWllZVFpXVVdWV1dWeHJ3bycOQEhQuQ8nZ04gYp10cnR0jqh+cXR2dXZ2KCktT1IdETyHihtRH4FzTloXLihAeGhXLC8wLi4uDgwYSFZtm0pRJz88gWMyYYEqGxBDOy1MHBENDQwMDyVWRkVJOXNFVEYnGQw+ZZw+MxQ0PR9CJgwODw8QDVBfDkuWk0RYiG8JJjYrVlNHBhYsGCYWLikZDQ4NBxJkgGAZLREcnoIRMkQYkGQzAx0jCQEZGiIjEAkHBRR0jh8uRw4WdKcNJWA0yFlmDhIgHA8ZIR8TCQQFDw6UixdQQnIofaMiIElOyyuZIhYLDR4LBBIKCg0m",
+          "bottom": "DVBfDkuWk0RYiG8JJjYrVlNHBhYsGCYWLikZDQ4NBxJkgGAZLREcnoIRMkQYkGQzAx0jCQEZGiIjEAkHBRR0jh8uRw4WdKcNJWA0yFlmDhIgHA8ZIR8TCQQFDw6UixdQQnIofaMiIElOyyuZIhYLDR4LBBIKCg0mIRN2zB5aND1zpnsYJDtLvxyqKB1JUUlFS0hFRERGFhBT1jpgPDBrl1w7K05ppRp1R0cpCRgHBBACCQUUEA0ot4IyLGKUXIRZDVJ6bxuGLiZHUE9FSUlHSkhKBQgLaZ8dHWc51MaGBUMxRSp8KhYTFxcWFRIVFBITKCg/gT0sHU1YY0GVRyZBNC9rQBkbFRQUEw0EAAICEA8hPmlnalwntG1XewRPcWNcFwoOCQcCCw0LCA0LKyguNElPbz0XQ5RxTEwrOlEPDgQFBwYFHSAJEhQUEBIaGAYpIBoaEx9rXD0gLBsaEQkLDBAnJxEkGQwIFxoSBCAWISEMDhMZEERGKx4aIBkdHBwPIygIECAZDA4RDQ0qJBIHAwEDAgMKBQcQEAUNDxIkHgUJCwEFAQYDAwUFBwQFAQMFAgIFCAUFCgwNDQoKBQQKDhQO"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 28.030577,
+          "top": 19.723459,
+          "middle": 27.453859,
+          "bottom": 33.97328,
+          "effectiveRatio": 0.515487
+        },
+        "extendable": false,
+        "sha256": "bf0b79aff2f3d80734ace9753f9f7d47f3e89ef238e4877ecf405dbd54b55e6f",
+        "url": "https://www.nikkansports.com/baseball/news/img/202610160001725-w1300_2.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 1.043
+      },
+      "sha256": "bf0b79aff2f3d80734ace9753f9f7d47f3e89ef238e4877ecf405dbd54b55e6f",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "루트는 2026-10-16 후속 작업 지시에서 사용자가 일본 매체 사진 사용 권한도 확보했다고 직접 회신했음을 전달했다.",
+        "authority": "human-user authorization relayed by /root",
+        "record": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\rights-authorization.json",
+        "note": "닛칸스포츠 원권리자·기자·사진 원문과 촬영 맥락을 보존했다. 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "visualReviewNote": "마사키의 타격 직후. 전신과 얼굴이 명확하며 닛폰햄 포수 다미야가 뒤에 있다.",
+      "fullNameJapanese": [
+        "正木智也",
+        "田宮裕涼"
+      ],
+      "subjects": [
+        {
+          "nameKorean": "마사키 도모야",
+          "fullNameJapanese": "正木智也",
+          "role": "야수",
+          "currentTeam": "후쿠오카 소프트뱅크 호크스",
+          "officialProfile": "https://npb.jp/bis/players/81885155.html"
+        },
+        {
+          "nameKorean": "다미야 유아",
+          "fullNameJapanese": "田宮裕涼",
+          "role": "포수",
+          "currentTeam": "홋카이도 닛폰햄 파이터스",
+          "officialProfile": "https://npb.jp/bis/players/51055138.html"
+        }
+      ]
+    },
+    {
+      "name": "마에다 유고(前田悠伍)",
+      "subject": "마에다 유고(前田悠伍)",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610160001288-w1300_1.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610160001288-1.html",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\photo-3.jpg",
+      "imageCredit": "닛칸스포츠",
+      "creditDisplay": "사진 · 닛칸스포츠 (2026.10 자료사진)",
+      "photoDate": null,
+      "photoDateLabel": "2026.10 자료사진",
+      "checkedAt": "2026-10-16T12:06:24.615847+00:00",
+      "context": {
+        "originalContext": "ソフトバンク前田悠伍（2026年10月撮影）",
+        "currentStoryUse": "마에다의10월 훈련 자료사진으로 오늘 실전 사진과 구분한다."
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T12:06:26.666Z",
+        "width": 1300,
+        "height": 1733,
+        "bytes": 231962,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.0071715744628418,
+        "entropy": 6.7461134065561055,
+        "effectiveDetailRatio": 0.474943,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1300,
+        "rawHeight": 1733,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "26399ecd74b6b575",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQENef+HN4WrLygnOUAwCRAFK1MNLT0fbIt1XnOaAwIIrOSpYEWVcCoeVDRCKxQJIz0nNSYyHHEIcp9LBAQcI2admjZcJiwkXy4sDSQVKnJEdjtQLVVxLS9hAQIDUGNrYCJXNB4oWjE6Dg8bJ4oCNR5Sv3zKfYeHAgEIQKpxIRlegBZqZjZeTkc1hHdEWw9peguDRS8nBAADD3eFhFZAjtxtMDRqXW1wfR8vZmyN5rjjs4qMBAQEC2xJSI5LF3X/8BAuDygyJQYNMjZEncu4OjU4TE1NS29Zc5EzCRVB//9eOEhKSEZGTExOOhwwTEhHeHh4dH1Re0YnDwscFfD/klhlZmlqbGlsdHl3dHV4KCwrKzoyUD9ZPiEZJxWV3VUXIyIiJSUkJSYoKCYqCgwNDRksIzleViMTGBwda8Q6FBMVExcWFBIUEA4NDgsNMnKTO2QzXDgOGQQRGW21QhUQEhQVFhUUFBYTCAYLabJah4hkYzA0HAoREQpZolQLCAYGBAcFBAAEAQMGdowbXleri7CpeiEPBA4OOJVGBgQAAQELHhUJAwMGb7E0SNM9uLyZ8X4MDgwMEUF0HgYEBAQbF2A0BAUHIaGmupN6owlMjONGEw8MBJOuURAEAwIRfkdWBAQGCxtqWSOnaUpAGaDteigtDOmXij8PBApDHyl+AQEBAggIDEOrHYpSOy5Di1a5vP8zcXwRCgM3WDGoAwMBAgEEDGmeb6gvJ0dSLcrZ5GoSNpNuCnGZd51SAgMEAwIEG5o2xThPeXyPys47LxEMCkmpXasrKlpjBAQCAwEQJpCfnBqYd2NdNRE8GRkRBjM7fR4RZowNAgIEAwIWKiqGDiGLXQweICmigg8hSTw4Fg0qrT0NAwQCAgMUJC0PBgZ0fAYSBHmDx8V0ZWc0GxCcdQkEAQEEAQEMGAwOBgJvfykMDoNoFHqnzVgZFoOdEQoCAAIBAAQEDQcBBAdNbyUfNYs3EggYQrymkKIjDwQAAQEBAgICBAMBAgwmmlUTUIUlCAMIDx1YZCIMAQIEAQIAAQEBAQEDAQoXhFwMZ38RCAIBAgoPCAcBAQECAQEBAgMBAwMBAgoUh2Yki2AMBgIEBgQDAwIEAgQBAQQCAwQCAgQEBAkljE1AhjkSBAMJAwQABgQCAQQEAgEBBQEBAQEEAQpBhCxCejINAwQBBQMEAgIBAgIBAgIEAQQCAQICAgdHfic9eTYJAwMFAgQEAgMCAwICAgEEBAQDAgECAgtAhC9Fei8JAQIBAgEEAwQDAgMBBAABBAEAAgQDAQ00llBxhB4GAwUBBAMCBAEFBAEDAQMCAQMBAgEDAwgiZ+HATg8EBAEBAgUDAQYCAgQAAwMEAQMEAwEBAwMIX0ZdPwMGAQEBAgICBAACBAEBDw8QEAsLDQoJCAkDK9SiOxILDAsLCgcIBAIEAgIEDw4QEBIWGhwgIR4jcFFpXhQbEgkIBAUHBQECAgABEA0SEQ4ODgsIAwcdLJclVgcKEQ4MCgkIBAIEBAME",
+          "top": "AQENef+HN4WrLygnOUAwCRAFK1MNLT0fbIt1XnOaAwIIrOSpYEWVcCoeVDRCKxQJIz0nNSYyHHEIcp9LBAQcI2admjZcJiwkXy4sDSQVKnJEdjtQLVVxLS9hAQIDUGNrYCJXNB4oWjE6Dg8bJ4oCNR5Sv3zKfYeHAgEIQKpxIRlegBZqZjZeTkc1hHdEWw9peguDRS8nBAADD3eFhFZAjtxtMDRqXW1wfR8vZmyN5rjjs4qMBAQEC2xJSI5LF3X/8BAuDygyJQYNMjZEncu4OjU4TE1NS29Zc5EzCRVB//9eOEhKSEZGTExOOhwwTEhHeHh4dH1Re0YnDwscFfD/klhlZmlqbGlsdHl3dHV4KCwrKzoyUD9ZPiEZJxWV3VUXIyIiJSUkJSYoKCYqCgwNDRksIzleViMTGBwda8Q6FBMVExcWFBIUEA4NDgsNMnKTO2QzXDgOGQQRGW21QhUQEhQVFhUUFBYTCAYLabJah4hkYzA0HAoREQpZolQLCAYGBAcFBAAEAQMGdowbXleri7CpeiEPBA4OOJVGBgQAAQELHhUJAwMGb7E0SNM9uLyZ8X4MDgwMEUF0HgYEBAQbF2A0",
+          "middle": "CAYLabJah4hkYzA0HAoREQpZolQLCAYGBAcFBAAEAQMGdowbXleri7CpeiEPBA4OOJVGBgQAAQELHhUJAwMGb7E0SNM9uLyZ8X4MDgwMEUF0HgYEBAQbF2A0BAUHIaGmupN6owlMjONGEw8MBJOuURAEAwIRfkdWBAQGCxtqWSOnaUpAGaDteigtDOmXij8PBApDHyl+AQEBAggIDEOrHYpSOy5Di1a5vP8zcXwRCgM3WDGoAwMBAgEEDGmeb6gvJ0dSLcrZ5GoSNpNuCnGZd51SAgMEAwIEG5o2xThPeXyPys47LxEMCkmpXasrKlpjBAQCAwEQJpCfnBqYd2NdNRE8GRkRBjM7fR4RZowNAgIEAwIWKiqGDiGLXQweICmigg8hSTw4Fg0qrT0NAwQCAgMUJC0PBgZ0fAYSBHmDx8V0ZWc0GxCcdQkEAQEEAQEMGAwOBgJvfykMDoNoFHqnzVgZFoOdEQoCAAIBAAQEDQcBBAdNbyUfNYs3EggYQrymkKIjDwQAAQEBAgICBAMBAgwmmlUTUIUlCAMIDx1YZCIMAQIEAQIAAQEBAQEDAQoXhFwMZ38RCAIBAgoPCAcBAQEC",
+          "bottom": "AQEEAQEMGAwOBgJvfykMDoNoFHqnzVgZFoOdEQoCAAIBAAQEDQcBBAdNbyUfNYs3EggYQrymkKIjDwQAAQEBAgICBAMBAgwmmlUTUIUlCAMIDx1YZCIMAQIEAQIAAQEBAQEDAQoXhFwMZ38RCAIBAgoPCAcBAQECAQEBAgMBAwMBAgoUh2Yki2AMBgIEBgQDAwIEAgQBAQQCAwQCAgQEBAkljE1AhjkSBAMJAwQABgQCAQQEAgEBBQEBAQEEAQpBhCxCejINAwQBBQMEAgIBAgIBAgIEAQQCAQICAgdHfic9eTYJAwMFAgQEAgMCAwICAgEEBAQDAgECAgtAhC9Fei8JAQIBAgEEAwQDAgMBBAABBAEAAgQDAQ00llBxhB4GAwUBBAMCBAEFBAEDAQMCAQMBAgEDAwgiZ+HATg8EBAEBAgUDAQYCAgQAAwMEAQMEAwEBAwMIX0ZdPwMGAQEBAgICBAACBAEBDw8QEAsLDQoJCAkDK9SiOxILDAsLCgcIBAIEAgIEDw4QEBIWGhwgIR4jcFFpXhQbEgkIBAUHBQECAgABEA0SEQ4ODgsIAwcdLJclVgcKEQ4MCgkIBAIEBAME"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 15.409199,
+          "top": 16.401033,
+          "middle": 16.963692,
+          "bottom": 12.22162,
+          "effectiveRatio": 0.474943
+        },
+        "extendable": false,
+        "sha256": "4980c0b9f96e6f4c4c28e48bae8ebfa05c6ae28a05f5a3a391106454e9f7b764",
+        "url": "https://www.nikkansports.com/baseball/news/img/202610160001288-w1300_1.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.831
+      },
+      "sha256": "4980c0b9f96e6f4c4c28e48bae8ebfa05c6ae28a05f5a3a391106454e9f7b764",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "루트는 2026-10-16 후속 작업 지시에서 사용자가 일본 매체 사진 사용 권한도 확보했다고 직접 회신했음을 전달했다.",
+        "authority": "human-user authorization relayed by /root",
+        "record": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\rights-authorization.json",
+        "note": "닛칸스포츠 원권리자·기자·사진 원문과 촬영 맥락을 보존했다. 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "visualReviewNote": "마에다가 회색 훈련복으로 공을 던지는 2026년10월 자료사진. 얼굴과 동작이 명확하며 오늘 실전 사진으로 쓰지 않는다.",
+      "fullNameJapanese": [
+        "前田悠伍"
+      ],
+      "subjects": [
+        {
+          "nameKorean": "마에다 유고",
+          "fullNameJapanese": "前田悠伍",
+          "role": "투수",
+          "currentTeam": "후쿠오카 소프트뱅크 호크스",
+          "officialProfile": "https://npb.jp/bis/players/13115159.html"
+        }
+      ]
+    },
+    {
+      "name": "야마모토 유다이(山本祐大)",
+      "subject": "야마모토 유다이(山本祐大)",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610020001569-w1300_0.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610020001569-0.html",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\photo-4.jpg",
+      "imageCredit": "닛칸스포츠 たえ見朱実",
+      "creditDisplay": "사진 · 닛칸스포츠 たえ見朱実 (2026.10.02 자료사진)",
+      "photoDate": "2026-10-02",
+      "photoDateLabel": "2026.10.02 자료사진",
+      "checkedAt": "2026-10-16T12:06:24.615847+00:00",
+      "context": {
+        "originalContext": "ロッテ対ソフトバンク　9回表ソフトバンク1死一、三塁、3点本塁打を放った山本祐大（撮影・たえ見朱実）",
+        "currentStoryUse": "야마모토의10월2일 롯데전 홈런 후 자료사진. 오늘 CS 득점 장면으로 표현하지 않는다."
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T12:06:26.763Z",
+        "width": 1300,
+        "height": 1526,
+        "bytes": 244943,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.940633724400705,
+        "entropy": 7.7080468845088035,
+        "effectiveDetailRatio": 0.52985,
+        "kind": "source",
+        "coverScale": 0.885,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1300,
+        "rawHeight": 1526,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "339bb3eb9b9b2ea7",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "URILWpAaMi47TSBLGR87OQU3UzhALXItME5JHxIRLUKH85NcBBkSJ1cmCz5FMjtHQDNDYUkiRDY/JAkZKDmNZ6idKDE5KzBREzROVSgiLClOSSQ0FTcULBMiBzdn5rNlU3ZILjIhPD1aDzQCFyk6Oo02IzM5CBsUPiw3YYMsKzZCTjInGxZxcScUBRQknm1mHig9QCEQT2SASBwpTVZMRRk3PyQ4c00NFQxUjzVlHTtSJylBFmFeklhmkEx4dTtCNl0Fa0QYFQ9iTUo2K1UrQiZQIWcNPHQ4pHuGOnheCGJbeB0HBzdRMz4aHUNhSFVuMFVOUS9tIoM0gUexfCtpIgoSFkcXPl9AQyUwRQ5DNxh3G1IrVE9SWVOVdxYKIhUeMxE5JAZSQzE7HjdUD18qEigxZzNLa1eQVg0xJRQ6IC8UPkNKKyVfHCofZWIeEx5qH2YURXNkDBYfCUtBEjwmLg4aFxRWICATQxE4KkIoXglSFzQJHjN2JDsGHCMgMiMXKBFJJQ8JGRopBVlCGjYfWm0iIKN+gCklIi0MCT82CApDTgoLIQwoJgsnJx41SThqRbBNhjUSLQlAVEQfCRcPQRsJOCYeHzoqJTBbUW8uPoCRajwoHRpNIEcRKx9CZxEWODcICx8pRzlgICwKIkD1RMQvCAkwNChJNBleJRItKEIVISsoJjswDRMVACo61VAsBCpZCUMwUBNMXyM8LSkpIAgeGhE4PxRlj7i7Hzc0IwpcXFYkJmVrTxgbIDgJMyclFA0cJ4//7dn6y4AtMRINIig2NUVNISYZTUlsPz1DQENCh/+cPSFSp7eMgHh8dIItJmIqECAYiF6TkoKBfXx+w4UfDwMmFzhlYGRXWGZgF4RRDRgHERcNGRUbAhk9aCUIBx1QLElWMCQiJAZRLXKsGx0TLml0bVxzKi1/QgQCH0U4LHdQNzU0J0gkUCvRYwcTS21NTk5MXX1yEQZOSBdVeYlvcGt4aTpJYCF7jhARRU4pHRs9mqgnEW6rdU8o58hrXllkp7m6kVeBZRIXSWdXQ09xsWsRW6QYnXcFz+UXEBA7MBRQu2WCUgsLOomCdWpkZl8gYy1AQ3Uqo/02HiVwYY95VmO/MAZfFBcdCRMfTnIFbklNMT05Q/+PDhI0bTBmdpNzBS1sQU9MSkdCYbBDlZprfFg9IJrTPxs2RBtNFjUwDiY3DSwvN0dGUI56esgZf2FWQFPTUzclQh0SIjthFxuCKik8TTsxQCtRToZLQig+dRjDTx0ODyEDCRp4Sw2lFREnCRUJDjdrNXc/PBkNgUXBwwo0JgkfLC1ZkRhwDQ4NBgUQLSRnGs5Agmk5XYJsvlA7HjkaG1RKblEWQDY8MzdBG0hLU468HGNPaoQojjgTOkAkFCIjOC8JEgwVIQ8fVjwyYGOPVDMVjZYrtVkaDiA6HEIvQzofISMaFCAjBEguJEgUTDo/YH9YlEcGFi43EhpRRwtzLi0pLSgmMSAoFxMbIBwvOzlbWUJKVks/NzR8cYmS",
+          "top": "URILWpAaMi47TSBLGR87OQU3UzhALXItME5JHxIRLUKH85NcBBkSJ1cmCz5FMjtHQDNDYUkiRDY/JAkZKDmNZ6idKDE5KzBREzROVSgiLClOSSQ0FTcULBMiBzdn5rNlU3ZILjIhPD1aDzQCFyk6Oo02IzM5CBsUPiw3YYMsKzZCTjInGxZxcScUBRQknm1mHig9QCEQT2SASBwpTVZMRRk3PyQ4c00NFQxUjzVlHTtSJylBFmFeklhmkEx4dTtCNl0Fa0QYFQ9iTUo2K1UrQiZQIWcNPHQ4pHuGOnheCGJbeB0HBzdRMz4aHUNhSFVuMFVOUS9tIoM0gUexfCtpIgoSFkcXPl9AQyUwRQ5DNxh3G1IrVE9SWVOVdxYKIhUeMxE5JAZSQzE7HjdUD18qEigxZzNLa1eQVg0xJRQ6IC8UPkNKKyVfHCofZWIeEx5qH2YURXNkDBYfCUtBEjwmLg4aFxRWICATQxE4KkIoXglSFzQJHjN2JDsGHCMgMiMXKBFJJQ8JGRopBVlCGjYfWm0iIKN+gCklIi0MCT82CApDTgoLIQwoJgsnJx41SThqRbBNhjUSLQlAVEQfCRcPQRsJ",
+          "middle": "QxE4KkIoXglSFzQJHjN2JDsGHCMgMiMXKBFJJQ8JGRopBVlCGjYfWm0iIKN+gCklIi0MCT82CApDTgoLIQwoJgsnJx41SThqRbBNhjUSLQlAVEQfCRcPQRsJOCYeHzoqJTBbUW8uPoCRajwoHRpNIEcRKx9CZxEWODcICx8pRzlgICwKIkD1RMQvCAkwNChJNBleJRItKEIVISsoJjswDRMVACo61VAsBCpZCUMwUBNMXyM8LSkpIAgeGhE4PxRlj7i7Hzc0IwpcXFYkJmVrTxgbIDgJMyclFA0cJ4//7dn6y4AtMRINIig2NUVNISYZTUlsPz1DQENCh/+cPSFSp7eMgHh8dIItJmIqECAYiF6TkoKBfXx+w4UfDwMmFzhlYGRXWGZgF4RRDRgHERcNGRUbAhk9aCUIBx1QLElWMCQiJAZRLXKsGx0TLml0bVxzKi1/QgQCH0U4LHdQNzU0J0gkUCvRYwcTS21NTk5MXX1yEQZOSBdVeYlvcGt4aTpJYCF7jhARRU4pHRs9mqgnEW6rdU8o58hrXllkp7m6kVeBZRIXSWdXQ09xsWsRW6QYnXcFz+UXEBA7MBRQu2WCUgsL",
+          "bottom": "Lml0bVxzKi1/QgQCH0U4LHdQNzU0J0gkUCvRYwcTS21NTk5MXX1yEQZOSBdVeYlvcGt4aTpJYCF7jhARRU4pHRs9mqgnEW6rdU8o58hrXllkp7m6kVeBZRIXSWdXQ09xsWsRW6QYnXcFz+UXEBA7MBRQu2WCUgsLOomCdWpkZl8gYy1AQ3Uqo/02HiVwYY95VmO/MAZfFBcdCRMfTnIFbklNMT05Q/+PDhI0bTBmdpNzBS1sQU9MSkdCYbBDlZprfFg9IJrTPxs2RBtNFjUwDiY3DSwvN0dGUI56esgZf2FWQFPTUzclQh0SIjthFxuCKik8TTsxQCtRToZLQig+dRjDTx0ODyEDCRp4Sw2lFREnCRUJDjdrNXc/PBkNgUXBwwo0JgkfLC1ZkRhwDQ4NBgUQLSRnGs5Agmk5XYJsvlA7HjkaG1RKblEWQDY8MzdBG0hLU468HGNPaoQojjgTOkAkFCIjOC8JEgwVIQ8fVjwyYGOPVDMVjZYrtVkaDiA6HEIvQzofISMaFCAjBEguJEgUTDo/YH9YlEcGFi43EhpRRwtzLi0pLSgmMSAoFxMbIBwvOzlbWUJKVks/NzR8cYmS"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.065704,
+          "top": 21.727776,
+          "middle": 21.295995,
+          "bottom": 23.639104,
+          "effectiveRatio": 0.52985
+        },
+        "extendable": false,
+        "sha256": "6af3a7bbc4b10d7e3b441d5a8df6cccf40cc5f5b5d7eb9c99904278c91545019",
+        "url": "https://www.nikkansports.com/baseball/news/img/202610020001569-w1300_0.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.885
+      },
+      "sha256": "6af3a7bbc4b10d7e3b441d5a8df6cccf40cc5f5b5d7eb9c99904278c91545019",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "루트는 2026-10-16 후속 작업 지시에서 사용자가 일본 매체 사진 사용 권한도 확보했다고 직접 회신했음을 전달했다.",
+        "authority": "human-user authorization relayed by /root",
+        "record": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\rights-authorization.json",
+        "note": "닛칸스포츠 원권리자·기자·사진 원문과 촬영 맥락을 보존했다. 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "visualReviewNote": "야마모토가 10월2일 홈런 뒤 오른팔을 들어 올린 장면. 얼굴과 전신이 선명하고 가운데 세로 크롭에서 얼굴이 남는다. 오른쪽 심판은 부수적인 인물이다.",
+      "fullNameJapanese": [
+        "山本祐大"
+      ],
+      "subjects": [
+        {
+          "nameKorean": "야마모토 유다이",
+          "fullNameJapanese": "山本祐大",
+          "role": "포수",
+          "currentTeam": "후쿠오카 소프트뱅크 호크스",
+          "officialProfile": "https://npb.jp/bis/players/23125136.html"
+        }
+      ]
+    },
+    {
+      "name": "야마모토 유다이(山本祐大)",
+      "subject": "야마모토 유다이(山本祐大)",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610020001569-w1300_2.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610020001569-2.html",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\photo-5.jpg",
+      "imageCredit": "닛칸스포츠 たえ見朱実",
+      "creditDisplay": "사진 · 닛칸스포츠 たえ見朱実 (2026.10.02 자료사진)",
+      "photoDate": "2026-10-02",
+      "photoDateLabel": "2026.10.02 자료사진",
+      "checkedAt": "2026-10-16T12:06:24.615847+00:00",
+      "context": {
+        "originalContext": "ロッテ対ソフトバンク　9回表ソフトバンク1死一、三塁、3点本塁打を放つ山本祐大（撮影・たえ見朱実）",
+        "currentStoryUse": "야마모토의10월2일 타격 자료사진. 오늘 경기 또는 시리즈 진출 세리머니로 표현하지 않는다."
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T12:06:26.853Z",
+        "width": 1300,
+        "height": 1296,
+        "bytes": 200493,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.8218834481138604,
+        "entropy": 7.704046254977584,
+        "effectiveDetailRatio": 0.539608,
+        "kind": "source",
+        "coverScale": 1.042,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1300,
+        "rawHeight": 1296,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "9d51475a46671713",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "VzIGBwZIXCkfNSwyPylwWhYyJy8kNEIYHjJKIVkfSWMwFwxASQgjMng7RVUaSjwbKTwjHwcHBCQ7TwlmLTk7EQwvSh8ZHi1JJipCWTIbEhwdMU4/RB8sRDJRNk0kGhQqOUgRFxQSOjV2JDkwSjI6YiJmZShRQlAKQh0vHxUODWAcKA1PKkMeUiQTJzMtFWosUCRYITJUGnAfKwgYNUliDTcZUU5yJA8gEzcPPihwS2JohjQnNkVKNAwiAjwiBR9pUVIKNxAcIRolLlkXX50wVDcaRDE+UDwPQFwsNzNkVTEXOBYmIycNMlZKcRoeEA0QOUItF107LT5gLYhJFR0WDnVYRBdOSEMyMR4ePkVcCB0bTDUPOS4SRyM3Njkmg6KoX3BVLEhWWG9vemY6KjElIQYfKRIhAiFlUhsJV3aJtRpIYWc9Jz0sNCQwMxQhGxkOHBYREUVct2M9Tb43qYREPD03P0dKEiwvDQwXFhgMGicnH1SvCeXJeFirPr9PIhYRBwk3Pi5JCREOPx8eKxYIEDV6/4Ru2Xd3zk6iglJCQEJGGw5IFAQAJy4SJRYZES8lZPbrekQqgfKzQRkFDBcWBgQRDiIgOVwtPFoNUzsITysmSDkZEGFDJi5DLRwNAx4oRRcUDkQoQgwoJzclWnKFZxYeICISNk0ROisYFSEiBygMSjEkHxoRMhYtUExWXTAcEhMJJ0o9BjchDx4kWCJJUCItSUQqMB4TM1cyLBQJDx+IniI/EDUbBAgNCyceJB4WHxhPSmc0KypMaV4aVvny9cQ/JkgmKkFfbnaXoJaesK2dT3eRipKfbdKc/+VLRuKEQoGKioufezQqICEnGz5OEBk4Mz42GEjYoQ0HBkdYES46NikXNjNqcGZqWoSId3Z2dXyMaUlRFg0NDVV6UVFaaWBuH251SzcVDVJpX1lUY2ppX4FEKSMSHaSLJiEuO0ZOG4hmIkk5Oj4jKCEeIDQ8qaQbCSgRZrlMNSodFkZSZnx8XEgfMTc+QD5fWh6c20sjDiMIi7lKBDsxXEgtETxuZ3N6a1JPP0RIkYa1rQcrFCMlkX2EjYtahrCjcVVAJCI1KCQVExU2ChVmViEyLyA5REhORDsnP2ycN0BFKRoXGRYJDAoHCS6cbj01OT4zOi8pKi8rKhweEjMkSWRtX2dvbWp0eno0hDgnG1EMhjsMAgkFDwYWLEYpdDUoLiU2KjEqIHVBV1YwGh0+RV4UECIUERkOOgsNMVIsGz8NHgsiUkcnIi9xZBYsDlQpKg4fFwQZTVlEFxAoHyEpEA4+ECpMWlM7eHhBClc1DRUXDgYWLg5ZYgwYIg08JTYkDGpvBhozKGePLl9BFyodIy0ZSEBGLB0qJx84KjM2LDlJQEAwHBJ7eFN6HyEYGiUfHyYpEQkUFhMXGxIWEA4kIicmLhJXRmIsRSMmKyQfCQcQFRgbGRsfGxoiJxsWExcVKiUnNhAfGhobHR4gAgQEBQUCAwEECAMGCAkGCwQFCisRDQ8EDgkLEAYF",
+          "top": "VzIGBwZIXCkfNSwyPylwWhYyJy8kNEIYHjJKIVkfSWMwFwxASQgjMng7RVUaSjwbKTwjHwcHBCQ7TwlmLTk7EQwvSh8ZHi1JJipCWTIbEhwdMU4/RB8sRDJRNk0kGhQqOUgRFxQSOjV2JDkwSjI6YiJmZShRQlAKQh0vHxUODWAcKA1PKkMeUiQTJzMtFWosUCRYITJUGnAfKwgYNUliDTcZUU5yJA8gEzcPPihwS2JohjQnNkVKNAwiAjwiBR9pUVIKNxAcIRolLlkXX50wVDcaRDE+UDwPQFwsNzNkVTEXOBYmIycNMlZKcRoeEA0QOUItF107LT5gLYhJFR0WDnVYRBdOSEMyMR4ePkVcCB0bTDUPOS4SRyM3Njkmg6KoX3BVLEhWWG9vemY6KjElIQYfKRIhAiFlUhsJV3aJtRpIYWc9Jz0sNCQwMxQhGxkOHBYREUVct2M9Tb43qYREPD03P0dKEiwvDQwXFhgMGicnH1SvCeXJeFirPr9PIhYRBwk3Pi5JCREOPx8eKxYIEDV6/4Ru2Xd3zk6iglJCQEJGGw5IFAQAJy4SJRYZES8lZPbrekQqgfKzQRkFDBcWBgQR",
+          "middle": "DQwXFhgMGicnH1SvCeXJeFirPr9PIhYRBwk3Pi5JCREOPx8eKxYIEDV6/4Ru2Xd3zk6iglJCQEJGGw5IFAQAJy4SJRYZES8lZPbrekQqgfKzQRkFDBcWBgQRDiIgOVwtPFoNUzsITysmSDkZEGFDJi5DLRwNAx4oRRcUDkQoQgwoJzclWnKFZxYeICISNk0ROisYFSEiBygMSjEkHxoRMhYtUExWXTAcEhMJJ0o9BjchDx4kWCJJUCItSUQqMB4TM1cyLBQJDx+IniI/EDUbBAgNCyceJB4WHxhPSmc0KypMaV4aVvny9cQ/JkgmKkFfbnaXoJaesK2dT3eRipKfbdKc/+VLRuKEQoGKioufezQqICEnGz5OEBk4Mz42GEjYoQ0HBkdYES46NikXNjNqcGZqWoSId3Z2dXyMaUlRFg0NDVV6UVFaaWBuH251SzcVDVJpX1lUY2ppX4FEKSMSHaSLJiEuO0ZOG4hmIkk5Oj4jKCEeIDQ8qaQbCSgRZrlMNSodFkZSZnx8XEgfMTc+QD5fWh6c20sjDiMIi7lKBDsxXEgtETxuZ3N6a1JPP0RIkYa1rQcrFCMlkX2EjYtahrCj",
+          "bottom": "H251SzcVDVJpX1lUY2ppX4FEKSMSHaSLJiEuO0ZOG4hmIkk5Oj4jKCEeIDQ8qaQbCSgRZrlMNSodFkZSZnx8XEgfMTc+QD5fWh6c20sjDiMIi7lKBDsxXEgtETxuZ3N6a1JPP0RIkYa1rQcrFCMlkX2EjYtahrCjcVVAJCI1KCQVExU2ChVmViEyLyA5REhORDsnP2ycN0BFKRoXGRYJDAoHCS6cbj01OT4zOi8pKi8rKhweEjMkSWRtX2dvbWp0eno0hDgnG1EMhjsMAgkFDwYWLEYpdDUoLiU2KjEqIHVBV1YwGh0+RV4UECIUERkOOgsNMVIsGz8NHgsiUkcnIi9xZBYsDlQpKg4fFwQZTVlEFxAoHyEpEA4+ECpMWlM7eHhBClc1DRUXDgYWLg5ZYgwYIg08JTYkDGpvBhozKGePLl9BFyodIy0ZSEBGLB0qJx84KjM2LDlJQEAwHBJ7eFN6HyEYGiUfHyYpEQkUFhMXGxIWEA4kIicmLhJXRmIsRSMmKyQfCQcQFRgbGRsfGxoiJxsWExcVKiUnNhAfGhobHR4gAgQEBQUCAwEECAMGCAkGCwQFCisRDQ8EDgkLEAYF"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.588991,
+          "top": 20.117934,
+          "middle": 19.799345,
+          "bottom": 19.928692,
+          "effectiveRatio": 0.539608
+        },
+        "extendable": false,
+        "sha256": "262e9b58385f8cd11892b797d13bdf999816cca284123dc6103e486d528fe91c",
+        "url": "https://www.nikkansports.com/baseball/news/img/202610020001569-w1300_2.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 1.042
+      },
+      "sha256": "262e9b58385f8cd11892b797d13bdf999816cca284123dc6103e486d528fe91c",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "루트는 2026-10-16 후속 작업 지시에서 사용자가 일본 매체 사진 사용 권한도 확보했다고 직접 회신했음을 전달했다.",
+        "authority": "human-user authorization relayed by /root",
+        "record": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\rights-authorization.json",
+        "note": "닛칸스포츠 원권리자·기자·사진 원문과 촬영 맥락을 보존했다. 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "visualReviewNote": "야마모토가 10월2일 홈런을 친 뒤 배트를 든 모습. 얼굴과 전신이 선명하며 첫 후보와 다른 타격 동작이다.",
+      "fullNameJapanese": [
+        "山本祐大"
+      ],
+      "subjects": [
+        {
+          "nameKorean": "야마모토 유다이",
+          "fullNameJapanese": "山本祐大",
+          "role": "포수",
+          "currentTeam": "후쿠오카 소프트뱅크 호크스",
+          "officialProfile": "https://npb.jp/bis/players/23125136.html"
+        }
+      ]
+    }
+  ]
+}
