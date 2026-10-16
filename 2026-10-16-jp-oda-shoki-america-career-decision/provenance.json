@@ -1,0 +1,453 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "요코하마고 오다, NPB 대신 미국 도전",
+  "issueKey": "japan-highschool-2026-oda-shoki-america-career-decision-1015",
+  "checkedAt": "2026-10-16T11:15:59.114Z",
+  "sourceUrl": "https://npb.jp/news/detail/20260930_01.html",
+  "corroboratingUrls": [
+    "https://www.nikkansports.com/baseball/highschool/news/202610150000403.html",
+    "https://newsdig.tbs.co.jp/articles/-/3010862?display=1",
+    "https://www.hb-nippon.com/articles/18327",
+    "https://www.japan-baseball.jp/jp/news/press/20260822_1.html",
+    "https://www.japan-baseball.jp/jp/news/press/20260912_1.html",
+    "https://npb.jp/news/detail/20260930_01.html"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.nikkansports.com/baseball/mlb/news/202610150001349.html",
+      "publishedAt": "2026-10-15T19:08:00+09:00",
+      "role": "primary-current-event-firsthand-conference-report",
+      "note": "10월15일 요코하마고 회견 현장 취재. 미국 도전·NPB 미경유의 뜻을 확인한다. 계약 구단 확정 발표가 아니다."
+    },
+    {
+      "url": "https://www.nikkansports.com/baseball/highschool/news/202610150000403.html",
+      "publishedAt": "2026-10-15T17:00:00+09:00",
+      "role": "firsthand-conference-opening-remarks",
+      "note": "선수 본인 회견 인사 전문. 미국행·영어 소통·대학과 마이너리그 검토의 당사자 발언이다. 사진의 14일 캡션은 본문15일 회견과 충돌하여 채택하지 않는다."
+    },
+    {
+      "url": "https://newsdig.tbs.co.jp/articles/-/3010862?display=1",
+      "publishedAt": "2026-10-15T10:38:00+09:00",
+      "role": "independent-conference-report",
+      "note": "영어·생활 환경·U18 경험·대학 및 마이너리그 검토를 교차 확인한다. 하단 약력의 2003년 생년은 나이18세와 충돌하는 오기로 사용하지 않는다."
+    },
+    {
+      "url": "https://www.hb-nippon.com/articles/18327",
+      "publishedAt": "2026-10-15",
+      "role": "firsthand-conference-and-koshien-background",
+      "note": "3학년·우완·최고157km·미국행 및 2026여름5경기27이닝34K ERA2.00, 하나마키히가시전9이닝7안타10K완봉을 확인한다."
+    },
+    {
+      "url": "https://www.japan-baseball.jp/jp/news/press/20260822_1.html",
+      "publishedAt": "2026-08-22",
+      "role": "official-grade-school-and-national-team-roster",
+      "note": "오다는 요코하마3학년, 우투우타, 일본 U18대표11번이다."
+    },
+    {
+      "url": "https://www.japan-baseball.jp/jp/news/press/20260912_1.html",
+      "publishedAt": "2026-09-12",
+      "role": "official-u18-performance-background",
+      "note": "9월12일 대만전6이닝3안타7K1실점·일본2대1승리. 9월성과를10월새경기로 포장하지 않는다."
+    },
+    {
+      "url": "https://npb.jp/news/detail/20260930_01.html",
+      "publishedAt": "2026-09-30",
+      "role": "official-draft-calendar-background",
+      "note": "NPB2026드래프트는10월22일16:50예정이다. 오다의 진로발표를 담은 공식NPB기사로 표시하지 않는다."
+    }
+  ],
+  "rightsEvidence": "2026-10-16 사용자 직접 확인: 일본 고교생 카드에 쓰는 닛칸스포츠 등 일본 매체 사진도 사용권 확보 완료. 해당 회신과 원문·원본·촬영자·확인일을 연결했다.",
+  "photos": [
+    {
+      "name": "진로 회견 뒤 주먹을 들어 보인 오다",
+      "subject": "오다 쇼키",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610150001349-9.html",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610150001349-w1300_9.jpg",
+      "imageCredit": "닛칸스포츠 아사미 게이코",
+      "creditDisplay": "사진 · 닛칸스포츠 아사미 게이코 (2026.10.15 회견)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 회견",
+      "checkedAt": "2026-10-16T11:04:47.428778+00:00",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-oda-story\\photos\\nikkan-9.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:00:57.197Z",
+        "width": 1300,
+        "height": 1745,
+        "bytes": 208042,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.8787882271127085,
+        "entropy": 7.147812167415395,
+        "effectiveDetailRatio": 0.591274,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "cc636c63a283e8ad5ca7b99e30da5fb682f381698a809ba567e51169ec605969",
+        "perceptualHash": "d2e935f0c09652c2",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "LDE2Ly8xKiciKTRBmv/nl6bc/6AQIUcUMjEpLi4rIysZHRYfJDA4NT2u/4xNaVEfmP+2EFUVMCUiHh4ePiw1KjAxJigoJ2uqFr3Yt8TGaHP/XGEtLDEmLywoSQsKBgsHAwgKMmgV1cdHNUOW62y5skM/CwYDCAcFQgMCAwICBQwKPl16wyBAEiYyfcRYrh9ACAEDAQEBRQsLDQ4QFBoiQ0qqMWo9By1cI79LuTxKDgwLCwsJZ1JVV1hZW1xoZ39VJj45LEkUVVd/dldqVFZWVVVTY0VHRkNBOzg5RD0FGUpKIEo+PCBiOoB5QkVHR0dJNgcCAgMEBgQHOUYeGhoVSyQOIic+FWFYBgUCAQECMAcBAwIEAgEBFEAhND0oHBI0Rh9dSnpaCAMEAwACLAcBAwQCAgEEBi1FRy4vLjknOECFHpNWBwMCBAIBJggBCA8IBQUGBFBmTzw7CBRLHlg8MpJWCAICAwQBHwcGFiMiHCARAlaERmIrIjQrBC10E5hUBwIBAgQDHAcOJx40T0YdC1uJFShVWFdAEFc8MpFSCAMCAQMEGAoTJSs9Lk07CF1/RQt5E0hfNF9aL5VRCQICAQECFQsaKzIqZWcREoHHOdUFZVBIE7NiP41OCwUEAgIDEgktQRk7LiJRuO2FKJDibRh2+rohV7Z/Jg8HCggHWTlQNUKMtMbiulMfDBNexqjfkzggHYHjwqZxS0JAsWssSpGsiJZzHhQOBR8hJRQXKhkWChddirHQwKaXVXcneKobFQUMDBYPGggaVGBsGQ4KDgcFBRZAaXZeEo0NzF8IEAQDBhMNEyEFOlU4Gg4MBAMDAQMJCy49UqbKvBYTChENDAsVEQoPBjoTBAMCAQIBAQAJGRxDULyoFwkXDQ0RDBIEDgwHDxEDBQYHBgYEBQgNGQ5EYBsgBBgKEgwLCQcMBQwFCwwLBAQGCQoKCQkJFgZsJhIMBhMEGw4GAgUGCQ0FEmAcDwMHCQoLBAYNGwpWGQsKCBgHJBIIAgUBCgwHby9nHwkHBwYIBAcVFxREFQoCDhkMKiARCAcFCQoHGGwrAgYGCAkIEAgZExomDwwIGB8JJjMPDwwFCQsEDBILBwQIBQcIDAAgDSIkEwkOECIRGiIgEAQGCAwFDQoJBwQEBAADCQAiCiIhDQsJFioTFhYSDQQHBgoFCREOCQQBAgEECAMiDR8hCQ0IJDtDBxgNCgMFBAgEBFscFQQDBAECCgYjBx8eCw8ZLCJKAhgLCgMBCAsDZFZkDhAGAwADCAkkBB4dFBMWwVZiDBQLCwQBBA0JTGdNCA8EBAEEBREkBx4aXaH//7yYFw4LCwQEAgsLBEATDAoAAwIBAxkkCR0c///CbP99FgoLCQQECQYMCA0GBwsEBAEDAR8gDR0edDwBZfZqGQUICQMDCAUIBgoEBw0EBgQABCIXDRohEw0PcfJaFgUGCAIDBAYHBSIHBg4HBQUBCCMTDhYeCQQJfehKEQcCBwIFAQQHL5AsAgwIAQYCCSQRERQb",
+          "top": "LDE2Ly8xKiciKTRBmv/nl6bc/6AQIUcUMjEpLi4rIysZHRYfJDA4NT2u/4xNaVEfmP+2EFUVMCUiHh4ePiw1KjAxJigoJ2uqFr3Yt8TGaHP/XGEtLDEmLywoSQsKBgsHAwgKMmgV1cdHNUOW62y5skM/CwYDCAcFQgMCAwICBQwKPl16wyBAEiYyfcRYrh9ACAEDAQEBRQsLDQ4QFBoiQ0qqMWo9By1cI79LuTxKDgwLCwsJZ1JVV1hZW1xoZ39VJj45LEkUVVd/dldqVFZWVVVTY0VHRkNBOzg5RD0FGUpKIEo+PCBiOoB5QkVHR0dJNgcCAgMEBgQHOUYeGhoVSyQOIic+FWFYBgUCAQECMAcBAwIEAgEBFEAhND0oHBI0Rh9dSnpaCAMEAwACLAcBAwQCAgEEBi1FRy4vLjknOECFHpNWBwMCBAIBJggBCA8IBQUGBFBmTzw7CBRLHlg8MpJWCAICAwQBHwcGFiMiHCARAlaERmIrIjQrBC10E5hUBwIBAgQDHAcOJx40T0YdC1uJFShVWFdAEFc8MpFSCAMCAQMEGAoTJSs9Lk07CF1/RQt5E0hfNF9aL5VRCQICAQEC",
+          "middle": "HwcGFiMiHCARAlaERmIrIjQrBC10E5hUBwIBAgQDHAcOJx40T0YdC1uJFShVWFdAEFc8MpFSCAMCAQMEGAoTJSs9Lk07CF1/RQt5E0hfNF9aL5VRCQICAQECFQsaKzIqZWcREoHHOdUFZVBIE7NiP41OCwUEAgIDEgktQRk7LiJRuO2FKJDibRh2+rohV7Z/Jg8HCggHWTlQNUKMtMbiulMfDBNexqjfkzggHYHjwqZxS0JAsWssSpGsiJZzHhQOBR8hJRQXKhkWChddirHQwKaXVXcneKobFQUMDBYPGggaVGBsGQ4KDgcFBRZAaXZeEo0NzF8IEAQDBhMNEyEFOlU4Gg4MBAMDAQMJCy49UqbKvBYTChENDAsVEQoPBjoTBAMCAQIBAQAJGRxDULyoFwkXDQ0RDBIEDgwHDxEDBQYHBgYEBQgNGQ5EYBsgBBgKEgwLCQcMBQwFCwwLBAQGCQoKCQkJFgZsJhIMBhMEGw4GAgUGCQ0FEmAcDwMHCQoLBAYNGwpWGQsKCBgHJBIIAgUBCgwHby9nHwkHBwYIBAcVFxREFQoCDhkMKiARCAcFCQoHGGwrAgYGCAkIEAgZExom",
+          "bottom": "YBsgBBgKEgwLCQcMBQwFCwwLBAQGCQoKCQkJFgZsJhIMBhMEGw4GAgUGCQ0FEmAcDwMHCQoLBAYNGwpWGQsKCBgHJBIIAgUBCgwHby9nHwkHBwYIBAcVFxREFQoCDhkMKiARCAcFCQoHGGwrAgYGCAkIEAgZExomDwwIGB8JJjMPDwwFCQsEDBILBwQIBQcIDAAgDSIkEwkOECIRGiIgEAQGCAwFDQoJBwQEBAADCQAiCiIhDQsJFioTFhYSDQQHBgoFCREOCQQBAgEECAMiDR8hCQ0IJDtDBxgNCgMFBAgEBFscFQQDBAECCgYjBx8eCw8ZLCJKAhgLCgMBCAsDZFZkDhAGAwADCAkkBB4dFBMWwVZiDBQLCwQBBA0JTGdNCA8EBAEEBREkBx4aXaH//7yYFw4LCwQEAgsLBEATDAoAAwIBAxkkCR0c///CbP99FgoLCQQECQYMCA0GBwsEBAEDAR8gDR0edDwBZfZqGQUICQMDCAUIBgoEBw0EBgQABCIXDRohEw0PcfJaFgUGCAIDBAYHBSIHBg4HBQUBCCMTDhYeCQQJfehKEQcCBwIFAQQHL5AsAgwIAQYCCSQRERQb"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.544241,
+          "top": 20.187537,
+          "middle": 18.486597,
+          "bottom": 17.392902,
+          "effectiveRatio": 0.591274
+        }
+      },
+      "sha256": "cc636c63a283e8ad5ca7b99e30da5fb682f381698a809ba567e51169ec605969",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.831,
+        "sourceMinBytes": 100000,
+        "maxCoverScale": 1.05
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 확인: 일본 고교생 카드에 쓰는 닛칸스포츠 등 일본 매체 사진도 사용권 확보 완료. 해당 회신과 원문·원본·촬영자·확인일을 연결했다."
+      },
+      "fit": "cover",
+      "captionEvidence": "会見を終え笑顔でガッツポーズする横浜・織田翔希（撮影・浅見桂子）",
+      "context": {
+        "event": "오다 쇼키 미국 도전 발표 회견",
+        "archivePhoto": false,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "오다 쇼키",
+            "team": "요코하마고",
+            "nationalTeam": "일본 U-18 야구대표팀"
+          }
+        ],
+        "visualNote": "주먹을 든 오다의 얼굴과 상반신이 선명하다. 표지에서 가슴 아래에 제목과 본문을 배치할 수 있다.",
+        "editorialNote": "회견 날짜는 해당 주기사의 15일 회견 본문과 대조했다. 닛칸 일부 다른 기사에 14일로 적힌 캡션이 있어 그 날짜는 전재하지 않았다."
+      }
+    },
+    {
+      "name": "진로 회견에서 발언하는 오다 정면",
+      "subject": "오다 쇼키",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610150001349-0.html",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610150001349-w1300_0.jpg",
+      "imageCredit": "닛칸스포츠 아사미 게이코",
+      "creditDisplay": "사진 · 닛칸스포츠 아사미 게이코 (2026.10.15 회견)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 회견",
+      "checkedAt": "2026-10-16T11:04:47.428778+00:00",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-oda-story\\photos\\nikkan-0.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:00:56.157Z",
+        "width": 1300,
+        "height": 1959,
+        "bytes": 247444,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.7663565882391665,
+        "entropy": 7.50600147433579,
+        "effectiveDetailRatio": 0.565803,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "70e108a6012c433f690ef32f52173bc9e9bbcf26a24b8986d35590b3e626a27b",
+        "perceptualHash": "70cc8ab271fd9e3c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgEDAgcnf39kKxAiOlZPPTsmERU4VT5Z23oKAgEBPDI4Ry9/aTIhGWKYop6bmY96VTkcIlE0Y99ICgIAUjlAUJidKRwkk7+RbVdYZG2IjoprLhdLK7XDGwUBNRoWMchyCzSpymkhEA4NDhw7ZoWObiMkDk3pZgkBNA42bNY4KJjJVxMUBQQECQ8cMUJ0fjIdBSOrng8DNhQilLEVbcRhHxkUDQcFCw8WDx1nhzkOEhuKph8FLTI4goUXlZw1MUY9FQcDJkxvhmoylYkdGS6cwywIFBkWXWEzqlRphGhVSBUnSkQlHGJYMKp6Hw+cyzQIBAQCYm1yoylKKTQ3NRkVHSkiICsUA2S6Yg6tyiYFAQEGSmyLfg0XIyoXCyclJTprXUpEICKSqDDCuxEDAAAGF1xVWDd+bltRTz8oWWgtW0U5TBRPoE7OfwcCAQEBBiU6Qz5iZ05MYTseRExsY0pSIQsnZGGIcgsCAgEBAhg5VCBXY11MQBkMKisvMS0iEhMhJCQVg2EMBgcIEhYbOiMTJSUZGhQZIRMJFQsNHwofOSsKKW8nGxkaGhYyNyMTCQwOOFVVYSUVGw8KDg0XRCEfQWQlX15eXT0MMSwLDhMoRzM1MjoMHhkJBQsIOUwlc1gKPD49T3w0LzgFDgwZSz4iVS0mAhMQBwsFEj1RdCEGAQECCFBXPBcBBAsgFUINOVIlEBAMDQsVFSlfMAUCAAABAxxMKwQBBxBKvHRCYIZ9IBIMCAgKQEIyAQECAAAAAQMnRCUJDjSRRUImNVNYVh0UEBAxRCAEAQUDAAABAAEGIEkpFTEvkGJFbIBREQ4NEBpAMAUCBhgXAQECAQABBzY9HQgsDyYqODUcFw0GDB9MKwIEHVFKAQEBAgEBBCFUHwk1SR0hL0AxFQ4UDytVIwIKTURPAQEBAQEBAwxTNSozDR4oKx4uJSgSCzZTHQMHO2FVAQIBAQQBAAVFVzESQE9PUj4eSiETDzxOGQIEOWdYAQAAAQECAQQuZy9OXiEPDm9hKy4eH0FMHAQDNWVBAQAAAAIBAwtURE1ODSAEMgKBVzQ1My5GNQ4DMWQ6AwMDAwQEBjdKKzIOBBQgCwwzYmtLEw0bQFoNMV5gAQEDBAQCEVwSJQYEBgQDAQ8MMgozHS1MRqNUMVxdAgIIDAoTfpI1JAgKAgcFBwoJFD4+LXYk2nXNGF45DAkeS4PI/1JsFBYUERUyaFAhM08qhyT/y0nvp2BATJ3V7eHKcL9JEiQbBz/HvNSeMhhol//qKTZSup5Z/+q2fEcscbwsJhkWJNrAGWnTg0bp/5ogISkeKkhceigEBAYMlrQTIwsZfsM1cnFdSu+XMBsOFR0dFA0SCgkLBgkHpqQIFQsLg4BdToI1oYIRCAYKGx8PDQoHCAYFBAkTqpQFEhAPXnI9ZWahlxIFAhIlJxYQEBUXCwQGBQgfuYUPIh4SUEZBcS/jXA8IFhoSFiAnKSomEwYDBw9K1F4kMx4ZNA1FSxrH/zQLBwsXGRYTDwwM",
+          "top": "AgEDAgcnf39kKxAiOlZPPTsmERU4VT5Z23oKAgEBPDI4Ry9/aTIhGWKYop6bmY96VTkcIlE0Y99ICgIAUjlAUJidKRwkk7+RbVdYZG2IjoprLhdLK7XDGwUBNRoWMchyCzSpymkhEA4NDhw7ZoWObiMkDk3pZgkBNA42bNY4KJjJVxMUBQQECQ8cMUJ0fjIdBSOrng8DNhQilLEVbcRhHxkUDQcFCw8WDx1nhzkOEhuKph8FLTI4goUXlZw1MUY9FQcDJkxvhmoylYkdGS6cwywIFBkWXWEzqlRphGhVSBUnSkQlHGJYMKp6Hw+cyzQIBAQCYm1yoylKKTQ3NRkVHSkiICsUA2S6Yg6tyiYFAQEGSmyLfg0XIyoXCyclJTprXUpEICKSqDDCuxEDAAAGF1xVWDd+bltRTz8oWWgtW0U5TBRPoE7OfwcCAQEBBiU6Qz5iZ05MYTseRExsY0pSIQsnZGGIcgsCAgEBAhg5VCBXY11MQBkMKisvMS0iEhMhJCQVg2EMBgcIEhYbOiMTJSUZGhQZIRMJFQsNHwofOSsKKW8nGxkaGhYyNyMTCQwOOFVVYSUVGw8KDg0XRCEfQWQl",
+          "middle": "AgEBAhg5VCBXY11MQBkMKisvMS0iEhMhJCQVg2EMBgcIEhYbOiMTJSUZGhQZIRMJFQsNHwofOSsKKW8nGxkaGhYyNyMTCQwOOFVVYSUVGw8KDg0XRCEfQWQlX15eXT0MMSwLDhMoRzM1MjoMHhkJBQsIOUwlc1gKPD49T3w0LzgFDgwZSz4iVS0mAhMQBwsFEj1RdCEGAQECCFBXPBcBBAsgFUINOVIlEBAMDQsVFSlfMAUCAAABAxxMKwQBBxBKvHRCYIZ9IBIMCAgKQEIyAQECAAAAAQMnRCUJDjSRRUImNVNYVh0UEBAxRCAEAQUDAAABAAEGIEkpFTEvkGJFbIBREQ4NEBpAMAUCBhgXAQECAQABBzY9HQgsDyYqODUcFw0GDB9MKwIEHVFKAQEBAgEBBCFUHwk1SR0hL0AxFQ4UDytVIwIKTURPAQEBAQEBAwxTNSozDR4oKx4uJSgSCzZTHQMHO2FVAQIBAQQBAAVFVzESQE9PUj4eSiETDzxOGQIEOWdYAQAAAQECAQQuZy9OXiEPDm9hKy4eH0FMHAQDNWVBAQAAAAIBAwtURE1ODSAEMgKBVzQ1My5GNQ4DMWQ6",
+          "bottom": "AQEBAQEBAwxTNSozDR4oKx4uJSgSCzZTHQMHO2FVAQIBAQQBAAVFVzESQE9PUj4eSiETDzxOGQIEOWdYAQAAAQECAQQuZy9OXiEPDm9hKy4eH0FMHAQDNWVBAQAAAAIBAwtURE1ODSAEMgKBVzQ1My5GNQ4DMWQ6AwMDAwQEBjdKKzIOBBQgCwwzYmtLEw0bQFoNMV5gAQEDBAQCEVwSJQYEBgQDAQ8MMgozHS1MRqNUMVxdAgIIDAoTfpI1JAgKAgcFBwoJFD4+LXYk2nXNGF45DAkeS4PI/1JsFBYUERUyaFAhM08qhyT/y0nvp2BATJ3V7eHKcL9JEiQbBz/HvNSeMhhol//qKTZSup5Z/+q2fEcscbwsJhkWJNrAGWnTg0bp/5ogISkeKkhceigEBAYMlrQTIwsZfsM1cnFdSu+XMBsOFR0dFA0SCgkLBgkHpqQIFQsLg4BdToI1oYIRCAYKGx8PDQoHCAYFBAkTqpQFEhAPXnI9ZWahlxIFAhIlJxYQEBUXCwQGBQgfuYUPIh4SUEZBcS/jXA8IFhoSFiAnKSomEwYDBw9K1F4kMx4ZNA1FSxrH/zQLBwsXGRYTDwwM"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 15.187882,
+          "top": 19.206342,
+          "middle": 7.730676,
+          "bottom": 12.426645,
+          "effectiveRatio": 0.565803
+        }
+      },
+      "sha256": "70e108a6012c433f690ef32f52173bc9e9bbcf26a24b8986d35590b3e626a27b",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.831,
+        "sourceMinBytes": 100000,
+        "maxCoverScale": 1.05
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 확인: 일본 고교생 카드에 쓰는 닛칸스포츠 등 일본 매체 사진도 사용권 확보 완료. 해당 회신과 원문·원본·촬영자·확인일을 연결했다."
+      },
+      "fit": "cover",
+      "captionEvidence": "会見に臨み決意を語る横浜・織田翔希（撮影・浅見桂子）　横浜高校",
+      "context": {
+        "event": "오다 쇼키 미국 도전 발표 회견",
+        "archivePhoto": false,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "오다 쇼키",
+            "team": "요코하마고",
+            "nationalTeam": "일본 U-18 야구대표팀"
+          }
+        ],
+        "visualNote": "마이크를 쥔 오다의 정면 클로즈업이다. 얼굴과 마이크가 보이고 다른 주요 인물은 없다.",
+        "editorialNote": "회견 날짜는 해당 주기사의 15일 회견 본문과 대조했다. 닛칸 일부 다른 기사에 14일로 적힌 캡션이 있어 그 날짜는 전재하지 않았다."
+      }
+    },
+    {
+      "name": "일본 U-18 유니폼을 입고 투구하는 오다",
+      "subject": "오다 쇼키",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610150001349-14.html",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610150001349-w1300_14.jpg",
+      "imageCredit": "닛칸스포츠",
+      "creditDisplay": "사진 · 닛칸스포츠 (2026.09 자료사진)",
+      "photoDate": null,
+      "photoDateLabel": "2026.09 자료사진",
+      "checkedAt": "2026-10-16T11:04:47.428778+00:00",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-oda-story\\photos\\nikkan-14.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:00:57.811Z",
+        "width": 1164,
+        "height": 1724,
+        "bytes": 296434,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.517360568908746,
+        "entropy": 7.092420208326075,
+        "effectiveDetailRatio": 0.585417,
+        "kind": "source",
+        "coverScale": 0.928,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "2c60626801d175a1400ef9a6a5cfd51781551b1c153c488d3d3d7555331c1cc6",
+        "perceptualHash": "58183c70f8e6700e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BgEBBQgJAQkFAwQJCQgxi0IeMUNYolULKiMZDA4RBwsLCQcGCwYJCw0GCxZ0bxQwayM1qZg5ShAiDxYVDwcHBQgNCAcGBQkOFkNqTCtMHw8WZpM6J0MWBgIEEAoCBAgICQgEAgQICFiiGyIqKRIBX3UYIUIOBAgEDgcEBAEDBQQCAgICAjZ1ey0VHiwfjFBGK2QXDgUEAQQHBAQDBQQBAQIDCBw0RmFSOksZtRsKhjcFBAQEBgYFBgUEBgcFAgEBCSFRFSozP0OLk08hTQQGBAMFBQcHBQUFBgcEAAEDF0MvCio0J0KfKqeWUA4JBQcHExIQDg0MDQwICQgLJFI/QUcyI45cuWO7fQwQEQ8QFRUTEhQSFRUVExUTP3JTRSsrfGFKxiWzaRAQExESDAoODxMRERMTExAUTXk6DxoVR789rhKdbBERDQoJBAIDBQICAQECAwRef0obGyceLo1chAuHYwQFBgQFAQgEBwECBAMECGSYYkkrIBRAHRZuQxyMYgQEAwMGBgIJCAYEBwcHLZpOFBATDBkpTYsdGRiSYQcDAQMHBQQFAgYIBgkJZVpIaxgJEzSWxt7LOUukQwsHBgUCAwYCAwUEAQMWPj1NaG8QGG7PXy/h0EmvIAYGCAkJAQMEAgIBAg85IxtAoVcgGReU+cwk1GOLCwQHAgEHBAEHBgMGClOEDzpdOxMHExgoXenQbRhEDAoDAgAFBgwEBgUNOqhnYxBDjWUOEhgcBDS6j3OeFgUEAgEEBQcJAgQNTJ8VpkgTinEcFwkOFA0YTjrMegsEAgUDBgcHAQMGYIEyLItcsiMiSkorCgwcEBVg01AIBAQHAwMEBwgLeHcTNxpgQCJRNDo8Jx4rEgkGf9A8DQYEAQECBwgnk1cySiprKDFAGyI6F2S6VxoLDJG9IwcCAwQECAtAlTxENy9TO00wCSNAQ8Bw9X8XFBymlQ0LBQICBQdKkDYjUEkbVTcGHC5EULpCYdx/BRk7sE4CAgIJCQ5LmTsNK0lRJiMhCC8sjKoXCFyaKQ4Qdn0NCQkJCwxSqEQMDiBJGSAJBEgUu3oDI6t0DBo2xlYDBgIJChE+sl4DBC86FBcICxk/oFwKWLg3FCHRiQYCBwYGBgMej3wUDj4xERUYJSBIhjojtYgcEcarBgYBBwMCBg4CcrEnHToNFBQSHhM7cjKMuz0HvsYOEQEHBQMEBAIRJrV0KTQdNDUVNRZboUvQZCvJzRgOCAUHBAMBAwsLMXhWMSkILR8fIkuNcmO9n8yyGQkKBgEHAQgEBwgNB6S3SD5sokknLFKDXWA5wl8HEQYFBwQGBAQGCQkNRjbn6dy7mbFVT1dqK2+MVzgKCg8OBQYGBAYFAQcePCEknJ9MJaTL2NRzqHsiR0AEBgUIAwEECAECBAAWOhsNDAsLBzJ6gJS8UCcXOUAIBg8OBgoJBwwEAQcSPB4KCwMUEx0HBwsuHh0RQEQEBwgEBQUICgQEBAUOLx0KBhQJDxUCBAcbBSEKTDgEBwMFAQIH",
+          "top": "BgEBBQgJAQkFAwQJCQgxi0IeMUNYolULKiMZDA4RBwsLCQcGCwYJCw0GCxZ0bxQwayM1qZg5ShAiDxYVDwcHBQgNCAcGBQkOFkNqTCtMHw8WZpM6J0MWBgIEEAoCBAgICQgEAgQICFiiGyIqKRIBX3UYIUIOBAgEDgcEBAEDBQQCAgICAjZ1ey0VHiwfjFBGK2QXDgUEAQQHBAQDBQQBAQIDCBw0RmFSOksZtRsKhjcFBAQEBgYFBgUEBgcFAgEBCSFRFSozP0OLk08hTQQGBAMFBQcHBQUFBgcEAAEDF0MvCio0J0KfKqeWUA4JBQcHExIQDg0MDQwICQgLJFI/QUcyI45cuWO7fQwQEQ8QFRUTEhQSFRUVExUTP3JTRSsrfGFKxiWzaRAQExESDAoODxMRERMTExAUTXk6DxoVR789rhKdbBERDQoJBAIDBQICAQECAwRef0obGyceLo1chAuHYwQFBgQFAQgEBwECBAMECGSYYkkrIBRAHRZuQxyMYgQEAwMGBgIJCAYEBwcHLZpOFBATDBkpTYsdGRiSYQcDAQMHBQQFAgYIBgkJZVpIaxgJEzSWxt7LOUukQwsHBgUC",
+          "middle": "AQgEBwECBAMECGSYYkkrIBRAHRZuQxyMYgQEAwMGBgIJCAYEBwcHLZpOFBATDBkpTYsdGRiSYQcDAQMHBQQFAgYIBgkJZVpIaxgJEzSWxt7LOUukQwsHBgUCAwYCAwUEAQMWPj1NaG8QGG7PXy/h0EmvIAYGCAkJAQMEAgIBAg85IxtAoVcgGReU+cwk1GOLCwQHAgEHBAEHBgMGClOEDzpdOxMHExgoXenQbRhEDAoDAgAFBgwEBgUNOqhnYxBDjWUOEhgcBDS6j3OeFgUEAgEEBQcJAgQNTJ8VpkgTinEcFwkOFA0YTjrMegsEAgUDBgcHAQMGYIEyLItcsiMiSkorCgwcEBVg01AIBAQHAwMEBwgLeHcTNxpgQCJRNDo8Jx4rEgkGf9A8DQYEAQECBwgnk1cySiprKDFAGyI6F2S6VxoLDJG9IwcCAwQECAtAlTxENy9TO00wCSNAQ8Bw9X8XFBymlQ0LBQICBQdKkDYjUEkbVTcGHC5EULpCYdx/BRk7sE4CAgIJCQ5LmTsNK0lRJiMhCC8sjKoXCFyaKQ4Qdn0NCQkJCwxSqEQMDiBJGSAJBEgUu3oDI6t0DBo2xlYD",
+          "bottom": "AwQECAtAlTxENy9TO00wCSNAQ8Bw9X8XFBymlQ0LBQICBQdKkDYjUEkbVTcGHC5EULpCYdx/BRk7sE4CAgIJCQ5LmTsNK0lRJiMhCC8sjKoXCFyaKQ4Qdn0NCQkJCwxSqEQMDiBJGSAJBEgUu3oDI6t0DBo2xlYDBgIJChE+sl4DBC86FBcICxk/oFwKWLg3FCHRiQYCBwYGBgMej3wUDj4xERUYJSBIhjojtYgcEcarBgYBBwMCBg4CcrEnHToNFBQSHhM7cjKMuz0HvsYOEQEHBQMEBAIRJrV0KTQdNDUVNRZboUvQZCvJzRgOCAUHBAMBAwsLMXhWMSkILR8fIkuNcmO9n8yyGQkKBgEHAQgEBwgNB6S3SD5sokknLFKDXWA5wl8HEQYFBwQGBAQGCQkNRjbn6dy7mbFVT1dqK2+MVzgKCg8OBQYGBAYFAQcePCEknJ9MJaTL2NRzqHsiR0AEBgUIAwEECAECBAAWOhsNDAsLBzJ6gJS8UCcXOUAIBg8OBgoJBwwEAQcSPB4KCwMUEx0HBwsuHh0RQEQEBwgEBQUICgQEBAUOLx0KBhQJDxUCBAcbBSEKTDgEBwMFAQIH"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.771707,
+          "top": 22.211564,
+          "middle": 31.738588,
+          "bottom": 39.129312,
+          "effectiveRatio": 0.585417
+        }
+      },
+      "sha256": "2c60626801d175a1400ef9a6a5cfd51781551b1c153c488d3d3d7555331c1cc6",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.928,
+        "sourceMinBytes": 100000,
+        "maxCoverScale": 1.05
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 확인: 일본 고교생 카드에 쓰는 닛칸스포츠 등 일본 매체 사진도 사용권 확보 완료. 해당 회신과 원문·원본·촬영자·확인일을 연결했다."
+      },
+      "fit": "cover",
+      "captionEvidence": "織田翔希（2026年9月撮影）",
+      "context": {
+        "event": "일본 U-18 대표팀 활동",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "오다 쇼키",
+            "team": "요코하마고",
+            "nationalTeam": "일본 U-18 야구대표팀"
+          }
+        ],
+        "visualNote": "일본대표 11번 오다의 오른팔 투구 동작과 공이 선명하다. 원문은 2026년 9월 촬영으로만 밝히므로 특정 경기 사진으로 단정하지 않는다.",
+        "editorialNote": "원문이 명시한 촬영 시점대로 자료사진을 표시하며 10월15일 발표 현장으로 쓰지 않는다."
+      }
+    },
+    {
+      "name": "고시엔 일정을 마치고 퇴장하는 오다",
+      "subject": "오다 쇼키",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610150001349-12.html",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610150001349-w1300_12.jpg",
+      "imageCredit": "닛칸스포츠",
+      "creditDisplay": "사진 · 닛칸스포츠 (2026.08.20 자료사진)",
+      "photoDate": "2026-08-20",
+      "photoDateLabel": "2026.08.20 자료사진",
+      "checkedAt": "2026-10-16T11:04:47.428778+00:00",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-oda-story\\photos\\nikkan-12.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:00:57.537Z",
+        "width": 1300,
+        "height": 1854,
+        "bytes": 304249,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.3234033228717887,
+        "entropy": 7.554842826759341,
+        "effectiveDetailRatio": 0.442691,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "713c414dd46e5a5ead971d27282db7246a27c790030d254168fda4389d7dd206",
+        "perceptualHash": "3472527627666565",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "ESIvakoDc2mZd2RvNE6AaHM1eE15eTVnWS88bmhNCw0hdU1Nekxb03q+Dj1zgEQvdz5pUDUsUVdYfo6FCg8tbS5sWRovecs2IBM+MwssRF0+FRosDg4SGh0uBQ5Gg1SdRQwUOC0vFiILEAwcNj0dIyUNCgsJDVA+BhaK7ZTo/zY3S00sJg4TUSAZFxwYNw8gGQkMJFUjBkbgswc48O9ku8WeURdlH0wWHipANzcfOR8EIyszDkDJ4p1rYFNGkXPDkVqFUR0lHCccDilDOjcHKTITZF8mbI42cMRiT2KUQmJio0k3Rhs8hx86YHlZfmBYKzPKuTU7eCHgQ3VaMxVDv0sjc0rYpnEyHS8hNREULNLKk8tcDdnILcBMCiCgNoxtO3WeQcQ3KHcHUBtGwM8SHoJ+SLYlSFSIEYpwtDKGRjeEkbYimnNmSFREmE0MDnR4WIB9cC95RFlDtx5ZSxxUTHBRo0diGkJjajwKForGDnGEa5YOT5Keyjs/Z4x7cXcUm488GBgspFgPAiituEYTHY6YeI/LWjOPp2NgX51SPY04Dg8NmHMxHxU5QmByWg9feVgiN2uQWhcUenkzIqddFC0ueIw7Jyk4YhVfSTY7SA0cOXpyXionbMZYIFqnE0QJN01zLRBTSTtoZxtBGwkjdW1OTGZ4hc9tKiVgrRtZS1lXMxtxemVNFhFRIQMWe34WYnptSlM2Sk4mWqx+P2CaUkeAx2d/extLJRYcbHQnM3yafGYMhl5FDF5aYnZyhrXNMKl5kRRwMDhqmp1ud2NfiLsza3gtCkItJmtmQ0tsuUakiFhWRXhyQaQwL2hUeoVmIZ8UIhSSFVmUR048Y0y4qklsHp0cHqMacDV2J8FJiWUeMRZVC2WlGU4RTyi3iSstHpI7V6Y7OjRfHuOQaSsgHy4dCkSRSx4scCG6iwocPUqRYVJGNCk9QdNtIjEaEQ0GEw9qRAxXZWXBQC0OBBShdC4tWlRjP7qBHxACCAcJBw9eVAlSTX2uGxIWICEwuZEYeEWRPdWMAg4BBgwDGCiDLRdGLpGOJiYRJkJRUMMahUWnHeadCwoIBAUFHmRdGBtLCoJkCwkKRVEfVJ4liU29RPl+DwUBCAcMPFo7HCp4SpKBBQsGMDpEi25sbCyKULhnFAUEBwUFVVAkC05dkuNSCAkNERtZqEqYNyaKi8NfEgwNBgcIZEkUN1iT110dCwYCChIKfa9QGDlfolw6SkdDPywCalgOXTY6JzQaLRsTDBwJEEhECEwvJDNDbWpjZWItYWcNLXpIgyQgJSQFAgUNFCs1EUwfEQ5rYCAeJmtIXFwjOXZTc1AOFhQMDhAdZEc4DUV/OhNpUAUBE19GU2o0aBVcgYANCw4NDBVgcUoSE0FqcBpvRwYBHG8WOYlSNXVuN4RBDwgSHxlkPEohLF9RaCNkOgcDKW0NBWaKM7Bng15QExQmOiJ0fosvgWmZpAdWOAcCK2QtRy5eT1gSOUMRChEzGiGuW5Z7LMkw60RmPQ4JMGgz",
+          "top": "ESIvakoDc2mZd2RvNE6AaHM1eE15eTVnWS88bmhNCw0hdU1Nekxb03q+Dj1zgEQvdz5pUDUsUVdYfo6FCg8tbS5sWRovecs2IBM+MwssRF0+FRosDg4SGh0uBQ5Gg1SdRQwUOC0vFiILEAwcNj0dIyUNCgsJDVA+BhaK7ZTo/zY3S00sJg4TUSAZFxwYNw8gGQkMJFUjBkbgswc48O9ku8WeURdlH0wWHipANzcfOR8EIyszDkDJ4p1rYFNGkXPDkVqFUR0lHCccDilDOjcHKTITZF8mbI42cMRiT2KUQmJio0k3Rhs8hx86YHlZfmBYKzPKuTU7eCHgQ3VaMxVDv0sjc0rYpnEyHS8hNREULNLKk8tcDdnILcBMCiCgNoxtO3WeQcQ3KHcHUBtGwM8SHoJ+SLYlSFSIEYpwtDKGRjeEkbYimnNmSFREmE0MDnR4WIB9cC95RFlDtx5ZSxxUTHBRo0diGkJjajwKForGDnGEa5YOT5Keyjs/Z4x7cXcUm488GBgspFgPAiituEYTHY6YeI/LWjOPp2NgX51SPY04Dg8NmHMxHxU5QmByWg9feVgiN2uQWhcUenkzIqddFC0u",
+          "middle": "ajwKForGDnGEa5YOT5Keyjs/Z4x7cXcUm488GBgspFgPAiituEYTHY6YeI/LWjOPp2NgX51SPY04Dg8NmHMxHxU5QmByWg9feVgiN2uQWhcUenkzIqddFC0ueIw7Jyk4YhVfSTY7SA0cOXpyXionbMZYIFqnE0QJN01zLRBTSTtoZxtBGwkjdW1OTGZ4hc9tKiVgrRtZS1lXMxtxemVNFhFRIQMWe34WYnptSlM2Sk4mWqx+P2CaUkeAx2d/extLJRYcbHQnM3yafGYMhl5FDF5aYnZyhrXNMKl5kRRwMDhqmp1ud2NfiLsza3gtCkItJmtmQ0tsuUakiFhWRXhyQaQwL2hUeoVmIZ8UIhSSFVmUR048Y0y4qklsHp0cHqMacDV2J8FJiWUeMRZVC2WlGU4RTyi3iSstHpI7V6Y7OjRfHuOQaSsgHy4dCkSRSx4scCG6iwocPUqRYVJGNCk9QdNtIjEaEQ0GEw9qRAxXZWXBQC0OBBShdC4tWlRjP7qBHxACCAcJBw9eVAlSTX2uGxIWICEwuZEYeEWRPdWMAg4BBgwDGCiDLRdGLpGOJiYRJkJRUMMahUWnHeadCwoIBAUF",
+          "bottom": "CkSRSx4scCG6iwocPUqRYVJGNCk9QdNtIjEaEQ0GEw9qRAxXZWXBQC0OBBShdC4tWlRjP7qBHxACCAcJBw9eVAlSTX2uGxIWICEwuZEYeEWRPdWMAg4BBgwDGCiDLRdGLpGOJiYRJkJRUMMahUWnHeadCwoIBAUFHmRdGBtLCoJkCwkKRVEfVJ4liU29RPl+DwUBCAcMPFo7HCp4SpKBBQsGMDpEi25sbCyKULhnFAUEBwUFVVAkC05dkuNSCAkNERtZqEqYNyaKi8NfEgwNBgcIZEkUN1iT110dCwYCChIKfa9QGDlfolw6SkdDPywCalgOXTY6JzQaLRsTDBwJEEhECEwvJDNDbWpjZWItYWcNLXpIgyQgJSQFAgUNFCs1EUwfEQ5rYCAeJmtIXFwjOXZTc1AOFhQMDhAdZEc4DUV/OhNpUAUBE19GU2o0aBVcgYANCw4NDBVgcUoSE0FqcBpvRwYBHG8WOYlSNXVuN4RBDwgSHxlkPEohLF9RaCNkOgcDKW0NBWaKM7Bng15QExQmOiJ0fosvgWmZpAdWOAcCK2QtRy5eT1gSOUMRChEzGiGuW5Z7LMkw60RmPQ4JMGgz"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.22868,
+          "top": 22.321968,
+          "middle": 24.460266,
+          "bottom": 18.07117,
+          "effectiveRatio": 0.442691
+        }
+      },
+      "sha256": "713c414dd46e5a5ead971d27282db7246a27c790030d254168fda4389d7dd206",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.831,
+        "sourceMinBytes": 100000,
+        "maxCoverScale": 1.05
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 확인: 일본 고교생 카드에 쓰는 닛칸스포츠 등 일본 매체 사진도 사용권 확보 완료. 해당 회신과 원문·원본·촬영자·확인일을 연결했다."
+      },
+      "fit": "cover",
+      "captionEvidence": "智弁和歌山対横浜　グラウンドに一礼し甲子園を去る横浜織田翔希（26年8月20日撮影）",
+      "context": {
+        "event": "2026 여름 고시엔 준결승 뒤",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "오다 쇼키",
+            "team": "요코하마고",
+            "nationalTeam": "일본 U-18 야구대표팀"
+          }
+        ],
+        "visualNote": "요코하마 유니폼을 입고 가방을 멘 오다가 오른쪽에 보인다. 원문은 지벤와카야마전 뒤 퇴장으로 설명한다. 왼쪽 관계자는 주요 기사 인물로 다루지 않는다.",
+        "editorialNote": "원문이 명시한 촬영 시점대로 자료사진을 표시하며 10월15일 발표 현장으로 쓰지 않는다."
+      }
+    },
+    {
+      "name": "진로 회견에서 발언하는 오다 측면",
+      "subject": "오다 쇼키",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610150001349-6.html",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610150001349-w1300_6.jpg",
+      "imageCredit": "닛칸스포츠 아사미 게이코",
+      "creditDisplay": "사진 · 닛칸스포츠 아사미 게이코 (2026.10.15 회견)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 회견",
+      "checkedAt": "2026-10-16T11:04:47.428778+00:00",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-oda-story\\photos\\nikkan-6.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:00:56.881Z",
+        "width": 1300,
+        "height": 1563,
+        "bytes": 217749,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6763831007782974,
+        "entropy": 7.584829660132527,
+        "effectiveDetailRatio": 0.495007,
+        "kind": "source",
+        "coverScale": 0.864,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "f82a974f74ca5e93fa4e12455e4c321bf07751b0b604ba01fb227ac8a70da323",
+        "perceptualHash": "61848498c9c387e0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "MVVNLWl4y9h+XU1pa3NmcY2dsmwWBAMDAwIBAwQDK3I52tTKnVFALAYvOkQ+TV1vnO2/LQYDAgIDAgMEOUbF12NhVCUKK0NHEiIxOTpDRYL43jEEBAMCAQMETGPEMgsgLTo3LxoeRC0JAx0cIyVl+7wiAQMBAgQDnctSFRwhCQoPFyksCRQjMjRERiwclP97EAQBAgQD38gYFRALDwQFBQYOEQoXR4enr7uBQM3KQRICAwMC/3cGBQYCEg0DBQYMESxRgZN8cJztt1LThyQGAwMC/0IHAwoBBAwMBgsaP3OOgk0bEh9a8Y2OkT0QAwMC4hgGDQUGBAQLEho1coxwPQ8ACAoKTMxBiysRAgIC3RsLBAYEBgMOGSZik2UkFw4ODgcDB4Illy8CAwID2h0CAwMHDREdOn+jcCseKSgnIAwDFE9se1gEBAID5CMDAwUgNDpWpKleHw48VGdwcEQTH28fWTgFAwMD/zwJCDZXQlN2gzcJCSczOTckN1wfT1VkkRwCAgIE/2oPR206KDNLSBQFBRoiGQw0PxoNGRNiTw0BAgMD/7JsoWRIJiVFOxEIJj89TndhNDEiRF9sQwEBAgMDwfmPYA1DRxxCMRMOFUxeXEIwT1wtnBSuUAUAAgMDLs9fJRY9PSZDPB4fIBdCVGNBSycHWXhrLQQCAgMDCFpdNFcgIlMVOB8cLCgLHCkoHhMMHzk/HAIBAQMEAyxiKkZGLSo7FhURICklEgcKCg4QCRUiGgEAAQMEAQ9NMBpSIhMbDwQCBhgbFxMTJDtTQR0kGQIBAQMEAQNIbHJIIiQLAwYMEwwTDAkVIktKSkk9FQIDAQIEAAQ+q0SDXhQIBQsOCw8LBA4ORUtGREE6EQMCBBMtAQY0nF0jODgPCA8VDQgHCQwPCg8RJyYrCwQgW5S6AwY1mGMpLhQSCw0aGxEPEBMqjZpakXQ0FV274M2jAgYVbn8DIAEOEhQXIB4XGCJwYiwxTrI1lO3GbjkdAQxr3VETJAwQFBsaGx0YERkKWVdGgkaq7msaGBUXBTH/tLFZDhMXExUeISEYBQYMBjxIJpO8FWh/Gy0cB3//ZDmwjQwqIBQiJjEyIQodNTBKGItFbUa52yUVF9XSFQ4ku6oYOSkdJCpEVUUeDyQkcjdMFkAcxroZgv+ACwgNE6W1HFEbGBopSHF6cVsoeC5NJzBOQaRM/7gZEwsDCguKwhd1IQ4MGS4/IWBIfjJYSDs4KJVXbAwNBgsNBQcQcNgiiUQNCxiD1q2UtzQqHRMWJ4NZBAkOEhEDDQYEFU/lY3ttK2zRfzrWcnVwMCphVHyRCQQJBgYRBwsGBBUt3rVAYGx/PzbVU6AjczNmRg6cBhAQBAkKBwkHCQgPFbrYJAZnmlzsOpogd1JrcEg1EwYBDREHCAUIBAQIAz1BpWo9d6uiO59KPoobazsqHRQDCgESFgkHBAsHPI5qbYhbIE1FOoBlIXRZbE8uFxIQDgoLBRQWCQQWKIWJeiBhHRYXBmixR0CQEncz",
+          "top": "MVVNLWl4y9h+XU1pa3NmcY2dsmwWBAMDAwIBAwQDK3I52tTKnVFALAYvOkQ+TV1vnO2/LQYDAgIDAgMEOUbF12NhVCUKK0NHEiIxOTpDRYL43jEEBAMCAQMETGPEMgsgLTo3LxoeRC0JAx0cIyVl+7wiAQMBAgQDnctSFRwhCQoPFyksCRQjMjRERiwclP97EAQBAgQD38gYFRALDwQFBQYOEQoXR4enr7uBQM3KQRICAwMC/3cGBQYCEg0DBQYMESxRgZN8cJztt1LThyQGAwMC/0IHAwoBBAwMBgsaP3OOgk0bEh9a8Y2OkT0QAwMC4hgGDQUGBAQLEho1coxwPQ8ACAoKTMxBiysRAgIC3RsLBAYEBgMOGSZik2UkFw4ODgcDB4Illy8CAwID2h0CAwMHDREdOn+jcCseKSgnIAwDFE9se1gEBAID5CMDAwUgNDpWpKleHw48VGdwcEQTH28fWTgFAwMD/zwJCDZXQlN2gzcJCSczOTckN1wfT1VkkRwCAgIE/2oPR206KDNLSBQFBRoiGQw0PxoNGRNiTw0BAgMD/7JsoWRIJiVFOxEIJj89TndhNDEiRF9sQwEBAgMD",
+          "middle": "/zwJCDZXQlN2gzcJCSczOTckN1wfT1VkkRwCAgIE/2oPR206KDNLSBQFBRoiGQw0PxoNGRNiTw0BAgMD/7JsoWRIJiVFOxEIJj89TndhNDEiRF9sQwEBAgMDwfmPYA1DRxxCMRMOFUxeXEIwT1wtnBSuUAUAAgMDLs9fJRY9PSZDPB4fIBdCVGNBSycHWXhrLQQCAgMDCFpdNFcgIlMVOB8cLCgLHCkoHhMMHzk/HAIBAQMEAyxiKkZGLSo7FhURICklEgcKCg4QCRUiGgEAAQMEAQ9NMBpSIhMbDwQCBhgbFxMTJDtTQR0kGQIBAQMEAQNIbHJIIiQLAwYMEwwTDAkVIktKSkk9FQIDAQIEAAQ+q0SDXhQIBQsOCw8LBA4ORUtGREE6EQMCBBMtAQY0nF0jODgPCA8VDQgHCQwPCg8RJyYrCwQgW5S6AwY1mGMpLhQSCw0aGxEPEBMqjZpakXQ0FV274M2jAgYVbn8DIAEOEhQXIB4XGCJwYiwxTrI1lO3GbjkdAQxr3VETJAwQFBsaGx0YERkKWVdGgkaq7msaGBUXBTH/tLFZDhMXExUeISEYBQYMBjxIJpO8FWh/Gy0c",
+          "bottom": "AwY1mGMpLhQSCw0aGxEPEBMqjZpakXQ0FV274M2jAgYVbn8DIAEOEhQXIB4XGCJwYiwxTrI1lO3GbjkdAQxr3VETJAwQFBsaGx0YERkKWVdGgkaq7msaGBUXBTH/tLFZDhMXExUeISEYBQYMBjxIJpO8FWh/Gy0cB3//ZDmwjQwqIBQiJjEyIQodNTBKGItFbUa52yUVF9XSFQ4ku6oYOSkdJCpEVUUeDyQkcjdMFkAcxroZgv+ACwgNE6W1HFEbGBopSHF6cVsoeC5NJzBOQaRM/7gZEwsDCguKwhd1IQ4MGS4/IWBIfjJYSDs4KJVXbAwNBgsNBQcQcNgiiUQNCxiD1q2UtzQqHRMWJ4NZBAkOEhEDDQYEFU/lY3ttK2zRfzrWcnVwMCphVHyRCQQJBgYRBwsGBBUt3rVAYGx/PzbVU6AjczNmRg6cBhAQBAkKBwkHCQgPFbrYJAZnmlzsOpogd1JrcEg1EwYBDREHCAUIBAQIAz1BpWo9d6uiO59KPoobazsqHRQDCgESFgkHBAsHPI5qbYhbIE1FOoBlIXRZbE8uFxIQDgoLBRQWCQQWKIWJeiBhHRYXBmixR0CQEncz"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.757479,
+          "top": 20.415594,
+          "middle": 17.072848,
+          "bottom": 26.070148,
+          "effectiveRatio": 0.495007
+        }
+      },
+      "sha256": "f82a974f74ca5e93fa4e12455e4c321bf07751b0b604ba01fb227ac8a70da323",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.864,
+        "sourceMinBytes": 100000,
+        "maxCoverScale": 1.05
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 확인: 일본 고교생 카드에 쓰는 닛칸스포츠 등 일본 매체 사진도 사용권 확보 완료. 해당 회신과 원문·원본·촬영자·확인일을 연결했다."
+      },
+      "fit": "cover",
+      "captionEvidence": "会見に臨み決意を語る横浜・織田翔希（撮影・浅見桂子）　横浜高校",
+      "context": {
+        "event": "오다 쇼키 미국 도전 발표 회견",
+        "archivePhoto": false,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "오다 쇼키",
+            "team": "요코하마고",
+            "nationalTeam": "일본 U-18 야구대표팀"
+          }
+        ],
+        "visualNote": "오다의 옆얼굴과 마이크가 선명하며 정면 사진과 시선 방향이 다르다. 본문은 얼굴 아래에 배치해야 한다.",
+        "editorialNote": "회견 날짜는 해당 주기사의 15일 회견 본문과 대조했다. 닛칸 일부 다른 기사에 14일로 적힌 캡션이 있어 그 날짜는 전재하지 않았다."
+      }
+    }
+  ]
+}
