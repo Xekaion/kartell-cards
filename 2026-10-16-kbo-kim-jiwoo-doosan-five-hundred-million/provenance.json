@@ -1,0 +1,467 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "계약금 5억원, 두산이 택한 고3 내야수 김지우",
+  "issueKey": "highschool-2026-kim-jiwoo-doosan-five-hundred-million-profile",
+  "checkedAt": "2026-10-16T11:16:59.144Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=552120",
+  "corroboratingUrls": [
+    "https://www.yna.co.kr/view/AKR20261013090000007",
+    "https://www.sportschosun.com/ext/2026-09-22/202609220100150280009791",
+    "https://www.korea-baseball.com/info/player/player_view?person_no=201603009243&gubun=P",
+    "https://www.korea-baseball.com/info/team/team_player?club_idx=167&season=2026&kind_cd=31&sports_club=F",
+    "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=553182"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=552120",
+      "publishedAt": "2026-09-21",
+      "role": "draft-background",
+      "note": "실제 김지우 전체2순위 두산 지명 원문. 10월13일 계약금의 근거로 쓰지 않는다."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261013090000007",
+      "publishedAt": "2026-10-13",
+      "role": "current-event-primary",
+      "note": "두산13일 계약 발표·계약금 신기록·소감 보도"
+    },
+    {
+      "url": "https://www.korea-baseball.com/info/player/player_view?person_no=201603009243&gubun=P",
+      "publishedAt": "2026season;checked2026-10-16",
+      "role": "official-season-statistics"
+    },
+    {
+      "url": "https://www.korea-baseball.com/info/team/team_player?club_idx=167&season=2026&kind_cd=31&sports_club=F",
+      "publishedAt": "2026season;checked2026-10-16",
+      "role": "official-current-school-grade"
+    },
+    {
+      "url": "https://www.sportschosun.com/ext/2026-09-22/202609220100150280009791",
+      "publishedAt": "2026-09-22",
+      "role": "firsthand-draft-interview"
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=553182",
+      "publishedAt": "2026-09-29",
+      "role": "fan-ceremony-background"
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "김지우 드래프트 포즈",
+      "subject": "김지우",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-22/202609220100150280009791",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/22/2026092201001502800097915_w.jpg",
+      "imageCredit": "스포츠조선 박재만",
+      "photoDate": "2026-09-21",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs1-story\\photos\\photo-f1baaaa3e0a0.jpg",
+      "sha256": "f1baaaa3e0a0f89163d925684e6ee4941a624f53ed81f2c0dfef766443a059af",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:10:23.660Z",
+        "width": 1200,
+        "height": 1658,
+        "bytes": 1368963,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.7920402045643846,
+        "entropy": 6.824064862242267,
+        "effectiveDetailRatio": 0.531827,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/22/2026092201001502800097915_w.jpg",
+        "sha256": "f1baaaa3e0a0f89163d925684e6ee4941a624f53ed81f2c0dfef766443a059af",
+        "perceptualHash": "1242021117161597",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQQCAwQEAwEPg5kfP76xjpT0ZwsBBAMBAQEBAgEBBAMEBAQFAgQLPbtIqudflCqb0CwHBAEBAQEBAQEBGgQDCD04DAIEEZxdz5JmQxZ0yEsJBAEBAgEBAAEBERoEPnl4PgYEC1aUbp+errN6xFcJBAIBAQIAAQEAPg4SaV1UYxcFBB6NOm8TK4R0dU0EAQEBAQEBAQEADjkhTy9rGwcEAglLbgkMHSIedBwCAQAAAQEBAQEBDwtRVjQ1CgQDAgUhbiwOGUVOUwYBAAABAQAAAQEBDQ5lQ1EkBgIEBAMIRUMWMyh6OgUCAQEBAAEBAQEBCyBwPGEVFQMGAwMRVUgJNUE2MwoBAQEAAQEBAQEABApRrC4lBR44ZHmksHQXRzRMVAYIBAMBAQAAAAAABjNXVUoUIYivpJNiOYDBJKeLGQsCBQYDAQAAAAAACjwtI0WXwKdXKyc1KAJ1rW8ZCwoMAwQJAwEAAAAAEEAwRsrMZxAFFDkiPAYGGgMkIRELBAwMFAQBAAEAFkg0SO6OCRMGBAkZJCEBByc3KyMbCAwXDRECAQEAIFclCLr/JhoTCUomEjcwMDUYDyEjBwENAwsDAQECDlJlPXnVbD0vOEUgChAsGhANCzAfAAITKBwGAQMGBxVOVX+KNnBuICwvCA8HEREiHBQ1FAQ0HTcWBgY/BgQKIV4xjDuWEDA4KRwXFRYHDkc2CQQiIAwGBkDCBwUEBB1eQS6ID24cHSYxODQ7QTIHDCrNn1IPQ791BAUEBAYOCCmFWkZfTEZENA8FEB4GNfXJs6FDum4HBAUGBggNBS2HTwMRIggAHC4kKTEStsdEyD+4ZgcICgkHBgUHBzOGSAMBAwQCHS0SDjUlrHg/kXloCgUGCggHBAQICDWDQgIBAwICDS0vMS8slYAFUksMBgYJCggHBwcIBzeCPQIDAQEBAgsgJgo5oIEHSikHCAkECwoKCAgGBziBOwMCAgEBAQEBAgI7pX0PUCQMDQkGBgYGBwgGCDWAPQIDAQIAAQEAAQJJpW4bVykXCQkHAwYGBggKDDB5PwIEAAABAAEAAgQ+o3U2eSkVEgcGBgcFBwcJCCh0QAMDAQEBAQEBAwE7qWJqcSMiDAwOBwMEBggJBUBzJwQCAgICAgEBAwMxqnl6QjYhHx8YAQEEBQcHDFJrGAIBAgICAgABAQYtb5OGTV1WNxkNJikpLTE2OnliDQICAwMDAQEBBB9VITRvRklPU0Q9ISQmKCwxPjo3AgQEAwMCAgMDCVItIy5AJQkVIzI7MTQ0OkBJSmKFRhceMCooIQ4DGjEyUjVnHixMU1VXJCcnKy4zQT5vZyAwSW6ZfkckEz99J2tiXGtoWVNQBwkJBQYDCwRaWQcqTlQyX1cwF11NUTdWY04qEgkDBQUDBgEBCgFhaQ4JLG13aDgIBydLDSxBEQoGBAEBCAQCBQMFCwNaaQ4GBRA2GhYJBiBKHScnMBwSEBQKBQUEBQUDDApSZhUDBBESGRMIBSI7Lx0ZLDgkIRkq",
+          "top": "AQQCAwQEAwEPg5kfP76xjpT0ZwsBBAMBAQEBAgEBBAMEBAQFAgQLPbtIqudflCqb0CwHBAEBAQEBAQEBGgQDCD04DAIEEZxdz5JmQxZ0yEsJBAEBAgEBAAEBERoEPnl4PgYEC1aUbp+errN6xFcJBAIBAQIAAQEAPg4SaV1UYxcFBB6NOm8TK4R0dU0EAQEBAQEBAQEADjkhTy9rGwcEAglLbgkMHSIedBwCAQAAAQEBAQEBDwtRVjQ1CgQDAgUhbiwOGUVOUwYBAAABAQAAAQEBDQ5lQ1EkBgIEBAMIRUMWMyh6OgUCAQEBAAEBAQEBCyBwPGEVFQMGAwMRVUgJNUE2MwoBAQEAAQEBAQEABApRrC4lBR44ZHmksHQXRzRMVAYIBAMBAQAAAAAABjNXVUoUIYivpJNiOYDBJKeLGQsCBQYDAQAAAAAACjwtI0WXwKdXKyc1KAJ1rW8ZCwoMAwQJAwEAAAAAEEAwRsrMZxAFFDkiPAYGGgMkIRELBAwMFAQBAAEAFkg0SO6OCRMGBAkZJCEBByc3KyMbCAwXDRECAQEAIFclCLr/JhoTCUomEjcwMDUYDyEjBwENAwsDAQEC",
+          "middle": "EEAwRsrMZxAFFDkiPAYGGgMkIRELBAwMFAQBAAEAFkg0SO6OCRMGBAkZJCEBByc3KyMbCAwXDRECAQEAIFclCLr/JhoTCUomEjcwMDUYDyEjBwENAwsDAQECDlJlPXnVbD0vOEUgChAsGhANCzAfAAITKBwGAQMGBxVOVX+KNnBuICwvCA8HEREiHBQ1FAQ0HTcWBgY/BgQKIV4xjDuWEDA4KRwXFRYHDkc2CQQiIAwGBkDCBwUEBB1eQS6ID24cHSYxODQ7QTIHDCrNn1IPQ791BAUEBAYOCCmFWkZfTEZENA8FEB4GNfXJs6FDum4HBAUGBggNBS2HTwMRIggAHC4kKTEStsdEyD+4ZgcICgkHBgUHBzOGSAMBAwQCHS0SDjUlrHg/kXloCgUGCggHBAQICDWDQgIBAwICDS0vMS8slYAFUksMBgYJCggHBwcIBzeCPQIDAQEBAgsgJgo5oIEHSikHCAkECwoKCAgGBziBOwMCAgEBAQEBAgI7pX0PUCQMDQkGBgYGBwgGCDWAPQIDAQIAAQEAAQJJpW4bVykXCQkHAwYGBggKDDB5PwIEAAABAAEAAgQ+o3U2eSkVEgcG",
+          "bottom": "CggHBwcIBzeCPQIDAQEBAgsgJgo5oIEHSikHCAkECwoKCAgGBziBOwMCAgEBAQEBAgI7pX0PUCQMDQkGBgYGBwgGCDWAPQIDAQIAAQEAAQJJpW4bVykXCQkHAwYGBggKDDB5PwIEAAABAAEAAgQ+o3U2eSkVEgcGBgcFBwcJCCh0QAMDAQEBAQEBAwE7qWJqcSMiDAwOBwMEBggJBUBzJwQCAgICAgEBAwMxqnl6QjYhHx8YAQEEBQcHDFJrGAIBAgICAgABAQYtb5OGTV1WNxkNJikpLTE2OnliDQICAwMDAQEBBB9VITRvRklPU0Q9ISQmKCwxPjo3AgQEAwMCAgMDCVItIy5AJQkVIzI7MTQ0OkBJSmKFRhceMCooIQ4DGjEyUjVnHixMU1VXJCcnKy4zQT5vZyAwSW6ZfkckEz99J2tiXGtoWVNQBwkJBQYDCwRaWQcqTlQyX1cwF11NUTdWY04qEgkDBQUDBgEBCgFhaQ4JLG13aDgIBydLDSxBEQoGBAEBCAQCBQMFCwNaaQ4GBRA2GhYJBiBKHScnMBwSEBQKBQUEBQUDDApSZhUDBBESGRMIBSI7Lx0ZLDgkIRkq"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.510468,
+          "top": 18.354387,
+          "middle": 22.761812,
+          "bottom": 22.412473,
+          "effectiveRatio": 0.531827
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1658
+      },
+      "strict": true,
+      "checkedAt": "2026-10-16T11:15:43.876Z",
+      "creditDisplay": "사진 · 스포츠조선 박재만 (2026.09.21 자료사진)",
+      "photoDateLabel": "2026-09-21 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 취재 언론 원문에 실린 실제 사진이다. 이미지 생성·업스케일·생성형 복원을 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "2027 KBO 신인 드래프트가 21일 열렸다. 두산에 지명된 김지우가 기념촬영을 하고 있다. 잠실=박재만 기자 2026.09.21.",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-09-21 2027 KBO 신인 드래프트",
+        "people": [
+          {
+            "name": "김지우",
+            "team": "서울고·두산 베어스 지명 신인",
+            "role": "3학년 내야수·2027 신인"
+          }
+        ],
+        "visualNote": "9월21일 신인 드래프트 포토월에서 주먹을 쥔 김지우 단독 정면. 얼굴·유니폼이 선명하고 중앙 cover로 보존된다.",
+        "editorialNote": "10월13일 계약 발표 사진으로 오인하지 않도록 실제 촬영일과 자료사진을 표시한다."
+      }
+    },
+    {
+      "name": "김지우 지명 소감",
+      "subject": "김지우",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-21/202609210100143450009336",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/21/2026092101001434500093361_w.jpg",
+      "imageCredit": "스포츠조선 박재만",
+      "photoDate": "2026-09-21",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs1-story\\photos\\photo-192ce72c1baf.jpg",
+      "sha256": "192ce72c1bafad7414034f0f53674de9c37877fe009decd5c4ef8f5c3303c2c2",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:10:22.192Z",
+        "width": 1200,
+        "height": 1826,
+        "bytes": 1252734,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.975013438065174,
+        "entropy": 6.794045947230188,
+        "effectiveDetailRatio": 0.514005,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/21/2026092101001434500093361_w.jpg",
+        "sha256": "192ce72c1bafad7414034f0f53674de9c37877fe009decd5c4ef8f5c3303c2c2",
+        "perceptualHash": "72c3674396141d3f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "TKeSOMFdDAQJI1Uej62iTDt46nMXDCMLBxQAAAAAtKVYeK8iBQYIEDaAqS+dz6Fzz10EFg0AAQAAAAECbVcLnX0MAgYGBCZnPBhJYnNSjVkDBAEAAAECAQIBMRI3pFUJBAYGBRxPJiQ2K0c5lzQAAAICAQIAAgst4ytXoDcJBAYFAwk7JEpSEjhtdwQBAgECAxpAZXt+4IRnmTYLBAQGCBhMU0NyTg2RTgEDDi5Qa3lsRA0wrV9rc2YfBAcJCD40TkVMKWlvO0BoeHFSIhpBTzkWvmhpNkloDQoFCUmMfjyGZiVNN1k/DjdMPCgzMipJ135nMBeBUDUwSGiGkHxYX1cgT0JqVysmOho0DVYLz5FXTkxJfoyLXx9FRHJzMJS1SiYtNSApIUMxMD4evLAofEhQXFFGXmG5L2yn+6oyCRkKFi1MOhE9PikbkNQghDh3HBt+X4hM2HmpWAwIEyAWBQQRHTg6Qy8cUORuMnUvCVRvTnWIpU4jCxITJBgjCwQiJyM6FmEnGK7JFSQRVIocFRo6dUgFCUBLPC8FAAk2JDkjZ2Q/BUHycgRh9GYEYWdplS0iQUsLGzdQCwEdVCkwi3hxCgt+tWf/payFShmSZUJKMA0kDDsVBQQFIUOQjRpaDBCcYv+tBESTYFV9FhgRHgwXCE8gBAEOO0NyrsbXCCIv8IgZBxmognQzBxsqCQgJHS06FQA5YSVidWgTBxBiYhwIElHLYhUWHBsSGiovKCZLFQUQSXVRP4kkBR5DFAoPBZy5TCAPBx0WKTEuTGcdBwYvg0FWhiA9BxpJHQoSpP+YVEZLV1JCMUFKQBYICDn86/B6DErVDQRGWD9876QWLkQkLhYbKykpNw8JJ//uLYycUcRvBQMKTFVyt1YHBwMEAgIsLxQiNDgPq+IiK4c6o2ICCQQVFBtrjCsHAwMCAQQoIAsVJDgmvI8RA1JzSgsRCRENCCp/eBoFAwMCAQA1PQQHOTcgrp8XCBgrBw7HFBMWFQtdkjEHAwQCAQILPTs0QBc81ocEEHEOCcLmGxUcGhZgojEHAwUDAAIBCR0hEgNz41AZg7yDteYrLTAuNDpxfhsHAQUEAAECAwECBAyixTA/5XKrrTZOLS8tMi9UXRAGAQMFAQMDAQECBRvBrR9v+Fo9LytCGBkZFhBBSAoDAQMEAwMCAQEEBT/UnCLhxRkQFBMVDw8LBA1CPgQDAQIAAgEBAQEDCEB1u1rVa1RQUlBRGB0hLDNRQwQDAgMCAgACAQEDFoFjJ1QyUkdMS0xNPz49P0R8VwQAAQEDAQICAQAGZaA+ez8iKC0vMDg8LCMUFEOcQAUBAQIDAQICAgZHaV2BBFpANCkmLTA0IiYjG12JIwIBAgQEAwQEBktmFhJNcA4oFAcKExANCRMbLYyHFgIBAwIIBAQDLmQhIC8XSDgODAYLEAkGEw4NKaNsCQUDBAMDCAQNP0okIjAqKEAWBAwHBBEQBwYQP6N8DQgGBwgJBwYFNVgoGh4+OEMZGxERGRQD",
+          "top": "TKeSOMFdDAQJI1Uej62iTDt46nMXDCMLBxQAAAAAtKVYeK8iBQYIEDaAqS+dz6Fzz10EFg0AAQAAAAECbVcLnX0MAgYGBCZnPBhJYnNSjVkDBAEAAAECAQIBMRI3pFUJBAYGBRxPJiQ2K0c5lzQAAAICAQIAAgst4ytXoDcJBAYFAwk7JEpSEjhtdwQBAgECAxpAZXt+4IRnmTYLBAQGCBhMU0NyTg2RTgEDDi5Qa3lsRA0wrV9rc2YfBAcJCD40TkVMKWlvO0BoeHFSIhpBTzkWvmhpNkloDQoFCUmMfjyGZiVNN1k/DjdMPCgzMipJ135nMBeBUDUwSGiGkHxYX1cgT0JqVysmOho0DVYLz5FXTkxJfoyLXx9FRHJzMJS1SiYtNSApIUMxMD4evLAofEhQXFFGXmG5L2yn+6oyCRkKFi1MOhE9PikbkNQghDh3HBt+X4hM2HmpWAwIEyAWBQQRHTg6Qy8cUORuMnUvCVRvTnWIpU4jCxITJBgjCwQiJyM6FmEnGK7JFSQRVIocFRo6dUgFCUBLPC8FAAk2JDkjZ2Q/BUHycgRh9GYEYWdplS0iQUsLGzdQCwEdVCkwi3hx",
+          "middle": "UORuMnUvCVRvTnWIpU4jCxITJBgjCwQiJyM6FmEnGK7JFSQRVIocFRo6dUgFCUBLPC8FAAk2JDkjZ2Q/BUHycgRh9GYEYWdplS0iQUsLGzdQCwEdVCkwi3hxCgt+tWf/payFShmSZUJKMA0kDDsVBQQFIUOQjRpaDBCcYv+tBESTYFV9FhgRHgwXCE8gBAEOO0NyrsbXCCIv8IgZBxmognQzBxsqCQgJHS06FQA5YSVidWgTBxBiYhwIElHLYhUWHBsSGiovKCZLFQUQSXVRP4kkBR5DFAoPBZy5TCAPBx0WKTEuTGcdBwYvg0FWhiA9BxpJHQoSpP+YVEZLV1JCMUFKQBYICDn86/B6DErVDQRGWD9876QWLkQkLhYbKykpNw8JJ//uLYycUcRvBQMKTFVyt1YHBwMEAgIsLxQiNDgPq+IiK4c6o2ICCQQVFBtrjCsHAwMCAQQoIAsVJDgmvI8RA1JzSgsRCRENCCp/eBoFAwMCAQA1PQQHOTcgrp8XCBgrBw7HFBMWFQtdkjEHAwQCAQILPTs0QBc81ocEEHEOCcLmGxUcGhZgojEHAwUDAAIBCR0hEgNz41AZg7yDteYr",
+          "bottom": "CQQVFBtrjCsHAwMCAQQoIAsVJDgmvI8RA1JzSgsRCRENCCp/eBoFAwMCAQA1PQQHOTcgrp8XCBgrBw7HFBMWFQtdkjEHAwQCAQILPTs0QBc81ocEEHEOCcLmGxUcGhZgojEHAwUDAAIBCR0hEgNz41AZg7yDteYrLTAuNDpxfhsHAQUEAAECAwECBAyixTA/5XKrrTZOLS8tMi9UXRAGAQMFAQMDAQECBRvBrR9v+Fo9LytCGBkZFhBBSAoDAQMEAwMCAQEEBT/UnCLhxRkQFBMVDw8LBA1CPgQDAQIAAgEBAQEDCEB1u1rVa1RQUlBRGB0hLDNRQwQDAgMCAgACAQEDFoFjJ1QyUkdMS0xNPz49P0R8VwQAAQEDAQICAQAGZaA+ez8iKC0vMDg8LCMUFEOcQAUBAQIDAQICAgZHaV2BBFpANCkmLTA0IiYjG12JIwIBAgQEAwQEBktmFhJNcA4oFAcKExANCRMbLYyHFgIBAwIIBAQDLmQhIC8XSDgODAYLEAkGEw4NKaNsCQUDBAMDCAQNP0okIjAqKEAWBAwHBBEQBwYQP6N8DQgGBwgJBwYFNVgoGh4+OEMZGxERGRQD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.377322,
+          "top": 21.991616,
+          "middle": 30.566609,
+          "bottom": 21.333378,
+          "effectiveRatio": 0.514005
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1826
+      },
+      "strict": true,
+      "checkedAt": "2026-10-16T11:15:43.882Z",
+      "creditDisplay": "사진 · 스포츠조선 박재만 (2026.09.21 자료사진)",
+      "photoDateLabel": "2026-09-21 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 취재 언론 원문에 실린 실제 사진이다. 이미지 생성·업스케일·생성형 복원을 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "2027 KBO 신인 드래프트가 21일 서울 송파구 롯데호텔 월드 크리스탈볼룸에서 열렸다. 두산에 1라운드 지명된 서울고 김지우가 소감을 말하고 있다. 잠실=박재만 기자 pjm@sportschosun.com/2026.09.21/",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-09-21 2027 KBO 신인 드래프트",
+        "people": [
+          {
+            "name": "김지우",
+            "team": "서울고·두산 베어스 지명 신인",
+            "role": "3학년 내야수·2027 신인"
+          }
+        ],
+        "visualNote": "9월21일 신인 드래프트에서 마이크를 들고 소감을 밝히는 김지우 단독. 얼굴과 KBO 마이크·두산 유니폼이 선명하다.",
+        "editorialNote": "10월13일 계약 발표 사진으로 오인하지 않도록 실제 촬영일과 자료사진을 표시한다."
+      }
+    },
+    {
+      "name": "김지우 잠실 시구",
+      "subject": "김지우",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-29/202609290100199480013159",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/29/2026092901001994800131591_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "photoDate": "2026-09-29",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs1-story\\photos\\photo-793aed88daf9.jpg",
+      "sha256": "793aed88daf91a727db8c8d5416855bde11a62ea150e27223329e32a2057dd7a",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:10:20.581Z",
+        "width": 1200,
+        "height": 1673,
+        "bytes": 983796,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.615389348573493,
+        "entropy": 7.585326587548479,
+        "effectiveDetailRatio": 0.472892,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/29/2026092901001994800131591_w.jpg",
+        "sha256": "793aed88daf91a727db8c8d5416855bde11a62ea150e27223329e32a2057dd7a",
+        "perceptualHash": "117527e7c6cece27",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "LhYQHCAICxUeHBAMFU07ITNcbxERPoT/kv9PCQYEJygfJhgQEBcdEw0EAzVEOFgcGjAxPGG6S7CJDQQJGyEcJxgKGRsVAwwCCzIsgaBtjaxyPimwNHWXIgwIFB4cEyUoHRECCQsCBUotqjhfjWqntyGwB5NkEQYHGyt6dUkgBwkMBQYICk0csEIwGQyUtCquTKBnBwUHGG12YFQoFQwGBwQEDEUYsnkPI0yzVgtuqIGoEAcGHGUzSlI0DQgICgQCDTc/d5QrTDrxeyJIuCfFKQ0HFiliiFAPBQ0PBwMEBzkj/8dgYyjg/yZOrhrPVhAGK0B4WkcfChMKAgkICiu+/yshDQA8//9YuEW4hgsIFTcvGD84Lx4aHRoWF1T/K31pPwYPNv//o2a4wR8lPz5QZ11ANjAuMjc7LsxvbhFgWQkTExKxqjVT/2FUCx8gFy8aJTADExANQqEjRG9nIQQSGiMITkcZn2YMQTc7PDIyMQtHMFtUjo8GDzoSBAEHIBgHGD9w+W89KyQraV4nIyhHiTgOg8NGGRQBBAoMBCARIZf/oBsFmZOkS21QMRBzPpJvfnlUYmkyDQsMBhSv5eduER0YO0NqomJfVy6PXG8WDzNQJkBsNA8LDKf7gi8VCAMCEB0poWdrIlAXHnNfSWBfSy0pShMJKc6DGAoEAQICKChdYrtmbxANBxAfNRIlKW1kRisKVttXEAIBAQECCgwVf2aaVgQDAQlean6EhSmaQQQdkNMlDQECAgEBMScYFEaTVgECAQJ8hmwnRZZktSQiyJgNBAICAwMBEyoiCEKTVgIDAgSOmhwZDYZIxnBk0VQNAgECAQICMiMMAEKUVgMEAgmSlQcaHE5nXHxbxkUMAwMBAgIBBQcGA0WTVgEDAwqYnA0IIVt9UHE04ngTAgMCAQEDNzMcBkWSUgIDCR+5eBcbKBCfQY8sqeIjDQAAAQMEBx4uEkSSUQMEDj/MYxceDAgxikRiROZrEQECAwIDNDAeB0aUUwIEDlu+SQENBwskahpuAcmTDAICBAQEEhEHBEaTUgEDEFvDSg4MEyU7UzJtD7ilBQUFBAMCAQECA0aUUgQBCY7EKztqIiUYEVk5FrymAgYEAgICCQkJCUiWVQMEC5mZZ5pCThoXKB4OG8uOCwIDAwMDUU9PUGqRThEPGnVJTB96IQYrBzAJac1dHBMUEhEUV1RUV1Y4RkVER4NPBF4SFjMPKhkvi01dRkhKSktKDw8ODhQzTE1OUGEYHCoiKyEcIRdVNzZQSUpKS0xKJyUlJyUiHx8eIhoYJxcnKBArIkApHBsVFhYWGBkbCAcGBQMBAQEECSkeIAIpI0hKMiUJAQMFBQYGBgYGCAkKCwsKCwoKDicWOiQeQ0MNHAQDBAMDBAIBAQIDExIREA4MCwoLByc3JFoWOTElEAgHCw0ODxISExIWDQsJCAgKDA0MCBlGFmswISQ/FhsWERIREw4WFhsaDg8MDQ8QERMQFyMNDGNOBgosTiEZCQcbDRYQGAkb",
+          "top": "LhYQHCAICxUeHBAMFU07ITNcbxERPoT/kv9PCQYEJygfJhgQEBcdEw0EAzVEOFgcGjAxPGG6S7CJDQQJGyEcJxgKGRsVAwwCCzIsgaBtjaxyPimwNHWXIgwIFB4cEyUoHRECCQsCBUotqjhfjWqntyGwB5NkEQYHGyt6dUkgBwkMBQYICk0csEIwGQyUtCquTKBnBwUHGG12YFQoFQwGBwQEDEUYsnkPI0yzVgtuqIGoEAcGHGUzSlI0DQgICgQCDTc/d5QrTDrxeyJIuCfFKQ0HFiliiFAPBQ0PBwMEBzkj/8dgYyjg/yZOrhrPVhAGK0B4WkcfChMKAgkICiu+/yshDQA8//9YuEW4hgsIFTcvGD84Lx4aHRoWF1T/K31pPwYPNv//o2a4wR8lPz5QZ11ANjAuMjc7LsxvbhFgWQkTExKxqjVT/2FUCx8gFy8aJTADExANQqEjRG9nIQQSGiMITkcZn2YMQTc7PDIyMQtHMFtUjo8GDzoSBAEHIBgHGD9w+W89KyQraV4nIyhHiTgOg8NGGRQBBAoMBCARIZf/oBsFmZOkS21QMRBzPpJvfnlUYmkyDQsMBhSv5eduER0Y",
+          "middle": "QTc7PDIyMQtHMFtUjo8GDzoSBAEHIBgHGD9w+W89KyQraV4nIyhHiTgOg8NGGRQBBAoMBCARIZf/oBsFmZOkS21QMRBzPpJvfnlUYmkyDQsMBhSv5eduER0YO0NqomJfVy6PXG8WDzNQJkBsNA8LDKf7gi8VCAMCEB0poWdrIlAXHnNfSWBfSy0pShMJKc6DGAoEAQICKChdYrtmbxANBxAfNRIlKW1kRisKVttXEAIBAQECCgwVf2aaVgQDAQlean6EhSmaQQQdkNMlDQECAgEBMScYFEaTVgECAQJ8hmwnRZZktSQiyJgNBAICAwMBEyoiCEKTVgIDAgSOmhwZDYZIxnBk0VQNAgECAQICMiMMAEKUVgMEAgmSlQcaHE5nXHxbxkUMAwMBAgIBBQcGA0WTVgEDAwqYnA0IIVt9UHE04ngTAgMCAQEDNzMcBkWSUgIDCR+5eBcbKBCfQY8sqeIjDQAAAQMEBx4uEkSSUQMEDj/MYxceDAgxikRiROZrEQECAwIDNDAeB0aUUwIEDlu+SQENBwskahpuAcmTDAICBAQEEhEHBEaTUgEDEFvDSg4MEyU7UzJtD7ilBQUFBAMC",
+          "bottom": "NzMcBkWSUgIDCR+5eBcbKBCfQY8sqeIjDQAAAQMEBx4uEkSSUQMEDj/MYxceDAgxikRiROZrEQECAwIDNDAeB0aUUwIEDlu+SQENBwskahpuAcmTDAICBAQEEhEHBEaTUgEDEFvDSg4MEyU7UzJtD7ilBQUFBAMCAQECA0aUUgQBCY7EKztqIiUYEVk5FrymAgYEAgICCQkJCUiWVQMEC5mZZ5pCThoXKB4OG8uOCwIDAwMDUU9PUGqRThEPGnVJTB96IQYrBzAJac1dHBMUEhEUV1RUV1Y4RkVER4NPBF4SFjMPKhkvi01dRkhKSktKDw8ODhQzTE1OUGEYHCoiKyEcIRdVNzZQSUpKS0xKJyUlJyUiHx8eIhoYJxcnKBArIkApHBsVFhYWGBkbCAcGBQMBAQEECSkeIAIpI0hKMiUJAQMFBQYGBgYGCAkKCwsKCwoKDicWOiQeQ0MNHAQDBAMDBAIBAQIDExIREA4MCwoLByc3JFoWOTElEAgHCw0ODxISExIWDQsJCAgKDA0MCBlGFmswISQ/FhsWERIREw4WFhsaDg8MDQ8QERMQFyMNDGNOBgosTiEZCQcbDRYQGAkb"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.708709,
+          "top": 24.879827,
+          "middle": 24.641271,
+          "bottom": 16.875203,
+          "effectiveRatio": 0.472892
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1673
+      },
+      "strict": true,
+      "checkedAt": "2026-10-16T11:15:43.885Z",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.29 자료사진)",
+      "photoDateLabel": "2026-09-29 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 취재 언론 원문에 실린 실제 사진이다. 이미지 생성·업스케일·생성형 복원을 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "29일 잠실야구장에서 열린 NC와 두산의 경기. 경기 전 두산의 2027 신인 김지우와 설재민이 시구와 시포를 펼쳤다. 힘차게 공을 던지는 김지우의 모습. 잠실=허상욱 기자wook@sportschosun.com/2026.09.29/",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-09-29 잠실 두산 신인 시구·홈팬 인사",
+        "people": [
+          {
+            "name": "김지우",
+            "team": "서울고·두산 베어스 지명 신인",
+            "role": "3학년 내야수·2027 신인"
+          }
+        ],
+        "visualNote": "9월29일 잠실 시구 중 공을 들고 있는 김지우 단독 측면. 얼굴과 두산 유니폼이 선명하며 팔의 일부 자연스러운 크롭을 허용한다.",
+        "editorialNote": "10월13일 계약 발표 사진으로 오인하지 않도록 실제 촬영일과 자료사진을 표시한다."
+      }
+    },
+    {
+      "name": "김지우 시구 행사 미소",
+      "subject": "김지우",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-29/202609290100199490013160",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/29/2026092901001994900131601_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "photoDate": "2026-09-29",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs1-story\\photos\\photo-7464928a42cf.jpg",
+      "sha256": "7464928a42cfa8c18f438a3752d8eddb2ab652b03b8778c777d2476677c50416",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:10:20.157Z",
+        "width": 1200,
+        "height": 1735,
+        "bytes": 990298,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6190453463085783,
+        "entropy": 7.213729327990222,
+        "effectiveDetailRatio": 0.478235,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/29/2026092901001994900131601_w.jpg",
+        "sha256": "7464928a42cfa8c18f438a3752d8eddb2ab652b03b8778c777d2476677c50416",
+        "perceptualHash": "494c0f2b1f069613",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BQcPBw0NCAgKDAkTKiuagQoXKh0UFxkXJC8tHBISBAUMBgoJAwMCCAMIBDAyRSczNCIGBAYDBAMEBAYRAwYOBgsKBAQECgcHOYBxc6SheR0EAgUEBQYEBQgSBAgMAwkLCAkLDhA5m5R7kIFs3nMFBAoECQQBAg0TBgkKAwYJCQsMCRFGlyYYHEM+3F0NDAwHDAsJCQ4RAwYIAwQDAQIDBAkXlEQxOleXrg8CAwQCBgUDAwgMAwYHAQgIBggJBQkbXKtKHCm+bRYJAwYFCQcGBgoPBQkJAQkGAgMFChVJ/qMsJTOl/1ISDwIEBwQCAgwPBgkLAQkFBAMVZM//71ZOIExK6P/WYx0EDAgIBwsNBAoNAQkFByTi//WOJFN2YGxLI47+/90eBAcDBAkJDxERBggPH///cRo4CxVRbUYPBCJePv/+HQQCAgcJFRIJAQgQwv8wCTUeOQ0BBAMEHpVyx1n/qwsEAgcGBwgEARhe/3QUDB0tJA4JCQkFZ39zS8BM/0AJAwgIFBELCRP04wQQGg1HT14YCQ1Ro084S5Q3/54IAQgJCRAUD2z/XyAdCXOLNGF5PDaPfkRjRYg3zdkWBgYICBQQCYy+OCYMS4FALxBNOCZuVykhO35Vhv9EDAQILjQqH7utGBkjQ30XRhIsOTaTXR04MGhiK/SVBg8MWVZHTr+IFBI3J3grU0scMWKGLz48DGN8FsPPOz83CQYIDEa2T2yoHG66BCGCXYF4LmEvE1xYVYCVNi4pMzc6MUd7Ols5pEqmtaabS4uvGhY/alVbQHhZGyEiAwYGBSCKXDtLbxkETloIFZWsIEBkCGyFZIFVFhgXExESFit6RCcwZhADCQcMMqeNG2oiYDQeVEQaEQ8PBAQGBCtzOhU8TgsBBQIIIJnMqqFUVBoRBgMKCAkHAwMGAid1PhE6QwIKAQQGAiqRumV+o2EJBAMBAwQBAwIGAhp6RRo9TgQBDgUHAgQVHgxJnnQGAwEBAwQBBAIFAQ5xWB87UxERCA4MDAUFAgUrqIUGAwEBBAQBAwMDAgRbcyhDJR8JDQUGCgkEAQMkq4gEAgABAwUBAgMDBARUfT4jDQwECwENCAYFBAUvsnoFAQECAwQBBAMEBQY+hkAxTzgaCRkJDAIGBAYetI4HAQIBAgQBAgEEBQcijkwzIGVSCQcSCREGCAYHnKkVBQEBAwMBAQEEBQUWZX0rCRc7OhELCBENBw0Bjq4fBwMBAgMBBAIGBQEGJWp3R0RbSCIXEQ8YDxIfh7gmCQMCAwMBAwAGBgIFCCU6HSqH1nc6VFplYU0+Z6AtCwQDAwQCAgEEBAMDCR5zTHlSpPzn++ecWTYtK51HCwMBAwMCAgEEBAMCBhl5NnuINWGTe3SKYCgaH5NcBgEBAwMCAwEDAgMDBht/RFl5i4RUIIyAKxAcEYxtBgIDAwQCGhsaGBgXFiGCRy0vQXCcEoxwIwwQEHmJCwgICAgIR0dFQ0RDQkltNyUTDiKSOYiGLAIEDVyKNzU1NDQ0",
+          "top": "BQcPBw0NCAgKDAkTKiuagQoXKh0UFxkXJC8tHBISBAUMBgoJAwMCCAMIBDAyRSczNCIGBAYDBAMEBAYRAwYOBgsKBAQECgcHOYBxc6SheR0EAgUEBQYEBQgSBAgMAwkLCAkLDhA5m5R7kIFs3nMFBAoECQQBAg0TBgkKAwYJCQsMCRFGlyYYHEM+3F0NDAwHDAsJCQ4RAwYIAwQDAQIDBAkXlEQxOleXrg8CAwQCBgUDAwgMAwYHAQgIBggJBQkbXKtKHCm+bRYJAwYFCQcGBgoPBQkJAQkGAgMFChVJ/qMsJTOl/1ISDwIEBwQCAgwPBgkLAQkFBAMVZM//71ZOIExK6P/WYx0EDAgIBwsNBAoNAQkFByTi//WOJFN2YGxLI47+/90eBAcDBAkJDxERBggPH///cRo4CxVRbUYPBCJePv/+HQQCAgcJFRIJAQgQwv8wCTUeOQ0BBAMEHpVyx1n/qwsEAgcGBwgEARhe/3QUDB0tJA4JCQkFZ39zS8BM/0AJAwgIFBELCRP04wQQGg1HT14YCQ1Ro084S5Q3/54IAQgJCRAUD2z/XyAdCXOLNGF5PDaPfkRjRYg3zdkWBgYI",
+          "middle": "BwgEARhe/3QUDB0tJA4JCQkFZ39zS8BM/0AJAwgIFBELCRP04wQQGg1HT14YCQ1Ro084S5Q3/54IAQgJCRAUD2z/XyAdCXOLNGF5PDaPfkRjRYg3zdkWBgYICBQQCYy+OCYMS4FALxBNOCZuVykhO35Vhv9EDAQILjQqH7utGBkjQ30XRhIsOTaTXR04MGhiK/SVBg8MWVZHTr+IFBI3J3grU0scMWKGLz48DGN8FsPPOz83CQYIDEa2T2yoHG66BCGCXYF4LmEvE1xYVYCVNi4pMzc6MUd7Ols5pEqmtaabS4uvGhY/alVbQHhZGyEiAwYGBSCKXDtLbxkETloIFZWsIEBkCGyFZIFVFhgXExESFit6RCcwZhADCQcMMqeNG2oiYDQeVEQaEQ8PBAQGBCtzOhU8TgsBBQIIIJnMqqFUVBoRBgMKCAkHAwMGAid1PhE6QwIKAQQGAiqRumV+o2EJBAMBAwQBAwIGAhp6RRo9TgQBDgUHAgQVHgxJnnQGAwEBAwQBBAIFAQ5xWB87UxERCA4MDAUFAgUrqIUGAwEBBAQBAwMDAgRbcyhDJR8JDQUGCgkEAQMkq4gEAgABAwUB",
+          "bottom": "AwMGAid1PhE6QwIKAQQGAiqRumV+o2EJBAMBAwQBAwIGAhp6RRo9TgQBDgUHAgQVHgxJnnQGAwEBAwQBBAIFAQ5xWB87UxERCA4MDAUFAgUrqIUGAwEBBAQBAwMDAgRbcyhDJR8JDQUGCgkEAQMkq4gEAgABAwUBAgMDBARUfT4jDQwECwENCAYFBAUvsnoFAQECAwQBBAMEBQY+hkAxTzgaCRkJDAIGBAYetI4HAQIBAgQBAgEEBQcijkwzIGVSCQcSCREGCAYHnKkVBQEBAwMBAQEEBQUWZX0rCRc7OhELCBENBw0Bjq4fBwMBAgMBBAIGBQEGJWp3R0RbSCIXEQ8YDxIfh7gmCQMCAwMBAwAGBgIFCCU6HSqH1nc6VFplYU0+Z6AtCwQDAwQCAgEEBAMDCR5zTHlSpPzn++ecWTYtK51HCwMBAwMCAgEEBAMCBhl5NnuINWGTe3SKYCgaH5NcBgEBAwMCAwEDAgMDBht/RFl5i4RUIIyAKxAcEYxtBgIDAwQCGhsaGBgXFiGCRy0vQXCcEoxwIwwQEHmJCwgICAgIR0dFQ0RDQkltNyUTDiKSOYiGLAIEDVyKNzU1NDQ0"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.270361,
+          "top": 21.91508,
+          "middle": 28.278675,
+          "bottom": 13.403302,
+          "effectiveRatio": 0.478235
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1735
+      },
+      "strict": true,
+      "checkedAt": "2026-10-16T11:15:43.888Z",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.29 자료사진)",
+      "photoDateLabel": "2026-09-29 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 취재 언론 원문에 실린 실제 사진이다. 이미지 생성·업스케일·생성형 복원을 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "29일 잠실야구장에서 열린 NC와 두산의 경기. 경기 전 두산의 2027 신인 김지우와 설재민이 시구와 시포를 펼쳤다. 힘차게 공을 던지는 김지우의 모습. 잠실=허상욱 기자wook@sportschosun.com/2026.09.29/",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-09-29 잠실 두산 신인 시구·홈팬 인사",
+        "people": [
+          {
+            "name": "김지우",
+            "team": "서울고·두산 베어스 지명 신인",
+            "role": "3학년 내야수·2027 신인"
+          }
+        ],
+        "visualNote": "9월29일 시구 행사에서 웃는 김지우 단독 정면. 얼굴·유니폼이 선명하고 배경 인물은 초점이 흐린 관중이다.",
+        "editorialNote": "10월13일 계약 발표 사진으로 오인하지 않도록 실제 촬영일과 자료사진을 표시한다."
+      }
+    },
+    {
+      "name": "김지우 사인볼 전달",
+      "subject": "김지우",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-29/202609290100199740013183",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/29/2026092901001997400131831_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "photoDate": "2026-09-29",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs1-story\\photos\\photo-75d269503be2.jpg",
+      "sha256": "75d269503be2d0650c0d63a07ea956157edf3971164373baf684151cd3f2b03f",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:10:19.714Z",
+        "width": 1200,
+        "height": 1549,
+        "bytes": 949050,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.0304545365654656,
+        "entropy": 7.597001468875533,
+        "effectiveDetailRatio": 0.499626,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/29/2026092901001997400131831_w.jpg",
+        "sha256": "75d269503be2d0650c0d63a07ea956157edf3971164373baf684151cd3f2b03f",
+        "perceptualHash": "c84b87132b0b470f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Fj9CIQIMEggIFioyHB4IBQoPChASCQkQFB8VGTAjMSoRLB0UExEqSkE4VmMaBQIDBgwHBxUYHhoSHB4pDhomAw0EBzFZHwmSp2d9DQYGBQQiUkgiGBAQDEBXHBEMHSEiIEsmAkjKLw9xVRARDiNsiGgtBQsNMzw5IQ4QJDdDWVgdFbycQDExhzcuKUWDQFlOEyMzPUAaNyIiPi4oZIgLe7JqDh0XOjQJFShiKWJPIzRRSCMhSD9GUzAhRKhAk0EaIB4MLUYsHiZUMVg3ITgqMh1DISUzKw4LJoCkVnMcHjQUQ1ANMFNIOTcpHkJIOGZbTjdAWFsnESeeSIExMAggKn+cplBOFTMVFiiisEElQSlJWXFRHBFSej5eFyUtc46Haz0ZXDM3NXyroG5CnFQbR1iCPUw8ZBlIERR4XgsIOnowXH8nUbNVVapYeoGJo41UbF97VIE6F0pUIiUPAzNYVLaRSZc2NZCELzF4GaR4LCcXnp4XLSZibUlFMhYXBVanTXknHF6qeB1PaJNRCEfh42mjKDpGT1BaVFw4BxNYQlkZFSGhgE85WGEkWf6wGiRkuFIiNzY5JlqOQiNKBkkOHRKBKUYPLzZY/6A+SEcoUJ9bJjo5SCJThR1lClooHCx/FVQLRTX/lSNCFDVJPV15QSwGL3lJVy8/I1NoXlKQTkAfJMyQNzojJT4mLy9GSg8dYlFMYGJUeHNGRlJwUA0NaHwqLBUgLiwfGx4OakBriiJ1DIBkkDM3EDU6JyAHXDUGGB46KCoNFiFgQZ9fID86ZGsGnkULBBBCFzAPZmAZBhYfgSRIPz1kmipeK1UYeDVIZkMVCQwhIjstXmonHjVcVFZQMmuCR2UyDSlRaC5dOEMNDQ4QI0w7VpAnN0JsIZFWiXoLIH87GEVnKG05GEwQBxIFF1xXanc7OBRCcVVrVgsHBEeDRXM7DGgCHGQfDgcFBBlUUhYnDgQfbDILCwcCAwFBTzEJDUJDT2FPHRoJFw4JChEPEREOXW0OBgIDAQQGCAcHCRxzPB51GwobFg8REg0PDg4TLZE8BgMBAwQCBQIJAwhxPnU7PCETBwcHBwUEBQYFBWaGEAYEAgQDBAMKBRQ+mDITWyIHBQQDBAICBAUECRqISgQABAUEBg4HDQ0Sc0pOXDcPAgUEBgYGCQkKCglkYAwFAwMFCw0SBQkaIn82Gk0MDAwMCgsHBQQFBwNbdBIDBAUHDQYUEQsDDmtYL0oYBQIGBAQFAwQEBAk0mDMQAQYJDhwKHQ4FEBZqWz5DBQYFBAIBBgcBAgcJeW8JBQMICRUbCBgOEHXOiIpbCQkEBwcFBQkKCQkGU4wZBwIFCwsWGRAbcP+1XEcmDhANCgsLCAQJCQQGJJBKCAcGCBEIKlOZ3aQ0GAkJBQYIBQYHCQkKCAkJDHJmDBQmSWSqtathN0YuPSZACgkKCgkICgwKCw4QF4FrTXGRoc6mVUNRMUE5QTo/GRYVFREQEg8LCwwNE1hZXFdGOBwkKEYoa0MnOSNW",
+          "top": "Fj9CIQIMEggIFioyHB4IBQoPChASCQkQFB8VGTAjMSoRLB0UExEqSkE4VmMaBQIDBgwHBxUYHhoSHB4pDhomAw0EBzFZHwmSp2d9DQYGBQQiUkgiGBAQDEBXHBEMHSEiIEsmAkjKLw9xVRARDiNsiGgtBQsNMzw5IQ4QJDdDWVgdFbycQDExhzcuKUWDQFlOEyMzPUAaNyIiPi4oZIgLe7JqDh0XOjQJFShiKWJPIzRRSCMhSD9GUzAhRKhAk0EaIB4MLUYsHiZUMVg3ITgqMh1DISUzKw4LJoCkVnMcHjQUQ1ANMFNIOTcpHkJIOGZbTjdAWFsnESeeSIExMAggKn+cplBOFTMVFiiisEElQSlJWXFRHBFSej5eFyUtc46Haz0ZXDM3NXyroG5CnFQbR1iCPUw8ZBlIERR4XgsIOnowXH8nUbNVVapYeoGJo41UbF97VIE6F0pUIiUPAzNYVLaRSZc2NZCELzF4GaR4LCcXnp4XLSZibUlFMhYXBVanTXknHF6qeB1PaJNRCEfh42mjKDpGT1BaVFw4BxNYQlkZFSGhgE85WGEkWf6wGiRkuFIiNzY5JlqOQiNKBkkOHRKB",
+          "middle": "LzF4GaR4LCcXnp4XLSZibUlFMhYXBVanTXknHF6qeB1PaJNRCEfh42mjKDpGT1BaVFw4BxNYQlkZFSGhgE85WGEkWf6wGiRkuFIiNzY5JlqOQiNKBkkOHRKBKUYPLzZY/6A+SEcoUJ9bJjo5SCJThR1lClooHCx/FVQLRTX/lSNCFDVJPV15QSwGL3lJVy8/I1NoXlKQTkAfJMyQNzojJT4mLy9GSg8dYlFMYGJUeHNGRlJwUA0NaHwqLBUgLiwfGx4OakBriiJ1DIBkkDM3EDU6JyAHXDUGGB46KCoNFiFgQZ9fID86ZGsGnkULBBBCFzAPZmAZBhYfgSRIPz1kmipeK1UYeDVIZkMVCQwhIjstXmonHjVcVFZQMmuCR2UyDSlRaC5dOEMNDQ4QI0w7VpAnN0JsIZFWiXoLIH87GEVnKG05GEwQBxIFF1xXanc7OBRCcVVrVgsHBEeDRXM7DGgCHGQfDgcFBBlUUhYnDgQfbDILCwcCAwFBTzEJDUJDT2FPHRoJFw4JChEPEREOXW0OBgIDAQQGCAcHCRxzPB51GwobFg8REg0PDg4TLZE8BgMBAwQCBQIJAwhxPnU7PCET",
+          "bottom": "F1xXanc7OBRCcVVrVgsHBEeDRXM7DGgCHGQfDgcFBBlUUhYnDgQfbDILCwcCAwFBTzEJDUJDT2FPHRoJFw4JChEPEREOXW0OBgIDAQQGCAcHCRxzPB51GwobFg8REg0PDg4TLZE8BgMBAwQCBQIJAwhxPnU7PCETBwcHBwUEBQYFBWaGEAYEAgQDBAMKBRQ+mDITWyIHBQQDBAICBAUECRqISgQABAUEBg4HDQ0Sc0pOXDcPAgUEBgYGCQkKCglkYAwFAwMFCw0SBQkaIn82Gk0MDAwMCgsHBQQFBwNbdBIDBAUHDQYUEQsDDmtYL0oYBQIGBAQFAwQEBAk0mDMQAQYJDhwKHQ4FEBZqWz5DBQYFBAIBBgcBAgcJeW8JBQMICRUbCBgOEHXOiIpbCQkEBwcFBQkKCQkGU4wZBwIFCwsWGRAbcP+1XEcmDhANCgsLCAQJCQQGJJBKCAcGCBEIKlOZ3aQ0GAkJBQYIBQYHCQkKCAkJDHJmDBQmSWSqtathN0YuPSZACgkKCgkICgwKCw4QF4FrTXGRoc6mVUNRMUE5QTo/GRYVFREQEg8LCwwNE1hZXFdGOBwkKEYoa0MnOSNW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.081666,
+          "top": 23.035207,
+          "middle": 31.990888,
+          "bottom": 22.670462,
+          "effectiveRatio": 0.499626
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1549
+      },
+      "strict": true,
+      "checkedAt": "2026-10-16T11:15:43.891Z",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.29 자료사진)",
+      "photoDateLabel": "2026-09-29 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내 취재 언론 원문에 실린 실제 사진이다. 이미지 생성·업스케일·생성형 복원을 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "29일 잠실야구장에서 열린 NC와 두산의 경기. 경기 전 두산의 2027 신인 김지우가 팬들에게 사인볼을 선사 하고 있다. 잠실=허상욱 기자wook@sportschosun.com/2026.09.29/",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-09-29 잠실 두산 신인 시구·홈팬 인사",
+        "people": [
+          {
+            "name": "김지우",
+            "team": "서울고·두산 베어스 지명 신인",
+            "role": "3학년 내야수·2027 신인"
+          }
+        ],
+        "visualNote": "9월29일 사인볼을 팬에게 전달하는 김지우 단독. 얼굴과 두산 유니폼이 선명하다.",
+        "editorialNote": "10월13일 계약 발표 사진으로 오인하지 않도록 실제 촬영일과 자료사진을 표시한다."
+      }
+    }
+  ]
+}
