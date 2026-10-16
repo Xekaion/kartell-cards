@@ -1,0 +1,349 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "우규민, 투수 통산 900경기 출장",
+  "issueKey": "kbo-2026-woo-kyumin-900-games-second-place",
+  "checkedAt": "2026-10-16T14:04:44.422Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12189",
+  "corroboratingUrls": [
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12129",
+    "https://www.news1.kr/amp/sports/baseball/6279575",
+    "https://www.sportschosun.com/baseball/2026-09-04/202609040100030080001825",
+    "https://www.sportschosun.com/baseball/2026-09-06/202609060100037840002437",
+    "https://www.sportschosun.com/baseball/2026-10-05/202610050100035860002315"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12189",
+      "role": "official-primary"
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12129",
+      "role": "official-corroborating"
+    },
+    {
+      "url": "https://www.news1.kr/amp/sports/baseball/6279575",
+      "role": "corroborating"
+    },
+    {
+      "url": "https://www.sportschosun.com/baseball/2026-09-04/202609040100030080001825",
+      "role": "photo-and-reporting"
+    },
+    {
+      "url": "https://www.sportschosun.com/baseball/2026-09-06/202609060100037840002437",
+      "role": "photo-archive"
+    },
+    {
+      "url": "https://www.sportschosun.com/baseball/2026-10-05/202610050100035860002315",
+      "role": "photo-archive"
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+  "photos": [
+    {
+      "name": "우규민 자료사진 1",
+      "subject": "우규민",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-04/202609040100030080001825",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/04/2026090401000300800018253_w.jpg",
+      "imageCredit": "KT 위즈 제공",
+      "photoDateLabel": "2026.09.03",
+      "photoDate": "2026.09.03",
+      "checkedAt": "2026-10-16T14:04:36.810Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\slot00-woo-story\\photos\\photo-1.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T14:04:37.183Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 1521054,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.8719194587488324,
+        "entropy": 7.845951390452683,
+        "effectiveDetailRatio": 0.548711,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/04/2026090401000300800018253_w.jpg",
+        "sha256": "2f96270de6a61203b331d6aa42bbe214cbf02d6ef3736c5cdcf31c6bf7253136",
+        "perceptualHash": "3517c7c233333313",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "PW9nVSlUKEaSdGdBHVJTTwcQYGEXEzM7VC8XHTIlDg8hNENRX3ZJESIbXz4RN2t7hoxyLAoQLiklKRUvBBgVByU8QS5DoGN6UjZAbVhSLVlaFhgoIgwTFyYOEw4HBQIbAzCKSnxfU1UvLIZMHWx+MhooHRcLBBMRBhcWDRcTBhhilSVHdCYkI1JcSBW12cAwGR8NHB4YBh4ODQ0BHzyZdThKggkaIKNuW7Bvatv/XwcSFwMfIBgIFAkbQIMyZX6CTy4Nzux5gSc8Iw+p6D0DBykEKBwPGiIWSlexMmh0MT985UYfM0UzJEmXqXYJJxsyMEAMPAg2OWpiHlEhDmnoZDU+DQoWJHKgTkgbLxsnDEZEFyccDAMnViIMNKyXMh4QGz0sKGZXCVEaKRMYMBNXJQcoEw8IIBULMcaJCz44SCBAVH48M1s9HBQfPBMrKRcuLQwNFRIWV+VvRE1LaIuOgodtX3JLJRkXHhAiQ0cSCxUQHSouktxfY11FWH9uQEgRZFksMAUaMQohQGJ3EQg0oKCc0EJ8cjoiLyxPZ7/YYzUSQ0YsFSlBCRtgRSSHdiQqMXhaIDc2ZoiCiYWleh8PNiw9HUguNRZfWT4ZqaqsgDuCTjJORC4iEw5rwCpeGw4bNBs8CyOGD5p0Mg9Bwpc+Sk8cEgoXNCOMkyVPKScqQFRGKkt8ZVWaRBMTmNSiJUY4QTs5SS+HnjBJdBNLLEUwJ0Aoxx2PbVRRKV1sSoGLWkFCMgSbvS00dR5jDAsIChl843bb5cvd3qMZXZ9eDwkKCQW/xQ8JbiOUCQwKDRqysC9PboGDnLdfg7I1OhMECRrLozwuiDqfc3d8h4zIhg4dKC8kOmqftFcxRDMIBiR+wJimjE20fH16eHVqIBAnNUUhEyRoUhE9Hz8LBAkncX6rYFlnBwgKDhAtIBAiPgMkBhUZGQ4lGSkGBAMZFRELDB4iHB0bFBU4Jg8ZKhceFQwRGhYeBSYJAxcyKSs2NTInEg8PDA43KQ0ZKAUkDRoVHSIQCxwJBBwqCggNEBATFBYSEhY+MA8mKQ0qEC8WHjIEBRMFBxoqDwoLEBEQERISDxVIOBYzHiImIzYQFTgMESUKEBczHBYWExIWFxIVERxRMiU8FyodMTkOEDYYAS4PExg+HBMXFBYZEhIRDihYJDBCDD8OQTAJCzArDRQdBxRBGw4SEhcbEA8OCDNgFUA2FzQYPjMJCSM7HwwNGhlRJBQWFRcXDRISCz5dE0MrJCwEQTANChdCLgUHDiFUKRITFRITDw8VFkFTIDkfLCkNTigQDQ1EQQcODiJULxASExcZGxQSF0VJFzMcOSQgVyUVFBFKVQcYCzBVLhcZGh8jIBwXEkxTCjwkX0FDZBwSEhRPYhYYHTFcMR0fHyEeHyAeGEh3Fz88SWcwdicQDQtSch4gEEJzKxUYFxYXFBoeHil2UkwmTy1PciIRFRcxeS4ZG3dxFxIXGRkbEREVEjZgfm4loaTXYhUeICIXek4kPE8/IyAeHSEh",
+          "top": "PW9nVSlUKEaSdGdBHVJTTwcQYGEXEzM7VC8XHTIlDg8hNENRX3ZJESIbXz4RN2t7hoxyLAoQLiklKRUvBBgVByU8QS5DoGN6UjZAbVhSLVlaFhgoIgwTFyYOEw4HBQIbAzCKSnxfU1UvLIZMHWx+MhooHRcLBBMRBhcWDRcTBhhilSVHdCYkI1JcSBW12cAwGR8NHB4YBh4ODQ0BHzyZdThKggkaIKNuW7Bvatv/XwcSFwMfIBgIFAkbQIMyZX6CTy4Nzux5gSc8Iw+p6D0DBykEKBwPGiIWSlexMmh0MT985UYfM0UzJEmXqXYJJxsyMEAMPAg2OWpiHlEhDmnoZDU+DQoWJHKgTkgbLxsnDEZEFyccDAMnViIMNKyXMh4QGz0sKGZXCVEaKRMYMBNXJQcoEw8IIBULMcaJCz44SCBAVH48M1s9HBQfPBMrKRcuLQwNFRIWV+VvRE1LaIuOgodtX3JLJRkXHhAiQ0cSCxUQHSouktxfY11FWH9uQEgRZFksMAUaMQohQGJ3EQg0oKCc0EJ8cjoiLyxPZ7/YYzUSQ0YsFSlBCRtgRSSHdiQqMXhaIDc2ZoiCiYWleh8PNiw9",
+          "middle": "HhAiQ0cSCxUQHSouktxfY11FWH9uQEgRZFksMAUaMQohQGJ3EQg0oKCc0EJ8cjoiLyxPZ7/YYzUSQ0YsFSlBCRtgRSSHdiQqMXhaIDc2ZoiCiYWleh8PNiw9HUguNRZfWT4ZqaqsgDuCTjJORC4iEw5rwCpeGw4bNBs8CyOGD5p0Mg9Bwpc+Sk8cEgoXNCOMkyVPKScqQFRGKkt8ZVWaRBMTmNSiJUY4QTs5SS+HnjBJdBNLLEUwJ0Aoxx2PbVRRKV1sSoGLWkFCMgSbvS00dR5jDAsIChl843bb5cvd3qMZXZ9eDwkKCQW/xQ8JbiOUCQwKDRqysC9PboGDnLdfg7I1OhMECRrLozwuiDqfc3d8h4zIhg4dKC8kOmqftFcxRDMIBiR+wJimjE20fH16eHVqIBAnNUUhEyRoUhE9Hz8LBAkncX6rYFlnBwgKDhAtIBAiPgMkBhUZGQ4lGSkGBAMZFRELDB4iHB0bFBU4Jg8ZKhceFQwRGhYeBSYJAxcyKSs2NTInEg8PDA43KQ0ZKAUkDRoVHSIQCxwJBBwqCggNEBATFBYSEhY+MA8mKQ0qEC8WHjIEBRMFBxoqDwoLEBEQ",
+          "bottom": "BwgKDhAtIBAiPgMkBhUZGQ4lGSkGBAMZFRELDB4iHB0bFBU4Jg8ZKhceFQwRGhYeBSYJAxcyKSs2NTInEg8PDA43KQ0ZKAUkDRoVHSIQCxwJBBwqCggNEBATFBYSEhY+MA8mKQ0qEC8WHjIEBRMFBxoqDwoLEBEQERISDxVIOBYzHiImIzYQFTgMESUKEBczHBYWExIWFxIVERxRMiU8FyodMTkOEDYYAS4PExg+HBMXFBYZEhIRDihYJDBCDD8OQTAJCzArDRQdBxRBGw4SEhcbEA8OCDNgFUA2FzQYPjMJCSM7HwwNGhlRJBQWFRcXDRISCz5dE0MrJCwEQTANChdCLgUHDiFUKRITFRITDw8VFkFTIDkfLCkNTigQDQ1EQQcODiJULxASExcZGxQSF0VJFzMcOSQgVyUVFBFKVQcYCzBVLhcZGh8jIBwXEkxTCjwkX0FDZBwSEhRPYhYYHTFcMR0fHyEeHyAeGEh3Fz88SWcwdicQDQtSch4gEEJzKxUYFxYXFBoeHil2UkwmTy1PciIRFRcxeS4ZG3dxFxIXGRkbEREVEjZgfm4loaTXYhUeICIXek4kPE8/IyAeHSEh"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 32.009221,
+          "top": 35.723184,
+          "middle": 23.440705,
+          "bottom": 30.296871,
+          "effectiveRatio": 0.548711
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1799
+      },
+      "sha256": "2f96270de6a61203b331d6aa42bbe214cbf02d6ef3736c5cdcf31c6bf7253136",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "원문 페이지·원본 URL·크레딧·촬영일을 연결했다. 이미지 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      }
+    },
+    {
+      "name": "우규민 자료사진 2",
+      "subject": "우규민",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-06/202609060100037840002437",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000378400024371_w.jpg",
+      "imageCredit": "스포츠조선 허상욱 기자",
+      "photoDateLabel": "2025.07.12",
+      "photoDate": "2025.07.12",
+      "checkedAt": "2026-10-16T14:04:36.810Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\slot00-woo-story\\photos\\photo-2.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T14:04:37.630Z",
+        "width": 1200,
+        "height": 1690,
+        "bytes": 1057271,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9198424607868814,
+        "entropy": 7.77526118606329,
+        "effectiveDetailRatio": 0.477955,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000378400024371_w.jpg",
+        "sha256": "69d6ea463aa794a3f0dba7bb0cf01bad25b2f0e81e2230f69c807773e30f97f1",
+        "perceptualHash": "6da693e3e81b1b0b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "hEItGlEcWA9wPQkMMBxkOothcJV8lcdQmWEnI0ckVnVfJmMbNldxQ3ZyWzckh5gKgFaxwpW4bJQcV0EnO2Qqc3YwKEcda2wlW2SChF3NxmH/b4CzFJVBVhANFEBAnGaAhz1nHjspP3lYfZ0Pqb9dXMWpEEtDHRovPidKaxlqZ4EaWXJfIoZCa6anbWxtjuI4ZEwXIhQ9UFMrSkIhoJg1cIae2XFONUA0UEMzZRMcJm43CRcVNmpwqD3/zDkmZsCzmZiKNXkZIQ07jehrEUtFaFpvOEnuMexricVjqEUVLoHMV24NTXmakq3/lkNAfUFTEZVko0+NjiJtPoJRKRGY0GCGnnBDCguPzic6WInCHy4fJmxnM4IXXyxHXCgERmwuSwgICQs/oTcVVJmTVZGHQBBMUB9Nb3U8Bkp8fWKMokcHEQpxuy8oOzMVlGIjQVROHkWIYEV6prVhUGZw4I8JCROKxBUUEiwfN2sLUT4zP1sah8TMpZRGfnySpc1FAhaXpQ0YHCAreqKIKEEpeLiaTGAzBmrUkInTsT9ALhRYx1s0Jic5cXW1JyU0eIqpYI5CJzLFvCpScDcoJBBQZo57TwhOonp0hH9eXXWzaH4MFhpa2/+EKS8vC0XSGpRzshlUYoEhYl6FdpdTs0gQCxQfQKr/thASTfORnUw6m25MWRE2GkpRRXIwqScPEBgyL1ty/85V6MR3k2lINpgiBwQEHCdIEEClewwRHyYEDkFVcP/Hpa8IcYhbPJN4Ig0OC01UHzeDGCIHD1cLO0ZRKjmkgm9ReFtKIE2DUTgNJElADTpWNRc7VVwtTVd7GytCdEQkPVFdCxwNIkRYNUA1PS0TW3U5lEc1U4daJhcqTC0UOWtsNT9JOk1oaFBCKSJOQwlAJltcB00aFREePREQFVBzb2VLipWDPyIdEBMWI0RJRRUhH1tGBhAqVwcnEhFrYVpIpUlMPwkxDBYaFCQdLztQHWM+HhslMC+KiI8dMCEgOwYQHkQrV2oUHyaAr49BF1gZKH4kxdGwjcrKIgsKKhYxBHvautP80vP/utjzcGJR2bvFqmIiEEzkciBOHlSom/+NW0Cr0tlJCxarsK703UqpN30MBSDEb2uvMa5xslYGBQcFBAkECAhOd4B8KhgngBwEBSHCVrNKgY+/SAgIBAQFBwQBAg0TTwwREhAeFgEABiLMnaJt2lunTAYUDwEFBQUBDAQFIBkKFg8HBQMBBhSGsqsgRDJgTAwfGQkEAQUIEQsOGRELDQgIBAIDAwssQSwnjWOdQhsdIhICCAMbHBgWFBsWFQkHBAECBApFgCQ6qRGnNSgaNxwSDBgPDQcDDhUgMA4GBAIEAxhzUS0qrAaVLDIVQUtZRyoWEAkJGTcdYTYJAgIHEH+rgbozgI9/IUsTFVY/OiANDRUVBjZTJ20iAwAJNImZQJ17VUMLRU8zQBRETysZFAsIFSY6KlEzBAQFLyF4sSSQmnY0WUJWKxxDJgUPCwgJGSkgHDYzCAcGRiczvo9E",
+          "top": "hEItGlEcWA9wPQkMMBxkOothcJV8lcdQmWEnI0ckVnVfJmMbNldxQ3ZyWzckh5gKgFaxwpW4bJQcV0EnO2Qqc3YwKEcda2wlW2SChF3NxmH/b4CzFJVBVhANFEBAnGaAhz1nHjspP3lYfZ0Pqb9dXMWpEEtDHRovPidKaxlqZ4EaWXJfIoZCa6anbWxtjuI4ZEwXIhQ9UFMrSkIhoJg1cIae2XFONUA0UEMzZRMcJm43CRcVNmpwqD3/zDkmZsCzmZiKNXkZIQ07jehrEUtFaFpvOEnuMexricVjqEUVLoHMV24NTXmakq3/lkNAfUFTEZVko0+NjiJtPoJRKRGY0GCGnnBDCguPzic6WInCHy4fJmxnM4IXXyxHXCgERmwuSwgICQs/oTcVVJmTVZGHQBBMUB9Nb3U8Bkp8fWKMokcHEQpxuy8oOzMVlGIjQVROHkWIYEV6prVhUGZw4I8JCROKxBUUEiwfN2sLUT4zP1sah8TMpZRGfnySpc1FAhaXpQ0YHCAreqKIKEEpeLiaTGAzBmrUkInTsT9ALhRYx1s0Jic5cXW1JyU0eIqpYI5CJzLFvCpScDcoJBBQZo57TwhO",
+          "middle": "N2sLUT4zP1sah8TMpZRGfnySpc1FAhaXpQ0YHCAreqKIKEEpeLiaTGAzBmrUkInTsT9ALhRYx1s0Jic5cXW1JyU0eIqpYI5CJzLFvCpScDcoJBBQZo57TwhOonp0hH9eXXWzaH4MFhpa2/+EKS8vC0XSGpRzshlUYoEhYl6FdpdTs0gQCxQfQKr/thASTfORnUw6m25MWRE2GkpRRXIwqScPEBgyL1ty/85V6MR3k2lINpgiBwQEHCdIEEClewwRHyYEDkFVcP/Hpa8IcYhbPJN4Ig0OC01UHzeDGCIHD1cLO0ZRKjmkgm9ReFtKIE2DUTgNJElADTpWNRc7VVwtTVd7GytCdEQkPVFdCxwNIkRYNUA1PS0TW3U5lEc1U4daJhcqTC0UOWtsNT9JOk1oaFBCKSJOQwlAJltcB00aFREePREQFVBzb2VLipWDPyIdEBMWI0RJRRUhH1tGBhAqVwcnEhFrYVpIpUlMPwkxDBYaFCQdLztQHWM+HhslMC+KiI8dMCEgOwYQHkQrV2oUHyaAr49BF1gZKH4kxdGwjcrKIgsKKhYxBHvautP80vP/utjzcGJR2bvFqmIiEEzkciBO",
+          "bottom": "ipWDPyIdEBMWI0RJRRUhH1tGBhAqVwcnEhFrYVpIpUlMPwkxDBYaFCQdLztQHWM+HhslMC+KiI8dMCEgOwYQHkQrV2oUHyaAr49BF1gZKH4kxdGwjcrKIgsKKhYxBHvautP80vP/utjzcGJR2bvFqmIiEEzkciBOHlSom/+NW0Cr0tlJCxarsK703UqpN30MBSDEb2uvMa5xslYGBQcFBAkECAhOd4B8KhgngBwEBSHCVrNKgY+/SAgIBAQFBwQBAg0TTwwREhAeFgEABiLMnaJt2lunTAYUDwEFBQUBDAQFIBkKFg8HBQMBBhSGsqsgRDJgTAwfGQkEAQUIEQsOGRELDQgIBAIDAwssQSwnjWOdQhsdIhICCAMbHBgWFBsWFQkHBAECBApFgCQ6qRGnNSgaNxwSDBgPDQcDDhUgMA4GBAIEAxhzUS0qrAaVLDIVQUtZRyoWEAkJGTcdYTYJAgIHEH+rgbozgI9/IUsTFVY/OiANDRUVBjZTJ20iAwAJNImZQJ17VUMLRU8zQBRETysZFAsIFSY6KlEzBAQFLyF4sSSQmnY0WUJWKxxDJgUPCwgJGSkgHDYzCAcGRiczvo9E"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.093554,
+          "top": 30.11203,
+          "middle": 28.096839,
+          "bottom": 18.282933,
+          "effectiveRatio": 0.477955
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1690
+      },
+      "sha256": "69d6ea463aa794a3f0dba7bb0cf01bad25b2f0e81e2230f69c807773e30f97f1",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "원문 페이지·원본 URL·크레딧·촬영일을 연결했다. 이미지 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      }
+    },
+    {
+      "name": "우규민 자료사진 3",
+      "subject": "우규민",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-06/202609060100037840002437",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000378400024374_w.jpg",
+      "imageCredit": "스포츠조선 허상욱 기자",
+      "photoDateLabel": "2026.07.19",
+      "photoDate": "2026.07.19",
+      "checkedAt": "2026-10-16T14:04:36.810Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\slot00-woo-story\\photos\\photo-3.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T14:04:37.961Z",
+        "width": 1200,
+        "height": 1551,
+        "bytes": 997424,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.4362844155426377,
+        "entropy": 7.489663037005812,
+        "effectiveDetailRatio": 0.472502,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000378400024374_w.jpg",
+        "sha256": "b97c154e982bc4341231acbcf0bbd11f6838bbf452f6c292e19e092b464903e2",
+        "perceptualHash": "4c5aee6cf9323253",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "GxSRfxkRSn87L3xsTzpELWtMQKW3cmRxQSF92EZoMxWngxAWdqhNa3sjdRpxvhJKhFkvHQIRKqv/ekNcJWW9TSU57pQpT+mdZC1fvr1saYr/kHs1S/mCByRFFlexQxuSug03ITWQg584YfB1hcVRzMGMWuBZd3hzKWGof0C0WgtMYmSqyUlUR+pbp48zPpXCgam84uDfTDorxXuiPVTUmpGiRW5aJdRaYpBGKmzBVVSlUEtoeVCMP18oeebYJDQLRSJGZKSRemBdNxxyPzZYECgcPB0NPHwgq5UtUUEZFxlZom8NKn+KYLC3QFZpICA0JyuIeCgdRpvEiVRngWFviTMwZBZaRYAVA2opoJO1mdh4MQkwOB1hemCKgTdnVlyHGXUgHzEKDweiq3dMlbNvZCIwSmZCGjlHUD5ra2EjaE9ILDk1BzlcmmGD0V9XQTRWLXZSCgkNF32l2H/ZS3IsMkEzQEVERXlljw6FIwRZEWgNGBANW75fVxyB+0WUUk0HTC0+LjUIa+E7Y2Ch41oGEBYdWWCjPWZjbZKMfowfU2oeGTso07BvXlJjsKgRDAcXTmZlmDt6fGNXrnEMHCk7GmMmHlnNSFlGW5cSCQ0WGUweoy7EV5hnPT0ULzQZIkqeCV+5OElYXroVBhoIKT47N6FaG11nI10sIRA0b7fcF7TDlJdY+oYJBhEcV0c5GTwSKx4sSR0ZQbBrlqVNzOqImz+6iAYDAwZAfGtiSzoLNBUICBkY/7BfX3T/tM+/FiATBgYFBghbdDtEOk0KNwsNByGN/57TqoP/Q6W5EBAcJwkXCxAIcE4sViUdLQkPGyrqIv8qaORSCKvioJRWgrTEs0ULKTMwPgcqLAoPM2PbcqQiRFoPHmWx7df0+tzC9f91nYlaSAQYLk15sP+Uq4cSMBVCUzF1MClsUS0UHsXS2HegYxcPkP/g336Cm2gSHIXqTTg6AgYCBAIEBCSJNo9ya26A/65LXOGUOzQgZfGrVUQ9BQUDAgEDAwI5boMyJm1/in4Dx7dEKBwsb/BBNDk6EAcHBAECAwI3iFUUFCAYYYcoXP+GUAk1l8kYHRtHKyYeBgYEAQMpj1UACQ8NV2w+F4H/SzoxZv9AGSMwNDBiPQwEAgQSi3gSCQYfVVIxHx29yDQ9evmGaRoYI0IGbDYJAgIFbY8cChYfgWgeCQ9cppOp/7AELyMwRDl3C0sTAwECX4cjEBsdkGcHBA0qVD5/ZRssFiAkMQlDKz4gAAEBYYQZDgRwb2sJAgoRRzRFKgwnEB4eLQE4IzQXBAIEan8OCU1iQkUbBA0YXHJfOQxTGiQiLgIjLRkoBwIKdHEGE2NIIi4oBRAVsD+VRxVOCx4sIAcQHhgmIgMPbmsMP3gjNyEqBwgZY7VFRh4fEw4jBA0GByQaIggZeWEJNZ54PywvEQ0LFVAsNyYgYCILBhOMpbVzNwYTa2QRRH3Wx3ZMGRwRJWkJRSg/s20BE6b3ya3hjgMfiVUUcFZcicl/LDYgNDUhTS87",
+          "top": "GxSRfxkRSn87L3xsTzpELWtMQKW3cmRxQSF92EZoMxWngxAWdqhNa3sjdRpxvhJKhFkvHQIRKqv/ekNcJWW9TSU57pQpT+mdZC1fvr1saYr/kHs1S/mCByRFFlexQxuSug03ITWQg584YfB1hcVRzMGMWuBZd3hzKWGof0C0WgtMYmSqyUlUR+pbp48zPpXCgam84uDfTDorxXuiPVTUmpGiRW5aJdRaYpBGKmzBVVSlUEtoeVCMP18oeebYJDQLRSJGZKSRemBdNxxyPzZYECgcPB0NPHwgq5UtUUEZFxlZom8NKn+KYLC3QFZpICA0JyuIeCgdRpvEiVRngWFviTMwZBZaRYAVA2opoJO1mdh4MQkwOB1hemCKgTdnVlyHGXUgHzEKDweiq3dMlbNvZCIwSmZCGjlHUD5ra2EjaE9ILDk1BzlcmmGD0V9XQTRWLXZSCgkNF32l2H/ZS3IsMkEzQEVERXlljw6FIwRZEWgNGBANW75fVxyB+0WUUk0HTC0+LjUIa+E7Y2Ch41oGEBYdWWCjPWZjbZKMfowfU2oeGTso07BvXlJjsKgRDAcXTmZlmDt6fGNXrnEMHCk7GmMm",
+          "middle": "jw6FIwRZEWgNGBANW75fVxyB+0WUUk0HTC0+LjUIa+E7Y2Ch41oGEBYdWWCjPWZjbZKMfowfU2oeGTso07BvXlJjsKgRDAcXTmZlmDt6fGNXrnEMHCk7GmMmHlnNSFlGW5cSCQ0WGUweoy7EV5hnPT0ULzQZIkqeCV+5OElYXroVBhoIKT47N6FaG11nI10sIRA0b7fcF7TDlJdY+oYJBhEcV0c5GTwSKx4sSR0ZQbBrlqVNzOqImz+6iAYDAwZAfGtiSzoLNBUICBkY/7BfX3T/tM+/FiATBgYFBghbdDtEOk0KNwsNByGN/57TqoP/Q6W5EBAcJwkXCxAIcE4sViUdLQkPGyrqIv8qaORSCKvioJRWgrTEs0ULKTMwPgcqLAoPM2PbcqQiRFoPHmWx7df0+tzC9f91nYlaSAQYLk15sP+Uq4cSMBVCUzF1MClsUS0UHsXS2HegYxcPkP/g336Cm2gSHIXqTTg6AgYCBAIEBCSJNo9ya26A/65LXOGUOzQgZfGrVUQ9BQUDAgEDAwI5boMyJm1/in4Dx7dEKBwsb/BBNDk6EAcHBAECAwI3iFUUFCAYYYcoXP+GUAk1l8kY",
+          "bottom": "UzF1MClsUS0UHsXS2HegYxcPkP/g336Cm2gSHIXqTTg6AgYCBAIEBCSJNo9ya26A/65LXOGUOzQgZfGrVUQ9BQUDAgEDAwI5boMyJm1/in4Dx7dEKBwsb/BBNDk6EAcHBAECAwI3iFUUFCAYYYcoXP+GUAk1l8kYHRtHKyYeBgYEAQMpj1UACQ8NV2w+F4H/SzoxZv9AGSMwNDBiPQwEAgQSi3gSCQYfVVIxHx29yDQ9evmGaRoYI0IGbDYJAgIFbY8cChYfgWgeCQ9cppOp/7AELyMwRDl3C0sTAwECX4cjEBsdkGcHBA0qVD5/ZRssFiAkMQlDKz4gAAEBYYQZDgRwb2sJAgoRRzRFKgwnEB4eLQE4IzQXBAIEan8OCU1iQkUbBA0YXHJfOQxTGiQiLgIjLRkoBwIKdHEGE2NIIi4oBRAVsD+VRxVOCx4sIAcQHhgmIgMPbmsMP3gjNyEqBwgZY7VFRh4fEw4jBA0GByQaIggZeWEJNZ54PywvEQ0LFVAsNyYgYCILBhOMpbVzNwYTa2QRRH3Wx3ZMGRwRJWkJRSg/s20BE6b3ya3hjgMfiVUUcFZcicl/LDYgNDUhTS87"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 33.944956,
+          "top": 35.369708,
+          "middle": 43.462796,
+          "bottom": 30.707065,
+          "effectiveRatio": 0.472502
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1551
+      },
+      "sha256": "b97c154e982bc4341231acbcf0bbd11f6838bbf452f6c292e19e092b464903e2",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "원문 페이지·원본 URL·크레딧·촬영일을 연결했다. 이미지 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      }
+    },
+    {
+      "name": "우규민 자료사진 4",
+      "subject": "우규민",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-06/202609060100037840002437",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000378400024372_w.jpg",
+      "imageCredit": "스포츠조선 DB",
+      "photoDateLabel": "2007.07.17",
+      "photoDate": "2007.07.17",
+      "checkedAt": "2026-10-16T14:04:36.810Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\slot00-woo-story\\photos\\photo-4.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T14:04:38.330Z",
+        "width": 1200,
+        "height": 2079,
+        "bytes": 1501951,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.862469523706369,
+        "entropy": 7.712039406353142,
+        "effectiveDetailRatio": 0.482828,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000378400024372_w.jpg",
+        "sha256": "fd6fa9dba3b4f3a1f632f41c4193487e04f337c78eec27f3b2797f7f9d2500f9",
+        "perceptualHash": "62ad27670f87969a",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "JUtaQzcyKSg3IygwRzgoNn9sVkEWhlk7NT5ARC0gKUU/KDsrDC83IEYeQS89PiNFaWAxfTcVGxgHExwoTi0fJiU6KiBXSEclWlUIHw44gY1vYVg5Ih43My49Gw8JDg0iPG1sehANGVmCYFM3c9f/khQsFyglIiYhKzMwMDMnKsMhlxkZccVsLyoZL1dhvI0NPTYLCiIPDQoLEBQcS3iTgxYVb9edfUcZNUV6U2WTLhcSDRgGFAkHBgYQZUCVcTIJGodsT2FNaixpQyiMgxQVGRITUzEgHTNWgUJXZWBcFKf/d2I6LBBShTFBulAKFh4ZXUMVIV1yajo7JRpkTv+EzplaDw0QKE4nfck9JickMVskX3Q9YkAhGxEGZB3/wO6gYwsVinB9CY2yZSAlHEE1XToSSHVrOTE6NZteEGbAXxoSnQyGGA1VfkIhJTY1SSQcc9RdQU0+MS4QK5l4QSkMdS1mGhEoUEIXMVAoU0ExjcAeXxAGBQ4qqaF/TBAJhC6EEBQiUUYMP0wnSxIXkZV7IYErLjKxxXYyExITnRCILTJPcUsdRyhTRxgkj7EToEI9I3vAOwkKHg4cg4tVRlF3UB8xTQRbKwwYrrQTclF2YsheChAIGw0ZDHVEOzQVIAMnUA5YHwMhmdctPb1WY3UjKSIbFBASGAo3ViYGBQIsQShbFwQ2b/9kaZyEaU0KEhgnGBABGjBSSgwBBAIeGkJcGRIwTd7v/99sN1AQBAQZKBIRDkBrPwYBAwMPDz5TTFc9HmGjeEE9VB5BCggLDA5BMzl6SgsEBAQPFCdNXmqGIwgSCgoNJ0MiX04/JTxHWTY8VyUEBAMECAkdHUabPgcHBgUDBhlfSylJNzV1Rh5MShwHCgoHJyIeHTKRWQcEBwcLCQYQWV0lSC49P2SPPBESFhYVKysrKTFjdRIIBAoLBwkCFUc6URsRESiWWwoKCgcFGBkcHCAmZVlDEQYKCAULBRI6Dw0MBBVxYCsrLS4pDA4ODg4UEDVyjzwKDAwMCg0NDRMCBRtaQSUnKCgpEBAQEA8NDyQ2XKtIFQIVDAQTChEODTFNKhETExMUDg8ODg4QERA/YjSFKxoWFQ4MFQwZM0YoEwwNDxEQBgUDBAQICAgHL1xDYRQEBBEGHRkvOxUBDQkLDA0OBQEDAwIEAwICDR1VLx4GCQoJFTs/BwQFAwQEBQUFAQABAgEEBQUEAS5PCxdXIQIKDFA0FAcMCgcHCAcHHhsdGxogIBsTHUstGlF9dh8LBCFSGAkECwsBAQQFJyUlKCswLC0rPV4aLY8yh2MXBQs+Sw5BJkM6Ky8pLyouJykwLCoWamUHZHIzQXFREwsMSXRMOV8uEBccMzAyMzhAPUA1ZTE0dCgkJx1wPQwLUY1EUCFuPEI1FA8QCwwNCgwhQgZcPjUyE00xRSYZiKk/DJ5zGSAqCwsLBwkLChE2OSFuGysYbhgNMjwwwnI+moEECgwEAAIEBAIEAw8+LUtCQxhTDDkUGUYpk3hWfhAaKQIH",
+          "top": "JUtaQzcyKSg3IygwRzgoNn9sVkEWhlk7NT5ARC0gKUU/KDsrDC83IEYeQS89PiNFaWAxfTcVGxgHExwoTi0fJiU6KiBXSEclWlUIHw44gY1vYVg5Ih43My49Gw8JDg0iPG1sehANGVmCYFM3c9f/khQsFyglIiYhKzMwMDMnKsMhlxkZccVsLyoZL1dhvI0NPTYLCiIPDQoLEBQcS3iTgxYVb9edfUcZNUV6U2WTLhcSDRgGFAkHBgYQZUCVcTIJGodsT2FNaixpQyiMgxQVGRITUzEgHTNWgUJXZWBcFKf/d2I6LBBShTFBulAKFh4ZXUMVIV1yajo7JRpkTv+EzplaDw0QKE4nfck9JickMVskX3Q9YkAhGxEGZB3/wO6gYwsVinB9CY2yZSAlHEE1XToSSHVrOTE6NZteEGbAXxoSnQyGGA1VfkIhJTY1SSQcc9RdQU0+MS4QK5l4QSkMdS1mGhEoUEIXMVAoU0ExjcAeXxAGBQ4qqaF/TBAJhC6EEBQiUUYMP0wnSxIXkZV7IYErLjKxxXYyExITnRCILTJPcUsdRyhTRxgkj7EToEI9I3vAOwkKHg4cg4tVRlF3UB8x",
+          "middle": "MVAoU0ExjcAeXxAGBQ4qqaF/TBAJhC6EEBQiUUYMP0wnSxIXkZV7IYErLjKxxXYyExITnRCILTJPcUsdRyhTRxgkj7EToEI9I3vAOwkKHg4cg4tVRlF3UB8xTQRbKwwYrrQTclF2YsheChAIGw0ZDHVEOzQVIAMnUA5YHwMhmdctPb1WY3UjKSIbFBASGAo3ViYGBQIsQShbFwQ2b/9kaZyEaU0KEhgnGBABGjBSSgwBBAIeGkJcGRIwTd7v/99sN1AQBAQZKBIRDkBrPwYBAwMPDz5TTFc9HmGjeEE9VB5BCggLDA5BMzl6SgsEBAQPFCdNXmqGIwgSCgoNJ0MiX04/JTxHWTY8VyUEBAMECAkdHUabPgcHBgUDBhlfSylJNzV1Rh5MShwHCgoHJyIeHTKRWQcEBwcLCQYQWV0lSC49P2SPPBESFhYVKysrKTFjdRIIBAoLBwkCFUc6URsRESiWWwoKCgcFGBkcHCAmZVlDEQYKCAULBRI6Dw0MBBVxYCsrLS4pDA4ODg4UEDVyjzwKDAwMCg0NDRMCBRtaQSUnKCgpEBAQEA8NDyQ2XKtIFQIVDAQTChEODTFNKhETExMU",
+          "bottom": "KysrKTFjdRIIBAoLBwkCFUc6URsRESiWWwoKCgcFGBkcHCAmZVlDEQYKCAULBRI6Dw0MBBVxYCsrLS4pDA4ODg4UEDVyjzwKDAwMCg0NDRMCBRtaQSUnKCgpEBAQEA8NDyQ2XKtIFQIVDAQTChEODTFNKhETExMUDg8ODg4QERA/YjSFKxoWFQ4MFQwZM0YoEwwNDxEQBgUDBAQICAgHL1xDYRQEBBEGHRkvOxUBDQkLDA0OBQEDAwIEAwICDR1VLx4GCQoJFTs/BwQFAwQEBQUFAQABAgEEBQUEAS5PCxdXIQIKDFA0FAcMCgcHCAcHHhsdGxogIBsTHUstGlF9dh8LBCFSGAkECwsBAQQFJyUlKCswLC0rPV4aLY8yh2MXBQs+Sw5BJkM6Ky8pLyouJykwLCoWamUHZHIzQXFREwsMSXRMOV8uEBccMzAyMzhAPUA1ZTE0dCgkJx1wPQwLUY1EUCFuPEI1FA8QCwwNCgwhQgZcPjUyE00xRSYZiKk/DJ5zGSAqCwsLBwkLChE2OSFuGysYbhgNMjwwwnI+moEECgwEAAIEBAIEAw8+LUtCQxhTDDkUGUYpk3hWfhAaKQIH"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 45.47589,
+          "top": 39.637031,
+          "middle": 51.971407,
+          "bottom": 49.444922,
+          "effectiveRatio": 0.482828
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 2079
+      },
+      "sha256": "fd6fa9dba3b4f3a1f632f41c4193487e04f337c78eec27f3b2797f7f9d2500f9",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "원문 페이지·원본 URL·크레딧·촬영일을 연결했다. 이미지 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      }
+    },
+    {
+      "name": "우규민 자료사진 5",
+      "subject": "우규민",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-05/202610050100035860002315",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/05/2026100501000358600023151_w.jpg",
+      "imageCredit": "스포츠조선 정재근 기자",
+      "photoDateLabel": "2026.10.05",
+      "photoDate": "2026.10.05",
+      "checkedAt": "2026-10-16T14:04:36.810Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\slot00-woo-story\\photos\\photo-5.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T14:04:38.661Z",
+        "width": 1200,
+        "height": 1571,
+        "bytes": 781223,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.386058087589891,
+        "entropy": 7.185243711515795,
+        "effectiveDetailRatio": 0.567084,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/10/05/2026100501000358600023151_w.jpg",
+        "sha256": "08ecc0968d99d838a3e0e4479c5c9096c8d409e4e73aae0d57aab6b3e2373c26",
+        "perceptualHash": "cee561e1e1c74fc5",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BQQCDRsWPSpTOTtJVBUEBAEECw8CAAEBAAABAQAABgQIFBEtZVcqWS0MbksZBgQFFx4fFh4gISguKyIhAAgEDB15O3Q9HUFGLU4dFAQVFwMfJDE6Ojo1LyYmAQEGDCc/hFkQCBgKQA4kEwoFGB0WER4XFiMxLiMgAAECFBQiOyEpEgkJEhUXCAsECR8QGh8zLzEtJh0bAQECFA8TLkQ1TVcCBgkYGA4IBA4hChsLAgQKCg0dAQACEykOMDojKVxuYDlAQRcHAgEKHw4UDwkIBw8nAQEAAhQhJlM/SSiKh4GnqUcGBgMCDRYXDAoKCgsZAQEBAQEBAx9NhZQYYlA0z6YIBQUBAgoHDQQCAQEFAgEBAAECC2umlynPkXjfVq0tCQQDAgQCDQkIFhQSBAEAAAIJS7BjNHRuTD8zTVA5DQQCAQIEBgsQGRoMAwMBAAEFeoRML3hJQ1AjEFuRSgcBAQEEAgsLGhIeAgIBAAIJb7tiL4keMUMiNkhStmICBAECBgMMICZNCAECAQIJNN6Nao0uIiovICV7L5Q9AwQBBAcLB01OCQUEAwEEDoTHZDVQTS0mSSoeWQ9OFgUBAgkEEQtOBQoIDBEsfnVuNhgULSYfIzMbBTAxFgkHAgQJBBMVExARIyt4nIIxTE0YGiAjXkMRGRcYBgMJBwQHAwpQCgcZCSB2Lko3URgvSmxBKjMwGjI5DQkKDA4NCg+FCAINERpvPBUfUUwqHjdvZD0bFyAqEgsMDQ0IChx9JzMvLEJiPSQfSkggVkk1gylURD01GwgHAQQCCBVYHhweGiM4HE+EkW+BFCZCL3hme0qto2odBwQJDAVEMTc1OxVhgHVFEgxdfmJcfYAmZyVvnsy0UBcTBgc6GSAMas+0UAwNDgwONEBDWDcaOy1pGkWTuWo0JiRDLkvJ/IwxEAYLBAUIDQ4SCRBDeWyhZh4hXZBLV4y6O9LRQwkMGBkMBwQCBgYIAkg/aUdS0CYtHmRtr7J/q7ghChMaDxIRCwYDBwEIAg14VC0mspEcIBF0WiISxS8CDhIKBg0SDAgHBAYHCg04e1Y/dKgLHhAdDQQFSQUFBAoEBw4XDQcKIlIQIik9UmmGepIJGQocHgoFDAMFBAcICAsUEAovhUhLhY5gEjpSSmIaIBIQHg0GCwEGBg0MCAsRDSN5fCdeXkZ9LSYiLac0NRsRGRAGCwQIChQLBw8NCkCzKzYuKxIrMUUnXTzWDjAOFBUNAwcFDxMIBQ8QDjysWkA0MCgpFzNFCmiIryIbGRIQBwQCEhIIBREKDjJxTk8qBz5UBDdLG10tiWofDxAcAQICFhUCEQ0FDSefeyFFX101KDstN3N6pyoJBAkWBgQOHwkPBQcGCimyi3U4NypFHhVfUGqTTi8cCwZNBwsVEQ4DBwYJBBQrpnFtV0o8YF9gICQnDhEkEBAWHUSCGgoMAAUIBwQJDyFGUIZ8UiYZUThWN0UzLBg8TcKZggwKDgQFBgkMBgIJBTA7BQ8yN0FHNzUxFx4n",
+          "top": "BQQCDRsWPSpTOTtJVBUEBAEECw8CAAEBAAABAQAABgQIFBEtZVcqWS0MbksZBgQFFx4fFh4gISguKyIhAAgEDB15O3Q9HUFGLU4dFAQVFwMfJDE6Ojo1LyYmAQEGDCc/hFkQCBgKQA4kEwoFGB0WER4XFiMxLiMgAAECFBQiOyEpEgkJEhUXCAsECR8QGh8zLzEtJh0bAQECFA8TLkQ1TVcCBgkYGA4IBA4hChsLAgQKCg0dAQACEykOMDojKVxuYDlAQRcHAgEKHw4UDwkIBw8nAQEAAhQhJlM/SSiKh4GnqUcGBgMCDRYXDAoKCgsZAQEBAQEBAx9NhZQYYlA0z6YIBQUBAgoHDQQCAQEFAgEBAAECC2umlynPkXjfVq0tCQQDAgQCDQkIFhQSBAEAAAIJS7BjNHRuTD8zTVA5DQQCAQIEBgsQGRoMAwMBAAEFeoRML3hJQ1AjEFuRSgcBAQEEAgsLGhIeAgIBAAIJb7tiL4keMUMiNkhStmICBAECBgMMICZNCAECAQIJNN6Nao0uIiovICV7L5Q9AwQBBAcLB01OCQUEAwEEDoTHZDVQTS0mSSoeWQ9OFgUBAgkEEQtO",
+          "middle": "AgIBAAIJb7tiL4keMUMiNkhStmICBAECBgMMICZNCAECAQIJNN6Nao0uIiovICV7L5Q9AwQBBAcLB01OCQUEAwEEDoTHZDVQTS0mSSoeWQ9OFgUBAgkEEQtOBQoIDBEsfnVuNhgULSYfIzMbBTAxFgkHAgQJBBMVExARIyt4nIIxTE0YGiAjXkMRGRcYBgMJBwQHAwpQCgcZCSB2Lko3URgvSmxBKjMwGjI5DQkKDA4NCg+FCAINERpvPBUfUUwqHjdvZD0bFyAqEgsMDQ0IChx9JzMvLEJiPSQfSkggVkk1gylURD01GwgHAQQCCBVYHhweGiM4HE+EkW+BFCZCL3hme0qto2odBwQJDAVEMTc1OxVhgHVFEgxdfmJcfYAmZyVvnsy0UBcTBgc6GSAMas+0UAwNDgwONEBDWDcaOy1pGkWTuWo0JiRDLkvJ/IwxEAYLBAUIDQ4SCRBDeWyhZh4hXZBLV4y6O9LRQwkMGBkMBwQCBgYIAkg/aUdS0CYtHmRtr7J/q7ghChMaDxIRCwYDBwEIAg14VC0mspEcIBF0WiISxS8CDhIKBg0SDAgHBAYHCg04e1Y/dKgLHhAdDQQF",
+          "bottom": "LkvJ/IwxEAYLBAUIDQ4SCRBDeWyhZh4hXZBLV4y6O9LRQwkMGBkMBwQCBgYIAkg/aUdS0CYtHmRtr7J/q7ghChMaDxIRCwYDBwEIAg14VC0mspEcIBF0WiISxS8CDhIKBg0SDAgHBAYHCg04e1Y/dKgLHhAdDQQFSQUFBAoEBw4XDQcKIlIQIik9UmmGepIJGQocHgoFDAMFBAcICAsUEAovhUhLhY5gEjpSSmIaIBIQHg0GCwEGBg0MCAsRDSN5fCdeXkZ9LSYiLac0NRsRGRAGCwQIChQLBw8NCkCzKzYuKxIrMUUnXTzWDjAOFBUNAwcFDxMIBQ8QDjysWkA0MCgpFzNFCmiIryIbGRIQBwQCEhIIBREKDjJxTk8qBz5UBDdLG10tiWofDxAcAQICFhUCEQ0FDSefeyFFX101KDstN3N6pyoJBAkWBgQOHwkPBQcGCimyi3U4NypFHhVfUGqTTi8cCwZNBwsVEQ4DBwYJBBQrpnFtV0o8YF9gICQnDhEkEBAWHUSCGgoMAAUIBwQJDyFGUIZ8UiYZUThWN0UzLBg8TcKZggwKDgQFBgkMBgIJBTA7BQ8yN0FHNzUxFx4n"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 29.176667,
+          "top": 20.986206,
+          "middle": 27.477984,
+          "bottom": 34.037683,
+          "effectiveRatio": 0.567084
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1571
+      },
+      "sha256": "08ecc0968d99d838a3e0e4479c5c9096c8d409e4e73aae0d57aab6b3e2373c26",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "note": "원문 페이지·원본 URL·크레딧·촬영일을 연결했다. 이미지 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      }
+    }
+  ]
+}
