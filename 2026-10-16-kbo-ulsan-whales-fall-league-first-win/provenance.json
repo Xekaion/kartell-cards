@@ -1,0 +1,424 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "울산웨일즈, LG 꺾고 폴리그 첫 경기 승리",
+  "issueKey": "kbo-ulsan-whales-fall-league-first-win",
+  "checkedAt": "2026-10-16T11:12:52.570Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12201",
+  "corroboratingUrls": [
+    "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+    "https://www.uswhales.com/team_list01.html",
+    "https://www.uswhales.com/team_list02.html",
+    "https://www.uswhales.com/team_list03.html"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12201",
+      "publishedAt": "2026-10-16",
+      "role": "official-current-event-game-result-and-league-format",
+      "note": "15일울산LG전5대3·예진원3AB2H2RBI·1회4득점·4회김서원1타점·7회권동혁내야땅볼·대회일정확인. 다른개막경기내용은기존발행과겹쳐이번글에넣지않았다."
+    },
+    {
+      "url": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "publishedAt": "2026-10-16T15:20:26+09:00",
+      "role": "club-firsthand-game-report-and-original-photos",
+      "note": "노강민박문순김서원예진원신준우멀티히트·7명계투·서영준승리·설재욱엄태경진현우이승근홀드·유토세이브·노강민경기후발언. 당일실제사진10장도게재한다."
+    },
+    {
+      "url": "https://www.uswhales.com/team_list01.html",
+      "publishedAt": null,
+      "role": "official-coaching-staff-photo-identification",
+      "note": "장원진감독을확인한다."
+    },
+    {
+      "url": "https://www.uswhales.com/team_list02.html",
+      "publishedAt": null,
+      "role": "official-pitcher-identification-and-affiliation",
+      "note": "나가48·서영준15·소노유토4등현재소속·등번호확인. 사진7은15번서영준으로확인하여민승기19로잘못표기하지않았다."
+    },
+    {
+      "url": "https://www.uswhales.com/team_list03.html",
+      "publishedAt": null,
+      "role": "official-batter-identification-and-affiliation",
+      "note": "민성우38·예진원23·노강민6·김서원3확인."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "index": 4,
+      "sourceUrl": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131708_7194.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kbo2-story\\photos\\photo-1.jpg",
+      "sourcePageUrl": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:12:11.262Z",
+        "width": 2546,
+        "height": 3183,
+        "bytes": 3364207,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.6331393032974897,
+        "entropy": 7.155319740601044,
+        "effectiveDetailRatio": 0.612679,
+        "kind": "source",
+        "coverScale": 0.424,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 2546,
+        "rawHeight": 3183,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "69b96c6c0bb90c8e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "HREIBAYEBAYmU4SNOWGGdjsLir2IXhkFBgYPEyZnDxULEA8LBgcOHBFRhoUrXI1d9B56kmgWCQQEGxImIgkLEA4NDAkOCg4EHF+Jjzp9UkoJTIk+DwULDRYJKTFADwILFhMUGgoKCgQeZpqwGzUoaIM1FhcJBBALQScrQFNGFiEDCwUEBQQHBSa7lTZVZDxOQCUvDwQHKjtcNiw/KFIxNx0GCAgQEVhcdixYbTM9IDQ/OU0YDgssGU9GTSIXPkcyOiM+Tnp7STOUmHRRW0RNIxY7CAkHCAUIGkk8TDARKDMkLnAsOX5DZ32IDjk3RGVSMg8LBQIFBwwNNi5BNiEVFD84Jx5aMl5ONQUREx41EzALMCEgDg8KCwpfwYwbGVA2O00dPC4cRiMDDQoCRhooHhUeOg8LEi30sr2QW302Rw0dIkQrIjUNEAIIBQkSPSUsDiUXMnjugv88rmtUQRIGNygbIjQTMjEHExQOCA8JOCQXKaw/13VLTXlcRjgUKChNaVcRIkUpBAsFBgYGBhkcf5pAli0eDRcTNTsgFnGnoJBfTjkdJy8rJyYkMCkmOpyJfQQrHgUULz8lgqMns/FVChAaUk5nZVNYXFVRdCwhUGMxVyM0iVpIQl/DvDSQgXmDNy07RjcxNjUzR0c5PVAiGFiBexEneIU5JWZiU1NcBAIQBhcGBwcRER0PDzAtZWlLExZimyIWBykNEQ0FAAMNBBAEAgkYGxgZEzwyFDSDjIOtT08hFRwJDwkLCQwSBRgKBQkZHg0JFkomCggXSGE5LW8dCBYQExYNLSotPSspNTEyTUs/TFEWCAgECQYJJ05cUltrZ2FvQkA7QjI1PzY7RklBRyAICQ8RDQcPJT9US1FVS0lVCwoICQUHCAUGCQkHCAsEDBsbFBAgFgcFAQMCAQMJCQYICQcMDAYJAwMHBQwBDxUgBRQfDwsJDQwNDw8QBwUEAQQDBAIGCQMDBQYCDA8cBxIbBAUDAwYCAgYKFREXERQUExQTDg8UDggDDA4WCBYjCRALDw0NDw4PDQsNEhUVGBEVFhITGhgKGxciBycgBwsMDAcJDgYHBAYDCQYFCAQEBQYHHA0VIg01HzYQAwEFBAUGBgYFBAYGBQECAQMBAgUPGwceHQ0RKhAEAwABAQQFCgkPFhMQEBESExIQEBMZGQcpDxoUERkXFhYZFxUUFRMRGhsYFRIRDxANDxAQBh0VGgsIEhASERQSEAcDBgoQCQwNBwUIBwcEBwsIBiEJDBAZGhsfIyElJCIdFhIHBwkGCAMGCgcfFRofBx8UFiozJS4pJyUsQEg/Pk9PFiMmGhAPGB8YEB8dLQ0YISolLS0wNS84NSgsJCMbGxkUGRMTDg4NBA8RLhkRBDE7GicyIR0eLSkaGSspDBAhODYkFxgaGwIrSDY0NjIaDBQBFAkLDBQMDA8LMkNHSmdqZmRaRDhjaVs+GhweFhsmFA4OCAgJBwoQKhgVMiYLCQ4nKiQ4QWceEA4OBwIJBgQDAgUEBwcI",
+          "top": "HREIBAYEBAYmU4SNOWGGdjsLir2IXhkFBgYPEyZnDxULEA8LBgcOHBFRhoUrXI1d9B56kmgWCQQEGxImIgkLEA4NDAkOCg4EHF+Jjzp9UkoJTIk+DwULDRYJKTFADwILFhMUGgoKCgQeZpqwGzUoaIM1FhcJBBALQScrQFNGFiEDCwUEBQQHBSa7lTZVZDxOQCUvDwQHKjtcNiw/KFIxNx0GCAgQEVhcdixYbTM9IDQ/OU0YDgssGU9GTSIXPkcyOiM+Tnp7STOUmHRRW0RNIxY7CAkHCAUIGkk8TDARKDMkLnAsOX5DZ32IDjk3RGVSMg8LBQIFBwwNNi5BNiEVFD84Jx5aMl5ONQUREx41EzALMCEgDg8KCwpfwYwbGVA2O00dPC4cRiMDDQoCRhooHhUeOg8LEi30sr2QW302Rw0dIkQrIjUNEAIIBQkSPSUsDiUXMnjugv88rmtUQRIGNygbIjQTMjEHExQOCA8JOCQXKaw/13VLTXlcRjgUKChNaVcRIkUpBAsFBgYGBhkcf5pAli0eDRcTNTsgFnGnoJBfTjkdJy8rJyYkMCkmOpyJfQQrHgUULz8lgqMns/FVChAa",
+          "middle": "ExQOCA8JOCQXKaw/13VLTXlcRjgUKChNaVcRIkUpBAsFBgYGBhkcf5pAli0eDRcTNTsgFnGnoJBfTjkdJy8rJyYkMCkmOpyJfQQrHgUULz8lgqMns/FVChAaUk5nZVNYXFVRdCwhUGMxVyM0iVpIQl/DvDSQgXmDNy07RjcxNjUzR0c5PVAiGFiBexEneIU5JWZiU1NcBAIQBhcGBwcRER0PDzAtZWlLExZimyIWBykNEQ0FAAMNBBAEAgkYGxgZEzwyFDSDjIOtT08hFRwJDwkLCQwSBRgKBQkZHg0JFkomCggXSGE5LW8dCBYQExYNLSotPSspNTEyTUs/TFEWCAgECQYJJ05cUltrZ2FvQkA7QjI1PzY7RklBRyAICQ8RDQcPJT9US1FVS0lVCwoICQUHCAUGCQkHCAsEDBsbFBAgFgcFAQMCAQMJCQYICQcMDAYJAwMHBQwBDxUgBRQfDwsJDQwNDw8QBwUEAQQDBAIGCQMDBQYCDA8cBxIbBAUDAwYCAgYKFREXERQUExQTDg8UDggDDA4WCBYjCRALDw0NDw4PDQsNEhUVGBEVFhITGhgKGxciBycgBwsMDAcJDgYH",
+          "bottom": "CQYICQcMDAYJAwMHBQwBDxUgBRQfDwsJDQwNDw8QBwUEAQQDBAIGCQMDBQYCDA8cBxIbBAUDAwYCAgYKFREXERQUExQTDg8UDggDDA4WCBYjCRALDw0NDw4PDQsNEhUVGBEVFhITGhgKGxciBycgBwsMDAcJDgYHBAYDCQYFCAQEBQYHHA0VIg01HzYQAwEFBAUGBgYFBAYGBQECAQMBAgUPGwceHQ0RKhAEAwABAQQFCgkPFhMQEBESExIQEBMZGQcpDxoUERkXFhYZFxUUFRMRGhsYFRIRDxANDxAQBh0VGgsIEhASERQSEAcDBgoQCQwNBwUIBwcEBwsIBiEJDBAZGhsfIyElJCIdFhIHBwkGCAMGCgcfFRofBx8UFiozJS4pJyUsQEg/Pk9PFiMmGhAPGB8YEB8dLQ0YISolLS0wNS84NSgsJCMbGxkUGRMTDg4NBA8RLhkRBDE7GicyIR0eLSkaGSspDBAhODYkFxgaGwIrSDY0NjIaDBQBFAkLDBQMDA8LMkNHSmdqZmRaRDhjaVs+GhweFhsmFA4OCAgJBwoQKhgVMiYLCQ4nKiQ4QWceEA4OBwIJBgQDAgUEBwcI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.955555,
+          "top": 26.885386,
+          "middle": 20.160999,
+          "bottom": 39.789117,
+          "effectiveRatio": 0.612679
+        },
+        "extendable": false,
+        "sha256": "e59881779c356a1a4b8fef9bb33f037736e550ee6659895a2d17c7c340c35d28",
+        "url": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131708_7194.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.424
+      },
+      "sha256": "e59881779c356a1a4b8fef9bb33f037736e550ee6659895a2d17c7c340c35d28",
+      "name": "예진원",
+      "subject": "울산웨일즈 예진원",
+      "imageCredit": "울산웨일즈 제공",
+      "creditDisplay": "사진 · 울산웨일즈 제공 (2026.10.15 LG전)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 LG전",
+      "captionEvidence": "구단 10월16일 LG전 승리 보도자료에 함께 게재된 사진. 23번 예진원이 주루하는 실제 모습이다. 결정적 2루타의 타격 순간으로 단정하지 않는다.",
+      "context": {
+        "originalContext": "23번 예진원이 주루하는 실제 모습이다. 결정적 2루타의 타격 순간으로 단정하지 않는다.",
+        "currentStoryUse": "이번 소식의 실제10월15일LG전 사진이다. 구단10월16일보도자료의원본을사용했다."
+      },
+      "photoDateEvidence": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "checkedAt": "2026-10-16T11:11:50.659115+00:00",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "사용자가확인한야구관련인사진계약권한에따라국내구단울산웨일즈의직접제공원본을사용한다.촬영자개인이름은미기재여서추정하지않고울산웨일즈제공으로표시한다."
+      }
+    },
+    {
+      "index": 0,
+      "sourceUrl": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131707_8837.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kbo2-story\\photos\\photo-2.jpg",
+      "sourcePageUrl": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:12:11.665Z",
+        "width": 2020,
+        "height": 2525,
+        "bytes": 2323348,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.112476176649073,
+        "entropy": 7.682252636615885,
+        "effectiveDetailRatio": 0.58322,
+        "kind": "source",
+        "coverScale": 0.535,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 2020,
+        "rawHeight": 2525,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "7968ccd2d0c41114",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DRUJEBgAGCAidIEwFy9eRDl5f32onAYTGAUSFgkXFhAHGA4KGAoOGVNrfWE5RHGdNiUew2EeEgUbDwsbGA4MGQkTFgQRFgYiOIxuSncZWDibZYoJBRAcBhgUHQkXGQYbFgs1enpVECJaac+AMJU9VkkrHiAOFxcBEQ8iBRUdBzDE/G6XXxYMGH+4J1FgGik4KT4fIREVCyQKGhsJG6T+NphJdicOGSCwYWJAGhYRLUBCPCwiHBIYFwkNIKdtVStBfFEUEwpOjjJmDTsmGh4wP0hGGAkeCQkXL3FaJywUcVgXBCJpoh6TXDNyJl9BC0pIBxkSBhUQOXJPGjhZbSwOFl7ETFpJjF80sTR8jxZnExgPDxQLI2RXJzRyLy8HXaY2fyh6OH5aaVEbgZ0HHhMVCSE3inFjGVM1KjotWTmfFZJQUkYOTnhDDneIHBkXIzPAgjU2PVMoFD5MQQk1eiFuRi0YNVc8HBRBPg8iTX9/JFt9Zp5CVBtgFBQML1ZGVwgwNTxEHSgNUT5fSytdGXBngGemUFANIRI8T1oeJ1NUHgVQX4AnIRYkRAGFLGNrM5SMNEcsLRY2Y0Yzc2ArLCk4v5h9QTZxN3RJeCNuWooheUITFSoXZmmeSyocJhyAU7OpGEqCUl8OcSAjPR1BajVzg1waJXk2Fx5OYUB4YX6QCEJVTxIeXTMSGxFcKndZjKJiOxAWCzhFFkd1UHCWDF1BKwoPYzkCCgpqK2VsUGqkOgcKEzI8KGFGYlmbFHBXV0cDayAMCgRjRG15N3CUIgkRBkc7XD4odUFjD0iYUGtGbCMMBw5RYz2fQJuAFRMdR013cA81OmQ+IUiXZCJnMhMNBQU3RnSCHbldFytWOT1JUTg/FFMfIyR3bYggBAIEAQYfEFg1R94jPggPRjZHHmNKBBUkGBRWHW6OPhMMBwlBNj1ocd4hJRkQFTlNYVpRJhwKJS15QkR8dioTDDVgD09Qf4dOGgMQK0k1KnMvLxE0DVhzGXspbDwoJkQQHi4pUlxNDQwcM2gRFRtWLVszRl1QG08hPzklMT0oLiJEMHUoEAlGEWBsICU/ShkRi2NSOUIaHgkdLxseIBdGUkkvD0dVRyRtVgszS0UTRGBMTTw9OBgcHhAQDBktfjQkGHhJcCosb0FdV1k/MD41bzY0RDc5LEAQExdOLj9ARE5APQsZMm05MGRDJhwpLWcOYzMNHzoFCxkdlpMqUFJNdFgVE2Uua4CVQWUSKEYpMzkLJEEtGxBgaTxiVltprmBXEEsSqDorLV5YLE5vYRkKIF5TNCI+JS0fO1wIMWYuGkATdxYqW0oUPR9DVD9FYTlXThl+UmBJQVsuk65dKjIYlSFbMnIsGEtSbScpPoFcLaqPUmaDSVJuznLYTxo1ZJpDByBNN0NPPVhehCp6fVpWC02DVjlwiCdmnC1JTnKkJThwQjVPNUkjMIk6PSdtJEJzXjt+jh8qjkY7KThVhCJ3FiUjSGWOVyVUTT6JZjiFTEFknBRJhB8SLSwt",
+          "top": "DRUJEBgAGCAidIEwFy9eRDl5f32onAYTGAUSFgkXFhAHGA4KGAoOGVNrfWE5RHGdNiUew2EeEgUbDwsbGA4MGQkTFgQRFgYiOIxuSncZWDibZYoJBRAcBhgUHQkXGQYbFgs1enpVECJaac+AMJU9VkkrHiAOFxcBEQ8iBRUdBzDE/G6XXxYMGH+4J1FgGik4KT4fIREVCyQKGhsJG6T+NphJdicOGSCwYWJAGhYRLUBCPCwiHBIYFwkNIKdtVStBfFEUEwpOjjJmDTsmGh4wP0hGGAkeCQkXL3FaJywUcVgXBCJpoh6TXDNyJl9BC0pIBxkSBhUQOXJPGjhZbSwOFl7ETFpJjF80sTR8jxZnExgPDxQLI2RXJzRyLy8HXaY2fyh6OH5aaVEbgZ0HHhMVCSE3inFjGVM1KjotWTmfFZJQUkYOTnhDDneIHBkXIzPAgjU2PVMoFD5MQQk1eiFuRi0YNVc8HBRBPg8iTX9/JFt9Zp5CVBtgFBQML1ZGVwgwNTxEHSgNUT5fSytdGXBngGemUFANIRI8T1oeJ1NUHgVQX4AnIRYkRAGFLGNrM5SMNEcsLRY2Y0Yzc2ArLCk4v5h9",
+          "middle": "Pg8iTX9/JFt9Zp5CVBtgFBQML1ZGVwgwNTxEHSgNUT5fSytdGXBngGemUFANIRI8T1oeJ1NUHgVQX4AnIRYkRAGFLGNrM5SMNEcsLRY2Y0Yzc2ArLCk4v5h9QTZxN3RJeCNuWooheUITFSoXZmmeSyocJhyAU7OpGEqCUl8OcSAjPR1BajVzg1waJXk2Fx5OYUB4YX6QCEJVTxIeXTMSGxFcKndZjKJiOxAWCzhFFkd1UHCWDF1BKwoPYzkCCgpqK2VsUGqkOgcKEzI8KGFGYlmbFHBXV0cDayAMCgRjRG15N3CUIgkRBkc7XD4odUFjD0iYUGtGbCMMBw5RYz2fQJuAFRMdR013cA81OmQ+IUiXZCJnMhMNBQU3RnSCHbldFytWOT1JUTg/FFMfIyR3bYggBAIEAQYfEFg1R94jPggPRjZHHmNKBBUkGBRWHW6OPhMMBwlBNj1ocd4hJRkQFTlNYVpRJhwKJS15QkR8dioTDDVgD09Qf4dOGgMQK0k1KnMvLxE0DVhzGXspbDwoJkQQHi4pUlxNDQwcM2gRFRtWLVszRl1QG08hPzklMT0oLiJEMHUoEAlGEWBsICU/ShkR",
+          "bottom": "GBRWHW6OPhMMBwlBNj1ocd4hJRkQFTlNYVpRJhwKJS15QkR8dioTDDVgD09Qf4dOGgMQK0k1KnMvLxE0DVhzGXspbDwoJkQQHi4pUlxNDQwcM2gRFRtWLVszRl1QG08hPzklMT0oLiJEMHUoEAlGEWBsICU/ShkRi2NSOUIaHgkdLxseIBdGUkkvD0dVRyRtVgszS0UTRGBMTTw9OBgcHhAQDBktfjQkGHhJcCosb0FdV1k/MD41bzY0RDc5LEAQExdOLj9ARE5APQsZMm05MGRDJhwpLWcOYzMNHzoFCxkdlpMqUFJNdFgVE2Uua4CVQWUSKEYpMzkLJEEtGxBgaTxiVltprmBXEEsSqDorLV5YLE5vYRkKIF5TNCI+JS0fO1wIMWYuGkATdxYqW0oUPR9DVD9FYTlXThl+UmBJQVsuk65dKjIYlSFbMnIsGEtSbScpPoFcLaqPUmaDSVJuznLYTxo1ZJpDByBNN0NPPVhehCp6fVpWC02DVjlwiCdmnC1JTnKkJThwQjVPNUkjMIk6PSdtJEJzXjt+jh8qjkY7KThVhCJ3FiUjSGWOVyVUTT6JZjiFTEFknBRJhB8SLSwt"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 41.086469,
+          "top": 40.917496,
+          "middle": 50.067615,
+          "bottom": 40.643302,
+          "effectiveRatio": 0.58322
+        },
+        "extendable": false,
+        "sha256": "e7c509f31e2b0b38369549c50334d908b710433b324fdfddd46c247ae41cf051",
+        "url": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131707_8837.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.535
+      },
+      "sha256": "e7c509f31e2b0b38369549c50334d908b710433b324fdfddd46c247ae41cf051",
+      "name": "민성우 · 나가 타이세이",
+      "subject": "울산웨일즈 민성우 · 나가 타이세이",
+      "imageCredit": "울산웨일즈 제공",
+      "creditDisplay": "사진 · 울산웨일즈 제공 (2026.10.15 LG전)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 LG전",
+      "captionEvidence": "구단 10월16일 LG전 승리 보도자료에 함께 게재된 사진. 포수38번 민성우와 투수48번 나가 타이세이가 함께 웃고 있다. 등번호는 구단 공식 선수명단과 대조했다.",
+      "context": {
+        "originalContext": "포수38번 민성우와 투수48번 나가 타이세이가 함께 웃고 있다. 등번호는 구단 공식 선수명단과 대조했다.",
+        "currentStoryUse": "이번 소식의 실제10월15일LG전 사진이다. 구단10월16일보도자료의원본을사용했다."
+      },
+      "photoDateEvidence": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "checkedAt": "2026-10-16T11:11:50.659115+00:00",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "사용자가확인한야구관련인사진계약권한에따라국내구단울산웨일즈의직접제공원본을사용한다.촬영자개인이름은미기재여서추정하지않고울산웨일즈제공으로표시한다."
+      }
+    },
+    {
+      "index": 9,
+      "sourceUrl": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131708_5131.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kbo2-story\\photos\\photo-3.jpg",
+      "sourcePageUrl": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:12:12.353Z",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 8278474,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.755507848010594,
+        "entropy": 7.127269328435204,
+        "effectiveDetailRatio": 0.591889,
+        "kind": "source",
+        "coverScale": 0.338,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 6000,
+        "rawHeight": 4000,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "30666e6d6dddd95c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgECAwIGIThptkcMAwECBAECBw0lDhcgIhsQExEGAgIEAgpJizMvhW4HAQACAwQCBQYMHBYRDAcIBRQlAQIDCk24T3YiT61fBQEDAgYEBAIECAYOGzJQa4ylAgIEKa54IU1nYjp7KgYCBQcHChMkQ2J7lKGjnItMAQIHYLk0PzFac3BCQAUOHTVRboeZoZ6Nd1pAJjitAgMJbrw0JT40FGAdWmV9kpuZjXhgRCgWBwMSA2apBAENjINERhowOS90oJN/Z0gpFggGCAYECRhlUXeYBwgUlGsxOFYmMoqcMhwNCQoKBwQGBQIIFH5icDGJFxYQUrgxEyInVJIWIQkIBAEEBRQfBgMDR2FASy1aGhsUDWqAHjI3djBHHBYIBBMvOzkhJgUONCEyCUBHFRQXCzRvECg5Nkg3MCYRDzM/KyYnJxMSKilVPDVIEhMUCTmFKmlVNiRFFjUYGS4OFAoRLiETVWZBkjZYDxYRDS+TTxRLe0p4R0YpFSIpJCIyMw4GRX1WekpoDxUZDZm8FDA7aGQ1LGlVXl5CJh0eCQgJk71O7zNuDA9pZrAasm1bvBjhUngdN1tzKg4NCw5GqXUPtaksEV+pKXmccXSVK/8e4z8EBgI9dCMRCCIY1MCK/1AOaqU40y9OWzkeuTv/fAUBCAoQQ2oNFB4tS52sdgQOSNeogq8fGC05PLFPKA0KGBkSBVxODAdRYxZbJQQDC0TOhnl0KwlFHGp9izoMJiUcEx9pLDFaUWdUDAQUIzIZqCiYX1AwLAcHUosILiQwFgQ0Y1dEKlKSMhk+ElK1fCosgEtVLFsoezQaPSI/GwkZTGhSOBt3ThQ0Op+ADxoVVnFOF0BiZgseQxpSGRoiGW5sPxZKXwc1j2clDQk7UhgcSB4jd0IwcRNZKTZAR2lAM0EzZg08liNLDj9SHkJzOyxzZgV4V0FIWpRiGh1lV0wbXBsyfXE4RThmPWU2MTQwGwNZgBVOcHCPUwwfW3ARWBMqPEiATsFqID9AUzNPJgRCdEcZEGM9cjsORnMUQhEWTE1Cz5IVEC1GN0lYEQVDXyQrD0c0OjMZKW0iMwwHPB6joD4qB0VGZGxGBAFDZRcFCBQQLzgZM0E+LR4ZFVLSXhYnMEYKSkQDAQRTYQ8ICjALOR48KAc7DBYoTNxlCC4RMyYFDwYBAQlRXhEFGk46Th4MIC4vKgEW0WwSTC0ZIyUMBQIBAwM8aSQHPUwfTV0hJioYPCQZTUBdMigHQCQEAQEBAgRAbB8cFEVuXT84bkdCUS5RFERUaGA9NkUzKWBKMBgkbFkjJTseMzRLVZ+ON010UXKUnKfEqMlxOXNDUFNOeVIFPSkiKQw4XB0gOCxLgFBWPSofGkuoJGA6KBkmKB0kURMaHBxfL25CMiYTVyZNYpvTpNJxJExVNjcqZ0RQOSEdFTdNGiJyhWpkTwgJG2plOjMTJlFUNZJrF1Q5OV8GClNZCARaRjhFMxQIL04QCR4EDlxwVCaYcTRiiBs9EyRmeT85JBMU",
+          "top": "AgECAwIGIThptkcMAwECBAECBw0lDhcgIhsQExEGAgIEAgpJizMvhW4HAQACAwQCBQYMHBYRDAcIBRQlAQIDCk24T3YiT61fBQEDAgYEBAIECAYOGzJQa4ylAgIEKa54IU1nYjp7KgYCBQcHChMkQ2J7lKGjnItMAQIHYLk0PzFac3BCQAUOHTVRboeZoZ6Nd1pAJjitAgMJbrw0JT40FGAdWmV9kpuZjXhgRCgWBwMSA2apBAENjINERhowOS90oJN/Z0gpFggGCAYECRhlUXeYBwgUlGsxOFYmMoqcMhwNCQoKBwQGBQIIFH5icDGJFxYQUrgxEyInVJIWIQkIBAEEBRQfBgMDR2FASy1aGhsUDWqAHjI3djBHHBYIBBMvOzkhJgUONCEyCUBHFRQXCzRvECg5Nkg3MCYRDzM/KyYnJxMSKilVPDVIEhMUCTmFKmlVNiRFFjUYGS4OFAoRLiETVWZBkjZYDxYRDS+TTxRLe0p4R0YpFSIpJCIyMw4GRX1WekpoDxUZDZm8FDA7aGQ1LGlVXl5CJh0eCQgJk71O7zNuDA9pZrAasm1bvBjhUngdN1tzKg4NCw5GqXUPtaks",
+          "middle": "DxYRDS+TTxRLe0p4R0YpFSIpJCIyMw4GRX1WekpoDxUZDZm8FDA7aGQ1LGlVXl5CJh0eCQgJk71O7zNuDA9pZrAasm1bvBjhUngdN1tzKg4NCw5GqXUPtaksEV+pKXmccXSVK/8e4z8EBgI9dCMRCCIY1MCK/1AOaqU40y9OWzkeuTv/fAUBCAoQQ2oNFB4tS52sdgQOSNeogq8fGC05PLFPKA0KGBkSBVxODAdRYxZbJQQDC0TOhnl0KwlFHGp9izoMJiUcEx9pLDFaUWdUDAQUIzIZqCiYX1AwLAcHUosILiQwFgQ0Y1dEKlKSMhk+ElK1fCosgEtVLFsoezQaPSI/GwkZTGhSOBt3ThQ0Op+ADxoVVnFOF0BiZgseQxpSGRoiGW5sPxZKXwc1j2clDQk7UhgcSB4jd0IwcRNZKTZAR2lAM0EzZg08liNLDj9SHkJzOyxzZgV4V0FIWpRiGh1lV0wbXBsyfXE4RThmPWU2MTQwGwNZgBVOcHCPUwwfW3ARWBMqPEiATsFqID9AUzNPJgRCdEcZEGM9cjsORnMUQhEWTE1Cz5IVEC1GN0lYEQVDXyQrD0c0OjMZKW0iMwwH",
+          "bottom": "liNLDj9SHkJzOyxzZgV4V0FIWpRiGh1lV0wbXBsyfXE4RThmPWU2MTQwGwNZgBVOcHCPUwwfW3ARWBMqPEiATsFqID9AUzNPJgRCdEcZEGM9cjsORnMUQhEWTE1Cz5IVEC1GN0lYEQVDXyQrD0c0OjMZKW0iMwwHPB6joD4qB0VGZGxGBAFDZRcFCBQQLzgZM0E+LR4ZFVLSXhYnMEYKSkQDAQRTYQ8ICjALOR48KAc7DBYoTNxlCC4RMyYFDwYBAQlRXhEFGk46Th4MIC4vKgEW0WwSTC0ZIyUMBQIBAwM8aSQHPUwfTV0hJioYPCQZTUBdMigHQCQEAQEBAgRAbB8cFEVuXT84bkdCUS5RFERUaGA9NkUzKWBKMBgkbFkjJTseMzRLVZ+ON010UXKUnKfEqMlxOXNDUFNOeVIFPSkiKQw4XB0gOCxLgFBWPSofGkuoJGA6KBkmKB0kURMaHBxfL25CMiYTVyZNYpvTpNJxJExVNjcqZ0RQOSEdFTdNGiJyhWpkTwgJG2plOjMTJlFUNZJrF1Q5OV8GClNZCARaRjhFMxQIL04QCR4EDlxwVCaYcTRiiBs9EyRmeT85JBMU"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.891623,
+          "top": 25.057668,
+          "middle": 36.506126,
+          "bottom": 34.507286,
+          "effectiveRatio": 0.591889
+        },
+        "extendable": false,
+        "sha256": "92a116275fdc10ee3407f644eb0030a6f14311655d23a04b87155aae3ebc3334",
+        "url": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131708_5131.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.338
+      },
+      "sha256": "92a116275fdc10ee3407f644eb0030a6f14311655d23a04b87155aae3ebc3334",
+      "name": "노강민",
+      "subject": "울산웨일즈 노강민",
+      "imageCredit": "울산웨일즈 제공",
+      "creditDisplay": "사진 · 울산웨일즈 제공 (2026.10.15 LG전)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 LG전",
+      "captionEvidence": "구단 10월16일 LG전 승리 보도자료에 함께 게재된 사진. 6번 노강민이 경기 후 인터뷰하는 장면이다. 이름과 인터뷰 내용은 구단 보도자료·선수명단으로 확인했다. 인터뷰 진행자는 기사 주요 인물로 다루지 않는다.",
+      "context": {
+        "originalContext": "6번 노강민이 경기 후 인터뷰하는 장면이다. 이름과 인터뷰 내용은 구단 보도자료·선수명단으로 확인했다. 인터뷰 진행자는 기사 주요 인물로 다루지 않는다.",
+        "currentStoryUse": "이번 소식의 실제10월15일LG전 사진이다. 구단10월16일보도자료의원본을사용했다."
+      },
+      "photoDateEvidence": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "checkedAt": "2026-10-16T11:11:50.659115+00:00",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "사용자가확인한야구관련인사진계약권한에따라국내구단울산웨일즈의직접제공원본을사용한다.촬영자개인이름은미기재여서추정하지않고울산웨일즈제공으로표시한다."
+      }
+    },
+    {
+      "index": 7,
+      "sourceUrl": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131709_5402.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kbo2-story\\photos\\photo-4.jpg",
+      "sourcePageUrl": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:12:12.603Z",
+        "width": 1506,
+        "height": 1883,
+        "bytes": 1104759,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9450189732359295,
+        "entropy": 7.451266750460491,
+        "effectiveDetailRatio": 0.520733,
+        "kind": "source",
+        "coverScale": 0.717,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1506,
+        "rawHeight": 1883,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "32b3f2797dc99952",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "JyYOIhEmEhQbDzAVPUY3rk4pCS0UFTMUEjRoMyIiLhsUJQEsCRkmHjbSoouCodVOEikKFiAuJ1wrVkY6MQkaHxUnBx41Iot3hGM4Np6kTBYMHQYpGjphVC0oLwMhFB4XFB4KP0DPjhthHWWxagkSHBYcBBgYMggXOSc2FyILIhUgJT2ySmRejFfCXRIcBCcKGRwfFg8gUlVSPBcNFSUCMiKsV1Q5RTylKBkIIhEZNC4nclMRRDUqiY4rExkRJweiqxg0IY6MHBEfDhYtHBM9OoZeCwtIOqC0c08eHiY2nlVNO2Q9FiwKFh4KMTJKdSpXPD4wO0Jt3b6bVidRyVcvRKaiJBoTHhYlJBAcPmgjRmVeaH69SXlxljSuhSyI6TKClhQgJAkoBRccDzspHChyXz6iz32BEDoyX3SBP5h1oUEEMwclBh0ZIiMPDisoJDFZf7BKExATICI7lzpWR2kpMAQnFSojISQPIRosBB0uRWGIWjg/V043WJNFBmNQKjYaPGtYNiUPGCsfCBUWLiWBmF0aUB0SCT+ETkVeFzVHXFNkeygPESkTCRIJIA1WzDJVdWZMSzgWcEhWQBY4aVpBhDARKh4KFxcZGgVF0kyaUXpJKkMWfGtndSoGYj8qTSgMMCMLGRMbGAkZm9IXqG9DaU1WZKOpz3MpP5QIbGFDQDQGGhgfIAwXOrZuEpNKKD1VJxQlrcxfLGKLDldxZmcLEyUKNQUZGnqlSCuBfaTfnz0rc1NsWyhjZD8nNIgxCSQcLiELIkaHsb11SFCR/2t4wHQUEDMnYjtQSW40CygbLSINKB5FhpRpI2AXlLazUyUOMScPXV9tND8iDyAXKCIRIwskEBQvOSsQOFEYJh8dHEE3EjNsKTc8ARklDVYtLylMLQwhFSZVRhwhJyAQFCE2ERlHHhJDOScuUEpCJys9XjAlHk5TJxsUFhsjFlEoMSYcVltZfXR+bT9XVD0ycX50RzUMFxYGDBkkS0k8fm5mIy8pSk02FR40PzAkMlFQOQYPBwMJEyMhcBOQcFNZBAscHRwMCAMOFBAHFQlPHwMRAi02EgUTVyt7Vx4fEh8jIB8TDAQLEQwKC1NEAg4HSkkyIw8LUxebXAsFDhcaDSIbCREUBwkEQlQFBgRPSw0mMQsTWQ6RZkAvCQ0nHhwcEAgPCwUqTxEDBkNRCAMTPRsWURVrhYOLCwkYIRAWEBUGChROJgYGMlgRBAQINTAVQ00TFhkwCAMhJBUbBQ8LDURABwMrXB4GAgECH0QdHEJMQE9TBgwhHBYbBwYNMlkMBB5lJwoBAQICCDU8MEEyGh8xAxEaCw8WDwQfXx0JCFpEEwcDAwMEAwkrNllMPz46BhgiHBwZKCdNKg8EQ10MGQYDBQMDAgcJJyAgFAkIAj1xiZCKbCwgMiAoRiMUHhgXICAyOUM/WXNjYmRjS2VFJSIbTTwfDSEIT2RuYlpfYVtlZFtVWHFgUUlFRhQVJi8wHTczVUtHT09bTD48MjYnGxcbDAwVBQEG",
+          "top": "JyYOIhEmEhQbDzAVPUY3rk4pCS0UFTMUEjRoMyIiLhsUJQEsCRkmHjbSoouCodVOEikKFiAuJ1wrVkY6MQkaHxUnBx41Iot3hGM4Np6kTBYMHQYpGjphVC0oLwMhFB4XFB4KP0DPjhthHWWxagkSHBYcBBgYMggXOSc2FyILIhUgJT2ySmRejFfCXRIcBCcKGRwfFg8gUlVSPBcNFSUCMiKsV1Q5RTylKBkIIhEZNC4nclMRRDUqiY4rExkRJweiqxg0IY6MHBEfDhYtHBM9OoZeCwtIOqC0c08eHiY2nlVNO2Q9FiwKFh4KMTJKdSpXPD4wO0Jt3b6bVidRyVcvRKaiJBoTHhYlJBAcPmgjRmVeaH69SXlxljSuhSyI6TKClhQgJAkoBRccDzspHChyXz6iz32BEDoyX3SBP5h1oUEEMwclBh0ZIiMPDisoJDFZf7BKExATICI7lzpWR2kpMAQnFSojISQPIRosBB0uRWGIWjg/V043WJNFBmNQKjYaPGtYNiUPGCsfCBUWLiWBmF0aUB0SCT+ETkVeFzVHXFNkeygPESkTCRIJIA1WzDJVdWZMSzgWcEhWQBY4aVpBhDAR",
+          "middle": "IRosBB0uRWGIWjg/V043WJNFBmNQKjYaPGtYNiUPGCsfCBUWLiWBmF0aUB0SCT+ETkVeFzVHXFNkeygPESkTCRIJIA1WzDJVdWZMSzgWcEhWQBY4aVpBhDARKh4KFxcZGgVF0kyaUXpJKkMWfGtndSoGYj8qTSgMMCMLGRMbGAkZm9IXqG9DaU1WZKOpz3MpP5QIbGFDQDQGGhgfIAwXOrZuEpNKKD1VJxQlrcxfLGKLDldxZmcLEyUKNQUZGnqlSCuBfaTfnz0rc1NsWyhjZD8nNIgxCSQcLiELIkaHsb11SFCR/2t4wHQUEDMnYjtQSW40CygbLSINKB5FhpRpI2AXlLazUyUOMScPXV9tND8iDyAXKCIRIwskEBQvOSsQOFEYJh8dHEE3EjNsKTc8ARklDVYtLylMLQwhFSZVRhwhJyAQFCE2ERlHHhJDOScuUEpCJys9XjAlHk5TJxsUFhsjFlEoMSYcVltZfXR+bT9XVD0ycX50RzUMFxYGDBkkS0k8fm5mIy8pSk02FR40PzAkMlFQOQYPBwMJEyMhcBOQcFNZBAscHRwMCAMOFBAHFQlPHwMRAi02EgUTVyt7Vx4f",
+          "bottom": "HhJDOScuUEpCJys9XjAlHk5TJxsUFhsjFlEoMSYcVltZfXR+bT9XVD0ycX50RzUMFxYGDBkkS0k8fm5mIy8pSk02FR40PzAkMlFQOQYPBwMJEyMhcBOQcFNZBAscHRwMCAMOFBAHFQlPHwMRAi02EgUTVyt7Vx4fEh8jIB8TDAQLEQwKC1NEAg4HSkkyIw8LUxebXAsFDhcaDSIbCREUBwkEQlQFBgRPSw0mMQsTWQ6RZkAvCQ0nHhwcEAgPCwUqTxEDBkNRCAMTPRsWURVrhYOLCwkYIRAWEBUGChROJgYGMlgRBAQINTAVQ00TFhkwCAMhJBUbBQ8LDURABwMrXB4GAgECH0QdHEJMQE9TBgwhHBYbBwYNMlkMBB5lJwoBAQICCDU8MEEyGh8xAxEaCw8WDwQfXx0JCFpEEwcDAwMEAwkrNllMPz46BhgiHBwZKCdNKg8EQ10MGQYDBQMDAgcJJyAgFAkIAj1xiZCKbCwgMiAoRiMUHhgXICAyOUM/WXNjYmRjS2VFJSIbTTwfDSEIT2RuYlpfYVtlZFtVWHFgUUlFRhQVJi8wHTczVUtHT09bTD48MjYnGxcbDAwVBQEG"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.480914,
+          "top": 27.413721,
+          "middle": 28.049637,
+          "bottom": 21.126656,
+          "effectiveRatio": 0.520733
+        },
+        "extendable": false,
+        "sha256": "002e458d5973b9b128ca739f66eec3d2395de09dea92dcc307fdf719184957e1",
+        "url": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131709_5402.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.717
+      },
+      "sha256": "002e458d5973b9b128ca739f66eec3d2395de09dea92dcc307fdf719184957e1",
+      "name": "서영준",
+      "subject": "울산웨일즈 서영준",
+      "imageCredit": "울산웨일즈 제공",
+      "creditDisplay": "사진 · 울산웨일즈 제공 (2026.10.15 LG전)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 LG전",
+      "captionEvidence": "구단 10월16일 LG전 승리 보도자료에 함께 게재된 사진. 15번 서영준의 투구 장면이다. 등번호와 당일 구단 계투 보고를 대조했다.",
+      "context": {
+        "originalContext": "15번 서영준의 투구 장면이다. 등번호와 당일 구단 계투 보고를 대조했다.",
+        "currentStoryUse": "이번 소식의 실제10월15일LG전 사진이다. 구단10월16일보도자료의원본을사용했다."
+      },
+      "photoDateEvidence": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "checkedAt": "2026-10-16T11:11:50.659115+00:00",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "사용자가확인한야구관련인사진계약권한에따라국내구단울산웨일즈의직접제공원본을사용한다.촬영자개인이름은미기재여서추정하지않고울산웨일즈제공으로표시한다."
+      }
+    },
+    {
+      "index": 3,
+      "sourceUrl": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131709_1843.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kbo2-story\\photos\\photo-5.jpg",
+      "sourcePageUrl": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:12:12.978Z",
+        "width": 3066,
+        "height": 3833,
+        "bytes": 4602103,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.786067279647277,
+        "entropy": 7.5676852486794814,
+        "effectiveDetailRatio": 0.656295,
+        "kind": "source",
+        "coverScale": 0.352,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3066,
+        "rawHeight": 3833,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "586cc43c66cbad83",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "EwsMDw0bHiAXEhIYKS0TE0pqYVE9JxkpICIuKysnKyQZGCQ0JCswJiY1PxI8KllFY4yTjDsfKzE1ITcxLj83OUEzIiQqLjMzG1oecVE+XVJTkbQ8FBkWDTs+Hy0xMikdFBAyLR4XKy1+bmJZMA8ECnqrHxwVFz45BQUGAwMKFCB8eVdNYHxpYUocEQkDCQmNgyslLDYsFRYSFRskIpZ1eHxWU1xPMQ0NCgcCBg1Ep0ghIiUeHx4dHSAmU2PWZT0oGBgbNlBPBhoTBgYqm2UMCRQWGhkZFxJLLLpieFUrDUthaH50XSgvHwscmHAMEhsZAgEBBSM0lpYeRipFNUwzRkRvVIp0UyAiiXAcJColBhMUFzc+s1hiZHJdJ2hCQwlLiFU2gExBm1QuJTQyHiEaGCOGjFUnS3g8d3o0EQ0dRUEvXFJqkSEjFT07L0A8RGiKgThVW6sqMhoSCgYLCw00lUZ7Xg8KBjxAKkdMR38rQ3BvZVUbBzwYBhYRBRNDgF9xWwkODDs9IiAaNA5PSFQUNE4sJxQcKR4iTIBbR2SbRBIRDjU3JBocBIk+Hi40KE0OJw4cGxZejxZFKmVbEQsPEC8uIh4ja1tRCQo1JRc0EBQED3BTQilBZHgmDQgICSEnDxkjaVs+JxsIHhAWKwYddiJNK0slOIG2TgoIBCIjAwokpltQMBINFBEaNmhvJGNeU0VfKgVgtk8PCSEdAySJZkgzIAkNDRMzZF83e4R9QIBYGAUHXq4sCB8lAk9xPh8TIQMCCCR3WUiPi12pkxozBxIFB4aAChoeCGzDXV9fM1sME2eCFnyCQ29PsI6/jkgRCDSYLxkzMs+JSXBkX2KMJY5GLX2KDymnbVWj1OKzcSqJgllEYKkoWUgbbFV5E2x5Z5V5QlstFwoNLm2y5dg+yV8pRnUmWkkRKoFuKXejS5NVRg0GFBIDBwYTQOC/o5EcHZ1dQm0dAz5TMn4xO2E3GgEIFxQNBAMJECreG7AnRHloXk0JExAoZxsqGzkqCAQfXVxqNgUDCA2KMqAxMgQ4VB8JBhlQMzg4MGYpARpnh5pvjTYGBARyWJVkJSNGLhQBECQ/DCwvG2U3AQtxkx9eVWkMBQleh3SGIjpELhwQMEJKGjJAAlcmAB9sOVMXHVM4Bgo2oDueVE8rVCk/Nm5AFTFeIGYhARRZeiseJ3UvBAcbmgelWiBeXjwdcWgZSGM3QHIiAAgVSGROdD0EAQQPjRadJhpEgalegjI1STwnL4wsAQQWERMvIwQBAgMMfg2QJys0LUxrTws5OwElM5kkBAkTEAcGCQQCAQIJghaZSKm9poxKFzhDDhwxS5UYCAYQEQIEAgIBAQIEgkWifa9bZUyJonldDRZeLd1TARQoFhADAQEAAgUWvUyvoTooMDxMfpmIaRlYcpOWCSYaBxkTBAACBApq5A/Cfw4YLEIWHCBLqCAWW0FDGSIVDwQWEAEECBbEljasRQ0IDw8WEhwQemsTTVhlDhgTDAwGEAUHDFbuMjKL",
+          "top": "EwsMDw0bHiAXEhIYKS0TE0pqYVE9JxkpICIuKysnKyQZGCQ0JCswJiY1PxI8KllFY4yTjDsfKzE1ITcxLj83OUEzIiQqLjMzG1oecVE+XVJTkbQ8FBkWDTs+Hy0xMikdFBAyLR4XKy1+bmJZMA8ECnqrHxwVFz45BQUGAwMKFCB8eVdNYHxpYUocEQkDCQmNgyslLDYsFRYSFRskIpZ1eHxWU1xPMQ0NCgcCBg1Ep0ghIiUeHx4dHSAmU2PWZT0oGBgbNlBPBhoTBgYqm2UMCRQWGhkZFxJLLLpieFUrDUthaH50XSgvHwscmHAMEhsZAgEBBSM0lpYeRipFNUwzRkRvVIp0UyAiiXAcJColBhMUFzc+s1hiZHJdJ2hCQwlLiFU2gExBm1QuJTQyHiEaGCOGjFUnS3g8d3o0EQ0dRUEvXFJqkSEjFT07L0A8RGiKgThVW6sqMhoSCgYLCw00lUZ7Xg8KBjxAKkdMR38rQ3BvZVUbBzwYBhYRBRNDgF9xWwkODDs9IiAaNA5PSFQUNE4sJxQcKR4iTIBbR2SbRBIRDjU3JBocBIk+Hi40KE0OJw4cGxZejxZFKmVbEQsPEC8u",
+          "middle": "KkdMR38rQ3BvZVUbBzwYBhYRBRNDgF9xWwkODDs9IiAaNA5PSFQUNE4sJxQcKR4iTIBbR2SbRBIRDjU3JBocBIk+Hi40KE0OJw4cGxZejxZFKmVbEQsPEC8uIh4ja1tRCQo1JRc0EBQED3BTQilBZHgmDQgICSEnDxkjaVs+JxsIHhAWKwYddiJNK0slOIG2TgoIBCIjAwokpltQMBINFBEaNmhvJGNeU0VfKgVgtk8PCSEdAySJZkgzIAkNDRMzZF83e4R9QIBYGAUHXq4sCB8lAk9xPh8TIQMCCCR3WUiPi12pkxozBxIFB4aAChoeCGzDXV9fM1sME2eCFnyCQ29PsI6/jkgRCDSYLxkzMs+JSXBkX2KMJY5GLX2KDymnbVWj1OKzcSqJgllEYKkoWUgbbFV5E2x5Z5V5QlstFwoNLm2y5dg+yV8pRnUmWkkRKoFuKXejS5NVRg0GFBIDBwYTQOC/o5EcHZ1dQm0dAz5TMn4xO2E3GgEIFxQNBAMJECreG7AnRHloXk0JExAoZxsqGzkqCAQfXVxqNgUDCA2KMqAxMgQ4VB8JBhlQMzg4MGYpARpnh5pvjTYGBARyWJVk",
+          "bottom": "RnUmWkkRKoFuKXejS5NVRg0GFBIDBwYTQOC/o5EcHZ1dQm0dAz5TMn4xO2E3GgEIFxQNBAMJECreG7AnRHloXk0JExAoZxsqGzkqCAQfXVxqNgUDCA2KMqAxMgQ4VB8JBhlQMzg4MGYpARpnh5pvjTYGBARyWJVkJSNGLhQBECQ/DCwvG2U3AQtxkx9eVWkMBQleh3SGIjpELhwQMEJKGjJAAlcmAB9sOVMXHVM4Bgo2oDueVE8rVCk/Nm5AFTFeIGYhARRZeiseJ3UvBAcbmgelWiBeXjwdcWgZSGM3QHIiAAgVSGROdD0EAQQPjRadJhpEgalegjI1STwnL4wsAQQWERMvIwQBAgMMfg2QJys0LUxrTws5OwElM5kkBAkTEAcGCQQCAQIJghaZSKm9poxKFzhDDhwxS5UYCAYQEQIEAgIBAQIEgkWifa9bZUyJonldDRZeLd1TARQoFhADAQEAAgUWvUyvoTooMDxMfpmIaRlYcpOWCSYaBxkTBAACBApq5A/Cfw4YLEIWHCBLqCAWW0FDGSIVDwQWEAEECBbEljasRQ0IDw8WEhwQemsTTVhlDhgTDAwGEAUHDFbuMjKL"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.517036,
+          "top": 41.712946,
+          "middle": 24.229263,
+          "bottom": 18.080587,
+          "effectiveRatio": 0.656295
+        },
+        "extendable": false,
+        "sha256": "55490dee7ab60177142f37d264d31548fce8e0422bf5eeb5355b409bbff86ba6",
+        "url": "https://www.uswhales.com/smart_editor2/upload/863c6d94ec560f9b9c4323e8364312dc_1792131709_1843.jpg"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.352
+      },
+      "sha256": "55490dee7ab60177142f37d264d31548fce8e0422bf5eeb5355b409bbff86ba6",
+      "name": "장원진",
+      "subject": "울산웨일즈 장원진",
+      "imageCredit": "울산웨일즈 제공",
+      "creditDisplay": "사진 · 울산웨일즈 제공 (2026.10.15 LG전)",
+      "photoDate": "2026-10-15",
+      "photoDateLabel": "2026.10.15 LG전",
+      "captionEvidence": "구단 10월16일 LG전 승리 보도자료에 함께 게재된 사진. 장원진 감독이 경기장을 지켜보는 모습이다. 구단 코칭스태프 소개와 얼굴을 대조했다. 뒤쪽 코치들은 흐린 배경이며 신원을 추정하지 않는다.",
+      "context": {
+        "originalContext": "장원진 감독이 경기장을 지켜보는 모습이다. 구단 코칭스태프 소개와 얼굴을 대조했다. 뒤쪽 코치들은 흐린 배경이며 신원을 추정하지 않는다.",
+        "currentStoryUse": "이번 소식의 실제10월15일LG전 사진이다. 구단10월16일보도자료의원본을사용했다."
+      },
+      "photoDateEvidence": "https://www.uswhales.com/contents_02.html?bid=341&botype=LIS_B01_02&query=view",
+      "checkedAt": "2026-10-16T11:11:50.659115+00:00",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "사용자가확인한야구관련인사진계약권한에따라국내구단울산웨일즈의직접제공원본을사용한다.촬영자개인이름은미기재여서추정하지않고울산웨일즈제공으로표시한다."
+      }
+    }
+  ]
+}
