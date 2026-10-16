@@ -3,7 +3,7 @@
   "handle": "@baseball_kartell",
   "headline": "소프트뱅크, 3연승으로 일본시리즈 진출",
   "issueKey": "npb-softbank-20261016-cs-game3-japan-series",
-  "checkedAt": "2026-10-16T12:07:09.834Z",
+  "checkedAt": "2026-10-16T12:12:19.603Z",
   "sourceUrl": "https://npb.jp/scores/2026/1016/h-f-03/",
   "corroboratingUrls": [
     "https://npb.jp/scores/2026/1016/h-f-03/box.html",
@@ -46,65 +46,65 @@
     {
       "name": "마에다 유고(前田悠伍)",
       "subject": "마에다 유고(前田悠伍)",
-      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610160001288-w1300_0.jpg",
-      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610160001288-0.html",
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\photo-1.jpg",
-      "imageCredit": "닛칸스포츠",
-      "creditDisplay": "사진 · 닛칸스포츠 (2026.10 자료사진)",
-      "photoDate": null,
-      "photoDateLabel": "2026.10 자료사진",
-      "checkedAt": "2026-10-16T12:06:24.615847+00:00",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202610020001619-w1300_2.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202610020001619-2.html",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\photos\\replacement-photo-1.jpg",
+      "imageCredit": "닛칸스포츠 たえ見朱実",
+      "creditDisplay": "사진 · 닛칸스포츠 たえ見朱実 (2026.10.02 자료사진)",
+      "photoDate": "2026-10-02",
+      "photoDateLabel": "2026.10.02 자료사진",
+      "checkedAt": "2026-10-16T12:11:03.364660+00:00",
       "context": {
-        "originalContext": "ソフトバンク前田悠伍（2026年10月撮影）",
-        "currentStoryUse": "오늘 선발 마에다의 자료사진. 승리·진출 확정 장면으로 표현하지 않는다."
+        "originalContext": "ロッテ対ソフトバンク　4回裏ロッテ1死、井上広大に同点のソロ本塁打を浴びる前田悠伍（撮影・たえ見朱実）",
+        "currentStoryUse": "마에다 유고의10월2일롯데전자료사진이다. 오늘10월16일CS승리·진출장면으로표현하지않는다. 배경홈런주자는원문캡션의井上広大(지바롯데)로확인된다."
       },
       "quality": {
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-16T12:06:26.345Z",
+        "checkedAt": "2026-10-16T12:10:27.735Z",
         "width": 1300,
-        "height": 1504,
-        "bytes": 247809,
+        "height": 1320,
+        "bytes": 198753,
         "format": "jpeg",
         "mimeType": "image/jpeg",
-        "effectiveSharpness": 1.642142537271416,
-        "entropy": 6.981909363530576,
-        "effectiveDetailRatio": 0.530547,
+        "effectiveSharpness": 2.2840672492634004,
+        "entropy": 7.690774911548942,
+        "effectiveDetailRatio": 0.550897,
         "kind": "source",
-        "coverScale": 0.898,
+        "coverScale": 1.023,
         "targetWidth": 1080,
         "targetHeight": 1350,
         "rawWidth": 1300,
-        "rawHeight": 1504,
+        "rawHeight": 1320,
         "orientation": 1,
         "pages": 1,
-        "perceptualHash": "c90d9686c64e39ec",
+        "perceptualHash": "9186343c25b74757",
         "edgeFingerprint": {
           "version": "edge-v2",
-          "full": "BAUCAQQEAQMFAgQJDBobOiRHNCQFCAQEAwIHAwMEBwIEBgcDBAQBBgcQIhEjQZR8fXtrRAoGBwYCBAQFBgQFCQcIAgYHBxowHzc7RZA3I1JxlGEOBgQJBAQIBgMEBwcECAQFH0gwV2dmg4+HiT8DQ5BACQYEBAcIBwQHBAQGBAgZVCcpVDgXM345W5dDDXZWBgQGBAYGAgEHBQQDCB1dDEhiYSGaxSceEGKICXBbCwIBAgEEBQsIBwcFHGAPajBar820L2QsEhW+JbFEFQoGBgQCCAQFCQYZWCBgOgkmUVR6eiBfA1uqoL8lHwgCBAcHBQcHBBNMMkRTEwMQKzsaLSU9WIUksjJWCQQEBQcIBAUEBzhBH0hAIwoKFQ1BMyhijjcRNFNFBAcDBQMCBgcFG0EeE1+dmX1oUUJIW4ZoMxQOJlk/AgUGAwEDBAgGBCNgZ0orUWt2hGF+fEsGCwoKOm0xCAIGBAMEBQQBAQ0dc20hHA8LIRksDQkEAwgHQYEmDwIFBQIEBAQECAQNbHVHKhgOFRYjMgQDBAUOO4MtCwQHBQIEBwQIAgIIHHR7dl0hDBs0JCkEBAAPRIQmDgEEAgEDBwgKCAcLChckS3pXHBojMB0EBAUHU34bCAQEBAMGAgEGBggGCQoMCk1UHB4gFwQEAwkEYHUMCQUEBggLBAACBgMHBQQDC0FgHBkVAgQBBAgHam8FCQUFBQoEBQIEAwEBCAcEDDByGwYcDAMEBgQEaGkDCQQGCAkDBQQCAwQFBAYICRhdQgcRBwYLCQkPZW8CCwkKBAQIFRMQDg4ICQoKDRNNNhsbBQoHBxEgSoASDg4EBQUGIScrJiUpKCgoIx1hVBkPCAIHEQcmM38mEBQXEA8KFRUYHyMiHSQjIR9leRwGBwsQEA0oLJlBIiIjHiYkBgkHBgEHAwUDBwhagycHEAwUDAofK6VKGBMVFBUYKi8wMjU2MjMvLyWSgRUUBQwTHBgqJqxZFQ4LCAwDCAEEAQsKEhYVFSV9TRUZFxAaLUxzsZlkKiklJycnKy4sIx4lKCUfKCOZ5snDubnJ4uzq74QfExsYEhUfExgiLyYiGRMFDkN6oqytsrClj25JUoU5AgMEAgYBDBMPCwgJCxUULU03DQgICgkHCg0OMXg5BgMBBwEBCAoNEhsaDgUeIm07DAQEAgECBQQCKnJBAwIBBAMJKiwqKSssKikrL1BQHgIEBRcDAQQGKX9BCwAJAwMFEBsYEh4fFRASP08/QAgHJ3gdBAICEXdkDgQGCgcCFxIPDRAOCQQDcFkvNzIdlW9+EAUBCWRzEQgECgIJKTAvLDM1MSksZ2QlMy5YpDORJAgHGWB9EgkGAw0CKyEgJyUpND06WlIcJw+Fcl+JJwUZK0FxGQsBCQIJBgQQDQwMCxAPRzQEA0BNR1BKVzUlKS56LgkGBgUHBg0MCAgJAQEWSiQEI1ARCxcMOlhWIiuAcy4pGxMGCQQNBQcKBwksPBIRSi8ECwkIDBBbVwsybkMuNDg4",
-          "top": "BAUCAQQEAQMFAgQJDBobOiRHNCQFCAQEAwIHAwMEBwIEBgcDBAQBBgcQIhEjQZR8fXtrRAoGBwYCBAQFBgQFCQcIAgYHBxowHzc7RZA3I1JxlGEOBgQJBAQIBgMEBwcECAQFH0gwV2dmg4+HiT8DQ5BACQYEBAcIBwQHBAQGBAgZVCcpVDgXM345W5dDDXZWBgQGBAYGAgEHBQQDCB1dDEhiYSGaxSceEGKICXBbCwIBAgEEBQsIBwcFHGAPajBar820L2QsEhW+JbFEFQoGBgQCCAQFCQYZWCBgOgkmUVR6eiBfA1uqoL8lHwgCBAcHBQcHBBNMMkRTEwMQKzsaLSU9WIUksjJWCQQEBQcIBAUEBzhBH0hAIwoKFQ1BMyhijjcRNFNFBAcDBQMCBgcFG0EeE1+dmX1oUUJIW4ZoMxQOJlk/AgUGAwEDBAgGBCNgZ0orUWt2hGF+fEsGCwoKOm0xCAIGBAMEBQQBAQ0dc20hHA8LIRksDQkEAwgHQYEmDwIFBQIEBAQECAQNbHVHKhgOFRYjMgQDBAUOO4MtCwQHBQIEBwQIAgIIHHR7dl0hDBs0JCkEBAAPRIQmDgEEAgED",
-          "middle": "BQQBAQ0dc20hHA8LIRksDQkEAwgHQYEmDwIFBQIEBAQECAQNbHVHKhgOFRYjMgQDBAUOO4MtCwQHBQIEBwQIAgIIHHR7dl0hDBs0JCkEBAAPRIQmDgEEAgEDBwgKCAcLChckS3pXHBojMB0EBAUHU34bCAQEBAMGAgEGBggGCQoMCk1UHB4gFwQEAwkEYHUMCQUEBggLBAACBgMHBQQDC0FgHBkVAgQBBAgHam8FCQUFBQoEBQIEAwEBCAcEDDByGwYcDAMEBgQEaGkDCQQGCAkDBQQCAwQFBAYICRhdQgcRBwYLCQkPZW8CCwkKBAQIFRMQDg4ICQoKDRNNNhsbBQoHBxEgSoASDg4EBQUGIScrJiUpKCgoIx1hVBkPCAIHEQcmM38mEBQXEA8KFRUYHyMiHSQjIR9leRwGBwsQEA0oLJlBIiIjHiYkBgkHBgEHAwUDBwhagycHEAwUDAofK6VKGBMVFBUYKi8wMjU2MjMvLyWSgRUUBQwTHBgqJqxZFQ4LCAwDCAEEAQsKEhYVFSV9TRUZFxAaLUxzsZlkKiklJycnKy4sIx4lKCUfKCOZ5snDubnJ4uzq74QfExsYEhUf",
-          "bottom": "BgkHBgEHAwUDBwhagycHEAwUDAofK6VKGBMVFBUYKi8wMjU2MjMvLyWSgRUUBQwTHBgqJqxZFQ4LCAwDCAEEAQsKEhYVFSV9TRUZFxAaLUxzsZlkKiklJycnKy4sIx4lKCUfKCOZ5snDubnJ4uzq74QfExsYEhUfExgiLyYiGRMFDkN6oqytsrClj25JUoU5AgMEAgYBDBMPCwgJCxUULU03DQgICgkHCg0OMXg5BgMBBwEBCAoNEhsaDgUeIm07DAQEAgECBQQCKnJBAwIBBAMJKiwqKSssKikrL1BQHgIEBRcDAQQGKX9BCwAJAwMFEBsYEh4fFRASP08/QAgHJ3gdBAICEXdkDgQGCgcCFxIPDRAOCQQDcFkvNzIdlW9+EAUBCWRzEQgECgIJKTAvLDM1MSksZ2QlMy5YpDORJAgHGWB9EgkGAw0CKyEgJyUpND06WlIcJw+Fcl+JJwUZK0FxGQsBCQIJBgQQDQwMCxAPRzQEA0BNR1BKVzUlKS56LgkGBgUHBg0MCAgJAQEWSiQEI1ARCxcMOlhWIiuAcy4pGxMGCQQNBQcKBwksPBIRSi8ECwkIDBBbVwsybkMuNDg4"
+          "full": "NygeIRgWQ3IiOhodRVwfVSUwXDUWQiARMChAJjREKDkmLhAgMjA8TR4zVSglHENRIiFeIhoQSVhDOENLBxUnGTgJEDUkQQ0aKQ8ZJiYmVEZbQzJoamIhX0cOBA4RQAseGSgrFCUJKiAQHi9qN6xuTS9IXEJjczQUDBEqIiMKEighCgcJHyMVHx1Mq49+niRDRH97NiEWLRgVGBESJRgTEB0VNSgaLSNbtVNFoTobZUkMNQsIRhoZExkSJQwMFxgbCzsTTElYfBF2cDQrQCdBNQ0QLC0CBBcFKxUfExMjCx8xRTQvsVyKUD82Bh80LSUVPAUaCBcEEhkVFx8fLCIlSScgaXo7OzoVGxc2OzAcDygWIiYQJwYOGiIzHjgTfIR1FigqOCEtAxkYFSo9Hh4zLhIEIhUVHDYYPBUWgz6MGmhedisgEhkpGSMUGCcZHiEXJRkvPQVKHSAZjGOGI2YgmHAVIyUoJQ8QFgsuHzkrHE5BUW4uKTgaWdFyPXKFT2ELKBYxKjFEEBccV82zvG0nLnF4LwpWMFZ2IDY4MRogH1MoGxkXLCKW/4ZsjrM0Q1djDhlAOBYOCAMnKUREFjA7MTsSLSzjgw4UNDS2bWMnQ0cvWhQMDRIibCZMLC8GHDZGFpmoOhE4NZqlqCBQRyNRUDwgBiESR1RPHyIHISZEn1aYVhBGjJLWIExNOjEJqfh6EaupNTEuIzsSNCApe2NUiJM8d9VCLB9VLwyC1q//bry/vzgbGSgRJyxJDzBIicySOMzwaiYpJROKvAmap3B2lpI6Fi8XDDMsNhlSuIHZQSCXimUgEC6XjiFYi1ldXUuUCy5CShQdglewCOxbFR5JYFcdJkJdcTmTtkA9LnwwWTIqUTEXJTsld5dCDjKHVyZaQ1gvwWRg6H4pHytZFxshEFFCHSQ6UoVDJyKrem1AYpbAT7MHlf+KZ1ULHRYJGSRTDB8WoFoWKBuctDN4mlNKV0ZCIp6odU9CLgsmFi4bLhx2lhc0VB9LxrgvVq62go47Ej2APTseHxsJKDsrWxmNiUWLqmEKYXibPDNTWrGoHRJfilcNJxgaDkY9NjGhfZK7dulMYok/QVw9h/twGBc4oFMkEyc6RQ01cxPKXb94HqmYilswdzmd/3AhNyAmVy5TQ0oZNSBIKWTPF9ZPBx41CkQWUZnaNj1kTkM3n3NxNGMwRz00MJtrd5k9GX1tS2RIeJwgQIeucHFLr4UzVoMkXAw9dJ0wgGtJNmo5Jkk6MhJDp+FB1XJBhHRebSVZYSgmgUwfdy4jPDttcZo6I0isogSMqGhgbBsSOlMeJlgpbml9njEiJxsQH4eWY8NyKl8sdG82jEsfL3iQonRcTFVsJS4ZJT44OV8W5kQ+NR8pjl4xhyxONSYuOh4qCAIMDBgXHR0jLj10S3dXIBwxS79CgCghHjQ+QkU4GBQYHCUlJCovLztqNEgqGxkgPjh1Th8yJSktLSwtERINCAgBBwkMEhYWIxcoJCZAfThPPS4VGhYXFBET",
+          "top": "NygeIRgWQ3IiOhodRVwfVSUwXDUWQiARMChAJjREKDkmLhAgMjA8TR4zVSglHENRIiFeIhoQSVhDOENLBxUnGTgJEDUkQQ0aKQ8ZJiYmVEZbQzJoamIhX0cOBA4RQAseGSgrFCUJKiAQHi9qN6xuTS9IXEJjczQUDBEqIiMKEighCgcJHyMVHx1Mq49+niRDRH97NiEWLRgVGBESJRgTEB0VNSgaLSNbtVNFoTobZUkMNQsIRhoZExkSJQwMFxgbCzsTTElYfBF2cDQrQCdBNQ0QLC0CBBcFKxUfExMjCx8xRTQvsVyKUD82Bh80LSUVPAUaCBcEEhkVFx8fLCIlSScgaXo7OzoVGxc2OzAcDygWIiYQJwYOGiIzHjgTfIR1FigqOCEtAxkYFSo9Hh4zLhIEIhUVHDYYPBUWgz6MGmhedisgEhkpGSMUGCcZHiEXJRkvPQVKHSAZjGOGI2YgmHAVIyUoJQ8QFgsuHzkrHE5BUW4uKTgaWdFyPXKFT2ELKBYxKjFEEBccV82zvG0nLnF4LwpWMFZ2IDY4MRogH1MoGxkXLCKW/4ZsjrM0Q1djDhlAOBYOCAMnKUREFjA7MTsS",
+          "middle": "FgsuHzkrHE5BUW4uKTgaWdFyPXKFT2ELKBYxKjFEEBccV82zvG0nLnF4LwpWMFZ2IDY4MRogH1MoGxkXLCKW/4ZsjrM0Q1djDhlAOBYOCAMnKUREFjA7MTsSLSzjgw4UNDS2bWMnQ0cvWhQMDRIibCZMLC8GHDZGFpmoOhE4NZqlqCBQRyNRUDwgBiESR1RPHyIHISZEn1aYVhBGjJLWIExNOjEJqfh6EaupNTEuIzsSNCApe2NUiJM8d9VCLB9VLwyC1q//bry/vzgbGSgRJyxJDzBIicySOMzwaiYpJROKvAmap3B2lpI6Fi8XDDMsNhlSuIHZQSCXimUgEC6XjiFYi1ldXUuUCy5CShQdglewCOxbFR5JYFcdJkJdcTmTtkA9LnwwWTIqUTEXJTsld5dCDjKHVyZaQ1gvwWRg6H4pHytZFxshEFFCHSQ6UoVDJyKrem1AYpbAT7MHlf+KZ1ULHRYJGSRTDB8WoFoWKBuctDN4mlNKV0ZCIp6odU9CLgsmFi4bLhx2lhc0VB9LxrgvVq62go47Ej2APTseHxsJKDsrWxmNiUWLqmEKYXibPDNTWrGoHRJfilcNJxgaDkY9",
+          "bottom": "HSQ6UoVDJyKrem1AYpbAT7MHlf+KZ1ULHRYJGSRTDB8WoFoWKBuctDN4mlNKV0ZCIp6odU9CLgsmFi4bLhx2lhc0VB9LxrgvVq62go47Ej2APTseHxsJKDsrWxmNiUWLqmEKYXibPDNTWrGoHRJfilcNJxgaDkY9NjGhfZK7dulMYok/QVw9h/twGBc4oFMkEyc6RQ01cxPKXb94HqmYilswdzmd/3AhNyAmVy5TQ0oZNSBIKWTPF9ZPBx41CkQWUZnaNj1kTkM3n3NxNGMwRz00MJtrd5k9GX1tS2RIeJwgQIeucHFLr4UzVoMkXAw9dJ0wgGtJNmo5Jkk6MhJDp+FB1XJBhHRebSVZYSgmgUwfdy4jPDttcZo6I0isogSMqGhgbBsSOlMeJlgpbml9njEiJxsQH4eWY8NyKl8sdG82jEsfL3iQonRcTFVsJS4ZJT44OV8W5kQ+NR8pjl4xhyxONSYuOh4qCAIMDBgXHR0jLj10S3dXIBwxS79CgCghHjQ+QkU4GBQYHCUlJCovLztqNEgqGxkgPjh1Th8yJSktLSwtERINCAgBBwkMEhYWIxcoJCZAfThPPS4VGhYXFBET"
         },
         "detailFingerprint": {
           "version": "detail-v1",
-          "full": 23.172885,
-          "top": 26.090066,
-          "middle": 19.868306,
-          "bottom": 23.033782,
-          "effectiveRatio": 0.530547
+          "full": 24.571877,
+          "top": 22.287782,
+          "middle": 26.099928,
+          "bottom": 24.762447,
+          "effectiveRatio": 0.550897
         },
         "extendable": false,
-        "sha256": "a44831cdfbbacdb5af7e8cdd0d57684d29e9a4531b549dddce06ac38841591ef",
-        "url": "https://www.nikkansports.com/baseball/news/img/202610160001288-w1300_0.jpg"
+        "sha256": "28459addb835a506cf9baf0411a1f5830048768656899775cdc99377be97adbe",
+        "url": "https://www.nikkansports.com/baseball/news/img/202610020001619-w1300_2.jpg"
       },
       "strictPolicy": {
         "passed": true,
         "reasons": [],
-        "nativeCoverScale": 0.898
+        "nativeCoverScale": 1.023
       },
-      "sha256": "a44831cdfbbacdb5af7e8cdd0d57684d29e9a4531b549dddce06ac38841591ef",
+      "sha256": "28459addb835a506cf9baf0411a1f5830048768656899775cdc99377be97adbe",
       "fit": "cover",
       "visuallyReviewed": true,
       "coverCropConcern": false,
@@ -116,9 +116,10 @@
         "record": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\npb-story\\rights-authorization.json",
         "note": "닛칸스포츠 원권리자·기자·사진 원문과 촬영 맥락을 보존했다. 생성·생성형 복원·AI 확대를 사용하지 않았다."
       },
-      "visualReviewNote": "마에다가 회색 훈련복으로 양팔을 올려 스트레칭하는 2026년10월 자료사진. 얼굴이 선명하고 위·좌우 여유가 있다.",
+      "visualReviewNote": "마에다 유고가 마운드에 선10월2일경기사진이다. 얼굴·모자·전신이명확하고세로중앙크롭에서도머리와얼굴이남는다. 상단은관중석의다양한명암과질감이며잔디단색면적이없다. 왼쪽홈런주자는초점밖배경인물이다.",
       "fullNameJapanese": [
-        "前田悠伍"
+        "前田悠伍",
+        "井上広大"
       ],
       "subjects": [
         {
@@ -127,6 +128,13 @@
           "role": "투수",
           "currentTeam": "후쿠오카 소프트뱅크 호크스",
           "officialProfile": "https://npb.jp/bis/players/13115159.html"
+        },
+        {
+          "nameKorean": "이노우에 고타",
+          "fullNameJapanese": "井上広大",
+          "role": "사진 왼쪽 초점 밖 배경 홈런 주자",
+          "currentTeam": "지바 롯데 마린스",
+          "officialProfile": "https://npb.jp/bis/players/31335151.html"
         }
       ]
     },
