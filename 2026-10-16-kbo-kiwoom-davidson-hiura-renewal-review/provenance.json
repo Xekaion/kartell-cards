@@ -1,0 +1,458 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "키움, 데이비슨·히우라 재계약 검토",
+  "issueKey": "kbo-2026-kiwoom-davidson-hiura-renewal-review",
+  "checkedAt": "2026-10-16T08:15:54.228Z",
+  "sourceUrl": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=56305",
+  "corroboratingUrls": [
+    "https://sports.khan.co.kr/article/202610161003003",
+    "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54944",
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12194",
+    "https://www.koreabaseball.com/Record/History/Team/Record.aspx"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://sports.khan.co.kr/article/202610161003003",
+      "publishedAt": "2026-10-16T10:03:00+09:00",
+      "role": "primary-current-event-firsthand-club-interview",
+      "note": "스포츠경향 이두리 기자가10월15일허승필단장과직접통화.두외국인타자재계약긍정검토·선수잔류의사확인·정식미팅전이라는현재상태의근거다.도입부투수1명타자1명은이후본문의1투수2타자와충돌하는오기라사용하지않는다."
+    },
+    {
+      "url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=56305",
+      "publishedAt": null,
+      "role": "official-current-affiliation-and-2026-hiura-statistics",
+      "note": "히우라현키움소속,2026 72G .272 13HR 43RBI OPS.811 및10월경기5개19AB7H(.368)확인.재계약검토를이선수페이지가공식발표했다고주장하지않는다."
+    },
+    {
+      "url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54944",
+      "publishedAt": null,
+      "role": "official-current-affiliation-and-2026-davidson-background",
+      "note": "데이비슨현키움소속확인.2026 124G .297 28HR89RBI는NC+키움합산이므로키움단독기록으로쓰지않는다.본문은별도KBO보도자료의9~10월기록사용."
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12194",
+      "publishedAt": "2026-10-14",
+      "role": "official-period-specific-davidson-performance-background",
+      "note": "9~10월23G12HR장타율.806(1위),타율.366출루율.438.다른MVP후보를새기사주제로재탕하지않고데이비슨반등의근거만사용."
+    },
+    {
+      "url": "https://www.koreabaseball.com/Record/History/Team/Record.aspx",
+      "publishedAt": null,
+      "role": "official-2026-completed-team-season-record",
+      "note": "2026키움50승90패4무·타율.244·평균자책점5.30.10팀중타율과ERA모두최하위."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "데이비슨 홈런 뒤 히우라와 인사",
+      "subject": "데이비슨 · 히우라",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-18/202609180100127660008266",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/18/2026091801001276600082661_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.18 자료사진)",
+      "photoDate": "2026-09-18",
+      "photoDateLabel": "2026-09-18 자료사진",
+      "checkedAt": "2026-10-16T08:13:19.035Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-nc-kiwoom-extra\\kiwoom-story\\photos\\photo-0be4ab17e3c0.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:09:02.438Z",
+        "width": 1200,
+        "height": 1531,
+        "bytes": 980013,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.587429729685659,
+        "entropy": 7.505714725703001,
+        "effectiveDetailRatio": 0.465569,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/18/2026091801001276600082661_w.jpg",
+        "sha256": "0be4ab17e3c095530b319afef94478d7eb3d110aaacdf86b086f69ca5297ae43",
+        "perceptualHash": "841636b778332329",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "FSUkDgQBAlBaSVRJQAcjKkkqIkYpXRdYTkEyWkENPC0QAwEBBRorJRxvKxwvNxhJMSBjX0U/RVxWNDMzIQsDAQECAyhzFGQdMkJJO10vVmFkBl0IUDgGWz8hAwEBAgEDBAMvZTMaGSonTisPTj8XG0NgGA1FD1FJAgICAgEBAgUNPAkkBhwCBAACDEAmAh43MT0vBS1AAgEBAgQDAxF3b3ttHBgFAQIJR71eOx8JAwkEAgQDAgICAgINHmVyHDRncRcIAgYVuy2KJjQYBQQEBQIDCggLAR40alITPzlCRTwnBhQnXpFSEhAfDgkKCwwMERULNzFZk3p0ZnBMdC81SwYsZyuOGUgzEhIUFhURDA1WKwuOfyQmHBUnZHQWKVqHnW1fpksKBAQFBAUFB09GIQMUJDkXgWdCfU8YKio9qknSMhwGAwkDAgIBKXMXJBV9xUL5WsqTpSMMFRQhSypbmG80IxYNDw0Om9ehRiRgoXZiVOY160scJ2JsZwRBIXxIOT8hDBMN/5z57TEIe6Mva2o+v4FFn4h5HFxPfz4fER5GIQQL5los1nelhyxvSLxX0b1ooi1AjHcvNRwmHCYiYxxHrQy17wlT24nBS5q9wj43v40cjZJlcHZqPhRSLTRbaiDOlzIRRaVAdkBXMg4OVZqBUpqelHB6jioqLTU0slTOmTMgDT2EQnk0FAQrTRpOkWpwUSeBlkXlqIk1/9Fa9XANCgtKeUcVDw4zKwUwJamCqG1zFLaSmeNGS6P/rM9TByg1OEcZJhAbQjEpUA0XGGZLFVnAcjp+Gf+/rMYxc8HO0uK2Rj88PjJGDQ0GFhkqCAtn4V68Wf1nQcrG+LiYm47q+uSjIyAICgYFCRoQHne4VXUxGNq8WyCPVQ4JBg4yfpbhbg8GCggJDQ4THmSAXHEvH5CselEdFAYFBwUGEjvblyIJAhQWDxoYO1VupahiFWpwiIEZBwgKDxAGEFPaa1WUghIUL2+QpIt9SkxfR04qk20RDhslLBoRIkXINdrT4dmOhsiml6aOm9b/K0UVgqUREBscLjQwND67I/5aRr/E4XxDUftX65rErnQruZwJCiE+KSk4GRqOxdc1BA43TCQHKrfqtWqGv8cq004HCQ0dTDcJCgsnu0EJBhsmIxAEIw2fayctfbgblysUCQQYOR8lFw45LxAEFh1NLxkEIwtoPR5G2KxH55UuCAQgNggfHTE+WCAMFUxSTy8KJnPFjbLfOz8xqOY9AgQgKwIXBk8adCAVFWE9bCAOO81yIHQ5FwkfichZAwQaMigcF1Udbw0VJ55jjicNSLc8Ejw7HREpX69+FQIZWCYtKD1TbAkRd/Rg20cUV55BBy9FqXcHWch9DhVAYAkwFjRHTQsxz7BY4HMWVnUqNHQgi6lmWsaBIjE0Jhc2DSZFNhVcsz8wgWsWOm05L0qdRJtSYaJ2IBgyLRcyDRBBETimkw0siZQeL1NJPF5sYq5AWoicVhk2Mw8jERkTFkuIXVw3OIJDRng7I0BZ",
+          "top": "FSUkDgQBAlBaSVRJQAcjKkkqIkYpXRdYTkEyWkENPC0QAwEBBRorJRxvKxwvNxhJMSBjX0U/RVxWNDMzIQsDAQECAyhzFGQdMkJJO10vVmFkBl0IUDgGWz8hAwEBAgEDBAMvZTMaGSonTisPTj8XG0NgGA1FD1FJAgICAgEBAgUNPAkkBhwCBAACDEAmAh43MT0vBS1AAgEBAgQDAxF3b3ttHBgFAQIJR71eOx8JAwkEAgQDAgICAgINHmVyHDRncRcIAgYVuy2KJjQYBQQEBQIDCggLAR40alITPzlCRTwnBhQnXpFSEhAfDgkKCwwMERULNzFZk3p0ZnBMdC81SwYsZyuOGUgzEhIUFhURDA1WKwuOfyQmHBUnZHQWKVqHnW1fpksKBAQFBAUFB09GIQMUJDkXgWdCfU8YKio9qknSMhwGAwkDAgIBKXMXJBV9xUL5WsqTpSMMFRQhSypbmG80IxYNDw0Om9ehRiRgoXZiVOY160scJ2JsZwRBIXxIOT8hDBMN/5z57TEIe6Mva2o+v4FFn4h5HFxPfz4fER5GIQQL5los1nelhyxvSLxX0b1ooi1AjHcvNRwmHCYiYxxH",
+          "middle": "m9ehRiRgoXZiVOY160scJ2JsZwRBIXxIOT8hDBMN/5z57TEIe6Mva2o+v4FFn4h5HFxPfz4fER5GIQQL5los1nelhyxvSLxX0b1ooi1AjHcvNRwmHCYiYxxHrQy17wlT24nBS5q9wj43v40cjZJlcHZqPhRSLTRbaiDOlzIRRaVAdkBXMg4OVZqBUpqelHB6jioqLTU0slTOmTMgDT2EQnk0FAQrTRpOkWpwUSeBlkXlqIk1/9Fa9XANCgtKeUcVDw4zKwUwJamCqG1zFLaSmeNGS6P/rM9TByg1OEcZJhAbQjEpUA0XGGZLFVnAcjp+Gf+/rMYxc8HO0uK2Rj88PjJGDQ0GFhkqCAtn4V68Wf1nQcrG+LiYm47q+uSjIyAICgYFCRoQHne4VXUxGNq8WyCPVQ4JBg4yfpbhbg8GCggJDQ4THmSAXHEvH5CselEdFAYFBwUGEjvblyIJAhQWDxoYO1VupahiFWpwiIEZBwgKDxAGEFPaa1WUghIUL2+QpIt9SkxfR04qk20RDhslLBoRIkXINdrT4dmOhsiml6aOm9b/K0UVgqUREBscLjQwND67I/5aRr/E4XxDUftX65rE",
+          "bottom": "H5CselEdFAYFBwUGEjvblyIJAhQWDxoYO1VupahiFWpwiIEZBwgKDxAGEFPaa1WUghIUL2+QpIt9SkxfR04qk20RDhslLBoRIkXINdrT4dmOhsiml6aOm9b/K0UVgqUREBscLjQwND67I/5aRr/E4XxDUftX65rErnQruZwJCiE+KSk4GRqOxdc1BA43TCQHKrfqtWqGv8cq004HCQ0dTDcJCgsnu0EJBhsmIxAEIw2fayctfbgblysUCQQYOR8lFw45LxAEFh1NLxkEIwtoPR5G2KxH55UuCAQgNggfHTE+WCAMFUxSTy8KJnPFjbLfOz8xqOY9AgQgKwIXBk8adCAVFWE9bCAOO81yIHQ5FwkfichZAwQaMigcF1Udbw0VJ55jjicNSLc8Ejw7HREpX69+FQIZWCYtKD1TbAkRd/Rg20cUV55BBy9FqXcHWch9DhVAYAkwFjRHTQsxz7BY4HMWVnUqNHQgi6lmWsaBIjE0Jhc2DSZFNhVcsz8wgWsWOm05L0qdRJtSYaJ2IBgyLRcyDRBBETimkw0siZQeL1NJPF5sYq5AWoicVhk2Mw8jERkTFkuIXVw3OIJDRng7I0BZ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.054067,
+          "top": 15.964836,
+          "middle": 22.344199,
+          "bottom": 19.983539,
+          "effectiveRatio": 0.465569
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1531
+      },
+      "sha256": "0be4ab17e3c095530b319afef94478d7eb3d110aaacdf86b086f69ca5297ae43",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 스포츠조선 원문 사진을 확인하고 원기자 크레딧·촬영일과 연결했다. 사진 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "18일 잠실야구장에서 열린 키움과 두산의 경기. 4회초 데이비슨이 우월 동점 솔로홈런을 치고 히우라의 환영을 받고 있다. 잠실=허상욱 기자wook@sportschosun.com/2026.09.18/",
+      "context": {
+        "event": "2026-09-18 KBO 정규시즌 키움 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "데이비슨",
+            "team": "키움히어로즈"
+          },
+          {
+            "name": "히우라",
+            "team": "키움히어로즈"
+          }
+        ],
+        "visualNote": "데이비슨은34번등판으로확인되며히우라가정면에서웃으며맞이한다.두주인공이같은키움유니폼으로담긴실제장면이다.",
+        "editorialNote": "10월16일 재계약 협상 현장 사진이 아니다. 원문 촬영일대로 자료사진 크레딧을 표시한다."
+      }
+    },
+    {
+      "name": "데이비슨 솔로홈런 직후",
+      "subject": "데이비슨",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-26/202609260100174500011516",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/26/2026092601001745000115161_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.26 자료사진)",
+      "photoDate": "2026-09-26",
+      "photoDateLabel": "2026-09-26 자료사진",
+      "checkedAt": "2026-10-16T08:13:19.035Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-nc-kiwoom-extra\\kiwoom-story\\photos\\photo-9d0506b00580.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:09:03.302Z",
+        "width": 1200,
+        "height": 1711,
+        "bytes": 1081276,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9629242562230074,
+        "entropy": 7.661003417801112,
+        "effectiveDetailRatio": 0.492041,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/26/2026092601001745000115161_w.jpg",
+        "sha256": "9d0506b00580f33ba83338b4bee0559c90d7c7197deff24c45a4406175fb765e",
+        "perceptualHash": "8d4f4e781b1a1e35",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "VxYpGxMZExsiIStAajcwHEwNb0swMiwxNDY1NDU0GiUQfXYuBgQDAxN5RixSQ0lfYwoJCAwMCgkKCgwLDxKExMOje3Nxc3dsWIZlYkiRqnh4d3d4eXl5eHh3JSSTn5RFGwYWDyo3fWUmPFwPEBIPDxEUExQVFhkZdy8dtHE7Hy4gLDt/cjhkTClaf3R0dXZ4eXl6ent6bYJKJ2YsnFIcHh06pQxeIjRuQSYXEg0FAAcKDQ8Qh5oct0kZL1w2EysUoYExY4ouKyMdCgoKCwkFAwMDizityoI2d0o8JRwNQqVtkCIzFhVQLSIiHRYTEQ8OOnX7IbB0WGskKyBGGEBpIicrEmB0cwYKCwwMCgkIJ8OlSauHMSseIU8CTSEYNz8xEG89exUjIR8fHx0fFLe3ZMFGFxgVIFgxW4ajoYlNZkEOUgwTEBAQDgUTG4S5SMFAFRsZf34gIUAgGEu/R4wfaRATFBcaHQghEGLbF7xEHx4cOneBgpanrqN6VDuKJB0hJys1LURaCTneRcJQQx8NBzI7MzokIjcMARFDMSogGyEYCVN8CRahlaJ0lnIWCw0XDhAJERwgVzk/NDMLDAxOR4EsDAST2lSddv/EdSMREgsBBhgPRVAfKTIRCUtgTagoBAqR5yxyH4Tn//VvIBmHKxIqBS8SIDUTJlMsNolmBhHJ1jVCEw8nXNj/4/3ZlCURHhUHHDYSNxdhMhZWBj+3glDFWAYdCQt0tr6uyT8fDg8He0sZPCIXR1FJBDqYaHSB5zkdDgEPHAmV2VYTERiR+LooNBNfLWpDAgiako17vag0GgABFyHI5CcLESn/uPzBHjkqKUV4BQZ6vBCeV1d8KQEBBkriqjIICSXs3GrYyl05DxQdBgder4EaJRZjPg8BAlnOmVYrBQ/CucaoYYorLUJEBBMWS5NVH1mGbyIRCzyCmZ9UAgRNxEpygSolPzcjBBMUImNTPlV/hRoLCEhyJqWSCQkbPkkgDD4LRyMTBRYWGVZXQUyYlhgOHIaKPmmhFhUtNBIjLkUkSDQJAhQVFlpdYEW8mgwKKbGAdkGuKhsgHAQoRU0ZOzIUBBEWHE87agflcgkTN896jx2oOiQ5HiI0Gw8iLigTBA8bSm8dS2rGKhIZQtB3gSihXDBTWINXDRkcKB4TCQtYn45aPoqvJhICN9+ZimihqJGGbjm/RCgUKhsTDglqtyyYHZR8jGJMa45gWGgzTTpSZqF2Gi8PIxULCwN9toFwEjtvgkoaI2F2Z5FSvn5gXBw7WxgYHhoCEjhKPU0wblw8h5x0kv+AacsSzSsXNkpKSjkXKhkGGyo9O7XCvqWWST4qj/teM7ajrEQNM1cUKkQHKx8XU1tKy4MiIRdvSXYYqP+UgFU5OY1qgFElLl9mSjYxaWyERFlrJiBsM2EVWpuwqqmUgJ2hoHVkZXWai4F/XlxfSSU9SClCVTwFLFRmXmJoVE5TVVdYVlRdYWBfHx8YHSkoFCwwIzZFVikwJSgkJBoTGh4lICggIB0i",
+          "top": "VxYpGxMZExsiIStAajcwHEwNb0swMiwxNDY1NDU0GiUQfXYuBgQDAxN5RixSQ0lfYwoJCAwMCgkKCgwLDxKExMOje3Nxc3dsWIZlYkiRqnh4d3d4eXl5eHh3JSSTn5RFGwYWDyo3fWUmPFwPEBIPDxEUExQVFhkZdy8dtHE7Hy4gLDt/cjhkTClaf3R0dXZ4eXl6ent6bYJKJ2YsnFIcHh06pQxeIjRuQSYXEg0FAAcKDQ8Qh5oct0kZL1w2EysUoYExY4ouKyMdCgoKCwkFAwMDizityoI2d0o8JRwNQqVtkCIzFhVQLSIiHRYTEQ8OOnX7IbB0WGskKyBGGEBpIicrEmB0cwYKCwwMCgkIJ8OlSauHMSseIU8CTSEYNz8xEG89exUjIR8fHx0fFLe3ZMFGFxgVIFgxW4ajoYlNZkEOUgwTEBAQDgUTG4S5SMFAFRsZf34gIUAgGEu/R4wfaRATFBcaHQghEGLbF7xEHx4cOneBgpanrqN6VDuKJB0hJys1LURaCTneRcJQQx8NBzI7MzokIjcMARFDMSogGyEYCVN8CRahlaJ0lnIWCw0XDhAJERwgVzk/NDMLDAxOR4Es",
+          "middle": "EGLbF7xEHx4cOneBgpanrqN6VDuKJB0hJys1LURaCTneRcJQQx8NBzI7MzokIjcMARFDMSogGyEYCVN8CRahlaJ0lnIWCw0XDhAJERwgVzk/NDMLDAxOR4EsDAST2lSddv/EdSMREgsBBhgPRVAfKTIRCUtgTagoBAqR5yxyH4Tn//VvIBmHKxIqBS8SIDUTJlMsNolmBhHJ1jVCEw8nXNj/4/3ZlCURHhUHHDYSNxdhMhZWBj+3glDFWAYdCQt0tr6uyT8fDg8He0sZPCIXR1FJBDqYaHSB5zkdDgEPHAmV2VYTERiR+LooNBNfLWpDAgiako17vag0GgABFyHI5CcLESn/uPzBHjkqKUV4BQZ6vBCeV1d8KQEBBkriqjIICSXs3GrYyl05DxQdBgder4EaJRZjPg8BAlnOmVYrBQ/CucaoYYorLUJEBBMWS5NVH1mGbyIRCzyCmZ9UAgRNxEpygSolPzcjBBMUImNTPlV/hRoLCEhyJqWSCQkbPkkgDD4LRyMTBRYWGVZXQUyYlhgOHIaKPmmhFhUtNBIjLkUkSDQJAhQVFlpdYEW8mgwKKbGAdkGuKhsgHAQoRU0ZOzIU",
+          "bottom": "BBMWS5NVH1mGbyIRCzyCmZ9UAgRNxEpygSolPzcjBBMUImNTPlV/hRoLCEhyJqWSCQkbPkkgDD4LRyMTBRYWGVZXQUyYlhgOHIaKPmmhFhUtNBIjLkUkSDQJAhQVFlpdYEW8mgwKKbGAdkGuKhsgHAQoRU0ZOzIUBBEWHE87agflcgkTN896jx2oOiQ5HiI0Gw8iLigTBA8bSm8dS2rGKhIZQtB3gSihXDBTWINXDRkcKB4TCQtYn45aPoqvJhICN9+ZimihqJGGbjm/RCgUKhsTDglqtyyYHZR8jGJMa45gWGgzTTpSZqF2Gi8PIxULCwN9toFwEjtvgkoaI2F2Z5FSvn5gXBw7WxgYHhoCEjhKPU0wblw8h5x0kv+AacsSzSsXNkpKSjkXKhkGGyo9O7XCvqWWST4qj/teM7ajrEQNM1cUKkQHKx8XU1tKy4MiIRdvSXYYqP+UgFU5OY1qgFElLl9mSjYxaWyERFlrJiBsM2EVWpuwqqmUgJ2hoHVkZXWai4F/XlxfSSU9SClCVTwFLFRmXmJoVE5TVVdYVlRdYWBfHx8YHSkoFCwwIzZFVikwJSgkJBoTGh4lICggIB0i"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.601483,
+          "top": 27.883147,
+          "middle": 22.889906,
+          "bottom": 18.671414,
+          "effectiveRatio": 0.492041
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1711
+      },
+      "sha256": "9d0506b00580f33ba83338b4bee0559c90d7c7197deff24c45a4406175fb765e",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 스포츠조선 원문 사진을 확인하고 원기자 크레딧·촬영일과 연결했다. 사진 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "26일 수원 KT위즈파크에서 열린 키움과 KT의 경기. 7회초 키움 데이비슨이 솔로홈런을 치고 있다. 수원=허상욱 기자wook@sportschosun.com/2026.09.26/",
+      "context": {
+        "event": "2026-09-26 KBO 정규시즌 키움 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "데이비슨",
+            "team": "키움히어로즈"
+          }
+        ],
+        "visualNote": "데이비슨의얼굴과키움유니폼이선명하며배트가아래로떨어지는순간이다.동일홈런의다른사진과동작이달라재크롭이아니다.",
+        "editorialNote": "10월16일 재계약 협상 현장 사진이 아니다. 원문 촬영일대로 자료사진 크레딧을 표시한다."
+      }
+    },
+    {
+      "name": "히우라 1타점 적시타 스윙",
+      "subject": "히우라",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-08/202609080100058500003764",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000585000037641_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.08 자료사진)",
+      "photoDate": "2026-09-08",
+      "photoDateLabel": "2026-09-08 자료사진",
+      "checkedAt": "2026-10-16T08:13:19.035Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-nc-kiwoom-extra\\kiwoom-story\\photos\\photo-033d5d2dab55.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:09:05.438Z",
+        "width": 1200,
+        "height": 1427,
+        "bytes": 964886,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6320269760537893,
+        "entropy": 7.658507753163576,
+        "effectiveDetailRatio": 0.464855,
+        "kind": "source",
+        "coverScale": 0.946,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000585000037641_w.jpg",
+        "sha256": "033d5d2dab55661e0e428182663a1db33cb693e2c69efed8688e247b7f6e7a76",
+        "perceptualHash": "8f4b46a6223a382c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Rntaew1jV1NFRkMgOyMaGxUNMVVVUFdhZGRgXVpkLmeZZIFheSEQEzEEPBkPFxQRExMQCg8VFxcdHhkabI6bfVYvXyMQFzcLNxcGBQoFBwgHDAYFAwYLEQwDdUBQgKgyWop/C1FMTSUQHQQIBgkFCwYCBAQDCwwJQyw7bgZ3NjyQliGShQ48Y0cfGBsbGxkdGxYUEw8OcTQkNJlNWWktl5B9UyxdcoF6g1pLTk1OU05dbmtvYIRPZRZDM0oXYNiNRD5qS4OhdlQhJSgmLjZbdHZ7b6s1IRsRKVg/JMOwaBIpx5VeHF0bEQ0PDyU/Iw0Poa00aBQudmMUJG7Ly7VqtrlkQkUxIxwbGiIzLicnW2eUQUlpdg8uOZ1zba7Abz16DRsdJC8tOT4jBgYDVxEwXU8rOScVoFTJO0iG+8X/bi95XBEYJCQfFxkQbxIQEgoWHGQ6kHuvhR7h60rE/0hennMhIgkMBQFvEU0EAgkKTiVXeGKOdiyz9TYd3qWvQl4kLCQaFECkYhMKDxozPmVCvkXJDSOV7UM0msUUSSAZBB0XFS1EHiQbFUWleVqDhs+FGBZO+3EJibZFNDlVOBkbIioUExopUZopoSOEWcASHRoMntwxIr5WJB0xPR0WICALJSYcNVObUTQqYDchEAyG/15WdHd5TyQlQQoZER8aKTgNIysPCyxrMy0bJReo+3/ClDC6JVM9QxQmLCsPKhwpFCoVeaYlrjccHBFEkIFPVqOemTIeIxUnIA0OLw0THDOTR5PJQg0KDUF6NhktIIYY72cIRy4RPqfGKzQOKCUym38bCBITE1w5NkhHEWWKU+1BFSkfte2pJCESFSMlHw4IFUlZQzAwJDY8O0NxjJX0NhNQw4eCWwoeR2xjmbBpWd6hJg4VDwgIN0sqvWfMxSUxYqOEPkt139PT6v3/7LnItxAJBRUSI0gRZOCTwkc5LCSBOyL9r11wXUCFzCNI/9chHBkdLUAZJ22MT0Q9b6oiKIXJJxQLCwoEGhYRJfKaBxUUEShGGyMpCSkdMmO8O5+REQoMBwQEBxANF2HoSiYbIi8/LAgYNUBGS3p0PcyhFQEBAwADBgwQDxye2SQRDgsLIIKxeTgiITJ7JY7IRAYHBAEABhMTCBQi4qYPBAEAisy97ryUlazmGGCodQwFAQICChkOBBkVZP9KDQEHet5XUW9SUWRbkqymTgQJAQABDhwKDgkkG+ykDAMLWuJtLkAoIj070hKYnU4IBQEBEB0NExMSBqntKQwKP8uGLGqOjINNukd/rlMICAABFCUbHBkFDGD/ZhELMbmKRr+be76Nxp3BLAcHAQABIUItKiULDR7pyhAFLLaPP8J5NLmMZItqRDsCAgEDPlIRNzAWAw93/1UHJraSRMuMWcSXDdeOTQ8CAQIRTmQrXU0iBAIR4M0cSsCGL5XIxLZhbVq7vogCAQQqqauwnstrDQUGgP8qfKNZCyxhYEsSj1mE84sFAwlK6JdRQLz4UQQFMe+oY59TKDxGSEUz",
+          "top": "Rntaew1jV1NFRkMgOyMaGxUNMVVVUFdhZGRgXVpkLmeZZIFheSEQEzEEPBkPFxQRExMQCg8VFxcdHhkabI6bfVYvXyMQFzcLNxcGBQoFBwgHDAYFAwYLEQwDdUBQgKgyWop/C1FMTSUQHQQIBgkFCwYCBAQDCwwJQyw7bgZ3NjyQliGShQ48Y0cfGBsbGxkdGxYUEw8OcTQkNJlNWWktl5B9UyxdcoF6g1pLTk1OU05dbmtvYIRPZRZDM0oXYNiNRD5qS4OhdlQhJSgmLjZbdHZ7b6s1IRsRKVg/JMOwaBIpx5VeHF0bEQ0PDyU/Iw0Poa00aBQudmMUJG7Ly7VqtrlkQkUxIxwbGiIzLicnW2eUQUlpdg8uOZ1zba7Abz16DRsdJC8tOT4jBgYDVxEwXU8rOScVoFTJO0iG+8X/bi95XBEYJCQfFxkQbxIQEgoWHGQ6kHuvhR7h60rE/0hennMhIgkMBQFvEU0EAgkKTiVXeGKOdiyz9TYd3qWvQl4kLCQaFECkYhMKDxozPmVCvkXJDSOV7UM0msUUSSAZBB0XFS1EHiQbFUWleVqDhs+FGBZO+3EJibZFNDlVOBkbIioU",
+          "middle": "EU0EAgkKTiVXeGKOdiyz9TYd3qWvQl4kLCQaFECkYhMKDxozPmVCvkXJDSOV7UM0msUUSSAZBB0XFS1EHiQbFUWleVqDhs+FGBZO+3EJibZFNDlVOBkbIioUExopUZopoSOEWcASHRoMntwxIr5WJB0xPR0WICALJSYcNVObUTQqYDchEAyG/15WdHd5TyQlQQoZER8aKTgNIysPCyxrMy0bJReo+3/ClDC6JVM9QxQmLCsPKhwpFCoVeaYlrjccHBFEkIFPVqOemTIeIxUnIA0OLw0THDOTR5PJQg0KDUF6NhktIIYY72cIRy4RPqfGKzQOKCUym38bCBITE1w5NkhHEWWKU+1BFSkfte2pJCESFSMlHw4IFUlZQzAwJDY8O0NxjJX0NhNQw4eCWwoeR2xjmbBpWd6hJg4VDwgIN0sqvWfMxSUxYqOEPkt139PT6v3/7LnItxAJBRUSI0gRZOCTwkc5LCSBOyL9r11wXUCFzCNI/9chHBkdLUAZJ22MT0Q9b6oiKIXJJxQLCwoEGhYRJfKaBxUUEShGGyMpCSkdMmO8O5+REQoMBwQEBxANF2HoSiYbIi8/LAgYNUBGS3p0",
+          "bottom": "Pkt139PT6v3/7LnItxAJBRUSI0gRZOCTwkc5LCSBOyL9r11wXUCFzCNI/9chHBkdLUAZJ22MT0Q9b6oiKIXJJxQLCwoEGhYRJfKaBxUUEShGGyMpCSkdMmO8O5+REQoMBwQEBxANF2HoSiYbIi8/LAgYNUBGS3p0PcyhFQEBAwADBgwQDxye2SQRDgsLIIKxeTgiITJ7JY7IRAYHBAEABhMTCBQi4qYPBAEAisy97ryUlazmGGCodQwFAQICChkOBBkVZP9KDQEHet5XUW9SUWRbkqymTgQJAQABDhwKDgkkG+ykDAMLWuJtLkAoIj070hKYnU4IBQEBEB0NExMSBqntKQwKP8uGLGqOjINNukd/rlMICAABFCUbHBkFDGD/ZhELMbmKRr+be76Nxp3BLAcHAQABIUItKiULDR7pyhAFLLaPP8J5NLmMZItqRDsCAgEDPlIRNzAWAw93/1UHJraSRMuMWcSXDdeOTQ8CAQIRTmQrXU0iBAIR4M0cSsCGL5XIxLZhbVq7vogCAQQqqauwnstrDQUGgP8qfKNZCyxhYEsSj1mE84sFAwlK6JdRQLz4UQQFMe+oY59TKDxGSEUz"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 20.568753,
+          "top": 23.844296,
+          "middle": 20.627985,
+          "bottom": 17.989472,
+          "effectiveRatio": 0.464855
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1427
+      },
+      "sha256": "033d5d2dab55661e0e428182663a1db33cb693e2c69efed8688e247b7f6e7a76",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9460406447091801
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 스포츠조선 원문 사진을 확인하고 원기자 크레딧·촬영일과 연결했다. 사진 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "8일 잠실야구장에서 열린 키움과 LG의 경기. 5회초 무사 1,3루 히우라가 1타점 적시타를 치고 있다. 잠실=허상욱 기자wook@sportschosun.com/2026.09.08/",
+      "context": {
+        "event": "2026-09-08 KBO 정규시즌 키움 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "히우라",
+            "team": "키움히어로즈"
+          }
+        ],
+        "visualNote": "히우라가스윙하는실제타격컷이다.머리·얼굴·팔·배트가보이며배경인물은모두흐릿하다.",
+        "editorialNote": "10월16일 재계약 협상 현장 사진이 아니다. 원문 촬영일대로 자료사진 크레딧을 표시한다."
+      }
+    },
+    {
+      "name": "데이비슨 홈런 스윙",
+      "subject": "데이비슨",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-26/202609260100174490011515",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/26/2026092601001744900115151_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.26 자료사진)",
+      "photoDate": "2026-09-26",
+      "photoDateLabel": "2026-09-26 자료사진",
+      "checkedAt": "2026-10-16T08:13:19.035Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-nc-kiwoom-extra\\kiwoom-story\\photos\\photo-f45c4946546e.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:09:05.468Z",
+        "width": 1200,
+        "height": 1390,
+        "bytes": 808927,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6890560934848506,
+        "entropy": 7.4456745204515755,
+        "effectiveDetailRatio": 0.476656,
+        "kind": "source",
+        "coverScale": 0.971,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/26/2026092601001744900115151_w.jpg",
+        "sha256": "f45c4946546ee0f90d715d2a7e9b5ed8c87660932c207c1961ce85d31c69e48d",
+        "perceptualHash": "155159ade6a35544",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "VXhAEGtHRUBTNw8QFh45KjQWFAYJBwQHIhEjFSADPEUgDSstLiQjHhQQEFRhNSBmTkhgSwEODGCTm0oYKQkdFRMaHElGKR8eIWFhNoRjgFc9YFUTZa6Oh6dPLi4hIx8nYUchLhsZIl+OdmlleoQ3P3GQyphPPop+UgEVTy0TFGFOKyEfLi9LLDJtWnaJeZiXgGsqWrhwYENgfnk9HREsFRQQH4B0JnjGfdM6GzMdNitS35wdOVFiJlJVND5TPSkSE0E5ckNHjaqymoVYGRycuhsRMzZEFktVLlgXLlsyITESOjE8SkFIXpzOURyoahczEnwPMWQMQigMPS9ZO1clHEc2HVIoDjmx1yrRgysCXTsxMVQ8OxwbECQ8Wy4aOTB/QpNdERWbzxXDhSGSUl4vPkJiKUpCJ0FWHz1ZFGtCJDuKOyi3hTK3aiyeHRBlF34WBikwGjIbBGw1hlkvfFIWgk2YPmiXdhAqC3skcyEIBQYICgQEBGgwkkGTSlRrGH+JfVVPfnA6Zy1sIw8HBgoIDggHCkNFbX9ZJCRJdiU/t04gjYIsMpBaLzM0NCkZMi0rKT9YKkkUDyE3LHUHY4qQiDkPupVtdnZ0c2tCdYB4fn9AcTgZMCgVFilVKkY9PRlEZSYvMDUxMkAXRzkzSUq4MYI4JhIMOiNKIh0iJSNpJBcbHBsbHDQPLg4QFxRKSTgkBgkGGjwLCAgOChIgKHMiGiMiJCMKLwYKBw1ITHo9CAwQCAQCCwoVIxIefpN6MgkMEA0SLxMRFxlNm3eRDAYEBgEFBQkWAQYji0WrUiYIBwoLPB0OERUg1FW0PwMFCAgJEAYJGRUkSw+UlQ8HCggGPB8BBQENU71SSQMHDAkIFA8FDRcgkX+jjB0JDAUIOSQEBgABEEc4EgYLBgoJKBEKCw0Rr7KpRyIhIQwINyoCBwEBCyIbDgUUFR42Pm8RDw1CVUxKUDM0PD0oMDEKCwICDDyuqIkfgLpPcOuPGQaVCw4HDRALFi1KHCsIEwUFKvP02/+N5rrM0YD/eReOCQsGCw4LDhlGFDcNCgMJfP96JmjIcCyRTQm+/zqfCQsDBQ0KDxBICD8GBQYIq/86BhA4GQUIDA0O/e2GDQcDBgsNEAlECD4JBgYPpf9IBg0RDQUJEAcSXP8hBAcBBwkKEAQ+FToPAwAQU/+QHxAIBgUaFx8SDuJuBAYCBgkJDwY9JTwZAgIBHNq/ExIFBRMvISgBAojHGg4FBgYJDhMuMysfAwIGBsDiMBMWCkejRyADASTrXkILCAQHDyAfMyEpBAMCDdfjEx4eM/C4/3YBAQKMSpRICAkMGQMGLgwxDB8XIO7HDTAMn/8x2f+BAgMwqzCoLw0PFyEZOwonEBMfKv6gLCAw/poWFL7/aAMOgpppbxANFBQIQydFICEtl/9OMBiG7U5LRFu88ygQHX9rNAkCBAUFJUY/cEGd/6QfGTDOcj5JJygfvHkLCxcoCQwKBwIBJmhCTsz/phIMINPXKDFPREIyqNpU",
+          "top": "VXhAEGtHRUBTNw8QFh45KjQWFAYJBwQHIhEjFSADPEUgDSstLiQjHhQQEFRhNSBmTkhgSwEODGCTm0oYKQkdFRMaHElGKR8eIWFhNoRjgFc9YFUTZa6Oh6dPLi4hIx8nYUchLhsZIl+OdmlleoQ3P3GQyphPPop+UgEVTy0TFGFOKyEfLi9LLDJtWnaJeZiXgGsqWrhwYENgfnk9HREsFRQQH4B0JnjGfdM6GzMdNitS35wdOVFiJlJVND5TPSkSE0E5ckNHjaqymoVYGRycuhsRMzZEFktVLlgXLlsyITESOjE8SkFIXpzOURyoahczEnwPMWQMQigMPS9ZO1clHEc2HVIoDjmx1yrRgysCXTsxMVQ8OxwbECQ8Wy4aOTB/QpNdERWbzxXDhSGSUl4vPkJiKUpCJ0FWHz1ZFGtCJDuKOyi3hTK3aiyeHRBlF34WBikwGjIbBGw1hlkvfFIWgk2YPmiXdhAqC3skcyEIBQYICgQEBGgwkkGTSlRrGH+JfVVPfnA6Zy1sIw8HBgoIDggHCkNFbX9ZJCRJdiU/t04gjYIsMpBaLzM0NCkZMi0rKT9YKkkUDyE3LHUHY4qQiDkP",
+          "middle": "C3skcyEIBQYICgQEBGgwkkGTSlRrGH+JfVVPfnA6Zy1sIw8HBgoIDggHCkNFbX9ZJCRJdiU/t04gjYIsMpBaLzM0NCkZMi0rKT9YKkkUDyE3LHUHY4qQiDkPupVtdnZ0c2tCdYB4fn9AcTgZMCgVFilVKkY9PRlEZSYvMDUxMkAXRzkzSUq4MYI4JhIMOiNKIh0iJSNpJBcbHBsbHDQPLg4QFxRKSTgkBgkGGjwLCAgOChIgKHMiGiMiJCMKLwYKBw1ITHo9CAwQCAQCCwoVIxIefpN6MgkMEA0SLxMRFxlNm3eRDAYEBgEFBQkWAQYji0WrUiYIBwoLPB0OERUg1FW0PwMFCAgJEAYJGRUkSw+UlQ8HCggGPB8BBQENU71SSQMHDAkIFA8FDRcgkX+jjB0JDAUIOSQEBgABEEc4EgYLBgoJKBEKCw0Rr7KpRyIhIQwINyoCBwEBCyIbDgUUFR42Pm8RDw1CVUxKUDM0PD0oMDEKCwICDDyuqIkfgLpPcOuPGQaVCw4HDRALFi1KHCsIEwUFKvP02/+N5rrM0YD/eReOCQsGCw4LDhlGFDcNCgMJfP96JmjIcCyRTQm+/zqf",
+          "bottom": "r7KpRyIhIQwINyoCBwEBCyIbDgUUFR42Pm8RDw1CVUxKUDM0PD0oMDEKCwICDDyuqIkfgLpPcOuPGQaVCw4HDRALFi1KHCsIEwUFKvP02/+N5rrM0YD/eReOCQsGCw4LDhlGFDcNCgMJfP96JmjIcCyRTQm+/zqfCQsDBQ0KDxBICD8GBQYIq/86BhA4GQUIDA0O/e2GDQcDBgsNEAlECD4JBgYPpf9IBg0RDQUJEAcSXP8hBAcBBwkKEAQ+FToPAwAQU/+QHxAIBgUaFx8SDuJuBAYCBgkJDwY9JTwZAgIBHNq/ExIFBRMvISgBAojHGg4FBgYJDhMuMysfAwIGBsDiMBMWCkejRyADASTrXkILCAQHDyAfMyEpBAMCDdfjEx4eM/C4/3YBAQKMSpRICAkMGQMGLgwxDB8XIO7HDTAMn/8x2f+BAgMwqzCoLw0PFyEZOwonEBMfKv6gLCAw/poWFL7/aAMOgpppbxANFBQIQydFICEtl/9OMBiG7U5LRFu88ygQHX9rNAkCBAUFJUY/cEGd/6QfGTDOcj5JJygfvHkLCxcoCQwKBwIBJmhCTsz/phIMINPXKDFPREIyqNpU"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 20.791634,
+          "top": 22.308696,
+          "middle": 20.568061,
+          "bottom": 20.561729,
+          "effectiveRatio": 0.476656
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1390
+      },
+      "sha256": "f45c4946546ee0f90d715d2a7e9b5ed8c87660932c207c1961ce85d31c69e48d",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9712230215827338
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 스포츠조선 원문 사진을 확인하고 원기자 크레딧·촬영일과 연결했다. 사진 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "26일 수원 KT위즈파크에서 열린 키움과 KT의 경기. 7회초 키움 데이비슨이 솔로홈런을 치고 있다. 수원=허상욱 기자wook@sportschosun.com/2026.09.26/",
+      "context": {
+        "event": "2026-09-26 KBO 정규시즌 키움 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "데이비슨",
+            "team": "키움히어로즈"
+          }
+        ],
+        "visualNote": "데이비슨이배트를머리위로든팔로스루실제프레임이다.2번사진의배트를놓은프레임과동작이명확히다르다.",
+        "editorialNote": "10월16일 재계약 협상 현장 사진이 아니다. 원문 촬영일대로 자료사진 크레딧을 표시한다."
+      }
+    },
+    {
+      "name": "히우라 적시타 뒤 환호",
+      "subject": "히우라",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-08/202609080100058490003763",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000584900037631_w.jpg",
+      "imageCredit": "스포츠조선 허상욱",
+      "creditDisplay": "사진 · 스포츠조선 허상욱 (2026.09.08 자료사진)",
+      "photoDate": "2026-09-08",
+      "photoDateLabel": "2026-09-08 자료사진",
+      "checkedAt": "2026-10-16T08:13:19.035Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-nc-kiwoom-extra\\kiwoom-story\\photos\\photo-2605cbec3df6.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:09:06.756Z",
+        "width": 1200,
+        "height": 1593,
+        "bytes": 1041673,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6528426412713553,
+        "entropy": 7.824718872085214,
+        "effectiveDetailRatio": 0.477094,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000584900037631_w.jpg",
+        "sha256": "2605cbec3df63fed6063705f0963763f4f31684f92fd28f898b871a8bc635de2",
+        "perceptualHash": "cfcdce524ff2d092",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "EBYJDhQQFA8LDx4VRl4atI1kHAcGFSgkVCECAQUKFQ4HFhcSFAkGDhhNc355eme2aC0IDS0lfh4CBQsGDQcFEyEbDggQBg+AhDY2o21EnDYUEkJOs3MVBw8TBQoECRoiFQwMExd1bsmFfJa3aCwVJS6wKd0rEA8cCAkFEyszIhkgIyRSKWgoHioMMQ4gGg96urHrt8DaDQ8JHTkuCAoNDCKgQddqaaunVh4YExAVqa6HZF9JCgsKHDMxGjM4Ni6AkXiUfolulA8ZISQ5jIGZjY6mBAUGFiklGDQnJCkdvEJLF1zSUyMWHCJACmtWNTAoBAQFFC0iHCkJJB8WfGo1T5VfYmkJIyYHJwsMERgfBAUGHTEdIiAIIzISbW0ug0qH0Hs3MRwaDwsQDoh6BAcBGTQ3GA8REjUnfTZua1mzNLE+JzIkIgsTlbq8Bg0TFR4uEgsjSkVUljibV0ZsspkqIj8qFw8Jrat4BAkaGjRDCRY1CBkgVW1kKjVpZQdKMSMLChYNZt6tAQMLMj8SFiw1ShoLBS4WLBAdFVG0m8e6MhYQDW1JJzAVNWVyHUJCco5XEgQcEyMcRMKZJUWvxjoZDlekgX6TY4vNkx2qjCKUVAoMFQozdXgQMSp9fTQVDl2vYT2ewntZ5S5jrYNCEjZ3d0lje8AsQDiNfCwQEw1YZBcicz9U3F8ePpaQotW9pKmis2qKYGeyYicQDxETh1kWDBFPzH1M450/fiFDHTNEYoCAiot9KS8VERIjL4KFTy1OzZR9uT2OpNrihUyzlD1jRD15fSwUEREuKT6Fko1bo3uCZaaSk31bsllYp3UaJB08tLEbIQRQODBAU4n7wYJDiIYcHhz/wm78Y3c+ORU7qpIdEwJsCwUII11/PDeTSB8SPd7qXR3ca7BAMz+VzgQdBQEKI0E+IU1EBwoRUhRhu25eYlvOZJokIhuAhyEMCAUKY2FycGNvMiPHRC1wd6WTesL/QaYTHi1/WxYWEBANjlxghY54X865rT8XbVpQerSC2Fw9CjClUA8kFgQNXCQZNn1tPaVkoVknKhAhOi5WzzwnFW+aDyMOFgYTJgUNImZxH2VdUyAuHhEeJh6OvScEEJy5ahwWHiMwLQgLH1xtHD1RRiYVICYhFAy7kSkLZTPg/+zM2NbbRhQCHlRuCEVVsCgtKwsRHjjmSyM7UrCYaJutY4yaRhsCHFNrAnlr1tOqr0oXC4DDIBFKE8RJIgdHJk8lVCIIImBxBnqDLLOOxOx+SMd3MkVJo64cGBYQSisSaCEgEGKHDIGEKRMiRbD14qUgJnVImCUrExQZEQYLWRNWQDiRKoKFGh4bBjRimmQVhFMZBiEhGQYKBhsQUEtlgTB1SHiOEiAcHRkKPSZFSQcFAyIrEBIhEBMSbHpXeYVuNoKNDAoRGB8qSAY5LQkBDSAlGQYNRBUdPkwmC0EwEZaUDA0ECRpMTShLIgkJEz4dIQouEDEqPDpLVkxIWHyNFAsKDR6AQHVLEAcPJT0QLA4TOQsz",
+          "top": "EBYJDhQQFA8LDx4VRl4atI1kHAcGFSgkVCECAQUKFQ4HFhcSFAkGDhhNc355eme2aC0IDS0lfh4CBQsGDQcFEyEbDggQBg+AhDY2o21EnDYUEkJOs3MVBw8TBQoECRoiFQwMExd1bsmFfJa3aCwVJS6wKd0rEA8cCAkFEyszIhkgIyRSKWgoHioMMQ4gGg96urHrt8DaDQ8JHTkuCAoNDCKgQddqaaunVh4YExAVqa6HZF9JCgsKHDMxGjM4Ni6AkXiUfolulA8ZISQ5jIGZjY6mBAUGFiklGDQnJCkdvEJLF1zSUyMWHCJACmtWNTAoBAQFFC0iHCkJJB8WfGo1T5VfYmkJIyYHJwsMERgfBAUGHTEdIiAIIzISbW0ug0qH0Hs3MRwaDwsQDoh6BAcBGTQ3GA8REjUnfTZua1mzNLE+JzIkIgsTlbq8Bg0TFR4uEgsjSkVUljibV0ZsspkqIj8qFw8Jrat4BAkaGjRDCRY1CBkgVW1kKjVpZQdKMSMLChYNZt6tAQMLMj8SFiw1ShoLBS4WLBAdFVG0m8e6MhYQDW1JJzAVNWVyHUJCco5XEgQcEyMcRMKZJUWvxjoZDlek",
+          "middle": "BAkaGjRDCRY1CBkgVW1kKjVpZQdKMSMLChYNZt6tAQMLMj8SFiw1ShoLBS4WLBAdFVG0m8e6MhYQDW1JJzAVNWVyHUJCco5XEgQcEyMcRMKZJUWvxjoZDlekgX6TY4vNkx2qjCKUVAoMFQozdXgQMSp9fTQVDl2vYT2ewntZ5S5jrYNCEjZ3d0lje8AsQDiNfCwQEw1YZBcicz9U3F8ePpaQotW9pKmis2qKYGeyYicQDxETh1kWDBFPzH1M450/fiFDHTNEYoCAiot9KS8VERIjL4KFTy1OzZR9uT2OpNrihUyzlD1jRD15fSwUEREuKT6Fko1bo3uCZaaSk31bsllYp3UaJB08tLEbIQRQODBAU4n7wYJDiIYcHhz/wm78Y3c+ORU7qpIdEwJsCwUII11/PDeTSB8SPd7qXR3ca7BAMz+VzgQdBQEKI0E+IU1EBwoRUhRhu25eYlvOZJokIhuAhyEMCAUKY2FycGNvMiPHRC1wd6WTesL/QaYTHi1/WxYWEBANjlxghY54X865rT8XbVpQerSC2Fw9CjClUA8kFgQNXCQZNn1tPaVkoVknKhAhOi5WzzwnFW+aDyMOFgYT",
+          "bottom": "I0E+IU1EBwoRUhRhu25eYlvOZJokIhuAhyEMCAUKY2FycGNvMiPHRC1wd6WTesL/QaYTHi1/WxYWEBANjlxghY54X865rT8XbVpQerSC2Fw9CjClUA8kFgQNXCQZNn1tPaVkoVknKhAhOi5WzzwnFW+aDyMOFgYTJgUNImZxH2VdUyAuHhEeJh6OvScEEJy5ahwWHiMwLQgLH1xtHD1RRiYVICYhFAy7kSkLZTPg/+zM2NbbRhQCHlRuCEVVsCgtKwsRHjjmSyM7UrCYaJutY4yaRhsCHFNrAnlr1tOqr0oXC4DDIBFKE8RJIgdHJk8lVCIIImBxBnqDLLOOxOx+SMd3MkVJo64cGBYQSisSaCEgEGKHDIGEKRMiRbD14qUgJnVImCUrExQZEQYLWRNWQDiRKoKFGh4bBjRimmQVhFMZBiEhGQYKBhsQUEtlgTB1SHiOEiAcHRkKPSZFSQcFAyIrEBIhEBMSbHpXeYVuNoKNDAoRGB8qSAY5LQkBDSAlGQYNRBUdPkwmC0EwEZaUDA0ECRpMTShLIgkJEz4dIQouEDEqPDpLVkxIWHyNFAsKDR6AQHVLEAcPJT0QLA4TOQsz"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.923627,
+          "top": 20.240865,
+          "middle": 23.417362,
+          "bottom": 15.813906,
+          "effectiveRatio": 0.477094
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1593
+      },
+      "sha256": "2605cbec3df63fed6063705f0963763f4f31684f92fd28f898b871a8bc635de2",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 스포츠조선 원문 사진을 확인하고 원기자 크레딧·촬영일과 연결했다. 사진 생성·생성형 복원·AI 확대를 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "잠실야구장에서 열린 키움과 LG의 경기. 5회초 무사 1,3루 히우라가 1타점 적시타를 치고 기뻐하고 있다. 잠실=허상욱 기자wook@sportschosun.com/2026.09.08/",
+      "context": {
+        "event": "2026-09-08 KBO 정규시즌 키움 경기",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "people": [
+          {
+            "name": "히우라",
+            "team": "키움히어로즈"
+          }
+        ],
+        "visualNote": "안타뒤히우라가장갑낀손을펴고기뻐하는장면이다.3번스윙컷과다른프레임이다.오른쪽등을보인키움관계자는기사의주요인물로다루지않으며추정실명을붙이지않는다.",
+        "editorialNote": "10월16일 재계약 협상 현장 사진이 아니다. 원문 촬영일대로 자료사진 크레딧을 표시한다."
+      }
+    }
+  ]
+}
