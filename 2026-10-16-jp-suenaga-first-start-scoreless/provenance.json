@@ -1,0 +1,471 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "교토국제 고1 스에나가, 첫 선발부터 6이닝 무실점",
+  "issueKey": "highschool-jp-2026-suenaga-first-start-kyoto-title",
+  "checkedAt": "2026-10-16T11:24:16.591Z",
+  "sourceUrl": "https://npb.jp/bis/players/63165157.html",
+  "corroboratingUrls": [
+    "https://kyoto-kokusai.ed.jp/jp/news/9786",
+    "https://www.hb-nippon.com/articles/18174",
+    "https://news.livedoor.com/article/detail/32522181/",
+    "https://www.jhbf.or.jp/topics/detail/621",
+    "https://npb.jp/bis/players/63165157.html"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://kyoto-kokusai.ed.jp/jp/news/9786",
+      "publishedAt": "2026-10-14",
+      "role": "official-school-current-title-and-next-game",
+      "note": "교토국제추계교토대회5년만2번째우승·결승7-0·10월18일11:30도요대히메지전확인.9월27일8강스코어는타매체와불일치하여원고배제.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.hb-nippon.com/articles/18174",
+      "publishedAt": "2026-10-09",
+      "role": "firsthand-match-interviews",
+      "note": "馬場遼기자10월8일결승직접취재.末永桜雅1학년좌완6IP4H5사사구8K0R공식전첫선발,145km/h자기최고,초반만루위기와수정·4회3연속삼진·감독평가.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/32522181/",
+      "publishedAt": "2026-10-08T20:46:15+09:00",
+      "role": "syndicated-primary-sponichi-report-biographical-background",
+      "note": "스포츠닛폰보도의정식livedoor전재.2011-05-03생후쿠오카출신15세178cm71kg좌투좌타·초5야구시작·이토시마보이스·첫가을등번호11.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://www.jhbf.or.jp/topics/detail/621",
+      "publishedAt": "2026-09-15",
+      "role": "official-next-tournament-schedule",
+      "note": "추계긴키대회10월17일개막·와카사스타디움교토.교토국제의개별18일경기는학교공식이확인.",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://npb.jp/bis/players/63165157.html",
+      "publishedAt": null,
+      "role": "official-school-left-handed-alumnus-background-only",
+      "note": "교토국제출신좌완모리시타류다이(森下瑠大/もりしたりゅうだい)의2022드래프트4위·현요코하마DeNA소속을확인한다.4쪽에실제서술하는같은학교좌완육성계보배경자료이며스에나가개인경력·현재결승·다음경기를이페이지가증명한다고주장하지않는다.",
+      "httpStatus": 200
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "추계 교토대회 우승 뒤 모인 교토국제 선수들",
+      "subject": "추계 교토대회 우승 뒤 모인 교토국제 선수들",
+      "sourcePageUrl": "https://kyoto-kokusai.ed.jp/jp/news/9786",
+      "sourceUrl": "https://kyoto-kokusai.ed.jp/jp/wp/wp-content/uploads/2026/10/YAM_5401-scaled.jpg",
+      "imageCredit": "교토국제학원",
+      "creditDisplay": "사진 · 교토국제학원 (2026년 가을 대회 자료사진)",
+      "photoDate": null,
+      "photoDateLabel": "2026년 가을 대회 자료사진",
+      "checkedAt": "2026-10-16T11:12:40.957Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-suenaga-story\\photos\\photo-89d163f19d08.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:06:49.695Z",
+        "width": 2560,
+        "height": 1821,
+        "bytes": 774060,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.5866315664231425,
+        "entropy": 7.66505619790405,
+        "effectiveDetailRatio": 0.464844,
+        "kind": "source",
+        "coverScale": 0.741,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://kyoto-kokusai.ed.jp/jp/wp/wp-content/uploads/2026/10/YAM_5401-scaled.jpg",
+        "sha256": "89d163f19d0845d4a87c02c8174c2537f2159f5a0d1b701d370d28ba229f11a5",
+        "perceptualHash": "0be5aea31242c29a",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BxgjGhAZCg8CAQMIGAwVAgMCAQUcDRwGAwMBAwstBhoiExETCRECBCEZGQoVEBoGBAYcDBoEAwQCLBMxBhogEBATCA4IIChRBQsFMDQVORw8BB8FAwMqSyQsBhgdFBEYBgoGHFUTMRIQOycOR0wCJx4FBgZQLkQbDysoJSMTChIKHiE2GCIyMBA/VEwxFWUrMzpiPh1PSW4tOTYkIQQsMg4hOSBiIStCGjFLXTdZGFg3SU0oGkKBGR4WGU4vMgtDLFIvIkARJws9DFBAS0RhJhAdJVE+DhoobypnTFEkcUdeEB9bLDVUDkI/CyMtHRQPAwRKRBSNd2pOJ2EJWwFOYxJRK1c9IBtZCV8wJA0JGARAacnFdZ4kOzs/Y0+WKoNNQFU4NSJPHU1VISYGOww+pIcYFs7BJThZMZ1bJZ61Pi1AIEwtF0Q5Uks0LSxTJUo+QSPxvTZJjJpCZXhtYDRKSUApV292JjccOEFiHjdFIWQn5xZpTVMcESN4n15EPihum27AZ05BVSR1EwlEDExgsSFCbFQWDj1iOIYhI2q/mD7PhpdfXSyIFQQ/RDSbdAlEkFEZF1pNV1I1RuaoGCZr1IJ5WhieSjVJQINuIAsylXYJF3NiX1Gd58EdcWQzSDcwWxFSqEMvILpgGBEqXXIadIRHFH7Aej1wglZLIhBUMQ5VejEpPJqREhEhZ2weh1RgV59PHh+QY0xSXTVhEkOreihpQq9hBxA+dVwaoW9BL3qpSjAsN1NSlziLB1+HWUBYl+Y0Gh5CU3kmwJIfMzd+ZAQoKEWFX6ZhD0Fbk3o3jsoqFytdpGd/2zsdLmx/QCouMU48SKIrByo3astTotMbJUaReBiEvykgR2VRSSV1NF9tP5FrBxEjJ7CBlcoSJV6QSQeMuB4iW2hGNS1QWVFyKSgsCBUMbcw3vbQGGEG+bwWF0DI9bnJHKhFZfCGGTnVCGSURfMoj7osaEwSTuTxd31QkRW5mKypyuZ9zXpVrIRQag89D/00jEBNStmZG1mgPV69WLDjDJMcbYXFIDC0Kmbea4RscCBlRwGRNyWoNapRXOgixWqgchUMpUDQftoXZmBAUCRYks5I9v24PZpBXVFmJUK0NgEQ5Sj8g6Hr/dhUWCkcRoaQ7zmAYbX0uaXA7e6YkW3pGEjcacdqVNg4cTYIktES5zh0oVlFBDoUxtH4sQGxhHBIQFTM0CQktiRdYn5HmWxMpVS0fXHCHx6iHYD1JLxcoWT4qCg0wZHdIHUJcEAwaV2R7SZ2+czDfboJEQjVkcz1MFCANJxBhgj9aCRsxKrZl1H9jMidD0JzBjDK3RpoxGwlpqm63noA2GS4HG6Hkk7wSGiEQOM2ySz2LwJ4JCmv3pyiNcPRuVRwQHTCy1lAnJQkdQzIWM6y4i9UWHcOjc5Sv/1m30DsyDD81Kz9HbARMUUFWjGOVsI0tGTf+SMR3sfRxjs0dRU13RR1mc0ViRBIxhY0VVx40GSeU32yMNUR8px8lblQ7Xz53azSIQ0o6",
+          "top": "BxgjGhAZCg8CAQMIGAwVAgMCAQUcDRwGAwMBAwstBhoiExETCRECBCEZGQoVEBoGBAYcDBoEAwQCLBMxBhogEBATCA4IIChRBQsFMDQVORw8BB8FAwMqSyQsBhgdFBEYBgoGHFUTMRIQOycOR0wCJx4FBgZQLkQbDysoJSMTChIKHiE2GCIyMBA/VEwxFWUrMzpiPh1PSW4tOTYkIQQsMg4hOSBiIStCGjFLXTdZGFg3SU0oGkKBGR4WGU4vMgtDLFIvIkARJws9DFBAS0RhJhAdJVE+DhoobypnTFEkcUdeEB9bLDVUDkI/CyMtHRQPAwRKRBSNd2pOJ2EJWwFOYxJRK1c9IBtZCV8wJA0JGARAacnFdZ4kOzs/Y0+WKoNNQFU4NSJPHU1VISYGOww+pIcYFs7BJThZMZ1bJZ61Pi1AIEwtF0Q5Uks0LSxTJUo+QSPxvTZJjJpCZXhtYDRKSUApV292JjccOEFiHjdFIWQn5xZpTVMcESN4n15EPihum27AZ05BVSR1EwlEDExgsSFCbFQWDj1iOIYhI2q/mD7PhpdfXSyIFQQ/RDSbdAlEkFEZF1pNV1I1RuaoGCZr1IJ5",
+          "middle": "OEFiHjdFIWQn5xZpTVMcESN4n15EPihum27AZ05BVSR1EwlEDExgsSFCbFQWDj1iOIYhI2q/mD7PhpdfXSyIFQQ/RDSbdAlEkFEZF1pNV1I1RuaoGCZr1IJ5WhieSjVJQINuIAsylXYJF3NiX1Gd58EdcWQzSDcwWxFSqEMvILpgGBEqXXIadIRHFH7Aej1wglZLIhBUMQ5VejEpPJqREhEhZ2weh1RgV59PHh+QY0xSXTVhEkOreihpQq9hBxA+dVwaoW9BL3qpSjAsN1NSlziLB1+HWUBYl+Y0Gh5CU3kmwJIfMzd+ZAQoKEWFX6ZhD0Fbk3o3jsoqFytdpGd/2zsdLmx/QCouMU48SKIrByo3astTotMbJUaReBiEvykgR2VRSSV1NF9tP5FrBxEjJ7CBlcoSJV6QSQeMuB4iW2hGNS1QWVFyKSgsCBUMbcw3vbQGGEG+bwWF0DI9bnJHKhFZfCGGTnVCGSURfMoj7osaEwSTuTxd31QkRW5mKypyuZ9zXpVrIRQag89D/00jEBNStmZG1mgPV69WLDjDJMcbYXFIDC0Kmbea4RscCBlRwGRNyWoNapRXOgixWqgchUMp",
+          "bottom": "CBUMbcw3vbQGGEG+bwWF0DI9bnJHKhFZfCGGTnVCGSURfMoj7osaEwSTuTxd31QkRW5mKypyuZ9zXpVrIRQag89D/00jEBNStmZG1mgPV69WLDjDJMcbYXFIDC0Kmbea4RscCBlRwGRNyWoNapRXOgixWqgchUMpUDQftoXZmBAUCRYks5I9v24PZpBXVFmJUK0NgEQ5Sj8g6Hr/dhUWCkcRoaQ7zmAYbX0uaXA7e6YkW3pGEjcacdqVNg4cTYIktES5zh0oVlFBDoUxtH4sQGxhHBIQFTM0CQktiRdYn5HmWxMpVS0fXHCHx6iHYD1JLxcoWT4qCg0wZHdIHUJcEAwaV2R7SZ2+czDfboJEQjVkcz1MFCANJxBhgj9aCRsxKrZl1H9jMidD0JzBjDK3RpoxGwlpqm63noA2GS4HG6Hkk7wSGiEQOM2ySz2LwJ4JCmv3pyiNcPRuVRwQHTCy1lAnJQkdQzIWM6y4i9UWHcOjc5Sv/1m30DsyDD81Kz9HbARMUUFWjGOVsI0tGTf+SMR3sfRxjs0dRU13RR1mc0ViRBIxhY0VVx40GSeU32yMNUR8px8lblQ7Xz53azSIQ0o6"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.664397,
+          "top": 21.444878,
+          "middle": 29.742302,
+          "bottom": 31.702129,
+          "effectiveRatio": 0.464844
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 2560,
+        "rawHeight": 1821
+      },
+      "sha256": "89d163f19d0845d4a87c02c8174c2537f2159f5a0d1b701d370d28ba229f11a5",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.7413509060955519
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "교토국제학원 공식 게시 사진",
+        "note": "사용자회신을근거로학교공식실제사진을사용하고원문권리주체·사진시점미상여부를보존했다.촬영자이름은원문에없어추정하지않는다."
+      },
+      "fit": "cover",
+      "captionEvidence": "학교 공식 페이지 원문: 京都国際高校硬式野球部 秋季大会優勝",
+      "context": {
+        "event": "2026년 추계 교토대회",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "visualNote": "우승 뒤 모인 교토국제 선수들이다. 등번호11 선수가 왼편에 서 있으며 얼굴은 보이지 않는다. 팀 실제 장면으로 사용하고 주인공 단독 정면 사진으로 설명하지 않는다.",
+        "editorialNote": "사진에표시한촬영시점/자료사진맥락을보존한다.학교원본2장은촬영일이원문에명시되지않아10월8일로단정하지않는다."
+      }
+    },
+    {
+      "name": "교토 와카사스타디움 경기장 전경",
+      "subject": "교토 와카사스타디움 경기장 전경",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Nishikyogoku_Baseball_Stadium2022.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nishikyogoku_Baseball_Stadium2022.jpg",
+      "imageCredit": "Nryate / Wikimedia Commons · CC BY-SA 4.0",
+      "creditDisplay": "사진 · Nryate / Wikimedia Commons · CC BY-SA 4.0 (2022.07.03 경기장 자료사진)",
+      "photoDate": "2022-07-03",
+      "photoDateLabel": "2022.07.03 경기장 자료사진",
+      "checkedAt": "2026-10-16T11:12:40.957Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-suenaga-story\\photos\\photo-6c143d9d7e0e.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:09:39.235Z",
+        "width": 2048,
+        "height": 1536,
+        "bytes": 462188,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.585160880142427,
+        "entropy": 7.25513571157353,
+        "effectiveDetailRatio": 0.539454,
+        "kind": "source",
+        "coverScale": 0.879,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nishikyogoku_Baseball_Stadium2022.jpg",
+        "sha256": "6c143d9d7e0efe7f05e84826767417afaf00a4f3512169f79605aac90a501777",
+        "perceptualHash": "f7331386f99bf8ec",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgEFCQoMCggHAgUHAQICAgMGBgQFBwkIBgUGBAMCBgYGAQIHCwwLETVHS19WDgMICAcIBwUEBAQEBAMCBgQEBQQDBAkHLnuLd4yMVgYHBQYEAQIDAgECAgMFBAQEBAMDAwEHWnU1IyV8bwoEAQEBAQMBAQECBAUFBQQEBAMBAgMHVWcSERR1ZwoDAAEBAAEDAgICAwICBwYEAQIEAgQJUGkdGSJxVgoDAgIBAQIDAwIDAQICCQgHBwYFAwIGLmpOQkJsMwgEBQQOEAUGBgUEBAQDAQIEBwYLQBMGBi0hGR44EAEBBAgbGgoEAwQFBgUGHRYHAQE6bD8PCDQoFCJAIBwODBQgKhsNCwkEAQEBUFA/IxNqJGwlMUQyIiRMc35ZUVJNSmBTVE5GREM7Oj9baGF7F2hra2pZT1NMVl1eWmBDNlhfY2pobHJ0FhQhSIZ3FDAgCxkhEhsaGzAVCQYQEgoHBQQICw0SLBQXSE5CWTIOEzwdCgUaIC0NGh0OESIWKSskMC4tTjA4PB5DQENMUj0hGxQjPkJGMzM+KCJIOjNCNDZBGEAnCRsNIDIyMiMXCQkRJEIyNUAzJlRQUkpZWFleHRMqDgsFCg0PHhUNDwYJCAURCgolHTMJFRgIDxwLKDwlFRcpDwYRCA0QGBYLCQELFCgVIhQkIRMmJR8qJBsJDgwDIAcNBhUcCSYdAQQTLAUeDwYOGxsuMjoeJyAiJyInFwQDEAkfHR0KCBEvBzATAgcTFxYiGCIlHRYjKSAmLCgqHxoNFxcbBxsIMhkdGRMQEgskLCQLMzI0NSofGA4LERAIGBUeHSU7GhoOHiALEQwNCxAVPD1EQEFERkI6OTIkHRkXBQcRFxkUCwUTDBYXDyAOEA4SEg0JBgoRHiw1Ly0rKjMoGCEdCAoJExAKAggqHBsYGBwbFxMMDBAMFQcGBAcVExkQBwUHAwELAhUbBQQHCB8cHBIiKykMIiYbGyAZExIMBAgJCQQIBQcXBgUTJ0JESkpLOjo+JRoJBAgIDQ0KCAcDAgcGCgwRFRkVT0clHwgMESEzNCcbFgoBAwkBAwMGCAsJBgYHFhsMJlZbZmlpXFxFKSUYFg0EBAUHDQ4JAwQJDg4NBAQBBA4XHCUxOjczMyQZDQYECQYIAgsMCAUEAQUDBAEBAwQGBAIECAoLDgUFBQEBCAwQEwQPCwMCAQcKCwcEAgIDAwEBAwQGCQkLEBALDQ4HDhYGDxELDREMMSomJB4TERMYGxsXEAkFBgcEAwMFBBAaGBAEBxUTHCIkJyomJiouLy81Njg6NigXDQMBAwsLBA0UFg8zBgMEBAwbIR0ZEhESEhMYGiAdFw4OCQsSLjQxID8qCAgEAwgJAQQHFxQQERAPGhIEDggJKwwyMhIcLFweBQYBBAUODwsTFAsDBAUMFAsdGkgmLyYuKiQ6REEZBgsPBgkNDw0OBQwEDAkQHCpBKExNGT8fOigQVRBrBwoQCw8YFAwRHA4FFRccS14SFh8oVlsxGiVuUipD",
+          "top": "AgEFCQoMCggHAgUHAQICAgMGBgQFBwkIBgUGBAMCBgYGAQIHCwwLETVHS19WDgMICAcIBwUEBAQEBAMCBgQEBQQDBAkHLnuLd4yMVgYHBQYEAQIDAgECAgMFBAQEBAMDAwEHWnU1IyV8bwoEAQEBAQMBAQECBAUFBQQEBAMBAgMHVWcSERR1ZwoDAAEBAAEDAgICAwICBwYEAQIEAgQJUGkdGSJxVgoDAgIBAQIDAwIDAQICCQgHBwYFAwIGLmpOQkJsMwgEBQQOEAUGBgUEBAQDAQIEBwYLQBMGBi0hGR44EAEBBAgbGgoEAwQFBgUGHRYHAQE6bD8PCDQoFCJAIBwODBQgKhsNCwkEAQEBUFA/IxNqJGwlMUQyIiRMc35ZUVJNSmBTVE5GREM7Oj9baGF7F2hra2pZT1NMVl1eWmBDNlhfY2pobHJ0FhQhSIZ3FDAgCxkhEhsaGzAVCQYQEgoHBQQICw0SLBQXSE5CWTIOEzwdCgUaIC0NGh0OESIWKSskMC4tTjA4PB5DQENMUj0hGxQjPkJGMzM+KCJIOjNCNDZBGEAnCRsNIDIyMiMXCQkRJEIyNUAzJlRQUkpZWFle",
+          "middle": "LBQXSE5CWTIOEzwdCgUaIC0NGh0OESIWKSskMC4tTjA4PB5DQENMUj0hGxQjPkJGMzM+KCJIOjNCNDZBGEAnCRsNIDIyMiMXCQkRJEIyNUAzJlRQUkpZWFleHRMqDgsFCg0PHhUNDwYJCAURCgolHTMJFRgIDxwLKDwlFRcpDwYRCA0QGBYLCQELFCgVIhQkIRMmJR8qJBsJDgwDIAcNBhUcCSYdAQQTLAUeDwYOGxsuMjoeJyAiJyInFwQDEAkfHR0KCBEvBzATAgcTFxYiGCIlHRYjKSAmLCgqHxoNFxcbBxsIMhkdGRMQEgskLCQLMzI0NSofGA4LERAIGBUeHSU7GhoOHiALEQwNCxAVPD1EQEFERkI6OTIkHRkXBQcRFxkUCwUTDBYXDyAOEA4SEg0JBgoRHiw1Ly0rKjMoGCEdCAoJExAKAggqHBsYGBwbFxMMDBAMFQcGBAcVExkQBwUHAwELAhUbBQQHCB8cHBIiKykMIiYbGyAZExIMBAgJCQQIBQcXBgUTJ0JESkpLOjo+JRoJBAgIDQ0KCAcDAgcGCgwRFRkVT0clHwgMESEzNCcbFgoBAwkBAwMGCAsJBgYH",
+          "bottom": "HBsYGBwbFxMMDBAMFQcGBAcVExkQBwUHAwELAhUbBQQHCB8cHBIiKykMIiYbGyAZExIMBAgJCQQIBQcXBgUTJ0JESkpLOjo+JRoJBAgIDQ0KCAcDAgcGCgwRFRkVT0clHwgMESEzNCcbFgoBAwkBAwMGCAsJBgYHFhsMJlZbZmlpXFxFKSUYFg0EBAUHDQ4JAwQJDg4NBAQBBA4XHCUxOjczMyQZDQYECQYIAgsMCAUEAQUDBAEBAwQGBAIECAoLDgUFBQEBCAwQEwQPCwMCAQcKCwcEAgIDAwEBAwQGCQkLEBALDQ4HDhYGDxELDREMMSomJB4TERMYGxsXEAkFBgcEAwMFBBAaGBAEBxUTHCIkJyomJiouLy81Njg6NigXDQMBAwsLBA0UFg8zBgMEBAwbIR0ZEhESEhMYGiAdFw4OCQsSLjQxID8qCAgEAwgJAQQHFxQQERAPGhIEDggJKwwyMhIcLFweBQYBBAUODwsTFAsDBAUMFAsdGkgmLyYuKiQ6REEZBgsPBgkNDw0OBQwEDAkQHCpBKExNGT8fOigQVRBrBwoQCw8YFAwRHA4FFRccS14SFh8oVlsxGiVuUipD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 41.980782,
+          "top": 38.385779,
+          "middle": 50.897961,
+          "bottom": 32.344872,
+          "effectiveRatio": 0.539454
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 2048,
+        "rawHeight": 1536
+      },
+      "sha256": "6c143d9d7e0efe7f05e84826767417afaf00a4f3512169f79605aac90a501777",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.87890625
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons-license",
+        "author": "Nryate",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Nishikyogoku_Baseball_Stadium2022.jpg",
+        "statement": "원저작자가CC BY-SA4.0으로공개했다.저작자·원문·라이선스·크롭/그라데이션/문안추가를표시하고해당변형카드도동일라이선스로배포한다.",
+        "derivativeLicense": "CC BY-SA 4.0",
+        "modifications": [
+          "4:5 cover crop",
+          "gradient overlay",
+          "Korean text overlay"
+        ]
+      },
+      "fit": "cover",
+      "captionEvidence": "교토 와카사스타디움 경기장 전경 / 2022.07.03 경기장 자료사진",
+      "context": {
+        "event": "학교 또는 실제 경기장 자료사진",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "visualNote": "와카사스타디움 교토의 내야와 관중석을 담은 실제 사진이다. 스에나가가 던진 구장 설명에만 쓰며 사진 속 선수들을2026년교토국제선수로표기하지않는다.",
+        "editorialNote": "사진에표시한촬영시점/자료사진맥락을보존한다.학교원본2장은촬영일이원문에명시되지않아10월8일로단정하지않는다."
+      }
+    },
+    {
+      "name": "추계 교토대회에 입장하는 교토국제 선수들",
+      "subject": "추계 교토대회에 입장하는 교토국제 선수들",
+      "sourcePageUrl": "https://kyoto-kokusai.ed.jp/jp/news/9786",
+      "sourceUrl": "https://kyoto-kokusai.ed.jp/jp/wp/wp-content/uploads/2026/10/YAM_5459-scaled.jpg",
+      "imageCredit": "교토국제학원",
+      "creditDisplay": "사진 · 교토국제학원 (2026년 가을 대회 자료사진)",
+      "photoDate": null,
+      "photoDateLabel": "2026년 가을 대회 자료사진",
+      "checkedAt": "2026-10-16T11:12:40.957Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-suenaga-story\\photos\\photo-9c26dbb0cce2.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:06:52.626Z",
+        "width": 2560,
+        "height": 2013,
+        "bytes": 1159913,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.7270886572118496,
+        "entropy": 7.3542300863191485,
+        "effectiveDetailRatio": 0.53494,
+        "kind": "source",
+        "coverScale": 0.671,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://kyoto-kokusai.ed.jp/jp/wp/wp-content/uploads/2026/10/YAM_5459-scaled.jpg",
+        "sha256": "9c26dbb0cce2698743df8a70e06cba2bf619f490f0edde4c5d896b4ca6f7a6c3",
+        "perceptualHash": "0871871e73655099",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BgkKDA4PDxMTEg4KDRMLBgEEBwgMFSItOD83KCcgBAEFAgcEBgQCCQwKCggGBAwKEBQgMDIqIhIGBwcODQ8PFxcaFA8TEhIUFAwKCwwNDw4UCQwYJSklJSgxHxseGhIXEw4MCQgIBQsNDwcGBAYCDg0NDhMXJS0pEA0HAgQDBwcFAQIFCgcJBAQCAgQDBAIMDBkQGSQUAQYJDAkDAgYMCQULAQUIBwcEDhQgEhgVDBRWS3eMCAkKBQkIBAcGDA4FDAsIAwMgEhQYHBs1SX6MlmdPBwMKDQ4GBAYFDBARCQ8UGSUOQzQucWmZf24zLjE5BgEBAgcQDhEUDw0VJxcoOR4/ZlqNco4uIj0LTBQdBQkNCAsGEwcZOwYrJiooY2VydjgaE05GMkREGUBCFhIFChIoMRUxD1IkaW10clg8EHBAHjIySUESWkY4DBw7GA1BPzUxd2Z8gVZjGiAzKSt2JEk8Pz0PazFQFTQYRSg8hV50aUdLDDdXDyc5J4NhRktCPCAROBVVOxZoYUB/YjwXFj9NJg5TOEJEGaFqSlhARhAvX5YnTXWHUXogJkV4GA2DXXJWWlwlJ6WvNmE9aj95kRgZc3EWOVRWECpCaowsdWQ7fEsOLGqNYTljjyNVIokzEmNGJl9NSWAte09RWWQ3o2BFOEFhl0Z4I4NJSRhZL1hkSLmbmUtIdypgb3w+rlspRmsdSCNNbUh4SllTXEBuK7EbsksvoXhNhLYQbXhpTj9mbks/Ui8+ZwtAFKYhOKU7z0hMc6YcWbIxo5Q2NUleUkogTVgPNz4dfa6xJaQQjoJpoHwtmHlKZVGaMS1AP5MvLjE3HgIHQTjLJbRJcpp3GR0Hdhsicmsli0BPbENwUxwGBAEBZn/cgJZahV04bkI6cxlFQ1AYSzeCjTFwHAIBBAQMSbpEvUAJi3xOK05CXlw4Jk00lE1wbzQ5DQYGAglayjZov1wqM2aUI0kJOj5OFBZWN+FbIjI2GgsBBAYB1sB3fm5qZEhKP00+OiIXMignjStwbBpcGwYFBAc/XX6MMVYpbz8sVFAtJC8hEhshVb1OH2YZFgYGAyouQlNJQVZiPoU3ekBRMQMFBBtMI3xIdToQHAsFCTF2Ok40ChYiIl8ilRNCKw4EBCg9rrWITz4sFhULDUokEjVZXTxMNk0lZTQjISQLBzYquESjITYmEBEbDVRaJiSAWWcUeFMzkQ0tKCYQB00qsaVOLBsLDRUFEVE7QjopVB1jLyNNrCU/HwsmFWslUoc3EAwLBxUVJVECQkAHUiwZChWPjjlRBB4QFV4OKQZHNAoFCAIGNlNATisTM1tQKVyaUC5RHBIPDU0XKSYeWxQIBQYDLBmoRUIjEkt8SJcIVARSGxEDLFoMEiYVWDANBAcKKQnAJFgbIDhHfg86SCBJGw8FOkMqGkQGTEgFBQUGIiCsDVIiEUUlOz8FVSFVGwUNUyNBLk1BNFEZBQQFI15xLlEUDE9pFhcOXAxdFAsxWB9PGUVQLVUTBgULD6wt",
+          "top": "BgkKDA4PDxMTEg4KDRMLBgEEBwgMFSItOD83KCcgBAEFAgcEBgQCCQwKCggGBAwKEBQgMDIqIhIGBwcODQ8PFxcaFA8TEhIUFAwKCwwNDw4UCQwYJSklJSgxHxseGhIXEw4MCQgIBQsNDwcGBAYCDg0NDhMXJS0pEA0HAgQDBwcFAQIFCgcJBAQCAgQDBAIMDBkQGSQUAQYJDAkDAgYMCQULAQUIBwcEDhQgEhgVDBRWS3eMCAkKBQkIBAcGDA4FDAsIAwMgEhQYHBs1SX6MlmdPBwMKDQ4GBAYFDBARCQ8UGSUOQzQucWmZf24zLjE5BgEBAgcQDhEUDw0VJxcoOR4/ZlqNco4uIj0LTBQdBQkNCAsGEwcZOwYrJiooY2VydjgaE05GMkREGUBCFhIFChIoMRUxD1IkaW10clg8EHBAHjIySUESWkY4DBw7GA1BPzUxd2Z8gVZjGiAzKSt2JEk8Pz0PazFQFTQYRSg8hV50aUdLDDdXDyc5J4NhRktCPCAROBVVOxZoYUB/YjwXFj9NJg5TOEJEGaFqSlhARhAvX5YnTXWHUXogJkV4GA2DXXJWWlwlJ6WvNmE9aj95kRgZ",
+          "middle": "FTQYRSg8hV50aUdLDDdXDyc5J4NhRktCPCAROBVVOxZoYUB/YjwXFj9NJg5TOEJEGaFqSlhARhAvX5YnTXWHUXogJkV4GA2DXXJWWlwlJ6WvNmE9aj95kRgZc3EWOVRWECpCaowsdWQ7fEsOLGqNYTljjyNVIokzEmNGJl9NSWAte09RWWQ3o2BFOEFhl0Z4I4NJSRhZL1hkSLmbmUtIdypgb3w+rlspRmsdSCNNbUh4SllTXEBuK7EbsksvoXhNhLYQbXhpTj9mbks/Ui8+ZwtAFKYhOKU7z0hMc6YcWbIxo5Q2NUleUkogTVgPNz4dfa6xJaQQjoJpoHwtmHlKZVGaMS1AP5MvLjE3HgIHQTjLJbRJcpp3GR0Hdhsicmsli0BPbENwUxwGBAEBZn/cgJZahV04bkI6cxlFQ1AYSzeCjTFwHAIBBAQMSbpEvUAJi3xOK05CXlw4Jk00lE1wbzQ5DQYGAglayjZov1wqM2aUI0kJOj5OFBZWN+FbIjI2GgsBBAYB1sB3fm5qZEhKP00+OiIXMignjStwbBpcGwYFBAc/XX6MMVYpbz8sVFAtJC8hEhshVb1OH2YZFgYGAyou",
+          "bottom": "SbpEvUAJi3xOK05CXlw4Jk00lE1wbzQ5DQYGAglayjZov1wqM2aUI0kJOj5OFBZWN+FbIjI2GgsBBAYB1sB3fm5qZEhKP00+OiIXMignjStwbBpcGwYFBAc/XX6MMVYpbz8sVFAtJC8hEhshVb1OH2YZFgYGAyouQlNJQVZiPoU3ekBRMQMFBBtMI3xIdToQHAsFCTF2Ok40ChYiIl8ilRNCKw4EBCg9rrWITz4sFhULDUokEjVZXTxMNk0lZTQjISQLBzYquESjITYmEBEbDVRaJiSAWWcUeFMzkQ0tKCYQB00qsaVOLBsLDRUFEVE7QjopVB1jLyNNrCU/HwsmFWslUoc3EAwLBxUVJVECQkAHUiwZChWPjjlRBB4QFV4OKQZHNAoFCAIGNlNATisTM1tQKVyaUC5RHBIPDU0XKSYeWxQIBQYDLBmoRUIjEkt8SJcIVARSGxEDLFoMEiYVWDANBAcKKQnAJFgbIDhHfg86SCBJGw8FOkMqGkQGTEgFBQUGIiCsDVIiEUUlOz8FVSFVGwUNUyNBLk1BNFEZBQQFI15xLlEUDE9pFhcOXAxdFAsxWB9PGUVQLVUTBgULD6wt"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 44.615946,
+          "top": 46.650679,
+          "middle": 53.427908,
+          "bottom": 39.481273,
+          "effectiveRatio": 0.53494
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 2560,
+        "rawHeight": 2013
+      },
+      "sha256": "9c26dbb0cce2698743df8a70e06cba2bf619f490f0edde4c5d896b4ca6f7a6c3",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.6706408345752608
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 직접 회신: 일본 매체 사진도 사용권 확보했어",
+        "owner": "교토국제학원 공식 게시 사진",
+        "note": "사용자회신을근거로학교공식실제사진을사용하고원문권리주체·사진시점미상여부를보존했다.촬영자이름은원문에없어추정하지않는다."
+      },
+      "fit": "cover",
+      "captionEvidence": "학교 공식 페이지 원문: 秋季京都府大会 選手入場",
+      "context": {
+        "event": "2026년 추계 교토대회",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "visualNote": "교토국제 이름의 팻말을 앞세워 입장하는 선수단이다. 학교 공식 게시물의 실제 가을 대회 사진이며 선수 개별 실명은 추정하지 않는다.",
+        "editorialNote": "사진에표시한촬영시점/자료사진맥락을보존한다.학교원본2장은촬영일이원문에명시되지않아10월8일로단정하지않는다."
+      }
+    },
+    {
+      "name": "교토국제중고교 정문",
+      "subject": "교토국제중고교 정문",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kyoto_International_Junior_and_Senior_High_School.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kyoto_International_Junior_and_Senior_High_School.jpg/1920px-Kyoto_International_Junior_and_Senior_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250913145620",
+      "imageCredit": "L26 / Wikimedia Commons · CC BY-SA 4.0",
+      "creditDisplay": "사진 · L26 / Wikimedia Commons · CC BY-SA 4.0 (2025.09.07 학교 자료사진)",
+      "photoDate": "2025-09-07",
+      "photoDateLabel": "2025.09.07 학교 자료사진",
+      "checkedAt": "2026-10-16T11:21:44.728Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-suenaga-story\\photos\\photo-412f9cd9df20.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:21:03.888Z",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 1286997,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 11.726571370153552,
+        "entropy": 7.8168928530067205,
+        "effectiveDetailRatio": 0.760661,
+        "kind": "source",
+        "coverScale": 0.938,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kyoto_International_Junior_and_Senior_High_School.jpg/1920px-Kyoto_International_Junior_and_Senior_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250913145620",
+        "sha256": "412f9cd9df208429cb593b95c0e4972a6aaefba91ae0edf77d8e2c030eaa3c86",
+        "perceptualHash": "1f3f32b39b1f6fdb",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BAUIDAkEAQMIBQoLCA8Vi8ZHExwWHREtECsYSzctBgcFAQYIBwkKCwwLER6vuCw1Ih0UChMTNi8cFB0WAQUICgsKCwsKCQcGDX+EMSBBOxoWHyIzPxIHEAoEDQwMDAoJBwUCAQADCCeDZU80JgsrNxUHIyoSFgMJDAsJCAUDAQIBAQIMFhN7oUwJFzEqBEEzHQsGFAoVBwMDAwUFAwULDg0dd6O3Xh0eLx0HNiIjGggGBhIcBQIDAwMEBQg+O3DPxZUKSTYSBg8QESMZDAoJEBwSDQUFBAIBB0iyu8GjQlt0WEgTCREICQkDCQcSCxomMgcGBAQDFqezcTkREosrmDUVGgkRDxAbExceHRIYcDcHCAMEHaqWBxIZF1Wscx8WDAwSGioSPy46Cw0JibhxCAsHJbyQFh0ZJjhXKQsGCR8oNyZlRxg8NSkZIF/akiwJa8Q5GBguGiQtDQUPFxwrWmAhHBITEhkmEEpRtZ9vhrs7JBsGJSIMCAQUHE5BOSsTHyUWFCUqTkJSKX6KhHYwFBEOHxkKFgwSGikTJRBWHiU4JBZeWlJeZjFSPEkQDBYRDhMXCyUWECkTLT0LLSswPy9Eb0oTXVoWJDESEAwLOaF+ZQ4QMSI3ESZGNzkfRBRVGxskM0o8Jh8UCwgoqXU/h10WhEAlGS5HUSAPOSE2KCIXOhMwPlpHZFuIZ5V9X0uSnoxcPFgxEwgNIiMQOw8XFxgfJgKEtqzMe2s9JRxyjX5ORx43MB4OFw0QNTkUIygeITSbTy9Wu2VFMiUUTz01Jho0ISMQGC8shD47MjEgIDtoZlJ2cFpAJUM+KCgZHBUyHicVQyxQUX0dSBU4KhdKeWd2OAQJGAoSChEmK0BLGDQcO0Q6dWRPPzRfeGFhYGNWUVhCS1RJTldSSHZUPB8rKDM1h4Ipn20oJCgvMCknJRwZExcaFhMZHCEkUiwRFzUqgYJmWHWjramkoZ+dm6GRjIqDjJWXk4qFWxYgDRwtYBUwQGY9KiMfIR0dIiErIB8fJCQiJzw9RjMzPzASSEk0GAkYICUsKikoLTg4PUE6O0ZLSSYIGjE0R0U0ERIVEw4KCwsEBQIGDA0MDAkICw0JEzsnFhYKFC0tCwcFAgMEBAYIBgkKCQQLCw8SFhkcKgk+Jw46ODQKBAEGBwkJCQsHBQQGBAkEBgYFBgsMDBkaNRIsIwciCgcHBggIBQIFAgUGDgUECAgLBggNDRQTLQohHigWCAcGBwgIHRgECAEIAgYHAggHBQYMDRIMKyYWIx0MBAgGCQodGR0ZBgMDCAYGBwwDCAQHCg8REicWEQ0jBQoMCwYMGRoHBgcFBAcFCwsICQkHCQwRBCMRMgsNBAoNCQUBCAQHAQUCBQYGDQYMDAsFBgUOCSwYPy4GEQoCBQQHCQcEAgEFBwcGDBALDgsKCAcJBhk4Ez4UDQkGAQYJBAcEBQEFCg4JBw0MDgoLCwoKCxc4MSooAQcJBwsDAgAIBAQIEgoOBgIHCQUDCQsMAxANMicW",
+          "top": "BAUIDAkEAQMIBQoLCA8Vi8ZHExwWHREtECsYSzctBgcFAQYIBwkKCwwLER6vuCw1Ih0UChMTNi8cFB0WAQUICgsKCwsKCQcGDX+EMSBBOxoWHyIzPxIHEAoEDQwMDAoJBwUCAQADCCeDZU80JgsrNxUHIyoSFgMJDAsJCAUDAQIBAQIMFhN7oUwJFzEqBEEzHQsGFAoVBwMDAwUFAwULDg0dd6O3Xh0eLx0HNiIjGggGBhIcBQIDAwMEBQg+O3DPxZUKSTYSBg8QESMZDAoJEBwSDQUFBAIBB0iyu8GjQlt0WEgTCREICQkDCQcSCxomMgcGBAQDFqezcTkREosrmDUVGgkRDxAbExceHRIYcDcHCAMEHaqWBxIZF1Wscx8WDAwSGioSPy46Cw0JibhxCAsHJbyQFh0ZJjhXKQsGCR8oNyZlRxg8NSkZIF/akiwJa8Q5GBguGiQtDQUPFxwrWmAhHBITEhkmEEpRtZ9vhrs7JBsGJSIMCAQUHE5BOSsTHyUWFCUqTkJSKX6KhHYwFBEOHxkKFgwSGikTJRBWHiU4JBZeWlJeZjFSPEkQDBYRDhMXCyUWECkTLT0LLSswPy9E",
+          "middle": "EEpRtZ9vhrs7JBsGJSIMCAQUHE5BOSsTHyUWFCUqTkJSKX6KhHYwFBEOHxkKFgwSGikTJRBWHiU4JBZeWlJeZjFSPEkQDBYRDhMXCyUWECkTLT0LLSswPy9Eb0oTXVoWJDESEAwLOaF+ZQ4QMSI3ESZGNzkfRBRVGxskM0o8Jh8UCwgoqXU/h10WhEAlGS5HUSAPOSE2KCIXOhMwPlpHZFuIZ5V9X0uSnoxcPFgxEwgNIiMQOw8XFxgfJgKEtqzMe2s9JRxyjX5ORx43MB4OFw0QNTkUIygeITSbTy9Wu2VFMiUUTz01Jho0ISMQGC8shD47MjEgIDtoZlJ2cFpAJUM+KCgZHBUyHicVQyxQUX0dSBU4KhdKeWd2OAQJGAoSChEmK0BLGDQcO0Q6dWRPPzRfeGFhYGNWUVhCS1RJTldSSHZUPB8rKDM1h4Ipn20oJCgvMCknJRwZExcaFhMZHCEkUiwRFzUqgYJmWHWjramkoZ+dm6GRjIqDjJWXk4qFWxYgDRwtYBUwQGY9KiMfIR0dIiErIB8fJCQiJzw9RjMzPzASSEk0GAkYICUsKikoLTg4PUE6O0ZLSSYIGjE0R0U0",
+          "bottom": "h4Ipn20oJCgvMCknJRwZExcaFhMZHCEkUiwRFzUqgYJmWHWjramkoZ+dm6GRjIqDjJWXk4qFWxYgDRwtYBUwQGY9KiMfIR0dIiErIB8fJCQiJzw9RjMzPzASSEk0GAkYICUsKikoLTg4PUE6O0ZLSSYIGjE0R0U0ERIVEw4KCwsEBQIGDA0MDAkICw0JEzsnFhYKFC0tCwcFAgMEBAYIBgkKCQQLCw8SFhkcKgk+Jw46ODQKBAEGBwkJCQsHBQQGBAkEBgYFBgsMDBkaNRIsIwciCgcHBggIBQIFAgUGDgUECAgLBggNDRQTLQohHigWCAcGBwgIHRgECAEIAgYHAggHBQYMDRIMKyYWIx0MBAgGCQodGR0ZBgMDCAYGBwwDCAQHCg8REicWEQ0jBQoMCwYMGRoHBgcFBAcFCwsICQkHCQwRBCMRMgsNBAoNCQUBCAQHAQUCBQYGDQYMDAsFBgUOCSwYPy4GEQoCBQQHCQcEAgEFBwcGDBALDgsKCAcJBhk4Ez4UDQkGAQYJBAcEBQEFCg4JBw0MDgoLCwoKCxc4MSooAQcJBwsDAgAIBAQIEgoOBgIHCQUDCQsMAxANMicW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 105.324834,
+          "top": 110.315895,
+          "middle": 110.916358,
+          "bottom": 95.292708,
+          "effectiveRatio": 0.760661
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1920,
+        "rawHeight": 1440
+      },
+      "sha256": "412f9cd9df208429cb593b95c0e4972a6aaefba91ae0edf77d8e2c030eaa3c86",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9375
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons-license",
+        "author": "L26",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kyoto_International_Junior_and_Senior_High_School.jpg",
+        "statement": "원저작자가CC BY-SA4.0으로공개했다.저작자·원문·라이선스·크롭/그라데이션/문안추가를표시하고해당변형카드도동일라이선스로배포한다.",
+        "derivativeLicense": "CC BY-SA 4.0",
+        "modifications": [
+          "4:5 cover crop",
+          "gradient overlay",
+          "Korean text overlay"
+        ]
+      },
+      "fit": "cover",
+      "captionEvidence": "교토국제중고교 정문 / 2025.09.07 학교 자료사진",
+      "context": {
+        "event": "학교 또는 실제 경기장 자료사진",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "visualNote": "교토국제중고교의 실제 정문과 한글·일본어 학교 표지가 보인다. 스에나가의 진학 학교 소개 페이지에 배치한다.",
+        "editorialNote": "사진에표시한촬영시점/자료사진맥락을보존한다.학교원본2장은촬영일이원문에명시되지않아10월8일로단정하지않는다."
+      },
+      "officialResolutionEvidence": {
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kyoto_International_Junior_and_Senior_High_School.jpg",
+        "declaredElement": "fullImageLink srcset 2x, 1920px (1920×1440)",
+        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kyoto_International_Junior_and_Senior_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "reason": "기존 upload 원본서버 HTTP429. 같은 Commons 파일 설명 페이지가 직접 제공하는 비생성 다운샘플링 고해상도 URL로 교체."
+      }
+    },
+    {
+      "name": "와카사스타디움 교토 정문",
+      "subject": "와카사스타디움 교토 정문",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Wakasa_Stadium_Kyoto_Entrance.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Wakasa_Stadium_Kyoto_Entrance.jpg/3840px-Wakasa_Stadium_Kyoto_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "imageCredit": "Mr.ちゅらさん / Wikimedia Commons · CC BY-SA 4.0",
+      "creditDisplay": "사진 · Mr.ちゅらさん / Wikimedia Commons · CC BY-SA 4.0 (2024.08.30 경기장 자료사진)",
+      "photoDate": "2024-08-30",
+      "photoDateLabel": "2024.08.30 경기장 자료사진",
+      "checkedAt": "2026-10-16T11:21:44.728Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\jp-suenaga-story\\photos\\photo-88033b1ec913.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:21:07.002Z",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 1842553,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.232170104627946,
+        "entropy": 7.319619671907276,
+        "effectiveDetailRatio": 0.552527,
+        "kind": "source",
+        "coverScale": 0.625,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Wakasa_Stadium_Kyoto_Entrance.jpg/3840px-Wakasa_Stadium_Kyoto_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "sha256": "88033b1ec9132416d9cf80b49b41b92858cb8991f80e19a5ecfa04433a62c872",
+        "perceptualHash": "98720e0e2b323232",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BAMDAgICAQIBAQEBAwQFBAQCAQABAQIBAQEBAQIBAgIBAgIBAQICAQEBAgIDAwMEAgIAAgMBAQECAQECAQEBAQEBAQECAQECAQECAwECAwIAAwEAAQEBAQEBAQMCAQEBAAABAAEAAQECAQECAgECAQEBAQABAQEAAgECAgEAAQEAAAACAQICAgMCAQEBAQECAQECAQEBAQEBAQEAAQEBAgICAwQDBAIBAQEBAQIBAQECAQEBAQIBAQEAAAEBAQEBAgEBAQICAwUCBAQFBgYKBAgLCQwLDQoQEQ0ODg8OGA8QEhIRFBkPEhISERAcHhYRDhAPDwwSEg4PDw8LExENDAwTGiAeDQwPFy0sNC0ZEQ8OERAICRISDxQGKwkOCwsPERcVDhk8Rj9AKjNVQDo7PklMVEFCQkttbXhYUl5eRVpcY0UnHCwQGzcWmJKQk4NjkpSQio5aOYOAdXBuQFtmXlpqTFVtMzd4GBgcID4dHUceLlhrL1xkRmCNTyWIkIYrPyNLJytRZV9SWUBKi0YkPjZnJG8HDTAFgxNbDB8mEyApRyUyFg8WJhctOWwPTJl2MoWRhJrNbjCpgEccJzwcKyEYLCgSNVgeJTBIZxdHVjsPEh43MyNpniYbGyRILy0XDjBEPUldA0MoQ29LOWhISD1cP0NGy0EaDCc7CksrIRhQIBM/NS4oNzkFHxoaGQU/JVwUhZMsFB40OCYtERIgGCYcFQQeQi0mKEU/MBdPKE9aYkFzGgMiRhwpLiYvEBUFDzgkGR06ZU0JJltGOzOTP0EydCYcWRw6NzxOITQdLhAsGx8YaUNjVzkgLCE8IzEMQTsvMkcWVVwGVzsfEA4ZHgoyWUhqPREjMhJJGTEOPSQdNR0RUygxMikcHQomJBQ/PloeKx4KSRUzFiMyUS42GBoiKDMsEAkjGQcMGS0uPz8nGSEoPxs2JEZgJF05IxIGWhUyLS8TCSw3HRNJNVY1DAcjWhVwM0ERZVFsKzgcr1gTER4cOVSUdWR7M1t+TVBQWGMtaHCbm1ZUnxFNaKUkDR9XQ0plXUdHCy9SRTEwLB46HUpWQwcViUh0m1suLDcZCGyYbWt9HCh0UkxKMg0fLhU6MCU7klJQb0EtJh0vQYZ8Zmh5V11jUjYPUxcvckMmIhFGZRIRLgUSLiY7NGAYCwV1UVdRCDwOFi5nXCwLJxtETS4OFBEgBRc3EGdUQUNfQF4lIxMbLEUYWSgnSj8kJywSbmRZPysOKRAtHhEQUCkDCAQEBDJFQyg5OCMsBiZXXz8oLzg9REdOT0U/Pjo4ODg2NzRDV11PMR82S0M8JEVRSDctLzcxJRsaGhkZGBYWFBQYHCAnIiojH0VmPDgnLSoeFQ0IBgYEAwMBAwQDBQoTFxgYFxwwKhMbLyNEPyMVEA0KCQgGBAIBAwQEAwgMEBcaCgocNU5BKTk7GxQQDQoLCAcHBwcICAgJBgcJBwUHBgsRFyhXKDUiHBcODAsHBQMBAQICAgIFCAkJCwoICgwTFxgh",
+          "top": "BAMDAgICAQIBAQEBAwQFBAQCAQABAQIBAQEBAQIBAgIBAgIBAQICAQEBAgIDAwMEAgIAAgMBAQECAQECAQEBAQEBAQECAQECAQECAwECAwIAAwEAAQEBAQEBAQMCAQEBAAABAAEAAQECAQECAgECAQEBAQABAQEAAgECAgEAAQEAAAACAQICAgMCAQEBAQECAQECAQEBAQEBAQEAAQEBAgICAwQDBAIBAQEBAQIBAQECAQEBAQIBAQEAAAEBAQEBAgEBAQICAwUCBAQFBgYKBAgLCQwLDQoQEQ0ODg8OGA8QEhIRFBkPEhISERAcHhYRDhAPDwwSEg4PDw8LExENDAwTGiAeDQwPFy0sNC0ZEQ8OERAICRISDxQGKwkOCwsPERcVDhk8Rj9AKjNVQDo7PklMVEFCQkttbXhYUl5eRVpcY0UnHCwQGzcWmJKQk4NjkpSQio5aOYOAdXBuQFtmXlpqTFVtMzd4GBgcID4dHUceLlhrL1xkRmCNTyWIkIYrPyNLJytRZV9SWUBKi0YkPjZnJG8HDTAFgxNbDB8mEyApRyUyFg8WJhctOWwPTJl2MoWRhJrNbjCpgEccJzwcKyEY",
+          "middle": "GBgcID4dHUceLlhrL1xkRmCNTyWIkIYrPyNLJytRZV9SWUBKi0YkPjZnJG8HDTAFgxNbDB8mEyApRyUyFg8WJhctOWwPTJl2MoWRhJrNbjCpgEccJzwcKyEYLCgSNVgeJTBIZxdHVjsPEh43MyNpniYbGyRILy0XDjBEPUldA0MoQ29LOWhISD1cP0NGy0EaDCc7CksrIRhQIBM/NS4oNzkFHxoaGQU/JVwUhZMsFB40OCYtERIgGCYcFQQeQi0mKEU/MBdPKE9aYkFzGgMiRhwpLiYvEBUFDzgkGR06ZU0JJltGOzOTP0EydCYcWRw6NzxOITQdLhAsGx8YaUNjVzkgLCE8IzEMQTsvMkcWVVwGVzsfEA4ZHgoyWUhqPREjMhJJGTEOPSQdNR0RUygxMikcHQomJBQ/PloeKx4KSRUzFiMyUS42GBoiKDMsEAkjGQcMGS0uPz8nGSEoPxs2JEZgJF05IxIGWhUyLS8TCSw3HRNJNVY1DAcjWhVwM0ERZVFsKzgcr1gTER4cOVSUdWR7M1t+TVBQWGMtaHCbm1ZUnxFNaKUkDR9XQ0plXUdHCy9SRTEwLB46HUpWQwcViUh0",
+          "bottom": "KDMsEAkjGQcMGS0uPz8nGSEoPxs2JEZgJF05IxIGWhUyLS8TCSw3HRNJNVY1DAcjWhVwM0ERZVFsKzgcr1gTER4cOVSUdWR7M1t+TVBQWGMtaHCbm1ZUnxFNaKUkDR9XQ0plXUdHCy9SRTEwLB46HUpWQwcViUh0m1suLDcZCGyYbWt9HCh0UkxKMg0fLhU6MCU7klJQb0EtJh0vQYZ8Zmh5V11jUjYPUxcvckMmIhFGZRIRLgUSLiY7NGAYCwV1UVdRCDwOFi5nXCwLJxtETS4OFBEgBRc3EGdUQUNfQF4lIxMbLEUYWSgnSj8kJywSbmRZPysOKRAtHhEQUCkDCAQEBDJFQyg5OCMsBiZXXz8oLzg9REdOT0U/Pjo4ODg2NzRDV11PMR82S0M8JEVRSDctLzcxJRsaGhkZGBYWFBQYHCAnIiojH0VmPDgnLSoeFQ0IBgYEAwMBAwQDBQoTFxgYFxwwKhMbLyNEPyMVEA0KCQgGBAIBAwQEAwgMEBcaCgocNU5BKTk7GxQQDQoLCAcHBwcICAgJBgcJBwUHBgsRFyhXKDUiHBcODAsHBQMBAQICAgIFCAkJCwoICgwTFxgh"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 43.385668,
+          "top": 35.896138,
+          "middle": 51.030705,
+          "bottom": 46.560315,
+          "effectiveRatio": 0.552527
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 3840,
+        "rawHeight": 2160
+      },
+      "sha256": "88033b1ec9132416d9cf80b49b41b92858cb8991f80e19a5ecfa04433a62c872",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.625
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons-license",
+        "author": "Mr.ちゅらさん",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Wakasa_Stadium_Kyoto_Entrance.jpg",
+        "statement": "원저작자가CC BY-SA4.0으로공개했다.저작자·원문·라이선스·크롭/그라데이션/문안추가를표시하고해당변형카드도동일라이선스로배포한다.",
+        "derivativeLicense": "CC BY-SA 4.0",
+        "modifications": [
+          "4:5 cover crop",
+          "gradient overlay",
+          "Korean text overlay"
+        ]
+      },
+      "fit": "cover",
+      "captionEvidence": "와카사스타디움 교토 정문 / 2024.08.30 경기장 자료사진",
+      "context": {
+        "event": "학교 또는 실제 경기장 자료사진",
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "visualNote": "밤에 촬영한 와카사스타디움 교토의 실제 정문이다. 다음 긴키대회 개최 장소를 보여 주며 예정 경기 당일 장면으로 쓰지 않는다.",
+        "editorialNote": "사진에표시한촬영시점/자료사진맥락을보존한다.학교원본2장은촬영일이원문에명시되지않아10월8일로단정하지않는다."
+      },
+      "officialResolutionEvidence": {
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Wakasa_Stadium_Kyoto_Entrance.jpg",
+        "declaredElement": "Other resolutions link, 3840px (3840×2160)",
+        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Wakasa_Stadium_Kyoto_Entrance.jpg",
+        "reason": "기존 upload 원본서버 HTTP429. 같은 Commons 파일 설명 페이지가 직접 제공하는 비생성 다운샘플링 고해상도 URL로 교체."
+      }
+    }
+  ]
+}
