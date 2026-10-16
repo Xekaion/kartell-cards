@@ -1,0 +1,453 @@
+{
+  "sourceUrl": "https://www.koreabaseball.com/Schedule/GameCenter/Main.aspx?gameDate=20260811&gameId=20260811LGWO0&section=REVIEW",
+  "sourceId": "kbo-gamecenter",
+  "sourceName": "KBO 공식 게임센터",
+  "publishedAt": "2026-08-11T00:00:00+09:00",
+  "slug": "2026-10-16-kbo-kim-jinsung-178-holds-record",
+  "issueKey": "kbo-2026-kim-jinsung-career-178-holds-record",
+  "candidateTitle": "김진성, 178홀드로 KBO 통산 1위 올랐다",
+  "candidateSummary": "LG 김진성이 8월 11일 키움전에서 통산 178번째 홀드를 기록해 KBO 리그 단독 1위에 올랐다.",
+  "corroboratingUrls": [
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12189",
+    "https://www.news1.kr/amp/sports/baseball/6256099",
+    "https://mobile.newsis.com/view/NISX20260812_0003745442",
+    "https://v.daum.net/v/20260812140749084"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/Schedule/GameCenter/Main.aspx?gameDate=20260811&gameId=20260811LGWO0&section=REVIEW",
+      "role": "official-record-game-center",
+      "publishedAt": "2026-08-11"
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12189",
+      "role": "official-season-record-review",
+      "publishedAt": "2026-10-13"
+    },
+    {
+      "url": "https://www.news1.kr/amp/sports/baseball/6256099",
+      "role": "record-game-report-and-quote",
+      "publishedAt": "2026-08-11"
+    },
+    {
+      "url": "https://mobile.newsis.com/view/NISX20260812_0003745442",
+      "role": "career-and-record-context",
+      "publishedAt": "2026-08-12"
+    },
+    {
+      "url": "https://v.daum.net/v/20260812140749084",
+      "role": "record-history-and-game-context",
+      "publishedAt": "2026-08-12"
+    }
+  ],
+  "factNotes": [
+    "KBO 공식 시즌 결산에서 8월 11일 통산 178홀드 단독 1위와 5월 23일 5시즌 연속 두 자릿수 홀드를 확인했다.",
+    "뉴스1과 스포츠동아에서 178번째 홀드 경기의 등판 시점, 투구 내용, LG의 8대3 승리를 대조했다.",
+    "뉴시스에서 NC 시절 첫 홀드와 LG 이적 뒤 연도별 홀드 흐름을 확인했다.",
+    "5장 모두 실제 김진성 경기 사진이며 원문 캡션과 촬영일을 육안 확인했다. 이미지 생성은 0회다."
+  ],
+  "imageCredit": "LG 트윈스 제공 · 뉴스1 · 스타뉴스 · 머니투데이",
+  "photos": [
+    {
+      "sourceUrl": "https://t1.daumcdn.net/news/202608/12/sportsdonga/20260812140750427dqoj.jpg",
+      "sourcePageUrl": "https://v.daum.net/v/20260812140749084",
+      "imageCredit": "스포츠동아 · LG 트윈스 제공",
+      "creditDisplay": "사진 · LG 트윈스 제공 (2026-08-11)",
+      "photoDate": "2026-08-11",
+      "context": "김진성이 통산 178번째 홀드를 기록한 8월 11일 고척 키움전에서 역투하는 장면. 원문 캡션과 인물·팀·촬영일을 육안 확인했다.",
+      "checkedAt": "2026-10-16T01:08:43.153Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T01:08:43.366Z",
+        "width": 1600,
+        "height": 2000,
+        "bytes": 436100,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.9624775888781114,
+        "entropy": 7.215452945383731,
+        "effectiveDetailRatio": 0.586058,
+        "kind": "source",
+        "coverScale": 0.675,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://t1.daumcdn.net/news/202608/12/sportsdonga/20260812140750427dqoj.jpg",
+        "sha256": "98dc27288bc53808ea41ec0333d3cb807d2767d3b2cdf200ecb3d9b783e480de",
+        "perceptualHash": "9d2171b1b72797e4",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "VgUCAQEBAAAFBQUIAQECBAEEAQEBAwEEAgEBAgMCBAIBAwECAQEFBQYIAwcDBAQGDAUBAwEDAQEAAgMCBQEEAwIDBAQGCgkHDB8FBwkXBA0FBQEFAgICBAMCOjo5NTU2OTk7OzxceZRUN0MxHBMdODg1Njg3Nzk5VlhZWVZYWFdRXpqiRTGAWneqqWFpZGFcW11dXWBgGRocHx8eIBk3iWVaVTseK2xaeI5AJiclJSQmJSUlCAkHBwYFCht2HoBdERIlGTpNdhUVDAgIBwgHBwgHBAQEAQICEVMw35pZXV9ff1OcUEUHCgcHCQkKCAcGBAQDAwEEIRjZjFRYRwwZTKp5P28gCgIBBAMFBgYGBQQEBAMEAWFrRyEbTUdnaCMHBmaWGxEFBwcGBQYEBAEAAQICBBBneoQ7TmQZI25tWk5flREIBAIDBAUFAgMDAwMEBwQZKVZ5IUhudWYULVQygl8JBgYEAwUGAwMEBgYFBAIDBiNaNBckJi9bViBEMoMgCQgJCgoIDQsKCQoKCQoLDSRfOxEBQic+NS05GYpKBgYFBAUGFhYSEREVFhkXHjRsORAHIlg6CgstFXt4AwIDBgcFBgcKCwsMCQsNFnVwHQwJDSsxSjg+bGFxPAYGBAIDGBYUEhIUFhYUR4g9EwsLCQE0eiUrVmFBGQEFCQMBCgkJCgwMBwwQSZMnDwkLBxKAZSkvFhcSDQsMDAgICgsKCAoKDQ4XR67KZiQOF1enRTAoHhMICAkFBQkHBAQEAQQCBQInURFtrZdQbrmFCw4MEhMTExMSEhESAwYFBAcGBhNXMFwPKZ2cpaFZIxcSERISERETERENBQYFBwoJDCxyGDNAESxPdk5egCMTEhMUFBUUExUVBAMDBQEBCFtfJkEeCSszShcVlGYHDQ4MDAsODQ0LCAYGCAsLG3AiWT8VIkFdHAoTV38XEA0ODgsLCg8OIyQiISEcRVk9VAgQFS1eVBYSNHwwGBkbFhUQERUWJy8oKCkhSAxYDyMTHCEKTFYcHFU+IiMnIyEjJB8gCQMKDQsbLzkuKRcNDAgRCT49Bjo2CQwKFQ8VEwwNChIQCgskLEAZEgMEBgEGCRg6GCw8CwYDBggGCAkICgwYGRAxOxUKDAoIAwIFCBY8IiQ9EwcDBAUCAgMBAQQHIRczFw8EBwgEBAIDAxA+MRxJIxEMDggNEA0QGBYwCFEmHgsODgwKBgYIDAo0PgxOMQcHAgMIAwEBJi87Ry9HJiYhHxoZEhgfEhwnPQc/MyMiIhwdHhoaDw4oXCVODhEGAQgNBRANBBMcIgMpIhwVFBYWGRcTNjY7Jy8aFBEUDxEVFxcZFxAcLAUmGRQVDAoHBAoCEQ4NCxwPEhQQBBARCwMGFAUROg48KBkMCAIMEwcMIyQjIRcJDgkMBxgHBgcMDgcNJDo1JQ0XDBQTDBURCAkJDBMNBhMRFCo0IxUUHysoLWRUMQsEEBQIDwoaCwkJBgwSHR0IISImNSAkIAUFHCUmOSwKEQYJEBAI",
+          "top": "VgUCAQEBAAAFBQUIAQECBAEEAQEBAwEEAgEBAgMCBAIBAwECAQEFBQYIAwcDBAQGDAUBAwEDAQEAAgMCBQEEAwIDBAQGCgkHDB8FBwkXBA0FBQEFAgICBAMCOjo5NTU2OTk7OzxceZRUN0MxHBMdODg1Njg3Nzk5VlhZWVZYWFdRXpqiRTGAWneqqWFpZGFcW11dXWBgGRocHx8eIBk3iWVaVTseK2xaeI5AJiclJSQmJSUlCAkHBwYFCht2HoBdERIlGTpNdhUVDAgIBwgHBwgHBAQEAQICEVMw35pZXV9ff1OcUEUHCgcHCQkKCAcGBAQDAwEEIRjZjFRYRwwZTKp5P28gCgIBBAMFBgYGBQQEBAMEAWFrRyEbTUdnaCMHBmaWGxEFBwcGBQYEBAEAAQICBBBneoQ7TmQZI25tWk5flREIBAIDBAUFAgMDAwMEBwQZKVZ5IUhudWYULVQygl8JBgYEAwUGAwMEBgYFBAIDBiNaNBckJi9bViBEMoMgCQgJCgoIDQsKCQoKCQoLDSRfOxEBQic+NS05GYpKBgYFBAUGFhYSEREVFhkXHjRsORAHIlg6CgstFXt4AwIDBgcF",
+          "middle": "AwMEBgYFBAIDBiNaNBckJi9bViBEMoMgCQgJCgoIDQsKCQoKCQoLDSRfOxEBQic+NS05GYpKBgYFBAUGFhYSEREVFhkXHjRsORAHIlg6CgstFXt4AwIDBgcFBgcKCwsMCQsNFnVwHQwJDSsxSjg+bGFxPAYGBAIDGBYUEhIUFhYUR4g9EwsLCQE0eiUrVmFBGQEFCQMBCgkJCgwMBwwQSZMnDwkLBxKAZSkvFhcSDQsMDAgICgsKCAoKDQ4XR67KZiQOF1enRTAoHhMICAkFBQkHBAQEAQQCBQInURFtrZdQbrmFCw4MEhMTExMSEhESAwYFBAcGBhNXMFwPKZ2cpaFZIxcSERISERETERENBQYFBwoJDCxyGDNAESxPdk5egCMTEhMUFBUUExUVBAMDBQEBCFtfJkEeCSszShcVlGYHDQ4MDAsODQ0LCAYGCAsLG3AiWT8VIkFdHAoTV38XEA0ODgsLCg8OIyQiISEcRVk9VAgQFS1eVBYSNHwwGBkbFhUQERUWJy8oKCkhSAxYDyMTHCEKTFYcHFU+IiMnIyEjJB8gCQMKDQsbLzkuKRcNDAgRCT49Bjo2CQwKFQ8VEwwN",
+          "bottom": "CAYGCAsLG3AiWT8VIkFdHAoTV38XEA0ODgsLCg8OIyQiISEcRVk9VAgQFS1eVBYSNHwwGBkbFhUQERUWJy8oKCkhSAxYDyMTHCEKTFYcHFU+IiMnIyEjJB8gCQMKDQsbLzkuKRcNDAgRCT49Bjo2CQwKFQ8VEwwNChIQCgskLEAZEgMEBgEGCRg6GCw8CwYDBggGCAkICgwYGRAxOxUKDAoIAwIFCBY8IiQ9EwcDBAUCAgMBAQQHIRczFw8EBwgEBAIDAxA+MRxJIxEMDggNEA0QGBYwCFEmHgsODgwKBgYIDAo0PgxOMQcHAgMIAwEBJi87Ry9HJiYhHxoZEhgfEhwnPQc/MyMiIhwdHhoaDw4oXCVODhEGAQgNBRANBBMcIgMpIhwVFBYWGRcTNjY7Jy8aFBEUDxEVFxcZFxAcLAUmGRQVDAoHBAoCEQ4NCxwPEhQQBBARCwMGFAUROg48KBkMCAIMEwcMIyQjIRcJDgkMBxgHBgcMDgcNJDo1JQ0XDBQTDBURCAkJDBMNBhMRFCo0IxUUHysoLWRUMQsEEBQIDwoaCwkJBgwSHR0IISImNSAkIAUFHCUmOSwKEQYJEBAI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 41.752516,
+          "top": 25.383305,
+          "middle": 38.782079,
+          "bottom": 54.688947,
+          "effectiveRatio": 0.586058
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1600,
+        "rawHeight": 2000
+      },
+      "sha256": "98dc27288bc53808ea41ec0333d3cb807d2767d3b2cdf200ecb3d9b783e480de",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+      "fit": "cover",
+      "visuallyReviewed": true
+    },
+    {
+      "sourceUrl": "https://image.news1.kr/system/photos/2026/4/21/7868464/high.jpg",
+      "sourcePageUrl": "https://www.news1.kr/photos/7868464",
+      "imageCredit": "뉴스1 · 김성진 기자",
+      "creditDisplay": "사진 · 뉴스1 김성진 (2026-04-21)",
+      "photoDate": "2026-04-21",
+      "context": "김진성이 잠실 한화전 6회초 구원 등판해 역투하는 장면. 원문 캡션과 인물·팀·촬영일을 육안 확인했다.",
+      "checkedAt": "2026-10-16T01:08:43.153Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T01:08:43.589Z",
+        "width": 1400,
+        "height": 1812,
+        "bytes": 787200,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.9569083174231072,
+        "entropy": 7.564316068426706,
+        "effectiveDetailRatio": 0.573187,
+        "kind": "source",
+        "coverScale": 0.771,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.news1.kr/system/photos/2026/4/21/7868464/high.jpg",
+        "sha256": "5c89687ca37311867d6a784715975bac21d4fd604d9244b6c54adb83398cdf41",
+        "perceptualHash": "5d395d2596266bc8",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "EE0VNlilfzsdk3tad3cOVn8is0MNLzYnNSNQDXQ0FFQLJYU5qzggIG95ei8NKGmxdQgbDx0rCgUmSUQbCFYbTCaQS6MzDRMOFRcmPBITFSkrMCEUIEAZBjEeBlMYQh5qSGeWIVBgUk5CQFhwQj9WRVZFRV9QPjMWCU8JOjhAMz9fXDYBGhsQHSQ4OiYgLRYfHR4uOUkgDVISRSBPM1VCg1Q7VEY8QkljPTlHTFVLOFxCJk4EEU4cMikaP0akTZ6tHD8dI0VAKiUpDzwpESQhKC4kGUoVIBEmHQxj2UmywxkTCwkYFwsVCAoIBAwPIUAfJUgOJQ8IHDEdlqoSt5YNFB8TMwoZICIjIBIKLEgoNUoMLg4FAhdQVqwdUbSNWi4wIREUGh4aESIJKhIRLFcWKw0BAg0jQqCFI2uOh4FiIhMaBQMgQ1xIDC4ZF0cmIw0CAwoDKCbEXhlCJDKBbDYOAiA1X1KDKRsUNkwLHgkEBAoEAidSrCZJR1ZCgkYMHS8pcD+DVREjXFMgPQUNBQgFBQ4YdmdFkzk9eLQzLBg5fDVchRMaM3g3O0IJDQkHAQgXOj9vS55lfa67EVByXiApjUcbEUtzRC5JBRkHBwQQRhI5rS4IFU+qaFgcGRMIXpM2NRVBbFMrRhAWBQEFOylKm9FkGBo3emFPQxgDIJxtPhULOm0uPz4QFQcKJlFwgmetWzciclxmWScJDF+qKyUeD1xjEkpMEgoFDDSZD15JoTBicwhNOz8tHBykQjQtLBZwYRE9YiAJDU48IDweUpAlrUsvJikpJRxuCQREOTcWc2QbSGwnDy1nRoFIYUNWhWAfLyoVJChAKi4pJCUiI4RwFkl6JAgzZUhkWGxRPEc5O1JHR1E6Di0oNiwKGyyTXxU1cCciSGghVGxDUnwqKTg6K0t3FA8xETVBLSRKYhpQG3oLW3q6rFBGk28ZExMqED5dDiAOQCdAMANcPkgYWjp6QX5ZSDtaxygOFjcZODcQPxwWKmJBVh0xQzghWUxKZXEsbi2abgsNTBk2JgUHFhseMIpud1YFFRwIP2FnXRd3ChOmdRIzJDYhAgMJPQ0jX4leRHUNLB4eJS+RgkVNJRyhwCcgHhoCAQUJUhxORSFGSlA8TTY0JjaVgmsgUTUL3cATEgkEAAULSCEhZHFxhGNRKxwXDEngJGBacoBnE8W7LzoKAQcMLRMLIkRHQUYwCxkED5K+U3qVL3emkxSemLpPDQMKBgQFBQMEAgQAAQQFKuZMaoBnCRJQsJcNdou9MwkKBgYJCAYHCAgGBAIRgNhLY5M7CQUJNLa8Q3S3LwoMERUUFhgYGBodHiAf42BbbX4xIycnMhaCpax/byQwU1NUU1hZWFpXWFiT10I7T2tlYFxbTFdNJj1PZnx/TkVMTEtKTVFMTT18K18aGkgzJRwkESUwJ2wwUVduGRISFAwHDQsPFBNTiSgVFgQWGRMYKjgrHThZL0cuDAgEBAwBCw0ODic0QlEOLRIdLTQrOSAhHhQcJysh",
+          "top": "EE0VNlilfzsdk3tad3cOVn8is0MNLzYnNSNQDXQ0FFQLJYU5qzggIG95ei8NKGmxdQgbDx0rCgUmSUQbCFYbTCaQS6MzDRMOFRcmPBITFSkrMCEUIEAZBjEeBlMYQh5qSGeWIVBgUk5CQFhwQj9WRVZFRV9QPjMWCU8JOjhAMz9fXDYBGhsQHSQ4OiYgLRYfHR4uOUkgDVISRSBPM1VCg1Q7VEY8QkljPTlHTFVLOFxCJk4EEU4cMikaP0akTZ6tHD8dI0VAKiUpDzwpESQhKC4kGUoVIBEmHQxj2UmywxkTCwkYFwsVCAoIBAwPIUAfJUgOJQ8IHDEdlqoSt5YNFB8TMwoZICIjIBIKLEgoNUoMLg4FAhdQVqwdUbSNWi4wIREUGh4aESIJKhIRLFcWKw0BAg0jQqCFI2uOh4FiIhMaBQMgQ1xIDC4ZF0cmIw0CAwoDKCbEXhlCJDKBbDYOAiA1X1KDKRsUNkwLHgkEBAoEAidSrCZJR1ZCgkYMHS8pcD+DVREjXFMgPQUNBQgFBQ4YdmdFkzk9eLQzLBg5fDVchRMaM3g3O0IJDQkHAQgXOj9vS55lfa67EVByXiApjUcb",
+          "middle": "NkwLHgkEBAoEAidSrCZJR1ZCgkYMHS8pcD+DVREjXFMgPQUNBQgFBQ4YdmdFkzk9eLQzLBg5fDVchRMaM3g3O0IJDQkHAQgXOj9vS55lfa67EVByXiApjUcbEUtzRC5JBRkHBwQQRhI5rS4IFU+qaFgcGRMIXpM2NRVBbFMrRhAWBQEFOylKm9FkGBo3emFPQxgDIJxtPhULOm0uPz4QFQcKJlFwgmetWzciclxmWScJDF+qKyUeD1xjEkpMEgoFDDSZD15JoTBicwhNOz8tHBykQjQtLBZwYRE9YiAJDU48IDweUpAlrUsvJikpJRxuCQREOTcWc2QbSGwnDy1nRoFIYUNWhWAfLyoVJChAKi4pJCUiI4RwFkl6JAgzZUhkWGxRPEc5O1JHR1E6Di0oNiwKGyyTXxU1cCciSGghVGxDUnwqKTg6K0t3FA8xETVBLSRKYhpQG3oLW3q6rFBGk28ZExMqED5dDiAOQCdAMANcPkgYWjp6QX5ZSDtaxygOFjcZODcQPxwWKmJBVh0xQzghWUxKZXEsbi2abgsNTBk2JgUHFhseMIpud1YFFRwIP2FnXRd3ChOmdRIzJDYhAgMJ",
+          "bottom": "FA8xETVBLSRKYhpQG3oLW3q6rFBGk28ZExMqED5dDiAOQCdAMANcPkgYWjp6QX5ZSDtaxygOFjcZODcQPxwWKmJBVh0xQzghWUxKZXEsbi2abgsNTBk2JgUHFhseMIpud1YFFRwIP2FnXRd3ChOmdRIzJDYhAgMJPQ0jX4leRHUNLB4eJS+RgkVNJRyhwCcgHhoCAQUJUhxORSFGSlA8TTY0JjaVgmsgUTUL3cATEgkEAAULSCEhZHFxhGNRKxwXDEngJGBacoBnE8W7LzoKAQcMLRMLIkRHQUYwCxkED5K+U3qVL3emkxSemLpPDQMKBgQFBQMEAgQAAQQFKuZMaoBnCRJQsJcNdou9MwkKBgYJCAYHCAgGBAIRgNhLY5M7CQUJNLa8Q3S3LwoMERUUFhgYGBodHiAf42BbbX4xIycnMhaCpax/byQwU1NUU1hZWFpXWFiT10I7T2tlYFxbTFdNJj1PZnx/TkVMTEtKTVFMTT18K18aGkgzJRwkESUwJ2wwUVduGRISFAwHDQsPFBNTiSgVFgQWGRMYKjgrHThZL0cuDAgEBAwBCw0ODic0QlEOLRIdLTQrOSAhHhQcJysh"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 38.351836,
+          "top": 29.437383,
+          "middle": 44.433316,
+          "bottom": 41.604794,
+          "effectiveRatio": 0.573187
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1400,
+        "rawHeight": 1812
+      },
+      "sha256": "5c89687ca37311867d6a784715975bac21d4fd604d9244b6c54adb83398cdf41",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+      "fit": "cover",
+      "visuallyReviewed": true
+    },
+    {
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/04/2026040120415794910_1.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/04/01/2026040120415794910",
+      "imageCredit": "스타뉴스 · 김진경 대기자",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026-04-01)",
+      "photoDate": "2026-04-01",
+      "context": "김진성이 잠실 KIA전 5회초 위기를 삼진으로 막고 반응하는 장면. 원문 캡션과 인물·팀·촬영일을 육안 확인했다.",
+      "checkedAt": "2026-10-16T01:08:43.153Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T01:08:43.799Z",
+        "width": 1200,
+        "height": 1440,
+        "bytes": 1212706,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9070986090494242,
+        "entropy": 7.118790273026207,
+        "effectiveDetailRatio": 0.485643,
+        "kind": "source",
+        "coverScale": 0.938,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/04/2026040120415794910_1.jpg",
+        "sha256": "4987223b3a5b0179ce0a993504a8f4bdc470e19748eb081417cfc29abb1de7c1",
+        "perceptualHash": "1a19163e9e36486a",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CAgLCwkJCwgICwoKCwoKDAsNCwUFBAIBBQMGAwIEBwkJCAgICAkIBwgIBwYEBgIICAUDAQICAQIDBAIDDw8SFRUSFBERFBIREhIKFiMsCxMPDQoJCQkMCQgHDQwNCgwODg8ODw0MCxkvSTFrYhIPDgwODAoLBwUFBgUFAQYKCQkJCAoJDCRrKCokfVIGBgYICQYGCAcIAAIDBAcFBAcDAgIBD15JLx8zXVQFBAABAwMBAgIBBwQEAwYICQgHBgcIEUmmL0B6V0QIBQUGBAQIBgcLBgQCAAIDBwoDAQYRETlkgYdmUwkGBgcGBgQFBwcJBAYEBQcGBAQULDIkGxQuJ1UkLhIFBwYHBQUHBgkKBAQFCAoJHUVJJQ0gLRg+CRwZNR8JCwYIBgMBAQUHCAgHCRVIbCYuLiUsNVg3QFNUTE9PGAwCGCI2NQ8HAwMlNjpXKT0hVz9LN3yJYIY2GSxTbSMXdm1VcEgFCiYrJyMsIEpHDhsGBxJrdEUBGA4IOXOKgV4gIoQ8Cw9aT2VkHRo4Ox4iGRAMKRkXKSEwPy3DaCxAGDqCCDcvXGkiIy0+DxJXNS0vMCs9TRwvBynO5TA6NQpcBQg9OFU4JkAiFjNaUXV9kJeBVSkmH1s1vJdHGzhlAwMJFyA+RDYfJ1RJCFhORVNZSDwpKUqLpyIeVHlZBAMFBgkXICMpFzFKOl9ZZ2EzODATISpyKitLgjocBAQECAcFCkEmFREfDltWUUUnGwwPEhNHg2VrKAwACAIHBQMDMlosMQQMHAsMD3grQxgFBwcMLy0YBAUECAcFAQYBQ1cRQBUSCwsSLk5jGQwDBgECCgwMBgoJDQwFAgQXWC8UDh4RBhQkEEZoLAoGAgMHBQQBBgQFBAcFAQI4YBwjFRwEBhsXCARCWiQMCAYEAwIEAgMAAwQCBQU1aRkyQxMoKCQGBxEHPlJQGQgBAwUCBAoFBAYDAwxRbBAMPGsgJEQsCw8TFCVQeyQJBQYHGC0HAQMFBBd1TwkFBjhIOxssMiQGFAcWW3sbFRcdTnBCBgEEBDJ1LhQEDi9KRT5KO09CLT00GV47LSgzVCNYGBsbGj5dXD9AN4pnPBdQdFsmJTxeRDsPESAZP2YXHRweGDQskHBtXkMiLEo1EWRATUNgW0EyOTUnGhgWAQcCDg93RVYtLQ0IBRIiNwhiPB8eQR4WDAoREhglFRcdHzY+OEE9AwMLFxsYIDMUGBclEA0EBwIPGSgtNj43QiAWIhU4JzE2OjE4PyQJIQUUCwwRDxUUEAcHMisxK0ATJ0FPQkc8Rm4RPjowFwMSDAUGEA4EBgsCBQcWbSFSRDIbKB0UVHVAeTITDwwFBAoGBgUIBAUFFxYvQJ1XJiQgDwkLHHZ/Zx8WCwkBCAkUDgwRERQQHg80RFlKKBEPGBEGDCNIElE9FxYYGykiFR0ZAwMIGB8yJEosBgYCCxItNkVFZk8kIhADCQQSDhIdIRYSGh8cCx0NHRgcHyUvIC0uFAoiJCYlIywoHSAdDQUE",
+          "top": "CAgLCwkJCwgICwoKCwoKDAsNCwUFBAIBBQMGAwIEBwkJCAgICAkIBwgIBwYEBgIICAUDAQICAQIDBAIDDw8SFRUSFBERFBIREhIKFiMsCxMPDQoJCQkMCQgHDQwNCgwODg8ODw0MCxkvSTFrYhIPDgwODAoLBwUFBgUFAQYKCQkJCAoJDCRrKCokfVIGBgYICQYGCAcIAAIDBAcFBAcDAgIBD15JLx8zXVQFBAABAwMBAgIBBwQEAwYICQgHBgcIEUmmL0B6V0QIBQUGBAQIBgcLBgQCAAIDBwoDAQYRETlkgYdmUwkGBgcGBgQFBwcJBAYEBQcGBAQULDIkGxQuJ1UkLhIFBwYHBQUHBgkKBAQFCAoJHUVJJQ0gLRg+CRwZNR8JCwYIBgMBAQUHCAgHCRVIbCYuLiUsNVg3QFNUTE9PGAwCGCI2NQ8HAwMlNjpXKT0hVz9LN3yJYIY2GSxTbSMXdm1VcEgFCiYrJyMsIEpHDhsGBxJrdEUBGA4IOXOKgV4gIoQ8Cw9aT2VkHRo4Ox4iGRAMKRkXKSEwPy3DaCxAGDqCCDcvXGkiIy0+DxJXNS0vMCs9TRwvBynO5TA6NQpc",
+          "middle": "CiYrJyMsIEpHDhsGBxJrdEUBGA4IOXOKgV4gIoQ8Cw9aT2VkHRo4Ox4iGRAMKRkXKSEwPy3DaCxAGDqCCDcvXGkiIy0+DxJXNS0vMCs9TRwvBynO5TA6NQpcBQg9OFU4JkAiFjNaUXV9kJeBVSkmH1s1vJdHGzhlAwMJFyA+RDYfJ1RJCFhORVNZSDwpKUqLpyIeVHlZBAMFBgkXICMpFzFKOl9ZZ2EzODATISpyKitLgjocBAQECAcFCkEmFREfDltWUUUnGwwPEhNHg2VrKAwACAIHBQMDMlosMQQMHAsMD3grQxgFBwcMLy0YBAUECAcFAQYBQ1cRQBUSCwsSLk5jGQwDBgECCgwMBgoJDQwFAgQXWC8UDh4RBhQkEEZoLAoGAgMHBQQBBgQFBAcFAQI4YBwjFRwEBhsXCARCWiQMCAYEAwIEAgMAAwQCBQU1aRkyQxMoKCQGBxEHPlJQGQgBAwUCBAoFBAYDAwxRbBAMPGsgJEQsCw8TFCVQeyQJBQYHGC0HAQMFBBd1TwkFBjhIOxssMiQGFAcWW3sbFRcdTnBCBgEEBDJ1LhQEDi9KRT5KO09CLT00GV47LSgzVCNY",
+          "bottom": "AwQCBQU1aRkyQxMoKCQGBxEHPlJQGQgBAwUCBAoFBAYDAwxRbBAMPGsgJEQsCw8TFCVQeyQJBQYHGC0HAQMFBBd1TwkFBjhIOxssMiQGFAcWW3sbFRcdTnBCBgEEBDJ1LhQEDi9KRT5KO09CLT00GV47LSgzVCNYGBsbGj5dXD9AN4pnPBdQdFsmJTxeRDsPESAZP2YXHRweGDQskHBtXkMiLEo1EWRATUNgW0EyOTUnGhgWAQcCDg93RVYtLQ0IBRIiNwhiPB8eQR4WDAoREhglFRcdHzY+OEE9AwMLFxsYIDMUGBclEA0EBwIPGSgtNj43QiAWIhU4JzE2OjE4PyQJIQUUCwwRDxUUEAcHMisxK0ATJ0FPQkc8Rm4RPjowFwMSDAUGEA4EBgsCBQcWbSFSRDIbKB0UVHVAeTITDwwFBAoGBgUIBAUFFxYvQJ1XJiQgDwkLHHZ/Zx8WCwkBCAkUDgwRERQQHg80RFlKKBEPGBEGDCNIElE9FxYYGykiFR0ZAwMIGB8yJEosBgYCCxItNkVFZk8kIhADCQQSDhIdIRYSGh8cCx0NHRgcHyUvIC0uFAoiJCYlIywoHSAdDQUE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.094184,
+          "top": 22.145621,
+          "middle": 31.942927,
+          "bottom": 30.108934,
+          "effectiveRatio": 0.485643
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1440
+      },
+      "sha256": "4987223b3a5b0179ce0a993504a8f4bdc470e19748eb081417cfc29abb1de7c1",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+      "fit": "cover",
+      "visuallyReviewed": true
+    },
+    {
+      "sourceUrl": "https://thumb.mt.co.kr/21/2026/04/2026041621391385434_1.jpg",
+      "sourcePageUrl": "https://www.mt.co.kr/sports/2026/04/16/2026041621391385434",
+      "imageCredit": "머니투데이 · 김진경 대기자",
+      "creditDisplay": "사진 · 머니투데이 김진경 (2026-04-16)",
+      "photoDate": "2026-04-16",
+      "context": "김진성이 잠실 롯데전에서 역투하는 장면. 원문 캡션과 인물·팀·촬영일을 육안 확인했다.",
+      "checkedAt": "2026-10-16T01:08:43.153Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T01:08:44.130Z",
+        "width": 1200,
+        "height": 1803,
+        "bytes": 2108711,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.5009654896776221,
+        "entropy": 6.77557831006834,
+        "effectiveDetailRatio": 0.488754,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.mt.co.kr/21/2026/04/2026041621391385434_1.jpg",
+        "sha256": "ad6b700a42fcbc0dd20e79bcae5e40311b6d480efebda15a395bb382e72608dc",
+        "perceptualHash": "192626160e0ecf49",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BgMBAQEEBAQCBAQDBAMIIXtGWIYyYI13MQsEAQIBAQIEAQEBBQUCAQMEAQICHjtKZIh1KBM9GgMBAQMCBQQEBAADAQEEAwICAwIGFS4vJSxNQDkdBwgJCAYJAQEEBgMEBgYICAYHCAoLDxIONx85MhoRCQYHCAMECwwPDQ0PDQoKCAgGCQgEOGtmRTt2TyQIBAcHBwYGCgkKCQYFCAwNDgsSHxY4n3BfeCQleVAREA8NEQ8KDw4QEREPEQ4PDwkeRVd/VQIJUEBYLIgrDQQFCAkJBQUHCg0MDQkGCQpAQGufYEFfK0sDK0BrHgkFCAYDCw0NDhENCQwJChdHKjqkdXuUTDFzPIArBgQCAgIDBQMFBAUJBwgHBg4+GiRCl1VfaocyYT4RAwIDAwIBEhISFBYQDhENDiA3Jg0+LiE+gBmNGScWBgQDAgEDCAgICgwJCwkIChJLSE92elJXNTUTMlMcBwcIBwgHAQIEBAQFBQUFBxVVaCdQQxMXKzdBUBgOBwoKCgsOBQcIBgUGBggHCTw/fltgMDMjCBwICQcJBwgICgoJBAUEAQIFBAIDATBBC3JfBC0tPTIrDgQEAgECBAQEAQIEAgMGCgkHDzszFxgZRi0YLys1BgUCAQIDAgMFAwQFAgQFAgMFIUUTCBJKLQgnLzNECAQFBQUEBAUBBAYDAQQGCAcHEkBNWns/MVkuMz9DAgUEBAUFBggJBAECBAYEBQQDBQszfJwjN0qkL01lEAYGCQkJCQoHAwQDAwMCAQIBASBDuYGZZLZjJjtUNgoHCgoPEA8PBQgFCAUEAgEFBCRLjL1SW3QtTQYlPwkICgkGBAcECQUICAYJCg8LCTNcIQ4jNA83QD9HMAYFCAkMDAsNCAgIBAgIDAwSFi9MHBJFFRFhHhlsEAQDAQMIDAkMAwYICgsJCwoLDCQuH0kvBks2L2s9FQ4MCwgMDAUCDAoEBgQGBwUBBBUqR0sOL1wqPlAVDg8NDAoKBAsHBAsGBw0NBgkIBQtDYyIaWAohYwkFBQICBggIDggFBgMFAgYODw4KCApNYhQ6MSpPFAsKBgcICAQECQ0LCwkMDAwLEAwHCwdMZwRBEgdqNRIJCgwKDQwOBQYEBQICAgYEAQYFAgFLagRGDUM0i0BQMAoEBggKCwkKAQIGCAUCAwQGBAlEcARFCEwiJVhsfDYDBAQEAwIDCgoNBwsICQsMDAtJaAtOMm1gHDQhZ1oMAwQGBAYFAgEEBAIEBwsXGhxYbBw8UEZhMBIaRT8VERMMDQkJFBEUEBkfISotKytHRy8pH0o2K0kzRj0UDw8VGBgZBQEFCBELCA0JDBQ3ODg1CxkQMBm4fRgcDA0RCgQECQcPESEtOUJLTl1jNUIhIzk8H5JwmVwVBQcGDhUQFxcOCg4XKTg0LDWbVU9AMjMgQzF+X0crLjYyMSMaBA0VFxwVFRAZJD+OPk06GBcbDCAmIyEZEw0TDAcNBgcPFyAhHRMVDjhxLlM9DQsCBAIGAQsUIiQpMywr",
+          "top": "BgMBAQEEBAQCBAQDBAMIIXtGWIYyYI13MQsEAQIBAQIEAQEBBQUCAQMEAQICHjtKZIh1KBM9GgMBAQMCBQQEBAADAQEEAwICAwIGFS4vJSxNQDkdBwgJCAYJAQEEBgMEBgYICAYHCAoLDxIONx85MhoRCQYHCAMECwwPDQ0PDQoKCAgGCQgEOGtmRTt2TyQIBAcHBwYGCgkKCQYFCAwNDgsSHxY4n3BfeCQleVAREA8NEQ8KDw4QEREPEQ4PDwkeRVd/VQIJUEBYLIgrDQQFCAkJBQUHCg0MDQkGCQpAQGufYEFfK0sDK0BrHgkFCAYDCw0NDhENCQwJChdHKjqkdXuUTDFzPIArBgQCAgIDBQMFBAUJBwgHBg4+GiRCl1VfaocyYT4RAwIDAwIBEhISFBYQDhENDiA3Jg0+LiE+gBmNGScWBgQDAgEDCAgICgwJCwkIChJLSE92elJXNTUTMlMcBwcIBwgHAQIEBAQFBQUFBxVVaCdQQxMXKzdBUBgOBwoKCgsOBQcIBgUGBggHCTw/fltgMDMjCBwICQcJBwgICgoJBAUEAQIFBAIDATBBC3JfBC0tPTIrDgQEAgECBAQE",
+          "middle": "AQIEBAQFBQUFBxVVaCdQQxMXKzdBUBgOBwoKCgsOBQcIBgUGBggHCTw/fltgMDMjCBwICQcJBwgICgoJBAUEAQIFBAIDATBBC3JfBC0tPTIrDgQEAgECBAQEAQIEAgMGCgkHDzszFxgZRi0YLys1BgUCAQIDAgMFAwQFAgQFAgMFIUUTCBJKLQgnLzNECAQFBQUEBAUBBAYDAQQGCAcHEkBNWns/MVkuMz9DAgUEBAUFBggJBAECBAYEBQQDBQszfJwjN0qkL01lEAYGCQkJCQoHAwQDAwMCAQIBASBDuYGZZLZjJjtUNgoHCgoPEA8PBQgFCAUEAgEFBCRLjL1SW3QtTQYlPwkICgkGBAcECQUICAYJCg8LCTNcIQ4jNA83QD9HMAYFCAkMDAsNCAgIBAgIDAwSFi9MHBJFFRFhHhlsEAQDAQMIDAkMAwYICgsJCwoLDCQuH0kvBks2L2s9FQ4MCwgMDAUCDAoEBgQGBwUBBBUqR0sOL1wqPlAVDg8NDAoKBAsHBAsGBw0NBgkIBQtDYyIaWAohYwkFBQICBggIDggFBgMFAgYODw4KCApNYhQ6MSpPFAsKBgcICAQECQ0L",
+          "bottom": "AwYICgsJCwoLDCQuH0kvBks2L2s9FQ4MCwgMDAUCDAoEBgQGBwUBBBUqR0sOL1wqPlAVDg8NDAoKBAsHBAsGBw0NBgkIBQtDYyIaWAohYwkFBQICBggIDggFBgMFAgYODw4KCApNYhQ6MSpPFAsKBgcICAQECQ0LCwkMDAwLEAwHCwdMZwRBEgdqNRIJCgwKDQwOBQYEBQICAgYEAQYFAgFLagRGDUM0i0BQMAoEBggKCwkKAQIGCAUCAwQGBAlEcARFCEwiJVhsfDYDBAQEAwIDCgoNBwsICQsMDAtJaAtOMm1gHDQhZ1oMAwQGBAYFAgEEBAIEBwsXGhxYbBw8UEZhMBIaRT8VERMMDQkJFBEUEBkfISotKytHRy8pH0o2K0kzRj0UDw8VGBgZBQEFCBELCA0JDBQ3ODg1CxkQMBm4fRgcDA0RCgQECQcPESEtOUJLTl1jNUIhIzk8H5JwmVwVBQcGDhUQFxcOCg4XKTg0LDWbVU9AMjMgQzF+X0crLjYyMSMaBA0VFxwVFRAZJD+OPk06GBcbDCAmIyEZEw0TDAcNBgcPFyAhHRMVDjhxLlM9DQsCBAIGAQsUIiQpMywr"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.481912,
+          "top": 16.966354,
+          "middle": 21.026817,
+          "bottom": 24.21321,
+          "effectiveRatio": 0.488754
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1803
+      },
+      "sha256": "ad6b700a42fcbc0dd20e79bcae5e40311b6d480efebda15a395bb382e72608dc",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+      "fit": "cover",
+      "visuallyReviewed": true
+    },
+    {
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/03/2026032315264074646_1.jpg",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/03/23/2026032315264074646",
+      "imageCredit": "스타뉴스 · 김진경 대기자",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026-03-23)",
+      "photoDate": "2026-03-23",
+      "context": "김진성이 잠실 키움과의 시범경기에서 역투하는 장면. 원문 캡션과 인물·팀·촬영일을 육안 확인했다.",
+      "checkedAt": "2026-10-16T01:08:43.153Z",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T01:08:44.357Z",
+        "width": 1200,
+        "height": 1912,
+        "bytes": 1392324,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6966915056645822,
+        "entropy": 6.559382436593296,
+        "effectiveDetailRatio": 0.484421,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/03/2026032315264074646_1.jpg",
+        "sha256": "f06320c399984c8c57a49f587c84028318601659ff4e97cea95a05be216bc798",
+        "perceptualHash": "37c9f971f12d1a1a",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CgsNDREERAMyAgcHBQYFBQUEAQgFAgQEAwIHCUG2BQcICRQhUCk0EwYDAgIBAQECAxwUAwQHBgYGCUeeBQMBBBE4PmUiHxIFAQQEBAUHTHxJNAQCAQQGEEOLBAQAAhBLEl8/KCIVBwQAAQZawnRpbUILBwkKDy5fBAQBAwdFRSgrQisZFwsFCS2gZy1IRWkuAgQDAzdVBQAFBQUXRi8LHkc4AhEYFCVoYCgjS2YvBgQDCEg/AgMDBwsDIjIuBhU5MhoVIURxPCk0W4MWBgMBDCscAgQCAgQEBg4yMQgQHypBImpuFzgygjkGBQMBEi0HAwQFBQgEBwoJKSIHIi4lNlcyDx1ZVgsEBAcGECkUBAMHCgwNERQSDhomRTkZEjk2LWdlCQQEBwYDExkoCAcGBwgEBQMGBg1ESDRcHyxHRWYtGgkOCg4SHBQ3Cw0PERMTFhQZEiExSyFReEUfKkoGMgkIDxIRRgMfBgQHBQkKChASISAKS2QaSJBrIkNzDy0cFRQzHSgfAQYBAQEFAggLKBkHDk5sNSiGdBNAPSUQGx8mTi8mBgQBAAMDAwQYKgsKCgk6WiYmWFEwHyQwFxQVHBgRAgIDBAQBAgQcKAcJBQ4pSlA4WkwcDBsuDAkLCQYIAQIBAwMBAgUXLQoICg9QfU83dT8nDygjDAQEBAEBCAcHCAgHBwYOLxgMDRlxbRZbejErODUbBAcIBgMFBAICAgEDAwMKLycJBj97RheYiigUSToEBAEBAwYCAAICAgICAQYpPRMOBjllUUWIMEg2Py4GAQIDAQECCgoJCwkHCAkZPyQ1ODpJQklHCyBETigYGBwaGRoWIyQlKCgnJiQ0OD4pJHVMFENrTUNMFhAhIiEhJSEdDQ4QExMYGx0lQhUycVg+ZHJPMCcNBQkLBQEEBAYJCQkNDgkHCAYOD0AWJmNsSVolJRgTDAsABgcJCwkEDwwNCQsGAwUIBAoIGhAmOEgJPiYQFBIQDQ4KBQYGExIOEQ4KBAUHCA0PCh4WJzAfQxwCAggPEA8QEA0JAQcCBgQJBwQHDggNDBUIHiYpLRMIDQ4HBQUCAgsIBgYDAQQICAkHCQMPDhgZLhklFAYEBQQJCQgHDAcCAQEEAgcDCAQFBgQQDykqMiMXFAoFBgYEAgQCBAwKBgMDCQcCBgsGBggEER8yDTgWBgcFBwICBQMEAgMGAgUDBAMDAQMCBwQJEBImETMJAwQDAgEGAQYGAgIBBAEEAwgDBgMEAgYHCxMtCTkRAgQBBAQEBAUBBAIBBAcGBgoKBwsEBQcHERwfHTMaAQQIAQYEAAcKBgEHAQUHBQoFCQoJCgoREhYIGyUsCQcbMyUKCAkMBgEGExQRFxUYGh8mLTErChQOFg47HhkqHS4fDgYFDREJFxMPFxQNDQ4ODQkhGAURKIVoHxgHHRAUDAkEChEIAwURFxAcFhYlMCwiCgoiXsHigAsQEhAIBwQJCxEICA0PGw0JEw4OCQkEEhczarVqwx4IChMXIR0RFCcW",
+          "top": "CgsNDREERAMyAgcHBQYFBQUEAQgFAgQEAwIHCUG2BQcICRQhUCk0EwYDAgIBAQECAxwUAwQHBgYGCUeeBQMBBBE4PmUiHxIFAQQEBAUHTHxJNAQCAQQGEEOLBAQAAhBLEl8/KCIVBwQAAQZawnRpbUILBwkKDy5fBAQBAwdFRSgrQisZFwsFCS2gZy1IRWkuAgQDAzdVBQAFBQUXRi8LHkc4AhEYFCVoYCgjS2YvBgQDCEg/AgMDBwsDIjIuBhU5MhoVIURxPCk0W4MWBgMBDCscAgQCAgQEBg4yMQgQHypBImpuFzgygjkGBQMBEi0HAwQFBQgEBwoJKSIHIi4lNlcyDx1ZVgsEBAcGECkUBAMHCgwNERQSDhomRTkZEjk2LWdlCQQEBwYDExkoCAcGBwgEBQMGBg1ESDRcHyxHRWYtGgkOCg4SHBQ3Cw0PERMTFhQZEiExSyFReEUfKkoGMgkIDxIRRgMfBgQHBQkKChASISAKS2QaSJBrIkNzDy0cFRQzHSgfAQYBAQEFAggLKBkHDk5sNSiGdBNAPSUQGx8mTi8mBgQBAAMDAwQYKgsKCgk6WiYmWFEwHyQwFxQVHBgR",
+          "middle": "BgQHBQkKChASISAKS2QaSJBrIkNzDy0cFRQzHSgfAQYBAQEFAggLKBkHDk5sNSiGdBNAPSUQGx8mTi8mBgQBAAMDAwQYKgsKCgk6WiYmWFEwHyQwFxQVHBgRAgIDBAQBAgQcKAcJBQ4pSlA4WkwcDBsuDAkLCQYIAQIBAwMBAgUXLQoICg9QfU83dT8nDygjDAQEBAEBCAcHCAgHBwYOLxgMDRlxbRZbejErODUbBAcIBgMFBAICAgEDAwMKLycJBj97RheYiigUSToEBAEBAwYCAAICAgICAQYpPRMOBjllUUWIMEg2Py4GAQIDAQECCgoJCwkHCAkZPyQ1ODpJQklHCyBETigYGBwaGRoWIyQlKCgnJiQ0OD4pJHVMFENrTUNMFhAhIiEhJSEdDQ4QExMYGx0lQhUycVg+ZHJPMCcNBQkLBQEEBAYJCQkNDgkHCAYOD0AWJmNsSVolJRgTDAsABgcJCwkEDwwNCQsGAwUIBAoIGhAmOEgJPiYQFBIQDQ4KBQYGExIOEQ4KBAUHCA0PCh4WJzAfQxwCAggPEA8QEA0JAQcCBgQJBwQHDggNDBUIHiYpLRMIDQ4HBQUCAgsI",
+          "bottom": "CQkNDgkHCAYOD0AWJmNsSVolJRgTDAsABgcJCwkEDwwNCQsGAwUIBAoIGhAmOEgJPiYQFBIQDQ4KBQYGExIOEQ4KBAUHCA0PCh4WJzAfQxwCAggPEA8QEA0JAQcCBgQJBwQHDggNDBUIHiYpLRMIDQ4HBQUCAgsIBgYDAQQICAkHCQMPDhgZLhklFAYEBQQJCQgHDAcCAQEEAgcDCAQFBgQQDykqMiMXFAoFBgYEAgQCBAwKBgMDCQcCBgsGBggEER8yDTgWBgcFBwICBQMEAgMGAgUDBAMDAQMCBwQJEBImETMJAwQDAgEGAQYGAgIBBAEEAwgDBgMEAgYHCxMtCTkRAgQBBAQEBAUBBAIBBAcGBgoKBwsEBQcHERwfHTMaAQQIAQYEAAcKBgEHAQUHBQoFCQoJCgoREhYIGyUsCQcbMyUKCAkMBgEGExQRFxUYGh8mLTErChQOFg47HhkqHS4fDgYFDREJFxMPFxQNDQ4ODQkhGAURKIVoHxgHHRAUDAkEChEIAwURFxAcFhYlMCwiCgoiXsHigAsQEhAIBwQJCxEICA0PGw0JEw4OCQkEEhczarVqwx4IChMXIR0RFCcW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.449707,
+          "top": 20.989555,
+          "middle": 25.249607,
+          "bottom": 23.120798,
+          "effectiveRatio": 0.484421
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1912
+      },
+      "sha256": "f06320c399984c8c57a49f587c84028318601659ff4e97cea95a05be216bc798",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+      "fit": "cover",
+      "visuallyReviewed": true
+    }
+  ],
+  "content": {
+    "layout": "kbo_news_photo",
+    "storyFormat": "news_brief",
+    "eyebrow": "KBO · LG 트윈스",
+    "headline": "김진성, 178홀드로 KBO 통산 1위 올랐다",
+    "deck": "12년 만에 바뀐 통산 홀드 선두와 5시즌 연속 두 자릿수 홀드의 의미를 짚었다.",
+    "slides": [
+      {
+        "type": "cover",
+        "title": "김진성, 178홀드로\nKBO 통산 1위 올랐다",
+        "body": "LG 김진성은 8월 11일 고척 키움전에서 개인 통산 178번째 홀드를 기록했다. 안지만이 보유했던 177홀드를 넘어 KBO 리그 통산 홀드 단독 1위에 올랐다. KBO는 정규시즌 결산에서 이 기록을 올해의 주요 이정표로 선정했다.",
+        "sourceLabel": "출처 · KBO 공식 시즌 결산 (2026.10.13)",
+        "imageCredit": "사진 · LG 트윈스 제공 (2026-08-11)"
+      },
+      {
+        "type": "photo",
+        "title": "4대2 리드 지킨\n7회말의 1이닝",
+        "body": "김진성은 LG가 4대2로 앞선 7회말 두 번째 투수로 등판했다. 1이닝 동안 2피안타와 1탈삼진, 1실점을 기록했지만 리드는 내주지 않았다. LG가 8대3으로 승리하면서 시즌 18번째이자 통산 178번째 홀드가 완성됐다.",
+        "sourceLabel": "출처 · 뉴스1 / 스포츠동아 (2026.08.11)",
+        "imageCredit": "사진 · 뉴스1 김성진 (2026-04-21)"
+      },
+      {
+        "type": "photo",
+        "title": "12년 만에 바뀐\n통산 홀드 선두",
+        "body": "종전 1위 안지만은 2003년부터 2016년까지 177홀드를 쌓았다. 김진성이 이를 넘어서며 통산 홀드 선두는 12년 만에 새 주인을 맞았다. 홀드가 공식 집계된 2000년 이후 가장 많은 기록을 보유한 투수가 김진성으로 바뀌었다.",
+        "sourceLabel": "출처 · KBO / 스포츠동아 (2026.08.12)",
+        "imageCredit": "사진 · 스타뉴스 김진경 (2026-04-01)"
+      },
+      {
+        "type": "photo",
+        "title": "5시즌 연속 두 자릿수 홀드도\n함께 남겼다",
+        "body": "김진성은 5월 23일 잠실 키움전에서 시즌 10번째 홀드를 올렸다. 이 기록으로 KBO 역대 8번째 5시즌 연속 두 자릿수 홀드를 달성했다. 한 시즌의 고점보다 여러 해 이어진 꾸준함이 통산 1위의 바탕이 됐다.",
+        "sourceLabel": "출처 · KBO 공식 시즌 결산 (2026.10.13)",
+        "imageCredit": "사진 · 머니투데이 김진경 (2026-04-16)"
+      },
+      {
+        "type": "photo",
+        "title": "NC에서 첫 홀드,\nLG에서 통산 1위까지",
+        "body": "김진성은 NC 소속이던 2014시즌 첫 홀드를 기록했고, 2022년 LG로 옮긴 뒤 핵심 불펜으로 자리를 잡았다. 2023년과 2024년에는 2년 연속 20홀드를 넘겼고 2025년에는 33홀드를 올렸다. 해마다 쌓은 등판이 178홀드의 시간으로 이어졌다.",
+        "sourceLabel": "출처 · 뉴시스 (2026.08.12)",
+        "imageCredit": "사진 · 스타뉴스 김진경 (2026-03-23)"
+      }
+    ],
+    "caption": "김진성, 178홀드로 KBO 통산 1위 올랐다\n\nLG 김진성은 8월 11일 고척 키움전에서 시즌 18번째이자 통산 178번째 홀드를 기록했다. 안지만의 177홀드를 넘어 KBO 리그 통산 홀드 단독 1위에 올랐다.\n\n김진성은 5월 23일 시즌 10홀드를 채우며 5시즌 연속 두 자릿수 홀드도 달성했다. NC에서 2014년 첫 홀드를 기록한 뒤 LG의 핵심 불펜으로 이어온 시간이 통산 1위라는 결과로 남았다.\n\n출처: KBO 공식 시즌 결산, 뉴스1, 뉴시스, 스포츠동아. 사진은 LG 트윈스 제공 및 국내 언론사가 촬영한 실제 경기 사진이다.\n\n#김진성 #안지만 #LG트윈스 #키움히어로즈 #삼성라이온즈 #NC다이노스 #KBO #프로야구 #베이스볼카르텔",
+    "fullCaption": "김진성, 178홀드로 KBO 통산 1위 올랐다\n\nLG 김진성은 8월 11일 고척 키움전에서 시즌 18번째이자 통산 178번째 홀드를 기록했다. 안지만의 177홀드를 넘어 KBO 리그 통산 홀드 단독 1위에 올랐다.\n\n김진성은 5월 23일 시즌 10홀드를 채우며 5시즌 연속 두 자릿수 홀드도 달성했다. NC에서 2014년 첫 홀드를 기록한 뒤 LG의 핵심 불펜으로 이어온 시간이 통산 1위라는 결과로 남았다.\n\n출처: KBO 공식 시즌 결산, 뉴스1, 뉴시스, 스포츠동아. 사진은 LG 트윈스 제공 및 국내 언론사가 촬영한 실제 경기 사진이다.\n\n#김진성 #안지만 #LG트윈스 #키움히어로즈 #삼성라이온즈 #NC다이노스 #KBO #프로야구 #베이스볼카르텔",
+    "hashtags": [
+      "김진성",
+      "안지만",
+      "LG트윈스",
+      "키움히어로즈",
+      "삼성라이온즈",
+      "NC다이노스",
+      "KBO",
+      "프로야구",
+      "베이스볼카르텔"
+    ],
+    "verification": [],
+    "imageRights": [
+      {
+        "sourceUrl": "https://t1.daumcdn.net/news/202608/12/sportsdonga/20260812140750427dqoj.jpg",
+        "sourcePageUrl": "https://v.daum.net/v/20260812140749084",
+        "imageCredit": "스포츠동아 · LG 트윈스 제공",
+        "photoDate": "2026-08-11",
+        "checkedAt": "2026-10-16T01:08:43.153Z",
+        "rightsStatus": "approved",
+        "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료"
+      },
+      {
+        "sourceUrl": "https://image.news1.kr/system/photos/2026/4/21/7868464/high.jpg",
+        "sourcePageUrl": "https://www.news1.kr/photos/7868464",
+        "imageCredit": "뉴스1 · 김성진 기자",
+        "photoDate": "2026-04-21",
+        "checkedAt": "2026-10-16T01:08:43.153Z",
+        "rightsStatus": "approved",
+        "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료"
+      },
+      {
+        "sourceUrl": "https://image.starnewskorea.com/21/2026/04/2026040120415794910_1.jpg",
+        "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/04/01/2026040120415794910",
+        "imageCredit": "스타뉴스 · 김진경 대기자",
+        "photoDate": "2026-04-01",
+        "checkedAt": "2026-10-16T01:08:43.153Z",
+        "rightsStatus": "approved",
+        "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료"
+      },
+      {
+        "sourceUrl": "https://thumb.mt.co.kr/21/2026/04/2026041621391385434_1.jpg",
+        "sourcePageUrl": "https://www.mt.co.kr/sports/2026/04/16/2026041621391385434",
+        "imageCredit": "머니투데이 · 김진경 대기자",
+        "photoDate": "2026-04-16",
+        "checkedAt": "2026-10-16T01:08:43.153Z",
+        "rightsStatus": "approved",
+        "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료"
+      },
+      {
+        "sourceUrl": "https://image.starnewskorea.com/21/2026/03/2026032315264074646_1.jpg",
+        "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/03/23/2026032315264074646",
+        "imageCredit": "스타뉴스 · 김진경 대기자",
+        "photoDate": "2026-03-23",
+        "checkedAt": "2026-10-16T01:08:43.153Z",
+        "rightsStatus": "approved",
+        "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료"
+      }
+    ]
+  },
+  "editorialChecks": {
+    "checkedAt": "2026-10-16T01:08:43.153Z",
+    "majorPersonHashtags": [
+      "김진성",
+      "안지만"
+    ],
+    "relatedTeamHashtags": [
+      "LG트윈스",
+      "키움히어로즈",
+      "삼성라이온즈",
+      "NC다이노스"
+    ],
+    "allOriginalsIndividuallyViewed": true,
+    "allSourcesStrictPassed": true,
+    "noImagesGenerated": true,
+    "bodyCharacterCounts": [
+      129,
+      123,
+      129,
+      118,
+      142
+    ],
+    "uniqueSha256Count": 5,
+    "finalRenderReviewPending": true
+  },
+  "scheduledAt": "2026-10-16T11:00:00+09:00"
+}
