@@ -1,0 +1,516 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "1학년 때 8이닝 18K, 지금은 고2 김강연",
+  "issueKey": "highschool-2026-kim-gangyeon-jangan-undrafted-profile",
+  "checkedAt": "2026-10-16T11:28:28.591Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=540893",
+  "corroboratingUrls": [
+    "https://www.korea-baseball.com/info/player/player_view?person_no=201907000513&gubun=P",
+    "https://www.korea-baseball.com/info/team/team_player?club_idx=547&season=2026&kind_cd=31&sports_club=F",
+    "https://www.hankookilbo.com/news/article/A2025081515350005236",
+    "https://www.hankookilbo.com/news/article/A2025081417040005889",
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=11797"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=540893",
+      "publishedAt": "2026-07-10",
+      "role": "actual-subject-showcase-background",
+      "note": "김강연실명과고2·2028드래프트대상및선발등판을직접밝힌실제관련KBO원문.10월신규사건의근거로쓰지않음."
+    },
+    {
+      "url": "https://www.korea-baseball.com/info/team/team_player?club_idx=547&season=2026&kind_cd=31&sports_club=F",
+      "publishedAt": "2026season;checked2026-10-16",
+      "role": "current-official-school-grade",
+      "note": "장안고17번김강연2학년우완투수"
+    },
+    {
+      "url": "https://www.korea-baseball.com/info/player/player_view?person_no=201907000513&gubun=P",
+      "publishedAt": "2026season;checked2026-10-16",
+      "role": "official-current-domestic-record-snapshot",
+      "note": "2026투수4G13⅔17K및2025봉황8IP18K원자료;타격2025시즌헤더와혼동하지않음"
+    },
+    {
+      "url": "https://www.hankookilbo.com/news/article/A2025081417040005889",
+      "publishedAt": "2025-08-14",
+      "role": "historic-debut-game-report"
+    },
+    {
+      "url": "https://www.hankookilbo.com/news/article/A2025081515350005236",
+      "publishedAt": "2025-08-15",
+      "role": "historic-firsthand-phone-interview-and-photo-provenance"
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=11797",
+      "publishedAt": "2025-12-22",
+      "role": "additional-official-youth-development-background",
+      "note": "독자본문에는여러인물이불필요하게늘어나지않도록이별도선발행사는담지않았다."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "2025년 7월 전국고교야구대회 경기장에 들어선 장안고 김강연",
+      "subject": "김강연(장안고)",
+      "sourcePageUrl": "https://www.hankookilbo.com/news/article/A2025081515350005236",
+      "sourcePublishedAt": "2025-08-15T16:27:00+09:00",
+      "sourceUrl": "https://newsimg.hankookilbo.com/big/2025/08/15/7cbc49be-b9f3-4e49-905e-0a3c6f29c615.jpg",
+      "imageCredit": "인스타그램 zero.po1nt 제공 / 한국일보 게재",
+      "creditDisplay": "사진 · 인스타그램 zero.po1nt 제공 / 한국일보 (2025년 7월 자료사진)",
+      "photoDate": null,
+      "photoDateLabel": "2025년 7월 자료사진(개별 촬영일 미표기)",
+      "checkedAt": "2026-10-16T11:24:17.446Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs3-story\\photo-help\\photo-e42e8b1931d4.jpg",
+      "width": 1242,
+      "height": 1652,
+      "nativeCoverScale": 0.8695652173913043,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:23:18.474Z",
+        "width": 1242,
+        "height": 1652,
+        "bytes": 149466,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9634209658932917,
+        "entropy": 7.379086306658792,
+        "effectiveDetailRatio": 0.474755,
+        "kind": "source",
+        "coverScale": 0.87,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://newsimg.hankookilbo.com/big/2025/08/15/7cbc49be-b9f3-4e49-905e-0a3c6f29c615.jpg",
+        "sha256": "e42e8b1931d4d48cc410d7f8579d0496146b98aceace982f765b7edbc2d20451",
+        "perceptualHash": "1c94367a7a13664e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CCsfLRYJEhsWGyUWFRIIHVJmMSVPQRYSCxorNBUxFxUNESkKEBE2Si4lEgoECAs+OiE6OgofGyAnFi0qBQsQKBAFISA0JBkICiE8Kg8RLhwZPB0WFiA4Mi4uCw8bDBsSFh4tCREZP21OWkIVGwkiUCgJEhsUEysXGhoEIhU4KRcRCQgtXioOAVEqGAcVRzcLLiEeGB8iECcWCgstRUsqFBkvVEs0SEMvIxUfI0QYLBAfEB4HHB8qDi43M0ZGKBMQQlowIU8dKjQlBC40DC81Fi0LHDgUMkYBQjgmIRIlICAlFhMXP1AOGQg7KUIMRBAZFx0lNRk0NConHxQEKyUmFSE7TRwWEhoXNyJUBjwHISEmKBkrPUQtDSMnJzgcIFUvE0wbCRIgNCgvHTszHiISMDZITy8oLxgpExsoUy06JTRKMwckRRlAXjhPGhwoITM2GwsYIiEODxAaGS00HBseUkg6Jjd8OzlJEh0bLS0SEwgkIhksHRUjK0AsFAYRBE1jKDhDSUpASjgvES80BBsaGCApHA4PLycLCQoPEg1dSTE4GiNETmUyLTcfBwsKCAUSFhQNGAQNDQ4KCg0vOU1YT0VcJRInHR4MChAhJhofEgoHCAkOEBIOCREaHDo5DBYOHysRFRsRCiIXDxMcCwkNAg0SFgwRHiUsICwvITAzJScTCxQpGRAzKiMuAQMFDhMdFwYlMxUzHiUlDxUZGBcFCggWJRIVJTAFEgYGIyYcHBQsMhY9MyhhIiohAxEPCQcOHxseMBAdDA0WJgYXCycXLSoiXk1wgzUWDhAEBQ4NDRASJDIeBQIOFwwQACQPATM7Zm4iblkTGBobCw8NEgoSKkwGDQkKEBcgFS8NIzhLWlY6WFoQMi4sFxYZCgIWTToTCwMMFhINFx4dJR4eGT1SUR4ZLCY6NSUgGzE9UxoqDwUNEhcSCzc6UDIqNhwqKyMcMR0wQD45NzgnJxspCwMMCRAYDU48QkANFQ8uS1lZHCwkJjBBSCwWDRwVCAkWDAILHzpBPDQJCTJlgCxmDRYVEQkcKiklESkOBwwKCgUTEEAxJDAeQ2VIHQkkRUlBNDM6Pi8XOysaDwgICwcCCx83BywvU0AGBw0bPk5AOUFGRUIYIh0VCQsIDAgZCiQlDSc3WTULDBMNGhcSHRwJGDUVGxQKAwsPBgkFChEVCRs5YTAMEhMzCBcRFAoGET87ER4TChMOAgIMDh0jEDVxUREGCiNYIw4KBRANDiY4Ex4XCgsQDxENBSceK3NhDwkFBzRnFC0XBwYUBi0jGAYHCSAIEzFKVz4IL25iCBEMFyN5Dg8eFxQUFyQMDAYZQltiaXRucT8uEFKuLw0JCRprKyAkHxkUDyQ6LCFHYXFaSTkhPlQkMiS0fgcGDy1jJCYeCw8LCRJKJi5lXxwaGQwbVSsEMyeRlA4OFgU4FxoPDQobEBQuJ0p0QgkKDAYuPjsJSR6SrSwER5SkHhwTFBoZGB4bN1NcJgYOAztNHSUfOQabolWCsKRj",
+          "top": "CCsfLRYJEhsWGyUWFRIIHVJmMSVPQRYSCxorNBUxFxUNESkKEBE2Si4lEgoECAs+OiE6OgofGyAnFi0qBQsQKBAFISA0JBkICiE8Kg8RLhwZPB0WFiA4Mi4uCw8bDBsSFh4tCREZP21OWkIVGwkiUCgJEhsUEysXGhoEIhU4KRcRCQgtXioOAVEqGAcVRzcLLiEeGB8iECcWCgstRUsqFBkvVEs0SEMvIxUfI0QYLBAfEB4HHB8qDi43M0ZGKBMQQlowIU8dKjQlBC40DC81Fi0LHDgUMkYBQjgmIRIlICAlFhMXP1AOGQg7KUIMRBAZFx0lNRk0NConHxQEKyUmFSE7TRwWEhoXNyJUBjwHISEmKBkrPUQtDSMnJzgcIFUvE0wbCRIgNCgvHTszHiISMDZITy8oLxgpExsoUy06JTRKMwckRRlAXjhPGhwoITM2GwsYIiEODxAaGS00HBseUkg6Jjd8OzlJEh0bLS0SEwgkIhksHRUjK0AsFAYRBE1jKDhDSUpASjgvES80BBsaGCApHA4PLycLCQoPEg1dSTE4GiNETmUyLTcfBwsKCAUSFhQNGAQNDQ4KCg0vOU1YT0Vc",
+          "middle": "Eh0bLS0SEwgkIhksHRUjK0AsFAYRBE1jKDhDSUpASjgvES80BBsaGCApHA4PLycLCQoPEg1dSTE4GiNETmUyLTcfBwsKCAUSFhQNGAQNDQ4KCg0vOU1YT0VcJRInHR4MChAhJhofEgoHCAkOEBIOCREaHDo5DBYOHysRFRsRCiIXDxMcCwkNAg0SFgwRHiUsICwvITAzJScTCxQpGRAzKiMuAQMFDhMdFwYlMxUzHiUlDxUZGBcFCggWJRIVJTAFEgYGIyYcHBQsMhY9MyhhIiohAxEPCQcOHxseMBAdDA0WJgYXCycXLSoiXk1wgzUWDhAEBQ4NDRASJDIeBQIOFwwQACQPATM7Zm4iblkTGBobCw8NEgoSKkwGDQkKEBcgFS8NIzhLWlY6WFoQMi4sFxYZCgIWTToTCwMMFhINFx4dJR4eGT1SUR4ZLCY6NSUgGzE9UxoqDwUNEhcSCzc6UDIqNhwqKyMcMR0wQD45NzgnJxspCwMMCRAYDU48QkANFQ8uS1lZHCwkJjBBSCwWDRwVCAkWDAILHzpBPDQJCTJlgCxmDRYVEQkcKiklESkOBwwKCgUTEEAxJDAeQ2VIHQkk",
+          "bottom": "LCY6NSUgGzE9UxoqDwUNEhcSCzc6UDIqNhwqKyMcMR0wQD45NzgnJxspCwMMCRAYDU48QkANFQ8uS1lZHCwkJjBBSCwWDRwVCAkWDAILHzpBPDQJCTJlgCxmDRYVEQkcKiklESkOBwwKCgUTEEAxJDAeQ2VIHQkkRUlBNDM6Pi8XOysaDwgICwcCCx83BywvU0AGBw0bPk5AOUFGRUIYIh0VCQsIDAgZCiQlDSc3WTULDBMNGhcSHRwJGDUVGxQKAwsPBgkFChEVCRs5YTAMEhMzCBcRFAoGET87ER4TChMOAgIMDh0jEDVxUREGCiNYIw4KBRANDiY4Ex4XCgsQDxENBSceK3NhDwkFBzRnFC0XBwYUBi0jGAYHCSAIEzFKVz4IL25iCBEMFyN5Dg8eFxQUFyQMDAYZQltiaXRucT8uEFKuLw0JCRprKyAkHxkUDyQ6LCFHYXFaSTkhPlQkMiS0fgcGDy1jJCYeCw8LCRJKJi5lXxwaGQwbVSsEMyeRlA4OFgU4FxoPDQobEBQuJ0p0QgkKDAYuPjsJSR6SrSwER5SkHhwTFBoZGB4bN1NcJgYOAztNHSUfOQabolWCsKRj"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 12.896348,
+          "top": 9.981482,
+          "middle": 15.963196,
+          "bottom": 11.485926,
+          "effectiveRatio": 0.474755
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1242,
+        "rawHeight": 1652
+      },
+      "sha256": "e42e8b1931d4d48cc410d7f8579d0496146b98aceace982f765b7edbc2d20451",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNotes": "장안고 적색35번 유니폼의 김강연 단독 인물. 한국일보 원문 캡션이 본인과2025년7월을 명시. 모자·얼굴·상체 모두 중앙4:5에 안전. 원사진 상단 zero point 워터마크는 중앙크롭에서 일부 잘릴 수 있어 원권리자크레딧을 카드와캡션에 명시.",
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.8695652173913043
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-16 사용자 확인: 국내 언론사와 야구 관련인의 이미지 사용 계약·사용료 지급 완료.",
+        "owner": "인스타그램 zero.po1nt",
+        "publication": "한국일보",
+        "note": "한국일보에 게재된 야구 관련인의 실제 사진을 사용자 확인 계약 범위에 따라 사용한다. 원문은 인스타그램 zero.po1nt 제공으로 명시하여 한국일보 자체 촬영으로 오인하지 않는다."
+      },
+      "fit": "cover",
+      "captionEvidence": "장안고 1학년 투수 김강연이 올해 7월 열린 전국고교야구대회 경기장에 들어서고 있다. 인스타그램 zero.po1nt 제공",
+      "sourceResolutionEvidence": "한국일보 해당기사 application/ld+json image ImageObject.url이 /big/ 원본 주소를 직접 선언한다. URL 크기 파라미터를 추정하거나 사진을 확대하지 않았다.",
+      "recommended": true,
+      "duplicateComparisons": [
+        {
+          "existingPhoto": 1,
+          "sameSha256": false,
+          "pHashDistance": 35
+        },
+        {
+          "existingPhoto": 2,
+          "sameSha256": false,
+          "pHashDistance": 26
+        },
+        {
+          "existingPhoto": 3,
+          "sameSha256": false,
+          "pHashDistance": 27
+        },
+        {
+          "existingPhoto": 4,
+          "sameSha256": false,
+          "pHashDistance": 40
+        }
+      ],
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2025년7월 전국고교야구대회 구장 입장",
+        "people": [
+          {
+            "name": "김강연",
+            "team": "장안고",
+            "role": "당시1학년투수·현재2학년"
+          }
+        ],
+        "visualNote": "장안고 적색35번 유니폼의 김강연 단독 인물. 한국일보 원문 캡션이 본인과2025년7월을 명시. 모자·얼굴·상체 모두 중앙4:5에 안전. 원사진 상단 zero point 워터마크는 중앙크롭에서 일부 잘릴 수 있어 원권리자크레딧을 카드와캡션에 명시.",
+        "editorialNote": "8월14일18탈삼진경기또는2026년당일촬영으로설명하지않는다. 원문이밝힌2025년7월만표시하고촬영일을추정하지않는다."
+      },
+      "strict": true
+    },
+    {
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/07/10/2026071015224812323",
+      "imageCredit": "스타뉴스 김진경",
+      "photoDate": "2026-07-10",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/07/2026071015224812323_1.jpg",
+      "description": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다. 넥스트레벨 매치에서 넥스트팀 선발 김강연(장안고)이 역투하고 있다.",
+      "width": 1200,
+      "height": 1622,
+      "nativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:08:09.249Z",
+        "width": 1200,
+        "height": 1622,
+        "bytes": 2140295,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.801262093553059,
+        "entropy": 6.688964310567826,
+        "effectiveDetailRatio": 0.535431,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/07/2026071015224812323_1.jpg",
+        "sha256": "ec50997e7cfc1d125ec83200f7d35523ab979b4674c944808c2f6dc1c0afd43e",
+        "perceptualHash": "22cd49393c75e9e8",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "EQ8VGgsOCRMQDw8PCgcLCgkLCQoLCQUGCQcIBQcCBgUIIC0fMAkMDxEQDgkPFRUSEBMSExQTExYWExUXFBUdKCY8JSIYFhUSEA4ODgwNBAkEBAMFAQEDAQEBHBoYHjhGTBEMBwMDBQYEBAIGBCglJCYGCQYEAgECBQMCCzZaVVUuBQMCAQICAQEGKpitVnAfCgUDBAMCBAIBATpVDEBaOBQKBgQDBAQOnK6Hc2VtBwMABAUGBAIBAgdKZzVXbD4qGwcFCQUQY79fS3FSDQUFBgYGBAQDAwMNc4Ask2MLLDUpFQYIFV9uN3RRBwQEBAICBgUFBQMGBoZ8elgnHxImMy4rRFITTmwaBggGCAgGCgoNCwkIDgxKKzYyOS0aCR1DhGstbyYNBAECAQQCCgoKCQcEBwkJDg0qMCwcIxOBtFZycA4AAwEDAgEFBAQGBQcFBAEDBSIeLS0UDhqLthlbZz4FBAIEBQMHAwMEBwQEAgIEBBkhHD99Iw0dvINYtTg3BAIGAwEBBwgIBAEBAgECBgoULGZ1tnAObn+wZhFAJQYCAQEBAwECAwMEAwMEBA0DHW5hTZhOHiU3ChcKOhIDBwQBAQQCAgEBAgEBAQgLDi57VoQ1SXZ/Rig4KCUQCQgGBQMDBAQEBQUHBQkJGggaTjNPl1mcnGxoKyASBgMECQgFBAIBAwMDAgYhBTQUDi14XBNPY0RGSQcLBAQEBggHAwQEAQABAxYTRTtPQT5YQz0TVlM9MhoOBwcECAMBAAADAgUEBRQeTkMnZ35sSBwKRGBKWCkeAwIEAgQBBAQDAgMDBgwXMzx6QxpPESxDR3o7eWsiDAkGBQQJBQIBAQIGAwoDJAswRILRqy8zGmw+KGQlBgQFCwwJAgEEBAQEBAkMGyhNIptZ/5EbJDZLdV4DDwoIBgkJCQgFBQYEBAcFJDcgTnogrf+LQoSbiSIFAwQEBgUDAQQCBAUBBAUBKTkFW18fVnbZvblsGw4FCgsGBQcLCgYKCgYDBAUMKzkiXyksMBI9WB8REw8LCgsJCgoKCAcIAwIFBAkGKUUbc2FANB8KCAcFFxkJCwwNDQ4TFA8SFBQPDAsQC1Y5NWeHbhYcGxwkODokFRAKIR4fHBkYGRIOCwgKCSdRHhgpXm8NBQsbGxkhHRgZAggHBw0SFyAhIx0XBi9PH1dIYS4lGhUhOTVBOykiCQoREhkeIyAZFBYgIhopTUZEVZMpKSwuLTQ3EhUYBgwFDREOBwIDAwgOJS00WzWiT1teHB4UFhcNFAUFBQYQEQkFBAUJDQkKDxNTSG9OSlINCgsCBhAMBwEVEBISCgwNDhEPDAUIBzl4HGwjEwsMBAYLBwwICQoNDBMNEBQOCggFAgEIIFU0TE0XCwgIDgUIFQ0DBA8JFQsFDgYEAwIBBQEIHlMhWkUMCQ0PDgcLBw4JFRMJBw8UEAkGCQoFCg0qNIJ1aXUPEAQNDQwTEBwqHhUVExoYCQkGAwYDBBYuKy9ZWBMuFhcSCxofGyMaDxIb",
+          "top": "EQ8VGgsOCRMQDw8PCgcLCgkLCQoLCQUGCQcIBQcCBgUIIC0fMAkMDxEQDgkPFRUSEBMSExQTExYWExUXFBUdKCY8JSIYFhUSEA4ODgwNBAkEBAMFAQEDAQEBHBoYHjhGTBEMBwMDBQYEBAIGBCglJCYGCQYEAgECBQMCCzZaVVUuBQMCAQICAQEGKpitVnAfCgUDBAMCBAIBATpVDEBaOBQKBgQDBAQOnK6Hc2VtBwMABAUGBAIBAgdKZzVXbD4qGwcFCQUQY79fS3FSDQUFBgYGBAQDAwMNc4Ask2MLLDUpFQYIFV9uN3RRBwQEBAICBgUFBQMGBoZ8elgnHxImMy4rRFITTmwaBggGCAgGCgoNCwkIDgxKKzYyOS0aCR1DhGstbyYNBAECAQQCCgoKCQcEBwkJDg0qMCwcIxOBtFZycA4AAwEDAgEFBAQGBQcFBAEDBSIeLS0UDhqLthlbZz4FBAIEBQMHAwMEBwQEAgIEBBkhHD99Iw0dvINYtTg3BAIGAwEBBwgIBAEBAgECBgoULGZ1tnAObn+wZhFAJQYCAQEBAwECAwMEAwMEBA0DHW5hTZhOHiU3ChcKOhIDBwQB",
+          "middle": "AwMEBwQEAgIEBBkhHD99Iw0dvINYtTg3BAIGAwEBBwgIBAEBAgECBgoULGZ1tnAObn+wZhFAJQYCAQEBAwECAwMEAwMEBA0DHW5hTZhOHiU3ChcKOhIDBwQBAQQCAgEBAgEBAQgLDi57VoQ1SXZ/Rig4KCUQCQgGBQMDBAQEBQUHBQkJGggaTjNPl1mcnGxoKyASBgMECQgFBAIBAwMDAgYhBTQUDi14XBNPY0RGSQcLBAQEBggHAwQEAQABAxYTRTtPQT5YQz0TVlM9MhoOBwcECAMBAAADAgUEBRQeTkMnZ35sSBwKRGBKWCkeAwIEAgQBBAQDAgMDBgwXMzx6QxpPESxDR3o7eWsiDAkGBQQJBQIBAQIGAwoDJAswRILRqy8zGmw+KGQlBgQFCwwJAgEEBAQEBAkMGyhNIptZ/5EbJDZLdV4DDwoIBgkJCQgFBQYEBAcFJDcgTnogrf+LQoSbiSIFAwQEBgUDAQQCBAUBBAUBKTkFW18fVnbZvblsGw4FCgsGBQcLCgYKCgYDBAUMKzkiXyksMBI9WB8REw8LCgsJCgoKCAcIAwIFBAkGKUUbc2FANB8KCAcFFxkJCwwN",
+          "bottom": "BgkJCQgFBQYEBAcFJDcgTnogrf+LQoSbiSIFAwQEBgUDAQQCBAUBBAUBKTkFW18fVnbZvblsGw4FCgsGBQcLCgYKCgYDBAUMKzkiXyksMBI9WB8REw8LCgsJCgoKCAcIAwIFBAkGKUUbc2FANB8KCAcFFxkJCwwNDQ4TFA8SFBQPDAsQC1Y5NWeHbhYcGxwkODokFRAKIR4fHBkYGRIOCwgKCSdRHhgpXm8NBQsbGxkhHRgZAggHBw0SFyAhIx0XBi9PH1dIYS4lGhUhOTVBOykiCQoREhkeIyAZFBYgIhopTUZEVZMpKSwuLTQ3EhUYBgwFDREOBwIDAwgOJS00WzWiT1teHB4UFhcNFAUFBQYQEQkFBAUJDQkKDxNTSG9OSlINCgsCBhAMBwEVEBISCgwNDhEPDAUIBzl4HGwjEwsMBAYLBwwICQoNDBMNEBQOCggFAgEIIFU0TE0XCwgIDgUIFQ0DBA8JFQsFDgYEAwIBBQEIHlMhWkUMCQ0PDgcLBw4JFRMJBw8UEAkGCQoFCg0qNIJ1aXUPEAQNDQwTEBwqHhUVExoYCQkGAwYDBBYuKy9ZWBMuFhcSCxofGyMaDxIb"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.793825,
+          "top": 11.343863,
+          "middle": 16.673335,
+          "bottom": 32.784894,
+          "effectiveRatio": 0.535431
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1622
+      },
+      "sha256": "ec50997e7cfc1d125ec83200f7d35523ab979b4674c944808c2f6dc1c0afd43e",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs3-story\\photos\\photo-ec50997e7cfc.jpg",
+      "strict": true,
+      "name": "김강연 넥스트레벨 투구 정면",
+      "subject": "김강연",
+      "checkedAt": "2026-10-16T11:26:23.119Z",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.07.10 자료사진)",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내언론원문이직접게재한실사진이며생성·업스케일·생성형복원없음."
+      },
+      "fit": "cover",
+      "captionEvidence": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다. 넥스트레벨 매치에서 넥스트팀 선발 김강연(장안고)이 역투하고 있다.",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-07-10 잠실 넥스트레벨 매치",
+        "people": [
+          {
+            "name": "김강연",
+            "team": "장안고·팀 넥스트",
+            "role": "고2 투수·넥스트레벨선발"
+          }
+        ],
+        "visualNote": "잠실넥스트레벨매치 장안고김강연이투구하는전신실사진. 본인얼굴·장안고유니폼·원권리자워터마크선명.",
+        "editorialNote": "2025봉황대기나2026년5월황금사자기현장이아닌7월10일넥스트레벨자료사진으로표시한다."
+      }
+    },
+    {
+      "sourcePageUrl": "https://www.mt.co.kr/sports/2026/07/10/2026071015251224519",
+      "imageCredit": "스타뉴스 김진경",
+      "photoDate": "2026-07-10",
+      "sourceUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071015251224519_1.jpg",
+      "description": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다.\r\n넥스트레벨 매치에서 넥스트팀 선발 김강연(장안고)이 역투하고 있다",
+      "width": 1200,
+      "height": 1613,
+      "nativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:08:09.971Z",
+        "width": 1200,
+        "height": 1613,
+        "bytes": 1310426,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.6512306075722369,
+        "entropy": 6.38272920707459,
+        "effectiveDetailRatio": 0.41736,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071015251224519_1.jpg",
+        "sha256": "40090cd4a88c2b18ff1cbb2751962d8934c2befa44fbed129c4d534b5416608d",
+        "perceptualHash": "9470748c69d9c46c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BAQDBAEBAgQGAwYGBR9CFAsLCRYOLlZIIgkHBgcGAgABAwUFBAQCBAMGJEdBh0UDBANCW2dRUwkEAQIFDw4ODgoLERcXEQkhQlN3YqdbFTJUVT1RWCMbGBkcCwgFBAUIDQYSamBHRk5XLmeZLi5DURh2KwUIBQUFBgQGBQQICxZiYcaLgdp0CjKSciKCRmt/FRsXFBUYEQ8MBgcHCxFKshzvwDDQjR2IlAlsU2ZSBAcICAYJDhAODgwJCggddMIglaZUjyu/gApPRU9HBAEBAgIBAQEBBQMDAgMEIGtZQQ0rNW2dMQ9LQE1GAgECAgECAgEBAQACAwIEJ1QeMCgTJy5nGBBIO0NEBAYDAgIBAgIDAQEDAgIGNUEcDg8qP3RcDRljQ1xoAwIEAQMEAwQBAwECAAEELjUVJT9QTJkRAjBzQiOjTQoABAQDAgEDAAEBAQEDJUJaYC9PvlgDBj1lKSdQhR4FBAMCAgIBAAEBAQEFHIN5acfIfxYhJVRXEhhPexUGAgQFAgUFBgYEBQkJGkOhuYY5FQ0SGFWjTxZoXg0EBQQEAwIDAwQCBg0uKykzGwIDDBIODSRKw0N8PgkCAQEBAQQEBAYEBCArDAMBAwEABhkLHCZAO2s0LQkBAgEBBQQBAQICBSAhBwADAAICAw4fJx0SQzVJKQgBBAMBBgcGBAcIEC8ZByEWAgEBAQsnLRIIKTE2DgUFBQgFAwUGBwYJHClAJh48IAIBByw8LwwOCyUGAwMGBAMEBAYGBgQNKxtUbRgpTiwbKz0dESkBAwEFBwYEBwgGBQQEBgUVLlZ5dDUjS1pTJzQfETAWBAMGAgQCAgIBAQEBAQYbGXVPZkcqHEJMUSZ/bzAxCwQJCgkMDAwKDQoKCgsiGYmpUWcLIwY7J4SOhpcvCwgICAgEAgQEBAIBAQQnMhtLSg8ECiErKHs7Kz5nMAQDBAgHBAgCCQgICAksFXJqRyUbEQQlHTojEyNTYh8ICQcFBQMFAQQDAAIoEH5VOjwNGwUjEj00LhopaEQDAQQDAwQDBQQDBAUeUooTaRcaEBAaIE0tBQEzdjsEBAQHBwIBBAcHBAEhVxtUJksSFSAYaDceFSuJVQkECAcEBAkEBgYJBwpNSyMaNx01Hyt3YTEaSJBIDA8MCwUICwgJAwIFBDuIfIBALQ0aTltsNE+DfDUMAgIIBwkJBQIJAQUEC26mL2xlWFY5XylIkZdDGQUEBQcJBwQDBwQDCgkKDmp8JSBSSlpWHmtsUTUoEwgEAQYEBAgIBQMDBg0MC0uoMEAoMB9UWXkvERkmOxUFAgMJBwUCBgEGCgkJCw6KzksQDwYtcIInESEcGTwOBAQEBAQBAwcEBgkKAwEXjNutaApLwGYmNiEOECsqBggPCwkHCAgDDAYICwkUFEiU2Im5mUU5HxEaCR4hCAgFBAMCAgQDAwQEAAYgEQ0RMndsWD4RBAUIHiMTCQgQDAYGBwcFDQYIBgkbDB0qGhlOTwsEBAMLGTAaCgkJCgkIBwwJ",
+          "top": "BAQDBAEBAgQGAwYGBR9CFAsLCRYOLlZIIgkHBgcGAgABAwUFBAQCBAMGJEdBh0UDBANCW2dRUwkEAQIFDw4ODgoLERcXEQkhQlN3YqdbFTJUVT1RWCMbGBkcCwgFBAUIDQYSamBHRk5XLmeZLi5DURh2KwUIBQUFBgQGBQQICxZiYcaLgdp0CjKSciKCRmt/FRsXFBUYEQ8MBgcHCxFKshzvwDDQjR2IlAlsU2ZSBAcICAYJDhAODgwJCggddMIglaZUjyu/gApPRU9HBAEBAgIBAQEBBQMDAgMEIGtZQQ0rNW2dMQ9LQE1GAgECAgECAgEBAQACAwIEJ1QeMCgTJy5nGBBIO0NEBAYDAgIBAgIDAQEDAgIGNUEcDg8qP3RcDRljQ1xoAwIEAQMEAwQBAwECAAEELjUVJT9QTJkRAjBzQiOjTQoABAQDAgEDAAEBAQEDJUJaYC9PvlgDBj1lKSdQhR4FBAMCAgIBAAEBAQEFHIN5acfIfxYhJVRXEhhPexUGAgQFAgUFBgYEBQkJGkOhuYY5FQ0SGFWjTxZoXg0EBQQEAwIDAwQCBg0uKykzGwIDDBIODSRKw0N8PgkCAQEB",
+          "middle": "AgIBAAEBAQEFHIN5acfIfxYhJVRXEhhPexUGAgQFAgUFBgYEBQkJGkOhuYY5FQ0SGFWjTxZoXg0EBQQEAwIDAwQCBg0uKykzGwIDDBIODSRKw0N8PgkCAQEBAQQEBAYEBCArDAMBAwEABhkLHCZAO2s0LQkBAgEBBQQBAQICBSAhBwADAAICAw4fJx0SQzVJKQgBBAMBBgcGBAcIEC8ZByEWAgEBAQsnLRIIKTE2DgUFBQgFAwUGBwYJHClAJh48IAIBByw8LwwOCyUGAwMGBAMEBAYGBgQNKxtUbRgpTiwbKz0dESkBAwEFBwYEBwgGBQQEBgUVLlZ5dDUjS1pTJzQfETAWBAMGAgQCAgIBAQEBAQYbGXVPZkcqHEJMUSZ/bzAxCwQJCgkMDAwKDQoKCgsiGYmpUWcLIwY7J4SOhpcvCwgICAgEAgQEBAIBAQQnMhtLSg8ECiErKHs7Kz5nMAQDBAgHBAgCCQgICAksFXJqRyUbEQQlHTojEyNTYh8ICQcFBQMFAQQDAAIoEH5VOjwNGwUjEj00LhopaEQDAQQDAwQDBQQDBAUeUooTaRcaEBAaIE0tBQEzdjsEBAQHBwIB",
+          "bottom": "BAIBAQQnMhtLSg8ECiErKHs7Kz5nMAQDBAgHBAgCCQgICAksFXJqRyUbEQQlHTojEyNTYh8ICQcFBQMFAQQDAAIoEH5VOjwNGwUjEj00LhopaEQDAQQDAwQDBQQDBAUeUooTaRcaEBAaIE0tBQEzdjsEBAQHBwIBBAcHBAEhVxtUJksSFSAYaDceFSuJVQkECAcEBAkEBgYJBwpNSyMaNx01Hyt3YTEaSJBIDA8MCwUICwgJAwIFBDuIfIBALQ0aTltsNE+DfDUMAgIIBwkJBQIJAQUEC26mL2xlWFY5XylIkZdDGQUEBQcJBwQDBwQDCgkKDmp8JSBSSlpWHmtsUTUoEwgEAQYEBAgIBQMDBg0MC0uoMEAoMB9UWXkvERkmOxUFAgMJBwUCBgEGCgkJCw6KzksQDwYtcIInESEcGTwOBAQEBAQBAwcEBgkKAwEXjNutaApLwGYmNiEOECsqBggPCwkHCAgDDAYICwkUFEiU2Im5mUU5HxEaCR4hCAgFBAMCAgQDAwQEAAYgEQ0RMndsWD4RBAUIHiMTCQgQDAYGBwcFDQYIBgkbDB0qGhlOTwsEBAMLGTAaCgkJCgkIBwwJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 10.139008,
+          "top": 9.110841,
+          "middle": 10.677445,
+          "bottom": 11.313113,
+          "effectiveRatio": 0.41736
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1613
+      },
+      "sha256": "40090cd4a88c2b18ff1cbb2751962d8934c2befa44fbed129c4d534b5416608d",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs3-story\\photos\\photo-40090cd4a88c.jpg",
+      "strict": true,
+      "name": "김강연 넥스트레벨 투구 측면",
+      "subject": "김강연",
+      "checkedAt": "2026-10-16T11:26:23.121Z",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.07.10 자료사진)",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내언론원문이직접게재한실사진이며생성·업스케일·생성형복원없음."
+      },
+      "fit": "cover",
+      "captionEvidence": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다.\r\n넥스트레벨 매치에서 넥스트팀 선발 김강연(장안고)이 역투하고 있다",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-07-10 잠실 넥스트레벨 매치",
+        "people": [
+          {
+            "name": "김강연",
+            "team": "장안고·팀 넥스트",
+            "role": "고2 투수·넥스트레벨선발"
+          }
+        ],
+        "visualNote": "투구준비중공을든김강연단독. 넥스트레벨모자·장안고17번·얼굴일치.",
+        "editorialNote": "2025봉황대기나2026년5월황금사자기현장이아닌7월10일넥스트레벨자료사진으로표시한다."
+      }
+    },
+    {
+      "sourcePageUrl": "https://www.mt.co.kr/sports/2026/07/10/2026071015262392345",
+      "imageCredit": "스타뉴스 김진경",
+      "photoDate": "2026-07-10",
+      "sourceUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071015262392345_1.jpg",
+      "description": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다.\r\n넥스트레벨 매치에서 넥스트팀 선발 김강연(장안고)이 역투하고 있다",
+      "width": 1200,
+      "height": 1746,
+      "nativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:08:10.661Z",
+        "width": 1200,
+        "height": 1746,
+        "bytes": 1750532,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.8551075594261996,
+        "entropy": 6.512993724369153,
+        "effectiveDetailRatio": 0.461385,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071015262392345_1.jpg",
+        "sha256": "5f26fc8849ba05ec5736fc28f662e77c37636a752784d654d64a1d27f8b2c118",
+        "perceptualHash": "b2301269d8d8c356",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQEBAAEAAQICAQMHZNOAUMMkLHIuBAQDBAEBBAQFAAABAAECAQEDBgcepXtEWzmhIyk/AQMCAgMDBAEBAgICAgMDBAQEBAIUULd6UndTNUhHBAEBAgIDAgECAgIBAgMCBAYKCgsJFlNYEnBgPUFDAwMCAgIBAQEDAAABAgEBAgIDBAQKBSRPGT4VDUQhAQECAQEBAQEDAgEBAQICAgIDAgIJCSc0JiUjHjYFAgICAgIEBAQEAQEBAgQDBAQEBQQIHSwoITcnRBoEBgUFBQgJCggLBgYHBwcHBgYGBgoaKFFBMCNKTA4ICAcHBwYFBQUICwoKBwUIBQMJFSIdQkc3ECU5RR8QBQcJBgMEAgMEBAQHBwgIBRMhIhQkVEEnDSA6VywjEgUIBAMDBQYIFBQVExUMJSYYCQcTbWItBRxaciYQKB4PGhYVFBMWAQEEBBU8JAcECwYJOapoWW6PRAIECC83DwcDAgAADg4QDi0jCQgJCQIHBEKMcGxAAgcECAQkOxsPERARBAQDDSEICg0UCwQGBQMUHhwDCAIDBgoTEiIHBgUFAQEBESEBEiEgDgwFCBAUCg8UJDdFLCAdERcPAwAAAQAEFyAKJSYuOC86IQ0REFNkdXZmfVUpHgYYBAIBAQACEyUSKiRClo+Edy0RWJFbOSUWPWJGKwsUDQMBAQAEFBERE16FaEEjY3oRf1gcDAsfET9NJgQkFQcBAAISIg0YE2ODGk8ZNWAMlkYQESUTF0tQKg0mGxQFAQEIF4ykk5teXFccaGRYnxpIQ0Q9Eh5IMhkwLBYDAwQFa5l+hpFnhVZpUj0nbmhoYE5nZ0JRQiwRJxkFBAQIQolIIw6KhxEiMx82YXtdKzckUDlaeF91ehIGAwQFMG06Kg9+fRQEIAlbe3QGNEYmShcbcG97i18EAAMFJGk/JQl1ZhsbDjtHV143EjEuLTgXKh0SUGAQBAQEGFxMIhtxhBsRJDUgR4M1JyQiMU05KBEeSV4QBAEEElNVHxFXeiYhGhUbGnLDPxQxUGlNUTgkgTEKBQMDC1BTHhNfcBUMJA8YGBB/3WmElyw1aFSSQwgFAQEEB1NVDh8cgJBiZIB0ZkQqNISRaYy2GcloBwYGAwQFCk9WDxMPCVSQm56KlVE4XzgwIyqVt5IdBwQDBQUEBENaHBkfIYQ7FiQ5W0soNks3GhEIaxgMBQQGAQEEBEJiJjYobWuklaWckU08WyspDQQBCgUDBwcFAgIDBRRSKiQwXTRNXEo7MSUjIykhEAkDAwMCAgMCAAEBAwMzLggpSTMUEBURCQMKExYMEBAFBgYEBgYECAoKCQYeNQ0ZIR4fBgYJCQwJBwkGCQ4FBQcEBQUFBgQDBAQXPRI5LiUHCAwRCAEJCAgJEhIDBAQFBQcIDQ0LDQsUNi04Ky4WKCYpGBwaDgkFERgGAwcFBwYEBAYFBgUVFzUGOz0jGz1FHAgKDxAGEBMFBAMBAwIEAwMBAgQVFzJ/dC0pQjVJPiQQBQkHGBcDAwMCBAQD",
+          "top": "AQEBAAEAAQICAQMHZNOAUMMkLHIuBAQDBAEBBAQFAAABAAECAQEDBgcepXtEWzmhIyk/AQMCAgMDBAEBAgICAgMDBAQEBAIUULd6UndTNUhHBAEBAgIDAgECAgIBAgMCBAYKCgsJFlNYEnBgPUFDAwMCAgIBAQEDAAABAgEBAgIDBAQKBSRPGT4VDUQhAQECAQEBAQEDAgEBAQICAgIDAgIJCSc0JiUjHjYFAgICAgIEBAQEAQEBAgQDBAQEBQQIHSwoITcnRBoEBgUFBQgJCggLBgYHBwcHBgYGBgoaKFFBMCNKTA4ICAcHBwYFBQUICwoKBwUIBQMJFSIdQkc3ECU5RR8QBQcJBgMEAgMEBAQHBwgIBRMhIhQkVEEnDSA6VywjEgUIBAMDBQYIFBQVExUMJSYYCQcTbWItBRxaciYQKB4PGhYVFBMWAQEEBBU8JAcECwYJOapoWW6PRAIECC83DwcDAgAADg4QDi0jCQgJCQIHBEKMcGxAAgcECAQkOxsPERARBAQDDSEICg0UCwQGBQMUHhwDCAIDBgoTEiIHBgUFAQEBESEBEiEgDgwFCBAUCg8UJDdFLCAdERcPAwAA",
+          "middle": "Dg4QDi0jCQgJCQIHBEKMcGxAAgcECAQkOxsPERARBAQDDSEICg0UCwQGBQMUHhwDCAIDBgoTEiIHBgUFAQEBESEBEiEgDgwFCBAUCg8UJDdFLCAdERcPAwAAAQAEFyAKJSYuOC86IQ0REFNkdXZmfVUpHgYYBAIBAQACEyUSKiRClo+Edy0RWJFbOSUWPWJGKwsUDQMBAQAEFBERE16FaEEjY3oRf1gcDAsfET9NJgQkFQcBAAISIg0YE2ODGk8ZNWAMlkYQESUTF0tQKg0mGxQFAQEIF4ykk5teXFccaGRYnxpIQ0Q9Eh5IMhkwLBYDAwQFa5l+hpFnhVZpUj0nbmhoYE5nZ0JRQiwRJxkFBAQIQolIIw6KhxEiMx82YXtdKzckUDlaeF91ehIGAwQFMG06Kg9+fRQEIAlbe3QGNEYmShcbcG97i18EAAMFJGk/JQl1ZhsbDjtHV143EjEuLTgXKh0SUGAQBAQEGFxMIhtxhBsRJDUgR4M1JyQiMU05KBEeSV4QBAEEElNVHxFXeiYhGhUbGnLDPxQxUGlNUTgkgTEKBQMDC1BTHhNfcBUMJA8YGBB/3WmElyw1aFSSQwgF",
+          "bottom": "AAMFJGk/JQl1ZhsbDjtHV143EjEuLTgXKh0SUGAQBAQEGFxMIhtxhBsRJDUgR4M1JyQiMU05KBEeSV4QBAEEElNVHxFXeiYhGhUbGnLDPxQxUGlNUTgkgTEKBQMDC1BTHhNfcBUMJA8YGBB/3WmElyw1aFSSQwgFAQEEB1NVDh8cgJBiZIB0ZkQqNISRaYy2GcloBwYGAwQFCk9WDxMPCVSQm56KlVE4XzgwIyqVt5IdBwQDBQUEBENaHBkfIYQ7FiQ5W0soNks3GhEIaxgMBQQGAQEEBEJiJjYobWuklaWckU08WyspDQQBCgUDBwcFAgIDBRRSKiQwXTRNXEo7MSUjIykhEAkDAwMCAgMCAAEBAwMzLggpSTMUEBURCQMKExYMEBAFBgYEBgYECAoKCQYeNQ0ZIR4fBgYJCQwJBwkGCQ4FBQcEBQUFBgQDBAQXPRI5LiUHCAwRCAEJCAgJEhIDBAQFBQcIDQ0LDQsUNi04Ky4WKCYpGBwaDgkFERgGAwcFBwYEBAYFBgUVFzUGOz0jGz1FHAgKDxAGEBMFBAMBAwIEAwMBAgQVFzJ/dC0pQjVJPiQQBQkHGBcDAwMCBAQD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 13.337808,
+          "top": 8.167363,
+          "middle": 18.058237,
+          "bottom": 12.771716,
+          "effectiveRatio": 0.461385
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1746
+      },
+      "sha256": "5f26fc8849ba05ec5736fc28f662e77c37636a752784d654d64a1d27f8b2c118",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs3-story\\photos\\photo-5f26fc8849ba.jpg",
+      "strict": true,
+      "name": "김강연 넥스트레벨 주먹 세리머니",
+      "subject": "김강연",
+      "checkedAt": "2026-10-16T11:26:23.121Z",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.07.10 자료사진)",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내언론원문이직접게재한실사진이며생성·업스케일·생성형복원없음."
+      },
+      "fit": "cover",
+      "captionEvidence": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다.\r\n넥스트레벨 매치에서 넥스트팀 선발 김강연(장안고)이 역투하고 있다",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-07-10 잠실 넥스트레벨 매치",
+        "people": [
+          {
+            "name": "김강연",
+            "team": "장안고·팀 넥스트",
+            "role": "고2 투수·넥스트레벨선발"
+          }
+        ],
+        "visualNote": "주먹을쥔김강연단독정면. 글러브·유니폼·인물명원문일치.",
+        "editorialNote": "2025봉황대기나2026년5월황금사자기현장이아닌7월10일넥스트레벨자료사진으로표시한다."
+      }
+    },
+    {
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-10/202607100100067560004169",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-07-10",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/10/2026071001000675600041691_w.jpg",
+      "description": "10일 잠실구장에서 올스타 프라이데이 넥스트레벨 매치가 열렸다. 투구하는 장안고 김강연. 잠실=송정헌 기자songs@sportschosun.com/2026.07.10/",
+      "width": 1200,
+      "height": 1409,
+      "nativeCoverScale": 0.9581263307310149,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T11:08:11.151Z",
+        "width": 1200,
+        "height": 1409,
+        "bytes": 939912,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.274535590073323,
+        "entropy": 7.154365557763413,
+        "effectiveDetailRatio": 0.561538,
+        "kind": "source",
+        "coverScale": 0.958,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/07/10/2026071001000675600041691_w.jpg",
+        "sha256": "ca4ed46380e545688d2ca3b5b2f4d1fc6331bf70011af4e7911073ed9c4fa35b",
+        "perceptualHash": "625d4ca0a90c19ec",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "YjIjJhkbMR4bMSAbLx4VKiUOMCQNKyQKJikKJyQUNFMZIC0MJzUFJS0LICwJIC0KIC0HICUHIiAHJCkMUw0BNg8mHg8VJAEXIAQVIQUOIAsOHhAMHhMOEh0JJBJAHUAsFiIjGCQoFiYtESQlFiIqFyEqGhknFhkeLx8SVRo2ESQsCig1EycxER4rFCAoFiAmESUiEiMRGQs0E0FCGiIOICgJGyYLFx8PFSAFBiASDxwSBhISCiUrJDktHQsZFSMSGCoOHCkLHxwYEx8KJCcEHSUPSUE0REQwMjMGOyA5OylEQClALU0JJFg2QSU9LjQ6Cx0hBTNfGjxQNRMMGDEQHSsUck55TDWJIzMZJiYeQUlFQEoTOhAzbzRTJgkGJjQ/IntVF1RJQjY7P0A5ERgeGhkiBiMGgWw9VlpucE9IQ0VPKDAdHxgZGyEZEhMWFBQWGhAHdG0aFA8iQVNnQEYKBBYTBgQNGAcuDQwMCQwJBgcJXoI0Ji8xJxQibW0tCSA9VVlOMYGKUldQCh9STlEvFmtkLiU2ISU8nU9XSFp1LShpcHg4i4udRXd+ZW+GLhM3RBwoJSEWpXA6aHY+MyowJhoKMTBjVWUsJx9qfAkJJiQVaTcWUqJCrl0YQxUNJnRTAgQ0OCkUEgIndzsEGSY6I6BqL0yPZAkJKicRVDpSAggrJhsjBxkQRE8GCjkRgQlxOSM0OhcRESUzPUtNBRw+OjkVEAMwfjYLAilGOWFSTXFymFsqLgs9Dlk2IR1fPnMyMClweAUNBBxKJCotiCcbQVw4IBogDy0UhoaVVG2DanGAJBEIBA4sNy5wYS4xWU8aLhYqLUgwaGplFhhPTEwrDgkEAhEmBiZZSE47rHQPNkNlXGh0AwACBQkJBwkKDQkEAQkyKExtWSkWdakwXoJ2LiFpLTIzMjM2NjMyMSomJChAPQ94whwsPmlwTgskNj8qWFlaW1hVVlZWUkpKSkpIEx0xvfFKiigjZIVWSUlPMzIwMTArLCwpJygqKygnKA5PDZTDln2QkDYdHxsaCgkHCQcHCAUEBQQEAwQDFSsVNRZGGiRTIwgCAgQDAgICAgIDAQEBAAICAgECAhgbISURCAoOBgEAAgECBgcEAgICAgEDAgACAwICCDJrUSUCFgcFAAMCAwQFCwwOCwoJCAcBBAMDBAUHLmVWbIBMDhgGCwoLCgwNDQ8KBwQGBQgLBgcHBwQKL1w1J0hxI0sIFQEDBAYHAwIDAwQDBAMEBwcHBgYJFVNDY0UfXENqECQeEgkLFBUTEREQDgwNDQ0KCwkMEzwrQEBaLE9fayIVFhMLCgkGBAMEBAICAgMCAQQZDSorFQQZNj89LElcakUXEA8KBgcIBgQGBwcDBAoVIhUMHyQnJSsNCSRKRlg1BAMGBwkKDxAPERccHRkMIyAbHB0bEg8KBAQqSTwOBQIFAwIOEBIZHiIlJDsNPCYOEAoHCQsLBAkMHBAICQwOEhkZGBYYGxUyTkFUUR0SCgULGAsPEQgPFBcI",
+          "top": "YjIjJhkbMR4bMSAbLx4VKiUOMCQNKyQKJikKJyQUNFMZIC0MJzUFJS0LICwJIC0KIC0HICUHIiAHJCkMUw0BNg8mHg8VJAEXIAQVIQUOIAsOHhAMHhMOEh0JJBJAHUAsFiIjGCQoFiYtESQlFiIqFyEqGhknFhkeLx8SVRo2ESQsCig1EycxER4rFCAoFiAmESUiEiMRGQs0E0FCGiIOICgJGyYLFx8PFSAFBiASDxwSBhISCiUrJDktHQsZFSMSGCoOHCkLHxwYEx8KJCcEHSUPSUE0REQwMjMGOyA5OylEQClALU0JJFg2QSU9LjQ6Cx0hBTNfGjxQNRMMGDEQHSsUck55TDWJIzMZJiYeQUlFQEoTOhAzbzRTJgkGJjQ/IntVF1RJQjY7P0A5ERgeGhkiBiMGgWw9VlpucE9IQ0VPKDAdHxgZGyEZEhMWFBQWGhAHdG0aFA8iQVNnQEYKBBYTBgQNGAcuDQwMCQwJBgcJXoI0Ji8xJxQibW0tCSA9VVlOMYGKUldQCh9STlEvFmtkLiU2ISU8nU9XSFp1LShpcHg4i4udRXd+ZW+GLhM3RBwoJSEWpXA6aHY+MyowJhoK",
+          "middle": "DQwMCQwJBgcJXoI0Ji8xJxQibW0tCSA9VVlOMYGKUldQCh9STlEvFmtkLiU2ISU8nU9XSFp1LShpcHg4i4udRXd+ZW+GLhM3RBwoJSEWpXA6aHY+MyowJhoKMTBjVWUsJx9qfAkJJiQVaTcWUqJCrl0YQxUNJnRTAgQ0OCkUEgIndzsEGSY6I6BqL0yPZAkJKicRVDpSAggrJhsjBxkQRE8GCjkRgQlxOSM0OhcRESUzPUtNBRw+OjkVEAMwfjYLAilGOWFSTXFymFsqLgs9Dlk2IR1fPnMyMClweAUNBBxKJCotiCcbQVw4IBogDy0UhoaVVG2DanGAJBEIBA4sNy5wYS4xWU8aLhYqLUgwaGplFhhPTEwrDgkEAhEmBiZZSE47rHQPNkNlXGh0AwACBQkJBwkKDQkEAQkyKExtWSkWdakwXoJ2LiFpLTIzMjM2NjMyMSomJChAPQ94whwsPmlwTgskNj8qWFlaW1hVVlZWUkpKSkpIEx0xvfFKiigjZIVWSUlPMzIwMTArLCwpJygqKygnKA5PDZTDln2QkDYdHxsaCgkHCQcHCAUEBQQEAwQDFSsVNRZGGiRTIwgCAgQD",
+          "bottom": "LTIzMjM2NjMyMSomJChAPQ94whwsPmlwTgskNj8qWFlaW1hVVlZWUkpKSkpIEx0xvfFKiigjZIVWSUlPMzIwMTArLCwpJygqKygnKA5PDZTDln2QkDYdHxsaCgkHCQcHCAUEBQQEAwQDFSsVNRZGGiRTIwgCAgQDAgICAgIDAQEBAAICAgECAhgbISURCAoOBgEAAgECBgcEAgICAgEDAgACAwICCDJrUSUCFgcFAAMCAwQFCwwOCwoJCAcBBAMDBAUHLmVWbIBMDhgGCwoLCgwNDQ8KBwQGBQgLBgcHBwQKL1w1J0hxI0sIFQEDBAYHAwIDAwQDBAMEBwcHBgYJFVNDY0UfXENqECQeEgkLFBUTEREQDgwNDQ0KCwkMEzwrQEBaLE9fayIVFhMLCgkGBAMEBAICAgMCAQQZDSorFQQZNj89LElcakUXEA8KBgcIBgQGBwcDBAoVIhUMHyQnJSsNCSRKRlg1BAMGBwkKDxAPERccHRkMIyAbHB0bEg8KBAQqSTwOBQIFAwIOEBIZHiIlJDsNPCYOEAoHCQsLBAkMHBAICQwOEhkZGBYYGxUyTkFUUR0SCgULGAsPEQgPFBcI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.271882,
+          "top": 14.403894,
+          "middle": 24.001491,
+          "bottom": 27.678399,
+          "effectiveRatio": 0.561538
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1409
+      },
+      "sha256": "ca4ed46380e545688d2ca3b5b2f4d1fc6331bf70011af4e7911073ed9c4fa35b",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-eleven-extra\\kr-hs3-story\\photos\\photo-ca4ed46380e5.jpg",
+      "strict": true,
+      "name": "김강연 넥스트레벨 투구 전신",
+      "subject": "김강연",
+      "checkedAt": "2026-10-16T11:26:23.121Z",
+      "creditDisplay": "사진 · 스포츠조선 송정헌 (2026.07.10 자료사진)",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9581263307310149
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료.",
+        "note": "국내언론원문이직접게재한실사진이며생성·업스케일·생성형복원없음."
+      },
+      "fit": "cover",
+      "captionEvidence": "10일 잠실구장에서 올스타 프라이데이 넥스트레벨 매치가 열렸다. 투구하는 장안고 김강연. 잠실=송정헌 기자songs@sportschosun.com/2026.07.10/",
+      "context": {
+        "archivePhoto": true,
+        "isCurrentGamePhoto": false,
+        "event": "2026-07-10 잠실 넥스트레벨 매치",
+        "people": [
+          {
+            "name": "김강연",
+            "team": "장안고·팀 넥스트",
+            "role": "고2 투수·넥스트레벨선발"
+          }
+        ],
+        "visualNote": "잠실마운드에서김강연이공을던지는전신사진. 다른프레임이며공·얼굴·장안고유니폼선명.",
+        "editorialNote": "2025봉황대기나2026년5월황금사자기현장이아닌7월10일넥스트레벨자료사진으로표시한다."
+      }
+    }
+  ]
+}
