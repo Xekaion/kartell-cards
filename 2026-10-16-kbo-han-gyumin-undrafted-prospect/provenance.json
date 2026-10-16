@@ -1,0 +1,480 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "고2 국대 한규민, 부산고전 5이닝 무실점",
+  "issueKey": "highschool-2026-han-gyumin-national-sports-busan-five-scoreless",
+  "checkedAt": "2026-10-16T08:04:12.524Z",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=540894",
+  "corroboratingUrls": [
+    "https://www.korea-baseball.com/game/box_score?game_idx=39768",
+    "https://www.korea-baseball.com/game/record_detail?game_idx=39768",
+    "https://www.korea-baseball.com/info/player/player_view?person_no=201803001800&gubun=P",
+    "https://www.korea-baseball.com/info/team/team_player?club_idx=171&season=2026&kind_cd=31",
+    "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=11797",
+    "https://www.pressian.com/pages/articles/2026091716451107035",
+    "https://www.mt.co.kr/index.php/amp/sports/2026/09/06/2026090512314125023"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.korea-baseball.com/game/box_score?game_idx=39768",
+      "publishedAt": "2026-10-16",
+      "role": "primary-current-game-final-score",
+      "note": "오늘09시전국체전18세이하16강,대전고3대2부산고10회종료. 현재사건의주근거는KBSA이며7월KBO사진기사를오늘기사로간주하지않는다."
+    },
+    {
+      "url": "https://www.korea-baseball.com/game/record_detail?game_idx=39768",
+      "publishedAt": "2026-10-16",
+      "role": "primary-current-individual-game-record",
+      "note": "한규민선발5IP19BF84P2H0BB1HBP5K0R0ER,승패표시없음.안태건5IP2R0ER승리."
+    },
+    {
+      "url": "https://www.korea-baseball.com/info/player/player_view?person_no=201803001800&gubun=P",
+      "publishedAt": null,
+      "role": "official-domestic-season-cumulative",
+      "note": "10월16일조회17G73IP7W3L90K9ER ERA1.11. 오늘경기반영된누계를사용."
+    },
+    {
+      "url": "https://www.korea-baseball.com/info/team/team_player?club_idx=171&season=2026&kind_cd=31",
+      "publishedAt": null,
+      "role": "official-current-school-grade",
+      "note": "2026대전고29번한규민투수2학년."
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=540894",
+      "publishedAt": "2026-07-10",
+      "role": "directly-relevant-kbo-development-background",
+      "note": "실제한규민이주인공인KBO게재OSEN넥스트레벨매치선발원문.2028드래프트대상고2유망주기량소개행사.현재경기/누계의근거를대신하지않는다."
+    },
+    {
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=11797",
+      "publishedAt": "2025-12-22",
+      "role": "official-development-program-background",
+      "note": "전년도고1해외아카데미16명명단에대전고한규민실명확인.다른명단인물을원고에추가하지않음."
+    },
+    {
+      "url": "https://www.pressian.com/pages/articles/2026091716451107035",
+      "publishedAt": "2026-09-17",
+      "role": "firsthand-u18-return-interview",
+      "note": "고2투수한규민과고3우주로귀국인터뷰.한규민의선배훈련/경험배움소감부분만본문에사용."
+    },
+    {
+      "url": "https://www.mt.co.kr/index.php/amp/sports/2026/09/06/2026090512314125023",
+      "publishedAt": "2026-09-06",
+      "role": "firsthand-u18-selection-background",
+      "note": "대표팀유일고2투수한규민.최고147/목표155구별하되원고에구속을쓰지않음."
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "name": "한규민 넥스트레벨 매치 선발 와인드업",
+      "subject": "한규민",
+      "sourcePageUrl": "https://www.mt.co.kr/amp/sports/2026/07/10/2026071015290317643",
+      "sourceUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071015290317643_1.jpg",
+      "imageCredit": "스타뉴스 김진경",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.07.10 자료사진)",
+      "photoDate": "2026-07-10",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "checkedAt": "2026-10-16T08:01:26.968Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-undrafted-prospect\\photos\\photo-e9747f0c200e.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:01:26.947Z",
+        "width": 1200,
+        "height": 1517,
+        "bytes": 1437601,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.6827200995676315,
+        "entropy": 6.260768472175187,
+        "effectiveDetailRatio": 0.444591,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071015290317643_1.jpg",
+        "sha256": "e9747f0c200e210e1592977a2dbb562b547412bcea54f772680275bad78b797e",
+        "perceptualHash": "096862c78d1c8623",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AAIAAQIBAQIDBAMDBAQCAQEBAQMFBgMBAwYGCAkKAQIBAQMCAgEDAgICBAEBAwQECQYPJQoKCgwODQoLBAMDBQQCAQEFBwUICQoLDAwRD0tfMjASCggKCAYGAQECAgEEBQYGBAUHBAQFBAkbgYxiUjUvCAcJCQwODhAODAwKBwwSFhQSFBYXFhNwqEY7TyoiPBYYGRkYDg4PDQkICAsKAwYNBQUDCxeCayurqD1ZZBsJBQsMBwkJCQsGBQsRBhcxJScrEQ2IeKWiI8unW2oVERIREhMSEg4KCg8RbohmjWwgPjU4cEQ5hnFqmR4EAgEBCQkHBQUJBhJ3qGk1WtGxe30kXFgZQEBuPg0DAAABAgEBAwQBBCiTbBoLNFt8UWymTmZKFx4xLwcCAQECAgIBAgMBCxxigBsWMhQqTjCijhl+VxpLKwIBAQECBAMDAwUBAg9PpU0oNBmNlI5XtTsocEI3AQICAQMEAAICBQYKBBIut3sLCiqjiqZxmVUdEScHBAUCBQcGBgYEBAMDJWAYw40PBhefhSp1SzAMFBMNBwoLDAoJBgQEAgklhmmnfrcfBzHVfxYXGiEGHxcGBgcKCQoJBQQJBiGTfSKJI8Z0cMbQFRoaHSoLFR8NCQgGCAgJEBQWFoKNIiGDT2TVkKEsIh4gDywwJygLAwQCAQkKCgQGRpI4M56BEjAIKDUWDRUwFxFoVBMNEAoMBgkNBxAeh2ourXoJFSUaUTkNFwgyE1l3YDoVCwgLDQkLBgxWhAWpgwYHEUJdTg8LEQUcSnUFeTUBAgIDAgEICwpai3WfEAMDIzwXFhEYBggQMGuBWxQEBAgIBwYJBAkZPHIhDwoVOyUDAhAMDwsQHBNaHAYJCQYGBQMFCRoiEi4EBwclSRgFBAsPBwYWIAYOCAoHBQQAAgUCGBYaKQsHBgk+MAEGCAkJBgkPIxgNCgUGAQMDAwIBESUOCQMCAx04HBUHAwQGDQcGGSQUCwcFAgYCAgEBDQoPEggHBh8kGhUPCAcOBAYOEioeCgcHBgMIBwEDBA0MBgQEBBAjIxUNEw0JCBIfIUAgDA8PCQ0MCQgEAQIDAgQDBCA/FRUbDA4PCCEaODAOBAQDAwIDAwYGCwoJBwkKDSswFB4FBwQGEBM+IwgEBAcGBgcFBAQDAwEBAgICBDEvEgUOBAULEA8WRE4bCAUIBAIGAQUDCQoHCg0JDBgyHgQEAgsLBAYOBjNUIAMGBAEEBQEBBwcJBgcIAQEaNigaFA0OCwoJCwMxTxYMCQcGBwMBBwcFCwoJCAgPFTQ3MycbEg0LCwkFOTsKBQMEAgQDCQkKBwUHAQIEEQsTKTQdFhAKCQwJEkcwDAsLDQkGBQQEBwUEBAkHChQaFRgwGg4LCQgLAx1CJgUEBQUHCQkICAUEBgEDAgIFDRAXIhIODQwJCBUrJhAKCwkEBAUHCwgGBwgIBwkICAQMJRsNDRAMDBU+FwgGCQkICAcKBAcFBAUFBQIFBAIEEycgEg8RCggyQgsFAgQB",
+          "top": "AAIAAQIBAQIDBAMDBAQCAQEBAQMFBgMBAwYGCAkKAQIBAQMCAgEDAgICBAEBAwQECQYPJQoKCgwODQoLBAMDBQQCAQEFBwUICQoLDAwRD0tfMjASCggKCAYGAQECAgEEBQYGBAUHBAQFBAkbgYxiUjUvCAcJCQwODhAODAwKBwwSFhQSFBYXFhNwqEY7TyoiPBYYGRkYDg4PDQkICAsKAwYNBQUDCxeCayurqD1ZZBsJBQsMBwkJCQsGBQsRBhcxJScrEQ2IeKWiI8unW2oVERIREhMSEg4KCg8RbohmjWwgPjU4cEQ5hnFqmR4EAgEBCQkHBQUJBhJ3qGk1WtGxe30kXFgZQEBuPg0DAAABAgEBAwQBBCiTbBoLNFt8UWymTmZKFx4xLwcCAQECAgIBAgMBCxxigBsWMhQqTjCijhl+VxpLKwIBAQECBAMDAwUBAg9PpU0oNBmNlI5XtTsocEI3AQICAQMEAAICBQYKBBIut3sLCiqjiqZxmVUdEScHBAUCBQcGBgYEBAMDJWAYw40PBhefhSp1SzAMFBMNBwoLDAoJBgQEAgklhmmnfrcfBzHVfxYXGiEGHxcGBgcKCQoJ",
+          "middle": "AAICBQYKBBIut3sLCiqjiqZxmVUdEScHBAUCBQcGBgYEBAMDJWAYw40PBhefhSp1SzAMFBMNBwoLDAoJBgQEAgklhmmnfrcfBzHVfxYXGiEGHxcGBgcKCQoJBQQJBiGTfSKJI8Z0cMbQFRoaHSoLFR8NCQgGCAgJEBQWFoKNIiGDT2TVkKEsIh4gDywwJygLAwQCAQkKCgQGRpI4M56BEjAIKDUWDRUwFxFoVBMNEAoMBgkNBxAeh2ourXoJFSUaUTkNFwgyE1l3YDoVCwgLDQkLBgxWhAWpgwYHEUJdTg8LEQUcSnUFeTUBAgIDAgEICwpai3WfEAMDIzwXFhEYBggQMGuBWxQEBAgIBwYJBAkZPHIhDwoVOyUDAhAMDwsQHBNaHAYJCQYGBQMFCRoiEi4EBwclSRgFBAsPBwYWIAYOCAoHBQQAAgUCGBYaKQsHBgk+MAEGCAkJBgkPIxgNCgUGAQMDAwIBESUOCQMCAx04HBUHAwQGDQcGGSQUCwcFAgYCAgEBDQoPEggHBh8kGhUPCAcOBAYOEioeCgcHBgMIBwEDBA0MBgQEBBAjIxUNEw0JCBIfIUAgDA8PCQ0MCQgE",
+          "bottom": "GBYaKQsHBgk+MAEGCAkJBgkPIxgNCgUGAQMDAwIBESUOCQMCAx04HBUHAwQGDQcGGSQUCwcFAgYCAgEBDQoPEggHBh8kGhUPCAcOBAYOEioeCgcHBgMIBwEDBA0MBgQEBBAjIxUNEw0JCBIfIUAgDA8PCQ0MCQgEAQIDAgQDBCA/FRUbDA4PCCEaODAOBAQDAwIDAwYGCwoJBwkKDSswFB4FBwQGEBM+IwgEBAcGBgcFBAQDAwEBAgICBDEvEgUOBAULEA8WRE4bCAUIBAIGAQUDCQoHCg0JDBgyHgQEAgsLBAYOBjNUIAMGBAEEBQEBBwcJBgcIAQEaNigaFA0OCwoJCwMxTxYMCQcGBwMBBwcFCwoJCAgPFTQ3MycbEg0LCwkFOTsKBQMEAgQDCQkKBwUHAQIEEQsTKTQdFhAKCQwJEkcwDAsLDQkGBQQEBwUEBAkHChQaFRgwGg4LCQgLAx1CJgUEBQUHCQkICAUEBgEDAgIFDRAXIhIODQwJCBUrJhAKCwkEBAUHCwgGBwgIBwkICAQMJRsNDRAMDBU+FwgGCQkICAcKBAcFBAUFBQIFBAIEEycgEg8RCggyQgsFAgQB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 10.111787,
+          "top": 11.653911,
+          "middle": 12.05865,
+          "bottom": 5.441945,
+          "effectiveRatio": 0.444591
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1517
+      },
+      "sha256": "e9747f0c200e210e1592977a2dbb562b547412bcea54f772680275bad78b797e",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 원문에 실제 실린 스포츠조선·스타뉴스 사진을 원기자 크레딧과 연결했다. 이미지 생성·업스케일·생성형 복원은 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다. 넥스트레벨 매치에서 레벨팀 선발 한규민(대전고)이 역투하고 있다.",
+      "context": {
+        "event": "2026-07-10 잠실 KBO 올스타 프라이데이 넥스트레벨 매치",
+        "isCurrentGamePhoto": false,
+        "archivePhoto": true,
+        "people": [
+          {
+            "name": "한규민",
+            "team": "대전고등학교",
+            "role": "투수"
+          }
+        ],
+        "visualNote": "한규민의 얼굴과 공·글러브가 모두 선명한 세로 원본. 모자에는 넥스트레벨 캠프 로고가 있고 대전고 유니폼을 입었다. 얼굴과 글러브를 보존하는 중앙 cover 사용 가능.",
+        "editorialNote": "2026-10-16 전국체전 경기 사진이 아니다. 사진 촬영일을 자료사진 크레딧으로 표시한다."
+      }
+    },
+    {
+      "name": "한규민 넥스트레벨 매치 투구 릴리스",
+      "subject": "한규민",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-10/202607100100067550004168",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/10/2026071001000675500041681_w.jpg",
+      "imageCredit": "스포츠조선 송정헌",
+      "creditDisplay": "사진 · 스포츠조선 송정헌 (2026.07.10 자료사진)",
+      "photoDate": "2026-07-10",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "checkedAt": "2026-10-16T08:01:27.228Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-undrafted-prospect\\photos\\photo-5810267ab96b.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:01:27.220Z",
+        "width": 1200,
+        "height": 1561,
+        "bytes": 1104499,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.8420783035439885,
+        "entropy": 7.193176546301402,
+        "effectiveDetailRatio": 0.56871,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/07/10/2026071001000675500041681_w.jpg",
+        "sha256": "5810267ab96b4d3b58b85666bbf6480664095287d27ea8459b9612832b698626",
+        "perceptualHash": "31a64d264b4826e9",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "LAgJBxUUDA8cHREOLi4DLjsCIkUSFj4mKkApVGBSUlJSVllZUlVbXFxQS1RWR01WT1BWQx0wWnZkVVJLJSc1NCwwNjQmKi8zMykvOS4tOyUVKg8qJUNcVi0cFhgZFhMKBiwbARgaGA8VFxcLFzslCB4fNBkbGAYHFxsVFhEeXCQ5OxkaFhYUIBdaHTRCPCkxFwgEBAQEAhAIDAZEPXhRUU0KBgkTNa58bRZIIAwDAwUGBAICPYo3CxEqbbVgWm02Bw5RzodcdG4oOQYBAwMGAgEDP325OChsjFcYPo5HM5zJbyo8P09uCAQDAwQFAgEDb1qaenSULjRYF4F7y6hAKjEMS2ceFwEDAwMFAgEDiTM3UVJGVTQ5dxmqaw8MISM7NJBpHgQCAgIFAQIFJw8yOkQHUDRfXZ9WBz8QBSEcAj5/OgUBAgIGAQIFdFEPISBeUiRToZYcU4lrCgoGYrVXBQMBAgIFAQEDkC0tHSE9G1Jlgh5alz2IVgk1mmQeDgIBAAQEAQICkEIrIx9XHl0QRIluQG5WYBQtoVAdCgMBAQQEAwQCUjBEOyp4K1WGrpYOfxBRZFMVcbcNFAIAAQMDAgQDfKKqnoNxQzuac0e2U3sfe0ATGJRlCwQCAQQEAwMEg2xLNn1caEB8PI5nPUtONxwQJFF/CwsDAgQGBAIBEBojIwJxVygdUysmRQ0NJiILCxmHdBMUEA4PERshV1ZSUFmEKUAiEhohGxsJAywjIyU3k2ZERUNFRkNCU1RSU1lLCygeVRQ8MCw3F0RfMkUmLVk9Q0VGRTkxFRUWFhkQBkufepY3UFJLbF5IU1RuBC8UEBESFRMRAgIDAwQEB2SeIKlUKIOQHzVzGldwYiYZBgUEAwMCBAQFBQQEBk9vJoxdJT6AskkkRSl2VQsrCwQDAwQEBgYHCQkJFVJwWaLFNwQHXHIXLysdNBIfFAgICAgJAQEDAwEHJJmvVGvjbQADKkhVDhoySyoTFwMBAQAABwYGCAoGbtBVC4DZUAQjNAceRzYLTE8CGgwGBAMHBAQGBAsim40tE6nWUR89GQcNBj07H2YqJBIPCw0MCw0ODA4pqJdOeZZ+hTYdBgkLDQhCLE5fFCwpCQUHCwwNDg8GRMLBsycVRTsMDgwMEw4fXBRtL19JLAQMERMREhARDT9ifk0oUj0KFBQPEBIIN10XTGpPXTsJDg0MDQ0NCxIhNoEmSz8MCgsMDA0QDh1EbVY7OTY5EBIQEREPDwwSJlZSMy4PDg0NDA0NDQwGJn5ZQjUKBQQEBQgHBAcPLyk7PBQLCgYGAQMEBgQEBxV7cqljERQRERMQDg8UGy0mJgkEDBMUGRMMCw4NCxR7lWKiAgEEBgQEBAQSOSkvEBgdHhkcGRgjJiUsLTl1lUydCxENDhISGB0pYXEmEg4PCAUJBhEjHhwbGSUhUpY3DBAUFiEkIhw/OTU+GAoJDAsPFBcGEA4hHS9GUUo7HRobHhwgKzopIyoXIR0WEAcPBQ4aDQ4MBgsEBwYG",
+          "top": "LAgJBxUUDA8cHREOLi4DLjsCIkUSFj4mKkApVGBSUlJSVllZUlVbXFxQS1RWR01WT1BWQx0wWnZkVVJLJSc1NCwwNjQmKi8zMykvOS4tOyUVKg8qJUNcVi0cFhgZFhMKBiwbARgaGA8VFxcLFzslCB4fNBkbGAYHFxsVFhEeXCQ5OxkaFhYUIBdaHTRCPCkxFwgEBAQEAhAIDAZEPXhRUU0KBgkTNa58bRZIIAwDAwUGBAICPYo3CxEqbbVgWm02Bw5RzodcdG4oOQYBAwMGAgEDP325OChsjFcYPo5HM5zJbyo8P09uCAQDAwQFAgEDb1qaenSULjRYF4F7y6hAKjEMS2ceFwEDAwMFAgEDiTM3UVJGVTQ5dxmqaw8MISM7NJBpHgQCAgIFAQIFJw8yOkQHUDRfXZ9WBz8QBSEcAj5/OgUBAgIGAQIFdFEPISBeUiRToZYcU4lrCgoGYrVXBQMBAgIFAQEDkC0tHSE9G1Jlgh5alz2IVgk1mmQeDgIBAAQEAQICkEIrIx9XHl0QRIluQG5WYBQtoVAdCgMBAQQEAwQCUjBEOyp4K1WGrpYOfxBRZFMVcbcNFAIAAQMDAgQD",
+          "middle": "kC0tHSE9G1Jlgh5alz2IVgk1mmQeDgIBAAQEAQICkEIrIx9XHl0QRIluQG5WYBQtoVAdCgMBAQQEAwQCUjBEOyp4K1WGrpYOfxBRZFMVcbcNFAIAAQMDAgQDfKKqnoNxQzuac0e2U3sfe0ATGJRlCwQCAQQEAwMEg2xLNn1caEB8PI5nPUtONxwQJFF/CwsDAgQGBAIBEBojIwJxVygdUysmRQ0NJiILCxmHdBMUEA4PERshV1ZSUFmEKUAiEhohGxsJAywjIyU3k2ZERUNFRkNCU1RSU1lLCygeVRQ8MCw3F0RfMkUmLVk9Q0VGRTkxFRUWFhkQBkufepY3UFJLbF5IU1RuBC8UEBESFRMRAgIDAwQEB2SeIKlUKIOQHzVzGldwYiYZBgUEAwMCBAQFBQQEBk9vJoxdJT6AskkkRSl2VQsrCwQDAwQEBgYHCQkJFVJwWaLFNwQHXHIXLysdNBIfFAgICAgJAQEDAwEHJJmvVGvjbQADKkhVDhoySyoTFwMBAQAABwYGCAoGbtBVC4DZUAQjNAceRzYLTE8CGgwGBAMHBAQGBAsim40tE6nWUR89GQcNBj07H2YqJBIPCw0M",
+          "bottom": "BgYHCQkJFVJwWaLFNwQHXHIXLysdNBIfFAgICAgJAQEDAwEHJJmvVGvjbQADKkhVDhoySyoTFwMBAQAABwYGCAoGbtBVC4DZUAQjNAceRzYLTE8CGgwGBAMHBAQGBAsim40tE6nWUR89GQcNBj07H2YqJBIPCw0MCw0ODA4pqJdOeZZ+hTYdBgkLDQhCLE5fFCwpCQUHCwwNDg8GRMLBsycVRTsMDgwMEw4fXBRtL19JLAQMERMREhARDT9ifk0oUj0KFBQPEBIIN10XTGpPXTsJDg0MDQ0NCxIhNoEmSz8MCgsMDA0QDh1EbVY7OTY5EBIQEREPDwwSJlZSMy4PDg0NDA0NDQwGJn5ZQjUKBQQEBQgHBAcPLyk7PBQLCgYGAQMEBgQEBxV7cqljERQRERMQDg8UGy0mJgkEDBMUGRMMCw4NCxR7lWKiAgEEBgQEBAQSOSkvEBgdHhkcGRgjJiUsLTl1lUydCxENDhISGB0pYXEmEg4PCAUJBhEjHhwbGSUhUpY3DBAUFiEkIhw/OTU+GAoJDAsPFBcGEA4hHS9GUUo7HRobHhwgKzopIyoXIR0WEAcPBQ4aDQ4MBgsEBwYG"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.249508,
+          "top": 24.668392,
+          "middle": 30.13081,
+          "bottom": 38.222444,
+          "effectiveRatio": 0.56871
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1561
+      },
+      "sha256": "5810267ab96b4d3b58b85666bbf6480664095287d27ea8459b9612832b698626",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 원문에 실제 실린 스포츠조선·스타뉴스 사진을 원기자 크레딧과 연결했다. 이미지 생성·업스케일·생성형 복원은 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "10일 잠실구장에서 올스타 프라이데이 넥스트레벨 매치가 열렸다. 투구하는 대전고 한규민. 잠실=송정헌 기자 /2026.07.10/",
+      "context": {
+        "event": "2026-07-10 잠실 KBO 올스타 프라이데이 넥스트레벨 매치",
+        "isCurrentGamePhoto": false,
+        "archivePhoto": true,
+        "people": [
+          {
+            "name": "한규민",
+            "team": "대전고등학교",
+            "role": "투수"
+          }
+        ],
+        "visualNote": "공을 놓은 뒤 팔이 내려오는 한규민의 독립 실제 프레임. 정면 얼굴·유니폼 29번·두 발이 보이며 이전 사진과 같은 프레임 재크롭이 아니다.",
+        "editorialNote": "2026-10-16 전국체전 경기 사진이 아니다. 사진 촬영일을 자료사진 크레딧으로 표시한다."
+      }
+    },
+    {
+      "name": "한규민 넥스트레벨 매치 투구 직전",
+      "subject": "한규민",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/07/10/2026071015314928057",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/07/2026071015314928057_1.jpg",
+      "imageCredit": "스타뉴스 김진경",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.07.10 자료사진)",
+      "photoDate": "2026-07-10",
+      "photoDateLabel": "2026-07-10 자료사진",
+      "checkedAt": "2026-10-16T08:01:27.686Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-undrafted-prospect\\photos\\photo-12d460ba728f.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T08:01:27.671Z",
+        "width": 1200,
+        "height": 1778,
+        "bytes": 2178433,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.583887239836653,
+        "entropy": 6.618997806107473,
+        "effectiveDetailRatio": 0.511494,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/07/2026071015314928057_1.jpg",
+        "sha256": "12d460ba728ffc5ec51fc7e7dfbf278d7f4b69e511ba49c96f7092eb73d82b8f",
+        "perceptualHash": "2964b2524964d4e8",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DwwREhESERAVMjMcdlofLD4HWmNIEgoICQsNCwwMCwgODRAMCQo4hitTr6hoEzBgZhNuZjUMBAQCAQECBgcHBwQCAQl+S0R5Q61mAgYGWYMRV2s+BwIGAwIAAwQFBAYHBQl3VUgVd3QgBAQCCFKJNEdYNgkBAgMCCAIHBgYDAQo5phFAIEYfCgYSHBJeh3s6OR8FBQIECgYCCw8JAgUNSY8sM2lYCSgzKiQrQTNkHSAKCQ0MEwsJDQoRDgwKDTR4QTaEXzASCQwEDhcpLA8KCgwNDxEDCQoGAQYODRpoc2CVewYBCzMVJjMyGRAEAgQDDgICBgYCBA0FPCg6f4Z1FgQhT1ZIKBoNBggOCQcJBAYEAQkEBAUtLwwJLSMREW9YXTk7IQkNDhIKCAsKCQgFBAEFAhMuCAoVCQ45l6xhL0RWDwwDAQACBQIBAgYFAgUDCyolBgoLInS6oytff1gzHwoFAQQFAwQDCAUBAQECEjAULEhPZZ1jHWipYlskQBEHCQMEAQICAgQEAwMEJBhOX1lGK2E6eZBOKCVLOScPAwMBAAMBAwMBAgEYGTlFHRQxG0RaahsNIBEjAiYVAwMEAgUBAwMBAgYRFTs8Byw2HxMmERIOIhILECEiDg4LCgkIAwQFAwQNJFpzhDYWMAsVGRUYGxwQESMfBgECAQIGAwQBAgQDFXtsf3wRNScYCw0TJxY9JxQLBAECAwQDCAYCBgQFDndua4AhIlMmWT8cNIQ6PRAXAwEEAgQFAwEAAQEEG2pRaHUlE2KPFGJFelp/Sh8gCAwIBgcEAgMEBQQEKlkyMZd+Kh16w1MJJZExVzQRCwgGBQUECggEBQIBMlM4NHLVqCYGX6EgTkpIP1kdFAkJBwoJCgUBAgIGN0tAUTV37F4DDnJSMDUNQhYkFwgHCAcECQgICAYGHGh9QA48upYRB0xmGyMlOTgRGQYJBgsLAwIFBAADTKxbFR6Sy0YYDjg4QRcUL0sKFQYAAwQBBwcFBQYLfoYSK0r2ej80LzUHID0WFUklDwYFBAgJCAsJBwkJSMR/dOF8RGR3URcODSQ0CzgqJgwJCgcKAwEDBAQCB0+YlXkgRCMzQRYCBwg5Jj1CTRoCAgUFGhwXFhcZGRIvLBU6PxAvOhwZFRMjYjFsP04aFBASFBEPExAQDQ0IAglMUhxDWxoHBQQXJ4czbEIXGBIcEBANDxEWHCEeGxs9OGg7QhAMBxIZJ2xdeXgiEhoZBQYIERYbGxwaFh4XQDg1Gx0VFRkWG4NrcIEtNDhACQUJDg4HBgkECAkUMwomEycfHhsbLYJZhmM6LRUQBw0OCQYGAQgJBgoVNBQ2Fw8bHBsmKitaTh8UFxMHDg0JCQkKCw4NBgMYNRJBFw8SEAsGChMuJR4aGQ0IDwsREhAPDBURDwsUUFA/GAoKAgMMCg0UFRMUGBUSCg0QCQcFCAcBAQobLWoqCQoSBgkKCAwPBgkMBwEIBgUMKhAEBgEDByMOPwkxGgUMFRMUEw8IBxAKCQcL",
+          "top": "DwwREhESERAVMjMcdlofLD4HWmNIEgoICQsNCwwMCwgODRAMCQo4hitTr6hoEzBgZhNuZjUMBAQCAQECBgcHBwQCAQl+S0R5Q61mAgYGWYMRV2s+BwIGAwIAAwQFBAYHBQl3VUgVd3QgBAQCCFKJNEdYNgkBAgMCCAIHBgYDAQo5phFAIEYfCgYSHBJeh3s6OR8FBQIECgYCCw8JAgUNSY8sM2lYCSgzKiQrQTNkHSAKCQ0MEwsJDQoRDgwKDTR4QTaEXzASCQwEDhcpLA8KCgwNDxEDCQoGAQYODRpoc2CVewYBCzMVJjMyGRAEAgQDDgICBgYCBA0FPCg6f4Z1FgQhT1ZIKBoNBggOCQcJBAYEAQkEBAUtLwwJLSMREW9YXTk7IQkNDhIKCAsKCQgFBAEFAhMuCAoVCQ45l6xhL0RWDwwDAQACBQIBAgYFAgUDCyolBgoLInS6oytff1gzHwoFAQQFAwQDCAUBAQECEjAULEhPZZ1jHWipYlskQBEHCQMEAQICAgQEAwMEJBhOX1lGK2E6eZBOKCVLOScPAwMBAAMBAwMBAgEYGTlFHRQxG0RaahsNIBEjAiYVAwMEAgUB",
+          "middle": "CAUBAQECEjAULEhPZZ1jHWipYlskQBEHCQMEAQICAgQEAwMEJBhOX1lGK2E6eZBOKCVLOScPAwMBAAMBAwMBAgEYGTlFHRQxG0RaahsNIBEjAiYVAwMEAgUBAwMBAgYRFTs8Byw2HxMmERIOIhILECEiDg4LCgkIAwQFAwQNJFpzhDYWMAsVGRUYGxwQESMfBgECAQIGAwQBAgQDFXtsf3wRNScYCw0TJxY9JxQLBAECAwQDCAYCBgQFDndua4AhIlMmWT8cNIQ6PRAXAwEEAgQFAwEAAQEEG2pRaHUlE2KPFGJFelp/Sh8gCAwIBgcEAgMEBQQEKlkyMZd+Kh16w1MJJZExVzQRCwgGBQUECggEBQIBMlM4NHLVqCYGX6EgTkpIP1kdFAkJBwoJCgUBAgIGN0tAUTV37F4DDnJSMDUNQhYkFwgHCAcECQgICAYGHGh9QA48upYRB0xmGyMlOTgRGQYJBgsLAwIFBAADTKxbFR6Sy0YYDjg4QRcUL0sKFQYAAwQBBwcFBQYLfoYSK0r2ej80LzUHID0WFUklDwYFBAgJCAsJBwkJSMR/dOF8RGR3URcODSQ0CzgqJgwJCgcK",
+          "bottom": "CQgICAYGHGh9QA48upYRB0xmGyMlOTgRGQYJBgsLAwIFBAADTKxbFR6Sy0YYDjg4QRcUL0sKFQYAAwQBBwcFBQYLfoYSK0r2ej80LzUHID0WFUklDwYFBAgJCAsJBwkJSMR/dOF8RGR3URcODSQ0CzgqJgwJCgcKAwEDBAQCB0+YlXkgRCMzQRYCBwg5Jj1CTRoCAgUFGhwXFhcZGRIvLBU6PxAvOhwZFRMjYjFsP04aFBASFBEPExAQDQ0IAglMUhxDWxoHBQQXJ4czbEIXGBIcEBANDxEWHCEeGxs9OGg7QhAMBxIZJ2xdeXgiEhoZBQYIERYbGxwaFh4XQDg1Gx0VFRkWG4NrcIEtNDhACQUJDg4HBgkECAkUMwomEycfHhsbLYJZhmM6LRUQBw0OCQYGAQgJBgoVNBQ2Fw8bHBsmKitaTh8UFxMHDg0JCQkKCw4NBgMYNRJBFw8SEAsGChMuJR4aGQ0IDwsREhAPDBURDwsUUFA/GAoKAgMMCg0UFRMUGBUSCg0QCQcFCAcBAQobLWoqCQoSBgkKCAwPBgkMBwEIBgUMKhAEBgEDByMOPwkxGgUMFRMUEw8IBxAKCQcL"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.945003,
+          "top": 13.600975,
+          "middle": 15.857184,
+          "bottom": 29.596644,
+          "effectiveRatio": 0.511494
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1778
+      },
+      "sha256": "12d460ba728ffc5ec51fc7e7dfbf278d7f4b69e511ba49c96f7092eb73d82b8f",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 원문에 실제 실린 스포츠조선·스타뉴스 사진을 원기자 크레딧과 연결했다. 이미지 생성·업스케일·생성형 복원은 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "2026 KBO 퓨처스리그 올스타전이 10일 서울 잠실야구장에서 열렸다. 넥스트레벨 매치에서 레벨팀 선발 한규민(대전고)이 역투하고 있다.",
+      "context": {
+        "event": "2026-07-10 잠실 KBO 올스타 프라이데이 넥스트레벨 매치",
+        "isCurrentGamePhoto": false,
+        "archivePhoto": true,
+        "people": [
+          {
+            "name": "한규민",
+            "team": "대전고등학교",
+            "role": "투수"
+          }
+        ],
+        "visualNote": "한규민이 공을 머리 위로 들어 투구하는 다른 실제 순간. 릴리스 뒤 팔이 내려온 스포츠조선 컷과 공을 뒤로 뺀 첫 컷과 모두 동작이 다르다.",
+        "editorialNote": "2026-10-16 전국체전 경기 사진이 아니다. 사진 촬영일을 자료사진 크레딧으로 표시한다."
+      }
+    },
+    {
+      "name": "한규민 8월10일 봉황대기 투구",
+      "subject": "한규민",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/08/10/2026081018200933005",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/08/2026081018200933005_1.jpg",
+      "imageCredit": "스타뉴스 김진경",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.08.10 자료사진)",
+      "photoDate": "2026-08-10",
+      "photoDateLabel": "2026-08-10 자료사진",
+      "checkedAt": "2026-10-16T08:01:27.691Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-undrafted-prospect\\photos\\photo-3349e06ebb75.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T07:59:17.225Z",
+        "width": 1200,
+        "height": 1393,
+        "bytes": 1535176,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.4874940683594657,
+        "entropy": 7.173711263163568,
+        "effectiveDetailRatio": 0.514076,
+        "kind": "source",
+        "coverScale": 0.969,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/08/2026081018200933005_1.jpg",
+        "sha256": "3349e06ebb75e25a8a4833010077711aa687c5a1c8481bcc372496a59a6856c8",
+        "perceptualHash": "2123660d0cd6f9a9",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Cg8TFSYhASYcFxEYHRYmO0s7WU0VGi9AS0UdBi9UCwgRGSkhBjAgCBEKBBQjNDAVNG9LPFlMYHlJHGeIBhANHysjCkMXGQcaFiEWGigZFC03KxUiLDd1HpAnEhcMLSwgAzktDg8NGRUGCRYaGjthMFAoSU1oGYctGwkrIBIbBSEaAQ8iFwcMCgsUGCBmejYiHDkrOF9WDQgYMiIdBC0vHxgcGxMaIxwaGiwIODcnBRYUEx5DCAgLJjYpCEIvBxEIExgeGFh9QEQ2f2s+MSo0KS4yHhokHyYnLTYhGBALBwkVVHxyiilHal2kQUBYXU9RCQcGCAwkKBYJAw8RBQ0YLISPh2M+Vd9ZJyAqLyEZBwQFBj9DCAQEBQUSDwkRH1i5boh7ulkOAAIEBAIEAwAARlmFUgYBAgEWHRY4mZlFpkfPTwoCAAEBAQEAAwERMV8zdyAGAQwiHRuszTVzURbLOQcCAAAAAAABAworV2wnjigNBQ0ziMzMPRkWX1XOSQkCAAAAAAEBBVi6aEMgvbIWDyvCyIEpAwYeSKS+GQUBAQEBAQEBTr5QhxyeR97QR+upKRoIEyEpgpJxDQIAAQEBAQEBaWlbP2RDfh6vvJcTFxMSGRt5RE0/BAEBAQAAAQEBWUlUYyYjOFw3NBwLHDstNhZZpXErAwIBAAAAAAEBMEQNBzFIVVExFCMhJSw1MRgkq6wQAgEBAAAAAQECFTVtTVFUlx8cGw0fOiUHCg+L/0cIBQABAAAAAQECK29kIix4HFkzFhgVPzwJBFD5jQ0DAwABAAAAAAEBRYxUKScpXRI7GAwEJVAnCZ3NRxEFAwIBAQEAAAIEb6E2bImJQ0sYIgoIDDBLHB3P/18OBwUFBAUHBAUEvHtd0UxxjVwqLSwfFRs7QxUarv+KNDg3Ojs4PD9FlCGMSndkjEE5bA8nJBsjQTwMCXj8r31+foGEgH6BHCYrcWEiWCpFOlwsEB4ZKEovEywwoWJVVFJUUE5MTB4aHpFKgjdqcCUpNBEVHjJRESdAEjcREA4NDw4NiyYJCCuOYktfgEwHDiocDh4+VyEXTR4GBgUFBAQEOwYCAgYqFEVnYz4JBAkmJBQlQTtCMhIEAwQFAwUFBwQDAwMDBhJBTxAOAwYFKEMpMD0nKxAFBgcHCQsKEAwPDxAMDxcIGhEVDww4bgMwQFuJBhYSFhQXFRcUDxESEBASExMMOCAkFxZFO4E0N5FnUg4HAwEBAAQBBAgFAgIEAwQKByoPEiJPdhdFgDqHPhkGAgQCAgAGCwYCAwEEBQUCBRwpFiYIOEETViZ5IxsGAwQDBAEDBQkJBQkIBR0zIRs0UmVwUgwzhiB7PBARDAcJBwgLBgYGBgoJGjEKM0A8HBErYV5iiRdqX0olCQMcFxkaKykkKiwrJD1YQzEFFSMoF1hAeDE8KztaMSgsIyUoKSgtJx8ZDxYgJBcbCgUeLSkSKVs+HyIjLRwJBwgRCwkMDxAWEBMSChESEg0TFhQSESMnJR0eDBACCAsP",
+          "top": "Cg8TFSYhASYcFxEYHRYmO0s7WU0VGi9AS0UdBi9UCwgRGSkhBjAgCBEKBBQjNDAVNG9LPFlMYHlJHGeIBhANHysjCkMXGQcaFiEWGigZFC03KxUiLDd1HpAnEhcMLSwgAzktDg8NGRUGCRYaGjthMFAoSU1oGYctGwkrIBIbBSEaAQ8iFwcMCgsUGCBmejYiHDkrOF9WDQgYMiIdBC0vHxgcGxMaIxwaGiwIODcnBRYUEx5DCAgLJjYpCEIvBxEIExgeGFh9QEQ2f2s+MSo0KS4yHhokHyYnLTYhGBALBwkVVHxyiilHal2kQUBYXU9RCQcGCAwkKBYJAw8RBQ0YLISPh2M+Vd9ZJyAqLyEZBwQFBj9DCAQEBQUSDwkRH1i5boh7ulkOAAIEBAIEAwAARlmFUgYBAgEWHRY4mZlFpkfPTwoCAAEBAQEAAwERMV8zdyAGAQwiHRuszTVzURbLOQcCAAAAAAABAworV2wnjigNBQ0ziMzMPRkWX1XOSQkCAAAAAAEBBVi6aEMgvbIWDyvCyIEpAwYeSKS+GQUBAQEBAQEBTr5QhxyeR97QR+upKRoIEyEpgpJxDQIAAQEBAQEB",
+          "middle": "AworV2wnjigNBQ0ziMzMPRkWX1XOSQkCAAAAAAEBBVi6aEMgvbIWDyvCyIEpAwYeSKS+GQUBAQEBAQEBTr5QhxyeR97QR+upKRoIEyEpgpJxDQIAAQEBAQEBaWlbP2RDfh6vvJcTFxMSGRt5RE0/BAEBAQAAAQEBWUlUYyYjOFw3NBwLHDstNhZZpXErAwIBAAAAAAEBMEQNBzFIVVExFCMhJSw1MRgkq6wQAgEBAAAAAQECFTVtTVFUlx8cGw0fOiUHCg+L/0cIBQABAAAAAQECK29kIix4HFkzFhgVPzwJBFD5jQ0DAwABAAAAAAEBRYxUKScpXRI7GAwEJVAnCZ3NRxEFAwIBAQEAAAIEb6E2bImJQ0sYIgoIDDBLHB3P/18OBwUFBAUHBAUEvHtd0UxxjVwqLSwfFRs7QxUarv+KNDg3Ojs4PD9FlCGMSndkjEE5bA8nJBsjQTwMCXj8r31+foGEgH6BHCYrcWEiWCpFOlwsEB4ZKEovEywwoWJVVFJUUE5MTB4aHpFKgjdqcCUpNBEVHjJRESdAEjcREA4NDw4NiyYJCCuOYktfgEwHDiocDh4+VyEXTR4GBgUFBAQE",
+          "bottom": "lCGMSndkjEE5bA8nJBsjQTwMCXj8r31+foGEgH6BHCYrcWEiWCpFOlwsEB4ZKEovEywwoWJVVFJUUE5MTB4aHpFKgjdqcCUpNBEVHjJRESdAEjcREA4NDw4NiyYJCCuOYktfgEwHDiocDh4+VyEXTR4GBgUFBAQEOwYCAgYqFEVnYz4JBAkmJBQlQTtCMhIEAwQFAwUFBwQDAwMDBhJBTxAOAwYFKEMpMD0nKxAFBgcHCQsKEAwPDxAMDxcIGhEVDww4bgMwQFuJBhYSFhQXFRcUDxESEBASExMMOCAkFxZFO4E0N5FnUg4HAwEBAAQBBAgFAgIEAwQKByoPEiJPdhdFgDqHPhkGAgQCAgAGCwYCAwEEBQUCBRwpFiYIOEETViZ5IxsGAwQDBAEDBQkJBQkIBR0zIRs0UmVwUgwzhiB7PBARDAcJBwgLBgYGBgoJGjEKM0A8HBErYV5iiRdqX0olCQMcFxkaKykkKiwrJD1YQzEFFSMoF1hAeDE8KztaMSgsIyUoKSgtJx8ZDxYgJBcbCgUeLSkSKVs+HyIjLRwJBwgRCwkMDxAWEBMSChESEg0TFhQSESMnJR0eDBACCAsP"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 18.569009,
+          "top": 12.061569,
+          "middle": 10.529015,
+          "bottom": 25.110144,
+          "effectiveRatio": 0.514076
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1393
+      },
+      "sha256": "3349e06ebb75e25a8a4833010077711aa687c5a1c8481bcc372496a59a6856c8",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9691313711414213
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 원문에 실제 실린 스포츠조선·스타뉴스 사진을 원기자 크레딧과 연결했다. 이미지 생성·업스케일·생성형 복원은 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "제54회 봉황대기 전국고교대회 대전고 대 안산공고 경기가 10일 서울 양천구 신월야구장에서 열렸다. 대전고 한규민이 4회말 구원 등판, 역투하고 있다.",
+      "context": {
+        "event": "2026-08-10 신월 봉황대기 대전고-안산공고",
+        "isCurrentGamePhoto": false,
+        "archivePhoto": true,
+        "people": [
+          {
+            "name": "한규민",
+            "team": "대전고등학교",
+            "role": "투수"
+          }
+        ],
+        "visualNote": "빨간 대전고 모자를 쓴 한규민의 봉황대기 투구 사진. 얼굴·오른손 글러브·다리와 발 모두 확인. 배경에는 신원이 표기되지 않은 대전고 동료가 흐릿하게 보이며 기사 주인공으로 다루지 않는다.",
+        "editorialNote": "2026-10-16 전국체전 경기 사진이 아니다. 사진 촬영일을 자료사진 크레딧으로 표시한다."
+      }
+    },
+    {
+      "name": "한규민 8월10일 봉황대기 환호",
+      "subject": "한규민",
+      "sourcePageUrl": "https://www.starnewskorea.com/sports/2026/08/10/2026081018282241999",
+      "sourceUrl": "https://image.starnewskorea.com/21/2026/08/2026081018282241999_1.jpg",
+      "imageCredit": "스타뉴스 김진경",
+      "creditDisplay": "사진 · 스타뉴스 김진경 (2026.08.10 자료사진)",
+      "photoDate": "2026-08-10",
+      "photoDateLabel": "2026-08-10 자료사진",
+      "checkedAt": "2026-10-16T08:01:27.697Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-undrafted-prospect\\photos\\photo-6d4d6e3286db.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-16T07:59:17.784Z",
+        "width": 1200,
+        "height": 1704,
+        "bytes": 1787586,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.1841275821017399,
+        "entropy": 6.870479223902294,
+        "effectiveDetailRatio": 0.480775,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://image.starnewskorea.com/21/2026/08/2026081018282241999_1.jpg",
+        "sha256": "6d4d6e3286dbde6656c9fed3fbcf19a621fd0047d18e6f4c747b374f12708f49",
+        "perceptualHash": "221a983e1bc4d4a7",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "IRELEQoFJB8XFTgQDyFCa0Jofyp1UVApDRciIR0nDQcOCAoNGx4XJDoIDzA7fzp3WxZhUFQ/KiwdFQ4iGhIFCxELFiAVIjETKB9QoCyMPAhYT1FRIxcPCQsZFh4bBRcPJCMYFC8pX3G0YFSCHAlcVGRVBgkTGQ4UEA0eEA8eIR8dIR2pxnc6XIk2GxdhZXRRFyIcEggIHCAYARENDxolOKXMZqRdhjIMAgcraWMvDgkSCxAUAQIGCwUOFBQlddE8HHHSWwwQEREMNzQICQ4OEAkHBAQDAQQEBQQsw2sXKxHMoA0CAgIDAgIEBAMCAwMEAAABAQMDBAdupzQVHA6jvRcEAgAAAgECAQEBAQEBAQAAAQECBBqRchwgHyOBzjYIAgABAgECAQECAAEAAQEAAAIBAzucSxElE0eKr0cJAgEBAQEBAQEBAQEAAQEBAQIDCXeVMh8uK2lQZDgJAwEBAQIBAQABAgEBAAEBAQIKQ8VTFVuoR2dscyQMBwUBAQEBAQEBAQECAQEBAwYRq5sVV3iO7zKPtW4jRSYHAwIBAgEBAAEBAQEBAwpJwjsRLK1Ut8FcKGdkfF8oBQQBAQEAAQAAAAABAQN3oRwXCn/9Zox2RFw1KoZEJQQEAQABAQEBAAAAAQZkljYYMzmU/3ZSHhIzZRI3ZXADBQIBAAEBAAABBiGZZyMXRDcIh8lESyooNx1EQrlrCAAAAAAAAAABBh6MXRQOQ0WF2GAIEzdBNUZCyjurGgYBAAAAAAABAg98fggHIFJF8n8OBBArFTQaSaBACgEBAQEBAQEAAgc+m0AQECJVVf9fDwYaKAAqJj4JBAEBAgICCQUGCAsRZ1wtFhUlUoP9LAYJGCMdDQMIAwQEBAUBKjQ1MjQ8bkUzLA8XMjLUwUNPT09MTlBOS0xOT09Oh4OEh4aPeQ8UORsTH08W2IyAhH9+hIF/f4B/f36CWU9PUE1QSUIQOTMHEyxVPW82Pjw7PDs7Pj07Ojs8CAYHBgMEKD4TWC44Dhw3Jj8eAwABAQECAQEBAAEBAQIBAgEBIjYOSzIeHBg+Kh8uBAEBAQEBAwIDAQMCAgECAgAGJEclSjkOHFB3ey0sAQIBAgEBAwIDAwQEBAUDAwgfgXhIUS0HMX8gaTkJBwkICAgJCAcKCAoIAQEAAglpqkx9iR8QcWpRXRgCBAMDBQEEBQUHCQgHEBERExmUhxqechokhj1RXSYRFBUVFRYVEhQUExQUFhMUFx6NdHe3KhIvch1xVxoPDQ4MDBAMDAsIBwoKBwcKCR2hKNA/GAsadgmnER4ODAkLCQkLDAkMCgwLBg4JCndynm4cBggUZkV6MwkGBwQFBAMDBAQIBwcGBgIERnZJeQQHCAcSSHw9LwwJCgYHCQcKCAkICAoEBRENXGBObBQQBA0vKWxCHwwJDgcGCAsJCQgJCgwJCAYLNGRERzsGBAlYLEcxHgwDCAcECAICAgcDAgEDCBEREyw+FzQQCC5iHVQuFR0SEAsDCgwKCwkJDAwP",
+          "top": "IRELEQoFJB8XFTgQDyFCa0Jofyp1UVApDRciIR0nDQcOCAoNGx4XJDoIDzA7fzp3WxZhUFQ/KiwdFQ4iGhIFCxELFiAVIjETKB9QoCyMPAhYT1FRIxcPCQsZFh4bBRcPJCMYFC8pX3G0YFSCHAlcVGRVBgkTGQ4UEA0eEA8eIR8dIR2pxnc6XIk2GxdhZXRRFyIcEggIHCAYARENDxolOKXMZqRdhjIMAgcraWMvDgkSCxAUAQIGCwUOFBQlddE8HHHSWwwQEREMNzQICQ4OEAkHBAQDAQQEBQQsw2sXKxHMoA0CAgIDAgIEBAMCAwMEAAABAQMDBAdupzQVHA6jvRcEAgAAAgECAQEBAQEBAQAAAQECBBqRchwgHyOBzjYIAgABAgECAQECAAEAAQEAAAIBAzucSxElE0eKr0cJAgEBAQEBAQEBAQEAAQEBAQIDCXeVMh8uK2lQZDgJAwEBAQIBAQABAgEBAAEBAQIKQ8VTFVuoR2dscyQMBwUBAQEBAQEBAQECAQEBAwYRq5sVV3iO7zKPtW4jRSYHAwIBAgEBAAEBAQEBAwpJwjsRLK1Ut8FcKGdkfF8oBQQBAQEAAQAA",
+          "middle": "AAEBAQIKQ8VTFVuoR2dscyQMBwUBAQEBAQEBAQECAQEBAwYRq5sVV3iO7zKPtW4jRSYHAwIBAgEBAAEBAQEBAwpJwjsRLK1Ut8FcKGdkfF8oBQQBAQEAAQAAAAABAQN3oRwXCn/9Zox2RFw1KoZEJQQEAQABAQEBAAAAAQZkljYYMzmU/3ZSHhIzZRI3ZXADBQIBAAEBAAABBiGZZyMXRDcIh8lESyooNx1EQrlrCAAAAAAAAAABBh6MXRQOQ0WF2GAIEzdBNUZCyjurGgYBAAAAAAABAg98fggHIFJF8n8OBBArFTQaSaBACgEBAQEBAQEAAgc+m0AQECJVVf9fDwYaKAAqJj4JBAEBAgICCQUGCAsRZ1wtFhUlUoP9LAYJGCMdDQMIAwQEBAUBKjQ1MjQ8bkUzLA8XMjLUwUNPT09MTlBOS0xOT09Oh4OEh4aPeQ8UORsTH08W2IyAhH9+hIF/f4B/f36CWU9PUE1QSUIQOTMHEyxVPW82Pjw7PDs7Pj07Ojs8CAYHBgMEKD4TWC44Dhw3Jj8eAwABAQECAQEBAAEBAQIBAgEBIjYOSzIeHBg+Kh8uBAEBAQEBAwIDAQMC",
+          "bottom": "h4OEh4aPeQ8UORsTH08W2IyAhH9+hIF/f4B/f36CWU9PUE1QSUIQOTMHEyxVPW82Pjw7PDs7Pj07Ojs8CAYHBgMEKD4TWC44Dhw3Jj8eAwABAQECAQEBAAEBAQIBAgEBIjYOSzIeHBg+Kh8uBAEBAQEBAwIDAQMCAgECAgAGJEclSjkOHFB3ey0sAQIBAgEBAwIDAwQEBAUDAwgfgXhIUS0HMX8gaTkJBwkICAgJCAcKCAoIAQEAAglpqkx9iR8QcWpRXRgCBAMDBQEEBQUHCQgHEBERExmUhxqechokhj1RXSYRFBUVFRYVEhQUExQUFhMUFx6NdHe3KhIvch1xVxoPDQ4MDBAMDAsIBwoKBwcKCR2hKNA/GAsadgmnER4ODAkLCQkLDAkMCgwLBg4JCndynm4cBggUZkV6MwkGBwQFBAMDBAQIBwcGBgIERnZJeQQHCAcSSHw9LwwJCgYHCQcKCAkICAoEBRENXGBObBQQBA0vKWxCHwwJDgcGCAsJCQgJCgwJCAYLNGRERzsGBAlYLEcxHgwDCAcECAICAgcDAgEDCBEREyw+FzQQCC5iHVQuFR0SEAsDCgwKCwkJDAwP"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 14.923014,
+          "top": 10.74146,
+          "middle": 13.713818,
+          "bottom": 17.277846,
+          "effectiveRatio": 0.480775
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1704
+      },
+      "sha256": "6d4d6e3286dbde6656c9fed3fbcf19a621fd0047d18e6f4c747b374f12708f49",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료",
+        "note": "국내 원문에 실제 실린 스포츠조선·스타뉴스 사진을 원기자 크레딧과 연결했다. 이미지 생성·업스케일·생성형 복원은 사용하지 않았다."
+      },
+      "fit": "cover",
+      "captionEvidence": "제54회 봉황대기 전국고교대회 대전고 대 안산공고 경기가 10일 서울 양천구 신월야구장에서 열렸다. 대전고 한규민이 4회말 1사 1,2루에서 구원 등판, 안산공고 안성민의 투수 앞 땅볼을 직접 병살로 처리하며 이닝을 마무리한 후 환호하고 있다.",
+      "context": {
+        "event": "2026-08-10 신월 봉황대기 대전고-안산공고",
+        "isCurrentGamePhoto": false,
+        "archivePhoto": true,
+        "people": [
+          {
+            "name": "한규민",
+            "team": "대전고등학교",
+            "role": "투수"
+          }
+        ],
+        "visualNote": "병살 처리 뒤 한규민이 왼 주먹을 쥐고 환호하는 실제 프레임. 투구 컷과 다른 순간이며 무릎과 발이 보이는 단독 장면이다.",
+        "editorialNote": "2026-10-16 전국체전 경기 사진이 아니다. 사진 촬영일을 자료사진 크레딧으로 표시한다."
+      }
+    }
+  ]
+}
