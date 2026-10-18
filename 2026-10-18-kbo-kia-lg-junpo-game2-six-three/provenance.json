@@ -1,0 +1,412 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "KIA, LG에 2연승…플레이오프까지 1승",
+  "issueKey": "kbo-20261018-kia-lg-junpo-game2-final-six-three",
+  "checkedAt": "2026-10-18T10:50:45.735Z",
+  "sourceUrl": "https://www.koreabaseball.com/Schedule/GameCenter/Main.aspx?gameDate=20261018&gameId=20261018LGHT0&section=REVIEW",
+  "corroboratingUrls": [
+    "https://www.news1.kr/sports/baseball/6323734",
+    "https://www.yna.co.kr/view/AKR20261018044751007",
+    "https://www.news1.kr/photos/8165213",
+    "https://www.news1.kr/sports/baseball/6323723",
+    "https://www.sportschosun.com/baseball/2026-10-18/202610180100111390007257",
+    "https://www.news1.kr/photos/8165239",
+    "https://www.news1.kr/photos/8165284"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.koreabaseball.com/Schedule/GameCenter/Main.aspx?gameDate=20261018&gameId=20261018LGHT0&section=REVIEW",
+      "role": "official-final-game-result-box-score",
+      "note": "경기종료상태3·LG3KIA6·올러승리·전상현세이브·임찬규패전·공식타자투수기록과결승타확인"
+    },
+    {
+      "url": "https://www.news1.kr/sports/baseball/6323734",
+      "role": "firsthand-game-report-and-MVP-next-game-date",
+      "note": "1회공격순서·박재현7회주루·전상현MVP·20일잠실3차전확인"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261018044751007",
+      "role": "firsthand-game-report-corroboration",
+      "note": "6대3최종결과·2연승·전상현데일리MVP와공격전개대조"
+    }
+  ],
+  "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진 원문·원본 URL·제공자·확인 시점을 imageRights에 기록하고 직접 육안 대조했다.",
+  "photos": [
+    {
+      "index": 1,
+      "sourceUrl": "https://image.news1.kr/system/photos/2026/10/18/8165213/high.jpg",
+      "sourcePageUrl": "https://www.news1.kr/photos/8165213",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-18-1600-catchup\\catchup-story\\photos\\news1-8165213.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-18T10:48:58.824Z",
+        "width": 1400,
+        "height": 2103,
+        "bytes": 2507235,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.716953098129969,
+        "entropy": 7.757915520865936,
+        "effectiveDetailRatio": 0.570505,
+        "kind": "source",
+        "coverScale": 0.771,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1400,
+        "rawHeight": 2103,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "4cac8663c6db599d",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "KhA9N0A8SVJHnjY4Kh8PLyoxG0cvH0Q8WkISHUs+WCovEUYCQSmPbK1OQiZNRh0qYjQ1BDBeLCs+Mh4yH0FGJkcoGztTRENSLzsOZpQnRT08IS4yP0Q8VCxERj4rKzBYIxApUDNWRG5Lc6HqWVc/DBEJO1NbOjAnKCw2ZjBPPRcPPn1aSmHhfyKO8iMuNBwiPTFYS3ArBiweMUx+DioTVBsqc/+OFTAoZtZDCysdIDQniDs0ICYODlsWbCw9O19Th3KkkQ4xLVq5dDo5EjVJWTpiKRZIIjBaODJMShoJWEmlwpUgWnVsoz4/URgXImwqNEUhTTQwDxoxbV83VyiXXXkwXiQjdk9JSAw9GlpePmVsQwMrMRI6G0hJYEVLWk4xPxEWkmlKHkspQFMrej4nIR8TJBwtKS4eVk8jJ3xfMiNdPpNFIyl1KkxQT31UUlBKaFFBPT81GysvjVZtFYCFP0V3MzNRaCEoBgwRTDk8YmRNRDEHJClfNhFrsVVZnkY3TyoLNzEjCTtCNBIeKx82KCQXSQx6Mg8Mh9vmKZk+Zx04QEE/GikzIRILRFEmGyUvNmqEES0mUl9oeyVxLy1XezQsOxYEDwwuKi0pSTwoHY4/J0JWSYNaLD02HWFZOVZsPD1BLRMpKTVZOT5OL2ptobuffJeeIRhDLkskSnkePnREFQtIcUA1I192Mkq4qWs6PTuheCNJPnFWNUVWSk9RanBiWiQjMBpsWXxtGBERCxIWfDESNyc4STJNKUN/dFM9KyRKUTo7f3kkDxANDREcLT4qTjxTOCEcN108HEQwJRhANk07sF4KBhIbJislRmA5RlslJhovXTkeIBcyKiEmbzSatyYSDhY6OAMbTGgsYzEsEQ89IycUICUNOBk8LH7PaggHGCkvME8sgWAuYTMmCBQKRWk1EQ00JRgcao9gJAwNEBsZSjkElI9VM0QvFhQFVVBbEh82Jl03QBsqHAsJGUBoTSsfYMttKVQhLiUWKCB9XTNcPTRjRy5HHAkIN72MlCIpQL9rVSwXCzQsLTEyVmmWuI82ZkIiBgINoOlr3zcfDoWFWDcRLwYhCiwcHj0ui4V2WZI+FxZC93lH7I8VFUxdNT8XO1JAERJBWFAtGoOVX6JcECGmxC0do/9HGx1vQjsSQiA4JB54THM2UDGDnGsmDihotGgbOPnBIx5MqjkVO1ZKSzdYWllARXQ+EioMBRBArJgVBmf/qSMWe8cxDCEdNSk0eBg7Jy05SGZJBih1ing+Bhpk8aseCqyWBRU0XSkBOi5CJkkdH2BJBk2bTzBJCXlOMu69IjHOXB5IOmMuLzYqO2kyMGouCWaPLDI4CTppPkH/rRmMzCB4Nx9rHViOgJlwJ4A0Dnp8Lj0lEiQgHzFg5G0e2G9uARguMoOCKTJudYcjIIpsJzwVMy4lICqgh29bQLsfTCgiG1OBHhw+pY8UOZ5LF04FSRA9Kn+FBEpFTmF0Hl1KFlGSPSRNvWgMUM0wHDUURiNEDZdjVVtUG0Ob",
+          "top": "KhA9N0A8SVJHnjY4Kh8PLyoxG0cvH0Q8WkISHUs+WCovEUYCQSmPbK1OQiZNRh0qYjQ1BDBeLCs+Mh4yH0FGJkcoGztTRENSLzsOZpQnRT08IS4yP0Q8VCxERj4rKzBYIxApUDNWRG5Lc6HqWVc/DBEJO1NbOjAnKCw2ZjBPPRcPPn1aSmHhfyKO8iMuNBwiPTFYS3ArBiweMUx+DioTVBsqc/+OFTAoZtZDCysdIDQniDs0ICYODlsWbCw9O19Th3KkkQ4xLVq5dDo5EjVJWTpiKRZIIjBaODJMShoJWEmlwpUgWnVsoz4/URgXImwqNEUhTTQwDxoxbV83VyiXXXkwXiQjdk9JSAw9GlpePmVsQwMrMRI6G0hJYEVLWk4xPxEWkmlKHkspQFMrej4nIR8TJBwtKS4eVk8jJ3xfMiNdPpNFIyl1KkxQT31UUlBKaFFBPT81GysvjVZtFYCFP0V3MzNRaCEoBgwRTDk8YmRNRDEHJClfNhFrsVVZnkY3TyoLNzEjCTtCNBIeKx82KCQXSQx6Mg8Mh9vmKZk+Zx04QEE/GikzIRILRFEmGyUvNmqEES0mUl9oeyVxLy1XezQs",
+          "middle": "BgwRTDk8YmRNRDEHJClfNhFrsVVZnkY3TyoLNzEjCTtCNBIeKx82KCQXSQx6Mg8Mh9vmKZk+Zx04QEE/GikzIRILRFEmGyUvNmqEES0mUl9oeyVxLy1XezQsOxYEDwwuKi0pSTwoHY4/J0JWSYNaLD02HWFZOVZsPD1BLRMpKTVZOT5OL2ptobuffJeeIRhDLkskSnkePnREFQtIcUA1I192Mkq4qWs6PTuheCNJPnFWNUVWSk9RanBiWiQjMBpsWXxtGBERCxIWfDESNyc4STJNKUN/dFM9KyRKUTo7f3kkDxANDREcLT4qTjxTOCEcN108HEQwJRhANk07sF4KBhIbJislRmA5RlslJhovXTkeIBcyKiEmbzSatyYSDhY6OAMbTGgsYzEsEQ89IycUICUNOBk8LH7PaggHGCkvME8sgWAuYTMmCBQKRWk1EQ00JRgcao9gJAwNEBsZSjkElI9VM0QvFhQFVVBbEh82Jl03QBsqHAsJGUBoTSsfYMttKVQhLiUWKCB9XTNcPTRjRy5HHAkIN72MlCIpQL9rVSwXCzQsLTEyVmmWuI82ZkIiBgINoOlr3zcfDoWFWDcRLwYh",
+          "bottom": "RWk1EQ00JRgcao9gJAwNEBsZSjkElI9VM0QvFhQFVVBbEh82Jl03QBsqHAsJGUBoTSsfYMttKVQhLiUWKCB9XTNcPTRjRy5HHAkIN72MlCIpQL9rVSwXCzQsLTEyVmmWuI82ZkIiBgINoOlr3zcfDoWFWDcRLwYhCiwcHj0ui4V2WZI+FxZC93lH7I8VFUxdNT8XO1JAERJBWFAtGoOVX6JcECGmxC0do/9HGx1vQjsSQiA4JB54THM2UDGDnGsmDihotGgbOPnBIx5MqjkVO1ZKSzdYWllARXQ+EioMBRBArJgVBmf/qSMWe8cxDCEdNSk0eBg7Jy05SGZJBih1ing+Bhpk8aseCqyWBRU0XSkBOi5CJkkdH2BJBk2bTzBJCXlOMu69IjHOXB5IOmMuLzYqO2kyMGouCWaPLDI4CTppPkH/rRmMzCB4Nx9rHViOgJlwJ4A0Dnp8Lj0lEiQgHzFg5G0e2G9uARguMoOCKTJudYcjIIpsJzwVMy4lICqgh29bQLsfTCgiG1OBHhw+pY8UOZ5LF04FSRA9Kn+FBEpFTmF0Hl1KFlGSPSRNvWgMUM0wHDUURiNEDZdjVVtUG0Ob"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.024961,
+          "top": 27.934188,
+          "middle": 21.69421,
+          "bottom": 16.519427,
+          "effectiveRatio": 0.570505
+        },
+        "extendable": false,
+        "url": "https://image.news1.kr/system/photos/2026/10/18/8165213/high.jpg",
+        "sha256": "589fc85c2a249abd0ce500008279d5686f3723a01648e8b6f1947f3426e360d5"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.7714285714285715
+      },
+      "sha256": "589fc85c2a249abd0ce500008279d5686f3723a01648e8b6f1947f3426e360d5",
+      "name": "올러",
+      "subject": "올러",
+      "imageCredit": "뉴스1 김진환",
+      "creditDisplay": "사진 · 뉴스1 김진환 (2026.10.18 준PO 2차전)",
+      "photoDate": "2026-10-18",
+      "photoDateLabel": "2026.10.18 준PO 2차전",
+      "captionEvidence": "올러가 6회초 이재원을 삼진으로 잡은 뒤 포효한다. 옆모습과 흰 홈 유니폼33번, 붉은 글러브가 보이는 단독 전신이다.",
+      "context": {
+        "originalContext": "올러가 6회초 이재원을 삼진으로 잡은 뒤 포효한다. 옆모습과 흰 홈 유니폼33번, 붉은 글러브가 보이는 단독 전신이다.",
+        "currentStoryUse": "오늘 실제 준플레이오프2차전 경기 현장이다."
+      },
+      "photoDateEvidence": "https://www.news1.kr/photos/8165213",
+      "checkedAt": "2026-10-18T10:48:58.617Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료"
+      },
+      "sceneGroup": "20261018-gwangju-jpo2-oller-inning6-roar-side"
+    },
+    {
+      "index": 2,
+      "sourceUrl": "https://image.news1.kr/system/photos/2026/10/18/8165092/high.jpg/dims/optimize",
+      "sourcePageUrl": "https://www.news1.kr/sports/baseball/6323723",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-18-1600-catchup\\catchup-story\\photos\\new-9.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-18T10:48:58.991Z",
+        "width": 1400,
+        "height": 1973,
+        "bytes": 347254,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6668014058939948,
+        "entropy": 7.75605127394374,
+        "effectiveDetailRatio": 0.544844,
+        "kind": "source",
+        "coverScale": 0.771,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1400,
+        "rawHeight": 1973,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "63f3c5c94f123333",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "RTsfFXVuPj02GlG6U6VpQkdBRBELBgEDAwVfnY2gPUYhWo02eSaEfmSMKYZPIBAfVkdZPTc3MBk4MnoUKSYqbDE+T6eQh0E2KFteIW+GTlRTRSsuQkI8H1FGFQklKyIVZZYzaz1SQ191hppcVTYxXz5dT1FFITI0GD0nREFYa0KJnkZzGDFjaitXJyYraCweL2iLNS1ERm5eaVJOLjddHF8wJhg8QhpUV6++qHNbdZRCjyVxOidqLBgzTUFKNU89NBEpFkqfwYiv6HATHYOSZIOALIZMHzA5InJMWx2WQiQxW4/UZwkQM5pUXRBgb3wWQyaMXViTQkJME24vYC1SXa98DANXXnqVQVVIiXdUJTg8UxSilSN6XlinQVJAWpwnCUljbz2nLYoXfpWAIBwzHCFwpiuJe6J3coAqhGyCrN2pSWpbiEJeJW1pLCJFHT2giCo7hYcrlnRBWJm1tuO/a4Fcfj04NV4FNBkgHGlDRX0zDiydY2ZUcmw2Zz9EemCNSkgQDzRERDcqKS8pUl41F5BmHEhqVRBWQINvL3hqQxYRFAk5IC0mU2AhUkEIKXI6JmhdI11PRITQoa84IhoaHio5DxMGJGxvYhUCE1QqGisYRSEzo3pCsS11KhghHBouGT4YJkt0Qi4AHG9HJTwbETGBlTkvRZtrdzgiCy0eJwsXJXdxOAoIK4YiY5+Xkjt5SUMzDJFokFYhICdGYkEMGWd5Ig0NIGSJ02eFtoiYv10VPl11ImFaER5NNFYeWnNpUjxIf4bsbyYWJaGabP9/g2wTKBA7LS9OJVtDIzWr69vqyqClIwsLFyN/7x+Kq1suEhcUEhJMiktTkF+kXHFvSUo1GgQHDBcQceRwZ4JKWAkoKS02PEBdK0l2g1AmIC54JBkGBw0WB0vWnpxpQj8gNR8dKzYiE0dNJGAvOUpiaAgPAwkSHBBV4jBkXSAXCQgVFzcUbLpVf0wjGCNeOgsBFR4xGTQRq5pOEAcLCQkkNU+3vShFRGxXNDNEFwoTFjdQMC4cW9tQHAoGFw4WLpZKUYl0XAkvd1JVFRgPMZ9KYyIfJdqJJRQhISMjSzKJbmJK0WAwHjsYFhMYqpCAYyEcG5DFODQmFxEhM2MOLjMZdnpAXUgjHA5pyyeJpTUUHFvlbBINCAZOOE9MBHNmU2kfIVxITkawfBIquZYeHkTggTUUIi5cIh6TcxJwl0ohVDRLKVqhKBUdXcVpIEGodldPXmEpK3UypmMpOxcPPGZIDINYDBYTRst2DTJ5Nxw0IzNHF0aDYmdqQRMTaIltohTnlQoGVNNwYl6dOAcZDislPDUfMmV0Yx4WYJ4fgNUss3YPT65hjYGEBigQFR04GDhKJCFPfig7e5gXD1eecFcjPms+HTImNjMuMisZFg0hLSmGbRgTko4wNDYHFzg+PEgfDg9MFA8JBAQFJSkrKzFoTjhab2lGPkA9Pjk2NEEKGh5OMiYjKysmAgICBQ4IUjRPQQgUEwwJCwwODQw0RXh8elJEDQ00",
+          "top": "RTsfFXVuPj02GlG6U6VpQkdBRBELBgEDAwVfnY2gPUYhWo02eSaEfmSMKYZPIBAfVkdZPTc3MBk4MnoUKSYqbDE+T6eQh0E2KFteIW+GTlRTRSsuQkI8H1FGFQklKyIVZZYzaz1SQ191hppcVTYxXz5dT1FFITI0GD0nREFYa0KJnkZzGDFjaitXJyYraCweL2iLNS1ERm5eaVJOLjddHF8wJhg8QhpUV6++qHNbdZRCjyVxOidqLBgzTUFKNU89NBEpFkqfwYiv6HATHYOSZIOALIZMHzA5InJMWx2WQiQxW4/UZwkQM5pUXRBgb3wWQyaMXViTQkJME24vYC1SXa98DANXXnqVQVVIiXdUJTg8UxSilSN6XlinQVJAWpwnCUljbz2nLYoXfpWAIBwzHCFwpiuJe6J3coAqhGyCrN2pSWpbiEJeJW1pLCJFHT2giCo7hYcrlnRBWJm1tuO/a4Fcfj04NV4FNBkgHGlDRX0zDiydY2ZUcmw2Zz9EemCNSkgQDzRERDcqKS8pUl41F5BmHEhqVRBWQINvL3hqQxYRFAk5IC0mU2AhUkEIKXI6JmhdI11PRITQoa84IhoaHio5",
+          "middle": "NBkgHGlDRX0zDiydY2ZUcmw2Zz9EemCNSkgQDzRERDcqKS8pUl41F5BmHEhqVRBWQINvL3hqQxYRFAk5IC0mU2AhUkEIKXI6JmhdI11PRITQoa84IhoaHio5DxMGJGxvYhUCE1QqGisYRSEzo3pCsS11KhghHBouGT4YJkt0Qi4AHG9HJTwbETGBlTkvRZtrdzgiCy0eJwsXJXdxOAoIK4YiY5+Xkjt5SUMzDJFokFYhICdGYkEMGWd5Ig0NIGSJ02eFtoiYv10VPl11ImFaER5NNFYeWnNpUjxIf4bsbyYWJaGabP9/g2wTKBA7LS9OJVtDIzWr69vqyqClIwsLFyN/7x+Kq1suEhcUEhJMiktTkF+kXHFvSUo1GgQHDBcQceRwZ4JKWAkoKS02PEBdK0l2g1AmIC54JBkGBw0WB0vWnpxpQj8gNR8dKzYiE0dNJGAvOUpiaAgPAwkSHBBV4jBkXSAXCQgVFzcUbLpVf0wjGCNeOgsBFR4xGTQRq5pOEAcLCQkkNU+3vShFRGxXNDNEFwoTFjdQMC4cW9tQHAoGFw4WLpZKUYl0XAkvd1JVFRgPMZ9KYyIfJdqJJRQhISMj",
+          "bottom": "KzYiE0dNJGAvOUpiaAgPAwkSHBBV4jBkXSAXCQgVFzcUbLpVf0wjGCNeOgsBFR4xGTQRq5pOEAcLCQkkNU+3vShFRGxXNDNEFwoTFjdQMC4cW9tQHAoGFw4WLpZKUYl0XAkvd1JVFRgPMZ9KYyIfJdqJJRQhISMjSzKJbmJK0WAwHjsYFhMYqpCAYyEcG5DFODQmFxEhM2MOLjMZdnpAXUgjHA5pyyeJpTUUHFvlbBINCAZOOE9MBHNmU2kfIVxITkawfBIquZYeHkTggTUUIi5cIh6TcxJwl0ohVDRLKVqhKBUdXcVpIEGodldPXmEpK3UypmMpOxcPPGZIDINYDBYTRst2DTJ5Nxw0IzNHF0aDYmdqQRMTaIltohTnlQoGVNNwYl6dOAcZDislPDUfMmV0Yx4WYJ4fgNUss3YPT65hjYGEBigQFR04GDhKJCFPfig7e5gXD1eecFcjPms+HTImNjMuMisZFg0hLSmGbRgTko4wNDYHFzg+PEgfDg9MFA8JBAQFJSkrKzFoTjhab2lGPkA9Pjk2NEEKGh5OMiYjKysmAgICBQ4IUjRPQQgUEwwJCwwODQw0RXh8elJEDQ00"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.316104,
+          "top": 24.056162,
+          "middle": 25.820916,
+          "bottom": 20.946334,
+          "effectiveRatio": 0.544844
+        },
+        "extendable": false,
+        "url": "https://image.news1.kr/system/photos/2026/10/18/8165092/high.jpg/dims/optimize",
+        "sha256": "b1d6742b75d0f60208900b7e216ede65c588f9654772acc1003906ccb7791563"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.7714285714285715
+      },
+      "sha256": "b1d6742b75d0f60208900b7e216ede65c588f9654772acc1003906ccb7791563",
+      "name": "나성범",
+      "subject": "나성범",
+      "imageCredit": "뉴스1 김진환",
+      "creditDisplay": "사진 · 뉴스1 김진환 (2026.10.18 준PO 2차전)",
+      "photoDate": "2026-10-18",
+      "photoDateLabel": "2026.10.18 준PO 2차전",
+      "captionEvidence": "나성범이 1회 적시2루타 후 달리는 모습이다. 붉은 헬멧과 오른쪽 옆얼굴이 크게 보이고, 뒤 LG 선수는 흐린 배경이다.",
+      "context": {
+        "originalContext": "나성범이 1회 적시2루타 후 달리는 모습이다. 붉은 헬멧과 오른쪽 옆얼굴이 크게 보이고, 뒤 LG 선수는 흐린 배경이다.",
+        "currentStoryUse": "오늘 실제 준플레이오프2차전 경기 현장이다."
+      },
+      "photoDateEvidence": "https://www.news1.kr/sports/baseball/6323723",
+      "checkedAt": "2026-10-18T10:48:58.617Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료"
+      },
+      "sceneGroup": "20261018-gwangju-jpo2-na-sungbum-inning1-double-running-side"
+    },
+    {
+      "index": 3,
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/18/2026101801001113900072573_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-18/202610180100111390007257",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-18-1600-catchup\\catchup-story\\photos\\sc-6.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-18T10:48:59.109Z",
+        "width": 1200,
+        "height": 1486,
+        "bytes": 1308258,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.78058814226451,
+        "entropy": 6.842906485777348,
+        "effectiveDetailRatio": 0.482884,
+        "kind": "source",
+        "coverScale": 0.908,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1486,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "599c8ccb41d1b61d",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwEBAAMDAQIDAwQQaVILCQYGBgsKCAQEBAcKBwQHBAQBBAUDAwMECBWmn39NBgQICAUDBAcHBAQHBgUEAwMDBQECAgEHDXLpK2dRHQQGBAUFBwUJCQkCBwYCAQICAgMCAwIGEOqUZ19fIQgHBAMFAwEECA0MDAcBAQEBAQIDAwgPu/8yaKuAKBkMCAUGBQMCAwkODQgHAQICAgIBBzjy/0lJXqSyaSMLAgcFAQADAQIEAwoKAwIBAAEIOsC/GbxWRReCwpUmBgMCAQEBAgMFBQgGAgECARUbImDj12tpQyE0V8NqBQQBAgACAwYFBAYDAwEAFB8NBBlQup88My88MK6UAQECBAEDBAQDBAYBAwELFhoYGhVHXMs7MjMuGdCACQECAQEBAQQGAwgIAQMEECoiD04gY3fBIF9lXbhIDQMBAQICAgQCAwMFAQMGGBAcEx9vPCOooYQ6Hn0mCAIBAQIBAgIBAgQEAQIAFhwHEgkcRT1bsnJwTbIlCQMBAQICAQEAAQEEAwIDDCEPEBMKDA0bDXWWqF86DwMEAwMJAgECAAEBAgQDBRoNDQMLChgFRBNCXykJKRUUMEM8CwYIAQICAgIDBQ4VDQkDARQ6PyoSBQsaDQM+bV+8cxMWCgECAQMDAgoaBQ8BChpJLWZKIg8HECBjWk9Y9H4jJQkDAQIBAwEVJAULCQpzcUOXfFg6Rj6BXDxVSMpaQyoHAgEAAQMJFRoGDQ9FcmgoV088Rl1YOBsFVE9kPkIaBAMLHTMgFgYRDhIpT26LSEIlEg4bD0M+MUcvN0MfBh5La3lQLAkMAQYMHyh4iFtaRAcyMyJBOCghPjoQTHiPhXGHPhEFBAQCBwYeM0FKgBYjFSEUDiYlT0ILioVrTnCsNA8DAwEDAwQQDg8TTnlDExI2MBMpVEQQRCcfEoe8JAwCAgUDBwEPEg9AUB5oXxEiOS1FSCgFSk1HKouuHAcEAwQEBQYJFi5aJG0ZTR4bGhAzRTkTU05UPHSWFwQDBQEEAwgDEBNFai4/OUAsWEZlf4FLIzM7NmWJFAUJAQIEBAYDBBQZNjE/KyaMSDQhK1lOSAclOmJvEwULCQUEBQEFAwsZCzsvJE8+PShSblItXDoxNzhKDw8LCQMCBAQHBQYcDDs3HzVhbWViTjsVbkYOIRtHIA8xJw8LDQgJDRAXIWtkTiwrPEIPGiEmTT4QKxdiIrrJs5BXHgcGBBYfQpBHc1wMJSMhITAhMhkEFjhR2P9dYoqhrotPX2AqjJAJX1soPCIZHgk8JBUTHzGuzxpXPFdzreLX6PDpskEgQE8iFxkCESQtERYQE4mZLC1GXFZoR0iChIHEiWdNSjoIIBoLFxUNEAsDCXOnJiYjCQgPGhEdGRMtuIZVTi4XJBUSFw8NBwMCDU68QB0nDQcJCCgWLRMSs7knEREuIC0cLhsrBQUDDTHEURYsAQkDAScgICEUbe0mOyhCJh0jLygrAQYGCxO2dw88BwsGBhUjCRwgONRfMik9NzAmMSFF",
+          "top": "AwEBAAMDAQIDAwQQaVILCQYGBgsKCAQEBAcKBwQHBAQBBAUDAwMECBWmn39NBgQICAUDBAcHBAQHBgUEAwMDBQECAgEHDXLpK2dRHQQGBAUFBwUJCQkCBwYCAQICAgMCAwIGEOqUZ19fIQgHBAMFAwEECA0MDAcBAQEBAQIDAwgPu/8yaKuAKBkMCAUGBQMCAwkODQgHAQICAgIBBzjy/0lJXqSyaSMLAgcFAQADAQIEAwoKAwIBAAEIOsC/GbxWRReCwpUmBgMCAQEBAgMFBQgGAgECARUbImDj12tpQyE0V8NqBQQBAgACAwYFBAYDAwEAFB8NBBlQup88My88MK6UAQECBAEDBAQDBAYBAwELFhoYGhVHXMs7MjMuGdCACQECAQEBAQQGAwgIAQMEECoiD04gY3fBIF9lXbhIDQMBAQICAgQCAwMFAQMGGBAcEx9vPCOooYQ6Hn0mCAIBAQIBAgIBAgQEAQIAFhwHEgkcRT1bsnJwTbIlCQMBAQICAQEAAQEEAwIDDCEPEBMKDA0bDXWWqF86DwMEAwMJAgECAAEBAgQDBRoNDQMLChgFRBNCXykJKRUUMEM8CwYIAQIC",
+          "middle": "AQIAFhwHEgkcRT1bsnJwTbIlCQMBAQICAQEAAQEEAwIDDCEPEBMKDA0bDXWWqF86DwMEAwMJAgECAAEBAgQDBRoNDQMLChgFRBNCXykJKRUUMEM8CwYIAQICAgIDBQ4VDQkDARQ6PyoSBQsaDQM+bV+8cxMWCgECAQMDAgoaBQ8BChpJLWZKIg8HECBjWk9Y9H4jJQkDAQIBAwEVJAULCQpzcUOXfFg6Rj6BXDxVSMpaQyoHAgEAAQMJFRoGDQ9FcmgoV088Rl1YOBsFVE9kPkIaBAMLHTMgFgYRDhIpT26LSEIlEg4bD0M+MUcvN0MfBh5La3lQLAkMAQYMHyh4iFtaRAcyMyJBOCghPjoQTHiPhXGHPhEFBAQCBwYeM0FKgBYjFSEUDiYlT0ILioVrTnCsNA8DAwEDAwQQDg8TTnlDExI2MBMpVEQQRCcfEoe8JAwCAgUDBwEPEg9AUB5oXxEiOS1FSCgFSk1HKouuHAcEAwQEBQYJFi5aJG0ZTR4bGhAzRTkTU05UPHSWFwQDBQEEAwgDEBNFai4/OUAsWEZlf4FLIzM7NmWJFAUJAQIEBAYDBBQZNjE/KyaMSDQhK1lO",
+          "bottom": "RCcfEoe8JAwCAgUDBwEPEg9AUB5oXxEiOS1FSCgFSk1HKouuHAcEAwQEBQYJFi5aJG0ZTR4bGhAzRTkTU05UPHSWFwQDBQEEAwgDEBNFai4/OUAsWEZlf4FLIzM7NmWJFAUJAQIEBAYDBBQZNjE/KyaMSDQhK1lOSAclOmJvEwULCQUEBQEFAwsZCzsvJE8+PShSblItXDoxNzhKDw8LCQMCBAQHBQYcDDs3HzVhbWViTjsVbkYOIRtHIA8xJw8LDQgJDRAXIWtkTiwrPEIPGiEmTT4QKxdiIrrJs5BXHgcGBBYfQpBHc1wMJSMhITAhMhkEFjhR2P9dYoqhrotPX2AqjJAJX1soPCIZHgk8JBUTHzGuzxpXPFdzreLX6PDpskEgQE8iFxkCESQtERYQE4mZLC1GXFZoR0iChIHEiWdNSjoIIBoLFxUNEAsDCXOnJiYjCQgPGhEdGRMtuIZVTi4XJBUSFw8NBwMCDU68QB0nDQcJCCgWLRMSs7knEREuIC0cLhsrBQUDDTHEURYsAQkDAScgICEUbe0mOyhCJh0jLygrAQYGCxO2dw88BwsGBhUjCRwgONRfMik9NzAmMSFF"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 24.784502,
+          "top": 17.818229,
+          "middle": 23.810497,
+          "bottom": 28.212018,
+          "effectiveRatio": 0.482884
+        },
+        "extendable": false,
+        "url": "https://www.sportschosun.com/article/html/2026/10/18/2026101801001113900072573_w.jpg",
+        "sha256": "4398c0f5aa2c0d294d027741cebc3397be910da8f0c4a6723264415aa675bb70"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.9084791386271871
+      },
+      "sha256": "4398c0f5aa2c0d294d027741cebc3397be910da8f0c4a6723264415aa675bb70",
+      "name": "임찬규",
+      "subject": "임찬규",
+      "imageCredit": "스포츠조선 박재만",
+      "creditDisplay": "사진 · 스포츠조선 박재만 (2026.10.12 자료사진)",
+      "photoDate": "2026-10-12",
+      "photoDateLabel": "2026.10.12 자료사진",
+      "captionEvidence": "10월12일 정규시즌 KIA전1회에 마운드에 오른 임찬규다. 검정 원정 상의, 노란 글러브를 들고 모자를 만지는 정면 상반신 자료사진이다. 오늘 경기 현장으로 표기하지 않는다.",
+      "context": {
+        "originalContext": "10월12일 정규시즌 KIA전1회에 마운드에 오른 임찬규다. 검정 원정 상의, 노란 글러브를 들고 모자를 만지는 정면 상반신 자료사진이다. 오늘 경기 현장으로 표기하지 않는다.",
+        "currentStoryUse": "LG 임찬규의 오늘 조기강판과 선발·불펜 격차를 설명하는 자료사진이며 날짜를 카드에 표시한다."
+      },
+      "photoDateEvidence": "https://www.sportschosun.com/baseball/2026-10-18/202610180100111390007257",
+      "checkedAt": "2026-10-18T10:48:58.617Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료"
+      },
+      "sceneGroup": "20261012-gwangju-regular-im-changkyu-cap-touch-front"
+    },
+    {
+      "index": 4,
+      "sourceUrl": "https://image.news1.kr/system/photos/2026/10/18/8165239/high.jpg",
+      "sourcePageUrl": "https://www.news1.kr/photos/8165239",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-18-1600-catchup\\catchup-story\\photos\\news1-8165239.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-18T10:48:59.293Z",
+        "width": 1339,
+        "height": 1920,
+        "bytes": 1745688,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.542206502260338,
+        "entropy": 7.6925326499622315,
+        "effectiveDetailRatio": 0.54359,
+        "kind": "source",
+        "coverScale": 0.807,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1339,
+        "rawHeight": 1920,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "898e2c1406aeb819",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "GEM7IC0oPh4tU09VOiQZISQdLTY4EDoiNEA3SWA4XUwkDjsjN01sJx8zRjwnJT8lBhczO2AcLXSDiXJKKlI8HQkrR49VdTo3OjcnFBgFDgVBDVlPj5yUhl8uO0+EMyM6eWtGm0ylakpQcX9UDEU4Og8/LSUrR2goITh8doSneyCLEdFLFihIGlWNRS46KhYOQj5IUTcTDh4RbodWcXxLe2YjIS0+c0VWbCkyFyseEAUTDRMcFh4bNTgOLH5kLnx8MTIbOlAuLydUVEQlEBUQIjIkLhQvDEoyGjF2SCJFgUcugXoNKB8/nld+RxEBUTNdUC8hNTk+Gzw0dUVYc0NMUnuXTUSQKxZZilVceh1HNgcTKjMaNh09K0RPhxIHKhajXIUwiUErUV11YT5tQUQqGQojEx46WB5fQFJTVRpzXjxGWj9qBFw1GSt2Mj5ZFwYwJTFjSD9CnAsRkFxXlCUraElCWAtOPBUxMUtuNRsUFUBFR3pfUX9vKs9QqFs2fpNxHCs6STZfTRVlTyEiEUYwQSttHl5XdGHfX3MuXUl6dAReInF/EGpJGzgvQ0loSSUfR5YOdiIiq1tohHhOU5pVcG8SLyUiIEw4ZAuPP0EaRUk3ZRQiHzoVGjBgYlcMpzNDN10vUEpsLncJgVUiJiEzMBAHEQghECBRUT+JV3QWFztyC3FYaRmhgDVWXmIgMhM9LCVpR0pAViZ1WkxEChxJUT0gZLV5LWlhPXthYEaIlady+lotNis3b1wyICAhNi4hGRin5C+NQr4XSnxhSGsHncxNYUtOCiUXEBAoKCchHy48WalMEFycTlcUFhQSQlcFJx8XByM7ExwdNzsYHDkQCUVqVXeBom0RDRAdjbVqfHFjXWE1EhIUExQUGSEjHxcaFyqb4hAOCR1ly4AoKCouNzAjCQcHCwsKDAcIDQ0MEE7/cRoSGEiGiDIOEQwNCQsLBgsNCQkTERERERELFKjpIxYLNWVfeT4YJAwKBAgEBC9HCQkyPT89OjUPLeOcJQoaaDgofXZJj0gWAggGTJC1Sja2rKCfprdnSvZXHgtgahMwPVFAJ5I4Bk1rh3aBn5GvRhEOM5S9W+EoEFDWNjcXPD0YglWOjsu5QC0knFtQcFIzgB2KnZwQLv+Kp1QiZX9cYnqdqjwgLS4ObBdgCmx3LGJNo4s+2+QOi69ysY8rS6xoSZd9ZEVFiVNAHhwSHDdfI7Ke00ELHHWfcgtaYathf1aIK3NSQYIyBBceAxZUSjthQxsFBRU5ODI/W20pIntGHx6CdIl8CQcGDU9xFBApOBgCCQYHJ0lVm10MZWMOdmZtlWGEEQQJIjx9GQw6Lw8BBwgIGiNcsWZle3RlcXZsfo1yIBEFBEFhHhQ2IAUCBQgECB4ShLQ9Q2haIXLIb4TGgnFybXRqRyM4DwQCBQYIBRIcT20pOWzCkJCEFhuSl5CSmJxSCzIpBwgGBgYJDAxthYVWlGI6AQIFERUGBAcIClyAHzoWCgsIDA8SDlKmTTSXoC0O",
+          "top": "GEM7IC0oPh4tU09VOiQZISQdLTY4EDoiNEA3SWA4XUwkDjsjN01sJx8zRjwnJT8lBhczO2AcLXSDiXJKKlI8HQkrR49VdTo3OjcnFBgFDgVBDVlPj5yUhl8uO0+EMyM6eWtGm0ylakpQcX9UDEU4Og8/LSUrR2goITh8doSneyCLEdFLFihIGlWNRS46KhYOQj5IUTcTDh4RbodWcXxLe2YjIS0+c0VWbCkyFyseEAUTDRMcFh4bNTgOLH5kLnx8MTIbOlAuLydUVEQlEBUQIjIkLhQvDEoyGjF2SCJFgUcugXoNKB8/nld+RxEBUTNdUC8hNTk+Gzw0dUVYc0NMUnuXTUSQKxZZilVceh1HNgcTKjMaNh09K0RPhxIHKhajXIUwiUErUV11YT5tQUQqGQojEx46WB5fQFJTVRpzXjxGWj9qBFw1GSt2Mj5ZFwYwJTFjSD9CnAsRkFxXlCUraElCWAtOPBUxMUtuNRsUFUBFR3pfUX9vKs9QqFs2fpNxHCs6STZfTRVlTyEiEUYwQSttHl5XdGHfX3MuXUl6dAReInF/EGpJGzgvQ0loSSUfR5YOdiIiq1tohHhOU5pVcG8S",
+          "middle": "MUtuNRsUFUBFR3pfUX9vKs9QqFs2fpNxHCs6STZfTRVlTyEiEUYwQSttHl5XdGHfX3MuXUl6dAReInF/EGpJGzgvQ0loSSUfR5YOdiIiq1tohHhOU5pVcG8SLyUiIEw4ZAuPP0EaRUk3ZRQiHzoVGjBgYlcMpzNDN10vUEpsLncJgVUiJiEzMBAHEQghECBRUT+JV3QWFztyC3FYaRmhgDVWXmIgMhM9LCVpR0pAViZ1WkxEChxJUT0gZLV5LWlhPXthYEaIlady+lotNis3b1wyICAhNi4hGRin5C+NQr4XSnxhSGsHncxNYUtOCiUXEBAoKCchHy48WalMEFycTlcUFhQSQlcFJx8XByM7ExwdNzsYHDkQCUVqVXeBom0RDRAdjbVqfHFjXWE1EhIUExQUGSEjHxcaFyqb4hAOCR1ly4AoKCouNzAjCQcHCwsKDAcIDQ0MEE7/cRoSGEiGiDIOEQwNCQsLBgsNCQkTERERERELFKjpIxYLNWVfeT4YJAwKBAgEBC9HCQkyPT89OjUPLeOcJQoaaDgofXZJj0gWAggGTJC1Sja2rKCfprdnSvZXHgtgahMwPVFAJ5I4Bk1r",
+          "bottom": "CQcHCwsKDAcIDQ0MEE7/cRoSGEiGiDIOEQwNCQsLBgsNCQkTERERERELFKjpIxYLNWVfeT4YJAwKBAgEBC9HCQkyPT89OjUPLeOcJQoaaDgofXZJj0gWAggGTJC1Sja2rKCfprdnSvZXHgtgahMwPVFAJ5I4Bk1rh3aBn5GvRhEOM5S9W+EoEFDWNjcXPD0YglWOjsu5QC0knFtQcFIzgB2KnZwQLv+Kp1QiZX9cYnqdqjwgLS4ObBdgCmx3LGJNo4s+2+QOi69ysY8rS6xoSZd9ZEVFiVNAHhwSHDdfI7Ke00ELHHWfcgtaYathf1aIK3NSQYIyBBceAxZUSjthQxsFBRU5ODI/W20pIntGHx6CdIl8CQcGDU9xFBApOBgCCQYHJ0lVm10MZWMOdmZtlWGEEQQJIjx9GQw6Lw8BBwgIGiNcsWZle3RlcXZsfo1yIBEFBEFhHhQ2IAUCBQgECB4ShLQ9Q2haIXLIb4TGgnFybXRqRyM4DwQCBQYIBRIcT20pOWzCkJCEFhuSl5CSmJxSCzIpBwgGBgYJDAxthYVWlGI6AQIFERUGBAcIClyAHzoWCgsIDA8SDlKmTTSXoC0O"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.507462,
+          "top": 22.252419,
+          "middle": 19.987241,
+          "bottom": 21.600408,
+          "effectiveRatio": 0.54359
+        },
+        "extendable": false,
+        "url": "https://image.news1.kr/system/photos/2026/10/18/8165239/high.jpg",
+        "sha256": "74c140919eb3e733044cda7292a00ab6d1d9606c771462acfa62d37d1d0e15f2"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.806572068707991
+      },
+      "sha256": "74c140919eb3e733044cda7292a00ab6d1d9606c771462acfa62d37d1d0e15f2",
+      "name": "박재현",
+      "subject": "박재현",
+      "imageCredit": "뉴스1 김진환",
+      "creditDisplay": "사진 · 뉴스1 김진환 (2026.10.18 준PO 2차전)",
+      "photoDate": "2026-10-18",
+      "photoDateLabel": "2026.10.18 준PO 2차전",
+      "captionEvidence": "박재현이 7회 선두2루타 뒤 베이스 위에서 양팔을 올려 세리머니를 한다.15번흰유니폼과붉은헬멧이보이는측면전신으로 나성범 달리기와 다른 장면이다.",
+      "context": {
+        "originalContext": "박재현이 7회 선두2루타 뒤 베이스 위에서 양팔을 올려 세리머니를 한다.15번흰유니폼과붉은헬멧이보이는측면전신으로 나성범 달리기와 다른 장면이다.",
+        "currentStoryUse": "오늘 실제 준플레이오프2차전 경기 현장이다."
+      },
+      "photoDateEvidence": "https://www.news1.kr/photos/8165239",
+      "checkedAt": "2026-10-18T10:48:58.617Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료"
+      },
+      "sceneGroup": "20261018-gwangju-jpo2-park-jaehyun-inning7-double-base-gesture-side"
+    },
+    {
+      "index": 5,
+      "sourceUrl": "https://image.news1.kr/system/photos/2026/10/18/8165284/high.jpg",
+      "sourcePageUrl": "https://www.news1.kr/photos/8165284",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-18-1600-catchup\\catchup-story\\photos\\news1-8165284.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-18T10:48:59.507Z",
+        "width": 1400,
+        "height": 1877,
+        "bytes": 2199360,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.531022112258039,
+        "entropy": 7.716660640435293,
+        "effectiveDetailRatio": 0.573365,
+        "kind": "source",
+        "coverScale": 0.771,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1400,
+        "rawHeight": 1877,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "92aad3971733274d",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "WUxUKihXMWoiPEtOSVQzLTEZKQQXQE5LFT4iOCUyQjhnMUEUUVR3EU9VaTVkRxkmIDcoRjxVEBA4LUQcLHV1Hio4RESHElxMWlI4WEARPRIbLxA3PkkqAy01V2goPTw4PJFRHDBbMjxKIFA7TSs8OSl9MCQmM08mJC9kBm4fRE4cGRMWQDoIIzZWMRMoM045Wz4nKTQqFnNuZlsnGyhEOzg/MggfKRoqKjMYCUIpMDYoNzACKWwOR1dJPk5iSyAzLjRDKEEoVAoUIh5XNQQwQjc6M2wfLCQhTE0vJhgOHC0aLBBRNBo0CRZjQTUYSEIrIlEkYxNOLTQgKhgxRRkhBjk+Kh85SzsNZTQuKj88B1UtN0Q4CxQ+ETOkps1ROCI+LIVcYmA4Pw9ZLjcPRjdCGCQWDRomYtq0Ub7/WBVwxWz9zDstOEkYUUA7JBgcCwcIJysdsZ8iGQm5oGTXfQlKwKopKkM0GRUUFxM+GSwpNiYykL47KhNfc2iLISwbNaRuLxVGJQwaJxohMklJGSI5pIoXODFdXHiOqpoiQTSZXBxMJhUJPT8uJyYwHQQ3qn5fakU/nEp1VJlbakk/S25YHxEPIGVBLFkbISRbWKKYU2o6YGp/MloIXLFxkCJNZCYEPQceHikqFQoOK0ctVqBygzx6TFhFh42oQGZRSEohaXYPMQcLESE9SRxBEmLknPQNemw8qSc5E1VmPhgWQHlNHSkoNQVkgXedh15XOs6DdWWEm0YbBwkQMjoqF1xBIkZ6e43vdI9m1oFPWcZ3FSN8ljshGxUXEzdaJl5DTpCuZaA4CQcYXsxGWE9jLgkhn3YQHjgVCC0eW3ojhp9ZeGE5BBQJMJtSWF9ESis2f70tI0waHkYuPlx1jypPirKgcR8KKokcglEoFB4XQtdaaEVeNFlKHBiTV1sTeiRBP1gWHIYpcQURUTYYGYqJPy92YIiiCQ8nZmlvaDNvTxMXE14QQQpHMXUzCU9pR2xLFzG7GA0gFUAUGZuEFxILMIFCVAk4Nm1aG2GhZ0dLGURMFic7HH9snIZRCAcNUrY6hxQ9cDCEOFDUSH1XJhw+A0gvCZB6V1swEjhtpJNQgC1Dbj5uQT6qjlFiIgs1CUQ7L72EEjMyXmpvnlRukDQqRy1DZiZooANLKxxfBBJMK5zDODteX0WNWztYp0wrNiMtZ2U6qxpCFT9SBgYmNlzxTZiwFUxejXcTeWkoLBIkMW0aoGhYEFkxBw1Xo1+S7fRqeUiaraE1lGkcPkAwIFtAZqtPfVMVBkelMambsHxpppayeidRvF51io5kYIhLQsB5T0gbD2YSqTwNCBgffJkuNRtKvFaPrExHTcKpQshhDCkjOkpUSgUbCREJJTtMNDonuoyAuy8JCW3iFctKDgwoQJY3liwMFQkMCydSEjYEosd/2yEJCinSQ9ZuDQUNCHxwby4NHg0NFBNPFGMgpZ2TqwkFCh7OgNGPDh5kOVF1HnstXlwxRUo8S8uUgNB11icaFBl9iG2AKnSA",
+          "top": "WUxUKihXMWoiPEtOSVQzLTEZKQQXQE5LFT4iOCUyQjhnMUEUUVR3EU9VaTVkRxkmIDcoRjxVEBA4LUQcLHV1Hio4RESHElxMWlI4WEARPRIbLxA3PkkqAy01V2goPTw4PJFRHDBbMjxKIFA7TSs8OSl9MCQmM08mJC9kBm4fRE4cGRMWQDoIIzZWMRMoM045Wz4nKTQqFnNuZlsnGyhEOzg/MggfKRoqKjMYCUIpMDYoNzACKWwOR1dJPk5iSyAzLjRDKEEoVAoUIh5XNQQwQjc6M2wfLCQhTE0vJhgOHC0aLBBRNBo0CRZjQTUYSEIrIlEkYxNOLTQgKhgxRRkhBjk+Kh85SzsNZTQuKj88B1UtN0Q4CxQ+ETOkps1ROCI+LIVcYmA4Pw9ZLjcPRjdCGCQWDRomYtq0Ub7/WBVwxWz9zDstOEkYUUA7JBgcCwcIJysdsZ8iGQm5oGTXfQlKwKopKkM0GRUUFxM+GSwpNiYykL47KhNfc2iLISwbNaRuLxVGJQwaJxohMklJGSI5pIoXODFdXHiOqpoiQTSZXBxMJhUJPT8uJyYwHQQ3qn5fakU/nEp1VJlbakk/S25YHxEP",
+          "middle": "FxM+GSwpNiYykL47KhNfc2iLISwbNaRuLxVGJQwaJxohMklJGSI5pIoXODFdXHiOqpoiQTSZXBxMJhUJPT8uJyYwHQQ3qn5fakU/nEp1VJlbakk/S25YHxEPIGVBLFkbISRbWKKYU2o6YGp/MloIXLFxkCJNZCYEPQceHikqFQoOK0ctVqBygzx6TFhFh42oQGZRSEohaXYPMQcLESE9SRxBEmLknPQNemw8qSc5E1VmPhgWQHlNHSkoNQVkgXedh15XOs6DdWWEm0YbBwkQMjoqF1xBIkZ6e43vdI9m1oFPWcZ3FSN8ljshGxUXEzdaJl5DTpCuZaA4CQcYXsxGWE9jLgkhn3YQHjgVCC0eW3ojhp9ZeGE5BBQJMJtSWF9ESis2f70tI0waHkYuPlx1jypPirKgcR8KKokcglEoFB4XQtdaaEVeNFlKHBiTV1sTeiRBP1gWHIYpcQURUTYYGYqJPy92YIiiCQ8nZmlvaDNvTxMXE14QQQpHMXUzCU9pR2xLFzG7GA0gFUAUGZuEFxILMIFCVAk4Nm1aG2GhZ0dLGURMFic7HH9snIZRCAcNUrY6hxQ9cDCEOFDUSH1XJhw+",
+          "bottom": "HBiTV1sTeiRBP1gWHIYpcQURUTYYGYqJPy92YIiiCQ8nZmlvaDNvTxMXE14QQQpHMXUzCU9pR2xLFzG7GA0gFUAUGZuEFxILMIFCVAk4Nm1aG2GhZ0dLGURMFic7HH9snIZRCAcNUrY6hxQ9cDCEOFDUSH1XJhw+A0gvCZB6V1swEjhtpJNQgC1Dbj5uQT6qjlFiIgs1CUQ7L72EEjMyXmpvnlRukDQqRy1DZiZooANLKxxfBBJMK5zDODteX0WNWztYp0wrNiMtZ2U6qxpCFT9SBgYmNlzxTZiwFUxejXcTeWkoLBIkMW0aoGhYEFkxBw1Xo1+S7fRqeUiaraE1lGkcPkAwIFtAZqtPfVMVBkelMambsHxpppayeidRvF51io5kYIhLQsB5T0gbD2YSqTwNCBgffJkuNRtKvFaPrExHTcKpQshhDCkjOkpUSgUbCREJJTtMNDonuoyAuy8JCW3iFctKDgwoQJY3liwMFQkMCydSEjYEosd/2yEJCinSQ9ZuDQUNCHxwby4NHg0NFBNPFGMgpZ2TqwkFCh7OgNGPDh5kOVF1HnstXlwxRUo8S8uUgNB11icaFBl9iG2AKnSA"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 30.826037,
+          "top": 30.958538,
+          "middle": 32.406264,
+          "bottom": 28.854625,
+          "effectiveRatio": 0.573365
+        },
+        "extendable": false,
+        "url": "https://image.news1.kr/system/photos/2026/10/18/8165284/high.jpg",
+        "sha256": "a1692b92cad1c60afe5b8727f18667cc3144f3c368342317328ce81a40d6e4fe"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.7714285714285715
+      },
+      "sha256": "a1692b92cad1c60afe5b8727f18667cc3144f3c368342317328ce81a40d6e4fe",
+      "name": "전상현 · 한준수",
+      "subject": "전상현 · 한준수",
+      "imageCredit": "뉴스1 김진환",
+      "creditDisplay": "사진 · 뉴스1 김진환 (2026.10.18 준PO 2차전)",
+      "photoDate": "2026-10-18",
+      "photoDateLabel": "2026.10.18 준PO 2차전",
+      "captionEvidence": "경기 종료 뒤 전상현과 포수 한준수가 서로 인사한다.전상현51번의정면얼굴과한준수포수장비가함께보이는2인전신구도다. 투구·타격·주루사진과다른종료뒤세션이다.",
+      "context": {
+        "originalContext": "경기 종료 뒤 전상현과 포수 한준수가 서로 인사한다.전상현51번의정면얼굴과한준수포수장비가함께보이는2인전신구도다. 투구·타격·주루사진과다른종료뒤세션이다.",
+        "currentStoryUse": "오늘 실제 준플레이오프2차전 경기 현장이다."
+      },
+      "photoDateEvidence": "https://www.news1.kr/photos/8165284",
+      "checkedAt": "2026-10-18T10:48:58.617Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "fit": "cover",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사 및 야구 관련인 사진 사용 계약·사용료 지급 완료"
+      },
+      "sceneGroup": "20261018-gwangju-jpo2-jeon-sanghyun-han-junsu-postgame-greeting-front"
+    }
+  ]
+}
