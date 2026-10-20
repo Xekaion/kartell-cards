@@ -1,0 +1,224 @@
+{
+  "checkedAt": "2026-10-20T10:11:15.852Z",
+  "action": "top-aligned native-size 4:5 crop only",
+  "originalsPreserved": true,
+  "noConfigApiGitChanges": true,
+  "images": [
+    {
+      "slideIndex": 0,
+      "index": 1,
+      "subject": "주니어 카미네로",
+      "original": {
+        "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\photos\\source-1.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/JuniorCaminero.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JuniorCaminero.jpg",
+        "width": 1209,
+        "height": 2048,
+        "bytes": 482258,
+        "sha256": "328b2dbcbdd2524afd2a2fde5c102c88a08ef7451abe611a03b6fe7653b49ec3",
+        "preserved": true
+      },
+      "derivative": {
+        "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\crop-fix\\source-1-top-4x5.jpg",
+        "width": 1209,
+        "height": 1511,
+        "bytes": 378781,
+        "sha256": "a09d5ec6a258fcf05908f83f3e9c4da461585d4ce1743af9f691fcae7980e83a",
+        "crop": {
+          "left": 0,
+          "top": 0,
+          "width": 1209,
+          "height": 1511
+        },
+        "resizeApplied": false,
+        "upscaleApplied": false,
+        "generativeProcessingApplied": false,
+        "restorationApplied": false,
+        "encoding": "JPEG quality96,4:4:4,only crop and deterministic JPEG encode",
+        "headDetailReview": {
+          "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\crop-fix\\source-1-head-100pct.jpg",
+          "crop": {
+            "left": 300,
+            "top": 100,
+            "width": 650,
+            "height": 650
+          },
+          "scale": 1
+        }
+      },
+      "sceneGroup": "20260622-caminero-field-standing-front",
+      "sceneGroupUnchanged": true,
+      "rights": {
+        "kind": "creative-commons",
+        "author": "Raysfanjake1984",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JuniorCaminero.jpg",
+        "photoDate": "2026-06-22",
+        "attributionRequired": false,
+        "shareAlikeRequired": false,
+        "adaptationNotice": "원본의 위쪽을 기준으로 4:5 크롭 후 JPEG 인코딩. 확대·복원·생성 없음. 게시 카드에는 그라데이션과 한국어 문안을 추가한다."
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T10:11:15.945Z",
+        "width": 1209,
+        "height": 1511,
+        "bytes": 378781,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3441295680612058,
+        "entropy": 6.866923805229817,
+        "effectiveDetailRatio": 0.586031,
+        "kind": "source",
+        "coverScale": 0.893,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "a09d5ec6a258fcf05908f83f3e9c4da461585d4ce1743af9f691fcae7980e83a",
+        "perceptualHash": "3662963632e69e8b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQICAQMDBQMEBAQFBgICBQYEAwMFBwUFBAIDAwIDCwsNDQ0ODg0OEA8GCx4hFhAQEBAPEA4NDQwNDQsKBQYGBggJCQcHBRcLOBk6JQgFBQUFAwIDBAQBAgQCDQ4NDAsMCwsMEydWFWkoRB0LCAgHCQgJBwgIBgQDFRYWFRYWFhQTNDdeil8yREkZEhQUEhMUExIQDxISBQUGBQQFBgYJOGJFTScQQmE3Dw4ODQ0MDgwMDg8RBAUEBAICAQQUYlgQLENQUyUmCgICAgEAAQEAAQMCDA4OCggKCQoPNWdINCAfLyclDQoKCAgHBwQEBQQFCAkJCQoKCQoNBzgoFgkbNFI5Dw4PDxARERIREA4QAQIDAgIFAQMEBT1FKDIzIVExBgICAwQFBQcHCAkHAQECAgMBAQEECB1oITFCLGIZBgYIBggGBQcGBQUHAQECAgMEAwMFBC56eiUZVDstNhoCAwIDAgEDBAQDCggHCggIBwYNWnlCrYxcQ11OaXMnAgQEAwYGBQgHDxARERIRDiB4iDMGPYGMgmJ4MWWQJQcKCwgJCwsJCQoLBwoJH4CDHysoCgk7TFUlFxB1cQ8MEBQTFBQSCAUDAwIRd3MHHwgYNAoSDBkbDSEmgTYICggICAYHAwIBBAVUfAIeKS8yHzFILyYqMDVLYE8DAgMDAgMCCAcIByJwORglKDNHOkp1MSckWklmLTwRBgICAQQFBgIEBjdtJxcdNzRqVlYtWxBBKhseESkUBgUFBAYEBgQCBjxYVToJQ4FKMlUjRDAcBSQuEToOAwIDBAUGDhAODkYkJEowTIYnGylOORAWGidSI0EXBgMDBAEBBQYFC15XJwRClG0tMDQaKUEyMRhVQjsvFRQSEA0OCQkHFENgYz5bRDEtHDk6HxYGIkF+G2g3EQkJCw0OAwUHDBxXVEIwIyVSV0I6R1F/hmFTWnoxDQgEBAICCgwKDhAqKThBVVU1JxI7TmJERzEGeVxPHAcFBwYFAgQFCSY2LjgzDRETDCcfSEBILhYgXIkvOhILBwUHBAYJCTdBGSM/gD0YJxw4XSIHEwUtP54RVxIOCwsLAQUFDBxFSVllTZVfHiNLLys1FxoZMKIRWBoIAgQDAwUFBQUgLBAfKDVYPE5aNjseIRYOLpRGUiYIBgQFBQQHBwQCAgkXLDUzHSo1NywzRU5TVnVBSSoLCQUKFAwOCwsLDQdAWlhjXUw8Dh9KendzM0wYTzAIBgMDERIODBMSExNiQCxLaHlSS1uNYxMqUVksSD0JDAkJBQABAgMEBh9YHS4RHg0PISNLjYqldJd4N0cRExcUAQIAAQMGBCBWJioHEQUMCBIYI0FSJ3K7JFIYDg8QBAMDAgQBAylcKioTGQkJCAQHGAkwJimWSTIRBwIEBAcEBAIEAxJaPjkXGwgSHxUXGRUTJBdgZiAeAwICBwIGAgEEAw9ATCAGIAIQEh4WNDUWGCA8eAwcCAgEBwgIAQIBAgYjQxAUHAwJBA8rOz42LSYMfz82CgEE",
+          "top": "AQICAQMDBQMEBAQFBgICBQYEAwMFBwUFBAIDAwIDCwsNDQ0ODg0OEA8GCx4hFhAQEBAPEA4NDQwNDQsKBQYGBggJCQcHBRcLOBk6JQgFBQUFAwIDBAQBAgQCDQ4NDAsMCwsMEydWFWkoRB0LCAgHCQgJBwgIBgQDFRYWFRYWFhQTNDdeil8yREkZEhQUEhMUExIQDxISBQUGBQQFBgYJOGJFTScQQmE3Dw4ODQ0MDgwMDg8RBAUEBAICAQQUYlgQLENQUyUmCgICAgEAAQEAAQMCDA4OCggKCQoPNWdINCAfLyclDQoKCAgHBwQEBQQFCAkJCQoKCQoNBzgoFgkbNFI5Dw4PDxARERIREA4QAQIDAgIFAQMEBT1FKDIzIVExBgICAwQFBQcHCAkHAQECAgMBAQEECB1oITFCLGIZBgYIBggGBQcGBQUHAQECAgMEAwMFBC56eiUZVDstNhoCAwIDAgEDBAQDCggHCggIBwYNWnlCrYxcQ11OaXMnAgQEAwYGBQgHDxARERIRDiB4iDMGPYGMgmJ4MWWQJQcKCwgJCwsJCQoLBwoJH4CDHysoCgk7TFUlFxB1cQ8MEBQTFBQS",
+          "middle": "CggHCggIBwYNWnlCrYxcQ11OaXMnAgQEAwYGBQgHDxARERIRDiB4iDMGPYGMgmJ4MWWQJQcKCwgJCwsJCQoLBwoJH4CDHysoCgk7TFUlFxB1cQ8MEBQTFBQSCAUDAwIRd3MHHwgYNAoSDBkbDSEmgTYICggICAYHAwIBBAVUfAIeKS8yHzFILyYqMDVLYE8DAgMDAgMCCAcIByJwORglKDNHOkp1MSckWklmLTwRBgICAQQFBgIEBjdtJxcdNzRqVlYtWxBBKhseESkUBgUFBAYEBgQCBjxYVToJQ4FKMlUjRDAcBSQuEToOAwIDBAUGDhAODkYkJEowTIYnGylOORAWGidSI0EXBgMDBAEBBQYFC15XJwRClG0tMDQaKUEyMRhVQjsvFRQSEA0OCQkHFENgYz5bRDEtHDk6HxYGIkF+G2g3EQkJCw0OAwUHDBxXVEIwIyVSV0I6R1F/hmFTWnoxDQgEBAICCgwKDhAqKThBVVU1JxI7TmJERzEGeVxPHAcFBwYFAgQFCSY2LjgzDRETDCcfSEBILhYgXIkvOhILBwUHBAYJCTdBGSM/gD0YJxw4XSIHEwUtP54RVxIOCwsL",
+          "bottom": "AwUHDBxXVEIwIyVSV0I6R1F/hmFTWnoxDQgEBAICCgwKDhAqKThBVVU1JxI7TmJERzEGeVxPHAcFBwYFAgQFCSY2LjgzDRETDCcfSEBILhYgXIkvOhILBwUHBAYJCTdBGSM/gD0YJxw4XSIHEwUtP54RVxIOCwsLAQUFDBxFSVllTZVfHiNLLys1FxoZMKIRWBoIAgQDAwUFBQUgLBAfKDVYPE5aNjseIRYOLpRGUiYIBgQFBQQHBwQCAgkXLDUzHSo1NywzRU5TVnVBSSoLCQUKFAwOCwsLDQdAWlhjXUw8Dh9KendzM0wYTzAIBgMDERIODBMSExNiQCxLaHlSS1uNYxMqUVksSD0JDAkJBQABAgMEBh9YHS4RHg0PISNLjYqldJd4N0cRExcUAQIAAQMGBCBWJioHEQUMCBIYI0FSJ3K7JFIYDg8QBAMDAgQBAylcKioTGQkJCAQHGAkwJimWSTIRBwIEBAcEBAIEAxJaPjkXGwgSHxUXGRUTJBdgZiAeAwICBwIGAgEEAw9ATCAGIAIQEh4WNDUWGCA8eAwcCAgEBwgIAQIBAgYjQxAUHAwJBA8rOz42LSYMfz82CgEE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.994419,
+          "top": 16.646243,
+          "middle": 24.319917,
+          "bottom": 19.130554,
+          "effectiveRatio": 0.586031
+        }
+      },
+      "strictPass": true,
+      "checkedAt": "2026-10-20T10:11:15.852Z",
+      "visualReview": {
+        "completed": true,
+        "reviewer": "codex-japan-research-agent",
+        "fullDerivativeActuallyViewed": true,
+        "headDetail100PercentActuallyViewed": true,
+        "capCrownPreserved": true,
+        "capBrimPreserved": true,
+        "eyesPreserved": true,
+        "entireFacePreserved": true,
+        "headroomVisible": true,
+        "conclusion": "카미네로의 모자 위 초록 잔디 여백, 모자 전체, 양쪽 눈·귀·턱을 직접 확인했다. 아래 허벅지 일부만 크롭됐고 얼굴/머리는 제거되지 않았다.",
+        "finalCardReviewStillRequired": true
+      }
+    },
+    {
+      "slideIndex": 2,
+      "index": 3,
+      "subject": "조니 델루카",
+      "original": {
+        "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\photos\\deluca-thumb.jpg",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/DelucaJ.jpg/1280px-DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:DelucaJ.jpg",
+        "width": 1280,
+        "height": 2122,
+        "bytes": 453917,
+        "sha256": "ec210d21f53d6a2d0ebe7e149c41893aa27e39e719daf2ba3a35301e2ce80deb",
+        "preserved": true
+      },
+      "derivative": {
+        "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\crop-fix\\source-3-top-4x5.jpg",
+        "width": 1280,
+        "height": 1600,
+        "bytes": 552446,
+        "sha256": "7a79d052d9cfcc2da07f22dfc41720904ccaed20a8559d6111f9bfc6e68c9213",
+        "crop": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 1600
+        },
+        "resizeApplied": false,
+        "upscaleApplied": false,
+        "generativeProcessingApplied": false,
+        "restorationApplied": false,
+        "encoding": "JPEG quality96,4:4:4,only crop and deterministic JPEG encode",
+        "headDetailReview": {
+          "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\crop-fix\\source-3-head-100pct.jpg",
+          "crop": {
+            "left": 240,
+            "top": 100,
+            "width": 700,
+            "height": 700
+          },
+          "scale": 1
+        }
+      },
+      "sceneGroup": "20230930-oklahoma-city-deluca-walking-front",
+      "sceneGroupUnchanged": true,
+      "rights": {
+        "kind": "creative-commons",
+        "author": "Spanneraol",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:DelucaJ.jpg",
+        "photoDate": "2023-09-30",
+        "attributionRequired": true,
+        "shareAlikeRequired": true,
+        "adaptationNotice": "원본의 위쪽을 기준으로 4:5 크롭 후 JPEG 인코딩. 확대·복원·생성 없음. 게시 카드에는 그라데이션과 한국어 문안을 추가한다. 해당 크롭 및 카드3 파생물도 CC BY-SA 4.0으로 제공.",
+        "adaptationLicense": "CC BY-SA 4.0"
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T10:11:16.065Z",
+        "width": 1280,
+        "height": 1600,
+        "bytes": 552446,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.47281372214173,
+        "entropy": 7.399130306206644,
+        "effectiveDetailRatio": 0.482924,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "7a79d052d9cfcc2da07f22dfc41720904ccaed20a8559d6111f9bfc6e68c9213",
+        "perceptualHash": "0ad369696956464e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Cw0OJQ4WOicwNS4qKVlMIykvTU9gFY5RCB9IMWNsERENDh8PFhIgKBwlHSQEChIkLTM0ECYwKiorHkxFAQcCCgkICAwXDA4NBh5fIhUJEggTCQkUCA0IFgwCBQUHDQQJBhQUBhAHElo7YxoQFAEQBBAIBgkEFA4BBAYJCAAGBBMICw4HEk14VEUJFAYNBgwDBgYDEQ0FAgQGAgIIDBEACAkTGyNiYSgdGAQMFBELDAwNFQ0IY2FhZGFeV11iWlZcNTAoMU5AYU5NSUlJQ0U/QUhFc3R0dnl/f4KFhIWMaCo5YjEymIyKh4yMjImHkZeZFBQVFRcaGRscHSUoanQfMBZUKho0NTI0NjU5PD5BAAEAAwEEBAIFBQs9KXItMDgZZGlHEwgCAQMCBAMDAQECAQIDBgUND15WbC2HM18zUzJqbSkHAwICAgECBgUFBwQEAwcWbE8DWm6AhR1rOB4LUHMkAwEEAQMCAQICAwQEBwliXhILDoZ+LpxCDRMtJVpLBQQGBQIACQgHBgQDCDWJMjIWGRyEhzIzLTlPPJBMFQICBAMEAwMEAQIECW2HJHpAFA4dP0pDbnMxJ2F+LQMDAAQEAQIDAwEIG31rPCyAMSgTLWZWbKwtYZCRKQsHBgYDAwQDBQcGD0KPj3guTBgED0yeeGEygYcmDAQGBgUGCAsMDgwMBTcqTKNHOUdGIhY2cTM4jjwFEAcJBwQECQoKBwQLJW5lRTIjRCwqQxoeDjZNxGkoEwoQEA8RBQQEBAUJKE8ROTphGDoQOx0NMk/VcG88GgoKCQ0NBAQGBAIHFmxQKGMjfYk9dpROOFZcgTw6HggEAwQFBgcFBggHBCGKgTaSfzgvVW1sZmqfcl0bBgMCAQIEBQUGAQEBBAoNU5tzn5hZSHbxhhlhtz4LBAQEAgIDBAEHBgYICAcRDQmvnixpZ6g0wtzuVxcIAwYGBAMEBwkFAQMFAgYFCjhUvbRMIXzvz4l/VBIMBQQFAgEFDgsHCAcFAwUIBlFfJ5Wjm4hqNRM9WxYQCggGBAEBDw8PEQ4KCQgHBVdRBiFkVx0kFwNBYxgMBgcKCAcICQcGBQkKDg4MF2BDBQoFEA8ICAY8ZhwQDQwNDA0NCAgGAgYHBwgNIWc+Cw4WOTwODQo5bSgLBw0NEBMSBwgJCgoJBwcLGXBIERYpJC05DAQ1aSkJAgIDBQUHBQUGCgcHCQcGEWVWBhEjIi0VBwM9bSUKBAUEDQ8OBAUGAwEEBQYIC2hcCgkaFSMUAwNIcRwOCAUGBQgLBwQFBgQGBQQHAFpyFAUeMjkqBAdQZhgKCAgFCAkHCQQCAQMEAwYHBTl6NgcvSDVABA5XVQ8KCQQGBwQIAgQFAwUGBAUBBixuPwg6Nj82BB1kRgoGCQoGBAsFBwMCCgkDBgcICid7ShFAM0xNCityPg0IAwYJCwYHCQoKBAkJBwEDBhpeURNBWjVqQzxZQggJCQoIBQIEDA0LBAQDBAQCCQ9XTg5HVCQtWjMtOgULCAYEAwMF",
+          "top": "Cw0OJQ4WOicwNS4qKVlMIykvTU9gFY5RCB9IMWNsERENDh8PFhIgKBwlHSQEChIkLTM0ECYwKiorHkxFAQcCCgkICAwXDA4NBh5fIhUJEggTCQkUCA0IFgwCBQUHDQQJBhQUBhAHElo7YxoQFAEQBBAIBgkEFA4BBAYJCAAGBBMICw4HEk14VEUJFAYNBgwDBgYDEQ0FAgQGAgIIDBEACAkTGyNiYSgdGAQMFBELDAwNFQ0IY2FhZGFeV11iWlZcNTAoMU5AYU5NSUlJQ0U/QUhFc3R0dnl/f4KFhIWMaCo5YjEymIyKh4yMjImHkZeZFBQVFRcaGRscHSUoanQfMBZUKho0NTI0NjU5PD5BAAEAAwEEBAIFBQs9KXItMDgZZGlHEwgCAQMCBAMDAQECAQIDBgUND15WbC2HM18zUzJqbSkHAwICAgECBgUFBwQEAwcWbE8DWm6AhR1rOB4LUHMkAwEEAQMCAQICAwQEBwliXhILDoZ+LpxCDRMtJVpLBQQGBQIACQgHBgQDCDWJMjIWGRyEhzIzLTlPPJBMFQICBAMEAwMEAQIECW2HJHpAFA4dP0pDbnMxJ2F+LQMDAAQE",
+          "middle": "AQICAwQEBwliXhILDoZ+LpxCDRMtJVpLBQQGBQIACQgHBgQDCDWJMjIWGRyEhzIzLTlPPJBMFQICBAMEAwMEAQIECW2HJHpAFA4dP0pDbnMxJ2F+LQMDAAQEAQIDAwEIG31rPCyAMSgTLWZWbKwtYZCRKQsHBgYDAwQDBQcGD0KPj3guTBgED0yeeGEygYcmDAQGBgUGCAsMDgwMBTcqTKNHOUdGIhY2cTM4jjwFEAcJBwQECQoKBwQLJW5lRTIjRCwqQxoeDjZNxGkoEwoQEA8RBQQEBAUJKE8ROTphGDoQOx0NMk/VcG88GgoKCQ0NBAQGBAIHFmxQKGMjfYk9dpROOFZcgTw6HggEAwQFBgcFBggHBCGKgTaSfzgvVW1sZmqfcl0bBgMCAQIEBQUGAQEBBAoNU5tzn5hZSHbxhhlhtz4LBAQEAgIDBAEHBgYICAcRDQmvnixpZ6g0wtzuVxcIAwYGBAMEBwkFAQMFAgYFCjhUvbRMIXzvz4l/VBIMBQQFAgEFDgsHCAcFAwUIBlFfJ5Wjm4hqNRM9WxYQCggGBAEBDw8PEQ4KCQgHBVdRBiFkVx0kFwNBYxgMBgcKCAcI",
+          "bottom": "BAEHBgYICAcRDQmvnixpZ6g0wtzuVxcIAwYGBAMEBwkFAQMFAgYFCjhUvbRMIXzvz4l/VBIMBQQFAgEFDgsHCAcFAwUIBlFfJ5Wjm4hqNRM9WxYQCggGBAEBDw8PEQ4KCQgHBVdRBiFkVx0kFwNBYxgMBgcKCAcICQcGBQkKDg4MF2BDBQoFEA8ICAY8ZhwQDQwNDA0NCAgGAgYHBwgNIWc+Cw4WOTwODQo5bSgLBw0NEBMSBwgJCgoJBwcLGXBIERYpJC05DAQ1aSkJAgIDBQUHBQUGCgcHCQcGEWVWBhEjIi0VBwM9bSUKBAUEDQ8OBAUGAwEEBQYIC2hcCgkaFSMUAwNIcRwOCAUGBQgLBwQFBgQGBQQHAFpyFAUeMjkqBAdQZhgKCAgFCAkHCQQCAQMEAwYHBTl6NgcvSDVABA5XVQ8KCQQGBwQIAgQFAwUGBAUBBixuPwg6Nj82BB1kRgoGCQoGBAsFBwMCCgkDBgcICid7ShFAM0xNCityPg0IAwYJCwYHCQoKBAkJBwEDBhpeURNBWjVqQzxZQggJCQoIBQIEDA0LBAQDBAQCCQ9XTg5HVCQtWjMtOgULCAYEAwMF"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.432166,
+          "top": 28.048342,
+          "middle": 21.042791,
+          "bottom": 13.559216,
+          "effectiveRatio": 0.482924
+        }
+      },
+      "strictPass": true,
+      "checkedAt": "2026-10-20T10:11:15.852Z",
+      "visualReview": {
+        "completed": true,
+        "reviewer": "codex-japan-research-agent",
+        "fullDerivativeActuallyViewed": true,
+        "headDetail100PercentActuallyViewed": true,
+        "capCrownPreserved": true,
+        "capBrimPreserved": true,
+        "eyesPreserved": true,
+        "entireFacePreserved": true,
+        "headroomVisible": true,
+        "conclusion": "델루카의 모자 위 펜스·관중석 여백, 모자 전체, 얼굴·목을 직접 확인했다. 발목 아래쪽을 덜어냈고 머리/모자는 제거되지 않았다. 원본의 촬영 디테일을 그대로 유지하며 복원·선명화하지 않았다.",
+        "finalCardReviewStillRequired": true
+      }
+    }
+  ],
+  "visualReviewCompletedAt": "2026-10-20T10:11:46.627Z",
+  "allDerivativesStrictApproved": true,
+  "allDerivativeHeadsVisuallyPreserved": true
+}
