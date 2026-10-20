@@ -3,7 +3,7 @@
   "handle": "@baseball_kartell",
   "headline": "다자와 준이치, 독립리그 사이타마 선수 겸 단장 취임",
   "issueKey": "ipbl-20261018-tazawa-saitama-player-general-manager-appointment",
-  "checkedAt": "2026-10-20T09:56:52.573Z",
+  "checkedAt": "2026-10-20T09:58:20.203Z",
   "sourceUrl": "https://bc-l.jp/news_team.php?keyno=2944",
   "corroboratingUrls": [
     "https://bc-l-data.jp/players/960115/2026",
@@ -319,46 +319,29 @@
       "sourceUrl": "https://musashibears.com/wp-content/uploads/2025/02/平澤-scaled.jpg",
       "sourcePageUrl": "https://musashibears.com/player/hirasawa-ryo",
       "caption": "평澤燎 공식 선수 소개 사진",
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\japan\\independent-five\\photos\\hirasawa-scaled.jpg",
+      "localPath": "C:/repos/kartell-studio-main/kartell-studio-main/logs/codex-2026-10-20-channel-catchup/japan/tazawa/approved-source-5.jpg",
       "width": 2560,
       "height": 1707,
-      "bytes": 483267,
-      "sha256": "fb36bd7a0778009e026576d379347fd0c69a028192035bf1be889b18f1b4ded8",
+      "bytes": 239080,
+      "sha256": "63c08fce968c900731b164665b620d547a1c52cda9cec8633244e91257232558",
       "quality": {
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-20T09:15:55.062Z",
+        "checkedAt": "2026-10-20T09:58:00.509Z",
         "width": 2560,
         "height": 1707,
-        "bytes": 483267,
-        "format": "jpeg",
-        "mimeType": "image/jpeg",
-        "effectiveSharpness": 0.7723072949464566,
-        "entropy": 6.790604439182971,
-        "effectiveDetailRatio": 0.453942,
+        "bytes": 239080,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 0.7031662947685812,
+        "entropy": 6.750700841116668,
+        "effectiveDetailRatio": 0.436409,
         "kind": "source",
         "coverScale": 0.791,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "url": "https://musashibears.com/wp-content/uploads/2025/02/平澤-scaled.jpg",
-        "sha256": "fb36bd7a0778009e026576d379347fd0c69a028192035bf1be889b18f1b4ded8",
-        "perceptualHash": "034b0b2b4e5ad9e0",
-        "edgeFingerprint": {
-          "version": "edge-v2",
-          "full": "AgEAAQEBAQECAQEBAQQBAQIBAAECAwIDAQECAAECAgIBAgMCAQQEAgECAwQAAAIBAgMBAgEDAQACAAEABAQDBQUCAwQCBAMDBAMCAQQDAgIABAICAgECAQECAwQEBAQCAwMCAwMCAwECBAQDAgICBAIEAgECAQECAgIDAQMCAQECAQECAgICAgIBAgICBAEDAQIDAQIBAgEAAQECAgIDAgUHBwUCAgMCAQECAwIDAQMEAwIBAQEDAQIBAgEBBgk1Mg0HAgQEAgIABAEEAgQEAQMDAwICAQMCAQICCVFbRlEKBAEEBAEBBAMDBAIFAgEEAwMAAQIBAQMEMnYkKi07BAMCBAICAwQBAQIFAQECAgMAAQIDAwEMZXJmXSwYCQQDBAUCAQQBAQIDAQEBBQEBCxERDQodimsWjnIMBwUEBQEEBAQBAQECAQEDBgENNB0LEztYfi1ES3Z5TBIMAgEDBgQDAgIEAQIBAgYyNTMQM0oyHTs4J05dmX0cEgkDBAkFBQUFBAQEDhFCOTMVKBU1XGs0Gy0mJnSTRxMUGBscISAgIiEjMDEtEysnKBIYFFJ+dFstCA4Zc0MnKi8wNDEvMC8xFAwPMEoEQjQfQ0Y8VZ5YEUxOYCIkIyQdKCglIiMlMCU1OxMSEzQ6MiY8IV9/UGN5WTsyMjktPj04MzMyIhkjFQsQFxEaGyNZPlPSSJelRCAkJicaLC4wMDAwLR45Qz49Ozk7QDYXijqj/HNshjozPj0pSFBQTExCJBYhJiQcFhQREB0/GpBCZJRxF0MUFhYVIRgRDREVIB0qJyguKyssMj87XkO9zYI4YU4yPDYwPUFEREU/YFdhYWFZUk1bThVTmtWqoZjOjWJUWFxWYGFgXmBeMSwvMS4nJy4hr/v0u1YOFAyW5ksdGRsaHB0cGxoaBAQEAwIECoT//44/EwYWBRyH50IPBggIBgUEBwcHBQQFBQILdv+yHxYZGzRIMVX/tQ0GBQYFAQECAwQDBgUEAwkl4s4AN2p/YqXk2f/WCwgCBgYEAgIEAQUCBQUFAQsu6Ks1qaNUGYSehXgTCQEFBgYEAAMEAwQEBgUFAQ5P/omEs2SJK9qHEQoBBAQGBggFBgcHCgsKBwcFARCX/0eD1F+PXpe9CRYbHiElKSswNDk4Ojs9SlJRSkf4zxCd505mQDXRZ3BwcXN4eXp2bGRgW1hTdE9BX2W5YAt1hV5NZzKfUDEvKSQeEAcLFRwcHx8dTl1IKi6QlUyRhCKNqVKQfUJCPj1DQ0ZDNyklHxsZbTYmUmKb6d2djj8+osWtPSstKiYkIBoZEgYAAgoMDhIYLSEqUJ2zOhgJFCYwHQ8QFRoTFhQQEBMJDxINAwwKBiEnJhs3FwgACA4OAwQCAgUICxAVCg0SDgUDCQcJBQMBBxkdBAcKCQkKBgQDAQYJCQwBCBAPCwgNCw4PEQwQCwgNDQwLDA4NBQICAQUJChASBQYRDw0YHxsfGxsgGSEeHx4ZGBoKDw8RExAUEA8NFRAJCxIM",
-          "top": "AgEAAQEBAQECAQEBAQQBAQIBAAECAwIDAQECAAECAgIBAgMCAQQEAgECAwQAAAIBAgMBAgEDAQACAAEABAQDBQUCAwQCBAMDBAMCAQQDAgIABAICAgECAQECAwQEBAQCAwMCAwMCAwECBAQDAgICBAIEAgECAQECAgIDAQMCAQECAQECAgICAgIBAgICBAEDAQIDAQIBAgEAAQECAgIDAgUHBwUCAgMCAQECAwIDAQMEAwIBAQEDAQIBAgEBBgk1Mg0HAgQEAgIABAEEAgQEAQMDAwICAQMCAQICCVFbRlEKBAEEBAEBBAMDBAIFAgEEAwMAAQIBAQMEMnYkKi07BAMCBAICAwQBAQIFAQECAgMAAQIDAwEMZXJmXSwYCQQDBAUCAQQBAQIDAQEBBQEBCxERDQodimsWjnIMBwUEBQEEBAQBAQECAQEDBgENNB0LEztYfi1ES3Z5TBIMAgEDBgQDAgIEAQIBAgYyNTMQM0oyHTs4J05dmX0cEgkDBAkFBQUFBAQEDhFCOTMVKBU1XGs0Gy0mJnSTRxMUGBscISAgIiEjMDEtEysnKBIYFFJ+dFstCA4Zc0MnKi8wNDEvMC8x",
-          "middle": "AgYyNTMQM0oyHTs4J05dmX0cEgkDBAkFBQUFBAQEDhFCOTMVKBU1XGs0Gy0mJnSTRxMUGBscISAgIiEjMDEtEysnKBIYFFJ+dFstCA4Zc0MnKi8wNDEvMC8xFAwPMEoEQjQfQ0Y8VZ5YEUxOYCIkIyQdKCglIiMlMCU1OxMSEzQ6MiY8IV9/UGN5WTsyMjktPj04MzMyIhkjFQsQFxEaGyNZPlPSSJelRCAkJicaLC4wMDAwLR45Qz49Ozk7QDYXijqj/HNshjozPj0pSFBQTExCJBYhJiQcFhQREB0/GpBCZJRxF0MUFhYVIRgRDREVIB0qJyguKyssMj87XkO9zYI4YU4yPDYwPUFEREU/YFdhYWFZUk1bThVTmtWqoZjOjWJUWFxWYGFgXmBeMSwvMS4nJy4hr/v0u1YOFAyW5ksdGRsaHB0cGxoaBAQEAwIECoT//44/EwYWBRyH50IPBggIBgUEBwcHBQQFBQILdv+yHxYZGzRIMVX/tQ0GBQYFAQECAwQDBgUEAwkl4s4AN2p/YqXk2f/WCwgCBgYEAgIEAQUCBQUFAQsu6Ks1qaNUGYSehXgTCQEFBgYEAAMEAwQE",
-          "bottom": "BAQEAwIECoT//44/EwYWBRyH50IPBggIBgUEBwcHBQQFBQILdv+yHxYZGzRIMVX/tQ0GBQYFAQECAwQDBgUEAwkl4s4AN2p/YqXk2f/WCwgCBgYEAgIEAQUCBQUFAQsu6Ks1qaNUGYSehXgTCQEFBgYEAAMEAwQEBgUFAQ5P/omEs2SJK9qHEQoBBAQGBggFBgcHCgsKBwcFARCX/0eD1F+PXpe9CRYbHiElKSswNDk4Ojs9SlJRSkf4zxCd505mQDXRZ3BwcXN4eXp2bGRgW1hTdE9BX2W5YAt1hV5NZzKfUDEvKSQeEAcLFRwcHx8dTl1IKi6QlUyRhCKNqVKQfUJCPj1DQ0ZDNyklHxsZbTYmUmKb6d2djj8+osWtPSstKiYkIBoZEgYAAgoMDhIYLSEqUJ2zOhgJFCYwHQ8QFRoTFhQQEBMJDxINAwwKBiEnJhs3FwgACA4OAwQCAgUICxAVCg0SDgUDCQcJBQMBBxkdBAcKCQkKBgQDAQYJCQwBCBAPCwgNCw4PEQwQCwgNDQwLDA4NBQICAQUJChASBQYRDw0YHxsfGxsgGSEeHx4ZGBoKDw8RExAUEA8NFRAJCxIM"
-        },
-        "detailFingerprint": {
-          "version": "detail-v1",
-          "full": 16.283581,
-          "top": 14.734796,
-          "middle": 19.557264,
-          "bottom": 16.532203,
-          "effectiveRatio": 0.453942
-        }
+        "sha256": "63c08fce968c900731b164665b620d547a1c52cda9cec8633244e91257232558"
       },
       "scale": 0.7908611599297012,
       "strictPass": true,
@@ -384,7 +367,9 @@
         "kind": "user-confirmed-contract",
         "statement": "2026-10-16 사용자 직접 확인: 일본 매체 사진 사용권 확보 완료. 일본 구단 제공 실제 사진은 원문 제공자와 연결.",
         "confirmationFile": "logs/codex-2026-10-16-eleven-extra/japanese-photo-rights-confirmation.json"
-      }
+      },
+      "previousDownloadedSha256": "fb36bd7a0778009e026576d379347fd0c69a028192035bf1be889b18f1b4ded8",
+      "originVariantEvidence": "Origin negotiates WebP for renderer Accept header; actual fetched WebP pixels individually reviewed, same official Hirasawa photo, signed source SHA retained."
     }
   ]
 }
