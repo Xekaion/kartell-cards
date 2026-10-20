@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-10-20T10:03:53.030Z",
+  "reason": "Publisher returned a transient original-source delivery error. Redistribute the same approved, explicitly licensed CC photographs with exact SHA and attribution.",
+  "originals": [
+    {
+      "index": 1,
+      "file": "source-1.jpg",
+      "sha256": "d68def029afc2fa50353d315c0c6243b4392ac57c81e25806be516c346465149",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg/1280px-Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kevin_McGonigle,_May_13,_2026_(001)_(cropped).jpg",
+      "photoDate": "2026-05-13",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "none; exact approved source bytes, no resizing, no restoration"
+    },
+    {
+      "index": 2,
+      "file": "source-2.png",
+      "sha256": "c5ba12cd7b81d5631da2fd96e0c945c7fe35f6a1550885702963f2f46b96fc7e",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/JJ_Wetherholt_March_31_2026_13356.png/1280px-JJ_Wetherholt_March_31_2026_13356.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JJ_Wetherholt_March_31_2026_13356.png",
+      "photoDate": "2026-03-31",
+      "author": "Johnmaxmena2",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "none; exact approved source bytes, no resizing, no restoration"
+    },
+    {
+      "index": 3,
+      "file": "source-3.jpg",
+      "sha256": "4492eb099062cb17d28a1fffcc8353fd7a67d88f9305ebd10e47f4f05c45648e",
+      "originalSourceUrl": "https://live.staticflickr.com/65535/54634218339_f666727190_o.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carter_Jensen_Omaha_Storm_Chasers_2025.jpg",
+      "photoDate": "2025",
+      "author": "Minda Haas Kuhlmann",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "none; exact approved source bytes, no resizing, no restoration"
+    },
+    {
+      "index": 4,
+      "file": "source-4.png",
+      "sha256": "37c06ffde886333d78d4eced7e8229fbee5bf7f62779f3dee850cac3c618a6b5",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Carson_Benge_March_31_2026.png/1280px-Carson_Benge_March_31_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carson_Benge_March_31_2026.png",
+      "photoDate": "2026-03-31",
+      "author": "Johnmaxmena2",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "none; exact approved source bytes, no resizing, no restoration"
+    },
+    {
+      "index": 5,
+      "file": "source-5.jpg",
+      "sha256": "b7882e5b14d7fb7075fe9fb7928e5e9c2fce7e92ce5cb9946cecbeded456655a",
+      "originalSourceUrl": "https://live.staticflickr.com/65535/53094592714_cb25a11194_o.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chase_DeLauter_(53094592714).jpg",
+      "photoDate": "2023-08-04",
+      "author": "Joel Dinda",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "none; exact approved source bytes, no resizing, no restoration"
+    }
+  ]
+}
