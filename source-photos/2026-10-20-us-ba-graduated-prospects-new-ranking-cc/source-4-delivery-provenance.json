@@ -1,0 +1,117 @@
+{
+  "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carson_Benge_March_31_2026.png",
+  "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Carson_Benge_March_31_2026.png/1280px-Carson_Benge_March_31_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Johnmaxmena2",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "derivativeSha256": "a477f414e4cc980e0f2c29b2bdd26175a5796920aff551d6835792ff842cc49b",
+  "conversion": {
+    "version": "photo-source-format-delivery-v1",
+    "createdAt": "2026-10-20T10:05:37.859Z",
+    "reason": "원본PNG가Gitraw에서application/octet-stream으로전달되어표준JPEG전달파일로변환.실제원본의종횡비·치수·내용유지",
+    "sourcePath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\us-graduated\\photos\\Carson-Benge.png",
+    "outputPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\us-graduated\\photos\\source-format-delivery.jpg",
+    "originalSha256": "37c06ffde886333d78d4eced7e8229fbee5bf7f62779f3dee850cac3c618a6b5",
+    "derivativeSha256": "a477f414e4cc980e0f2c29b2bdd26175a5796920aff551d6835792ff842cc49b",
+    "original": {
+      "format": "png",
+      "width": 1280,
+      "height": 2053,
+      "bytes": 13886018,
+      "depth": "ushort",
+      "space": "rgb16",
+      "bitsPerSample": 16
+    },
+    "derivative": {
+      "format": "jpeg",
+      "width": 1280,
+      "height": 2053,
+      "bytes": 1899210,
+      "depth": "uchar",
+      "space": "srgb",
+      "chromaSubsampling": "4:4:4",
+      "isProgressive": false
+    },
+    "operation": {
+      "library": "sharp",
+      "jpegQuality": 98,
+      "chromaSubsampling": "4:4:4",
+      "progressive": false,
+      "resized": false,
+      "cropped": false,
+      "rotated": false,
+      "sharpened": false,
+      "denoised": false,
+      "aiGenerated": false,
+      "aiUpscaled": false,
+      "pixelContentOperation": "JPEG표준의8bit압축포맷변환만;PNG16bit에서JPEG8bit의정상인코딩변환",
+      "metadata": "JPEG표준전달용;시각적실사진내용은그대로,원본메타데이터증거는원PNG및CommonsJSON에보존"
+    },
+    "dimensionsUnchanged": true,
+    "decodedComparison": {
+      "space": "sRGB8bitRGB",
+      "samples": 7883520,
+      "lengthEqual": true,
+      "rmse": 1.258053543510377,
+      "maximumChannelDifference": 10,
+      "changedChannelSamples": 4989455,
+      "note": "JPEG은손실압축이므로SHA·픽셀완전동일아님.치수·인물·장면을유지하는표준포맷변환"
+    },
+    "quality": {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-10-20T10:05:37.610Z",
+      "width": 1280,
+      "height": 2053,
+      "bytes": 1899210,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 2.3392840395371435,
+      "entropy": 7.394872975715771,
+      "effectiveDetailRatio": 0.592111,
+      "kind": "source",
+      "coverScale": 0.844,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "sha256": "a477f414e4cc980e0f2c29b2bdd26175a5796920aff551d6835792ff842cc49b",
+      "perceptualHash": "33f96d7359942626",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "KjsRkZphXGd+QggECwsOEA0IDx4NHmcoCRcEGQ8EChmFkWWRoJ1XFikkFgkLBgYCCBAVC09HGQMREQcICgRFtqdVC0dUTzccGhsYGA0PIiENBUFkGRAQDQ0SBAUCRouzs0UeDjRKTDUkGhQaJSAeDTdfKw4LCBY8BAQGCQoqenxCKyQUDwsRHCMSPTUSEjU/LA0EDhJFAgYQBAsJG2hURj43UHuWkYVzJRgMCy5FMxEOBh0kCBEEBggHGktiTXF5iXtdSUt6WVQxF0VXKA8JGSQKDgIHBAIZBFUqS0xOOQ4dJR1BLCg6DFw/DQQIEyEdBAgEAxMCR0MrNw4VHxIaGhcgUDVUGU1AFAMNEAwgCAQEDwcOLT4dOQkVBwUEBxlcPYxFLFtaDg8RBAoFBAQHCgoLLSMYQBMGCggGEkwvHWskSGVLCBEMCgcQBgQIChERKFAjQUAkIx0aIh1IHXZ2OIc+EwsLEA46BAwIEyQXBkdGOSo2LTVEMh0iDkakUos4EQcMCy9TCQkQIiMjGRQWPEM8QEE1MjAbCwNkk1AQBggDI09HHRMeLQomFEE7QUNCNSowPyobBBgtVx4QBAgYSUwaOjsSGCQUJCosOlYcERY6Pi4aDS4oQjQfIyQ9UCETGjZDLwkZOCoRK2aeIyMxOzEbLD0xL5JOETNMKA8tDQtWZTk6RT8tPjV5ah4sMSw2PDIoHDuYbDkZER8vFTxKSkxDUEJGQzgjlDQfKTg4bXqOjn9jckA7Fxw1OTIuLTJLVCZSaz8ZUXITOhthRTZHZ3ZrKStHMBZAQSA2LjJLKwsubmUtGlEqC0UTGg8LBw0NJjU0OCEtMkgaLkssBwYkZmQpMi0eJg8VDQcFBgoSGTAiKwwsBksxJzM6MhYrYlMrIhcbGQoDBwYGBAsMDhYkCB8wJCM/Gg8kNzIoRjQvJhsFHiAQERAPEwYGDQ4IDBg5GBYfPB8dIhsNLx0EFAsmOA8NEBEREyUQBgwNBwYoGxghFhUdMAwYQEM0GSJCEAUGCwULEBM2HwcQBhMZGRweFhAiEDA0T0cmRFwbDgUECw0HBhEZPy0PERELFRwZDwInEUUsMTMndUUVEgcEAgwNCgwZIDQoFQsIFhAVDAQbIh40QE49cBwWHBEFBQUHCxUZKCEnGw8OCQoECQMQHBMGHjs0TQgWERADBgQTABwkCS8cHxAQBQQDAQIBBAYHBBgpMg4VFRAECQ4NFQsdEiogHxMUBAMDAgIDAgIBDhYvIQkSHh4VMzMzCSQQBiYzHyINAQIDAgECAQIDGAgwHQQcQhoVUltJFSw3Hgo5JiYYAQEAAgEBAQEHGgoyGQgsMRY5URdYGRQ5LQ4bJhkxAgEBAQEBAQEOGiQsBwYcMRdOPxFIZRssJAgTIxgPAwICAQABAwEbBTIZFAweIGaoIy0LloYQFAcHGCcMAgIBAQIDAQUQJSkSFgUlcaMumE+fVJd/HwwPES4zAgEBAQEDAgYCHhgOCwJBiB2MFk0OayKFUB8SFzM0",
+        "top": "KjsRkZphXGd+QggECwsOEA0IDx4NHmcoCRcEGQ8EChmFkWWRoJ1XFikkFgkLBgYCCBAVC09HGQMREQcICgRFtqdVC0dUTzccGhsYGA0PIiENBUFkGRAQDQ0SBAUCRouzs0UeDjRKTDUkGhQaJSAeDTdfKw4LCBY8BAQGCQoqenxCKyQUDwsRHCMSPTUSEjU/LA0EDhJFAgYQBAsJG2hURj43UHuWkYVzJRgMCy5FMxEOBh0kCBEEBggHGktiTXF5iXtdSUt6WVQxF0VXKA8JGSQKDgIHBAIZBFUqS0xOOQ4dJR1BLCg6DFw/DQQIEyEdBAgEAxMCR0MrNw4VHxIaGhcgUDVUGU1AFAMNEAwgCAQEDwcOLT4dOQkVBwUEBxlcPYxFLFtaDg8RBAoFBAQHCgoLLSMYQBMGCggGEkwvHWskSGVLCBEMCgcQBgQIChERKFAjQUAkIx0aIh1IHXZ2OIc+EwsLEA46BAwIEyQXBkdGOSo2LTVEMh0iDkakUos4EQcMCy9TCQkQIiMjGRQWPEM8QEE1MjAbCwNkk1AQBggDI09HHRMeLQomFEE7QUNCNSowPyobBBgtVx4QBAgYSUwa",
+        "middle": "BAwIEyQXBkdGOSo2LTVEMh0iDkakUos4EQcMCy9TCQkQIiMjGRQWPEM8QEE1MjAbCwNkk1AQBggDI09HHRMeLQomFEE7QUNCNSowPyobBBgtVx4QBAgYSUwaOjsSGCQUJCosOlYcERY6Pi4aDS4oQjQfIyQ9UCETGjZDLwkZOCoRK2aeIyMxOzEbLD0xL5JOETNMKA8tDQtWZTk6RT8tPjV5ah4sMSw2PDIoHDuYbDkZER8vFTxKSkxDUEJGQzgjlDQfKTg4bXqOjn9jckA7Fxw1OTIuLTJLVCZSaz8ZUXITOhthRTZHZ3ZrKStHMBZAQSA2LjJLKwsubmUtGlEqC0UTGg8LBw0NJjU0OCEtMkgaLkssBwYkZmQpMi0eJg8VDQcFBgoSGTAiKwwsBksxJzM6MhYrYlMrIhcbGQoDBwYGBAsMDhYkCB8wJCM/Gg8kNzIoRjQvJhsFHiAQERAPEwYGDQ4IDBg5GBYfPB8dIhsNLx0EFAsmOA8NEBEREyUQBgwNBwYoGxghFhUdMAwYQEM0GSJCEAUGCwULEBM2HwcQBhMZGRweFhAiEDA0T0cmRFwbDgUECw0HBhEZPy0PEREL",
+        "bottom": "JCM/Gg8kNzIoRjQvJhsFHiAQERAPEwYGDQ4IDBg5GBYfPB8dIhsNLx0EFAsmOA8NEBEREyUQBgwNBwYoGxghFhUdMAwYQEM0GSJCEAUGCwULEBM2HwcQBhMZGRweFhAiEDA0T0cmRFwbDgUECw0HBhEZPy0PERELFRwZDwInEUUsMTMndUUVEgcEAgwNCgwZIDQoFQsIFhAVDAQbIh40QE49cBwWHBEFBQUHCxUZKCEnGw8OCQoECQMQHBMGHjs0TQgWERADBgQTABwkCS8cHxAQBQQDAQIBBAYHBBgpMg4VFRAECQ4NFQsdEiogHxMUBAMDAgIDAgIBDhYvIQkSHh4VMzMzCSQQBiYzHyINAQIDAgECAQIDGAgwHQQcQhoVUltJFSw3Hgo5JiYYAQEAAgEBAQEHGgoyGQgsMRY5URdYGRQ5LQ4bJhkxAgEBAQEBAQEOGiQsBwYcMRdOPxFIZRssJAgTIxgPAwICAQABAwEbBTIZFAweIGaoIy0LloYQFAcHGCcMAgIBAQIDAQUQJSkSFgUlcaMumE+fVJd/HwwPES4zAgEBAQEDAgYCHhgOCwJBiB2MFk0OayKFUB8SFzM0"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 16.145645,
+        "top": 14.451427,
+        "middle": 14.476024,
+        "bottom": 18.145345,
+        "effectiveRatio": 0.592111
+      }
+    },
+    "strict": {
+      "minimumBytes": 100000,
+      "maximumBytes": 20971520,
+      "maximumPixels": 40000000,
+      "maximumCoverScale": 1.05,
+      "coverScale": 0.84375,
+      "passed": true
+    },
+    "visualReview": {
+      "checkedAt": "2026-10-20T10:06:38.652Z",
+      "reviewer": "research_prospects_catchup",
+      "originalViewed": true,
+      "derivativeViewed": true,
+      "actualTool": "view_image(detail=original), two full native-resolution images individually emitted and visually compared",
+      "approved": true,
+      "pending": false,
+      "sameSubject": true,
+      "sameScene": true,
+      "observations": "원PNG와JPEG를각각1280×2053실제크기로개별열어비교했다.벤지의눈·코·입·귓바퀴·머리카락·모자스티치·유니폼패치와직물의디테일,배경관중석과색감·노출이동일한실제장면으로유지되어있다.새크롭·샤프닝·업스케일이나생성복원이없으며JPEG압축으로눈에띄는디테일손실을확인하지못했다.원본사진에있던입자감은그대로유지했다."
+    }
+  },
+  "changes": "Standard JPEG format/bit-depth conversion, quality98 4:4:4. No resizing, cropping, sharpening, restoration or generation."
+}
