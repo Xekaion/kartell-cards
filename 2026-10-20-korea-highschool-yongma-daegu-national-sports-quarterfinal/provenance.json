@@ -1,0 +1,398 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "이원강 8K…마산용마고, 전국체전 4강",
+  "issueKey": "korea-hs-20261019-yongma-daegu-national-sports-quarterfinal-seven-four",
+  "checkedAt": "2026-10-20T09:04:59.884Z",
+  "sourceUrl": "https://www.korea-baseball.com/game/box_score?game_idx=39805",
+  "corroboratingUrls": [
+    "https://www.korea-baseball.com/game/record_detail?game_idx=39805",
+    "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01580966645611936",
+    "https://www.newsis.com/view/NISX20261007_0003817418",
+    "https://www.1844.kr/?p=player_detail&player=pl_D10CEAs_gTfoRaW-uxTdIg",
+    "https://www2.newsen.com/news_view.php?code=310000&uid=202610061112421031"
+  ],
+  "rightsEvidence": "1장: 2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료; 스포츠조선 송정헌; 촬영 2026-07-08; 원문 https://www.sportschosun.com/baseball/2026-07-08/202607080100051950003129; 실제 원본 https://www.sportschosun.com/article/html/2026/07/08/2026070801000519500031291_w.jpg\n2장: 2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료; 스포츠조선 나유리; 촬영 2026-07-08; 원문 https://www.sportschosun.com/baseball/2026-07-08/202607080100052870003193; 실제 원본 https://www.sportschosun.com/article/html/2026/07/08/2026070801000528700031931_w.jpg\n3장: 2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료; 스포츠조선 송정헌; 촬영 2026-07-08; 원문 https://www.sportschosun.com/baseball/2026-07-08/202607080100052160003148; 실제 원본 https://www.sportschosun.com/article/html/2026/07/08/2026070801000521600031481_w.jpg\n4장: 2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료; 스포츠조선 정재근; 촬영 2026-07-06; 원문 https://www.sportschosun.com/baseball/2026-07-06/202607060100036100002130; 실제 원본 https://www.sportschosun.com/article/html/2026/07/06/2026070601000361000021301_w.jpg\n5장: 2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료; 스포츠조선 정재근; 촬영 2026-06-08; 원문 https://v.daum.net/v/20260616090352506; 실제 원본 https://t1.daumcdn.net/news/202606/16/SpoChosun/20260616090352820xfwk.jpg",
+  "photos": [
+    {
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/08/2026070801000519500031291_w.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\yongma\\photos\\source-1.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T08:56:02.939Z",
+        "width": 1200,
+        "height": 1548,
+        "bytes": 875905,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6066798530154842,
+        "entropy": 7.390148367436268,
+        "effectiveDetailRatio": 0.504423,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/07/08/2026070801000519500031291_w.jpg",
+        "sha256": "0a50013926a01a36c094779bcd3a4abe34c50cdee7f6a9ecfebe05f2bfbd1bf3",
+        "perceptualHash": "dbcd45734b4d2661",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "cGNqZ2Vsbm1kWVJQXX2SiYpxY2RuVV5wXWlXcV5JiImVmY9wPEh9enp9e36aqYV9n5WOiY+ZkJ+cj4OZIyYjKSdtjq9pJyUoKSUbIyowWT8yOTg6Oy4+N0ptAgIFOpqjaXT/eAQBBhg0IRQlDAQCCwcGDiQUHjYcAQEEar12GlCSwiAXJS4NJRsIAwQDDQkcIwQpKA4nAAECqt4QZoyncmFiQQ4jFAQBAgQMDh0VGzAcBwgkEQ8QRtGJhWY+S05AXz0LAwUEBA0EGQgkJQoEBAYdWlRRUk5OIyhwJhQhRFE3NjwwPiwuJxogLTIxMzEqb2dnbGQaP4SDLhEbKUhDTV9ibmtjWl5ra21vb3BqISIkJCcdZ4NBVh8MFRAZGh4tMzo9PT5AQUQ/PD4/CQMCBQsxcRpSRRgrKklVHCMiDwYKCggKCwMFBAcGCAYGBgEJeXgWTEI4d8l6SiE5RCAFAAIBBA0JBQcGCgYEAgdXJ4UfJVJC2Ut9kHhFQUFSMw4TDwoCCQIIBgUEC1pTlY0uBg9dQVZxpnQ8WRdzii8CGD0LCAMCCAQJRVCB8RlVGxkTAy8uJ4VnP3x7bJ0RSFxwIwkFCgESOFHEN5ZQTxomKB8nHi85dYQkHJBjZkVBXxwJCQQEFkIdd4MwlXwQFB4gEhwfQL1CByWrKXujOxYFCQMBAhMpOR01OoBcLAMSGkY+r3lDBhJ5nlpKRB8BCwQAAAETBhkhLRBboVc9OVzIehcaJxYruosQMykJDQUBAQEBAwUHAxVdmruio6JVHxAJHR8JdelGQTAMDAQBAQEBAQUIBSV4SGh5fnMrUD81LDAhCrL/aUkWCgYBAQACAQQHBjaBQBUYGGdhRUpLSUlFJQmZ53gPCQcDAgEBAQQHCUKBNgICCTyBPiQwPEdWUikLTrBNCQgGBAQDBAQJDT6DPAUEJ6NtBgcQIDRIZWQ2Dn1qCQUDAwECAwULDkWKNQEKjI4PBAcEAg8jPmd8PoxiOTU0NDIyMTAzOmqNKQdLjjkvMC8qKSojFxRHV2YzTUlJSEhJTExQUW5GGApLS1JKUU9JSUlKRj8vCSNOFRYXFRYXGRoZIhbFybdWMCIjJCUkJiYnKistLzMvBwYGBgYGBQYIJbf01P+gJwoLDAoLCwwMDA0PDg0PBwYFBgcFBQQNP9aCGpTGKwkDAQEBAQEBAAICAQMECggJCwkHCAoRR9NsGqCzGwkKCggJCgoJCAgICAoIERAQDxAODg0US9NwLdSbEgoJCQkLCwsJCQgJDAgFCwwLCgsNDQwUTsllf+o/EwsJCwwLCwsNDQ0NDQsLCAkICQoKCwsRSMxIwZ8YCQwLDQwKCwoLDAsKCgoMCwoLDAsJBQMRI7yfu2QMBgcHBQcJBgcFAwUEAwUGGh4hHhccFEmAUCB/UjgeHBUVGBoaBgsECAIHAQYCHiImISMmPI+rt08UHk4xMj0wLSslIhoOHhgWFBoaDgwJBxANM41gZmseEyMWFhseEQsYMSs3KzMuLio0",
+          "top": "cGNqZ2Vsbm1kWVJQXX2SiYpxY2RuVV5wXWlXcV5JiImVmY9wPEh9enp9e36aqYV9n5WOiY+ZkJ+cj4OZIyYjKSdtjq9pJyUoKSUbIyowWT8yOTg6Oy4+N0ptAgIFOpqjaXT/eAQBBhg0IRQlDAQCCwcGDiQUHjYcAQEEar12GlCSwiAXJS4NJRsIAwQDDQkcIwQpKA4nAAECqt4QZoyncmFiQQ4jFAQBAgQMDh0VGzAcBwgkEQ8QRtGJhWY+S05AXz0LAwUEBA0EGQgkJQoEBAYdWlRRUk5OIyhwJhQhRFE3NjwwPiwuJxogLTIxMzEqb2dnbGQaP4SDLhEbKUhDTV9ibmtjWl5ra21vb3BqISIkJCcdZ4NBVh8MFRAZGh4tMzo9PT5AQUQ/PD4/CQMCBQsxcRpSRRgrKklVHCMiDwYKCggKCwMFBAcGCAYGBgEJeXgWTEI4d8l6SiE5RCAFAAIBBA0JBQcGCgYEAgdXJ4UfJVJC2Ut9kHhFQUFSMw4TDwoCCQIIBgUEC1pTlY0uBg9dQVZxpnQ8WRdzii8CGD0LCAMCCAQJRVCB8RlVGxkTAy8uJ4VnP3x7bJ0RSFxwIwkF",
+          "middle": "CgYEAgdXJ4UfJVJC2Ut9kHhFQUFSMw4TDwoCCQIIBgUEC1pTlY0uBg9dQVZxpnQ8WRdzii8CGD0LCAMCCAQJRVCB8RlVGxkTAy8uJ4VnP3x7bJ0RSFxwIwkFCgESOFHEN5ZQTxomKB8nHi85dYQkHJBjZkVBXxwJCQQEFkIdd4MwlXwQFB4gEhwfQL1CByWrKXujOxYFCQMBAhMpOR01OoBcLAMSGkY+r3lDBhJ5nlpKRB8BCwQAAAETBhkhLRBboVc9OVzIehcaJxYruosQMykJDQUBAQEBAwUHAxVdmruio6JVHxAJHR8JdelGQTAMDAQBAQEBAQUIBSV4SGh5fnMrUD81LDAhCrL/aUkWCgYBAQACAQQHBjaBQBUYGGdhRUpLSUlFJQmZ53gPCQcDAgEBAQQHCUKBNgICCTyBPiQwPEdWUikLTrBNCQgGBAQDBAQJDT6DPAUEJ6NtBgcQIDRIZWQ2Dn1qCQUDAwECAwULDkWKNQEKjI4PBAcEAg8jPmd8PoxiOTU0NDIyMTAzOmqNKQdLjjkvMC8qKSojFxRHV2YzTUlJSEhJTExQUW5GGApLS1JKUU9JSUlKRj8vCSNO",
+          "bottom": "CQgGBAQDBAQJDT6DPAUEJ6NtBgcQIDRIZWQ2Dn1qCQUDAwECAwULDkWKNQEKjI4PBAcEAg8jPmd8PoxiOTU0NDIyMTAzOmqNKQdLjjkvMC8qKSojFxRHV2YzTUlJSEhJTExQUW5GGApLS1JKUU9JSUlKRj8vCSNOFRYXFRYXGRoZIhbFybdWMCIjJCUkJiYnKistLzMvBwYGBgYGBQYIJbf01P+gJwoLDAoLCwwMDA0PDg0PBwYFBgcFBQQNP9aCGpTGKwkDAQEBAQEBAAICAQMECggJCwkHCAoRR9NsGqCzGwkKCggJCgoJCAgICAoIERAQDxAODg0US9NwLdSbEgoJCQkLCwsJCQgJDAgFCwwLCgsNDQwUTsllf+o/EwsJCwwLCwsNDQ0NDQsLCAkICQoKCwsRSMxIwZ8YCQwLDQwKCwoLDAsKCgoMCwoLDAsJBQMRI7yfu2QMBgcHBQcJBgcFAwUEAwUGGh4hHhccFEmAUCB/UjgeHBUVGBoaBgsECAIHAQYCHiImISMmPI+rt08UHk4xMj0wLSslIhoOHhgWFBoaDgwJBxANM41gZmseEyMWFhseEQsYMSs3KzMuLio0"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.811904,
+          "top": 18.139118,
+          "middle": 19.81786,
+          "bottom": 20.997426,
+          "effectiveRatio": 0.504423
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1548
+      },
+      "strictPolicy": {
+        "passed": true,
+        "nativeCoverScale": 0.9
+      },
+      "index": 1,
+      "sha256": "0a50013926a01a36c094779bcd3a4abe34c50cdee7f6a9ecfebe05f2bfbd1bf3",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-08/202607080100051950003129",
+      "subject": "이원강",
+      "name": "이원강",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-07-08",
+      "photoDateLabel": "2026.07.08 자료사진",
+      "creditDisplay": "사진 · 스포츠조선 송정헌 (2026.07.08 자료사진)",
+      "sceneGroup": "20260708-mokdong-yongma-lee-wongang-pitching-followthrough",
+      "sceneDescription": "7월8일 청룡기 우신고전 이원강이 붉은 유니폼과 청록색 글러브를 착용하고 왼손 투구를 마무리하는 전신이다.",
+      "captionEvidence": "7월8일 청룡기 우신고전 이원강이 붉은 유니폼과 청록색 글러브를 착용하고 왼손 투구를 마무리하는 전신이다.",
+      "checkedAt": "2026-10-20T08:59:40.351Z",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-08/202607080100051950003129"
+      },
+      "context": {
+        "originalContext": "7월8일 청룡기 우신고전 이원강이 붉은 유니폼과 청록색 글러브를 착용하고 왼손 투구를 마무리하는 전신이다.",
+        "currentStoryUse": "기사에 등장하는 해당 선수의 실제 자료사진. 10월19일 전국체전 현장으로 표시하지 않는다."
+      }
+    },
+    {
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/08/2026070801000528700031931_w.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\yongma\\photos\\source-2.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T08:56:03.408Z",
+        "width": 1200,
+        "height": 1287,
+        "bytes": 1304529,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 6.064491365964249,
+        "entropy": 7.597546424716711,
+        "effectiveDetailRatio": 0.63241,
+        "kind": "source",
+        "coverScale": 1.049,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/07/08/2026070801000528700031931_w.jpg",
+        "sha256": "d21c9df67cf5ba2656a9a4b4f1e0ed499a46eba73a776fb84ecef7819bc7ee03",
+        "perceptualHash": "101050686173332b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "FRIBO5HNmRkMBQQBAQoIOk1NKQcEBwwJCAkJBAMEJD2q2bdbEw8IAAIEAwUXUCZGPAYJCQQEAQEHCQkHkbPNVxgLCQgKCAQEAQUdSz5iGgYDDA8OCwwJBwMDNEckGAoFDA0FBAkLBRERHCMZJg4KChALBAEGBwcHRURcMSsmFQkFEwYGFiuYe29YVUYKR01QMAYLCQYEHRMtKEM/Pj4zJRoNJsC3c4ZOJEwlTyw1WCQJBgYDFAcMCCgUEhYoNTITgc44JktrMB4bIAkOMT4NBgEHHQ4RGwYqGAUHETInmJMOGWF5PyocMxsJMjgJBwgIHiUcEyoLFRYGISssdFsMPGhkJRIJMTciMDYUGSAORBoJDwwgLAkcFw8IWHkROFJRMB8oGQ0YGSYwMzYmM0o9PDJAMiYrChcSMZk3Tlg2AgYJGxcWCRweFBEuR1FJTk6Vw5+mjYhqdZU1VnFgLhoiFAcGDQcKDhkaLFEyPGxpiY2GknNtdUsMPz1gcXNlaU44Ki8zMSsvDwocJCJJUQlqVDoQCAoRHC4qOFRORFNJMjk/XlVEV3BUXW5dpsOHTSodIhsQEBEXBRc6NFdHNSxGHyQodG1ientspq2GbytJIyQsDQEdDjAxllgkEQEoRj40GhcTEA4RHWqqNwQfPTQzKgwbMR4fZHcjJhgoBAkaBAUEAgIICH6DKQgSFUxGJRkqQDsYR2sxFh4IBQMEBggLDhAQOHlaJRwXHh1PMyNQLUAgLmpbIBYXFxQPCgkKCgYJOJtuLiowDRcTDwkUNgQ4V4RPEBESFBESAgIGBwUIEkzqk00eJAUMCQoFDxNti2oVBAQJDQ8LBAEEBQMGDB3KrhczIBgYDhEEEEyPaR4JCgQKBQkQAAUIAwIECR/GpgYjFhMrDCIUKW5fRRcNCQQEBgkGAwcEAQIDAhe+swUoIRwaHQ8VPFdXORMJBQQGBAYFBAUHBQUEBQSoyww1LR8FAw8MPlBUKwkODw4OEBMSBgMGCAkFBQuA5i0eDTlAEjMeUVpdGAcGDA0KEBUQCgUECQUGAwtB3WJAOFg6NDVnf3MuCwINBwYCCAQFBgcIAQYGAggjn2tvdkZXb3RSY04REQIFCQMKCAgJBQwCBQIDBg8zjQlYYC1SJycaV1UcDwsHAwgFBgYEAgsHBAMDBQlDoBd8Jj0hWlszikYoCQ0FDREECAMHBgcKBwcFCAULe3VLSwsaOAlIkTUrChAEFQoPAwIHDQEJBgwHCAcKZ5IVO24/Vjksaz0iBw4IEA4HAgUJAgYFBAkICAcJVmIuXlRdWC0iYkgTCAYKAQsGDRIDBggECQAEAQIKWGQiYDsKTmIfd1AMBwQJCgcRFA8TBAgIBQQQAgEIT10pYiULMWodb04QDAoDAwMNEggFEAkKDhQQEQMPS0srVBENJmAIc0EVAQoFEA4HHA4fDxESEAoNCwUNUWhhbAgEFGQKlygyEgwSCxIDDwcMCQ4OCgkJAgcHQzODBicIEmYPkxk3Hy4pODQvNS8+",
+          "top": "FRIBO5HNmRkMBQQBAQoIOk1NKQcEBwwJCAkJBAMEJD2q2bdbEw8IAAIEAwUXUCZGPAYJCQQEAQEHCQkHkbPNVxgLCQgKCAQEAQUdSz5iGgYDDA8OCwwJBwMDNEckGAoFDA0FBAkLBRERHCMZJg4KChALBAEGBwcHRURcMSsmFQkFEwYGFiuYe29YVUYKR01QMAYLCQYEHRMtKEM/Pj4zJRoNJsC3c4ZOJEwlTyw1WCQJBgYDFAcMCCgUEhYoNTITgc44JktrMB4bIAkOMT4NBgEHHQ4RGwYqGAUHETInmJMOGWF5PyocMxsJMjgJBwgIHiUcEyoLFRYGISssdFsMPGhkJRIJMTciMDYUGSAORBoJDwwgLAkcFw8IWHkROFJRMB8oGQ0YGSYwMzYmM0o9PDJAMiYrChcSMZk3Tlg2AgYJGxcWCRweFBEuR1FJTk6Vw5+mjYhqdZU1VnFgLhoiFAcGDQcKDhkaLFEyPGxpiY2GknNtdUsMPz1gcXNlaU44Ki8zMSsvDwocJCJJUQlqVDoQCAoRHC4qOFRORFNJMjk/XlVEV3BUXW5dpsOHTSodIhsQEBEXBRc6NFdHNSxGHyQo",
+          "middle": "LFEyPGxpiY2GknNtdUsMPz1gcXNlaU44Ki8zMSsvDwocJCJJUQlqVDoQCAoRHC4qOFRORFNJMjk/XlVEV3BUXW5dpsOHTSodIhsQEBEXBRc6NFdHNSxGHyQodG1ientspq2GbytJIyQsDQEdDjAxllgkEQEoRj40GhcTEA4RHWqqNwQfPTQzKgwbMR4fZHcjJhgoBAkaBAUEAgIICH6DKQgSFUxGJRkqQDsYR2sxFh4IBQMEBggLDhAQOHlaJRwXHh1PMyNQLUAgLmpbIBYXFxQPCgkKCgYJOJtuLiowDRcTDwkUNgQ4V4RPEBESFBESAgIGBwUIEkzqk00eJAUMCQoFDxNti2oVBAQJDQ8LBAEEBQMGDB3KrhczIBgYDhEEEEyPaR4JCgQKBQkQAAUIAwIECR/GpgYjFhMrDCIUKW5fRRcNCQQEBgkGAwcEAQIDAhe+swUoIRwaHQ8VPFdXORMJBQQGBAYFBAUHBQUEBQSoyww1LR8FAw8MPlBUKwkODw4OEBMSBgMGCAkFBQuA5i0eDTlAEjMeUVpdGAcGDA0KEBUQCgUECQUGAwtB3WJAOFg6NDVnf3MuCwINBwYCCAQF",
+          "bottom": "AwcEAQIDAhe+swUoIRwaHQ8VPFdXORMJBQQGBAYFBAUHBQUEBQSoyww1LR8FAw8MPlBUKwkODw4OEBMSBgMGCAkFBQuA5i0eDTlAEjMeUVpdGAcGDA0KEBUQCgUECQUGAwtB3WJAOFg6NDVnf3MuCwINBwYCCAQFBgcIAQYGAggjn2tvdkZXb3RSY04REQIFCQMKCAgJBQwCBQIDBg8zjQlYYC1SJycaV1UcDwsHAwgFBgYEAgsHBAMDBQlDoBd8Jj0hWlszikYoCQ0FDREECAMHBgcKBwcFCAULe3VLSwsaOAlIkTUrChAEFQoPAwIHDQEJBgwHCAcKZ5IVO24/Vjksaz0iBw4IEA4HAgUJAgYFBAkICAcJVmIuXlRdWC0iYkgTCAYKAQsGDRIDBggECQAEAQIKWGQiYDsKTmIfd1AMBwQJCgcRFA8TBAgIBQQQAgEIT10pYiULMWodb04QDAoDAwMNEggFEAkKDhQQEQMPS0srVBENJmAIc0EVAQoFEA4HHA4fDxESEAoNCwUNUWhhbAgEFGQKlygyEgwSCxIDDwcMCQ4OCgkJAgcHQzODBicIEmYPkxk3Hy4pODQvNS8+"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 50.761338,
+          "top": 27.416833,
+          "middle": 34.631692,
+          "bottom": 70.022962,
+          "effectiveRatio": 0.63241
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1287
+      },
+      "strictPolicy": {
+        "passed": true,
+        "nativeCoverScale": 1.048951048951049
+      },
+      "index": 2,
+      "sha256": "d21c9df67cf5ba2656a9a4b4f1e0ed499a46eba73a776fb84ecef7819bc7ee03",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-08/202607080100052870003193",
+      "subject": "노민혁",
+      "name": "노민혁",
+      "imageCredit": "스포츠조선 나유리",
+      "photoDate": "2026-07-08",
+      "photoDateLabel": "2026.07.08 자료사진",
+      "creditDisplay": "사진 · 스포츠조선 나유리 (2026.07.08 자료사진)",
+      "sceneGroup": "20260708-mokdong-yongma-no-minhyeok-postgame-interview",
+      "sceneDescription": "노민혁이 경기 후 목동구장 관중석 앞에서 모자와 글러브를 갖추고 인터뷰한 단독 정면 입상이다. 홈런 직후 헬멧 차림의 세리머니와 다른 촬영 세션이다.",
+      "captionEvidence": "노민혁이 경기 후 목동구장 관중석 앞에서 모자와 글러브를 갖추고 인터뷰한 단독 정면 입상이다. 홈런 직후 헬멧 차림의 세리머니와 다른 촬영 세션이다.",
+      "checkedAt": "2026-10-20T08:59:40.351Z",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-08/202607080100052870003193"
+      },
+      "context": {
+        "originalContext": "노민혁이 경기 후 목동구장 관중석 앞에서 모자와 글러브를 갖추고 인터뷰한 단독 정면 입상이다. 홈런 직후 헬멧 차림의 세리머니와 다른 촬영 세션이다.",
+        "currentStoryUse": "기사에 등장하는 해당 선수의 실제 자료사진. 10월19일 전국체전 현장으로 표시하지 않는다."
+      }
+    },
+    {
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/08/2026070801000521600031481_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-08/202607080100052160003148",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\yongma\\photos\\source-14.jpg",
+      "metadata": {
+        "width": 1200,
+        "height": 1652,
+        "bytes": 982686
+      },
+      "strictPolicy": {
+        "passed": true,
+        "nativeCoverScale": 0.9
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T08:56:03.158Z",
+        "width": 1200,
+        "height": 1652,
+        "bytes": 982686,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.578005581192621,
+        "entropy": 7.235564137343317,
+        "effectiveDetailRatio": 0.480015,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/07/08/2026070801000521600031481_w.jpg",
+        "sha256": "a4963c5b3dab05f60621467c146a7f05e0ff2c594b27ba7440f7cec645af3b15",
+        "perceptualHash": "92b0f9c970f23a9e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "GAkDBAgHCAYEBQcfLCVDMx8OBQYGBAMCBQgJDRxdfR0LBgwSEAUDCBcSRj8XFTMhAwkFBAkLByEkHGN8e3IVTWZoZlVJXWQwKkxIKjODLWhWTBkLXS8uZnFVN3FdhmJYXWpsY2yEhkEgF01B6ZRmdXRgay5WPlQUGy5bLAsGBBogD2PHY1xzTnFYt2MvZUgXYYpEhz8FEAcZBBNcOAUDC5LqPbp7ODokm2C7TjqDdoeGJXItODcgBF1pcjYMQpKwtETTYUQ2NIUydHhKm3RRhmFzjEhHC289cUoLdmpfupOiiTgXTFNSdYVmrRVecER4IHpbC2s7a1VwiZgFVZU5XkEMKz6GYiinYghcb0J3dlJIB21EPnR/TRxOHzdKECQZHz50MhyPTwdbc0B6SxErBFlaQU8QDw4MJUESJSoQQUIYXpmmHwJcd0B8SC03E395MjlFQxMSIiAeIyhMQiMNdOg+CwZheUWAlktOipo3E2JZNz0VLToTOSdIOhpF2F9TLAFqhj2dcWROjyAXSU2GNQlCTyspJjJlVC9ioXFaelmhfhSaG1Y/KRRLZh9vPzNCEykRNS9YXxpMPVc9jpyDLgg1jyJaMTpkPihUPkJueEBcXXFSFRMwJRwbOzohBgQUValdP0tDIzBGI1dDSEdJQyUiABsZIwgBDAoJDh8nYKAaLB8xSx4xNA0vEwYjFUEcFRsNIRgYFRIZIh4IbVpLvF8ZJxYaHE8uDhYaJyMGECEVNxwVFBcWDAcQfA/Zsv27NCs8NBofCBIQCQwGDh4cNS8nJyguMjEpFJjbRTCc/mJGDRkZBDIfGAwGBxUeHg0GBQYFBw4SprGDH6CUF7UeHhEkNxMyLQQIFAsjd4WBf4GDg4J/VF4kccuKry1RCg0bEFJWIAYcFx6Mf1dbW1teXVlXCwsJecJdjyM1FyQzQDkHLRYfGnx/DgcICgoLCwsLAgIGEoi+fHOnKSYdTWmETTMkUogKDQYICAYGBgQDAgMEBRg3DA+PoU5EQhQ/WkI0oW0FAwIEAQIBAQIEBgYGBgIGBg4SUIZ1ip2Ocm+YkRMICAYHBwYFBQUEAQEBAgIDAQcUFg4+UoiLrVE7VRMJAgEDAgICAQICBAEBAQMCAhITPSAXO0RZW1waZCcMAgICAQABAgEBBwUFBgYGBxEONCEZNkgSQXofXSsNBgUHBgYGBQQCAQEDAQEGBQUqQw02PAcwG1U0TB4LAgEBAgICAQMCCAcHCAcICRMPRDQnLygVMScjOhASCAYGBQQEBAQCAQECAQECBAsiFyciHCgzIwocKwcVBAIBAgECAQIBBwcHBgcJBQscDDMmSBI9EiYJOAYVAQIBAwIBAwIAAQEBAQIAAwQQFjkqOhImLxcgHg4QAgIEBAcHBQQFFxgWFhcaGBgWIRc3KBokDRciHg0bFxoaGx0eIR4dJyMjJSUmJicuNhMiCj0GFkM8OhExKSYlJyQlKSgnDg4QDhALDhEOUyEOFi8kLkoVPRAmAAMGAgkECAMK",
+          "top": "GAkDBAgHCAYEBQcfLCVDMx8OBQYGBAMCBQgJDRxdfR0LBgwSEAUDCBcSRj8XFTMhAwkFBAkLByEkHGN8e3IVTWZoZlVJXWQwKkxIKjODLWhWTBkLXS8uZnFVN3FdhmJYXWpsY2yEhkEgF01B6ZRmdXRgay5WPlQUGy5bLAsGBBogD2PHY1xzTnFYt2MvZUgXYYpEhz8FEAcZBBNcOAUDC5LqPbp7ODokm2C7TjqDdoeGJXItODcgBF1pcjYMQpKwtETTYUQ2NIUydHhKm3RRhmFzjEhHC289cUoLdmpfupOiiTgXTFNSdYVmrRVecER4IHpbC2s7a1VwiZgFVZU5XkEMKz6GYiinYghcb0J3dlJIB21EPnR/TRxOHzdKECQZHz50MhyPTwdbc0B6SxErBFlaQU8QDw4MJUESJSoQQUIYXpmmHwJcd0B8SC03E395MjlFQxMSIiAeIyhMQiMNdOg+CwZheUWAlktOipo3E2JZNz0VLToTOSdIOhpF2F9TLAFqhj2dcWROjyAXSU2GNQlCTyspJjJlVC9ioXFaelmhfhSaG1Y/KRRLZh9vPzNCEykRNS9YXxpMPVc9jpyDLgg1",
+          "middle": "lktOipo3E2JZNz0VLToTOSdIOhpF2F9TLAFqhj2dcWROjyAXSU2GNQlCTyspJjJlVC9ioXFaelmhfhSaG1Y/KRRLZh9vPzNCEykRNS9YXxpMPVc9jpyDLgg1jyJaMTpkPihUPkJueEBcXXFSFRMwJRwbOzohBgQUValdP0tDIzBGI1dDSEdJQyUiABsZIwgBDAoJDh8nYKAaLB8xSx4xNA0vEwYjFUEcFRsNIRgYFRIZIh4IbVpLvF8ZJxYaHE8uDhYaJyMGECEVNxwVFBcWDAcQfA/Zsv27NCs8NBofCBIQCQwGDh4cNS8nJyguMjEpFJjbRTCc/mJGDRkZBDIfGAwGBxUeHg0GBQYFBw4SprGDH6CUF7UeHhEkNxMyLQQIFAsjd4WBf4GDg4J/VF4kccuKry1RCg0bEFJWIAYcFx6Mf1dbW1teXVlXCwsJecJdjyM1FyQzQDkHLRYfGnx/DgcICgoLCwsLAgIGEoi+fHOnKSYdTWmETTMkUogKDQYICAYGBgQDAgMEBRg3DA+PoU5EQhQ/WkI0oW0FAwIEAQIBAQIEBgYGBgIGBg4SUIZ1ip2Ocm+YkRMICAYHBwYFBQUE",
+          "bottom": "CwsJecJdjyM1FyQzQDkHLRYfGnx/DgcICgoLCwsLAgIGEoi+fHOnKSYdTWmETTMkUogKDQYICAYGBgQDAgMEBRg3DA+PoU5EQhQ/WkI0oW0FAwIEAQIBAQIEBgYGBgIGBg4SUIZ1ip2Ocm+YkRMICAYHBwYFBQUEAQEBAgIDAQcUFg4+UoiLrVE7VRMJAgEDAgICAQICBAEBAQMCAhITPSAXO0RZW1waZCcMAgICAQABAgEBBwUFBgYGBxEONCEZNkgSQXofXSsNBgUHBgYGBQQCAQEDAQEGBQUqQw02PAcwG1U0TB4LAgEBAgICAQMCCAcHCAcICRMPRDQnLygVMScjOhASCAYGBQQEBAQCAQECAQECBAsiFyciHCgzIwocKwcVBAIBAgECAQIBBwcHBgcJBQscDDMmSBI9EiYJOAYVAQIBAwIBAwIAAQEBAQIAAwQQFjkqOhImLxcgHg4QAgIEBAcHBQQFFxgWFhcaGBgWIRc3KBokDRciHg0bFxoaGx0eIR4dJyMjJSUmJicuNhMiCj0GFkM8OhExKSYlJyQlKSgnDg4QDhALDhEOUyEOFi8kLkoVPRAmAAMGAgkECAMK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.08568,
+          "top": 26.956762,
+          "middle": 25.678956,
+          "bottom": 17.109288,
+          "effectiveRatio": 0.480015
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1652
+      },
+      "index": 3,
+      "sha256": "a4963c5b3dab05f60621467c146a7f05e0ff2c594b27ba7440f7cec645af3b15",
+      "subject": "노민혁",
+      "name": "노민혁",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-07-08",
+      "photoDateLabel": "2026.07.08 자료사진",
+      "creditDisplay": "사진 · 스포츠조선 송정헌 (2026.07.08 자료사진)",
+      "sceneGroup": "20260708-mokdong-yongma-no-minhyeok-homer-pointing",
+      "sceneDescription": "7월8일 청룡기 7회 홈런 뒤 노민혁이 헬멧과 타격장갑을 착용하고 앞쪽을 가리키며 웃는 현장 세리머니다. 인터뷰 사진과 의상·행동·카메라 위치가 다르다.",
+      "captionEvidence": "7월8일 청룡기 7회 홈런 뒤 노민혁이 헬멧과 타격장갑을 착용하고 앞쪽을 가리키며 웃는 현장 세리머니다. 인터뷰 사진과 의상·행동·카메라 위치가 다르다.",
+      "checkedAt": "2026-10-20T08:59:40.351Z",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-08/202607080100052160003148"
+      },
+      "context": {
+        "originalContext": "7월8일 청룡기 7회 홈런 뒤 노민혁이 헬멧과 타격장갑을 착용하고 앞쪽을 가리키며 웃는 현장 세리머니다. 인터뷰 사진과 의상·행동·카메라 위치가 다르다.",
+        "currentStoryUse": "기사에 등장하는 해당 선수의 실제 자료사진. 10월19일 전국체전 현장으로 표시하지 않는다."
+      }
+    },
+    {
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/07/06/2026070601000361000021301_w.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\yongma\\photos\\source-4.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T08:56:03.655Z",
+        "width": 1200,
+        "height": 1633,
+        "bytes": 1042558,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.887191123124342,
+        "entropy": 7.351692513180751,
+        "effectiveDetailRatio": 0.502528,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://www.sportschosun.com/article/html/2026/07/06/2026070601000361000021301_w.jpg",
+        "sha256": "334709fce15d6da667c52b2f4bd08d00fe6d96c5595d0fdef8cd8d79852182af",
+        "perceptualHash": "4bce0f2717934c94",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "aWljY29qa3Vzbm1qY2JYU1RSWGFVVFZPToiXpr95gXuAh4eGipesrKion5iUl6Cfl5aVkYaEiTZZMZadKyctMzAyMyYgKzY1NDI0NTY4NzQ4OjEzVnIrdD4xCAUKCgQGTpqQdQ8DAgEBAgIBAQEBAQIVTjxiPiYeCQoGDAtM7sekyoENAgEBAQEBAQIBAQI2QSI0DyYkCQ0BEAa1yhkjebY6CQICAQEDBAUCBTpfBCALJB4GFhQLFRWgkGlaeXlADA8SExMtIiwMRXcJNRYkEAUJaV9XYGdpeDFAXjJtYU09PjsuFR9NkDhOMiA8QjlGdXFvdnp7KgwmDUY8KSYYEhwtDUaiTz1fdXJ3d3V8Gx0gISEnUyI8PDtxe18zMy4qYoksDCw3MjQzNDQ1BwQGBQgGMRYHYXRSLxEfMjpaZhiAikkPBAYHBwkHAAECAghJkUJfgEIiLSU4OQs7RFiCgcZdAgUDAgUFAQIBClnLYEZdHSpYdBIvIkB4i3OLHlqnOwQEAgMFAQILU9NWKTFGVWZaQUkQJiMggIMvGjWAYQcCAgEEAgctuFl9eGQ2FQUxLC4HFiUfEB02LzY0jCYGAQQHAgdmmFVwGUU/P1NHIDkaFQsnICg4NVNOW1MDAgQEAw+CXj9EXUAZHxROPzwYChoKEx04OEReSTwMAQIEBSKOTzERBBsVFBIDMQkFFw8jEgpKazwgMxkgAgMEBCSBV1dZVg8KEwoQFBYFFiAcCzIcgkoOHxlCEQIEBUJ7LHFCajwKCxETEBcTBR0RLSgkZHkONjRTPwgCEHhTQ2krUHoVEA0NBhEfSSoESixBL6gxPE0kYBsCIng4XWUSDWhjHAkkW2dAcm9PCiQWE4SKFWI0XSgFKnogcWtbCCBwTlJrUkcOSGVgKCEjNCivRDFZOQsEKXZREi5VZESuO0F4m35gdz0uNRQoJg97iBolDwQGE0Zren2LGouVDxIjXEMQKTxNDzlNUBdEnjYIBgcITh5qiGdVPJt3CQsLJDI9JRwNBmQbdzszlWUwMjAuYHFeFRtDj71HBQYkT0MMTiwQBS1dJjcoSHdYWlpaGnWjkqOom1F3ZD9JHRg7DkAnCQkYGhBBMTIpKCsrBBRkd1k5N3DQ1rwNFgspPBg4HBANDidXYBwKCQsLCwcDAgQLN6VkOrGJDQUGNignNAMJAl47bEcKBAUHAQIBAAIII39NEGJwEAYEETgZQyQMDyB2b30YCgcHFRERDw4PI5VzLHyJGg4LETMxOkgjFk+sTbVEEAoLDw8OEA0NEYWobq18DggKCSdKDkc0SIAv4W4wEwcJBAUEBgcGCh9RDT0VCQUIBQg9QUQlyIDUYCMdTyUIDAwNCw4NFS2OiZ89FhMUFBMTMDVnlRqR4XFbGkksAwMDAwMCBiqaXJhMBAEEAQMQKQZNj8gyfYQyUzQJAwMCBQYFBg4+05skAQMICQULDBoOOYyQenQLDREWGxoqMC0jLTFIgFVHNjExLyohGhgZDFdfiEAJCAUE",
+          "top": "aWljY29qa3Vzbm1qY2JYU1RSWGFVVFZPToiXpr95gXuAh4eGipesrKion5iUl6Cfl5aVkYaEiTZZMZadKyctMzAyMyYgKzY1NDI0NTY4NzQ4OjEzVnIrdD4xCAUKCgQGTpqQdQ8DAgEBAgIBAQEBAQIVTjxiPiYeCQoGDAtM7sekyoENAgEBAQEBAQIBAQI2QSI0DyYkCQ0BEAa1yhkjebY6CQICAQEDBAUCBTpfBCALJB4GFhQLFRWgkGlaeXlADA8SExMtIiwMRXcJNRYkEAUJaV9XYGdpeDFAXjJtYU09PjsuFR9NkDhOMiA8QjlGdXFvdnp7KgwmDUY8KSYYEhwtDUaiTz1fdXJ3d3V8Gx0gISEnUyI8PDtxe18zMy4qYoksDCw3MjQzNDQ1BwQGBQgGMRYHYXRSLxEfMjpaZhiAikkPBAYHBwkHAAECAghJkUJfgEIiLSU4OQs7RFiCgcZdAgUDAgUFAQIBClnLYEZdHSpYdBIvIkB4i3OLHlqnOwQEAgMFAQILU9NWKTFGVWZaQUkQJiMggIMvGjWAYQcCAgEEAgctuFl9eGQ2FQUxLC4HFiUfEB02LzY0jCYGAQQH",
+          "middle": "AQIBClnLYEZdHSpYdBIvIkB4i3OLHlqnOwQEAgMFAQILU9NWKTFGVWZaQUkQJiMggIMvGjWAYQcCAgEEAgctuFl9eGQ2FQUxLC4HFiUfEB02LzY0jCYGAQQHAgdmmFVwGUU/P1NHIDkaFQsnICg4NVNOW1MDAgQEAw+CXj9EXUAZHxROPzwYChoKEx04OEReSTwMAQIEBSKOTzERBBsVFBIDMQkFFw8jEgpKazwgMxkgAgMEBCSBV1dZVg8KEwoQFBYFFiAcCzIcgkoOHxlCEQIEBUJ7LHFCajwKCxETEBcTBR0RLSgkZHkONjRTPwgCEHhTQ2krUHoVEA0NBhEfSSoESixBL6gxPE0kYBsCIng4XWUSDWhjHAkkW2dAcm9PCiQWE4SKFWI0XSgFKnogcWtbCCBwTlJrUkcOSGVgKCEjNCivRDFZOQsEKXZREi5VZESuO0F4m35gdz0uNRQoJg97iBolDwQGE0Zren2LGouVDxIjXEMQKTxNDzlNUBdEnjYIBgcITh5qiGdVPJt3CQsLJDI9JRwNBmQbdzszlWUwMjAuYHFeFRtDj71HBQYkT0MMTiwQBS1dJjcoSHdYWlpa",
+          "bottom": "KXZREi5VZESuO0F4m35gdz0uNRQoJg97iBolDwQGE0Zren2LGouVDxIjXEMQKTxNDzlNUBdEnjYIBgcITh5qiGdVPJt3CQsLJDI9JRwNBmQbdzszlWUwMjAuYHFeFRtDj71HBQYkT0MMTiwQBS1dJjcoSHdYWlpaGnWjkqOom1F3ZD9JHRg7DkAnCQkYGhBBMTIpKCsrBBRkd1k5N3DQ1rwNFgspPBg4HBANDidXYBwKCQsLCwcDAgQLN6VkOrGJDQUGNignNAMJAl47bEcKBAUHAQIBAAIII39NEGJwEAYEETgZQyQMDyB2b30YCgcHFRERDw4PI5VzLHyJGg4LETMxOkgjFk+sTbVEEAoLDw8OEA0NEYWobq18DggKCSdKDkc0SIAv4W4wEwcJBAUEBgcGCh9RDT0VCQUIBQg9QUQlyIDUYCMdTyUIDAwNCw4NFS2OiZ89FhMUFBMTMDVnlRqR4XFbGkksAwMDAwMCBiqaXJhMBAEEAQMQKQZNj8gyfYQyUzQJAwMCBQYFBg4+05skAQMICQULDBoOOYyQenQLDREWGxoqMC0jLTFIgFVHNjExLyohGhgZDFdfiEAJCAUE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.684741,
+          "top": 19.30393,
+          "middle": 23.61082,
+          "bottom": 24.94124,
+          "effectiveRatio": 0.502528
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1633
+      },
+      "strictPolicy": {
+        "passed": true,
+        "nativeCoverScale": 0.9
+      },
+      "index": 4,
+      "sha256": "334709fce15d6da667c52b2f4bd08d00fe6d96c5595d0fdef8cd8d79852182af",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-06/202607060100036100002130",
+      "subject": "이현민",
+      "name": "이현민",
+      "imageCredit": "스포츠조선 정재근",
+      "photoDate": "2026-07-06",
+      "photoDateLabel": "2026.07.06 자료사진",
+      "creditDisplay": "사진 · 스포츠조선 정재근 (2026.07.06 자료사진)",
+      "sceneGroup": "20260706-mokdong-daegu-lee-hyeonmin-pitch-release",
+      "sceneDescription": "7월6일 청룡기 경북고전 이현민의 왼손 투구 릴리스 순간이다. 대구고 모자와 아이블랙, 공을 든 왼손이 위로 뻗은 구도다.",
+      "captionEvidence": "7월6일 청룡기 경북고전 이현민의 왼손 투구 릴리스 순간이다. 대구고 모자와 아이블랙, 공을 든 왼손이 위로 뻗은 구도다.",
+      "checkedAt": "2026-10-20T08:59:40.351Z",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-06/202607060100036100002130"
+      },
+      "context": {
+        "originalContext": "7월6일 청룡기 경북고전 이현민의 왼손 투구 릴리스 순간이다. 대구고 모자와 아이블랙, 공을 든 왼손이 위로 뻗은 구도다.",
+        "currentStoryUse": "기사에 등장하는 해당 선수의 실제 자료사진. 10월19일 전국체전 현장으로 표시하지 않는다."
+      }
+    },
+    {
+      "sourceUrl": "https://t1.daumcdn.net/news/202606/16/SpoChosun/20260616090352820xfwk.jpg",
+      "sourcePageUrl": "https://v.daum.net/v/20260616090352506",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\yongma\\photos\\source-15.jpg",
+      "metadata": {
+        "width": 1200,
+        "height": 1643,
+        "bytes": 1120234
+      },
+      "strictPolicy": {
+        "passed": true,
+        "nativeCoverScale": 0.9
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T08:56:03.957Z",
+        "width": 1200,
+        "height": 1643,
+        "bytes": 1120234,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.729382634968366,
+        "entropy": 7.370270933464781,
+        "effectiveDetailRatio": 0.551213,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://t1.daumcdn.net/news/202606/16/SpoChosun/20260616090352820xfwk.jpg",
+        "sha256": "a9d2f755d79676497fdb1afacb276dd9b43aba1b27250259681620fd2222e125",
+        "perceptualHash": "431e2f4a8a8f1307",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CQ0dMk0iPBowGx4hEyglFCYgHioXJicNLCITLxkfCyg1UzYPNTYdGCoWICoRHywUKCIeJhsoIxkxFyMsHTJDOBwIFUIWKx4SLhUfMA0uIRYtFyQtCTEZIC0NDDIlMS0yDSkvIhcrFRo0BystEikIRxoIOxcfOAovJRocIT0HVUl6Vlc0GjMVLjIQNBRFIlQnFyw4DToeIxMpGSI/VEYvgYiHUyYiLw88HEUfex9ULDYbOh8uCC4XGCslLjs/OyxxsY+hazZVTjh5LmYbLxo5ISkuLCUdKiIqUy5CTk5KeaqyusTAS0Cdhzk4Dy4fIS4LKhkqEhs9RVZkbGWPXxETLWZ9WiwpdGg6KCsjMgQ/BSggNlEXEFKOYZtFwmYIExpISSdwHoNMLiM4DkIVJQ5UnTwYglYnhYYrR5E+HgwvbWYfdFiqEBkWKgVMGkerO3hvXjhlaSFOLEQzel1OUnmTjyGsXB0VISEoNX5eHB1EGWRwTFk3SmxTOFR4Xhg7JjKSXxsvJxoLQqCCHw0SPX6ZJEJfl6QjcEcrQG2QXxnAeCYmJy8ucECbbx80f7EkTyNn01stFQtHWDlQhh/DUAgGBAQZurU5glBnqxSkr4PEoQVAMERIP1NBXWqgKQUCBhhnj1GFcoSRH6qlHmdzKyw7WClcgVZPU1t/HwUCBj14iFStQjpQZnYGLFUoGS4ZR2BYemNprzupOQkDAkVntzixTAkjc2sjP0ogHSVMPitfMgmDt2W2IAcCBSlZsrlWji86kTOIc15ZDhQrs31bFAKLiomODQQBBho5O42KLEQ1kW2lra20FxIlfN9REAiEfId3BAEABBoxARBHHy4HSo8yGFXoiBcaVtxgEAx0bIZhCAEBBTJvBgYiDyIEDiUHCRqh0SgaW9pYDgyLVYo/CwQCAgtPEg8hCiECDxIMCQ5r4D8RWdNMDzbBFqsrCgYCAgQJKSkjChkTJycsKiZE0HAJTcZNGkyIeY4qDg4LCQ0SWVVPNxwuR05LSU5YiIIcOrRkOkkcUSpFOz07OTs5TEpGaFVpTkdJSUhPZ18nJohpVVU/QlZWWVhbW1pXBw0LJ1NMJB0dJCIhQ1hNSGQ+MDE2ODMyNzk/QERCBAMMDBkMEAcFCRAOIFC93FgjCg4FCRgVEhYVGBMVCAsNCwcGCAoHBgcLKYhyeKI6CgYFBggLBgMBAggFBwcIBwUGBQIDBAUGFFdNHm42CAkDBQoJCgkJCggIBAMDBAYGBwYEBAQFCWRzJ39fBgcHCAkNCgkIBwQEBgYGBggIBQUHBQUGCEuhaZVMCQQEAwQFBAUFAwQDCQYHCQkGBwcGBQYHCQlfQUc7DQYEBQMGBAYIBQQECggJBAMCBAIBAgQEAgpFonS1NAkBAgEBAwECBAICIhUaHh4cIRgWEQ0NCQgjpXWkZxYEBQMAAgIBAwIBFxkWFxgfIiElJy4sIyExMNKwGUdIJBMPCwUKCgcDBRYSCwYICAgKERYkJCEodmNTTVIMVT0KEwYTBAkK",
+          "top": "CQ0dMk0iPBowGx4hEyglFCYgHioXJicNLCITLxkfCyg1UzYPNTYdGCoWICoRHywUKCIeJhsoIxkxFyMsHTJDOBwIFUIWKx4SLhUfMA0uIRYtFyQtCTEZIC0NDDIlMS0yDSkvIhcrFRo0BystEikIRxoIOxcfOAovJRocIT0HVUl6Vlc0GjMVLjIQNBRFIlQnFyw4DToeIxMpGSI/VEYvgYiHUyYiLw88HEUfex9ULDYbOh8uCC4XGCslLjs/OyxxsY+hazZVTjh5LmYbLxo5ISkuLCUdKiIqUy5CTk5KeaqyusTAS0Cdhzk4Dy4fIS4LKhkqEhs9RVZkbGWPXxETLWZ9WiwpdGg6KCsjMgQ/BSggNlEXEFKOYZtFwmYIExpISSdwHoNMLiM4DkIVJQ5UnTwYglYnhYYrR5E+HgwvbWYfdFiqEBkWKgVMGkerO3hvXjhlaSFOLEQzel1OUnmTjyGsXB0VISEoNX5eHB1EGWRwTFk3SmxTOFR4Xhg7JjKSXxsvJxoLQqCCHw0SPX6ZJEJfl6QjcEcrQG2QXxnAeCYmJy8ucECbbx80f7EkTyNn01stFQtHWDlQhh/DUAgGBAQZ",
+          "middle": "NX5eHB1EGWRwTFk3SmxTOFR4Xhg7JjKSXxsvJxoLQqCCHw0SPX6ZJEJfl6QjcEcrQG2QXxnAeCYmJy8ucECbbx80f7EkTyNn01stFQtHWDlQhh/DUAgGBAQZurU5glBnqxSkr4PEoQVAMERIP1NBXWqgKQUCBhhnj1GFcoSRH6qlHmdzKyw7WClcgVZPU1t/HwUCBj14iFStQjpQZnYGLFUoGS4ZR2BYemNprzupOQkDAkVntzixTAkjc2sjP0ogHSVMPitfMgmDt2W2IAcCBSlZsrlWji86kTOIc15ZDhQrs31bFAKLiomODQQBBho5O42KLEQ1kW2lra20FxIlfN9REAiEfId3BAEABBoxARBHHy4HSo8yGFXoiBcaVtxgEAx0bIZhCAEBBTJvBgYiDyIEDiUHCRqh0SgaW9pYDgyLVYo/CwQCAgtPEg8hCiECDxIMCQ5r4D8RWdNMDzbBFqsrCgYCAgQJKSkjChkTJycsKiZE0HAJTcZNGkyIeY4qDg4LCQ0SWVVPNxwuR05LSU5YiIIcOrRkOkkcUSpFOz07OTs5TEpGaFVpTkdJSUhPZ18nJohpVVU/QlZWWVhbW1pX",
+          "bottom": "Eg8hCiECDxIMCQ5r4D8RWdNMDzbBFqsrCgYCAgQJKSkjChkTJycsKiZE0HAJTcZNGkyIeY4qDg4LCQ0SWVVPNxwuR05LSU5YiIIcOrRkOkkcUSpFOz07OTs5TEpGaFVpTkdJSUhPZ18nJohpVVU/QlZWWVhbW1pXBw0LJ1NMJB0dJCIhQ1hNSGQ+MDE2ODMyNzk/QERCBAMMDBkMEAcFCRAOIFC93FgjCg4FCRgVEhYVGBMVCAsNCwcGCAoHBgcLKYhyeKI6CgYFBggLBgMBAggFBwcIBwUGBQIDBAUGFFdNHm42CAkDBQoJCgkJCggIBAMDBAYGBwYEBAQFCWRzJ39fBgcHCAkNCgkIBwQEBgYGBggIBQUHBQUGCEuhaZVMCQQEAwQFBAUFAwQDCQYHCQkGBwcGBQYHCQlfQUc7DQYEBQMGBAYIBQQECggJBAMCBAIBAgQEAgpFonS1NAkBAgEBAwECBAICIhUaHh4cIRgWEQ0NCQgjpXWkZxYEBQMAAgIBAwIBFxkWFxgfIiElJy4sIyExMNKwGUdIJBMPCwUKCgcDBRYSCwYICAgKERYkJCEodmNTTVIMVT0KEwYTBAkK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.316236,
+          "top": 29.657102,
+          "middle": 25.764689,
+          "bottom": 26.186669,
+          "effectiveRatio": 0.551213
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1200,
+        "rawHeight": 1643
+      },
+      "index": 5,
+      "sha256": "a9d2f755d79676497fdb1afacb276dd9b43aba1b27250259681620fd2222e125",
+      "subject": "이현민",
+      "name": "이현민",
+      "imageCredit": "스포츠조선 정재근",
+      "photoDate": "2026-06-08",
+      "photoDateLabel": "2026.06.08 자료사진",
+      "creditDisplay": "사진 · 스포츠조선 정재근 (2026.06.08 자료사진)",
+      "sceneGroup": "20260608-daejeon-highschool-college-allstar-lee-hyeonmin-followthrough",
+      "sceneDescription": "6월8일 고교·대학 올스타전 이현민이 高 표기 모자를 쓰고 투구 후 상체를 숙이는 옆모습이다. 7월6일 사진과 날짜·구장·대회·모자·투구 단계가 모두 다르다.",
+      "captionEvidence": "6월8일 고교·대학 올스타전 이현민이 高 표기 모자를 쓰고 투구 후 상체를 숙이는 옆모습이다. 7월6일 사진과 날짜·구장·대회·모자·투구 단계가 모두 다르다.",
+      "checkedAt": "2026-10-20T08:59:40.351Z",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료",
+        "sourcePageUrl": "https://v.daum.net/v/20260616090352506"
+      },
+      "context": {
+        "originalContext": "6월8일 고교·대학 올스타전 이현민이 高 표기 모자를 쓰고 투구 후 상체를 숙이는 옆모습이다. 7월6일 사진과 날짜·구장·대회·모자·투구 단계가 모두 다르다.",
+        "currentStoryUse": "기사에 등장하는 해당 선수의 실제 자료사진. 10월19일 전국체전 현장으로 표시하지 않는다."
+      }
+    }
+  ]
+}
