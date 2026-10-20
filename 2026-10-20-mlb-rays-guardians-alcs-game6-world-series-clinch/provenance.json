@@ -1,0 +1,873 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "탬파베이, 클리블랜드 꺾고 6년 만에 월드시리즈",
+  "issueKey": "mlb-20261020-rays-guardians-alcs-game6-world-series-clinch",
+  "checkedAt": "2026-10-20T10:13:51.503Z",
+  "sourceUrl": "https://statsapi.mlb.com/api/v1.1/game/849815/feed/live",
+  "corroboratingUrls": [
+    "https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-10-23&endDate=2026-10-25&gameType=W",
+    "https://www.yna.co.kr/amp/view/AKR20261020088600007",
+    "https://www.mlbkor.com/news/articleView.html?idxno=34229",
+    "https://www.nikkansports.com/baseball/mlb/news/202610200000350.html"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://statsapi.mlb.com/api/v1.1/game/849815/feed/live",
+      "role": "현재경기최종결과/타석별득점/투수기록"
+    },
+    {
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-10-23&endDate=2026-10-25&gameType=W",
+      "role": "월드시리즈1차전실제팀·개시시각·장소"
+    },
+    {
+      "url": "https://www.yna.co.kr/amp/view/AKR20261020088600007",
+      "role": "역대3번째WS·6년만·첫우승맞대결배경대조"
+    }
+  ],
+  "rightsEvidence": "모든 사진은 개별 Commons/Flickr 공개 라이선스로 사용한다. 원저작자·실제 원문·촬영일·CC0/CC BY4/CC BY2/CC BY-SA4 URL·크롭/문안 변형을 imageRights 및 실제 캡션에 기록했다. 델루카 3장 변형 카드도 CC BY-SA4로 제공한다. 미국 언론 계약을 추정하지 않는다.\n1·3장: 실제 원본의 얼굴·모자를 보존하도록 원래 픽셀 치수에서 위쪽을 기준으로 4:5 크롭했다. 원사진/파생 SHA·정확 좌표·CC 변형 권한·동일 sceneGroup을 보존했다. 확대·복원·생성 없이 크롭과 JPEG 인코딩만 했다. 카드3 파생과 최종 카드도 CC BY-SA4.0을 유지한다.",
+  "photos": [
+    {
+      "index": 1,
+      "name": "주니어 카미네로",
+      "photoDate": "2026-06-22",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6bd8dbaae609d8f701877479a2d619ab0b608ae4/source-photos/2026-10-20-mlb-rays-guardians-alcs-game6-world-series-clinch-crop/source-1-top-4x5.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JuniorCaminero.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\crop-fix\\source-1-top-4x5.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T10:11:15.945Z",
+        "width": 1209,
+        "height": 1511,
+        "bytes": 378781,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3441295680612058,
+        "entropy": 6.866923805229817,
+        "effectiveDetailRatio": 0.586031,
+        "kind": "source",
+        "coverScale": 0.893,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "a09d5ec6a258fcf05908f83f3e9c4da461585d4ce1743af9f691fcae7980e83a",
+        "perceptualHash": "3662963632e69e8b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQICAQMDBQMEBAQFBgICBQYEAwMFBwUFBAIDAwIDCwsNDQ0ODg0OEA8GCx4hFhAQEBAPEA4NDQwNDQsKBQYGBggJCQcHBRcLOBk6JQgFBQUFAwIDBAQBAgQCDQ4NDAsMCwsMEydWFWkoRB0LCAgHCQgJBwgIBgQDFRYWFRYWFhQTNDdeil8yREkZEhQUEhMUExIQDxISBQUGBQQFBgYJOGJFTScQQmE3Dw4ODQ0MDgwMDg8RBAUEBAICAQQUYlgQLENQUyUmCgICAgEAAQEAAQMCDA4OCggKCQoPNWdINCAfLyclDQoKCAgHBwQEBQQFCAkJCQoKCQoNBzgoFgkbNFI5Dw4PDxARERIREA4QAQIDAgIFAQMEBT1FKDIzIVExBgICAwQFBQcHCAkHAQECAgMBAQEECB1oITFCLGIZBgYIBggGBQcGBQUHAQECAgMEAwMFBC56eiUZVDstNhoCAwIDAgEDBAQDCggHCggIBwYNWnlCrYxcQ11OaXMnAgQEAwYGBQgHDxARERIRDiB4iDMGPYGMgmJ4MWWQJQcKCwgJCwsJCQoLBwoJH4CDHysoCgk7TFUlFxB1cQ8MEBQTFBQSCAUDAwIRd3MHHwgYNAoSDBkbDSEmgTYICggICAYHAwIBBAVUfAIeKS8yHzFILyYqMDVLYE8DAgMDAgMCCAcIByJwORglKDNHOkp1MSckWklmLTwRBgICAQQFBgIEBjdtJxcdNzRqVlYtWxBBKhseESkUBgUFBAYEBgQCBjxYVToJQ4FKMlUjRDAcBSQuEToOAwIDBAUGDhAODkYkJEowTIYnGylOORAWGidSI0EXBgMDBAEBBQYFC15XJwRClG0tMDQaKUEyMRhVQjsvFRQSEA0OCQkHFENgYz5bRDEtHDk6HxYGIkF+G2g3EQkJCw0OAwUHDBxXVEIwIyVSV0I6R1F/hmFTWnoxDQgEBAICCgwKDhAqKThBVVU1JxI7TmJERzEGeVxPHAcFBwYFAgQFCSY2LjgzDRETDCcfSEBILhYgXIkvOhILBwUHBAYJCTdBGSM/gD0YJxw4XSIHEwUtP54RVxIOCwsLAQUFDBxFSVllTZVfHiNLLys1FxoZMKIRWBoIAgQDAwUFBQUgLBAfKDVYPE5aNjseIRYOLpRGUiYIBgQFBQQHBwQCAgkXLDUzHSo1NywzRU5TVnVBSSoLCQUKFAwOCwsLDQdAWlhjXUw8Dh9KendzM0wYTzAIBgMDERIODBMSExNiQCxLaHlSS1uNYxMqUVksSD0JDAkJBQABAgMEBh9YHS4RHg0PISNLjYqldJd4N0cRExcUAQIAAQMGBCBWJioHEQUMCBIYI0FSJ3K7JFIYDg8QBAMDAgQBAylcKioTGQkJCAQHGAkwJimWSTIRBwIEBAcEBAIEAxJaPjkXGwgSHxUXGRUTJBdgZiAeAwICBwIGAgEEAw9ATCAGIAIQEh4WNDUWGCA8eAwcCAgEBwgIAQIBAgYjQxAUHAwJBA8rOz42LSYMfz82CgEE",
+          "top": "AQICAQMDBQMEBAQFBgICBQYEAwMFBwUFBAIDAwIDCwsNDQ0ODg0OEA8GCx4hFhAQEBAPEA4NDQwNDQsKBQYGBggJCQcHBRcLOBk6JQgFBQUFAwIDBAQBAgQCDQ4NDAsMCwsMEydWFWkoRB0LCAgHCQgJBwgIBgQDFRYWFRYWFhQTNDdeil8yREkZEhQUEhMUExIQDxISBQUGBQQFBgYJOGJFTScQQmE3Dw4ODQ0MDgwMDg8RBAUEBAICAQQUYlgQLENQUyUmCgICAgEAAQEAAQMCDA4OCggKCQoPNWdINCAfLyclDQoKCAgHBwQEBQQFCAkJCQoKCQoNBzgoFgkbNFI5Dw4PDxARERIREA4QAQIDAgIFAQMEBT1FKDIzIVExBgICAwQFBQcHCAkHAQECAgMBAQEECB1oITFCLGIZBgYIBggGBQcGBQUHAQECAgMEAwMFBC56eiUZVDstNhoCAwIDAgEDBAQDCggHCggIBwYNWnlCrYxcQ11OaXMnAgQEAwYGBQgHDxARERIRDiB4iDMGPYGMgmJ4MWWQJQcKCwgJCwsJCQoLBwoJH4CDHysoCgk7TFUlFxB1cQ8MEBQTFBQS",
+          "middle": "CggHCggIBwYNWnlCrYxcQ11OaXMnAgQEAwYGBQgHDxARERIRDiB4iDMGPYGMgmJ4MWWQJQcKCwgJCwsJCQoLBwoJH4CDHysoCgk7TFUlFxB1cQ8MEBQTFBQSCAUDAwIRd3MHHwgYNAoSDBkbDSEmgTYICggICAYHAwIBBAVUfAIeKS8yHzFILyYqMDVLYE8DAgMDAgMCCAcIByJwORglKDNHOkp1MSckWklmLTwRBgICAQQFBgIEBjdtJxcdNzRqVlYtWxBBKhseESkUBgUFBAYEBgQCBjxYVToJQ4FKMlUjRDAcBSQuEToOAwIDBAUGDhAODkYkJEowTIYnGylOORAWGidSI0EXBgMDBAEBBQYFC15XJwRClG0tMDQaKUEyMRhVQjsvFRQSEA0OCQkHFENgYz5bRDEtHDk6HxYGIkF+G2g3EQkJCw0OAwUHDBxXVEIwIyVSV0I6R1F/hmFTWnoxDQgEBAICCgwKDhAqKThBVVU1JxI7TmJERzEGeVxPHAcFBwYFAgQFCSY2LjgzDRETDCcfSEBILhYgXIkvOhILBwUHBAYJCTdBGSM/gD0YJxw4XSIHEwUtP54RVxIOCwsL",
+          "bottom": "AwUHDBxXVEIwIyVSV0I6R1F/hmFTWnoxDQgEBAICCgwKDhAqKThBVVU1JxI7TmJERzEGeVxPHAcFBwYFAgQFCSY2LjgzDRETDCcfSEBILhYgXIkvOhILBwUHBAYJCTdBGSM/gD0YJxw4XSIHEwUtP54RVxIOCwsLAQUFDBxFSVllTZVfHiNLLys1FxoZMKIRWBoIAgQDAwUFBQUgLBAfKDVYPE5aNjseIRYOLpRGUiYIBgQFBQQHBwQCAgkXLDUzHSo1NywzRU5TVnVBSSoLCQUKFAwOCwsLDQdAWlhjXUw8Dh9KendzM0wYTzAIBgMDERIODBMSExNiQCxLaHlSS1uNYxMqUVksSD0JDAkJBQABAgMEBh9YHS4RHg0PISNLjYqldJd4N0cRExcUAQIAAQMGBCBWJioHEQUMCBIYI0FSJ3K7JFIYDg8QBAMDAgQBAylcKioTGQkJCAQHGAkwJimWSTIRBwIEBAcEBAIEAxJaPjkXGwgSHxUXGRUTJBdgZiAeAwICBwIGAgEEAw9ATCAGIAIQEh4WNDUWGCA8eAwcCAgEBwgIAQIBAgYjQxAUHAwJBA8rOz42LSYMfz82CgEE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.994419,
+          "top": 16.646243,
+          "middle": 24.319917,
+          "bottom": 19.130554,
+          "effectiveRatio": 0.586031
+        }
+      },
+      "metadata": {
+        "title": "File:JuniorCaminero.jpg",
+        "size": 482258,
+        "width": 1209,
+        "height": 2048,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/JuniorCaminero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:JuniorCaminero.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195131086",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-07-04 20:00:50",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "JuniorCaminero",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|2026 Tampa Bay Rays season|Junior Caminero",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Rays Third Baseman Junior Caminero during a game in June 2026",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-06-22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Raysfanjake1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Raysfanjake1984 (page does not exist)\">Raysfanjake1984</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "strictPass": true,
+      "subject": "주니어 카미네로",
+      "sha256": "a09d5ec6a258fcf05908f83f3e9c4da461585d4ce1743af9f691fcae7980e83a",
+      "width": 1209,
+      "height": 1511,
+      "bytes": 378781,
+      "scale": 0.893,
+      "imageCredit": "Raysfanjake1984 / CC0",
+      "creditDisplay": "자료사진 · Raysfanjake1984 · CC0 (2026-06-22)",
+      "photoDateLabel": "2026-06-22",
+      "sceneGroup": "20260622-caminero-field-standing-front",
+      "sceneDescription": "2026년6월22일 수비 중 웃으며 서 있는 카미네로.",
+      "photoDateEvidence": "https://commons.wikimedia.org/wiki/File:JuniorCaminero.jpg",
+      "checkedAt": "2026-10-20T10:07:07.923Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.893
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "author": "Raysfanjake1984",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JuniorCaminero.jpg",
+        "photoDate": "2026-06-22",
+        "attributionRequired": false,
+        "shareAlikeRequired": false,
+        "adaptationNotice": "원본의 위쪽을 기준으로 4:5 크롭 후 JPEG 인코딩. 확대·복원·생성 없음. 게시 카드에는 그라데이션과 한국어 문안을 추가한다."
+      },
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/JuniorCaminero.jpg",
+      "cropProvenance": {
+        "commit": "6bd8dbaae609d8f701877479a2d619ab0b608ae4",
+        "originalSha256": "328b2dbcbdd2524afd2a2fde5c102c88a08ef7451abe611a03b6fe7653b49ec3",
+        "crop": {
+          "left": 0,
+          "top": 0,
+          "width": 1209,
+          "height": 1511
+        },
+        "sceneGroupUnchanged": true
+      }
+    },
+    {
+      "index": 2,
+      "name": "리치 팔라시오스",
+      "photoDate": "2025-06-20",
+      "sourceUrl": "https://live.staticflickr.com/65535/54603478209_f0c85c1ed8_o.jpg",
+      "sourcePageUrl": "https://www.flickr.com/photos/mindahaas/54603478209/",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\photos\\source-3.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:28:49.963Z",
+        "width": 2880,
+        "height": 1920,
+        "bytes": 478577,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.2249097606068116,
+        "entropy": 7.563927663402865,
+        "effectiveDetailRatio": 0.53361,
+        "kind": "source",
+        "coverScale": 0.703,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/65535/54603478209_f0c85c1ed8_o.jpg",
+        "sha256": "8deceb9ecc24692a8c64851920a65196948cf26fc1964a5be5ad6f06294a5749",
+        "perceptualHash": "8b83279e9e464ecb",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "FhQ+GSoWEQ4hJR8jGiWIZiEkISQ8MUAxMSUnSEUvOS4kFCZbVVYhK35xcmtGp55mOh5whHB2Ug5FXGlxQzc4Om9DEyc+f2EuKzZKQERuRzpLIBIhT2lASxguMjUrNho7OlBdHktCZ0pEXVxcTTRcRFtlWxlYNU5sHEk3TmIhMSVHc1JCX0E9UjhfayZnVi4oWoEnUx5BJzoOFC1CQAMjLUFGHiEQHBJFMwU8dB5xWm01bFwfHzsOExgbISIfEhUISCApMztXMCo5U4xUqmZxEG1dNi9CDhcpDDUWFR0oK0M/I2MURSdJb4JNK3NPXU5QNDc3CRMJIxooEhEfLjguGVKPLBQ/lyQfLm2ULEhXHi4dPQ4ZLBY+JBcYJhwRZH2Kk3lWTzVNcK06LDwgJk89KhMGBycEJgkRCRFCeFIfEy47F49cVipCSkVDUyNXMh0UFyYuMQ4TLCoyJDRFc5hcaG9UGxpJI0dlLz9nRRsPGhs1Pg0bGCRNPBtDcUW4TWJiOg8bUoVSZ21MlYh2YlhGVV44Iy8hbDswSoEgPD8tUTEMWD4TGBhYgKqgop6yu6ywqZynmBIRN1pXaDg6YzhtMaN4opyLmzAfKiswMT1bXFJVblQMIyA0JxExW6FW8KTCcm+FmUoIBwcGBgYNFAMZNl8RFw0RCBwNLUW4WgZUGXyQdkMEAQIDAwUPAgwMT39IIygpNhRgQCceLyl1Plp2fEYGCQMKDw4IPw8Ib6chO0qCXSJVj0tUMDB0JjdvgUYXGR4ZDAY+kGUjTlJxPWwBhQVjU3M2Lx1TDDF1f0chISodFirbprNoORAkKl92Unx9KHJ+IytcNThNeFUaFRgiGLX/C5CgUSIJFhcUGE2JLKo+EjVTAwVEWD8NFSREabFRijZAjUIFJWImP3CKZIsNT09xKk1dRFtLWWB9iyBGFDQlaDoET01CM3CCR3osU2w9ITJAVG1ybVtFQl9GSC0sZDUOWSo6LjdgIWg7DUhlBA8zLCEYCh8vMhkWISVGcDUnbBtFH0ZcT28ZUVVrBA8fHS0TU1hldHZcTzFLRzE4cBBPJkI/XTVBSDJIAREkGS9DVSJhVTkrKDQzMw1Ydm5QSD5mcjAqNlIqAhMlHDY/MUBELj4uPwtcLRoeVm5pJT1dSgQWFVNbAxIlGjhAMD1KETphPzdRDRIsHw5CRS03BhEmEip1AxIlFjNDPU5GCRZBXRsjLE8wIig7SRMzKQ8pFCCGARIlGC9CZlJjYWN3VxsKVFuRgX2LRQwxcU0kFVJpAhIlGSwXUmmXk4yKWEckazQrRUdKYiROSmE8Bl5JBhElFDQZLD42MDg+ZFVTchgTDAwJRTpFHXAuG01QGx8lBRwbExxDYB4jfD+LZhwgIyYjVk1MR2Z+LVNmLS45TkJDQV2SgYJMehBlTjo0KycpUGlkdj1GVWZ4QkFDQi0pKDhDS0dOWhZdSDY1Mzg4T2ErbjsZLEYoGRIPDQwHBQMfNg0tTE1PLwkIBAYHETRcIQgOFRMT",
+          "top": "FhQ+GSoWEQ4hJR8jGiWIZiEkISQ8MUAxMSUnSEUvOS4kFCZbVVYhK35xcmtGp55mOh5whHB2Ug5FXGlxQzc4Om9DEyc+f2EuKzZKQERuRzpLIBIhT2lASxguMjUrNho7OlBdHktCZ0pEXVxcTTRcRFtlWxlYNU5sHEk3TmIhMSVHc1JCX0E9UjhfayZnVi4oWoEnUx5BJzoOFC1CQAMjLUFGHiEQHBJFMwU8dB5xWm01bFwfHzsOExgbISIfEhUISCApMztXMCo5U4xUqmZxEG1dNi9CDhcpDDUWFR0oK0M/I2MURSdJb4JNK3NPXU5QNDc3CRMJIxooEhEfLjguGVKPLBQ/lyQfLm2ULEhXHi4dPQ4ZLBY+JBcYJhwRZH2Kk3lWTzVNcK06LDwgJk89KhMGBycEJgkRCRFCeFIfEy47F49cVipCSkVDUyNXMh0UFyYuMQ4TLCoyJDRFc5hcaG9UGxpJI0dlLz9nRRsPGhs1Pg0bGCRNPBtDcUW4TWJiOg8bUoVSZ21MlYh2YlhGVV44Iy8hbDswSoEgPD8tUTEMWD4TGBhYgKqgop6yu6ywqZynmBIRN1pXaDg6YzhtMaN4",
+          "middle": "Lz9nRRsPGhs1Pg0bGCRNPBtDcUW4TWJiOg8bUoVSZ21MlYh2YlhGVV44Iy8hbDswSoEgPD8tUTEMWD4TGBhYgKqgop6yu6ywqZynmBIRN1pXaDg6YzhtMaN4opyLmzAfKiswMT1bXFJVblQMIyA0JxExW6FW8KTCcm+FmUoIBwcGBgYNFAMZNl8RFw0RCBwNLUW4WgZUGXyQdkMEAQIDAwUPAgwMT39IIygpNhRgQCceLyl1Plp2fEYGCQMKDw4IPw8Ib6chO0qCXSJVj0tUMDB0JjdvgUYXGR4ZDAY+kGUjTlJxPWwBhQVjU3M2Lx1TDDF1f0chISodFirbprNoORAkKl92Unx9KHJ+IytcNThNeFUaFRgiGLX/C5CgUSIJFhcUGE2JLKo+EjVTAwVEWD8NFSREabFRijZAjUIFJWImP3CKZIsNT09xKk1dRFtLWWB9iyBGFDQlaDoET01CM3CCR3osU2w9ITJAVG1ybVtFQl9GSC0sZDUOWSo6LjdgIWg7DUhlBA8zLCEYCh8vMhkWISVGcDUnbBtFH0ZcT28ZUVVrBA8fHS0TU1hldHZcTzFLRzE4cBBPJkI/XTVBSDJI",
+          "bottom": "Kk1dRFtLWWB9iyBGFDQlaDoET01CM3CCR3osU2w9ITJAVG1ybVtFQl9GSC0sZDUOWSo6LjdgIWg7DUhlBA8zLCEYCh8vMhkWISVGcDUnbBtFH0ZcT28ZUVVrBA8fHS0TU1hldHZcTzFLRzE4cBBPJkI/XTVBSDJIAREkGS9DVSJhVTkrKDQzMw1Ydm5QSD5mcjAqNlIqAhMlHDY/MUBELj4uPwtcLRoeVm5pJT1dSgQWFVNbAxIlGjhAMD1KETphPzdRDRIsHw5CRS03BhEmEip1AxIlFjNDPU5GCRZBXRsjLE8wIig7SRMzKQ8pFCCGARIlGC9CZlJjYWN3VxsKVFuRgX2LRQwxcU0kFVJpAhIlGSwXUmmXk4yKWEckazQrRUdKYiROSmE8Bl5JBhElFDQZLD42MDg+ZFVTchgTDAwJRTpFHXAuG01QGx8lBRwbExxDYB4jfD+LZhwgIyYjVk1MR2Z+LVNmLS45TkJDQV2SgYJMehBlTjo0KycpUGlkdj1GVWZ4QkFDQi0pKDhDS0dOWhZdSDY1Mzg4T2ErbjsZLEYoGRIPDQwHBQMfNg0tTE1PLwkIBAYHETRcIQgOFRMT"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.275132,
+          "top": 18.903329,
+          "middle": 15.729467,
+          "bottom": 20.796495,
+          "effectiveRatio": 0.53361
+        }
+      },
+      "metadata": {
+        "title": "File:Richie Palacios-25.jpg",
+        "size": 656410,
+        "width": 1737,
+        "height": 1920,
+        "url": "https://live.staticflickr.com/65535/54603478209_f0c85c1ed8_o.jpg",
+        "descriptionurl": "https://www.flickr.com/photos/mindahaas/54603478209/",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173277930",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-08-25 10:58:28",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Richie Palacios-25",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Durham Bulls players|Images with extracted images|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Richie Palacios batting in 2025",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-06-20 19:48:36",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/mindahaas/54603478209/\">https://www.flickr.com/photos/mindahaas/54603478209/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Minda Haas Kuhlmann",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "strictPass": true,
+      "subject": "리치 팔라시오스",
+      "sha256": "8deceb9ecc24692a8c64851920a65196948cf26fc1964a5be5ad6f06294a5749",
+      "width": 2880,
+      "height": 1920,
+      "bytes": 478577,
+      "scale": 0.703,
+      "imageCredit": "Minda Haas Kuhlmann / CC BY 4.0",
+      "creditDisplay": "자료사진 · Minda Haas Kuhlmann · CC BY 4.0 (2025-06-20)",
+      "photoDateLabel": "2025.06.20 더럼 불스 소속 자료사진",
+      "sceneGroup": "20250620-durham-palacios-batting-crouch-side",
+      "sceneDescription": "2025년6월20일 더럼 유니폼으로 타격을 준비하는 팔라시오스.",
+      "photoDateEvidence": "https://www.flickr.com/photos/mindahaas/54603478209/",
+      "checkedAt": "2026-10-20T10:07:07.923Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.703
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "author": "Minda Haas Kuhlmann",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourcePageUrl": "https://www.flickr.com/photos/mindahaas/54603478209/",
+        "photoDate": "2025-06-20",
+        "attributionRequired": true,
+        "shareAlikeRequired": false,
+        "adaptationNotice": "크롭·그라데이션·한국어 문안 추가."
+      }
+    },
+    {
+      "name": "조니 델루카",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6bd8dbaae609d8f701877479a2d619ab0b608ae4/source-photos/2026-10-20-mlb-rays-guardians-alcs-game6-world-series-clinch-crop/source-3-top-4x5.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:DelucaJ.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\crop-fix\\source-3-top-4x5.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T10:11:16.065Z",
+        "width": 1280,
+        "height": 1600,
+        "bytes": 552446,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.47281372214173,
+        "entropy": 7.399130306206644,
+        "effectiveDetailRatio": 0.482924,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "7a79d052d9cfcc2da07f22dfc41720904ccaed20a8559d6111f9bfc6e68c9213",
+        "perceptualHash": "0ad369696956464e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Cw0OJQ4WOicwNS4qKVlMIykvTU9gFY5RCB9IMWNsERENDh8PFhIgKBwlHSQEChIkLTM0ECYwKiorHkxFAQcCCgkICAwXDA4NBh5fIhUJEggTCQkUCA0IFgwCBQUHDQQJBhQUBhAHElo7YxoQFAEQBBAIBgkEFA4BBAYJCAAGBBMICw4HEk14VEUJFAYNBgwDBgYDEQ0FAgQGAgIIDBEACAkTGyNiYSgdGAQMFBELDAwNFQ0IY2FhZGFeV11iWlZcNTAoMU5AYU5NSUlJQ0U/QUhFc3R0dnl/f4KFhIWMaCo5YjEymIyKh4yMjImHkZeZFBQVFRcaGRscHSUoanQfMBZUKho0NTI0NjU5PD5BAAEAAwEEBAIFBQs9KXItMDgZZGlHEwgCAQMCBAMDAQECAQIDBgUND15WbC2HM18zUzJqbSkHAwICAgECBgUFBwQEAwcWbE8DWm6AhR1rOB4LUHMkAwEEAQMCAQICAwQEBwliXhILDoZ+LpxCDRMtJVpLBQQGBQIACQgHBgQDCDWJMjIWGRyEhzIzLTlPPJBMFQICBAMEAwMEAQIECW2HJHpAFA4dP0pDbnMxJ2F+LQMDAAQEAQIDAwEIG31rPCyAMSgTLWZWbKwtYZCRKQsHBgYDAwQDBQcGD0KPj3guTBgED0yeeGEygYcmDAQGBgUGCAsMDgwMBTcqTKNHOUdGIhY2cTM4jjwFEAcJBwQECQoKBwQLJW5lRTIjRCwqQxoeDjZNxGkoEwoQEA8RBQQEBAUJKE8ROTphGDoQOx0NMk/VcG88GgoKCQ0NBAQGBAIHFmxQKGMjfYk9dpROOFZcgTw6HggEAwQFBgcFBggHBCGKgTaSfzgvVW1sZmqfcl0bBgMCAQIEBQUGAQEBBAoNU5tzn5hZSHbxhhlhtz4LBAQEAgIDBAEHBgYICAcRDQmvnixpZ6g0wtzuVxcIAwYGBAMEBwkFAQMFAgYFCjhUvbRMIXzvz4l/VBIMBQQFAgEFDgsHCAcFAwUIBlFfJ5Wjm4hqNRM9WxYQCggGBAEBDw8PEQ4KCQgHBVdRBiFkVx0kFwNBYxgMBgcKCAcICQcGBQkKDg4MF2BDBQoFEA8ICAY8ZhwQDQwNDA0NCAgGAgYHBwgNIWc+Cw4WOTwODQo5bSgLBw0NEBMSBwgJCgoJBwcLGXBIERYpJC05DAQ1aSkJAgIDBQUHBQUGCgcHCQcGEWVWBhEjIi0VBwM9bSUKBAUEDQ8OBAUGAwEEBQYIC2hcCgkaFSMUAwNIcRwOCAUGBQgLBwQFBgQGBQQHAFpyFAUeMjkqBAdQZhgKCAgFCAkHCQQCAQMEAwYHBTl6NgcvSDVABA5XVQ8KCQQGBwQIAgQFAwUGBAUBBixuPwg6Nj82BB1kRgoGCQoGBAsFBwMCCgkDBgcICid7ShFAM0xNCityPg0IAwYJCwYHCQoKBAkJBwEDBhpeURNBWjVqQzxZQggJCQoIBQIEDA0LBAQDBAQCCQ9XTg5HVCQtWjMtOgULCAYEAwMF",
+          "top": "Cw0OJQ4WOicwNS4qKVlMIykvTU9gFY5RCB9IMWNsERENDh8PFhIgKBwlHSQEChIkLTM0ECYwKiorHkxFAQcCCgkICAwXDA4NBh5fIhUJEggTCQkUCA0IFgwCBQUHDQQJBhQUBhAHElo7YxoQFAEQBBAIBgkEFA4BBAYJCAAGBBMICw4HEk14VEUJFAYNBgwDBgYDEQ0FAgQGAgIIDBEACAkTGyNiYSgdGAQMFBELDAwNFQ0IY2FhZGFeV11iWlZcNTAoMU5AYU5NSUlJQ0U/QUhFc3R0dnl/f4KFhIWMaCo5YjEymIyKh4yMjImHkZeZFBQVFRcaGRscHSUoanQfMBZUKho0NTI0NjU5PD5BAAEAAwEEBAIFBQs9KXItMDgZZGlHEwgCAQMCBAMDAQECAQIDBgUND15WbC2HM18zUzJqbSkHAwICAgECBgUFBwQEAwcWbE8DWm6AhR1rOB4LUHMkAwEEAQMCAQICAwQEBwliXhILDoZ+LpxCDRMtJVpLBQQGBQIACQgHBgQDCDWJMjIWGRyEhzIzLTlPPJBMFQICBAMEAwMEAQIECW2HJHpAFA4dP0pDbnMxJ2F+LQMDAAQE",
+          "middle": "AQICAwQEBwliXhILDoZ+LpxCDRMtJVpLBQQGBQIACQgHBgQDCDWJMjIWGRyEhzIzLTlPPJBMFQICBAMEAwMEAQIECW2HJHpAFA4dP0pDbnMxJ2F+LQMDAAQEAQIDAwEIG31rPCyAMSgTLWZWbKwtYZCRKQsHBgYDAwQDBQcGD0KPj3guTBgED0yeeGEygYcmDAQGBgUGCAsMDgwMBTcqTKNHOUdGIhY2cTM4jjwFEAcJBwQECQoKBwQLJW5lRTIjRCwqQxoeDjZNxGkoEwoQEA8RBQQEBAUJKE8ROTphGDoQOx0NMk/VcG88GgoKCQ0NBAQGBAIHFmxQKGMjfYk9dpROOFZcgTw6HggEAwQFBgcFBggHBCGKgTaSfzgvVW1sZmqfcl0bBgMCAQIEBQUGAQEBBAoNU5tzn5hZSHbxhhlhtz4LBAQEAgIDBAEHBgYICAcRDQmvnixpZ6g0wtzuVxcIAwYGBAMEBwkFAQMFAgYFCjhUvbRMIXzvz4l/VBIMBQQFAgEFDgsHCAcFAwUIBlFfJ5Wjm4hqNRM9WxYQCggGBAEBDw8PEQ4KCQgHBVdRBiFkVx0kFwNBYxgMBgcKCAcI",
+          "bottom": "BAEHBgYICAcRDQmvnixpZ6g0wtzuVxcIAwYGBAMEBwkFAQMFAgYFCjhUvbRMIXzvz4l/VBIMBQQFAgEFDgsHCAcFAwUIBlFfJ5Wjm4hqNRM9WxYQCggGBAEBDw8PEQ4KCQgHBVdRBiFkVx0kFwNBYxgMBgcKCAcICQcGBQkKDg4MF2BDBQoFEA8ICAY8ZhwQDQwNDA0NCAgGAgYHBwgNIWc+Cw4WOTwODQo5bSgLBw0NEBMSBwgJCgoJBwcLGXBIERYpJC05DAQ1aSkJAgIDBQUHBQUGCgcHCQcGEWVWBhEjIi0VBwM9bSUKBAUEDQ8OBAUGAwEEBQYIC2hcCgkaFSMUAwNIcRwOCAUGBQgLBwQFBgQGBQQHAFpyFAUeMjkqBAdQZhgKCAgFCAkHCQQCAQMEAwYHBTl6NgcvSDVABA5XVQ8KCQQGBwQIAgQFAwUGBAUBBixuPwg6Nj82BB1kRgoGCQoGBAsFBwMCCgkDBgcICid7ShFAM0xNCityPg0IAwYJCwYHCQoKBAkJBwEDBhpeURNBWjVqQzxZQggJCQoIBQIEDA0LBAQDBAQCCQ9XTg5HVCQtWjMtOgULCAYEAwMF"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.432166,
+          "top": 28.048342,
+          "middle": 21.042791,
+          "bottom": 13.559216,
+          "effectiveRatio": 0.482924
+        }
+      },
+      "metadata": {
+        "title": "File:DelucaJ.jpg",
+        "size": 2415301,
+        "width": 1648,
+        "height": 2732,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/DelucaJ.jpg/1280px-DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1280,
+        "thumbheight": 2122,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/DelucaJ.jpg/1280px-DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1280,
+          "height": 2122,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7c/DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:DelucaJ.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138416206",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-02 21:13:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "DelucaJ",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Baseball players|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Jonny DeLuca warms up before the <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Triple-A_National_Championship_Game?action=edit&amp;redlink=1\" title=\"Triple-A National Championship Game (page does not exist)\" class=\"new\" typeof=\"mw:LocalizedAttrs\" data-mw-i18n='{\"title\":{\"lang\":\"x-page\",\"key\":\"red-link-title\",\"params\":[\"Triple-A National Championship Game\"]}}'>Triple-A National Championship Game</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-09-30 18:27:40",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Spanneraol\" title=\"User:Spanneraol\">Spanneraol</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "strictPass": true,
+      "index": 3,
+      "subject": "조니 델루카",
+      "sha256": "7a79d052d9cfcc2da07f22dfc41720904ccaed20a8559d6111f9bfc6e68c9213",
+      "width": 1280,
+      "height": 1600,
+      "bytes": 552446,
+      "scale": 0.844,
+      "imageCredit": "Spanneraol / CC BY-SA 4.0",
+      "creditDisplay": "자료사진 · Spanneraol · CC BY-SA 4.0 (2023-09-30)",
+      "photoDate": "2023-09-30",
+      "photoDateLabel": "2023.09.30 오클라호마시티 소속 자료사진",
+      "sceneGroup": "20230930-oklahoma-city-deluca-walking-front",
+      "sceneDescription": "2023년9월30일 오클라호마시티 시절 델루카가 걷는 모습. 당일 탬파베이 사진으로 오인하지 않게 자료사진 일자·당시 팀을 표기.",
+      "photoDateEvidence": "https://commons.wikimedia.org/wiki/File:DelucaJ.jpg",
+      "checkedAt": "2026-10-20T10:07:07.923Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.844
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "author": "Spanneraol",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:DelucaJ.jpg",
+        "photoDate": "2023-09-30",
+        "attributionRequired": true,
+        "shareAlikeRequired": true,
+        "adaptationNotice": "원본의 위쪽을 기준으로 4:5 크롭 후 JPEG 인코딩. 확대·복원·생성 없음. 게시 카드에는 그라데이션과 한국어 문안을 추가한다. 해당 크롭 및 카드3 파생물도 CC BY-SA 4.0으로 제공.",
+        "adaptationLicense": "CC BY-SA 4.0"
+      },
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/DelucaJ.jpg/1280px-DelucaJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "cropProvenance": {
+        "commit": "6bd8dbaae609d8f701877479a2d619ab0b608ae4",
+        "originalSha256": "ec210d21f53d6a2d0ebe7e149c41893aa27e39e719daf2ba3a35301e2ce80deb",
+        "crop": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 1600
+        },
+        "sceneGroupUnchanged": true
+      }
+    },
+    {
+      "index": 4,
+      "name": "얀디 디아스",
+      "photoDate": "2024년 자료사진",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Yandy_D%C3%ADaz2024stlraays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yandy_D%C3%ADaz2024stlraays.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\photos\\yandy2024.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:38:12.004Z",
+        "width": 1617,
+        "height": 1384,
+        "bytes": 570858,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.552244335489406,
+        "entropy": 7.446530694069224,
+        "effectiveDetailRatio": 0.537781,
+        "kind": "source",
+        "coverScale": 0.975,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Yandy_D%C3%ADaz2024stlraays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "8fba7b2395c1a5338c49a8a471c62901aa2b42afeef3d2c339711c79fe365915",
+        "perceptualHash": "dbf2e6e666655937",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "YEZREhYdPkUzLUo7hXcXLx8mNS8yIl5BGSYyJiBcSks4OTYtNyUaNUGgFLdODjESFgYXJ3lKHShATVxMKzw6LFZQbzg5HhtxiHx1KhkaPTUfL2U4XmRaNCUmHQ4YBhZPERwZGQYvcpBMEA48LTgsaUonOh4HCxYhGRgcLxQmQg8fFw4TSUkRERYvLRA0TAo8NiMRDh4sJitobTkrIjMKJDUVOAohNRwLKyYvQDwlGhkWCio+GE92WGlIIxsVJTA0Mxw3GykOGSklRD4eGCYVJwVKQl8PMD45JwwULTAzDhcYOC0ODAYSBzcpRTUdEQYYOiA/KFRNGg0QFTUXHx0iJRAJCRYGDigRPhYGDQ0HFyU+UFAdEgwRLTAfGBcEBggKERYQES09OhEOAg0PVTkjGxAZHSUeKiodGxYCBhALGQovQWYUfC4YDAILJTAkKTQPECIaHzIILxwLExUYJ1B6bgZmXCwOFQ0CHBcWMigRDRcaGwgQLSQXNEteeXA8aWwvCxsWBAwJLz0XHw4YCyUUFh4xLEtFTjchDys6WkAcOh8QEg8IsXwYNikMDA0aEyNRLZiCZTorJyMeT3JiLEEfCQYEZ6tsHTQUAwMFEkVadWFliICFfICDhaK9cDwwAgoJGWqTHio1BwgIO1Ekh2A2ISIICRk0GSJUv3JRKAoEM5xLHgVWLg4HTD4xaa9ULDAvKjccODElfm9QVTAoO41OGUQTvmUUIzwzNLZONRokDS0aEBxLlS0mPB8MPElnJiGxjfWbGBkdIotbJkc5KCo8HylYgzJJMSEhDixeFXF7SkDWcxETHXBMFCkiEg4aDARcXxsRFRAxBBJYIh59mFZoli0LKWw6DxghIg4KCSOATgcIDUV8CgVJSiIefmddZC0NLXFUJxkQCB8nJlFwJQQROaVVCxIzWRkSIkRHRwcQEFqIJBckMC4hFE1NFRMekFoLBBQVXzcKJGggsEgVDzSMXyMsHA0IIWM5CgpbXz08BAUMOl0PHUxTO5w2GAhNiSUWEREVQVgbBjJqDR8lIhkYJFQqGUEyLDmEHg0SY0cFDBIVTTsMEEs0KhwcMTYxTmAfFkFAISg+ZwoRQW0bIBgzSxACFCsmJiEcJB8hPzQRLWEWFRAMV14ZJVcgBwonGwwHRDMaHB4fNDVFbTIxjFYyNTczNYxcFGBQNDM4KRVEcDU5PDw8BQpRcAp6eAwLCgwOCkuYImxgFjtVIyJ5PREVGRcaAw1lXUaVLQMFBQQDBRN5Zk5sDVNCBk9jDAkHBQUJDRxtLXxMGxMTFBgbHRk2jg2EGHMsLWgxDwwQDgkLBjlaJ18aExAVFBUWFRQaPitGMEo7ZS0sJCYtLSUnHEqfW0EEDAQCAQIGCQQSPipAS6WjUCIDAw0ICwUEPEys0R0REBQUFhgVFxkUPUortIlmXiMIBwgMBgYHSo1PYZMuHSEcHBsdIBwiFB0uRp2Gc0QfHiQeHSQdJXGLlVEwAgMGBggGCgsEAwwJAzxMNgsKAQYHAgQE",
+          "top": "YEZREhYdPkUzLUo7hXcXLx8mNS8yIl5BGSYyJiBcSks4OTYtNyUaNUGgFLdODjESFgYXJ3lKHShATVxMKzw6LFZQbzg5HhtxiHx1KhkaPTUfL2U4XmRaNCUmHQ4YBhZPERwZGQYvcpBMEA48LTgsaUonOh4HCxYhGRgcLxQmQg8fFw4TSUkRERYvLRA0TAo8NiMRDh4sJitobTkrIjMKJDUVOAohNRwLKyYvQDwlGhkWCio+GE92WGlIIxsVJTA0Mxw3GykOGSklRD4eGCYVJwVKQl8PMD45JwwULTAzDhcYOC0ODAYSBzcpRTUdEQYYOiA/KFRNGg0QFTUXHx0iJRAJCRYGDigRPhYGDQ0HFyU+UFAdEgwRLTAfGBcEBggKERYQES09OhEOAg0PVTkjGxAZHSUeKiodGxYCBhALGQovQWYUfC4YDAILJTAkKTQPECIaHzIILxwLExUYJ1B6bgZmXCwOFQ0CHBcWMigRDRcaGwgQLSQXNEteeXA8aWwvCxsWBAwJLz0XHw4YCyUUFh4xLEtFTjchDys6WkAcOh8QEg8IsXwYNikMDA0aEyNRLZiCZTorJyMeT3JiLEEfCQYE",
+          "middle": "HBcWMigRDRcaGwgQLSQXNEteeXA8aWwvCxsWBAwJLz0XHw4YCyUUFh4xLEtFTjchDys6WkAcOh8QEg8IsXwYNikMDA0aEyNRLZiCZTorJyMeT3JiLEEfCQYEZ6tsHTQUAwMFEkVadWFliICFfICDhaK9cDwwAgoJGWqTHio1BwgIO1Ekh2A2ISIICRk0GSJUv3JRKAoEM5xLHgVWLg4HTD4xaa9ULDAvKjccODElfm9QVTAoO41OGUQTvmUUIzwzNLZONRokDS0aEBxLlS0mPB8MPElnJiGxjfWbGBkdIotbJkc5KCo8HylYgzJJMSEhDixeFXF7SkDWcxETHXBMFCkiEg4aDARcXxsRFRAxBBJYIh59mFZoli0LKWw6DxghIg4KCSOATgcIDUV8CgVJSiIefmddZC0NLXFUJxkQCB8nJlFwJQQROaVVCxIzWRkSIkRHRwcQEFqIJBckMC4hFE1NFRMekFoLBBQVXzcKJGggsEgVDzSMXyMsHA0IIWM5CgpbXz08BAUMOl0PHUxTO5w2GAhNiSUWEREVQVgbBjJqDR8lIhkYJFQqGUEyLDmEHg0SY0cFDBIVTTsMEEs0Khwc",
+          "bottom": "CxIzWRkSIkRHRwcQEFqIJBckMC4hFE1NFRMekFoLBBQVXzcKJGggsEgVDzSMXyMsHA0IIWM5CgpbXz08BAUMOl0PHUxTO5w2GAhNiSUWEREVQVgbBjJqDR8lIhkYJFQqGUEyLDmEHg0SY0cFDBIVTTsMEEs0KhwcMTYxTmAfFkFAISg+ZwoRQW0bIBgzSxACFCsmJiEcJB8hPzQRLWEWFRAMV14ZJVcgBwonGwwHRDMaHB4fNDVFbTIxjFYyNTczNYxcFGBQNDM4KRVEcDU5PDw8BQpRcAp6eAwLCgwOCkuYImxgFjtVIyJ5PREVGRcaAw1lXUaVLQMFBQQDBRN5Zk5sDVNCBk9jDAkHBQUJDRxtLXxMGxMTFBgbHRk2jg2EGHMsLWgxDwwQDgkLBjlaJ18aExAVFBUWFRQaPitGMEo7ZS0sJCYtLSUnHEqfW0EEDAQCAQIGCQQSPipAS6WjUCIDAw0ICwUEPEys0R0REBQUFhgVFxkUPUortIlmXiMIBwgMBgYHSo1PYZMuHSEcHBsdIBwiFB0uRp2Gc0QfHiQeHSQdJXGLlVEwAgMGBggGCgsEAwwJAzxMNgsKAQYHAgQE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.618067,
+          "top": 17.027757,
+          "middle": 21.921738,
+          "bottom": 19.596298,
+          "effectiveRatio": 0.537781
+        }
+      },
+      "metadata": {
+        "title": "File:Yandy Díaz2024stlraays.jpg",
+        "size": 570858,
+        "width": 1617,
+        "height": 1384,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Yandy_D%C3%ADaz2024stlraays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yandy_D%C3%ADaz2024stlraays.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152577270",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-09-13 13:06:19",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yandy Díaz2024stlraays",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Yandy Díaz|Self-published work|Images with extracted images|Black sports uniforms|Gray sports uniforms|2024 Tampa Bay Rays season|City Connect uniforms|Major League Baseball players in 2024|Major League Baseball umpires in 2024",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Diaz leads off in stlouis",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-09-12 02:33:10",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Johnmaxmena2\" title=\"User:Johnmaxmena2\">Johnmaxmena2</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "strictPass": true,
+      "subject": "얀디 디아스",
+      "sha256": "8fba7b2395c1a5338c49a8a471c62901aa2b42afeef3d2c339711c79fe365915",
+      "width": 1617,
+      "height": 1384,
+      "bytes": 570858,
+      "scale": 0.975,
+      "imageCredit": "Johnmaxmena2 / CC BY 4.0",
+      "creditDisplay": "자료사진 · Johnmaxmena2 · CC BY 4.0 (2024년 자료사진)",
+      "photoDateLabel": "2024년 자료사진",
+      "sceneGroup": "2024-stlouis-yandy-running-lead-side",
+      "sceneDescription": "2024년 탬파베이 시티커넥트 유니폼으로 리드하는 얀디. 원문은세인트루이스라고설명하지만EXIF9월12일과실제원정일불일치가능성으로일자는확정하지않고연도만표시.",
+      "photoDateEvidence": "https://commons.wikimedia.org/wiki/File:Yandy_D%C3%ADaz2024stlraays.jpg",
+      "checkedAt": "2026-10-20T10:07:07.923Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.975
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "author": "Johnmaxmena2",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yandy_D%C3%ADaz2024stlraays.jpg",
+        "photoDate": "2024년 자료사진",
+        "attributionRequired": true,
+        "shareAlikeRequired": false,
+        "adaptationNotice": "크롭·그라데이션·한국어 문안 추가."
+      }
+    },
+    {
+      "name": "케빈 캐시",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2015_-WinterMeetings-_Kevin_Cash_%2823586674746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2015_-WinterMeetings-_Kevin_Cash_(23586674746).jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\mlb-clinch\\photos\\cash2015.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:38:44.483Z",
+        "width": 5472,
+        "height": 3648,
+        "bytes": 7097380,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.659831495036552,
+        "entropy": 7.5114558389548165,
+        "effectiveDetailRatio": 0.502833,
+        "kind": "source",
+        "coverScale": 0.37,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2015_-WinterMeetings-_Kevin_Cash_%2823586674746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "257896f004f641a2b4ab8bf3dc93d4e9b73fab928c8fd9463f247dd760ba2ff0",
+        "perceptualHash": "705818181b1b9999",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Bgoba4ZLAxwhJisnFAkuUmpPFQUFAwEDAgMDAwMEAjGAZQI6QkFHUkVAOy8dCTZrYBkFBQcICgwNDw8ROoNGJEQ+RkhPRC80OTY3JQMkYlsXBggHBgUDAgECeDspPkNXUVNNRjk7NictQi0ZJVVADxMUFhkbHB4eSyA7R2VYQDw9UWNXWUI7YWhHLyVFFgQGBgcKCQwNKzM/VFQkFxMcIDs7UFhaU1hTIykhMQ0HCQsNDxISLTk6RCgXDwkPDRceDzEoGSo5GhIOPBYCAwMFBgYHKDMkJSAaEQsJCRYhDgcSFh85KhYQJyMEBQQGBwcHFhgFGh8eDw0KCxkWDgYYEh89QgkEHiUCBAMDBQQFFRAHIS4nCw8XCRYaERENFx4sQikhIhkCBAUFBAYIBBQLHEYcAS9LTlZGOggRGyFteDo7OREEBAQFBggJGh4KQT0JLj8PJDYfLjoXG32dQwkwRBgCAwEBAwMDMSAYQhsOFxMRPF02JhoUeLJWHBIZOBcGAwQEBAQEaQ8qLwgPFUpKYUhla0Nis2dCIR4+QQ8IBgcHCAkKMTQjLwweUCVEf2p6ZS9qwBZAYSo5PA0GAwQFBwcGHi0eNRUMHVcxQHRbWhZHsE1EEDtNGg4EAQIDAwIEFDkJNxcJAgwcKkRgHQktkWIWLUYXGggSDQwLDAsJEy0fKh4UAQYJGSkPDQQPh3AhMg87GW59cW9rZ2NfCCQXDRUaEwUIDAYbER4ZbIgSQiw5bdCNjpGTlJaWSTMWDRAOEBMKCBkIDSkti4oMJzsorrpALyYeEwsERD4gFwoJCQwMCg4SGyNJkjAVER0abLetqKmopqWjCBUvIgoHCAoKDgcKGzBIWUMLDQkJKkRJTFJWXGBkBggjLA4CCAwFGyk0Lz0uTF8mEQIIMRoCAgEAAwQGCgYcMxwDBQwMLz84Q0VDZjsLHQgQMhMHBwcHCAkJBAQPJywSAgwQPTY0NjMvQjMdKRQfKAYHCAgJCQoKBwQPEhorCwEJDzk7OzUxQUgUECweTxsEBAYGBQUHCAgfHRYjMQoCCAMNN1IrFSkVKR4bQlwZBgMAAQMDDTFERhAkMTcaFQ0HGTlVMTJEFhIoB0ldNh4MBAQEWXgtYDIyJic2KCYkIB4xPFdEDBknAAk2TVA/IQsFVUJhNkYgOzAQKS1BQkVTYGMMIC4eBAEFFCc/RzEWBzhkMEE2EzE3ECZBUF9oZCIzCz4RAwEBAQMJGTA3DUaGVRRKDg0sQjkrMCstCEArMTUFAwEBBAkQDwETCkmxNUdgDA0JKE5VQ11uiUMdPSEIAwUKEQ0QCgULBVK2HIpIRRICCictQlt8VFc2LyEUEA8VEgkKDAkGBGGtQXxHjB8QESUPLzgsdTYmJBIOEg8NBggSDwYCAmyoNUGkOZIJHx0mSRBzVg0sJgoBBgkHBhMSBQQDBXmVMRiVfIhsGwwwHkltMgImLgsBAwQIDA0DAgEDEICTFN+7M0eOMkl6R1RbGxoxMwYCAgEFBg0OAgEB",
+          "top": "Bgoba4ZLAxwhJisnFAkuUmpPFQUFAwEDAgMDAwMEAjGAZQI6QkFHUkVAOy8dCTZrYBkFBQcICgwNDw8ROoNGJEQ+RkhPRC80OTY3JQMkYlsXBggHBgUDAgECeDspPkNXUVNNRjk7NictQi0ZJVVADxMUFhkbHB4eSyA7R2VYQDw9UWNXWUI7YWhHLyVFFgQGBgcKCQwNKzM/VFQkFxMcIDs7UFhaU1hTIykhMQ0HCQsNDxISLTk6RCgXDwkPDRceDzEoGSo5GhIOPBYCAwMFBgYHKDMkJSAaEQsJCRYhDgcSFh85KhYQJyMEBQQGBwcHFhgFGh8eDw0KCxkWDgYYEh89QgkEHiUCBAMDBQQFFRAHIS4nCw8XCRYaERENFx4sQikhIhkCBAUFBAYIBBQLHEYcAS9LTlZGOggRGyFteDo7OREEBAQFBggJGh4KQT0JLj8PJDYfLjoXG32dQwkwRBgCAwEBAwMDMSAYQhsOFxMRPF02JhoUeLJWHBIZOBcGAwQEBAQEaQ8qLwgPFUpKYUhla0Nis2dCIR4+QQ8IBgcHCAkKMTQjLwweUCVEf2p6ZS9qwBZAYSo5PA0GAwQFBwcG",
+          "middle": "MSAYQhsOFxMRPF02JhoUeLJWHBIZOBcGAwQEBAQEaQ8qLwgPFUpKYUhla0Nis2dCIR4+QQ8IBgcHCAkKMTQjLwweUCVEf2p6ZS9qwBZAYSo5PA0GAwQFBwcGHi0eNRUMHVcxQHRbWhZHsE1EEDtNGg4EAQIDAwIEFDkJNxcJAgwcKkRgHQktkWIWLUYXGggSDQwLDAsJEy0fKh4UAQYJGSkPDQQPh3AhMg87GW59cW9rZ2NfCCQXDRUaEwUIDAYbER4ZbIgSQiw5bdCNjpGTlJaWSTMWDRAOEBMKCBkIDSkti4oMJzsorrpALyYeEwsERD4gFwoJCQwMCg4SGyNJkjAVER0abLetqKmopqWjCBUvIgoHCAoKDgcKGzBIWUMLDQkJKkRJTFJWXGBkBggjLA4CCAwFGyk0Lz0uTF8mEQIIMRoCAgEAAwQGCgYcMxwDBQwMLz84Q0VDZjsLHQgQMhMHBwcHCAkJBAQPJywSAgwQPTY0NjMvQjMdKRQfKAYHCAgJCQoKBwQPEhorCwEJDzk7OzUxQUgUECweTxsEBAYGBQUHCAgfHRYjMQoCCAMNN1IrFSkVKR4bQlwZBgMAAQMD",
+          "bottom": "CgYcMxwDBQwMLz84Q0VDZjsLHQgQMhMHBwcHCAkJBAQPJywSAgwQPTY0NjMvQjMdKRQfKAYHCAgJCQoKBwQPEhorCwEJDzk7OzUxQUgUECweTxsEBAYGBQUHCAgfHRYjMQoCCAMNN1IrFSkVKR4bQlwZBgMAAQMDDTFERhAkMTcaFQ0HGTlVMTJEFhIoB0ldNh4MBAQEWXgtYDIyJic2KCYkIB4xPFdEDBknAAk2TVA/IQsFVUJhNkYgOzAQKS1BQkVTYGMMIC4eBAEFFCc/RzEWBzhkMEE2EzE3ECZBUF9oZCIzCz4RAwEBAQMJGTA3DUaGVRRKDg0sQjkrMCstCEArMTUFAwEBBAkQDwETCkmxNUdgDA0JKE5VQ11uiUMdPSEIAwUKEQ0QCgULBVK2HIpIRRICCictQlt8VFc2LyEUEA8VEgkKDAkGBGGtQXxHjB8QESUPLzgsdTYmJBIOEg8NBggSDwYCAmyoNUGkOZIJHx0mSRBzVg0sJgoBBgkHBhMSBQQDBXmVMRiVfIhsGwwwHkltMgImLgsBAwQIDA0DAgEDEICTFN+7M0eOMkl6R1RbGxoxMwYCAgEFBg0OAgEB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 9.032926,
+          "top": 10.190048,
+          "middle": 9.503612,
+          "bottom": 8.470871,
+          "effectiveRatio": 0.502833
+        }
+      },
+      "metadata": {
+        "title": "File:2015 -WinterMeetings- Kevin Cash (23586674746).jpg",
+        "size": 7097380,
+        "width": 5472,
+        "height": 3648,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2015_-WinterMeetings-_Kevin_Cash_%2823586674746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2015_-WinterMeetings-_Kevin_Cash_(23586674746).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45652276",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-12-15 19:11:46",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2015 -WinterMeetings- Kevin Cash (23586674746)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Kevin Cash|Files from Flickr with changed licenses|Flickr images reviewed by FlickreviewR|2015 Winter Meetings|Photographs by Arturo Pardavila III",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Rays manager Kevin Cash talks to reporters at the #Winter Meetings.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-12-07 15:46",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/apardavila/23586674746/\">2015 #WinterMeetings: Kevin Cash</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63704136@N00\">Arturo Pardavila III</a> from Hoboken, NJ, USA",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "strictPass": true,
+      "index": 5,
+      "subject": "케빈 캐시",
+      "sha256": "257896f004f641a2b4ab8bf3dc93d4e9b73fab928c8fd9463f247dd760ba2ff0",
+      "width": 5472,
+      "height": 3648,
+      "bytes": 7097380,
+      "scale": 0.37,
+      "imageCredit": "Arturo Pardavila III / CC BY 2.0",
+      "creditDisplay": "자료사진 · Arturo Pardavila III · CC BY 2.0 (2015-12-07)",
+      "photoDate": "2015-12-07",
+      "photoDateLabel": "2015-12-07",
+      "sceneGroup": "20151207-wintermeetings-cash-interview-closeup",
+      "sceneDescription": "2015년12월7일 윈터미팅에서 인터뷰하는 케빈 캐시 감독.",
+      "photoDateEvidence": "https://commons.wikimedia.org/wiki/File:2015_-WinterMeetings-_Kevin_Cash_(23586674746).jpg",
+      "checkedAt": "2026-10-20T10:07:07.923Z",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "strictPolicy": {
+        "passed": true,
+        "reasons": [],
+        "nativeCoverScale": 0.37
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "author": "Arturo Pardavila III",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2015_-WinterMeetings-_Kevin_Cash_(23586674746).jpg",
+        "photoDate": "2015-12-07",
+        "attributionRequired": true,
+        "shareAlikeRequired": false,
+        "adaptationNotice": "크롭·그라데이션·한국어 문안 추가."
+      }
+    }
+  ]
+}
