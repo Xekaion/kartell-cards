@@ -1,0 +1,30 @@
+{
+  "reason": "Original Wikimedia host returned HTTP 429; redistribution of the same approved CC BY-SA original bytes, without quality or identity changes.",
+  "checkedAt": "2026-10-20T09:53:50.438Z",
+  "originals": [
+    {
+      "index": 3,
+      "file": "original-3.jpg",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/20110928-0441_Junichi_Tazawa.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:20110928-0441_Junichi_Tazawa.jpg",
+      "sha256": "618e6ba8f3d9ccedf2e4ae03d417955ca9312469ccefe0e8b2dff7c405989cf3",
+      "author": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "photoDate": "2011-09-28",
+      "changes": "none; exact original bytes; no resizing or restoration"
+    },
+    {
+      "index": 4,
+      "file": "original-4.jpg",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Junichi_Tazawa%281%29_Sep_2012.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Junichi_Tazawa(1)_Sep_2012.jpg",
+      "sha256": "c398b89b6d1ea4164500ce3a7360b222e11cf006070072f0d8c26d14ed77be12",
+      "author": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "photoDate": "2012-09-29",
+      "changes": "none; exact original bytes; no resizing or restoration"
+    }
+  ]
+}
