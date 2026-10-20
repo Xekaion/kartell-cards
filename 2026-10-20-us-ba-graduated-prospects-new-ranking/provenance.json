@@ -1,0 +1,847 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "맥고니글 2위…BA의 빅리그 신예 평가",
+  "issueKey": "us-mlb-20261019-baseball-america-graduated-prospects-ranking-release",
+  "checkedAt": "2026-10-20T10:08:28.097Z",
+  "sourceUrl": "https://www.baseballamerica.com/stories/top-50-graduated-mlb-prospects-in-2026/",
+  "corroboratingUrls": [
+    "https://statsapi.mlb.com/api/v1/people/805808/stats?stats=season&group=hitting&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/802139/stats?stats=season&group=hitting&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/695600/stats?stats=season&group=hitting&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/701807/stats?stats=season&group=hitting&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/800050/stats?stats=season&group=hitting&season=2026"
+  ],
+  "rightsEvidence": "1장: D. Benjamin Miller; CC0; https://creativecommons.org/publicdomain/zero/1.0/; 비생성 세로 크롭·사진 위 문자와 그라데이션 추가; D. Benjamin Miller / CC0; 촬영 2026-05-13; 원문 https://commons.wikimedia.org/wiki/File:Kevin_McGonigle,_May_13,_2026_(001)_(cropped).jpg; 실제 원본 https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg/1280px-Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail\n2장: Johnmaxmena2; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/; 비생성 세로 크롭·사진 위 문자와 그라데이션 추가; Johnmaxmena2 / CC BY 4.0; 촬영 2026-03-31; 원문 https://commons.wikimedia.org/wiki/File:JJ_Wetherholt_March_31_2026_13356.png; 실제 원본 https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/JJ_Wetherholt_March_31_2026_13356.png/1280px-JJ_Wetherholt_March_31_2026_13356.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail\n3장: Minda Haas Kuhlmann; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/; 비생성 세로 크롭·사진 위 문자와 그라데이션 추가; Minda Haas Kuhlmann / CC BY 4.0; 촬영 2025; 원문 https://commons.wikimedia.org/wiki/File:Carter_Jensen_Omaha_Storm_Chasers_2025.jpg; 실제 원본 https://live.staticflickr.com/65535/54634218339_f666727190_o.jpg\n4장: Johnmaxmena2; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/; 비생성 세로 크롭·사진 위 문자와 그라데이션 추가; Johnmaxmena2 / CC BY 4.0; 촬영 2026-03-31; 원문 https://commons.wikimedia.org/wiki/File:Carson_Benge_March_31_2026.png; 실제 원본 https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Carson_Benge_March_31_2026.png/1280px-Carson_Benge_March_31_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail\n5장: Joel Dinda; CC BY 2.0; https://creativecommons.org/licenses/by/2.0/; 비생성 세로 크롭·사진 위 문자와 그라데이션 추가; Joel Dinda / CC BY 2.0; 촬영 2023-08-04; 원문 https://commons.wikimedia.org/wiki/File:Chase_DeLauter_(53094592714).jpg; 실제 원본 https://live.staticflickr.com/65535/53094592714_cb25a11194_o.jpg\n실제 전송은 공개 라이선스가 허용한 고정 Git 원본 미러를 사용한다. 모든 파일은 검수한 원본과 SHA가 동일하며 원문·원본 주소·저작자·라이선스·촬영일을 보존한다. 1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd\n4장 전달용 사진은 원본 치수를 유지한 표준 JPEG 변환본이다. 원PNG와 파생JPEG SHA·변환설정·개별 육안 대조 기록을 보존하며 AI·확대·샤프닝을 하지 않았다.",
+  "photos": [
+    {
+      "index": 1,
+      "name": "케빈 맥고니글",
+      "subject": "케빈 맥고니글",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd/source-photos/2026-10-20-us-ba-graduated-prospects-new-ranking-cc/source-1.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kevin_McGonigle,_May_13,_2026_(001)_(cropped).jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\us-graduated\\photos\\Kevin-McGonigle-1280.jpg",
+      "sha256": "d68def029afc2fa50353d315c0c6243b4392ac57c81e25806be516c346465149",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:35:46.249Z",
+        "width": 1280,
+        "height": 1921,
+        "bytes": 615276,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.7592025242846034,
+        "entropy": 7.675176428514533,
+        "effectiveDetailRatio": 0.608135,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg/1280px-Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "d68def029afc2fa50353d315c0c6243b4392ac57c81e25806be516c346465149",
+        "perceptualHash": "48859607c796d406",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DQcVHhcNJgMwBTUOLmT5cdUIHxIZKQg0aNlaOUKgDgUQBg4ZAigUEBYrAhScu49hHikZCSta9HGLbKNsFwgSFyQXHBIQCwUTIBEccVlbTDQvIB6bVlRnEUaBEhgIIx4XDQoQDhImKAsOE1I4aBJEBQdJhCGBl3+UDQkPBBMbFRUVCiA2IT84ODZyVblWISYvn1CaKRkRaAIFAyQiFBQOGRY9HF08GBGmvuqyMCUbRJ0pSjQb02sMAwoSFRkKEhYPVx8weY9p/0DGmRQmKh5NTDcokJEfGBohIhMgBBMuKEaCcIVQymjVViMwECY5IiMoeh8HFRAWGR4VGy00H3c0NmswsEWsMyg6DC0/MQpMEBUWHhMTGxwcBDshikpKJkAPmm3IMEkTITweLFlUIyMYCREaKh4qDVutaH8+TG5KXrY3oSIwIhgQU2wiDxgjEBgJFyIWLqNGCiKXkDUmbCBEVDUdJhkzJm57FhkwNisfOEdNWnlfK5K3Khl5PBsbXjwcOBMeKxIiOjYYExopOB8bERwuYXCQKWRRCzAtQT43KC81NDsIQykoLzIwTmphanUfOlxAPFNOVi51hJ5hamVaPTY4DA4OAwQGCQQGGVsZQyMJa592AQiakaaVp7doZEkTGgIZBQEHBQsLEkA0K0FqjGU7QW5SLlBWLYqMKSoyEAIRBQcKBQUHBTBGLDxILwdDHGIJl+vE2irIX0AmEwYVAwIRCwkEAUJeOy0aGh0WQk9C3JBl7T+9fhkGKDoZJCgbDQkGBFOBJAgSBhEcFk0nzoRA2lnEjQYSQUtYSjYiBgkECBxDRiFeOlBPRWIkxYIkwYG3igoHO0NgUUktGQoIFmyZRlZAMUxUJVk1w3oklZmYmgsMBxULFj5IGxYULqpyMk+EYGGfUXUCt5wOfbxsuR4OPERPTEUdCQgKY8AlHSFOZGtMDRI/sngXZaiBkSodICAbGA4FDQ0fzoQPDg8LDAwNDBBiqVVGU0tFUVFZAwMCDQkIDgV+vhcWCR1PXVI6GBcNl5ISIQIqAxITMzIxMTAzMTasWBgGHltmPjZVOhYcLrBKCAgEBggISktLQEZKSFd6JwsMQ1EpMDMsQy0YDnORSExNTk9QGhsaGx8bGj5MDQ0rPxAoJyAcEkI9JB5pNDExNDYzAwECAwICCkMvEx88HgAFBQMGEwc5OyE5LQIDAgUAAQIEAQUJKIJqNi0sCQQEAwICBA8SMTtQHAkEBQIEBwcDBQoXdZHVXSAQBQcIBgECAgMQRaOjNw8LBgYDCQcEBgkxZnlkgRkDAwQCBQUDBAkyjnJklCcMDQgGBAUBDiQ2FUSPHQwEBAMGCAoGBwoZYVVhTRcLDA0NBQQCA0cuED41CQECAgYEAwMCAQISTDZKWS4BAgEDAgEHFB5IJkYKBAMEAQcHBQUEBQQIaZNdnUcPDQ8RDhEaFi8DJhQPEAoTFBQXEAoMDwwUT6gJoUcZHhsWCQ4XGiUIEwgCAQYHBQkHDQULBgYKJ5eQlSELBAUM",
+          "top": "DQcVHhcNJgMwBTUOLmT5cdUIHxIZKQg0aNlaOUKgDgUQBg4ZAigUEBYrAhScu49hHikZCSta9HGLbKNsFwgSFyQXHBIQCwUTIBEccVlbTDQvIB6bVlRnEUaBEhgIIx4XDQoQDhImKAsOE1I4aBJEBQdJhCGBl3+UDQkPBBMbFRUVCiA2IT84ODZyVblWISYvn1CaKRkRaAIFAyQiFBQOGRY9HF08GBGmvuqyMCUbRJ0pSjQb02sMAwoSFRkKEhYPVx8weY9p/0DGmRQmKh5NTDcokJEfGBohIhMgBBMuKEaCcIVQymjVViMwECY5IiMoeh8HFRAWGR4VGy00H3c0NmswsEWsMyg6DC0/MQpMEBUWHhMTGxwcBDshikpKJkAPmm3IMEkTITweLFlUIyMYCREaKh4qDVutaH8+TG5KXrY3oSIwIhgQU2wiDxgjEBgJFyIWLqNGCiKXkDUmbCBEVDUdJhkzJm57FhkwNisfOEdNWnlfK5K3Khl5PBsbXjwcOBMeKxIiOjYYExopOB8bERwuYXCQKWRRCzAtQT43KC81NDsIQykoLzIwTmphanUfOlxAPFNOVi51hJ5hamVaPTY4",
+          "middle": "FhkwNisfOEdNWnlfK5K3Khl5PBsbXjwcOBMeKxIiOjYYExopOB8bERwuYXCQKWRRCzAtQT43KC81NDsIQykoLzIwTmphanUfOlxAPFNOVi51hJ5hamVaPTY4DA4OAwQGCQQGGVsZQyMJa592AQiakaaVp7doZEkTGgIZBQEHBQsLEkA0K0FqjGU7QW5SLlBWLYqMKSoyEAIRBQcKBQUHBTBGLDxILwdDHGIJl+vE2irIX0AmEwYVAwIRCwkEAUJeOy0aGh0WQk9C3JBl7T+9fhkGKDoZJCgbDQkGBFOBJAgSBhEcFk0nzoRA2lnEjQYSQUtYSjYiBgkECBxDRiFeOlBPRWIkxYIkwYG3igoHO0NgUUktGQoIFmyZRlZAMUxUJVk1w3oklZmYmgsMBxULFj5IGxYULqpyMk+EYGGfUXUCt5wOfbxsuR4OPERPTEUdCQgKY8AlHSFOZGtMDRI/sngXZaiBkSodICAbGA4FDQ0fzoQPDg8LDAwNDBBiqVVGU0tFUVFZAwMCDQkIDgV+vhcWCR1PXVI6GBcNl5ISIQIqAxITMzIxMTAzMTasWBgGHltmPjZVOhYcLrBKCAgEBggI",
+          "bottom": "PERPTEUdCQgKY8AlHSFOZGtMDRI/sngXZaiBkSodICAbGA4FDQ0fzoQPDg8LDAwNDBBiqVVGU0tFUVFZAwMCDQkIDgV+vhcWCR1PXVI6GBcNl5ISIQIqAxITMzIxMTAzMTasWBgGHltmPjZVOhYcLrBKCAgEBggISktLQEZKSFd6JwsMQ1EpMDMsQy0YDnORSExNTk9QGhsaGx8bGj5MDQ0rPxAoJyAcEkI9JB5pNDExNDYzAwECAwICCkMvEx88HgAFBQMGEwc5OyE5LQIDAgUAAQIEAQUJKIJqNi0sCQQEAwICBA8SMTtQHAkEBQIEBwcDBQoXdZHVXSAQBQcIBgECAgMQRaOjNw8LBgYDCQcEBgkxZnlkgRkDAwQCBQUDBAkyjnJklCcMDQgGBAUBDiQ2FUSPHQwEBAMGCAoGBwoZYVVhTRcLDA0NBQQCA0cuED41CQECAgYEAwMCAQISTDZKWS4BAgEDAgEHFB5IJkYKBAMEAQcHBQUEBQQIaZNdnUcPDQ8RDhEaFi8DJhQPEAoTFBQXEAoMDwwUT6gJoUcZHhsWCQ4XGiUIEwgCAQYHBQkHDQULBgYKJ5eQlSELBAUM"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 30.948917,
+          "top": 32.228045,
+          "middle": 29.868613,
+          "bottom": 30.455388,
+          "effectiveRatio": 0.608135
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1280,
+        "rawHeight": 1921
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumBytes": 20971520,
+        "maximumPixels": 40000000,
+        "maximumCoverScale": 1.05,
+        "coverScale": 0.84375,
+        "passed": true
+      },
+      "photoDate": "2026-05-13",
+      "photoDateLabel": "2026.05.13 자료사진",
+      "imageCredit": "D. Benjamin Miller / CC0",
+      "creditDisplay": "사진 · D. Benjamin Miller / CC0 (2026.05.13 자료사진)",
+      "sceneGroup": "20260513-citifield-detroit-mcgonigle-batter",
+      "sceneDescription": "뉴욕 메츠전에서 디트로이트 유니폼을 입은 맥고니글이 타석에서 배트를 든 전신 장면이다.",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "checkedAt": "2026-10-20T10:01:39.085Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kevin_McGonigle,_May_13,_2026_(001)_(cropped).jpg",
+        "author": "D. Benjamin Miller",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "commonsExtmetadata": {
+          "DateTime": {
+            "value": "2026-05-16 17:55:05",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kevin McGonigle, May 13, 2026 (001) (cropped)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Self-published work|Extracted images|Photographs by D. Benjamin Miller|Taken with Canon EOS R5 Mark II and Canon RF 100-500mm F4.5-7.1L IS USM|New York Mets vs. Detroit Tigers (May 13, 2026)|Kevin McGonigle",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kevin McGonigle",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-05-13 19:17:55",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi>D. Benjamin Miller</bdi>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "changes": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "shareAlikeRequired": false,
+        "adaptationNotice": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "publicDeclarationEvidence": "https://commons.wikimedia.org/wiki/File:Kevin_McGonigle,_May_13,_2026_(001)_(cropped).jpg",
+        "verifiedAt": "2026-10-20T10:02:07.872Z"
+      },
+      "context": {
+        "originalContext": "뉴욕 메츠전에서 디트로이트 유니폼을 입은 맥고니글이 타석에서 배트를 든 전신 장면이다.",
+        "currentStoryUse": "신규 10월19일 BA 평가 발표에 등장한 선수의 실제 자료사진. 발표 당일 촬영 사진으로 표시하지 않음"
+      },
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg/1280px-Kevin_McGonigle%2C_May_13%2C_2026_%28001%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "mirrorEvidence": {
+        "commit": "1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd",
+        "unchangedOriginalBytes": true,
+        "sha256": "d68def029afc2fa50353d315c0c6243b4392ac57c81e25806be516c346465149"
+      }
+    },
+    {
+      "index": 2,
+      "name": "JJ 웨더홀트",
+      "subject": "JJ 웨더홀트",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd/source-photos/2026-10-20-us-ba-graduated-prospects-new-ranking-cc/source-2.png",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JJ_Wetherholt_March_31_2026_13356.png",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\us-graduated\\photos\\JJ-Wetherholt-1280.png",
+      "sha256": "c5ba12cd7b81d5631da2fd96e0c945c7fe35f6a1550885702963f2f46b96fc7e",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:35:47.252Z",
+        "width": 1280,
+        "height": 1323,
+        "bytes": 2893069,
+        "format": "png",
+        "mimeType": "image/png",
+        "effectiveSharpness": 2.1746937717405537,
+        "entropy": 7.2722752963600215,
+        "effectiveDetailRatio": 0.592955,
+        "kind": "source",
+        "coverScale": 1.02,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/JJ_Wetherholt_March_31_2026_13356.png/1280px-JJ_Wetherholt_March_31_2026_13356.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "c5ba12cd7b81d5631da2fd96e0c945c7fe35f6a1550885702963f2f46b96fc7e",
+        "perceptualHash": "390f3f9a9b0b4d6b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BBiJfAdRdi1JWm4kEQ8GAQACAgIGAwYCAwMDAwABAgYqmVt+PxxyYxglEAQEAQECAQMHAQcBBAEBAQIEAQEFL3s3KjI7V30QBgQGBQIDAgMIAQcAAwIBAwEEAQECCCczR1RqO3NVBgQEBAYGBAQHAwYBAgIBAwEBAgMBAxZHNh0JIkepYExGJQsEBwQIAAYCAgIBAQMBBAEBBQ09Si89NFuwqqO6uZNcQRAJAggABAEBAwECBAUHCHXWb1IZUpE8LDxKhbnO03caBAgDBAICAQICHhwXe+dajmchQKMqIxw+QiI0huWIQBAcGRUWFBQTKDJ58FcYSqZrsWwrHRUnQ0RZTlNyZ3YzJC4sLy8sHFP0hwwSIT1fSRllPyQrED10f6hHMCuWgSYTHhILWJC9NCEvLyURE1BLmkI2VHJPU0MLI0skYIVmY2RrQ2RvGjA6YCMnEkeQE18tVAohGDIsLRkXLBgiGjNABUxVCz16WW4kSFEcPAUyKiMbHRoZGyknJRADEi8+A1RiGHGKNW5wY1dFLkIuEwkEBAQFBAMDDhwVODMdA01yKHxuFkwxHyseQx5BBw8GBwYEBwYHCBIsHxwNAyma1nt2QB9uVllqFpFiUBAEBAQDAgECAgkkIhQgBECXn7YzRk0lHCpZepoyXQoEBAIDBAQEAwEYNh83BUNgLKtJbTEDNSI/d0JWZQkBAgEBAgMEBAMKGzQkCDx3Ar2gUVcqKxkZQClXchUCBAECAAQGBgYDEA8MCRR4YnPjUEZEESdJMA1feBgEBgYGBwkKCQgIBwgGCQcuq4yjgUwbPjwoERNQdR0MDQwLCwgFBAIBAwICCAsqY7E1VEhGKBkWDRJIch0FBgUHCQoNDgwMCQgJBgU4YR5qJzYmYUoNARVCfigECQcHCQoIBwkHCAgIBgVBPCMdVSo2NWIPBRY5fiwQEREQDw4ODAkKCwoJCBJQKRocJUJJOmgXCRYwbyQGCQoLDQ4QERAQERMUBxteHigZCWExNXEwDBIzdisTEBESERAREA4MCgkIDR5ZITEJJlMYOGwvAw5LeyQCBAIEAwMGCAgJCAoNAh5aJSoUNTQRL2IsCgtVYBoVFhUUFhUUFBQUFRISEDRiHzImPyMKHVhDKRRGUgwICAMCAwQEBAEGBgcKGUYydl80OxgKJT9DZlpfYxgTExUVFhQWFRYYGBUVHys5hVEaGQ4FMSBPUmFZJAQEBgQAAwQFBgQHCAkJJCJtUUcVCQcFFi5IKS8bDw0MDBATDg4SFBISEg8RHBdyFmIZDg4LDC4jZ1QpBwUGAwMCAwEDBgYFBAYKHwZNOyQaBwsKDA0+XURQEA0NDg4NCQsKDA4ODAcfHiZJKSAODAkJCRUjdQxlGwQHBQQDAQABBwUEBwcqK0xGGgYRBAUCAggPWjRZKAUEBwQCBAEBAgYEAhVGcEtlQh4UExMPExUaPXBSEg4ODgkJAwQEBQcHCTljZEFORjEXEQ4ICA4SI00nDggIBAQGAQIBBAUDFlFa",
+          "top": "BBiJfAdRdi1JWm4kEQ8GAQACAgIGAwYCAwMDAwABAgYqmVt+PxxyYxglEAQEAQECAQMHAQcBBAEBAQIEAQEFL3s3KjI7V30QBgQGBQIDAgMIAQcAAwIBAwEEAQECCCczR1RqO3NVBgQEBAYGBAQHAwYBAgIBAwEBAgMBAxZHNh0JIkepYExGJQsEBwQIAAYCAgIBAQMBBAEBBQ09Si89NFuwqqO6uZNcQRAJAggABAEBAwECBAUHCHXWb1IZUpE8LDxKhbnO03caBAgDBAICAQICHhwXe+dajmchQKMqIxw+QiI0huWIQBAcGRUWFBQTKDJ58FcYSqZrsWwrHRUnQ0RZTlNyZ3YzJC4sLy8sHFP0hwwSIT1fSRllPyQrED10f6hHMCuWgSYTHhILWJC9NCEvLyURE1BLmkI2VHJPU0MLI0skYIVmY2RrQ2RvGjA6YCMnEkeQE18tVAohGDIsLRkXLBgiGjNABUxVCz16WW4kSFEcPAUyKiMbHRoZGyknJRADEi8+A1RiGHGKNW5wY1dFLkIuEwkEBAQFBAMDDhwVODMdA01yKHxuFkwxHyseQx5BBw8GBwYEBwYHCBIsHxwN",
+          "middle": "BUxVCz16WW4kSFEcPAUyKiMbHRoZGyknJRADEi8+A1RiGHGKNW5wY1dFLkIuEwkEBAQFBAMDDhwVODMdA01yKHxuFkwxHyseQx5BBw8GBwYEBwYHCBIsHxwNAyma1nt2QB9uVllqFpFiUBAEBAQDAgECAgkkIhQgBECXn7YzRk0lHCpZepoyXQoEBAIDBAQEAwEYNh83BUNgLKtJbTEDNSI/d0JWZQkBAgEBAgMEBAMKGzQkCDx3Ar2gUVcqKxkZQClXchUCBAECAAQGBgYDEA8MCRR4YnPjUEZEESdJMA1feBgEBgYGBwkKCQgIBwgGCQcuq4yjgUwbPjwoERNQdR0MDQwLCwgFBAIBAwICCAsqY7E1VEhGKBkWDRJIch0FBgUHCQoNDgwMCQgJBgU4YR5qJzYmYUoNARVCfigECQcHCQoIBwkHCAgIBgVBPCMdVSo2NWIPBRY5fiwQEREQDw4ODAkKCwoJCBJQKRocJUJJOmgXCRYwbyQGCQoLDQ4QERAQERMUBxteHigZCWExNXEwDBIzdisTEBESERAREA4MCgkIDR5ZITEJJlMYOGwvAw5LeyQCBAIEAwMGCAgJCAoN",
+          "bottom": "BgVBPCMdVSo2NWIPBRY5fiwQEREQDw4ODAkKCwoJCBJQKRocJUJJOmgXCRYwbyQGCQoLDQ4QERAQERMUBxteHigZCWExNXEwDBIzdisTEBESERAREA4MCgkIDR5ZITEJJlMYOGwvAw5LeyQCBAIEAwMGCAgJCAoNAh5aJSoUNTQRL2IsCgtVYBoVFhUUFhUUFBQUFRISEDRiHzImPyMKHVhDKRRGUgwICAMCAwQEBAEGBgcKGUYydl80OxgKJT9DZlpfYxgTExUVFhQWFRYYGBUVHys5hVEaGQ4FMSBPUmFZJAQEBgQAAwQFBgQHCAkJJCJtUUcVCQcFFi5IKS8bDw0MDBATDg4SFBISEg8RHBdyFmIZDg4LDC4jZ1QpBwUGAwMCAwEDBgYFBAYKHwZNOyQaBwsKDA0+XURQEA0NDg4NCQsKDA4ODAcfHiZJKSAODAkJCRUjdQxlGwQHBQQDAQABBwUEBwcqK0xGGgYRBAUCAggPWjRZKAUEBwQCBAEBAgYEAhVGcEtlQh4UExMPExUaPXBSEg4ODgkJAwQEBQcHCTljZEFORjEXEQ4ICA4SI00nDggIBAQGAQIBBAUDFlFa"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 18.350171,
+          "top": 20.575345,
+          "middle": 19.75413,
+          "bottom": 16.289767,
+          "effectiveRatio": 0.592955
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1280,
+        "rawHeight": 1323
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumBytes": 20971520,
+        "maximumPixels": 40000000,
+        "maximumCoverScale": 1.05,
+        "coverScale": 1.0204081632653061,
+        "passed": true
+      },
+      "photoDate": "2026-03-31",
+      "photoDateLabel": "2026.03.31 자료사진",
+      "imageCredit": "Johnmaxmena2 / CC BY 4.0",
+      "creditDisplay": "사진 · Johnmaxmena2 / CC BY 4.0 (2026.03.31 자료사진)",
+      "sceneGroup": "20260331-busch-cardinals-wetherholt-fielding",
+      "sceneDescription": "세인트루이스 유니폼의 웨더홀트가 글러브를 뻗고 내야에서 움직이는 수비 장면이다.",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "checkedAt": "2026-10-20T10:01:39.085Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:JJ_Wetherholt_March_31_2026_13356.png",
+        "author": "Johnmaxmena2",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "commonsExtmetadata": {
+          "DateTime": {
+            "value": "2026-04-06 18:18:16",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "JJ Wetherholt March 31 2026 13356",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Tan baseball gloves|Baseball players from the United States in 2026|Young men of the United States in 2026|People with Wilson baseball gloves|St. Louis Cardinals vs New York Mets (March 31, 2026)|JJ Wetherholt|St. Louis Cardinals players during the 2026 season",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "JJ Wetherholt of the 2026 Cardinals",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-03-31",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johnmaxmena2\" title=\"User:Johnmaxmena2\">Johnmaxmena2</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "changes": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "shareAlikeRequired": false,
+        "adaptationNotice": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "publicDeclarationEvidence": "https://commons.wikimedia.org/wiki/File:JJ_Wetherholt_March_31_2026_13356.png",
+        "verifiedAt": "2026-10-20T10:02:07.873Z"
+      },
+      "context": {
+        "originalContext": "세인트루이스 유니폼의 웨더홀트가 글러브를 뻗고 내야에서 움직이는 수비 장면이다.",
+        "currentStoryUse": "신규 10월19일 BA 평가 발표에 등장한 선수의 실제 자료사진. 발표 당일 촬영 사진으로 표시하지 않음"
+      },
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/JJ_Wetherholt_March_31_2026_13356.png/1280px-JJ_Wetherholt_March_31_2026_13356.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "mirrorEvidence": {
+        "commit": "1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd",
+        "unchangedOriginalBytes": true,
+        "sha256": "c5ba12cd7b81d5631da2fd96e0c945c7fe35f6a1550885702963f2f46b96fc7e"
+      }
+    },
+    {
+      "index": 3,
+      "name": "카터 젠슨",
+      "subject": "카터 젠슨",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd/source-photos/2026-10-20-us-ba-graduated-prospects-new-ranking-cc/source-3.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carter_Jensen_Omaha_Storm_Chasers_2025.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\us-graduated\\photos\\Carter-Jensen.jpg",
+      "sha256": "4492eb099062cb17d28a1fffcc8353fd7a67d88f9305ebd10e47f4f05c45648e",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:35:47.895Z",
+        "width": 2880,
+        "height": 1920,
+        "bytes": 394689,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.1119953657579138,
+        "entropy": 7.410382056648814,
+        "effectiveDetailRatio": 0.527943,
+        "kind": "source",
+        "coverScale": 0.703,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/65535/54634218339_f666727190_o.jpg",
+        "sha256": "4492eb099062cb17d28a1fffcc8353fd7a67d88f9305ebd10e47f4f05c45648e",
+        "perceptualHash": "a4b3cecc6c4f4e6c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "j1YeNDlCSUkeEThPjZJmH0tMGRUVZm8VLhE6LxsgYp9aBR4JFikiGxgfDzczLQphaVJFUU4zIkYTPCIQJnZkPiUySGUgHBsPNVYrL0UnKD08CmAoE0I1JB8RemoOIhckNThTMBINDkl7bR4UGj01Iig6OjkoDx0KSyshEQIiPSx/OzM+NBoOVT0nGEU2LC8tGBgiDCUXJxkOGRUjNl0poEgaUm5eNEEQHTQuFCU1Mz5DMUopLRccFQ0GCUZTS2dJYiMtUSNBQCBHKhAlGRcrLiE7JicHCwYHF0BMKTUQHVFMIF4aTiU2S1IzERYSFSk+JiYSDCQeEG1wSV8bVEpBTAo4Fy0SHU9UIRARE0VcKwUEJB4pRmtKQ2ZTIVJnKUA2GggcLx8uMw0rMkVyFAoGHgdCJEA5MmRCXVg+HEJnb24pHg4oJThIMTJiHhYFFwcmNU8iHztJSjwjKDYuJoqLEBwFKkAxIzJFChIWIRc8YSUTEwssTjIkJToVHSZzQg0jHCEcIjonCQksMRxYTBoQFR1HLkI/OEAfNkJZUToIHyYyEjUjKRosVQ9aQigKFCVJMhpFJBkDFUp2cQw+Lik7AicxJQwXTTJURCNIUVFIHUMWHxUVM0ZJeT0xCD08CgkbGis0MRFrQn9lcEClPBZAICVJRTsSPWMwJyYsFSUlPDghFx6ERa6LE0w9gU87Lkg0IBsUFXhBIw4rIyolLBEkIhJplD+SLD4qDzMnIRYNBigpRllKJA8aGgYqQCkDLTsvfl1ZGjkaL0YaFgsKEUJBOSovQxoNCRMTG0AgFDNgC0YTHy0cKgQcCwoJFVguNiwoKzc3FScmhAgwPEcHMA4NIwcbJCoRERoBDEAYLR8OPjUvKQw6Wi0zIy5jJBUfGhILDSgsFw0jD0AjNhY6IhwdLjgJMwcRKFEhLicmERoeQh4fDSIQL0w3JAtXHxIiNCVbQA0SJhceFxQ5LwUuH22FTmJwMUMiQXiSVygTIFVVMgwEBQoTKRVlRHpTOY0NOFA/QygfXb2Kpx0nMi0aCxIJGicUFTB4ZGdsOa/JpY2za3EmHHfWJjMkNDo9Ch4cIBILCTB4axobFkJde7OQTbJGDjoohVUQJzo0CAIJDQoDBSd/axwNFwQWHRoNQrJsCSNtipBvEgkJDQ8WGgYFBDCAYyMLCyESFj0nAZiZERFycyWbRQgBKzQTFwkDAzl3VyQXGgclMQQ0JHDNNzBZWVNQZCECXFlKIgcCAyV5ZyENEikiRiEPHDLHbhMuVHZHPkkGMUBnMgQBAhBigjIIDA5CT01CLBadnAkWGC1GKiQlGlxWHgUCAgFEjkQJCQY5MDwlEiBwrRsiEScfFi8TF1tJFgQDAQEpiF4KCwcoGy4cCw5KrTYvER4WMRoMR2I1FAIEAQMUe3MTEQ0iIiMhEg5Hok4lLRwzHxUBXTceFgEEAQEIXXsiFRczRUMiDw46nFwGICgZCwgFNRkVGQIEAQIDRn0pBRhTTnU5DRIulmICBgcBCAUC",
+          "top": "j1YeNDlCSUkeEThPjZJmH0tMGRUVZm8VLhE6LxsgYp9aBR4JFikiGxgfDzczLQphaVJFUU4zIkYTPCIQJnZkPiUySGUgHBsPNVYrL0UnKD08CmAoE0I1JB8RemoOIhckNThTMBINDkl7bR4UGj01Iig6OjkoDx0KSyshEQIiPSx/OzM+NBoOVT0nGEU2LC8tGBgiDCUXJxkOGRUjNl0poEgaUm5eNEEQHTQuFCU1Mz5DMUopLRccFQ0GCUZTS2dJYiMtUSNBQCBHKhAlGRcrLiE7JicHCwYHF0BMKTUQHVFMIF4aTiU2S1IzERYSFSk+JiYSDCQeEG1wSV8bVEpBTAo4Fy0SHU9UIRARE0VcKwUEJB4pRmtKQ2ZTIVJnKUA2GggcLx8uMw0rMkVyFAoGHgdCJEA5MmRCXVg+HEJnb24pHg4oJThIMTJiHhYFFwcmNU8iHztJSjwjKDYuJoqLEBwFKkAxIzJFChIWIRc8YSUTEwssTjIkJToVHSZzQg0jHCEcIjonCQksMRxYTBoQFR1HLkI/OEAfNkJZUToIHyYyEjUjKRosVQ9aQigKFCVJMhpFJBkDFUp2cQw+Lik7Aicx",
+          "middle": "ChIWIRc8YSUTEwssTjIkJToVHSZzQg0jHCEcIjonCQksMRxYTBoQFR1HLkI/OEAfNkJZUToIHyYyEjUjKRosVQ9aQigKFCVJMhpFJBkDFUp2cQw+Lik7AicxJQwXTTJURCNIUVFIHUMWHxUVM0ZJeT0xCD08CgkbGis0MRFrQn9lcEClPBZAICVJRTsSPWMwJyYsFSUlPDghFx6ERa6LE0w9gU87Lkg0IBsUFXhBIw4rIyolLBEkIhJplD+SLD4qDzMnIRYNBigpRllKJA8aGgYqQCkDLTsvfl1ZGjkaL0YaFgsKEUJBOSovQxoNCRMTG0AgFDNgC0YTHy0cKgQcCwoJFVguNiwoKzc3FScmhAgwPEcHMA4NIwcbJCoRERoBDEAYLR8OPjUvKQw6Wi0zIy5jJBUfGhILDSgsFw0jD0AjNhY6IhwdLjgJMwcRKFEhLicmERoeQh4fDSIQL0w3JAtXHxIiNCVbQA0SJhceFxQ5LwUuH22FTmJwMUMiQXiSVygTIFVVMgwEBQoTKRVlRHpTOY0NOFA/QygfXb2Kpx0nMi0aCxIJGicUFTB4ZGdsOa/JpY2za3EmHHfWJjMkNDo9",
+          "bottom": "MwcRKFEhLicmERoeQh4fDSIQL0w3JAtXHxIiNCVbQA0SJhceFxQ5LwUuH22FTmJwMUMiQXiSVygTIFVVMgwEBQoTKRVlRHpTOY0NOFA/QygfXb2Kpx0nMi0aCxIJGicUFTB4ZGdsOa/JpY2za3EmHHfWJjMkNDo9Ch4cIBILCTB4axobFkJde7OQTbJGDjoohVUQJzo0CAIJDQoDBSd/axwNFwQWHRoNQrJsCSNtipBvEgkJDQ8WGgYFBDCAYyMLCyESFj0nAZiZERFycyWbRQgBKzQTFwkDAzl3VyQXGgclMQQ0JHDNNzBZWVNQZCECXFlKIgcCAyV5ZyENEikiRiEPHDLHbhMuVHZHPkkGMUBnMgQBAhBigjIIDA5CT01CLBadnAkWGC1GKiQlGlxWHgUCAgFEjkQJCQY5MDwlEiBwrRsiEScfFi8TF1tJFgQDAQEpiF4KCwcoGy4cCw5KrTYvER4WMRoMR2I1FAIEAQMUe3MTEQ0iIiMhEg5Hok4lLRwzHxUBXTceFgEEAQEIXXsiFRczRUMiDw46nFwGICgZCwgFNRkVGQIEAQIDRn0pBRhTTnU5DRIulmICBgcBCAUC"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.484486,
+          "top": 23.201034,
+          "middle": 24.086727,
+          "bottom": 19.624629,
+          "effectiveRatio": 0.527943
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 2880,
+        "rawHeight": 1920
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumBytes": 20971520,
+        "maximumPixels": 40000000,
+        "maximumCoverScale": 1.05,
+        "coverScale": 0.703125,
+        "passed": true
+      },
+      "photoDate": "2025",
+      "photoDateLabel": "2025년 자료사진",
+      "imageCredit": "Minda Haas Kuhlmann / CC BY 4.0",
+      "creditDisplay": "사진 · Minda Haas Kuhlmann / CC BY 4.0 (2025년 자료사진)",
+      "sceneGroup": "202507-omaha-jensen-catching-mask",
+      "sceneDescription": "오마하 유니폼의 젠슨이 포수 마스크를 올린 채 미트를 들고 있는 장면이다. Commons 날짜가 7월5일이고 분류는 7월4일로 달라 독자용 표시는 확인된 2025년으로 제한한다.",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "checkedAt": "2026-10-20T10:01:39.085Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carter_Jensen_Omaha_Storm_Chasers_2025.jpg",
+        "author": "Minda Haas Kuhlmann",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "commonsExtmetadata": {
+          "DateTime": {
+            "value": "2025-08-24 14:40:58",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Carter Jensen Omaha Storm Chasers 2025",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Werner Park|Images with extracted images|Flickr images missing SDC creator|Flickr images reviewed by FlickreviewR 2|Photographs by Minda Haas Kuhlmann|United States photographs taken on 2025-07-04|July 2025 in Nebraska|Creative Commons Attribution 4.0 with different SDC copyright license|2025 Omaha Storm Chasers season|Carter Jensen|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Jensen with the Omaha Storm Chasers in 2025",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-07-05",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/mindahaas/54634218339/in/album-72177720327332987\">https://www.flickr.com/photos/mindahaas/54634218339/in/album-72177720327332987</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Minda Haas Kuhlmann",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "changes": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "shareAlikeRequired": false,
+        "adaptationNotice": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "publicDeclarationEvidence": "https://commons.wikimedia.org/wiki/File:Carter_Jensen_Omaha_Storm_Chasers_2025.jpg",
+        "verifiedAt": "2026-10-20T10:02:07.873Z"
+      },
+      "context": {
+        "originalContext": "오마하 유니폼의 젠슨이 포수 마스크를 올린 채 미트를 들고 있는 장면이다. Commons 날짜가 7월5일이고 분류는 7월4일로 달라 독자용 표시는 확인된 2025년으로 제한한다.",
+        "currentStoryUse": "신규 10월19일 BA 평가 발표에 등장한 선수의 실제 자료사진. 발표 당일 촬영 사진으로 표시하지 않음"
+      },
+      "originalSourceUrl": "https://live.staticflickr.com/65535/54634218339_f666727190_o.jpg",
+      "mirrorEvidence": {
+        "commit": "1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd",
+        "unchangedOriginalBytes": true,
+        "sha256": "4492eb099062cb17d28a1fffcc8353fd7a67d88f9305ebd10e47f4f05c45648e"
+      }
+    },
+    {
+      "index": 4,
+      "name": "카슨 벤지",
+      "subject": "카슨 벤지",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/f4b76fdffd4b81eb297ef97c5a0771b56146b5d4/source-photos/2026-10-20-us-ba-graduated-prospects-new-ranking-cc/source-4-delivery.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carson_Benge_March_31_2026.png",
+      "localPath": "C:/repos/kartell-studio-main/kartell-studio-main/logs/codex-2026-10-20-channel-catchup/prospects/us-graduated/photos/source-format-delivery.jpg",
+      "sha256": "a477f414e4cc980e0f2c29b2bdd26175a5796920aff551d6835792ff842cc49b",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T10:05:37.610Z",
+        "width": 1280,
+        "height": 2053,
+        "bytes": 1899210,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3392840395371435,
+        "entropy": 7.394872975715771,
+        "effectiveDetailRatio": 0.592111,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "a477f414e4cc980e0f2c29b2bdd26175a5796920aff551d6835792ff842cc49b",
+        "perceptualHash": "33f96d7359942626",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "KjsRkZphXGd+QggECwsOEA0IDx4NHmcoCRcEGQ8EChmFkWWRoJ1XFikkFgkLBgYCCBAVC09HGQMREQcICgRFtqdVC0dUTzccGhsYGA0PIiENBUFkGRAQDQ0SBAUCRouzs0UeDjRKTDUkGhQaJSAeDTdfKw4LCBY8BAQGCQoqenxCKyQUDwsRHCMSPTUSEjU/LA0EDhJFAgYQBAsJG2hURj43UHuWkYVzJRgMCy5FMxEOBh0kCBEEBggHGktiTXF5iXtdSUt6WVQxF0VXKA8JGSQKDgIHBAIZBFUqS0xOOQ4dJR1BLCg6DFw/DQQIEyEdBAgEAxMCR0MrNw4VHxIaGhcgUDVUGU1AFAMNEAwgCAQEDwcOLT4dOQkVBwUEBxlcPYxFLFtaDg8RBAoFBAQHCgoLLSMYQBMGCggGEkwvHWskSGVLCBEMCgcQBgQIChERKFAjQUAkIx0aIh1IHXZ2OIc+EwsLEA46BAwIEyQXBkdGOSo2LTVEMh0iDkakUos4EQcMCy9TCQkQIiMjGRQWPEM8QEE1MjAbCwNkk1AQBggDI09HHRMeLQomFEE7QUNCNSowPyobBBgtVx4QBAgYSUwaOjsSGCQUJCosOlYcERY6Pi4aDS4oQjQfIyQ9UCETGjZDLwkZOCoRK2aeIyMxOzEbLD0xL5JOETNMKA8tDQtWZTk6RT8tPjV5ah4sMSw2PDIoHDuYbDkZER8vFTxKSkxDUEJGQzgjlDQfKTg4bXqOjn9jckA7Fxw1OTIuLTJLVCZSaz8ZUXITOhthRTZHZ3ZrKStHMBZAQSA2LjJLKwsubmUtGlEqC0UTGg8LBw0NJjU0OCEtMkgaLkssBwYkZmQpMi0eJg8VDQcFBgoSGTAiKwwsBksxJzM6MhYrYlMrIhcbGQoDBwYGBAsMDhYkCB8wJCM/Gg8kNzIoRjQvJhsFHiAQERAPEwYGDQ4IDBg5GBYfPB8dIhsNLx0EFAsmOA8NEBEREyUQBgwNBwYoGxghFhUdMAwYQEM0GSJCEAUGCwULEBM2HwcQBhMZGRweFhAiEDA0T0cmRFwbDgUECw0HBhEZPy0PERELFRwZDwInEUUsMTMndUUVEgcEAgwNCgwZIDQoFQsIFhAVDAQbIh40QE49cBwWHBEFBQUHCxUZKCEnGw8OCQoECQMQHBMGHjs0TQgWERADBgQTABwkCS8cHxAQBQQDAQIBBAYHBBgpMg4VFRAECQ4NFQsdEiogHxMUBAMDAgIDAgIBDhYvIQkSHh4VMzMzCSQQBiYzHyINAQIDAgECAQIDGAgwHQQcQhoVUltJFSw3Hgo5JiYYAQEAAgEBAQEHGgoyGQgsMRY5URdYGRQ5LQ4bJhkxAgEBAQEBAQEOGiQsBwYcMRdOPxFIZRssJAgTIxgPAwICAQABAwEbBTIZFAweIGaoIy0LloYQFAcHGCcMAgIBAQIDAQUQJSkSFgUlcaMumE+fVJd/HwwPES4zAgEBAQEDAgYCHhgOCwJBiB2MFk0OayKFUB8SFzM0",
+          "top": "KjsRkZphXGd+QggECwsOEA0IDx4NHmcoCRcEGQ8EChmFkWWRoJ1XFikkFgkLBgYCCBAVC09HGQMREQcICgRFtqdVC0dUTzccGhsYGA0PIiENBUFkGRAQDQ0SBAUCRouzs0UeDjRKTDUkGhQaJSAeDTdfKw4LCBY8BAQGCQoqenxCKyQUDwsRHCMSPTUSEjU/LA0EDhJFAgYQBAsJG2hURj43UHuWkYVzJRgMCy5FMxEOBh0kCBEEBggHGktiTXF5iXtdSUt6WVQxF0VXKA8JGSQKDgIHBAIZBFUqS0xOOQ4dJR1BLCg6DFw/DQQIEyEdBAgEAxMCR0MrNw4VHxIaGhcgUDVUGU1AFAMNEAwgCAQEDwcOLT4dOQkVBwUEBxlcPYxFLFtaDg8RBAoFBAQHCgoLLSMYQBMGCggGEkwvHWskSGVLCBEMCgcQBgQIChERKFAjQUAkIx0aIh1IHXZ2OIc+EwsLEA46BAwIEyQXBkdGOSo2LTVEMh0iDkakUos4EQcMCy9TCQkQIiMjGRQWPEM8QEE1MjAbCwNkk1AQBggDI09HHRMeLQomFEE7QUNCNSowPyobBBgtVx4QBAgYSUwa",
+          "middle": "BAwIEyQXBkdGOSo2LTVEMh0iDkakUos4EQcMCy9TCQkQIiMjGRQWPEM8QEE1MjAbCwNkk1AQBggDI09HHRMeLQomFEE7QUNCNSowPyobBBgtVx4QBAgYSUwaOjsSGCQUJCosOlYcERY6Pi4aDS4oQjQfIyQ9UCETGjZDLwkZOCoRK2aeIyMxOzEbLD0xL5JOETNMKA8tDQtWZTk6RT8tPjV5ah4sMSw2PDIoHDuYbDkZER8vFTxKSkxDUEJGQzgjlDQfKTg4bXqOjn9jckA7Fxw1OTIuLTJLVCZSaz8ZUXITOhthRTZHZ3ZrKStHMBZAQSA2LjJLKwsubmUtGlEqC0UTGg8LBw0NJjU0OCEtMkgaLkssBwYkZmQpMi0eJg8VDQcFBgoSGTAiKwwsBksxJzM6MhYrYlMrIhcbGQoDBwYGBAsMDhYkCB8wJCM/Gg8kNzIoRjQvJhsFHiAQERAPEwYGDQ4IDBg5GBYfPB8dIhsNLx0EFAsmOA8NEBEREyUQBgwNBwYoGxghFhUdMAwYQEM0GSJCEAUGCwULEBM2HwcQBhMZGRweFhAiEDA0T0cmRFwbDgUECw0HBhEZPy0PEREL",
+          "bottom": "JCM/Gg8kNzIoRjQvJhsFHiAQERAPEwYGDQ4IDBg5GBYfPB8dIhsNLx0EFAsmOA8NEBEREyUQBgwNBwYoGxghFhUdMAwYQEM0GSJCEAUGCwULEBM2HwcQBhMZGRweFhAiEDA0T0cmRFwbDgUECw0HBhEZPy0PERELFRwZDwInEUUsMTMndUUVEgcEAgwNCgwZIDQoFQsIFhAVDAQbIh40QE49cBwWHBEFBQUHCxUZKCEnGw8OCQoECQMQHBMGHjs0TQgWERADBgQTABwkCS8cHxAQBQQDAQIBBAYHBBgpMg4VFRAECQ4NFQsdEiogHxMUBAMDAgIDAgIBDhYvIQkSHh4VMzMzCSQQBiYzHyINAQIDAgECAQIDGAgwHQQcQhoVUltJFSw3Hgo5JiYYAQEAAgEBAQEHGgoyGQgsMRY5URdYGRQ5LQ4bJhkxAgEBAQEBAQEOGiQsBwYcMRdOPxFIZRssJAgTIxgPAwICAQABAwEbBTIZFAweIGaoIy0LloYQFAcHGCcMAgIBAQIDAQUQJSkSFgUlcaMumE+fVJd/HwwPES4zAgEBAQEDAgYCHhgOCwJBiB2MFk0OayKFUB8SFzM0"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 16.145645,
+          "top": 14.451427,
+          "middle": 14.476024,
+          "bottom": 18.145345,
+          "effectiveRatio": 0.592111
+        }
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumBytes": 20971520,
+        "maximumPixels": 40000000,
+        "maximumCoverScale": 1.05,
+        "coverScale": 0.84375,
+        "passed": true
+      },
+      "photoDate": "2026-03-31",
+      "photoDateLabel": "2026.03.31 자료사진",
+      "imageCredit": "Johnmaxmena2 / CC BY 4.0",
+      "creditDisplay": "사진 · Johnmaxmena2 / CC BY 4.0 (2026.03.31 자료사진)",
+      "sceneGroup": "20260331-busch-mets-benge-portrait",
+      "sceneDescription": "메츠의 벤지가 옆을 보는 측면 인물사진이다. Commons DateTimeOriginal은 업로드일 4월6일로 적혔으나 파일명·경기 분류·원본 EXIF 촬영시각은 3월31일로 일치한다. 웨더홀트와 같은 경기지만 다른 팀의 다른 인물·행동·구도다.",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "checkedAt": "2026-10-20T10:01:39.085Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carson_Benge_March_31_2026.png",
+        "author": "Johnmaxmena2",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "commonsExtmetadata": {
+          "DateTime": {
+            "value": "2026-04-06 12:45:38",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Carson Benge March 31 2026",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|St. Louis Cardinals vs New York Mets (March 31, 2026)|Carson Benge during the 2026 New York Mets season",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Carson Benge of the Mets in St.Louis 2026.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-04-06",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johnmaxmena2\" title=\"User:Johnmaxmena2\">Johnmaxmena2</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "changes": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "shareAlikeRequired": false,
+        "adaptationNotice": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가; 표준 JPEG 형식 변환",
+        "publicDeclarationEvidence": "https://commons.wikimedia.org/wiki/File:Carson_Benge_March_31_2026.png",
+        "verifiedAt": "2026-10-20T10:02:07.873Z"
+      },
+      "context": {
+        "originalContext": "메츠의 벤지가 옆을 보는 측면 인물사진이다. Commons DateTimeOriginal은 업로드일 4월6일로 적혔으나 파일명·경기 분류·원본 EXIF 촬영시각은 3월31일로 일치한다. 웨더홀트와 같은 경기지만 다른 팀의 다른 인물·행동·구도다.",
+        "currentStoryUse": "신규 10월19일 BA 평가 발표에 등장한 선수의 실제 자료사진. 발표 당일 촬영 사진으로 표시하지 않음"
+      },
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Carson_Benge_March_31_2026.png/1280px-Carson_Benge_March_31_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 1899210,
+      "deliveryConversion": {
+        "originalSha256": "37c06ffde886333d78d4eced7e8229fbee5bf7f62779f3dee850cac3c618a6b5",
+        "derivativeSha256": "a477f414e4cc980e0f2c29b2bdd26175a5796920aff551d6835792ff842cc49b",
+        "report": "source-format-delivery-review.json",
+        "commit": "f4b76fdffd4b81eb297ef97c5a0771b56146b5d4"
+      }
+    },
+    {
+      "index": 5,
+      "name": "체이스 델로터",
+      "subject": "체이스 델로터",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd/source-photos/2026-10-20-us-ba-graduated-prospects-new-ranking-cc/source-5.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chase_DeLauter_(53094592714).jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-20-channel-catchup\\prospects\\us-graduated\\photos\\Chase-DeLauter.jpg",
+      "sha256": "b7882e5b14d7fb7075fe9fb7928e5e9c2fce7e92ce5cb9946cecbeded456655a",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-20T09:38:25.200Z",
+        "width": 4608,
+        "height": 3072,
+        "bytes": 6265863,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.76694699968978,
+        "entropy": 7.6165878730007535,
+        "effectiveDetailRatio": 0.468988,
+        "kind": "source",
+        "coverScale": 0.439,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/65535/53094592714_cb25a11194_o.jpg",
+        "sha256": "b7882e5b14d7fb7075fe9fb7928e5e9c2fce7e92ce5cb9946cecbeded456655a",
+        "perceptualHash": "4c3275cb8ea55ef7",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "Iw4wFidFKDQRDxciASgfSJqRzz9nXG+/OygRCy0FHjBFGFEaSksnIwkRIBY8L0O9Oxx2TYdOJx0NCxkHKixMIyISKBU2LQ4THDg9SXU3RUsEVkEUNS0iMxUNIyM8KD4SHWIaPDQjHzdlXBUtPDJIJC48BSZHQD9Bko81NDBJjpmPSRIJH08XLBozKBxJKjkuGigpOVZvX1g+KBhnkSCxVCQqBxAzFhMnNyBGYwlhDCY3NAREHT4cHidbN4M0NRsZIShUJUw3QhNCHUUZHloPPidHQjMbH0MSKCcADycLOChLYkBDQFVSEQ0ORxloGQgmQBYzGQ8aLykvHS1DLnUaLS8ULicvHi0WIWxAO0MpJ2Q8OCgjD3Qibx9pD1BgUi9JMxMwemJSDhAYKVAlFyA0LzEvcj4yLmwnDSg0N1YwKSFcam9iFw8dIA5DKQkTDA9SVCM2OygbIAkxO1NESU58U6cXHhcgPUkYCigrFiUrHg8JLzIOME0oUhgcLWZhdi8rJzpATxwwgHlmT1V7g2l4boKGhyZCIA5+TENdThAhMkQwJkYtMBEWDhoQHRcpLVJAaXwpG2M0n1RhEVlRSFMeNCZBmZmZlpyinpJVKwkvSFSFP0yKR1oSRU81HTZsIy4QcXJwcGtpZ3KdUQYuPYpSkIBfLlM4TzlDLkEwcGxOBAMDHwcCGYGaXjgfTidPP4S0OxUiRU5APgkgUwocBwscoTwVe4clUG1aY3Mnh4FqfEQwJy45FQgGNUYwNFqiMrw0ZjIuW0FGCUdCWX5PKj03JhxMQTg7FREUb3KTLjduIj8qPhxLZTtgZTZPKjg6OodIDBUiIBoKQklITnRCEic6OkSVYDNFsB8tHkZLF0+4KxkeBx1SS042c1obFSk7KoS7Oyk+n1wrLzsiKh+IbTIUF1ZkT08eVh4gGTI6F6SZY7+qE51sbItJEHGRqRgdFi9yi4Roay0zJzE9DbxP8XuyrH6kndiPSXmlzgsiDQsinyrbRygwLTJBHtla5SRKxTuIUR/6j4GgdgchGRGCmz6yLxkpQys0iGPYdhkceiuBhBeZaoJpdkA0G5FGZTx1glJjVjQySGNdfW14dA5orRuObDgSaXBGaRbeMxYjPSU1PzcUMBZCZF9qNxtENioxRykMNTYtPXBQFA0GBg4LCRAVHT0VFhknLwkSGQgJDA0PCQQaTHdoDxcdIhoXFxotOSAUFhgRNy8vFhINDhAREhMWJ2eSISUjIyUiHxspDxAOERkkHAIHFQ4QFQ0NDQoKCAQGBQYNFR0kKCw3OzUyMS8tKywsKSotLi4vLzAyMzo6Oz08PDk0MSwlIBwZFhQRFhcbGxsZFRcZGhoeHRkVHBgXFA0LDQsMDA4QERMVFBMUEhANDAsJCQcIBgMCDxEQEBISERgeIB4YEg0NCwkGBAQCAQEABAECBgQEFBENCgcFCRUcIyAcFQkJCAcCAgEDAwIFAgYAAQQDCQgHBAMEEh4kJyciIhwXExMPCQUCAQIBCQUEBggN",
+          "top": "Iw4wFidFKDQRDxciASgfSJqRzz9nXG+/OygRCy0FHjBFGFEaSksnIwkRIBY8L0O9Oxx2TYdOJx0NCxkHKixMIyISKBU2LQ4THDg9SXU3RUsEVkEUNS0iMxUNIyM8KD4SHWIaPDQjHzdlXBUtPDJIJC48BSZHQD9Bko81NDBJjpmPSRIJH08XLBozKBxJKjkuGigpOVZvX1g+KBhnkSCxVCQqBxAzFhMnNyBGYwlhDCY3NAREHT4cHidbN4M0NRsZIShUJUw3QhNCHUUZHloPPidHQjMbH0MSKCcADycLOChLYkBDQFVSEQ0ORxloGQgmQBYzGQ8aLykvHS1DLnUaLS8ULicvHi0WIWxAO0MpJ2Q8OCgjD3Qibx9pD1BgUi9JMxMwemJSDhAYKVAlFyA0LzEvcj4yLmwnDSg0N1YwKSFcam9iFw8dIA5DKQkTDA9SVCM2OygbIAkxO1NESU58U6cXHhcgPUkYCigrFiUrHg8JLzIOME0oUhgcLWZhdi8rJzpATxwwgHlmT1V7g2l4boKGhyZCIA5+TENdThAhMkQwJkYtMBEWDhoQHRcpLVJAaXwpG2M0n1RhEVlRSFMeNCZB",
+          "middle": "CigrFiUrHg8JLzIOME0oUhgcLWZhdi8rJzpATxwwgHlmT1V7g2l4boKGhyZCIA5+TENdThAhMkQwJkYtMBEWDhoQHRcpLVJAaXwpG2M0n1RhEVlRSFMeNCZBmZmZlpyinpJVKwkvSFSFP0yKR1oSRU81HTZsIy4QcXJwcGtpZ3KdUQYuPYpSkIBfLlM4TzlDLkEwcGxOBAMDHwcCGYGaXjgfTidPP4S0OxUiRU5APgkgUwocBwscoTwVe4clUG1aY3Mnh4FqfEQwJy45FQgGNUYwNFqiMrw0ZjIuW0FGCUdCWX5PKj03JhxMQTg7FREUb3KTLjduIj8qPhxLZTtgZTZPKjg6OodIDBUiIBoKQklITnRCEic6OkSVYDNFsB8tHkZLF0+4KxkeBx1SS042c1obFSk7KoS7Oyk+n1wrLzsiKh+IbTIUF1ZkT08eVh4gGTI6F6SZY7+qE51sbItJEHGRqRgdFi9yi4Roay0zJzE9DbxP8XuyrH6kndiPSXmlzgsiDQsinyrbRygwLTJBHtla5SRKxTuIUR/6j4GgdgchGRGCmz6yLxkpQys0iGPYdhkceiuBhBeZaoJpdkA0G5FG",
+          "bottom": "T08eVh4gGTI6F6SZY7+qE51sbItJEHGRqRgdFi9yi4Roay0zJzE9DbxP8XuyrH6kndiPSXmlzgsiDQsinyrbRygwLTJBHtla5SRKxTuIUR/6j4GgdgchGRGCmz6yLxkpQys0iGPYdhkceiuBhBeZaoJpdkA0G5FGZTx1glJjVjQySGNdfW14dA5orRuObDgSaXBGaRbeMxYjPSU1PzcUMBZCZF9qNxtENioxRykMNTYtPXBQFA0GBg4LCRAVHT0VFhknLwkSGQgJDA0PCQQaTHdoDxcdIhoXFxotOSAUFhgRNy8vFhINDhAREhMWJ2eSISUjIyUiHxspDxAOERkkHAIHFQ4QFQ0NDQoKCAQGBQYNFR0kKCw3OzUyMS8tKywsKSotLi4vLzAyMzo6Oz08PDk0MSwlIBwZFhQRFhcbGxsZFRcZGhoeHRkVHBgXFA0LDQsMDA4QERMVFBMUEhANDAsJCQcIBgMCDxEQEBISERgeIB4YEg0NCwkGBAQCAQEABAECBgQEFBENCgcFCRUcIyAcFQkJCAcCAgEDAwIFAgYAAQQDCQgHBAMEEh4kJyciIhwXExMPCQUCAQIBCQUEBggN"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.944186,
+          "top": 28.141905,
+          "middle": 27.761858,
+          "bottom": 21.718659,
+          "effectiveRatio": 0.468988
+        },
+        "orientation": 1,
+        "rawWidth": 4608,
+        "rawHeight": 3072
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumBytes": 20971520,
+        "maximumPixels": 40000000,
+        "maximumCoverScale": 1.05,
+        "coverScale": 0.439453125,
+        "passed": true
+      },
+      "photoDate": "2023-08-04",
+      "photoDateLabel": "2023.08.04 자료사진",
+      "imageCredit": "Joel Dinda / CC BY 2.0",
+      "creditDisplay": "사진 · Joel Dinda / CC BY 2.0 (2023.08.04 자료사진)",
+      "sceneGroup": "20230804-lmcu-lakecounty-delauter-batter",
+      "sceneDescription": "레이크카운티 유니폼의 델로터가 웨스트미시간 원정 경기에서 타격을 준비하는 장면이다. 맥고니글과는 다른 사람·연도·장소·구도다.",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "checkedAt": "2026-10-20T10:01:39.085Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "creative-commons",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chase_DeLauter_(53094592714).jpg",
+        "author": "Joel Dinda",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "commonsExtmetadata": {
+          "DateTime": {
+            "value": "2025-09-30 23:56:42",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Chase DeLauter (53094592714)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "West Michigan Whitecaps|LMCU Ballpark|Images with annotations|Images with extracted images|August 2023 in Michigan|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States photographs taken on 2023-08-04|2023 in Minor League Baseball|Photos taken by Joel Dinda|Chase DeLauter",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "43.040363",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-85.659506",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Lake County @ West Michigan 20230804",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-08-04 18:39:04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/mwlguide/53094592714/\">https://www.flickr.com/photos/mwlguide/53094592714/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Joel Dinda",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "changes": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "shareAlikeRequired": false,
+        "adaptationNotice": "비생성 세로 크롭·사진 위 문자와 그라데이션 추가",
+        "publicDeclarationEvidence": "https://commons.wikimedia.org/wiki/File:Chase_DeLauter_(53094592714).jpg",
+        "verifiedAt": "2026-10-20T10:02:07.873Z"
+      },
+      "context": {
+        "originalContext": "레이크카운티 유니폼의 델로터가 웨스트미시간 원정 경기에서 타격을 준비하는 장면이다. 맥고니글과는 다른 사람·연도·장소·구도다.",
+        "currentStoryUse": "신규 10월19일 BA 평가 발표에 등장한 선수의 실제 자료사진. 발표 당일 촬영 사진으로 표시하지 않음"
+      },
+      "originalSourceUrl": "https://live.staticflickr.com/65535/53094592714_cb25a11194_o.jpg",
+      "mirrorEvidence": {
+        "commit": "1644f79b3c6e1ae7d0356c2486e0b17fbc6cf1dd",
+        "unchangedOriginalBytes": true,
+        "sha256": "b7882e5b14d7fb7075fe9fb7928e5e9c2fce7e92ce5cb9946cecbeded456655a"
+      }
+    }
+  ]
+}
