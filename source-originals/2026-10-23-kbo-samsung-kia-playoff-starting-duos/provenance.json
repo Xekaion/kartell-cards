@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-23T07:00:19.782Z",
+  "checkedAt": "2026-10-23T07:07:43.391Z",
   "rightsBasis": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진의 원문·원본·제공자·조회일·현소속팀 유니폼을 개별 기록했다. 생성형 이미지·복원·확대 없음.",
   "mirrorPurpose": "Exact authorized actual originals for reliable signed Studio inspection; no TLS/security checks disabled, no resizing/upscaling/reconstruction.",
   "records": [
@@ -65,10 +65,10 @@
     },
     {
       "slideIndex": 4,
-      "file": "source-5-d4619b043cc310dc.jpg",
-      "sha256": "d4619b043cc310dc262d335d46dd51044d1be7f91a9a1a8de084a560e2cb7014",
-      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/17/2026101701001082600070141_w.jpg",
-      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-17/202610170100108260007014",
+      "file": "source-5-7caf7a90435ccd91.jpg",
+      "sha256": "7caf7a90435ccd917f9b2036a2797ab51392e780317c059b25d297a431439cc8",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/17/2026101701001087700070536_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-17/202610170100108770007053",
       "imageCredit": "스포츠조선 송정헌",
       "photoDate": "2026-10-17",
       "rightsEvidence": {
