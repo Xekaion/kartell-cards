@@ -1,0 +1,133 @@
+{
+  "checkedAt": "2026-10-23T19:59:35.266Z",
+  "reason": "Pin exact reviewed JPEG bytes because upstream negotiates image encodings by request header.",
+  "sourceBytesUnchanged": true,
+  "imageGeneration": false,
+  "images": [
+    {
+      "i": 1,
+      "name": "source-2-90536d2c46f1ef68.jpg",
+      "sha256": "90536d2c46f1ef688fd6ef3e4beedd1b934e88c29e4163e43393f526d0aeb34a",
+      "upstreamSourceUrl": "https://www.yohjiyamamoto.co.jp/wp/wp-content/uploads/2026/10/shot03_0504_v3_QC-1-scaled.jpg",
+      "rightsEvidence": "Hypebeast 및 Hypebeast Korea의 기존 사용자 확보 licensed_editorial 범위. 해당 기사 갤러리에 실제 실린 같은 촬영본을 공식 원문에서 고해상도 원본으로 확보하고 원본별 1:1 육안 대조했다. 신규 브랜드 공식 사진 전체에 대한 허가를 추정한 것이 아니며, 기사에 실리지 않은 별도 제품 단독 촬영본은 제외했다. 근거: https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://www.yohjiyamamoto.co.jp/news/detail/wildside-x-peaceminusone-collaboration-collection/ ; docs/FASHION_AUTOMATION.md:18,186.",
+      "licensedCounterpart": {
+        "index": 4,
+        "sourceUrl": "https://hypebeast.com/image/2026/10/21/g-dragon-PEACEMINUSONE-WILDSIDE-Yohji-Yamamoto-Collaboration-collection-Release-Info-4.jpg",
+        "localPath": "logs/codex-2026-10-24-fashion-one/research-photo/wildside/hb-4.jpg",
+        "sha256": "8d121008ce45dcc1bed5d46ec00e1d5d8f335be3c6b02ab73987b503103bddbd",
+        "width": 800,
+        "height": 1200,
+        "meanAbsolutePixelDifference400x600": 10.388166666666667,
+        "rootMeanSquarePixelDifference": 21.591910650879313,
+        "comparisonMethod": "Both independently decoded, center-cover resized to 400x600 without generation; direct visual match remains authority.",
+        "licensedArticleUrls": [
+          "https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info",
+          "https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info"
+        ],
+        "exactPhotographVisualMatch": true,
+        "matchingDetails": "동일 모델 정면 자세·손 주머니·벨트/바지 단추·검정 재킷 반사 무늬와 지퍼.",
+        "proofImage": "logs\\codex-2026-10-24-fashion-one\\research-photo\\wildside\\match-3-hb-4.jpg"
+      }
+    },
+    {
+      "i": 2,
+      "name": "source-3-68884b97e8d43b04.jpg",
+      "sha256": "68884b97e8d43b04407d456c72fcd9500f8f6b4f66e7d2e0db4cdd000a2100e4",
+      "upstreamSourceUrl": "https://www.yohjiyamamoto.co.jp/wp/wp-content/uploads/2026/10/shot04_0765_v3_QC-1-scaled.jpg",
+      "rightsEvidence": "Hypebeast 및 Hypebeast Korea의 기존 사용자 확보 licensed_editorial 범위. 해당 기사 갤러리에 실제 실린 같은 촬영본을 공식 원문에서 고해상도 원본으로 확보하고 원본별 1:1 육안 대조했다. 신규 브랜드 공식 사진 전체에 대한 허가를 추정한 것이 아니며, 기사에 실리지 않은 별도 제품 단독 촬영본은 제외했다. 근거: https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://www.yohjiyamamoto.co.jp/news/detail/wildside-x-peaceminusone-collaboration-collection/ ; docs/FASHION_AUTOMATION.md:18,186.",
+      "licensedCounterpart": {
+        "index": 2,
+        "sourceUrl": "https://hypebeast.com/image/2026/10/21/g-dragon-PEACEMINUSONE-WILDSIDE-Yohji-Yamamoto-Collaboration-collection-Release-Info-2.jpg",
+        "localPath": "logs/codex-2026-10-24-fashion-one/research-photo/wildside/hb-2.jpg",
+        "sha256": "bb52baba3106b9be535811ffc8213e675fccb9d09b37b5d84e1e530f4ddcfe1c",
+        "width": 800,
+        "height": 1200,
+        "meanAbsolutePixelDifference400x600": 20.748952777777777,
+        "rootMeanSquarePixelDifference": 35.4204783046945,
+        "comparisonMethod": "Both independently decoded, center-cover resized to 400x600 without generation; direct visual match remains authority.",
+        "licensedArticleUrls": [
+          "https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info",
+          "https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info"
+        ],
+        "exactPhotographVisualMatch": true,
+        "matchingDetails": "같은 얼굴/입/머리 방향·열린 지퍼·오른손 주머니·가죽 주름. 기사본은 세로 크롭.",
+        "proofImage": "logs\\codex-2026-10-24-fashion-one\\research-photo\\wildside\\match-1-hb-2.jpg"
+      }
+    },
+    {
+      "i": 3,
+      "name": "source-4-12228568264dae7b.jpg",
+      "sha256": "12228568264dae7b132ee143b777d9f5b0b147f40a5679e1c46633d0db8864bc",
+      "upstreamSourceUrl": "https://www.yohjiyamamoto.co.jp/wp/wp-content/uploads/2026/10/shot01_0246_v3_QC-scaled.jpg",
+      "rightsEvidence": "Hypebeast 및 Hypebeast Korea의 기존 사용자 확보 licensed_editorial 범위. 해당 기사 갤러리에 실제 실린 같은 촬영본을 공식 원문에서 고해상도 원본으로 확보하고 원본별 1:1 육안 대조했다. 신규 브랜드 공식 사진 전체에 대한 허가를 추정한 것이 아니며, 기사에 실리지 않은 별도 제품 단독 촬영본은 제외했다. 근거: https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://www.yohjiyamamoto.co.jp/news/detail/wildside-x-peaceminusone-collaboration-collection/ ; docs/FASHION_AUTOMATION.md:18,186.",
+      "licensedCounterpart": {
+        "index": 7,
+        "sourceUrl": "https://hypebeast.com/image/2026/10/21/g-dragon-PEACEMINUSONE-WILDSIDE-Yohji-Yamamoto-Collaboration-collection-Release-Info-7.jpg",
+        "localPath": "logs/codex-2026-10-24-fashion-one/research-photo/wildside/hb-7.jpg",
+        "sha256": "e3c6bcc4545a3c96295972009d116a1341293d46e8b23f73314a5bc84e81273c",
+        "width": 800,
+        "height": 1200,
+        "meanAbsolutePixelDifference400x600": 21.159794444444444,
+        "rootMeanSquarePixelDifference": 41.24853687640865,
+        "comparisonMethod": "Both independently decoded, center-cover resized to 400x600 without generation; direct visual match remains authority.",
+        "licensedArticleUrls": [
+          "https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info",
+          "https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info"
+        ],
+        "exactPhotographVisualMatch": true,
+        "matchingDetails": "동일 뒤돌아선 고개·손가락 위치·등판/안감 주름·다리와 발 위치.",
+        "proofImage": "logs\\codex-2026-10-24-fashion-one\\research-photo\\wildside\\match-6-hb-7.jpg"
+      }
+    },
+    {
+      "i": 4,
+      "name": "source-5-6b40f06c734ab155.jpg",
+      "sha256": "6b40f06c734ab15588e4080d83e9bfa06332d6b41816d453b412a3ca9ce2475d",
+      "upstreamSourceUrl": "https://www.yohjiyamamoto.co.jp/wp/wp-content/uploads/2026/10/shot05_0873_v3_QC-scaled.jpg",
+      "rightsEvidence": "Hypebeast 및 Hypebeast Korea의 기존 사용자 확보 licensed_editorial 범위. 해당 기사 갤러리에 실제 실린 같은 촬영본을 공식 원문에서 고해상도 원본으로 확보하고 원본별 1:1 육안 대조했다. 신규 브랜드 공식 사진 전체에 대한 허가를 추정한 것이 아니며, 기사에 실리지 않은 별도 제품 단독 촬영본은 제외했다. 근거: https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://www.yohjiyamamoto.co.jp/news/detail/wildside-x-peaceminusone-collaboration-collection/ ; docs/FASHION_AUTOMATION.md:18,186.",
+      "licensedCounterpart": {
+        "index": 8,
+        "sourceUrl": "https://hypebeast.com/image/2026/10/21/g-dragon-PEACEMINUSONE-WILDSIDE-Yohji-Yamamoto-Collaboration-collection-Release-Info-8.jpg",
+        "localPath": "logs/codex-2026-10-24-fashion-one/research-photo/wildside/hb-8.jpg",
+        "sha256": "4eac09201746990e7faa93b5badf7e7bf819b7cc80567a2bd910fddf24211c8e",
+        "width": 800,
+        "height": 1200,
+        "meanAbsolutePixelDifference400x600": 13.08715,
+        "rootMeanSquarePixelDifference": 24.682497847665257,
+        "comparisonMethod": "Both independently decoded, center-cover resized to 400x600 without generation; direct visual match remains authority.",
+        "licensedArticleUrls": [
+          "https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info",
+          "https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info"
+        ],
+        "exactPhotographVisualMatch": true,
+        "matchingDetails": "동일 머리카락·어깨끈 겹침·핑크 토트 주름·그래픽·오른쪽 아래 모서리.",
+        "proofImage": "logs\\codex-2026-10-24-fashion-one\\research-photo\\wildside\\match-7-hb-8.jpg"
+      }
+    },
+    {
+      "i": 5,
+      "name": "source-6-d7c0b590aa06e82d.jpg",
+      "sha256": "d7c0b590aa06e82dc643f95961246b4db9af7666221cd14a69312e54e46bec73",
+      "upstreamSourceUrl": "https://www.yohjiyamamoto.co.jp/wp/wp-content/uploads/2026/10/shot02_0290_v4_QC-scaled.jpg",
+      "rightsEvidence": "Hypebeast 및 Hypebeast Korea의 기존 사용자 확보 licensed_editorial 범위. 해당 기사 갤러리에 실제 실린 같은 촬영본을 공식 원문에서 고해상도 원본으로 확보하고 원본별 1:1 육안 대조했다. 신규 브랜드 공식 사진 전체에 대한 허가를 추정한 것이 아니며, 기사에 실리지 않은 별도 제품 단독 촬영본은 제외했다. 근거: https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info ; https://www.yohjiyamamoto.co.jp/news/detail/wildside-x-peaceminusone-collaboration-collection/ ; docs/FASHION_AUTOMATION.md:18,186.",
+      "licensedCounterpart": {
+        "index": 5,
+        "sourceUrl": "https://hypebeast.com/image/2026/10/21/g-dragon-PEACEMINUSONE-WILDSIDE-Yohji-Yamamoto-Collaboration-collection-Release-Info-5.jpg",
+        "localPath": "logs/codex-2026-10-24-fashion-one/research-photo/wildside/hb-5.jpg",
+        "sha256": "e06b21f3773fde4cc1eaf72336e7d0df1690b63ef786dd5bc15789479634b335",
+        "width": 800,
+        "height": 1200,
+        "meanAbsolutePixelDifference400x600": 9.714986111111111,
+        "rootMeanSquarePixelDifference": 17.244470611377626,
+        "comparisonMethod": "Both independently decoded, center-cover resized to 400x600 without generation; direct visual match remains authority.",
+        "licensedArticleUrls": [
+          "https://hypebeast.kr/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info",
+          "https://hypebeast.com/2026/10/g-dragon-peaceminusone-wildside-yohji-yamamoto-collaboration-collection-release-info"
+        ],
+        "exactPhotographVisualMatch": true,
+        "matchingDetails": "동일 고개 방향·코트 단추·왼쪽 앞섶 벌어짐·양발 위치.",
+        "proofImage": "logs\\codex-2026-10-24-fashion-one\\research-photo\\wildside\\match-4-hb-5.jpg"
+      }
+    }
+  ]
+}
