@@ -1,0 +1,924 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "미치 가버, 10년의 빅리그에 마침표",
+  "issueKey": "mlb-20261021-garver-retirement",
+  "checkedAt": "2026-10-23T01:02:01.366Z",
+  "sourceUrl": "https://www.minnesotasportsfan.com/minnesota-twins/former-twins-catcher-mitch-garver-retires/",
+  "corroboratingUrls": [
+    "https://sports.mynorthwest.com/mlb/seattle-mariners/report-former-mariners-catcher-mitch-garver-retires",
+    "https://statsapi.mlb.com/api/v1/people/641598/stats?stats=career&group=hitting",
+    "https://statsapi.mlb.com/api/v1/people/641598/stats?stats=yearByYear&group=hitting"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.minnesotasportsfan.com/minnesota-twins/former-twins-catcher-mitch-garver-retires/",
+      "role": "reporter-firsthand-retirement-confirmation",
+      "author": "Ted Schwerzler"
+    },
+    {
+      "url": "https://statsapi.mlb.com/api/v1/people/641598/stats?stats=yearByYear&group=hitting",
+      "role": "official-records"
+    }
+  ],
+  "rightsEvidence": "1p Bryan Green; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Mitch_Garver_2018.jpg; 촬영일2018-02-22; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg; SHA2804027cb72d076b367301a7828703d12b74b5c4a44ed567a204e8c5fb69deb7. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n2p Bryan Green; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://www.flickr.com/photos/begreen90/17180019977/; 촬영일2015-04-25; 원본URLhttps://live.staticflickr.com/5466/17180019977_568f6b187c_o.jpg; SHA89814f9527ad1bc4985e61266e8e19e67f77c26008a5d5bf637fe07e25214279. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n3p Ian D'Andrea; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Mitch_Garver_(47553987661)_(cropped).jpg; 촬영일2019-04-06; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg; SHAc5835151a00dea74d622b7a9c4fe136863c972f1d972b238f9c7eba1688ba566. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n4p Bryan Green; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://www.flickr.com/photos/begreen90/40879512764/; 촬영일2018-03-18; 원본URLhttps://live.staticflickr.com/861/40879512764_162cdd1434_o.jpg; SHAd93ea9bf66b24f06636a9bdf4bd6db1b9152ba76a4daf0d42e5af99070d4b638. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n5p Jeffrey Hyde; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://www.flickr.com/photos/125788546@N06/36098662223/; 촬영일2017-07-23; 원본URLhttps://live.staticflickr.com/4337/36098662223_bdf40b9c8d_o.jpg; SHA137962a16545c20f555e51ac6f6c1d82e24ff278b28ebcb08cade8e21d160a3c. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.",
+  "photos": [
+    {
+      "title": "File:Mitch Garver 2018.jpg",
+      "pageid": 176056108,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_2018.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/643a06f9b47e05ecdb5f2e808699ad1f8b40d036/source-originals/2026-10-23-mlb-mitch-garver-retirement/source-1-2804027cb72d076b.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mitch_Garver_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Mitch_Garver_2018.jpg",
+      "sha256": "2804027cb72d076b367301a7828703d12b74b5c4a44ed567a204e8c5fb69deb7",
+      "metadata": {
+        "size": 4691979,
+        "width": 4608,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1536,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1536
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mitch_Garver_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_2018.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176056108",
+        "sha1": "14fee37bf293dca227e46bef8f0ea1d51136e016",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-10-04 08:31:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Mitch Garver 2018",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Mitch Garver",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "26.537167",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.844196",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Mitch Garver of the Minnesota Twins in 2018",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-02-22 19:06:21",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/begreen90/42149164664/\">https://www.flickr.com/photos/begreen90/42149164664/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Bryan Green",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:39:47.433Z",
+        "width": 3840,
+        "height": 2880,
+        "bytes": 2469713,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.1208770191501998,
+        "entropy": 6.710641268440213,
+        "effectiveDetailRatio": 0.535008,
+        "kind": "source",
+        "coverScale": 0.469,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg",
+        "sha256": "2804027cb72d076b367301a7828703d12b74b5c4a44ed567a204e8c5fb69deb7"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "미치 가버",
+      "subject": "미치 가버",
+      "imageCredit": "Bryan Green",
+      "creditDisplay": "Bryan Green · CC BY-SA 2.0 · 2018 자료",
+      "photoDate": "2018-02-22",
+      "photoDateLabel": "2018-02-22 자료사진",
+      "sceneGroup": "20180222-garver-twins-portrait-seated",
+      "sceneDescription": "미네소타의 붉은 유니폼과 모자를 쓴 가버가 그라운드 옆에 앉아 있는 얼굴·상반신 사진.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:56:34.190Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Bryan Green",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_2018.jpg",
+        "metadataDate": "2018-02-22 19:06:21",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 1,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "Bryan Green",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg",
+      "hostingMirror": {
+        "commit": "643a06f9b47e05ecdb5f2e808699ad1f8b40d036",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg",
+        "sha256": "2804027cb72d076b367301a7828703d12b74b5c4a44ed567a204e8c5fb69deb7",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Mitch Garver - 17180019977.jpg",
+      "pageid": 154128800,
+      "sourcePageUrl": "https://www.flickr.com/photos/begreen90/17180019977/",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/643a06f9b47e05ecdb5f2e808699ad1f8b40d036/source-originals/2026-10-23-mlb-mitch-garver-retirement/source-2-89814f9527ad1bc4.jpg",
+      "originalUrl": "https://live.staticflickr.com/5466/17180019977_568f6b187c_o.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\flickr-17180019977.jpg",
+      "sha256": "89814f9527ad1bc4985e61266e8e19e67f77c26008a5d5bf637fe07e25214279",
+      "metadata": {
+        "size": 1246548,
+        "width": 2061,
+        "height": 3000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mitch_Garver_-_17180019977.jpg/1920px-Mitch_Garver_-_17180019977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2329,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mitch_Garver_-_17180019977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mitch_Garver_-_17180019977.jpg/1920px-Mitch_Garver_-_17180019977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2329,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mitch_Garver_-_17180019977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mitch_Garver_-_17180019977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_-_17180019977.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154128800",
+        "sha1": "5e398635d1fcc366ce55e24ba292ec205745c6c8",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-10-04 08:27:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Mitch Garver - 17180019977",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Mitch Garver",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "26.537839",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.844174",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Mitch Garver in Minnesota Twins catcher's gear",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-04-25 05:58:58",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/begreen90/17180019977/\">https://www.flickr.com/photos/begreen90/17180019977/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Bryan Green",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "commonsLicensePage": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_-_17180019977.jpg",
+      "flickrDiscoveryHtml": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\flickr-17180019977.html",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:47:32.015Z",
+        "width": 4000,
+        "height": 3000,
+        "bytes": 3071633,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.0410474241921917,
+        "entropy": 7.516281683105262,
+        "effectiveDetailRatio": 0.525735,
+        "kind": "source",
+        "coverScale": 0.45,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/5466/17180019977_568f6b187c_o.jpg",
+        "sha256": "89814f9527ad1bc4985e61266e8e19e67f77c26008a5d5bf637fe07e25214279"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "미치 가버",
+      "subject": "미치 가버",
+      "imageCredit": "Bryan Green",
+      "creditDisplay": "Bryan Green · CC BY-SA 2.0 · 2015 자료",
+      "photoDate": "2015-04-25",
+      "photoDateLabel": "2015-04-25 자료사진",
+      "sceneGroup": "20150425-garver-milb-catcher-gear",
+      "sceneDescription": "마이너리그 시절 포수 보호장비를 착용하고 서 있는 가버. 붉은 유니폼, 포수 마스크와 관중석 배경.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:56:34.190Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Bryan Green",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://www.flickr.com/photos/begreen90/17180019977/",
+        "metadataDate": "2015-04-25 05:58:58",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 2,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "Bryan Green",
+      "upstreamOriginalUrl": "https://live.staticflickr.com/5466/17180019977_568f6b187c_o.jpg",
+      "hostingMirror": {
+        "commit": "643a06f9b47e05ecdb5f2e808699ad1f8b40d036",
+        "originalUrl": "https://live.staticflickr.com/5466/17180019977_568f6b187c_o.jpg",
+        "sha256": "89814f9527ad1bc4985e61266e8e19e67f77c26008a5d5bf637fe07e25214279",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Mitch Garver (47553987661) (cropped).jpg",
+      "pageid": 77881191,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_(47553987661)_(cropped).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/643a06f9b47e05ecdb5f2e808699ad1f8b40d036/source-originals/2026-10-23-mlb-mitch-garver-retirement/source-3-c5835151a00dea74.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Mitch_Garver__47553987661___cropped_.jpg",
+      "sha256": "c5835151a00dea74d622b7a9c4fe136863c972f1d972b238f9c7eba1688ba566",
+      "metadata": {
+        "size": 3161454,
+        "width": 2112,
+        "height": 2350,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 2048,
+        "thumbheight": 2279,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 2279
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_(47553987661)_(cropped).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77881191",
+        "sha1": "8362118d572f55d30d5ef7e50a6f8849db482db6",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-04-09 02:25:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Mitch Garver (47553987661) (cropped)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Citizens Bank Park|Garver (surname)|2019 Minnesota Twins season|Extracted images|Minnesota Twins uniforms|Number 18 on baseball jerseys|Photos taken by Ian D'Andrea|Mitch Garver",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Mitch Garver of the Minnesota Twins swings at a pitch during a 2019 game at Citizens Bank Park in Philadelphia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-04-06 03:07:43",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/idsportsphoto/47553987661\">https://www.flickr.com/photos/idsportsphoto/47553987661</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Ian D'Andrea on <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143615892@N05/\">Flickr</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:39:27.066Z",
+        "width": 2112,
+        "height": 2350,
+        "bytes": 3161454,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.1985201420333835,
+        "entropy": 7.34912359250302,
+        "effectiveDetailRatio": 0.490407,
+        "kind": "source",
+        "coverScale": 0.574,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg",
+        "sha256": "c5835151a00dea74d622b7a9c4fe136863c972f1d972b238f9c7eba1688ba566"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "미치 가버",
+      "subject": "미치 가버",
+      "imageCredit": "Ian D'Andrea",
+      "creditDisplay": "Ian D'Andrea · CC BY-SA 2.0 · 2019 자료",
+      "photoDate": "2019-04-06",
+      "photoDateLabel": "2019-04-06 자료사진",
+      "sceneGroup": "20190406-garver-twins-swing-backview",
+      "sceneDescription": "2019년 원정 회색 미네소타 유니폼의 가버가 타석에서 배트를 휘두르는 뒷모습. 18번과 이름이 보인다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:56:34.188Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Ian D'Andrea",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_(47553987661)_(cropped).jpg",
+        "metadataDate": "2019-04-06 03:07:43",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 3,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "Ian D'Andrea on <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143615892@N05/\">Flickr</a>",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg",
+      "hostingMirror": {
+        "commit": "643a06f9b47e05ecdb5f2e808699ad1f8b40d036",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg",
+        "sha256": "c5835151a00dea74d622b7a9c4fe136863c972f1d972b238f9c7eba1688ba566",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Mitch Garver - 40879512764.jpg",
+      "pageid": 154128889,
+      "sourcePageUrl": "https://www.flickr.com/photos/begreen90/40879512764/",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/643a06f9b47e05ecdb5f2e808699ad1f8b40d036/source-originals/2026-10-23-mlb-mitch-garver-retirement/source-4-d93ea9bf66b24f06.jpg",
+      "originalUrl": "https://live.staticflickr.com/861/40879512764_162cdd1434_o.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\flickr-40879512764.jpg",
+      "sha256": "d93ea9bf66b24f06636a9bdf4bd6db1b9152ba76a4daf0d42e5af99070d4b638",
+      "metadata": {
+        "size": 2433824,
+        "width": 3429,
+        "height": 3090,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mitch_Garver_-_40879512764.jpg/1920px-Mitch_Garver_-_40879512764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1442,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mitch_Garver_-_40879512764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mitch_Garver_-_40879512764.jpg/1920px-Mitch_Garver_-_40879512764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1442,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mitch_Garver_-_40879512764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mitch_Garver_-_40879512764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_-_40879512764.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154128889",
+        "sha1": "2649c17a6ac659a3ea14cb01ea892f7768a95dcb",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-11-17 08:18:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Mitch Garver - 40879512764",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "2018 Minnesota Twins season|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Mitch Garver|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "26.538472",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.844367",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Mitch Garver batting for the Minnesota Twins in 2018 (spring training)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-03-18 15:35:24",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/begreen90/40879512764/\">https://www.flickr.com/photos/begreen90/40879512764/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Bryan Green",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "commonsLicensePage": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_-_40879512764.jpg",
+      "flickrDiscoveryHtml": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\flickr-40879512764.html",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:47:51.579Z",
+        "width": 4608,
+        "height": 3456,
+        "bytes": 4880351,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.2584542829781324,
+        "entropy": 7.445467066540914,
+        "effectiveDetailRatio": 0.496767,
+        "kind": "source",
+        "coverScale": 0.391,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/861/40879512764_162cdd1434_o.jpg",
+        "sha256": "d93ea9bf66b24f06636a9bdf4bd6db1b9152ba76a4daf0d42e5af99070d4b638"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "미치 가버",
+      "subject": "미치 가버",
+      "imageCredit": "Bryan Green",
+      "creditDisplay": "Bryan Green · CC BY-SA 2.0 · 2018 자료",
+      "photoDate": "2018-03-18",
+      "photoDateLabel": "2018-03-18 자료사진",
+      "sceneGroup": "20180318-garver-twins-spring-batting",
+      "sceneDescription": "2018년 스프링캠프에서 흰 미네소타 유니폼의 가버가 타석에서 배트를 어깨 위로 든 전신. 붉은 유니폼 착석 사진과 날짜·행동·장소가 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:56:34.190Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Bryan Green",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://www.flickr.com/photos/begreen90/40879512764/",
+        "metadataDate": "2018-03-18 15:35:24",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 4,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "Bryan Green",
+      "upstreamOriginalUrl": "https://live.staticflickr.com/861/40879512764_162cdd1434_o.jpg",
+      "hostingMirror": {
+        "commit": "643a06f9b47e05ecdb5f2e808699ad1f8b40d036",
+        "originalUrl": "https://live.staticflickr.com/861/40879512764_162cdd1434_o.jpg",
+        "sha256": "d93ea9bf66b24f06636a9bdf4bd6db1b9152ba76a4daf0d42e5af99070d4b638",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Mitch Garver - 36098662223.jpg",
+      "pageid": 154128972,
+      "sourcePageUrl": "https://www.flickr.com/photos/125788546@N06/36098662223/",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/643a06f9b47e05ecdb5f2e808699ad1f8b40d036/source-originals/2026-10-23-mlb-mitch-garver-retirement/source-5-137962a16545c20f.jpg",
+      "originalUrl": "https://live.staticflickr.com/4337/36098662223_bdf40b9c8d_o.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\flickr-36098662223.jpg",
+      "sha256": "137962a16545c20f555e51ac6f6c1d82e24ff278b28ebcb08cade8e21d160a3c",
+      "metadata": {
+        "size": 2363675,
+        "width": 3518,
+        "height": 2814,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitch_Garver_-_36098662223.jpg/1920px-Mitch_Garver_-_36098662223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1280,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mitch_Garver_-_36098662223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitch_Garver_-_36098662223.jpg/1920px-Mitch_Garver_-_36098662223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1280,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mitch_Garver_-_36098662223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mitch_Garver_-_36098662223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_-_36098662223.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154128972",
+        "sha1": "971987a313b4d1641703832f6c50f519c6055d7d",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-10-21 09:18:46",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Mitch Garver - 36098662223",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Flickr images reviewed by FlickreviewR 2|Mitch Garver|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "photo credits. Instagram - @milbgrammer. Twitter - @jeffhyde. Thanks!",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-07-23 16:24:44",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/125788546@N06/36098662223/\">https://www.flickr.com/photos/125788546@N06/36098662223/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Jeffrey Hyde",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "commonsLicensePage": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_-_36098662223.jpg",
+      "flickrDiscoveryHtml": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\flickr-36098662223.html",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:01.354Z",
+        "width": 3518,
+        "height": 2814,
+        "bytes": 2363675,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.8361175326341015,
+        "entropy": 7.53521506870311,
+        "effectiveDetailRatio": 0.530688,
+        "kind": "source",
+        "coverScale": 0.48,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/4337/36098662223_bdf40b9c8d_o.jpg",
+        "sha256": "137962a16545c20f555e51ac6f6c1d82e24ff278b28ebcb08cade8e21d160a3c"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "미치 가버",
+      "subject": "미치 가버",
+      "imageCredit": "Jeffrey Hyde",
+      "creditDisplay": "Jeffrey Hyde · CC BY-SA 2.0 · 2017 자료",
+      "photoDate": "2017-07-23",
+      "photoDateLabel": "2017-07-23 자료사진",
+      "sceneGroup": "20170723-garver-rochester-redwings-batting",
+      "sceneDescription": "2017년 로체스터 레드윙스 41번 붉은 유니폼의 가버가 타석에서 배트를 세워 든 모습. 2018 스프링캠프와 구장·복장·구도가 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:56:34.190Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Jeffrey Hyde",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://www.flickr.com/photos/125788546@N06/36098662223/",
+        "metadataDate": "2017-07-23 16:24:44",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 5,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "Jeffrey Hyde",
+      "upstreamOriginalUrl": "https://live.staticflickr.com/4337/36098662223_bdf40b9c8d_o.jpg",
+      "hostingMirror": {
+        "commit": "643a06f9b47e05ecdb5f2e808699ad1f8b40d036",
+        "originalUrl": "https://live.staticflickr.com/4337/36098662223_bdf40b9c8d_o.jpg",
+        "sha256": "137962a16545c20f555e51ac6f6c1d82e24ff278b28ebcb08cade8e21d160a3c",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    }
+  ]
+}
