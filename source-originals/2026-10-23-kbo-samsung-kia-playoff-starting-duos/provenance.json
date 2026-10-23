@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-23T07:00:19.782Z",
+  "rightsBasis": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진의 원문·원본·제공자·조회일·현소속팀 유니폼을 개별 기록했다. 생성형 이미지·복원·확대 없음.",
+  "mirrorPurpose": "Exact authorized actual originals for reliable signed Studio inspection; no TLS/security checks disabled, no resizing/upscaling/reconstruction.",
+  "records": [
+    {
+      "slideIndex": 0,
+      "file": "source-1-655b6f841e6b1017.jpg",
+      "sha256": "655b6f841e6b1017e2c5bf75e12cdd7208b8922aeebb6a8f35b7a1932c17b4d9",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/07/18/2026071801001097900069401_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-18/202607180100109790006940",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-07-18",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자는 국내 모든 언론사·야구 관계인 사진의 사용계약 및 사용료 지급을 직접 확인했다. 실제 사진 게재 원문·촬영기자·촬영일을 이 원본에 연결한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 1,
+      "file": "source-2-dd03797c623023a3.jpg",
+      "sha256": "dd03797c623023a3705d5a69dba93ec5d6ad5d60808e947db063bf7fc5b139e9",
+      "originalSourceUrl": "https://t1.daumcdn.net/news/202607/30/xportsnews/20260730185714054nobn.jpg",
+      "sourcePageUrl": "https://v.daum.net/v/20260730185712239",
+      "imageCredit": "엑스포츠뉴스 김한준",
+      "photoDate": "2026-07-30",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자는 국내 모든 언론사·야구 관계인 사진의 사용계약 및 사용료 지급을 직접 확인했다. 실제 사진 게재 원문·촬영기자·촬영일을 이 원본에 연결한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 2,
+      "file": "source-3-7128178eb684525d.jpg",
+      "sha256": "7128178eb684525d22997585fcb80f40cca2a6613213733d3606d5f4c8f643c0",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/09/06/2026090601000419700027251_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-06/202609060100041970002725",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-09-06",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자는 국내 모든 언론사·야구 관계인 사진의 사용계약 및 사용료 지급을 직접 확인했다. 실제 사진 게재 원문·촬영기자·촬영일을 이 원본에 연결한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 3,
+      "file": "source-4-63db2add0e4704f2.jpg",
+      "sha256": "63db2add0e4704f2a8b95e7ca84a8bddb5048bc2640ebd6cec061c14938cc07f",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/18/2026101801001123700073291_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-18/202610180100112370007329",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-10-18",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자는 국내 모든 언론사·야구 관계인 사진의 사용계약 및 사용료 지급을 직접 확인했다. 실제 사진 게재 원문·촬영기자·촬영일을 이 원본에 연결한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 4,
+      "file": "source-5-d4619b043cc310dc.jpg",
+      "sha256": "d4619b043cc310dc262d335d46dd51044d1be7f91a9a1a8de084a560e2cb7014",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/17/2026101701001082600070141_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-17/202610170100108260007014",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-10-17",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자는 국내 모든 언론사·야구 관계인 사진의 사용계약 및 사용료 지급을 직접 확인했다. 실제 사진 게재 원문·촬영기자·촬영일을 이 원본에 연결한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    }
+  ]
+}
