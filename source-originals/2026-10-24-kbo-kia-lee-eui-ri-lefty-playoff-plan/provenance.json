@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-10-23T19:17:20.525Z",
+  "rightsBasis": "사용자가 확보했다고 확인한 국내·일본 매체 및 야구 관계자 사진 사용권을 각 원본에 기록했다. 공개 라이선스 자산은 해당 개별 원본의 실제 라이선스·저자·공개 귀속표시를 추가로 준수한다. 생성 이미지·AI 복원·AI 확대는 없다.",
+  "mirrorPurpose": "Exact authorized actual originals for reliable signed Studio inspection; no TLS/security checks disabled, no resizing/upscaling/reconstruction.",
+  "records": [
+    {
+      "slideIndex": 0,
+      "file": "source-1-163a506c88a8c465.jpg",
+      "sha256": "163a506c88a8c46568a836f798cb593cff4916ac9491e5bebf9c0e9344b1ae82",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/21/2026102101001320400086131_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-21/202610210100132040008613",
+      "imageCredit": "스포츠조선 허상욱 기자",
+      "photoDate": "2026-10-20",
+      "rightsEvidence": "2026-10-15 사용자 직접 확인: 국내 모든 언론사·야구 관련인의 사진 사용 계약 및 사용료 지급 완료. 이 사진은 국내 매체 자체 촬영 또는 KIA 구단 제공 실제 원본이다.",
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 1,
+      "file": "source-2-243766adbcace4f5.jpg",
+      "sha256": "243766adbcace4f533d8e04c91172f26688394257c9fb0ce95b8e58ef5f3d2de",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/20/2026102001001311200085601_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-20/202610200100131120008560",
+      "imageCredit": "스포츠조선 허상욱 기자",
+      "photoDate": "2026-10-20",
+      "rightsEvidence": "2026-10-15 사용자 직접 확인: 국내 모든 언론사·야구 관련인의 사진 사용 계약 및 사용료 지급 완료. 이 사진은 국내 매체 자체 촬영 또는 KIA 구단 제공 실제 원본이다.",
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 2,
+      "file": "source-3-716284db1cdcbcfa.jpg",
+      "sha256": "716284db1cdcbcfac1c0020fc95a973e049a62cfb73bf27be4b49a9d29952d33",
+      "originalSourceUrl": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/20/134489009.1.jpg",
+      "sourcePageUrl": "https://sports.donga.com/sports/article/all/20261020/134877902/1",
+      "imageCredit": "KIA 타이거즈 제공 · 스포츠동아",
+      "photoDate": "촬영일 미공개",
+      "rightsEvidence": "2026-10-15 사용자 직접 확인: 국내 모든 언론사·야구 관련인의 사진 사용 계약 및 사용료 지급 완료. 이 사진은 국내 매체 자체 촬영 또는 KIA 구단 제공 실제 원본이다.",
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 3,
+      "file": "source-4-a3ec16a151fd8502.webp",
+      "sha256": "a3ec16a151fd85021ba1e6698abe7f454dcc8e3aa06e46b6c988a07b74a9b131",
+      "originalSourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/1017/1792221731690295.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2208499",
+      "imageCredit": "엑스포츠뉴스 김한준 기자",
+      "photoDate": "2026-10-17",
+      "rightsEvidence": "2026-10-15 사용자 직접 확인: 국내 모든 언론사·야구 관련인의 사진 사용 계약 및 사용료 지급 완료. 이 사진은 국내 매체 자체 촬영 또는 KIA 구단 제공 실제 원본이다.",
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 4,
+      "file": "source-5-2c3f8ae7738791b1.jpg",
+      "sha256": "2c3f8ae7738791b1ca511eaf443ffc1ddc99a6b3e394f7885c136ef0f602ca94",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/09/30/2026093001002057000137951_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-30/202609300100205700013795",
+      "imageCredit": "스포츠조선 박재만 기자",
+      "photoDate": "2026-09-30",
+      "rightsEvidence": "2026-10-15 사용자 직접 확인: 국내 모든 언론사·야구 관련인의 사진 사용 계약 및 사용료 지급 완료. 이 사진은 국내 매체 자체 촬영 또는 KIA 구단 제공 실제 원본이다.",
+      "byteIdentical": true,
+      "imageGeneration": false
+    }
+  ]
+}
