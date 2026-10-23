@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-23T01:06:34.316Z",
+  "checkedAt": "2026-10-23T01:26:46.871Z",
   "photos": [
     {
       "name": "source-1-0c696c234db2970d.jpg",
@@ -21,13 +21,13 @@
       "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
     },
     {
-      "name": "source-3-2231321153cda3c1.jpg",
-      "sha256": "2231321153cda3c1b95bbb5807ad10d779895dd3bf3146188779c1daf4a9c4f6",
-      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg",
-      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(53836294794).jpg",
-      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65193799@N00\">David</a> from Washington, DC",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "name": "source-3-adba9149fcbc6e0b.jpg",
+      "sha256": "adba9149fcbc6e0b2854b5800d19ebb69eadc50209841a99e42391199a231986",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Shohei_Ohtani_parade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_parade.jpg",
+      "author": "Garrett Brooks (Reunion)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
     },
     {
