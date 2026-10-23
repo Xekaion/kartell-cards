@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-23T01:09:57.203Z",
+  "photos": [
+    {
+      "name": "source-1-897dc277720f83bc.jpg",
+      "sha256": "897dc277720f83bc52d8421c258dafa0b86169e2d946ef1b100ab326736dad10",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankees_GM_Brian_Cashman_(23027698854).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63704136@N00\">Arturo Pardavila III</a> from Hoboken, NJ, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-2-8f2231e0f2534ca2.jpg",
+      "sha256": "8f2231e0f2534ca2d49a5705f67e52dd57bdae1d617b9ad31346c7d89f2d7e90",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Brian_Cashman_by_Keith_Allison_3.jpg",
+      "author": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-3-cf4ed278c6aa82b2.jpg",
+      "sha256": "cf4ed278c6aa82b29a4d7f9cfb4e96b9c64b6dee8d965e310e548265a7bead90",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Aaron_Boone_(53947874730).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125788546@N06\">Jeffrey Hyde</a> from Bryan, TX, United States",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-4-9d8aa4f9ad820b0d.jpg",
+      "sha256": "9d8aa4f9ad820b0ddc5948e28ea0cee6ce8cb0b894c0a6336b0c981ed6f30ae8",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_view_from_420_section.jpg",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Adc95&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Adc95 (page does not exist)\">Adc95</a>",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-5-64d9f415f2f803d2.jpg",
+      "sha256": "64d9f415f2f803d249412dd2f904f1c3ab798a16094627360c9f55a2208cb7ee",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_September_2026_03.jpg",
+      "author": "<a href=\"//commons.wikimedia.org/wiki/User:Kidfly182\" title=\"User:Kidfly182\">Kidfly182</a>",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    }
+  ]
+}
