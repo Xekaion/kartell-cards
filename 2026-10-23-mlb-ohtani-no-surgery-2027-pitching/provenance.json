@@ -1,0 +1,871 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "오타니, 수술 없이 2027년 마운드로",
+  "issueKey": "mlb-20261021-ohtani-no-surgery-2027-two-way",
+  "checkedAt": "2026-10-23T01:10:43.877Z",
+  "sourceUrl": "https://www.mlb.com/news/shohei-ohtani-health-updates-2026-offseason",
+  "corroboratingUrls": [
+    "https://www.truebluela.com/los-angeles-dodgers-news-notes/127212/shohei-ohtani-injury-no-surgery-planned",
+    "https://fieldlevelmedia.com/news/surgery-not-on-table-for-shohei-ohtani-expected-to-pitch-next-year/",
+    "https://www.mlb.com/video/andrew-friedman-discusses-shohei-ohtani-s-health",
+    "https://statsapi.mlb.com/api/v1/people/660271/stats?stats=season&group=hitting,pitching&season=2026"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.mlb.com/video/andrew-friedman-discusses-shohei-ohtani-s-health",
+      "role": "club-official-press-conference-video"
+    },
+    {
+      "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/127212/shohei-ohtani-injury-no-surgery-planned",
+      "role": "Eric Stephen firsthand conference coverage via SportsNet LA"
+    },
+    {
+      "url": "https://fieldlevelmedia.com/news/surgery-not-on-table-for-shohei-ohtani-expected-to-pitch-next-year/",
+      "role": "press-conference reporting and season figures"
+    }
+  ],
+  "rightsEvidence": "1p 주한 미국대사관 · Philip Goldberg 공개 계정; Public domain; ; https://commons.wikimedia.org/wiki/File:2024_MLB_World_Tour_Seoul_Series,_Shohei_Ohtani_(1).jpg; 촬영일2024-03-20; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA0c696c234db2970d47cfd501b54207fd3661c07002add83157113fe8058687ab. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n2p Jeffrey Hayes; CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(51004965041).jpg; 촬영일2018-04-24; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original; SHA85a0889c7d5eafb0f4e087eabe84a4f8bd8ceec3e0dd09bfd4b8209518c72734. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n3p David (bootbearwdc); CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(53836294794).jpg; 촬영일2024-04-24; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg; SHA2231321153cda3c1b95bbb5807ad10d779895dd3bf3146188779c1daf4a9c4f6. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n4p Mogami Kariya · crop UCinternational; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_on_July_8,_2022_(2).jpg; 촬영일2022-07-08; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original; SHA3245c5e183e801e92edd9d75f36afc868de821e7907e0e04967ba509ae4104bd. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n5p Scott U; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(48343515351).jpg; 촬영일2019-05-27; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original; SHA3241abcf0b5c8c7473c8f1c679767bb3481e1922b324becaecdee829e5f666cc. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.",
+  "photos": [
+    {
+      "title": "File:2024 MLB World Tour Seoul Series, Shohei Ohtani (1).jpg",
+      "pageid": 146677198,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2024_MLB_World_Tour_Seoul_Series,_Shohei_Ohtani_(1).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/aca707f8970206a1f6e3e88394953b509454cf37/source-originals/2026-10-23-mlb-ohtani-no-surgery-2027-pitching/source-1-0c696c234db2970d.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\2024_MLB_World_Tour_Seoul_Series__Shohei_Ohtani__1_.jpg",
+      "sha256": "0c696c234db2970d47cfd501b54207fd3661c07002add83157113fe8058687ab",
+      "metadata": {
+        "size": 1569962,
+        "width": 2000,
+        "height": 3000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2400,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2400,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2024_MLB_World_Tour_Seoul_Series,_Shohei_Ohtani_(1).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146677198",
+        "sha1": "4e57d362bfaedd65f0b7cfed3c760a0104d7342b",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-03-23 06:31:19",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2024 MLB World Tour Seoul Series, Shohei Ohtani (1)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "PD US DOS|License review needed|Lance Barksdale|Luis Campusano|People in Seoul|Shohei Ohtani in 2024|MLB Seoul Series|Major League Baseball umpires in 2024|Shohei Ohtani in Asia|Shohei Ohtani as a batter|Shohei Ohtani in groups of people|Shohei Ohtani in foreign countries",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Shohei_Ohtani\" class=\"extiw\" title=\"en:Shohei Ohtani\">Shohei Ohtani</a> ready to hit a ball in the ballpark.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on <a href=\"https://en.wikipedia.org/wiki/March_20\" class=\"extiw\" title=\"en:March 20\">March 20</a>, <a href=\"https://en.wikipedia.org/wiki/2024_Major_League_Baseball_season\" class=\"extiw\" title=\"en:2024 Major League Baseball season\">2024</a> <br> Commons upload by <a href=\"//commons.wikimedia.org/wiki/User:UCinternational\" title=\"User:UCinternational\">UCinternational</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:UCinternational\" title=\"User talk:UCinternational\"><span class=\"signature-talk\">talk</span></a>) 06:31, 23 March 2024 (UTC)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://twitter.com/USAmbROK/status/1770431924101914709\">https://twitter.com/USAmbROK/status/1770431924101914709</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://pbs.twimg.com/media/GJHV9T3bkAAcVlf?format=jpg&amp;name=4096x4096\">Original Size</a>)",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/USAmbROK\">Ambassador Philip Goldberg</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:21.502Z",
+        "width": 1920,
+        "height": 2880,
+        "bytes": 987200,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6981938940675718,
+        "entropy": 7.5995498426491395,
+        "effectiveDetailRatio": 0.549429,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "0c696c234db2970d47cfd501b54207fd3661c07002add83157113fe8058687ab"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "오타니 쇼헤이",
+      "subject": "오타니 쇼헤이",
+      "imageCredit": "주한 미국대사관 · Philip Goldberg 공개 계정",
+      "creditDisplay": "주한 미국대사관 · Philip Goldberg 공개 계정 · Public domain · 2024 자료",
+      "photoDate": "2024-03-20",
+      "photoDateLabel": "2024-03-20 자료사진",
+      "sceneGroup": "20240320-ohtani-seoul-series-batting-ready",
+      "sceneDescription": "고척돔 서울시리즈에서 회색 다저스 유니폼의 오타니가 타석에서 배트를 든 전신. 샌디에이고 포수가 앞에 있고 기존 표지28번 스포츠조선 정면 타격 사진과 다른 장소·행동·구도.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:00:39.392Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "주한 미국대사관 · Philip Goldberg 공개 계정",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2024_MLB_World_Tour_Seoul_Series,_Shohei_Ohtani_(1).jpg",
+        "metadataDate": "Taken on March 20, 2024  Commons upload by UCinternational (talk) 06:31, 23 March 2024 (UTC)",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved",
+        "publicDomainBasis": "Wikimedia Commons 개별 파일에 미국 연방정부 업무상 저작물(PD-USGov)로 표시. 주한 미국대사 공개 원본 링크와 파일 설명을 보존한다."
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 1,
+      "license": "Public domain",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/USAmbROK\">Ambassador Philip Goldberg</a>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "aca707f8970206a1f6e3e88394953b509454cf37",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "0c696c234db2970d47cfd501b54207fd3661c07002add83157113fe8058687ab",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Shohei Ohtani (51004965041).jpg",
+      "pageid": 122188093,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(51004965041).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@aca707f8970206a1f6e3e88394953b509454cf37/source-originals/2026-10-23-mlb-ohtani-no-surgery-2027-pitching/source-2-85a0889c7d5eafb0.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Shohei_Ohtani__51004965041_.jpg",
+      "sha256": "85a0889c7d5eafb0f4e087eabe84a4f8bd8ceec3e0dd09bfd4b8209518c72734",
+      "metadata": {
+        "size": 12419725,
+        "width": 4800,
+        "height": 3200,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Shohei_Ohtani_%2851004965041%29.jpg/3840px-Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1365,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Shohei_Ohtani_%2851004965041%29.jpg/3840px-Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1365
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(51004965041).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122188093",
+        "sha1": "7000b4be2b1e209e4220d049fd693d099f29eb62",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-08-22 08:41:19",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Shohei Ohtani (51004965041)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Images with extracted images|Flickr images reviewed by FlickreviewR 2|Shohei Ohtani in 2018|Shohei Ohtani in Texas|Shohei Ohtani as a pitcher",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Shohei Ohtani",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-04-24 20:24",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/192355779@N02/51004965041/\">Shohei Ohtani</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/192355779@N02\">Jeffrey Hayes</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:55:16.511Z",
+        "width": 4800,
+        "height": 3200,
+        "bytes": 12419725,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.5354055388274763,
+        "entropy": 6.636533045122633,
+        "effectiveDetailRatio": 0.586391,
+        "kind": "source",
+        "coverScale": 0.422,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "85a0889c7d5eafb0f4e087eabe84a4f8bd8ceec3e0dd09bfd4b8209518c72734"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "오타니 쇼헤이",
+      "subject": "오타니 쇼헤이",
+      "imageCredit": "Jeffrey Hayes",
+      "creditDisplay": "Jeffrey Hayes · CC BY 2.0 · 2018 자료",
+      "photoDate": "2018-04-24",
+      "photoDateLabel": "2018-04-24 자료사진",
+      "sceneGroup": "20180424-ohtani-angels-pitcher-set",
+      "sceneDescription": "에인절스 시절 붉은 유니폼의 오타니가 마운드에서 글러브를 들고 타자를 바라보는 투구 준비 장면.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:00:39.393Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Jeffrey Hayes",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(51004965041).jpg",
+        "metadataDate": "2018-04-24 20:24",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 2,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/192355779@N02\">Jeffrey Hayes</a>",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "hostingMirror": {
+        "commit": "aca707f8970206a1f6e3e88394953b509454cf37",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "85a0889c7d5eafb0f4e087eabe84a4f8bd8ceec3e0dd09bfd4b8209518c72734",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Shohei Ohtani (53836294794).jpg",
+      "pageid": 150139165,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(53836294794).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/aca707f8970206a1f6e3e88394953b509454cf37/source-originals/2026-10-23-mlb-ohtani-no-surgery-2027-pitching/source-3-2231321153cda3c1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Shohei_Ohtani_%2853836294794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Shohei_Ohtani__53836294794_.jpg",
+      "sha256": "2231321153cda3c1b95bbb5807ad10d779895dd3bf3146188779c1daf4a9c4f6",
+      "metadata": {
+        "size": 6847149,
+        "width": 4112,
+        "height": 3259,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1623,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1623
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Shohei_Ohtani_%2853836294794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(53836294794).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150139165",
+        "sha1": "c037763e05d21c2420e5e881423d3b904b28c345",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-07-08 15:32:26",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Shohei Ohtani (53836294794)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Riley Adams|Images with extracted images|Flickr images reviewed by FlickreviewR 2|Shohei Ohtani in 2024|2024 Washington Nationals season|Shohei Ohtani in Washington, D.C.|Flickr images missing SDC published in|Shohei Ohtani as a batter|Shohei Ohtani with people",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "LA Dodgers 11 vs Nationals 2",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-04-24 20:18",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bootbearwdc/53836294794/\">IMG_6898</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65193799@N00\">David</a> from Washington, DC",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:39:30.781Z",
+        "width": 3840,
+        "height": 3043,
+        "bytes": 4288970,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 6.255439741902774,
+        "entropy": 7.386791138416584,
+        "effectiveDetailRatio": 0.570038,
+        "kind": "source",
+        "coverScale": 0.444,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg",
+        "sha256": "2231321153cda3c1b95bbb5807ad10d779895dd3bf3146188779c1daf4a9c4f6"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "오타니 쇼헤이",
+      "subject": "오타니 쇼헤이",
+      "imageCredit": "David (bootbearwdc)",
+      "creditDisplay": "David (bootbearwdc) · CC BY 2.0 · 2024 자료",
+      "photoDate": "2024-04-24",
+      "photoDateLabel": "2024-04-24 자료사진",
+      "sceneGroup": "20240424-ohtani-dodgers-bat-ball-contact",
+      "sceneDescription": "워싱턴 원정에서 회색 다저스 유니폼의 오타니가 공을 맞히는 순간을 위에서 담은 장면. 서울 타격 대기와 경기일·구장·카메라·행동이 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:00:39.393Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "David (bootbearwdc)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(53836294794).jpg",
+        "metadataDate": "2024-04-24 20:18",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 3,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65193799@N00\">David</a> from Washington, DC",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg",
+      "hostingMirror": {
+        "commit": "aca707f8970206a1f6e3e88394953b509454cf37",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg",
+        "sha256": "2231321153cda3c1b95bbb5807ad10d779895dd3bf3146188779c1daf4a9c4f6",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Shohei Ohtani on July 8, 2022 (2).jpg",
+      "pageid": 123280909,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_on_July_8,_2022_(2).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/aca707f8970206a1f6e3e88394953b509454cf37/source-originals/2026-10-23-mlb-ohtani-no-surgery-2027-pitching/source-4-3245c5e183e801e9.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Shohei_Ohtani_on_July_8__2022__2_.jpg",
+      "sha256": "3245c5e183e801e92edd9d75f36afc868de821e7907e0e04967ba509ae4104bd",
+      "metadata": {
+        "size": 3639108,
+        "width": 1650,
+        "height": 2475,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 2048,
+        "thumbheight": 3072,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 3072
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_on_July_8,_2022_(2).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123280909",
+        "sha1": "2c79c3a40a7cdb8c9a48ed913078770bd676fedc",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-09-23 07:07:42",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Shohei Ohtani on July 8, 2022 (2)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Extracted images|Flickr images reviewed by trusted users|Flickr images missing SDC creator|Flickr images missing SDC inception|Flickr images missing SDC source of file|Los Angeles Angels vs. Baltimore Orioles (July 8, 2022)|United States photographs taken on 2022-07-08|Shohei Ohtani in 2022|Shohei Ohtani in Maryland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Shohei_Ohtani\" class=\"extiw\" title=\"en:Shohei Ohtani\">Shohei Ohtani</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on <a href=\"https://en.wikipedia.org/wiki/July_8\" class=\"extiw\" title=\"en:July 8\">July 8</a>, <a href=\"https://en.wikipedia.org/wiki/2022_Los_Angeles_Angels_season\" class=\"extiw\" title=\"en:2022 Los Angeles Angels season\">2022</a> <br> Commons upload by <a href=\"//commons.wikimedia.org/wiki/User:UCinternational\" title=\"User:UCinternational\">UCinternational</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:UCinternational\" title=\"User talk:UCinternational\"><span class=\"signature-talk\">talk</span></a>) 07:07, 23 September 2022 (UTC)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "Originally posted to <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/\">Flickr</a> as \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/kariyamogami/52252256885/\">Shohei Ohtani</a>\" <br> Cropped by <a href=\"//commons.wikimedia.org/wiki/User:UCinternational\" title=\"User:UCinternational\">UCinternational</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/kariyamogami/\">Mogami Kariya</a> on <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/\">Flickr</a> (Original version) <br> <a href=\"//commons.wikimedia.org/wiki/User:UCinternational\" title=\"User:UCinternational\">UCinternational</a> (Crop)",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:59:10.639Z",
+        "width": 1650,
+        "height": 2475,
+        "bytes": 3639108,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.0540445956806548,
+        "entropy": 6.998094908543862,
+        "effectiveDetailRatio": 0.50111,
+        "kind": "source",
+        "coverScale": 0.655,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "3245c5e183e801e92edd9d75f36afc868de821e7907e0e04967ba509ae4104bd"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "오타니 쇼헤이",
+      "subject": "오타니 쇼헤이",
+      "imageCredit": "Mogami Kariya · crop UCinternational",
+      "creditDisplay": "Mogami Kariya · crop UCinternational · CC BY-SA 2.0 · 2022 자료",
+      "photoDate": "2022-07-08",
+      "photoDateLabel": "2022-07-08 자료사진",
+      "sceneGroup": "20220708-ohtani-angels-batting-helmet-portrait",
+      "sceneDescription": "에인절스 헬멧을 쓰고 미소 짓는 오타니의 얼굴·상반신. 투구사진과 4년 이상 떨어진 다른 경기의 인물 근접 사진.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:00:39.394Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Mogami Kariya · crop UCinternational",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_on_July_8,_2022_(2).jpg",
+        "metadataDate": "Taken on July 8, 2022  Commons upload by UCinternational (talk) 07:07, 23 September 2022 (UTC)",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 4,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/kariyamogami/\">Mogami Kariya</a> on <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/\">Flickr</a> (Original version) <br> <a href=\"//commons.wikimedia.org/wiki/User:UCinternational\" title=\"User:UCinternational\">UCinternational</a> (Crop)",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "hostingMirror": {
+        "commit": "aca707f8970206a1f6e3e88394953b509454cf37",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "3245c5e183e801e92edd9d75f36afc868de821e7907e0e04967ba509ae4104bd",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Shohei Ohtani (48343515351).jpg",
+      "pageid": 104325176,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(48343515351).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/aca707f8970206a1f6e3e88394953b509454cf37/source-originals/2026-10-23-mlb-ohtani-no-surgery-2027-pitching/source-5-3241abcf0b5c8c74.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Shohei_Ohtani__48343515351_.jpg",
+      "sha256": "3241abcf0b5c8c7473c8f1c679767bb3481e1922b324becaecdee829e5f666cc",
+      "metadata": {
+        "size": 5651820,
+        "width": 4608,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shohei_Ohtani_%2848343515351%29.jpg/3840px-Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1536,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shohei_Ohtani_%2848343515351%29.jpg/3840px-Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1536
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(48343515351).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104325176",
+        "sha1": "7d1cedc71b1a4fb635bcdb73f8b2bc506f4188c8",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-25 13:22:12",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Shohei Ohtani (48343515351)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Images with extracted images|Flickr images reviewed by trusted users|Shohei Ohtani in 2019|Shohei Ohtani in California",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Shohei Ohtani",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-05-27 12:54",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10312513@N08/48343515351/\">Shohei Ohtani</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10312513@N08\">Scott U</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:55:50.955Z",
+        "width": 4608,
+        "height": 3456,
+        "bytes": 5651820,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.765715619046349,
+        "entropy": 6.778921404540938,
+        "effectiveDetailRatio": 0.521828,
+        "kind": "source",
+        "coverScale": 0.391,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "3241abcf0b5c8c7473c8f1c679767bb3481e1922b324becaecdee829e5f666cc"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "오타니 쇼헤이",
+      "subject": "오타니 쇼헤이",
+      "imageCredit": "Scott U",
+      "creditDisplay": "Scott U · CC BY-SA 2.0 · 2019 자료",
+      "photoDate": "2019-05-27",
+      "photoDateLabel": "2019-05-27 자료사진",
+      "sceneGroup": "20190527-ohtani-angels-walking-field",
+      "sceneDescription": "2019년 에인절스 붉은 유니폼의 오타니가 잔디 위를 걸어오는 앞모습. 2018 마운드·2022 헬멧 인물 사진과 날짜·장소·동작이 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:00:39.394Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Scott U",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(48343515351).jpg",
+        "metadataDate": "2019-05-27 12:54",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 5,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10312513@N08\">Scott U</a>",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "hostingMirror": {
+        "commit": "aca707f8970206a1f6e3e88394953b509454cf37",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "3241abcf0b5c8c7473c8f1c679767bb3481e1922b324becaecdee829e5f666cc",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    }
+  ]
+}
