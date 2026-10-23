@@ -1,0 +1,909 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "크로-암스트롱, 올해 최고의 수비수",
+  "issueKey": "mlb-20261022-fielding-bible-awards",
+  "checkedAt": "2026-10-23T01:09:24.455Z",
+  "sourceUrl": "https://www.sportsinfosolutions.com/2026/10/22/2026-fielding-bible-awards-winners/",
+  "corroboratingUrls": [
+    "https://www.sportsinfosolutions.com/2026/10/22/2026-fielding-bible-awards-voting-details/",
+    "https://www.reddit.com/r/CHICubs/comments/1xcsk3a/sports_info_solutions_cubs_win_defensive_team_of/",
+    "https://www.reddit.com/r/redsox/comments/1xcszzo/sports_info_solutions_ceddanne_rafaela_wilyer/",
+    "https://www.mlb.com/news/fielding-bible-award-winners-for-2026"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.sportsinfosolutions.com/2026/10/22/2026-fielding-bible-awards-winners/",
+      "role": "award-organizer-official-winners",
+      "author": "Mark Simon"
+    },
+    {
+      "url": "https://www.sportsinfosolutions.com/2026/10/22/2026-fielding-bible-awards-voting-details/",
+      "role": "award-organizer-official-voting-rules"
+    },
+    {
+      "url": "https://www.reddit.com/r/CHICubs/comments/1xcsk3a/sports_info_solutions_cubs_win_defensive_team_of/",
+      "role": "same-award-author-official-explanation",
+      "author": "SIS Mark Simon"
+    }
+  ],
+  "rightsEvidence": "1p Minda Haas Kuhlmann; CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://www.flickr.com/photos/mindahaas/53620274935/; 촬영일2024-03-29; 원본URLhttps://live.staticflickr.com/65535/53620274935_e1a702cb66_o.jpg; SHA79bb243c10bccfe9a22d5341eb165bf9d1dcc5febdd946761c9b7bfe20f69e33. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n2p Keith Allison; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Matt_Olson_(35939469653).jpg; 촬영일2017-08-22; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA35280f5d88f65b2c9b490c845f00ef86ff3efa19a3a25ebae16126e6cbb428d6. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n3p Chris Waugaman; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:TwinsvsRedSox_41526029.jpg; 촬영일2026-04-15; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA8d1d761de7692b9d06abf2946680f1223874502d89db8a0e06a8f5dc5306923d. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n4p Erik Drost; CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://commons.wikimedia.org/wiki/File:Tanner_Bibee_(52968064094).jpg; 촬영일2023-05-14; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA277e5081e96a2ad9979e773aee8dd7e4faa5889f8546e874c0dc995d6a492dee. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n5p D. Benjamin Miller; CC0; http://creativecommons.org/publicdomain/zero/1.0/deed.en; https://commons.wikimedia.org/wiki/File:Alex_Bregman_during_his_at-bat,_March_2,_2019.jpg; 촬영일2019-03-02; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHAa5d3040698631d20a797b173adbfcb3fd7003f6918d7f429b9b17009b71bc8a4. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.",
+  "photos": [
+    {
+      "title": "File:Pete Crow-Armstrong 2024 fielding.jpg",
+      "pageid": 174856047,
+      "sourcePageUrl": "https://www.flickr.com/photos/mindahaas/53620274935/",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e8beaf71b4b584dc45fa01445454396f91b81fa9/source-originals/2026-10-23-mlb-2026-fielding-bible-awards/source-1-79bb243c10bccfe9.jpg",
+      "originalUrl": "https://live.staticflickr.com/65535/53620274935_e1a702cb66_o.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\flickr-53620274935.jpg",
+      "sha256": "79bb243c10bccfe9a22d5341eb165bf9d1dcc5febdd946761c9b7bfe20f69e33",
+      "metadata": {
+        "size": 638576,
+        "width": 1735,
+        "height": 1313,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pete_Crow-Armstrong_2024_fielding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1211,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pete_Crow-Armstrong_2024_fielding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1211
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pete_Crow-Armstrong_2024_fielding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pete_Crow-Armstrong_2024_fielding.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=174856047",
+        "sha1": "ab70df9b3cefbbc9d024d11d1143a1d441ed5a70",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-09-11 08:11:34",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Pete Crow-Armstrong 2024 fielding",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Iowa Cubs|Flickr images reviewed by FlickreviewR 2|Pete Crow-Armstrong",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "2024 | Minor League Baseball Photos | Minda Haas Kuhlmann",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-03-29 18:28:07",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/mindahaas/53620274935/\">https://www.flickr.com/photos/mindahaas/53620274935/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Minda Haas Kuhlmann",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "commonsLicensePage": "https://commons.wikimedia.org/wiki/File:Pete_Crow-Armstrong_2024_fielding.jpg",
+      "flickrDiscoveryHtml": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\flickr-53620274935.html",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:54:59.771Z",
+        "width": 2880,
+        "height": 1920,
+        "bytes": 541076,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.52025269456112,
+        "entropy": 6.359456980511823,
+        "effectiveDetailRatio": 0.620423,
+        "kind": "source",
+        "coverScale": 0.703,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://live.staticflickr.com/65535/53620274935_e1a702cb66_o.jpg",
+        "sha256": "79bb243c10bccfe9a22d5341eb165bf9d1dcc5febdd946761c9b7bfe20f69e33"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "피트 크로-암스트롱",
+      "subject": "피트 크로-암스트롱",
+      "imageCredit": "Minda Haas Kuhlmann",
+      "creditDisplay": "Minda Haas Kuhlmann · CC BY 2.0 · 2024 자료",
+      "photoDate": "2024-03-29",
+      "photoDateLabel": "2024-03-29 자료사진",
+      "sceneGroup": "20240329-pca-iowa-fielding-ball",
+      "sceneDescription": "아이오와 시절 파란 컵스 유니폼의 크로-암스트롱이 외야 타구를 쫓아 맨손을 뻗는 전신. 구장 펜스·떨어진 모자와 공이 보인다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:01:59.958Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Minda Haas Kuhlmann",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://www.flickr.com/photos/mindahaas/53620274935/",
+        "metadataDate": "2024-03-29 18:28:07",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 1,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "Minda Haas Kuhlmann",
+      "upstreamOriginalUrl": "https://live.staticflickr.com/65535/53620274935_e1a702cb66_o.jpg",
+      "hostingMirror": {
+        "commit": "e8beaf71b4b584dc45fa01445454396f91b81fa9",
+        "originalUrl": "https://live.staticflickr.com/65535/53620274935_e1a702cb66_o.jpg",
+        "sha256": "79bb243c10bccfe9a22d5341eb165bf9d1dcc5febdd946761c9b7bfe20f69e33",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Matt Olson (35939469653).jpg",
+      "pageid": 61878569,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Matt_Olson_(35939469653).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e8beaf71b4b584dc45fa01445454396f91b81fa9/source-originals/2026-10-23-mlb-2026-fielding-bible-awards/source-2-35280f5d88f65b2c.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Matt_Olson__35939469653_.jpg",
+      "sha256": "35280f5d88f65b2c9b490c845f00ef86ff3efa19a3a25ebae16126e6cbb428d6",
+      "metadata": {
+        "size": 1532900,
+        "width": 3028,
+        "height": 4265,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2254,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/1/10/Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2254,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/10/Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Matt_Olson_(35939469653).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61878569",
+        "sha1": "339087fabd5702f79d59257a7fdd17fa4511e563",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-08-23 07:19:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Matt Olson (35939469653)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Matt Olson|2017 Oakland Athletics season|MLB photos taken by Keith Allison|Images with extracted images|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.283661",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-76.621470",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A's at Orioles 8/22/17",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-08-22 19:17",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/keithallison/35939469653/\">Matt Olson</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27003603@N00\">Keith Allison</a> from Hanover, MD, USA",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:19.501Z",
+        "width": 1920,
+        "height": 2704,
+        "bytes": 1152323,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.991807987088364,
+        "entropy": 7.516062785027316,
+        "effectiveDetailRatio": 0.596334,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "35280f5d88f65b2c9b490c845f00ef86ff3efa19a3a25ebae16126e6cbb428d6"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "맷 올슨",
+      "subject": "맷 올슨",
+      "imageCredit": "Keith Allison",
+      "creditDisplay": "Keith Allison · CC BY-SA 2.0 · 2017 자료",
+      "photoDate": "2017-08-22",
+      "photoDateLabel": "2017-08-22 자료사진",
+      "sceneGroup": "20170822-olson-oakland-running",
+      "sceneDescription": "애슬레틱스 시절 녹색 유니폼의 올슨이 주루하는 전신. 다른 선수·행사·배경의 사진들과 독립 장면.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:01:59.960Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Keith Allison",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Matt_Olson_(35939469653).jpg",
+        "metadataDate": "2017-08-22 19:17",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 2,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27003603@N00\">Keith Allison</a> from Hanover, MD, USA",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "e8beaf71b4b584dc45fa01445454396f91b81fa9",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "35280f5d88f65b2c9b490c845f00ef86ff3efa19a3a25ebae16126e6cbb428d6",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:TwinsvsRedSox 41526029.jpg",
+      "pageid": 195449382,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:TwinsvsRedSox_41526029.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e8beaf71b4b584dc45fa01445454396f91b81fa9/source-originals/2026-10-23-mlb-2026-fielding-bible-awards/source-3-8d1d761de7692b9d.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\TwinsvsRedSox_41526029.jpg",
+      "sha256": "8d1d761de7692b9d06abf2946680f1223874502d89db8a0e06a8f5dc5306923d",
+      "metadata": {
+        "size": 30036198,
+        "width": 8192,
+        "height": 5464,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1366,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1366
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:TwinsvsRedSox_41526029.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195449382",
+        "sha1": "84f80016d8b59428480802a489cd33d965cdd525",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-07-10 13:49:23",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "TwinsvsRedSox 41526029",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Trevor Story|Self-published work|2 male baseball players|Ceddanne Rafaela|Boston Red Sox vs. Minnesota Twins (April 15, 2026)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Red Sox defeated the Twins on Jackie Robinson Day 9-5.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-04-15 14:44:26",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cwaugaman\" title=\"User:Cwaugaman\">Chris Waugaman</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:58:23.842Z",
+        "width": 3840,
+        "height": 2561,
+        "bytes": 1710320,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9575120081057262,
+        "entropy": 7.512208353247843,
+        "effectiveDetailRatio": 0.610209,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "8d1d761de7692b9d06abf2946680f1223874502d89db8a0e06a8f5dc5306923d"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "세단 라파엘라 · 트레버 스토리",
+      "subject": "세단 라파엘라 · 트레버 스토리",
+      "imageCredit": "Chris Waugaman",
+      "creditDisplay": "Chris Waugaman · CC BY-SA 4.0 · 2026 자료",
+      "photoDate": "2026-04-15",
+      "photoDateLabel": "2026-04-15 자료사진",
+      "sceneGroup": "20260415-rafaela-story-redsox-walking-field",
+      "sceneDescription": "보스턴 회색 유니폼의 라파엘라와 스토리가 그라운드를 걷는 옆모습. 라파엘라가 왼쪽, 스토리가 오른쪽에 있다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:01:59.960Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Chris Waugaman",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:TwinsvsRedSox_41526029.jpg",
+        "metadataDate": "2026-04-15 14:44:26",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 4.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 3,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license": "CC BY-SA 4.0",
+      "author": "<a href=\"//commons.wikimedia.org/wiki/User:Cwaugaman\" title=\"User:Cwaugaman\">Chris Waugaman</a>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "e8beaf71b4b584dc45fa01445454396f91b81fa9",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "8d1d761de7692b9d06abf2946680f1223874502d89db8a0e06a8f5dc5306923d",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Tanner Bibee (52968064094).jpg",
+      "pageid": 133015710,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Tanner_Bibee_(52968064094).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e8beaf71b4b584dc45fa01445454396f91b81fa9/source-originals/2026-10-23-mlb-2026-fielding-bible-awards/source-4-277e5081e96a2ad9.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Tanner_Bibee__52968064094_.jpg",
+      "sha256": "277e5081e96a2ad9979e773aee8dd7e4faa5889f8546e874c0dc995d6a492dee",
+      "metadata": {
+        "size": 24532793,
+        "width": 5504,
+        "height": 8256,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2400,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/3840px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2400,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/3840px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tanner_Bibee_(52968064094).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133015710",
+        "sha1": "a06c80a7d470704f9fbec85b6a5453b8b9c471a2",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-06-12 12:57:50",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Tanner Bibee (52968064094)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Tanner Bibee|Images with extracted images|Photographs by Erik Drost|Flickr images reviewed by FlickreviewR 2|Los Angeles Angels at Cleveland Guardians (May 14, 2023)|United States photographs taken on 2023-05-14|Baseball players with high socks|Mother's Day uniforms|Progressive Field bullpens",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "41.495832",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.685397",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Tanner Bibee warming up in the bullpen before a game at Progressive Field in May 2023",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-05-14 11:21:22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/edrost88/52968064094/\">https://www.flickr.com/photos/edrost88/52968064094/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Erik Drost",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:49:03.824Z",
+        "width": 1920,
+        "height": 2880,
+        "bytes": 1750094,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 5.416414585770681,
+        "entropy": 7.778702209761832,
+        "effectiveDetailRatio": 0.692945,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "277e5081e96a2ad9979e773aee8dd7e4faa5889f8546e874c0dc995d6a492dee"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "태너 비비",
+      "subject": "태너 비비",
+      "imageCredit": "Erik Drost",
+      "creditDisplay": "Erik Drost · CC BY 2.0 · 2023 자료",
+      "photoDate": "2023-05-14",
+      "photoDateLabel": "2023-05-14 자료사진",
+      "sceneGroup": "20230514-bibee-guardians-pitching-followthrough",
+      "sceneDescription": "붉은 가디언스 유니폼과 분홍 양말의 비비가 투구를 마친 전신. 다른 네 장과 선수·행동·날짜·배경이 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:01:59.960Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Erik Drost",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Tanner_Bibee_(52968064094).jpg",
+        "metadataDate": "2023-05-14 11:21:22",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 4,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "Erik Drost",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "e8beaf71b4b584dc45fa01445454396f91b81fa9",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "277e5081e96a2ad9979e773aee8dd7e4faa5889f8546e874c0dc995d6a492dee",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Alex Bregman during his at-bat, March 2, 2019.jpg",
+      "pageid": 77050845,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Alex_Bregman_during_his_at-bat,_March_2,_2019.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e8beaf71b4b584dc45fa01445454396f91b81fa9/source-originals/2026-10-23-mlb-2026-fielding-bible-awards/source-5-a5d3040698631d20.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Alex_Bregman_during_his_at-bat__March_2__2019.jpg",
+      "sha256": "a5d3040698631d20a797b173adbfcb3fd7003f6918d7f429b9b17009b71bc8a4",
+      "metadata": {
+        "size": 6025187,
+        "width": 6000,
+        "height": 4000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1365,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1365
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alex_Bregman_during_his_at-bat,_March_2,_2019.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77050845",
+        "sha1": "a4a8340f155f488d4ce9e0a048a12b5e21684925",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-03-03 13:19:43",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Alex Bregman during his at-bat, March 2, 2019",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Alex Bregman|CC-Zero|Wilson Ramos|2019 Houston Astros season|Self-published work|Images with extracted images|Photographs by D. Benjamin Miller",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Alex Bregman of the Houston Astros takes an at-bat.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-03-02 15:36:59",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi>D. Benjamin Miller</bdi>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:31.871Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1053873,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.8872638347397784,
+        "entropy": 7.317693148856961,
+        "effectiveDetailRatio": 0.48886,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "a5d3040698631d20a797b173adbfcb3fd7003f6918d7f429b9b17009b71bc8a4"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "알렉스 브레그먼",
+      "subject": "알렉스 브레그먼",
+      "imageCredit": "D. Benjamin Miller",
+      "creditDisplay": "D. Benjamin Miller · CC0 · 2019 자료",
+      "photoDate": "2019-03-02",
+      "photoDateLabel": "2019-03-02 자료사진",
+      "sceneGroup": "20190302-bregman-astros-spring-batting",
+      "sceneDescription": "휴스턴 시절 남색 유니폼의 브레그먼이 타석 앞에서 포수를 바라보는 상반신. 현재 컵스 수상자를 보여주는 날짜를 밝힌 자료사진.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:01:59.960Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "D. Benjamin Miller",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Alex_Bregman_during_his_at-bat,_March_2,_2019.jpg",
+        "metadataDate": "2019-03-02 15:36:59",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 5,
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license": "CC0",
+      "author": "<bdi>D. Benjamin Miller</bdi>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "e8beaf71b4b584dc45fa01445454396f91b81fa9",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "a5d3040698631d20a797b173adbfcb3fd7003f6918d7f429b9b17009b71bc8a4",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    }
+  ]
+}
