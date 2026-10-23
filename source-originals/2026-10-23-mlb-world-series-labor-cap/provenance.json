@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-23T00:48:47.254Z",
+  "photos": [
+    {
+      "name": "source-1-44dc9e3e820490b5.jpg",
+      "sha256": "44dc9e3e820490b5a5f185f42a5fd9e12559ea2d04349136ae45f093a4fc92cc",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Rob_Manfred_7-15-2014.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Rob_Manfred_7-15-2014.jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63704136@N00\">Arturo Pardavila III</a> from Hoboken, NJ, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-2-2de15a8a021ca2b7.jpg",
+      "sha256": "2de15a8a021ca2b7db4faeb9df613c6b1e3fdaf995c49be0e2953b86722ae049",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Juan_Soto_crouching_2022.jpg/3840px-Juan_Soto_crouching_2022.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Juan_Soto_crouching_2022.jpg",
+      "author": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-3-b7059fc541bf3384.jpg",
+      "sha256": "b7059fc541bf338473cbc287c025f13d7061a0b9ca6a499865bea10e312caf6e",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/DrewRasmussen2026.jpg/1920px-DrewRasmussen2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:DrewRasmussen2026.jpg",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Raysfanjake1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Raysfanjake1984 (page does not exist)\">Raysfanjake1984</a>",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-4-178fc5440728bb2b.jpg",
+      "sha256": "178fc5440728bb2b1d8334c49db3bdb1c35e446c4b4c0ec757acfe38036fae15",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Trevor_Megill.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Trevor_Megill.jpg",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:IanStone20165&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:IanStone20165 (page does not exist)\">IanStone20165</a>",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-5-12f2174e5915e456.jpg",
+      "sha256": "12f2174e5915e45611438d2c5f1fa00f997bd32c7a5bc9b7215ad2b396b9c9fc",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Miller_Park_%2816180192112%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Miller_Park_(16180192112).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42603028@N05/\">redlegsfan21</a>",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    }
+  ]
+}
