@@ -3,7 +3,7 @@
   "handle": "@baseball_kartell",
   "headline": "에히메 새 감독 오다, NPB 진출 돕는다",
   "issueKey": "japan-independent-20261021-ehime-oda-kohei-manager-inauguration",
-  "checkedAt": "2026-10-23T01:27:30.159Z",
+  "checkedAt": "2026-10-23T01:41:40.986Z",
   "sourceUrl": "https://www.m-pirates.jp/6682",
   "corroboratingUrls": [
     "https://www.iblj.co.jp/news/21236/",
@@ -98,43 +98,39 @@
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-23T01:07:56.864Z",
+        "checkedAt": "2026-10-23T01:32:53.908Z",
         "width": 5693,
         "height": 4093,
-        "bytes": 1829767,
-        "format": "jpeg",
-        "mimeType": "image/jpg",
-        "effectiveSharpness": 0.6702071934330258,
-        "entropy": 7.666119235858787,
-        "effectiveDetailRatio": 0.540372,
+        "bytes": 1069410,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 0.7080193159120985,
+        "entropy": 7.647762719512684,
+        "effectiveDetailRatio": 0.556315,
         "kind": "source",
         "coverScale": 0.33,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "url": "https://assets.st-note.com/img/1792711925-cPv9N3Akg8ELulqKpD0IWFSO.jpg",
-        "sha256": "b630bde2c5345485df66ea0e3ff22aa4dc35852939ed07e9de10ddc1ac5cd859",
-        "perceptualHash": "3df4e4aab2c4c8c0",
+        "sha256": "bd42d2e56229dab4bc1bf0fb755a1907952f8aba38be9b3f2dd0c6c33989a501",
+        "perceptualHash": "79f4e4aab2c4c8c8",
         "edgeFingerprint": {
           "version": "edge-v2",
-          "full": "BAQGBgYJCwslNDZMFyETGhgWFxQYFhYWEwYnFhRKBAQGBQQGCgYHGSUnLS8BNBoXGBcXExcNDhADHxFLAwEFBAEDCAQDDTJNLR8uQhoUFBcVLBoGEg0ZGxJPBQMEBQICBQQHKmUjHQ5GNRQRERMRKkkxMSwaHxpMFBoLBA8hEQEKT0oRHAlaQg4NDxEaCQ08IjQ1GR09Kz02CDhgLx83XyIQFhBRTAgIBhM0q711DxkgESIVLS1YFF8zTy9dLjwiGg5oWCUPBED/q0D9gBUHF0W7ISs9JEo+JRgVTS4KEQ01Z1hWPLmHh4Iqty0CTv9/CQk+TjBQB09VWzUDIyMxFgYsPFFwUhJXaB0ttGZ6EBMhTSM8ontTJixmHA5pI1BAPD51HyIyXAs9X1EpFBM8VimTgwYLCQ4vYhk4myMxGSVoPB9VSwMuZW4QBBVMLkt4NQUNEQQTLlBBWpI1Xp+bGT88sIlANn8yBBRmGmhiJBIQFBIEFVgZPE+ErGY6yRWOr8i8fHxJKzpgnkaSVQgOEhkQFiJfLEBujovodLJjcTlAUUhXJx5nxtBtSQofEhUaGQhgJVQcf2O6VXqFDo09KUAeMjCLcV2ANSAiCQkGCQY2OSsiKVujKRtVcHcoECY2DR9JaBgjLxwHFhkIDBMmXhIrE21pBgYroHpLSBlKYxBKVCUdECUSFA0ICAQgS25BT5pCCARJvW00ZWNAeClCeiEFBhQiJysaIh4gT1VzdkoBBxeItTcWIypAa0M5ZCcEAg4KDxEMFSMjHy07TAwMPX26fSE5cF08Ul8qZyQLCxUUEh4XIxYQDTpwgnA0hINSOE18WZGMMXcWaCMNBBkCFhsTEyAlFUBjVoM2i1MXQlUsXXl/C2UXWRQOAxsQGhEBDRgUExg7TEBBV0wfTGZsiFkSBE43UB0RBxoYFRAFDhgXISFIRDyDjVIyjXpjUhcNEChdNxwPBBseFAoHDxoYGVxfNXqTVyqrhhEICAYBDAU5IggHCBwkEAkHExMiKHk9HmNVEJ6qIQQgHQUCBAgDBwQICRYpEQQEERAyO58/ImxNpsI5ARwtPRgGBQIFBQUJCBMsGg0VGRk0Q6kWiYWwoTMGDTA7Qy4JAgcGBAYJBg8ZFhkhHxodV4k1haBGJA0ICzc7SDEVAwcEBwUMAxQYBBANDQ0LTXAcaYUUDQcJCEJaXE02BQQGBAUKBBMbDA8OCAUJX4smh5kPDCAPCWJ7dmhSBwMHBgMIBh8aEQsLCwUHbYhGnngIK1Y6GYZ3kHF1CQULBwIGJGMYCgYPCwUSS0NER2wZXE9jKYlckU6ZBwULBgIMYitSCAQSAwwGNUZAQGUWdRx3I4lJkS+pBwUMBQMJTSg+BAkRAQYQc3wxiH4HcgZuD5pAoi2kBgkOCAIUQhAnCA0ZEQMJdGEdgHsjgTR0D5ogmyCdAQ0KDgYoXkcwAQ4sIxAMZWIoiWc+kjyQIqYVpCebCQ8BCgdTkk5nCR8dLx4Mak00bU89hDSIKqoEqhir",
-          "top": "BAQGBgYJCwslNDZMFyETGhgWFxQYFhYWEwYnFhRKBAQGBQQGCgYHGSUnLS8BNBoXGBcXExcNDhADHxFLAwEFBAEDCAQDDTJNLR8uQhoUFBcVLBoGEg0ZGxJPBQMEBQICBQQHKmUjHQ5GNRQRERMRKkkxMSwaHxpMFBoLBA8hEQEKT0oRHAlaQg4NDxEaCQ08IjQ1GR09Kz02CDhgLx83XyIQFhBRTAgIBhM0q711DxkgESIVLS1YFF8zTy9dLjwiGg5oWCUPBED/q0D9gBUHF0W7ISs9JEo+JRgVTS4KEQ01Z1hWPLmHh4Iqty0CTv9/CQk+TjBQB09VWzUDIyMxFgYsPFFwUhJXaB0ttGZ6EBMhTSM8ontTJixmHA5pI1BAPD51HyIyXAs9X1EpFBM8VimTgwYLCQ4vYhk4myMxGSVoPB9VSwMuZW4QBBVMLkt4NQUNEQQTLlBBWpI1Xp+bGT88sIlANn8yBBRmGmhiJBIQFBIEFVgZPE+ErGY6yRWOr8i8fHxJKzpgnkaSVQgOEhkQFiJfLEBujovodLJjcTlAUUhXJx5nxtBtSQofEhUaGQhgJVQcf2O6VXqFDo09KUAe",
-          "middle": "BBRmGmhiJBIQFBIEFVgZPE+ErGY6yRWOr8i8fHxJKzpgnkaSVQgOEhkQFiJfLEBujovodLJjcTlAUUhXJx5nxtBtSQofEhUaGQhgJVQcf2O6VXqFDo09KUAeMjCLcV2ANSAiCQkGCQY2OSsiKVujKRtVcHcoECY2DR9JaBgjLxwHFhkIDBMmXhIrE21pBgYroHpLSBlKYxBKVCUdECUSFA0ICAQgS25BT5pCCARJvW00ZWNAeClCeiEFBhQiJysaIh4gT1VzdkoBBxeItTcWIypAa0M5ZCcEAg4KDxEMFSMjHy07TAwMPX26fSE5cF08Ul8qZyQLCxUUEh4XIxYQDTpwgnA0hINSOE18WZGMMXcWaCMNBBkCFhsTEyAlFUBjVoM2i1MXQlUsXXl/C2UXWRQOAxsQGhEBDRgUExg7TEBBV0wfTGZsiFkSBE43UB0RBxoYFRAFDhgXISFIRDyDjVIyjXpjUhcNEChdNxwPBBseFAoHDxoYGVxfNXqTVyqrhhEICAYBDAU5IggHCBwkEAkHExMiKHk9HmNVEJ6qIQQgHQUCBAgDBwQICRYpEQQEERAyO58/ImxNpsI5ARwtPRgG",
-          "bottom": "BE43UB0RBxoYFRAFDhgXISFIRDyDjVIyjXpjUhcNEChdNxwPBBseFAoHDxoYGVxfNXqTVyqrhhEICAYBDAU5IggHCBwkEAkHExMiKHk9HmNVEJ6qIQQgHQUCBAgDBwQICRYpEQQEERAyO58/ImxNpsI5ARwtPRgGBQIFBQUJCBMsGg0VGRk0Q6kWiYWwoTMGDTA7Qy4JAgcGBAYJBg8ZFhkhHxodV4k1haBGJA0ICzc7SDEVAwcEBwUMAxQYBBANDQ0LTXAcaYUUDQcJCEJaXE02BQQGBAUKBBMbDA8OCAUJX4smh5kPDCAPCWJ7dmhSBwMHBgMIBh8aEQsLCwUHbYhGnngIK1Y6GYZ3kHF1CQULBwIGJGMYCgYPCwUSS0NER2wZXE9jKYlckU6ZBwULBgIMYitSCAQSAwwGNUZAQGUWdRx3I4lJkS+pBwUMBQMJTSg+BAkRAQYQc3wxiH4HcgZuD5pAoi2kBgkOCAIUQhAnCA0ZEQMJdGEdgHsjgTR0D5ogmyCdAQ0KDgYoXkcwAQ4sIxAMZWIoiWc+kjyQIqYVpCebCQ8BCgdTkk5nCR8dLx4Mak00bU89hDSIKqoEqhir"
+          "full": "BAYGBgcIDg0oNzxDDhcRFxUWFRUVEhcREA0gExVIAgQGBAQGCQkHHCoyLBgRIxYVFxcaFBMSEQ4BFhFMAgIFBAMECAQFDTlAJyUkORwTFRgYLRQNEhUXGRVLBAMFBAUEBgQBMVgfKQtANBEQEhMVKUIvOC8UJBpLFBwJBhQhCwUOTUEVFQlQQQ0NDhASDBM6JjAyHRs6MzsxEDJaKxw0TSEOChhFTQQHBgk2q7V9EBYkEhgLJyxWDWIoUzJROUIgHRliUiQMAz//pEPwhwkNCzmzHzA/GD89FRUeViIJDw03WFpFTbeDhnsynC0GRP+QCgFHQTpACEhcSy0JIyY9FQQjOkZ5TAhPXx4mq3d2BhcpSBNEnnNSIChdFhZfGkoxRkJ1ExMzUAUiamYvHhNDTTeLdQgOCwcoWhE7jCAhECRdMx1GTgogXHgFBRZOE0FuOwoLEwIGI0w/ZII3XqWKECVRsYpGJnkrBB9eGmtlHBATFhAFC04XNVR4mVBHrCiCu8OqeoNbHTxljlN/TAQSERYKCyBiQTpif4PPaKZtcT49QVNQGB9rtLJnRg4jCRwWFAdjImYGcVWnWm+ADoNEKD0uMjmBWFd2Mh8bBQgDCAk6OTk0LWGcKBNLan0hFhc1DA1JZA4bLBgNFxcJDwsqVRQzB19bBAQvmG9NLSMtXAlpTwwfFCAOGBIJCAQfSWRERY1NBghEtHc2YE87aCdGfxUOARUdIyoaJRgjS0tubFIEAx+ArTsSHyEyeTdVVxoOBgwQDQwIESEjHCU+XggENICzgR08blg+TVgtXSQODRARGB0cIhUQCjZuiHk4gHhKP0Z4VH+MQGQnVR8QCBUEFxkPDx4mDDRfU3gzcFYbQVktWX10DG4JWw0OBBoQGA8DDBYTDhE6QU5DVUkdQW9vh08NBk0zTBYUBBkYFBAEDxcbHCJPNj19hEk0hHhhTBUGDStUMRERBRwdDwsJEBobEGJKNXSGSSeagREOBgUCCgc8EAwJBR8iDAkGEhQiJ3EwGVhAFJWgKAEWHAIBBAgECAEGBhgnDgUHERAtPZM2Km5QorI5CREkMhcCBAEGBAQJCRcoFg8WGRkpSJEehImYjzAIBSsvMyoCAQYFAgUNBhIVEREYGhYWWXkwe5I9GwgJATEtNiwBAQYEBQYNAhcYBg0NDw8LUmYZZYAPCQgLBDpETTwVBAUCBQYKBRMXCw0OCggDZoMhiZgJCCMLA1dsYV05BwIFBgQGByMSCwsKCQQFcYFKlm8FLlI0BHJrcWdkCAMJBgIBJ1oTBwgMCwgGP0tDQGITW0hdFXZTelKLCAYLBQMNWyhLAQgPBAoFOElDOVMZcxp1EnlEez6fBgULBQUJTSo8CAsNAQoHcoEwkXkHdQV0BoxCjDicBAkMCAMbOR8kBwoaCAcPclQee3IkfSt1A5wqmSmWAhAIDggiUTgnAg4xFwgJcWgvjWM6iTuIGpcpjz2TDA0BBwlcgU9aBykOMgYCY0EsWks2gzeEL44Niimf",
+          "top": "BAYGBgcIDg0oNzxDDhcRFxUWFRUVEhcREA0gExVIAgQGBAQGCQkHHCoyLBgRIxYVFxcaFBMSEQ4BFhFMAgIFBAMECAQFDTlAJyUkORwTFRgYLRQNEhUXGRVLBAMFBAUEBgQBMVgfKQtANBEQEhMVKUIvOC8UJBpLFBwJBhQhCwUOTUEVFQlQQQ0NDhASDBM6JjAyHRs6MzsxEDJaKxw0TSEOChhFTQQHBgk2q7V9EBYkEhgLJyxWDWIoUzJROUIgHRliUiQMAz//pEPwhwkNCzmzHzA/GD89FRUeViIJDw03WFpFTbeDhnsynC0GRP+QCgFHQTpACEhcSy0JIyY9FQQjOkZ5TAhPXx4mq3d2BhcpSBNEnnNSIChdFhZfGkoxRkJ1ExMzUAUiamYvHhNDTTeLdQgOCwcoWhE7jCAhECRdMx1GTgogXHgFBRZOE0FuOwoLEwIGI0w/ZII3XqWKECVRsYpGJnkrBB9eGmtlHBATFhAFC04XNVR4mVBHrCiCu8OqeoNbHTxljlN/TAQSERYKCyBiQTpif4PPaKZtcT49QVNQGB9rtLJnRg4jCRwWFAdjImYGcVWnWm+ADoNEKD0u",
+          "middle": "BB9eGmtlHBATFhAFC04XNVR4mVBHrCiCu8OqeoNbHTxljlN/TAQSERYKCyBiQTpif4PPaKZtcT49QVNQGB9rtLJnRg4jCRwWFAdjImYGcVWnWm+ADoNEKD0uMjmBWFd2Mh8bBQgDCAk6OTk0LWGcKBNLan0hFhc1DA1JZA4bLBgNFxcJDwsqVRQzB19bBAQvmG9NLSMtXAlpTwwfFCAOGBIJCAQfSWRERY1NBghEtHc2YE87aCdGfxUOARUdIyoaJRgjS0tubFIEAx+ArTsSHyEyeTdVVxoOBgwQDQwIESEjHCU+XggENICzgR08blg+TVgtXSQODRARGB0cIhUQCjZuiHk4gHhKP0Z4VH+MQGQnVR8QCBUEFxkPDx4mDDRfU3gzcFYbQVktWX10DG4JWw0OBBoQGA8DDBYTDhE6QU5DVUkdQW9vh08NBk0zTBYUBBkYFBAEDxcbHCJPNj19hEk0hHhhTBUGDStUMRERBRwdDwsJEBobEGJKNXSGSSeagREOBgUCCgc8EAwJBR8iDAkGEhQiJ3EwGVhAFJWgKAEWHAIBBAgECAEGBhgnDgUHERAtPZM2Km5QorI5CREkMhcC",
+          "bottom": "Bk0zTBYUBBkYFBAEDxcbHCJPNj19hEk0hHhhTBUGDStUMRERBRwdDwsJEBobEGJKNXSGSSeagREOBgUCCgc8EAwJBR8iDAkGEhQiJ3EwGVhAFJWgKAEWHAIBBAgECAEGBhgnDgUHERAtPZM2Km5QorI5CREkMhcCBAEGBAQJCRcoFg8WGRkpSJEehImYjzAIBSsvMyoCAQYFAgUNBhIVEREYGhYWWXkwe5I9GwgJATEtNiwBAQYEBQYNAhcYBg0NDw8LUmYZZYAPCQgLBDpETTwVBAUCBQYKBRMXCw0OCggDZoMhiZgJCCMLA1dsYV05BwIFBgQGByMSCwsKCQQFcYFKlm8FLlI0BHJrcWdkCAMJBgIBJ1oTBwgMCwgGP0tDQGITW0hdFXZTelKLCAYLBQMNWyhLAQgPBAoFOElDOVMZcxp1EnlEez6fBgULBQUJTSo8CAsNAQoHcoEwkXkHdQV0BoxCjDicBAkMCAMbOR8kBwoaCAcPclQee3IkfSt1A5wqmSmWAhAIDggiUTgnAg4xFwgJcWgvjWM6iTuIGpcpjz2TDA0BBwlcgU9aBykOMgYCY0EsWks2gzeEL44Niimf"
         },
         "detailFingerprint": {
           "version": "detail-v1",
-          "full": 27.584742,
-          "top": 32.356907,
-          "middle": 30.305881,
-          "bottom": 20.514492,
-          "effectiveRatio": 0.540372
-        },
-        "orientation": 1,
-        "rawWidth": 5693,
-        "rawHeight": 4093
+          "full": 25.829664,
+          "top": 30.342349,
+          "middle": 28.301476,
+          "bottom": 19.267644,
+          "effectiveRatio": 0.556315
+        }
       },
-      "sha256": "b630bde2c5345485df66ea0e3ff22aa4dc35852939ed07e9de10ddc1ac5cd859",
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\ehime-nishino-draft3.jpg",
+      "sha256": "bd42d2e56229dab4bc1bf0fb755a1907952f8aba38be9b3f2dd0c6c33989a501",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\approved-source-1.jpg",
       "index": 1,
       "name": "오다 고헤이·니시노 휴가",
       "subject": "오다 고헤이·니시노 휴가",
@@ -152,7 +148,8 @@
       "rightsEvidence": {
         "kind": "user-confirmed-contract",
         "statement": "2026-10-16 사용자 직접 확인: 일본 매체 사진도 사용권 확보. 이 사진의 일본 매체 원문·원본 URL·실제 기재 촬영자·촬영일 및 확인일에 연결한다. 미기재 촬영자나 계약 조건을 임의로 만들지 않는다."
-      }
+      },
+      "cdnFormatReview": "cdn-source-review.json"
     },
     {
       "group": "ehime-oda-manager",
@@ -171,20 +168,19 @@
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-23T01:02:14.400Z",
+        "checkedAt": "2026-10-23T01:32:55.492Z",
         "width": 1300,
         "height": 1695,
         "bytes": 283453,
         "format": "jpeg",
         "mimeType": "image/jpeg",
-        "effectiveSharpness": 1.6603648201834085,
+        "effectiveSharpness": 1.6603648201832664,
         "entropy": 7.150661527633929,
         "effectiveDetailRatio": 0.538647,
         "kind": "source",
         "coverScale": 0.831,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "url": "https://www.nikkansports.com/baseball/news/img/202501150000561-w1300_1.jpg",
         "sha256": "16b7366a3ea222e4ef85738864ab6dcff45130133fb1d98bc25f6f28c6ac13a8",
         "perceptualHash": "73fba7273e1e1d89",
         "edgeFingerprint": {
@@ -201,10 +197,7 @@
           "middle": 27.590438,
           "bottom": 19.891178,
           "effectiveRatio": 0.538647
-        },
-        "orientation": 1,
-        "rawWidth": 1300,
-        "rawHeight": 1695
+        }
       },
       "sha256": "16b7366a3ea222e4ef85738864ab6dcff45130133fb1d98bc25f6f28c6ac13a8",
       "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\202501150000561-1.jpg",
@@ -225,7 +218,8 @@
       "rightsEvidence": {
         "kind": "user-confirmed-contract",
         "statement": "2026-10-16 사용자 직접 확인: 일본 매체 사진도 사용권 확보. 이 사진의 일본 매체 원문·원본 URL·실제 기재 촬영자·촬영일 및 확인일에 연결한다. 미기재 촬영자나 계약 조건을 임의로 만들지 않는다."
-      }
+      },
+      "cdnFormatReview": "cdn-source-review.json"
     },
     {
       "group": "ehime-oda-manager",
@@ -244,20 +238,19 @@
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-23T01:04:05.554Z",
+        "checkedAt": "2026-10-23T01:32:55.605Z",
         "width": 1300,
         "height": 1702,
         "bytes": 160389,
         "format": "jpeg",
         "mimeType": "image/jpeg",
-        "effectiveSharpness": 1.635709777628731,
+        "effectiveSharpness": 1.635709777628902,
         "entropy": 6.382308133193874,
         "effectiveDetailRatio": 0.509026,
         "kind": "source",
         "coverScale": 0.831,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "url": "https://www.nikkansports.com/baseball/news/img/202112220000270-w1300_0.jpg",
         "sha256": "55489e50c8883f96abf1198c768c6cefbe7c9c47ac78fd0495892e755a31fac8",
         "perceptualHash": "8971463269d97870",
         "edgeFingerprint": {
@@ -274,10 +267,7 @@
           "middle": 18.35166,
           "bottom": 19.063466,
           "effectiveRatio": 0.509026
-        },
-        "orientation": 1,
-        "rawWidth": 1300,
-        "rawHeight": 1702
+        }
       },
       "sha256": "55489e50c8883f96abf1198c768c6cefbe7c9c47ac78fd0495892e755a31fac8",
       "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\202112220000270-0.jpg",
@@ -298,7 +288,8 @@
       "rightsEvidence": {
         "kind": "user-confirmed-contract",
         "statement": "2026-10-16 사용자 직접 확인: 일본 매체 사진도 사용권 확보. 이 사진의 일본 매체 원문·원본 URL·실제 기재 촬영자·촬영일 및 확인일에 연결한다. 미기재 촬영자나 계약 조건을 임의로 만들지 않는다."
-      }
+      },
+      "cdnFormatReview": "cdn-source-review.json"
     },
     {
       "group": "ehime-oda-manager",
@@ -316,43 +307,39 @@
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-23T01:07:58.593Z",
+        "checkedAt": "2026-10-23T01:32:56.306Z",
         "width": 5851,
         "height": 4007,
-        "bytes": 1663034,
-        "format": "jpeg",
-        "mimeType": "image/jpg",
-        "effectiveSharpness": 0.9790567988066263,
-        "entropy": 6.578094937058836,
-        "effectiveDetailRatio": 0.641702,
+        "bytes": 1112348,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 1.0204969250400289,
+        "entropy": 6.545085219395787,
+        "effectiveDetailRatio": 0.696684,
         "kind": "source",
         "coverScale": 0.337,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "url": "https://assets.st-note.com/img/1790413246-D1WkiLp067ZmEhl9AjsSgGy8.jpg",
-        "sha256": "56aca36141daf07df9ffe50a7abe332541b1056d3fd214f74e7dabc18cbc2ee2",
-        "perceptualHash": "0f1b3333123879d8",
+        "sha256": "85fbdeaad885ed28c00c718f24dae861cb8285dfa5fa5ca7c8ec13b6865fc0f0",
+        "perceptualHash": "0b1b3932b2b8f9d8",
         "edgeFingerprint": {
           "version": "edge-v2",
-          "full": "AAABAQEBAQEBAwIAAwMEAgMCAgMDAQMCAgIBAgICAQEBAQACAQECBAQEDxQKAwQBAgIBAQECAwEBAQEBAQEBAQEBAgILIDRAVVlPLREEAQEBAQEBBAIBAgEBAAEAAQECBSRMX1xTRD8+OCkWBQEBAQEBAQMCAgMDAAAAAAIFNG9PKRAJDR5XMA4LEAQBAQEBAAEBAAECAAAAAQUwfDgQICIfHzEwLCAdFQ8BAQEBAQEAAAAAAAABBB93QR4mISIjJCYbIiwWHxIRAQUCBAEBAAAAAAACDlpXDygpJx8WFxYXBidKMiQxR0lEFQYBAQABAAEFJ1sfIDQxHhQXFQYUJR0EQoSIUT9abBYEAAABAAACH1MlLTUWBgoGGCIZNYSwp2dRNQ8JRU8GAgIDAQACC08vMRoJJikuO2iewZ49EisGOkJSZisEAwIBAQEDEkAuFkCPg15bhoBZKjBINkRPjV1HKQUBAQICAQABA0U/Y7R8TzYCEigrLxwiGhRQRQwEAgEBAgIBAQABATFAfVFvVHVMSTodHBAYHQdUPgIDAQICAQEAAQEAAQQ+NxlAcEdEOS4qGRkUGSc6KQQBAQICAgEBAgEBAQQpKTI9IhwhQDUsKwsfJB8vKwcCAgMCAgEBAgEBAQgtMxxCGiMdMioWJxIbHwMZIgQCAwEBAQEBBAMCAgdEFisqRCsrNRgkIhAWCDM4HgMBAQEBAgECAwIDAwk4Xk1RKCU8HxUnFhAaJQ9BEAMBAQEDAQEBBAECAQILVDw5GEIqEg0WIRYLES43BgEBAAICAQIBAwICAQACFUonSS8fEQ0KDg4QDzMZAwEDAQMCAQECBAMCAwMCCkwhXToNGRcQDxMTEDMZAwEBAgECAQEBBgUDBQIGGV0HUkcdEQoOGSUeMScSAgQDAgQCAQEABgUGBBEPQU8jQkQrCQ0NIxwhcZE8FgUEAwQCAgECCQgIFjwmXj06LDQrEAoRHCJMO5i6kFskCAYBBAMDChUMSCYaWo8qCyszDQQGECBJVyRRgqyocS4MBAcFFyQ2PR4ZIXBcEjo2DxkhHDBYPBYECSxmpa56QSIbHiJUUh4wGixeDUIzFSolFjc6JRgCCAYHHlmUzHAqN1pkLR0QFyZteydtTCUVFDtALggGAgQGBQcYW+BdOkwoCh4nCyUgbpJ2YEFAW1U2CgQBAQEBBQQEDmmaQUcVGQgjMDU3TmtjQjU+Ox4IBQIBAQEBAAQEBDeMZkM5MxobKiwgDhMOCxMDBwgFAQIBAQEBAQICBR2MUCkuMDU1IAwZLDIfEBQYBAABAQEBAQEBAQEBBBBrIQgHDx0fBBMdHQ0PDQ0RDwIAAgAAAAAAAAIBAwtmEgUEGjYYIxgdHhcQEA0OBQYBBgUBAAAAAAMBAQZcCwMDCSElLCYgFxUUDhILBgMHBQsFAQAAAgQEAwVRBgEFBhYQExEOCAoMEw8BBQYCBgQJAQABAwMHCgdiAgUFCAsUBAIBAQMFBAICAQMHBwoEAQEBAwQLBwM1",
-          "top": "AAABAQEBAQEBAwIAAwMEAgMCAgMDAQMCAgIBAgICAQEBAQACAQECBAQEDxQKAwQBAgIBAQECAwEBAQEBAQEBAQEBAgILIDRAVVlPLREEAQEBAQEBBAIBAgEBAAEAAQECBSRMX1xTRD8+OCkWBQEBAQEBAQMCAgMDAAAAAAIFNG9PKRAJDR5XMA4LEAQBAQEBAAEBAAECAAAAAQUwfDgQICIfHzEwLCAdFQ8BAQEBAQEAAAAAAAABBB93QR4mISIjJCYbIiwWHxIRAQUCBAEBAAAAAAACDlpXDygpJx8WFxYXBidKMiQxR0lEFQYBAQABAAEFJ1sfIDQxHhQXFQYUJR0EQoSIUT9abBYEAAABAAACH1MlLTUWBgoGGCIZNYSwp2dRNQ8JRU8GAgIDAQACC08vMRoJJikuO2iewZ49EisGOkJSZisEAwIBAQEDEkAuFkCPg15bhoBZKjBINkRPjV1HKQUBAQICAQABA0U/Y7R8TzYCEigrLxwiGhRQRQwEAgEBAgIBAQABATFAfVFvVHVMSTodHBAYHQdUPgIDAQICAQEAAQEAAQQ+NxlAcEdEOS4qGRkUGSc6KQQBAQICAgEB",
-          "middle": "AQABA0U/Y7R8TzYCEigrLxwiGhRQRQwEAgEBAgIBAQABATFAfVFvVHVMSTodHBAYHQdUPgIDAQICAQEAAQEAAQQ+NxlAcEdEOS4qGRkUGSc6KQQBAQICAgEBAgEBAQQpKTI9IhwhQDUsKwsfJB8vKwcCAgMCAgEBAgEBAQgtMxxCGiMdMioWJxIbHwMZIgQCAwEBAQEBBAMCAgdEFisqRCsrNRgkIhAWCDM4HgMBAQEBAgECAwIDAwk4Xk1RKCU8HxUnFhAaJQ9BEAMBAQEDAQEBBAECAQILVDw5GEIqEg0WIRYLES43BgEBAAICAQIBAwICAQACFUonSS8fEQ0KDg4QDzMZAwEDAQMCAQECBAMCAwMCCkwhXToNGRcQDxMTEDMZAwEBAgECAQEBBgUDBQIGGV0HUkcdEQoOGSUeMScSAgQDAgQCAQEABgUGBBEPQU8jQkQrCQ0NIxwhcZE8FgUEAwQCAgECCQgIFjwmXj06LDQrEAoRHCJMO5i6kFskCAYBBAMDChUMSCYaWo8qCyszDQQGECBJVyRRgqyocS4MBAcFFyQ2PR4ZIXBcEjo2DxkhHDBYPBYECSxmpa56QSIb",
-          "bottom": "BgUGBBEPQU8jQkQrCQ0NIxwhcZE8FgUEAwQCAgECCQgIFjwmXj06LDQrEAoRHCJMO5i6kFskCAYBBAMDChUMSCYaWo8qCyszDQQGECBJVyRRgqyocS4MBAcFFyQ2PR4ZIXBcEjo2DxkhHDBYPBYECSxmpa56QSIbHiJUUh4wGixeDUIzFSolFjc6JRgCCAYHHlmUzHAqN1pkLR0QFyZteydtTCUVFDtALggGAgQGBQcYW+BdOkwoCh4nCyUgbpJ2YEFAW1U2CgQBAQEBBQQEDmmaQUcVGQgjMDU3TmtjQjU+Ox4IBQIBAQEBAAQEBDeMZkM5MxobKiwgDhMOCxMDBwgFAQIBAQEBAQICBR2MUCkuMDU1IAwZLDIfEBQYBAABAQEBAQEBAQEBBBBrIQgHDx0fBBMdHQ0PDQ0RDwIAAgAAAAAAAAIBAwtmEgUEGjYYIxgdHhcQEA0OBQYBBgUBAAAAAAMBAQZcCwMDCSElLCYgFxUUDhILBgMHBQsFAQAAAgQEAwVRBgEFBhYQExEOCAoMEw8BBQYCBgQJAQABAwMHCgdiAgUFCAsUBAIBAQMFBAICAQMHBwoEAQEBAwQLBwM1"
+          "full": "AAABAQEBAQEBAAICAAAEAgIBAQQEAwIBAwIBAQEBAAEBAAAAAQEBAAABDBMIAgECAwMAAgMCAgMCAgEBAQEBAQEBAAEJITZBUVFMLRIDAwEAAQICAQECAwMCAQEBAQEBASBHXFZRRDw8OigSAgEBAAEAAQEBAQMEAQABAAEBL2ZOLA4ECh9cORULCQEBAQAAAAEBAQEBAQEBAQEpcTsGHB8dISgxMBwhEw8BAAAAAAAAAAAAAAABARduSBYiJSMiJSQkJCcOIB4OBAABAAAAAAAAAAAACFBbCSYpKRwXFhYTDitGOiM6TE9FDwAAAAEBAAABHVEsGzQwHRMUFQcQGhYHPHmAWUZdZA8AAQEBAAABHUkmJjEZBxgPDx4RNoGmol9IKRADRkkBAQEDAAAAA1Q1Mx0RKR83P2aht5M6GCUFQkdSZSYBAQMDAAAABztFHUOGeFNNdHVULCs6MD5ci1lGKAEBAAIEAAAAAkA0Y6B5TUMMEiIuKxYgEwdENQUCAAEBAgAAAQEAAC45b0ZuUXRCQTYYFQwUGQdVPwEBAQEDAAADAQEBAAg5PBw0a0ZHOzAwHhgNGSQ9LQABAgMCAAMCBAEAAgArLi05Ix8jPTUpJw4iHh8xKQQCAwICAwIBBAICAgcwMhtBHx4ZMCkXKAkZFQQYIgQCAQABAQEABAQEBARCFDMsOiQkNBkoIxEPBS86HAECAQECAQIBAwICAgIlYENXIx84IhYnERAOGhQ7DQEAAQICAgIDBAEAAAABTT1BGjYtEQ4VHhIIBTE1AwMCAQMBAgECAQEBAQEBF1AkSTAcEwwLCw0KCC0YAwIEAgICAAABBgMEAgICAUkjWj0KFxUSDRMUES8ZAwEDAgMBAQMCBwYEBAMDGFcJS0YhEAgNFiYbOCsTAgACAgQBAgEBBgYEAw8JPkwePEMrCwoNIhwiaos9DwEBAgEBAQACCAYEEDYbVkc3KzQrEAsPGh9EPpSskF8kAwECAwQECQ4MQyseS48wCCsxDwMEECFMURlOf6agcS8HBAUDGx81RxwcHWxhGDg0EBgfHDJROhcEBihmnaZ6PikSISJRSx8yFhdZGTkyHColGjk2KBYCBgQEHVmQyGkvNlJcMB0PCyhrf0ByRiIUHTk9LgQFAQMEAwITWtBMOUkqDhojDSwpZYlcTkFCVkwxBgUBAQEABQEABXOCQkwkHREhKSsoPVdgTDc8NRoEAwIBAAACAQUBBkWDY0U5JxccISksFxgXAhIGBAQEAQECAgEAAgIBAiuPUCksMyswHQwQJy8jExIVBAADAgICAwMCAwICARV2JwkGGCMYBg8YIBALCgkPDgIAAwAAAAICAAEDAQ92EwIEEDAgJBoeHRUODQsPBQIBBwMAAAAAAQEDAQ5oCQMDBhsWJiUhFBQVEBQMAgMJBAsDAQEBAAQDBQlqAgQEBRkUFxANCQkLEw0CBAUCCAQJAQEBAwIICgp3AwYDBQkWAgEAAgMDAQIBAQQGBgoDAQEBAQQKBgxG",
+          "top": "AAABAQEBAQEBAAICAAAEAgIBAQQEAwIBAwIBAQEBAAEBAAAAAQEBAAABDBMIAgECAwMAAgMCAgMCAgEBAQEBAQEBAAEJITZBUVFMLRIDAwEAAQICAQECAwMCAQEBAQEBASBHXFZRRDw8OigSAgEBAAEAAQEBAQMEAQABAAEBL2ZOLA4ECh9cORULCQEBAQAAAAEBAQEBAQEBAQEpcTsGHB8dISgxMBwhEw8BAAAAAAAAAAAAAAABARduSBYiJSMiJSQkJCcOIB4OBAABAAAAAAAAAAAACFBbCSYpKRwXFhYTDitGOiM6TE9FDwAAAAEBAAABHVEsGzQwHRMUFQcQGhYHPHmAWUZdZA8AAQEBAAABHUkmJjEZBxgPDx4RNoGmol9IKRADRkkBAQEDAAAAA1Q1Mx0RKR83P2aht5M6GCUFQkdSZSYBAQMDAAAABztFHUOGeFNNdHVULCs6MD5ci1lGKAEBAAIEAAAAAkA0Y6B5TUMMEiIuKxYgEwdENQUCAAEBAgAAAQEAAC45b0ZuUXRCQTYYFQwUGQdVPwEBAQEDAAADAQEBAAg5PBw0a0ZHOzAwHhgNGSQ9LQABAgMCAAMC",
+          "middle": "AAAAAkA0Y6B5TUMMEiIuKxYgEwdENQUCAAEBAgAAAQEAAC45b0ZuUXRCQTYYFQwUGQdVPwEBAQEDAAADAQEBAAg5PBw0a0ZHOzAwHhgNGSQ9LQABAgMCAAMCBAEAAgArLi05Ix8jPTUpJw4iHh8xKQQCAwICAwIBBAICAgcwMhtBHx4ZMCkXKAkZFQQYIgQCAQABAQEABAQEBARCFDMsOiQkNBkoIxEPBS86HAECAQECAQIBAwICAgIlYENXIx84IhYnERAOGhQ7DQEAAQICAgIDBAEAAAABTT1BGjYtEQ4VHhIIBTE1AwMCAQMBAgECAQEBAQEBF1AkSTAcEwwLCw0KCC0YAwIEAgICAAABBgMEAgICAUkjWj0KFxUSDRMUES8ZAwEDAgMBAQMCBwYEBAMDGFcJS0YhEAgNFiYbOCsTAgACAgQBAgEBBgYEAw8JPkwePEMrCwoNIhwiaos9DwEBAgEBAQACCAYEEDYbVkc3KzQrEAsPGh9EPpSskF8kAwECAwQECQ4MQyseS48wCCsxDwMEECFMURlOf6agcS8HBAUDGx81RxwcHWxhGDg0EBgfHDJROhcEBihmnaZ6PikS",
+          "bottom": "BgYEAw8JPkwePEMrCwoNIhwiaos9DwEBAgEBAQACCAYEEDYbVkc3KzQrEAsPGh9EPpSskF8kAwECAwQECQ4MQyseS48wCCsxDwMEECFMURlOf6agcS8HBAUDGx81RxwcHWxhGDg0EBgfHDJROhcEBihmnaZ6PikSISJRSx8yFhdZGTkyHColGjk2KBYCBgQEHVmQyGkvNlJcMB0PCyhrf0ByRiIUHTk9LgQFAQMEAwITWtBMOUkqDhojDSwpZYlcTkFCVkwxBgUBAQEABQEABXOCQkwkHREhKSsoPVdgTDc8NRoEAwIBAAACAQUBBkWDY0U5JxccISksFxgXAhIGBAQEAQECAgEAAgIBAiuPUCksMyswHQwQJy8jExIVBAADAgICAwMCAwICARV2JwkGGCMYBg8YIBALCgkPDgIAAwAAAAICAAEDAQ92EwIEEDAgJBoeHRUODQsPBQIBBwMAAAAAAQEDAQ5oCQMDBhsWJiUhFBQVEBQMAgMJBAsDAQEBAAQDBQlqAgQEBRkUFxANCQkLEw0CBAUCCAQJAQEBAwIICgp3AwYDBQkWAgEAAgMDAQIBAQQGBgoDAQEBAQQKBgxG"
         },
         "detailFingerprint": {
           "version": "detail-v1",
-          "full": 21.162338,
-          "top": 19.51637,
-          "middle": 17.696574,
-          "bottom": 24.790971,
-          "effectiveRatio": 0.641702
-        },
-        "orientation": 1,
-        "rawWidth": 5851,
-        "rawHeight": 4007
+          "full": 21.134629,
+          "top": 19.028193,
+          "middle": 16.979706,
+          "bottom": 25.26399,
+          "effectiveRatio": 0.696684
+        }
       },
-      "sha256": "56aca36141daf07df9ffe50a7abe332541b1056d3fd214f74e7dabc18cbc2ee2",
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\ehime-nishino-season2.jpg",
+      "sha256": "85fbdeaad885ed28c00c718f24dae861cb8285dfa5fa5ca7c8ec13b6865fc0f0",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\approved-source-4.jpg",
       "index": 4,
       "name": "니시노 휴가",
       "subject": "니시노 휴가",
@@ -370,80 +357,213 @@
       "rightsEvidence": {
         "kind": "user-confirmed-contract",
         "statement": "2026-10-16 사용자 직접 확인: 일본 매체 사진도 사용권 확보. 이 사진의 일본 매체 원문·원본 URL·실제 기재 촬영자·촬영일 및 확인일에 연결한다. 미기재 촬영자나 계약 조건을 임의로 만들지 않는다."
-      }
+      },
+      "cdnFormatReview": "cdn-source-review.json"
     },
     {
       "group": "ehime-oda-manager",
-      "url": "https://www.nikkansports.com/baseball/news/202510280000370.html?mode=all",
-      "id": "202510280000370-0",
-      "pageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202510280000370-0.html",
-      "sourcePageUrl": "https://www.nikkansports.com/baseball/news/202510280000370.html?mode=all",
-      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202510280000370-w1300_0.jpg",
-      "caption": "中日小田幸平コーチ（2024年10月撮影）",
+      "url": "https://www.nikkansports.com/baseball/news/202112220000270.html?mode=all",
+      "id": "202112220000270-2",
+      "pageUrl": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202112220000270-2.html",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/news/202112220000270.html?mode=all",
+      "sourceUrl": "https://www.nikkansports.com/baseball/news/img/202112220000270-w1300_2.jpg",
+      "caption": "球団事務所に訪れ報道陣の質疑に応じる小田幸平2軍バッテリーコーチ（撮影・森本幸一）",
       "width": 1300,
-      "height": 1727,
-      "bytes": 243537,
+      "height": 1828,
+      "bytes": 174034,
       "coverScale": 0.8307692307692308,
       "strict": true,
       "quality": {
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-23T01:02:13.435Z",
+        "checkedAt": "2026-10-23T01:38:00.172Z",
         "width": 1300,
-        "height": 1727,
-        "bytes": 243537,
+        "height": 1828,
+        "bytes": 174034,
         "format": "jpeg",
         "mimeType": "image/jpeg",
-        "effectiveSharpness": 1.635162270117578,
-        "entropy": 7.574319462233689,
-        "effectiveDetailRatio": 0.552889,
+        "effectiveSharpness": 0.8871148313503137,
+        "entropy": 7.135417477707961,
+        "effectiveDetailRatio": 0.499513,
         "kind": "source",
         "coverScale": 0.831,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "url": "https://www.nikkansports.com/baseball/news/img/202510280000370-w1300_0.jpg",
-        "sha256": "51cd1674eca482a3f7a0753e029852d6246ad110fbf15d674d275f5bb71fde0c",
-        "perceptualHash": "cacc06330f1f570b",
+        "sha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+        "perceptualHash": "fedce0ccccd4d88c",
         "edgeFingerprint": {
           "version": "edge-v2",
-          "full": "RjgyKjoNBAUHBA8VSSqmkyYBBAMCAwMCAwQJTGNBICsjDi0wKhgVLhYeEKFd/5MKAwMBAQIBAQAHT6NfOSspDisCBzdkMTg5YX81nOExCQUCAQICAQEHUKVGPDQrLywYOmoxfTM3X555Z8pTCwQCAQECAgEHUZpURz87TDk0PCVMYlRlfzNdYZ5PCQMBAQIBAQEHU1szaGprZmhpaWFoh3t/OjEXWpoXGBUWFhYVFRQVR5xdMjQ1NjY4Oj+fpTMhPRYPpHgtMS0oJCYmJiYoIXCdAQAAAgECAgdgqkUYGBE0kp9rPA0UGQ8REhISEBYiAQEBAQECBgwchoENMg0NNe3///XGSAwEAQEBAQIEBAMDAgMEEmnm/0J5MBglfZxvnNf//2ENBQABAQABBwYFAwQL2v//s9AxWlt5iRwOCRAm9/9ACQMBAQQEBwYFCgjd/4glGsPYqo5mIAsHBQQMKv/LDgIDBgUJAwMCDHH/ggsJCxeFbjMQCAQCBQEGF7L/PQcDBg0GCgkGHOv5EAYFAwQGBQQIGidOUAQRDVX/iggEAgkQCQgKRv+mCgUNJgwMGTJOcXdydU4JEBH/5A4FAwIGAQUMjP9dCQ1GUElOY2VsVx0lV18cCRWp/0UKAwIBAgQV3OAjCjNWC0FAOSgeRnZ3ZhsZGh5n/4oLAwEBBws63KMhDDkVCR0GKC5CizMGMSgXIQ9F0uIVBgMCREVstYMzESNPEgw2VVlnFlhVPzQVIz+uortbFhUUhIN2h1YtHyg5VElpNio6VUIcGRkNRdKXQ0RJLiwrSitRTz4hMnQ2J0YRBgkKTFI6LCszfUN+RkhUPTA3MTAmX29LeaeKBgIGBwgAG0g7PhU1WHdYVTEqJxgYOTdgSFIgbFbKGQUBBgsEBQwTFgwPJTY5WVFBMCAmGz8iaHgyZYqRGgYBBQsMGignDg0QFg42kXs9MCwoBCNPZjmCJGBGPgIFAQUNHBsIGwYfFANRt1QREhEREjpsMDJajRoPTykFCQUHEispAiITJxaKpjglIiEdDxUuLRMEdKgoD0QsCAkGCBUoLjemNECBW0M7Oz09KS9ROCEoOpPKKw5BRBkfKA8qWKWkjh+IUDIzMS8sHy04RiIcIginnQwbS3Gqx7jnfYqal1G7UC8xMDM0IicnQhoYJQ5Lp1M7WXtvf69VzIWfL1KqZREYFxUWKycURg4QKB8fcEVGQRqAvJz/sg4pLB2BkhQEBAMCYUldUS0vSUo8Z142A1ppSoVaFj0oKgZXvD8iHhsaNiNCHCMaMT1Fa1GHRRk4enNxajs2JiMRpXFaYmVjYCFCThQ8HkQmcnNsfV5rVBIvdGtKPD9DVD4dHxcTSxwyTQouHkAKkr4ebGFccn+ScBYWPDdXRGgrIz9XOyg7MxInHRFndqEUHiYEFRkYdrGkakooIikVMkpALzA1REFZPmg7J6IlCxgkJSVjOhpim4dTTJhEOD9NK0AaTUAhGGg0DqE+DwUVKVoWRCYcFUBUT50wcUI/",
-          "top": "RjgyKjoNBAUHBA8VSSqmkyYBBAMCAwMCAwQJTGNBICsjDi0wKhgVLhYeEKFd/5MKAwMBAQIBAQAHT6NfOSspDisCBzdkMTg5YX81nOExCQUCAQICAQEHUKVGPDQrLywYOmoxfTM3X555Z8pTCwQCAQECAgEHUZpURz87TDk0PCVMYlRlfzNdYZ5PCQMBAQIBAQEHU1szaGprZmhpaWFoh3t/OjEXWpoXGBUWFhYVFRQVR5xdMjQ1NjY4Oj+fpTMhPRYPpHgtMS0oJCYmJiYoIXCdAQAAAgECAgdgqkUYGBE0kp9rPA0UGQ8REhISEBYiAQEBAQECBgwchoENMg0NNe3///XGSAwEAQEBAQIEBAMDAgMEEmnm/0J5MBglfZxvnNf//2ENBQABAQABBwYFAwQL2v//s9AxWlt5iRwOCRAm9/9ACQMBAQQEBwYFCgjd/4glGsPYqo5mIAsHBQQMKv/LDgIDBgUJAwMCDHH/ggsJCxeFbjMQCAQCBQEGF7L/PQcDBg0GCgkGHOv5EAYFAwQGBQQIGidOUAQRDVX/iggEAgkQCQgKRv+mCgUNJgwMGTJOcXdydU4JEBH/5A4FAwIG",
-          "middle": "AwMCDHH/ggsJCxeFbjMQCAQCBQEGF7L/PQcDBg0GCgkGHOv5EAYFAwQGBQQIGidOUAQRDVX/iggEAgkQCQgKRv+mCgUNJgwMGTJOcXdydU4JEBH/5A4FAwIGAQUMjP9dCQ1GUElOY2VsVx0lV18cCRWp/0UKAwIBAgQV3OAjCjNWC0FAOSgeRnZ3ZhsZGh5n/4oLAwEBBws63KMhDDkVCR0GKC5CizMGMSgXIQ9F0uIVBgMCREVstYMzESNPEgw2VVlnFlhVPzQVIz+uortbFhUUhIN2h1YtHyg5VElpNio6VUIcGRkNRdKXQ0RJLiwrSitRTz4hMnQ2J0YRBgkKTFI6LCszfUN+RkhUPTA3MTAmX29LeaeKBgIGBwgAG0g7PhU1WHdYVTEqJxgYOTdgSFIgbFbKGQUBBgsEBQwTFgwPJTY5WVFBMCAmGz8iaHgyZYqRGgYBBQsMGignDg0QFg42kXs9MCwoBCNPZjmCJGBGPgIFAQUNHBsIGwYfFANRt1QREhEREjpsMDJajRoPTykFCQUHEispAiITJxaKpjglIiEdDxUuLRMEdKgoD0QsCAkGCBUoLjemNECBW0M7Oz09",
-          "bottom": "Gz8iaHgyZYqRGgYBBQsMGignDg0QFg42kXs9MCwoBCNPZjmCJGBGPgIFAQUNHBsIGwYfFANRt1QREhEREjpsMDJajRoPTykFCQUHEispAiITJxaKpjglIiEdDxUuLRMEdKgoD0QsCAkGCBUoLjemNECBW0M7Oz09KS9ROCEoOpPKKw5BRBkfKA8qWKWkjh+IUDIzMS8sHy04RiIcIginnQwbS3Gqx7jnfYqal1G7UC8xMDM0IicnQhoYJQ5Lp1M7WXtvf69VzIWfL1KqZREYFxUWKycURg4QKB8fcEVGQRqAvJz/sg4pLB2BkhQEBAMCYUldUS0vSUo8Z142A1ppSoVaFj0oKgZXvD8iHhsaNiNCHCMaMT1Fa1GHRRk4enNxajs2JiMRpXFaYmVjYCFCThQ8HkQmcnNsfV5rVBIvdGtKPD9DVD4dHxcTSxwyTQouHkAKkr4ebGFccn+ScBYWPDdXRGgrIz9XOyg7MxInHRFndqEUHiYEFRkYdrGkakooIikVMkpALzA1REFZPmg7J6IlCxgkJSVjOhpim4dTTJhEOD9NK0AaTUAhGGg0DqE+DwUVKVoWRCYcFUBUT50wcUI/"
+          "full": "CAsHCREFAwUIAQsREhIdFAcHJDFGYn+HkI2SkF6eCQsJChAKCg4MBiArDhAeJCljlZygmopxWj0kUMVwEAULBwcQGSY+V0YjGR8iIk6IckoyHAkHCQ8JV6hFHSlKVmaUmKKthjYcHSceHTVRHgcMCQcEBwYGRn49laGknJSIdmhYX1UqKy4aDzVLMiwwMjEzP0ZMcoNGY0UnNDQFBggSQyweGyQNGS4bPjw9Pj8+OzUuQmAkJRggKAoICREaSDMvMiUyRAYeCgcHBwQDCBQaYV0mEh8bFRkUJ0hbNzAyPzdMKygJEwkUEx0iHBkfKFFEECw/XXaFgol6eTwLEBYhKSwwHz4zJWlRLw8cGjEWgZGPioB1VEUiXW0eCwcBHkZXZxgmOis+RR8bCz8xTDsjBwIZPmOPl0EQBgkojVNabZhrSopgJxNCBylEDQUHBRqLkJBtMR8oWzN3l3BmDEFqaV9QGj0YdjISEAwPIHueOh4HFiRqQhFuJqxBEAQDERc9aCBjO08QBAsLMpBbCQIFFx5bIzuIHZsvDQcHCgsVW100VDZDBAsJQ7BTDAgDER58JgahUY4WBgQKBwwec0JMKS1aHyAfYqQ0CwUDDhZpPShufXgGBAgKAQsFVEJIKDZBJzsydokhCwQGCQ46UCyAY2cEBQ8EAQsFhqp9dxhEHBkbYFUVCAEHBQgWNEBba04LDgwJBgUGYtMtewpPSFZgc0kDCAQDBgQKGEM/ZywHEAMGDgIFNJVWOUVtHiFHu3sECAcCAwQGBTA9SBAHBwENCwoGI3BUY2JdHSFGsFEHBgwEAwQDBQ0vGgQICAgKCAkJIbaMGg0YGiFunCMOCgsJBAMDBgYRAwMIBQgEAwYMB3iHERINBQ+UmyEOAgkLBQYHBAYHAwcICAgFCxEFCZG8KRcdEh6ShBMECggMCQQECQUHBQsLBwcGCg8PBHCWNyQlAg+JkBcFCwMHCQYFAQcFCQcCAgUDCgIDDnmMHgUHAxKTmA4NEAkFBAYFBAcIAwUDBwUHDAcEGY92DQUBAQhNx0kMEREEBQEEAwQBBgQBAgIPCwcJOqZTBwoCAwQcnIYWBA4PAgUEBQcKCQcFBQcQBwcPWKoyBAoEAQIHZ7YzDQkQBQcHBQMHAwgGAg4MCA8Nn4UQBggCAgQHLp9kDQgMCAkGBQICBAYFDAkICApOpjgFCQcCAgkIirQxBgINKw0UCgAKDAkKDwgIDQhmlycFCAcDFUqixUgJDg9CbFkkGwMJAREMHCESCBw3lFkOCQoDebiLLgcRBktjDXR9akhIShcVKCsfGhQ3YkcXEw0Mx0USCw4MCw1hfDkwPz1aYD4TKisOExAKV24zHRwdYAkXFg4MBwcWVHA/IRMiQWEpCwoPEA4PKbBpHBkjNBQUEAwEBgQFHFFkOAgdKVRBBAoMDxERDIicFxARGAkHBwgFBwYGAyRFXUU/Q1oxAgMFCQsOD3ChMQ0LLAUHAwUHDRMfLDIVHy0uMiofEwYDBAYHCW+xNgYG",
+          "top": "CAsHCREFAwUIAQsREhIdFAcHJDFGYn+HkI2SkF6eCQsJChAKCg4MBiArDhAeJCljlZygmopxWj0kUMVwEAULBwcQGSY+V0YjGR8iIk6IckoyHAkHCQ8JV6hFHSlKVmaUmKKthjYcHSceHTVRHgcMCQcEBwYGRn49laGknJSIdmhYX1UqKy4aDzVLMiwwMjEzP0ZMcoNGY0UnNDQFBggSQyweGyQNGS4bPjw9Pj8+OzUuQmAkJRggKAoICREaSDMvMiUyRAYeCgcHBwQDCBQaYV0mEh8bFRkUJ0hbNzAyPzdMKygJEwkUEx0iHBkfKFFEECw/XXaFgol6eTwLEBYhKSwwHz4zJWlRLw8cGjEWgZGPioB1VEUiXW0eCwcBHkZXZxgmOis+RR8bCz8xTDsjBwIZPmOPl0EQBgkojVNabZhrSopgJxNCBylEDQUHBRqLkJBtMR8oWzN3l3BmDEFqaV9QGj0YdjISEAwPIHueOh4HFiRqQhFuJqxBEAQDERc9aCBjO08QBAsLMpBbCQIFFx5bIzuIHZsvDQcHCgsVW100VDZDBAsJQ7BTDAgDER58JgahUY4WBgQKBwwec0JMKS1a",
+          "middle": "EAwPIHueOh4HFiRqQhFuJqxBEAQDERc9aCBjO08QBAsLMpBbCQIFFx5bIzuIHZsvDQcHCgsVW100VDZDBAsJQ7BTDAgDER58JgahUY4WBgQKBwwec0JMKS1aHyAfYqQ0CwUDDhZpPShufXgGBAgKAQsFVEJIKDZBJzsydokhCwQGCQ46UCyAY2cEBQ8EAQsFhqp9dxhEHBkbYFUVCAEHBQgWNEBba04LDgwJBgUGYtMtewpPSFZgc0kDCAQDBgQKGEM/ZywHEAMGDgIFNJVWOUVtHiFHu3sECAcCAwQGBTA9SBAHBwENCwoGI3BUY2JdHSFGsFEHBgwEAwQDBQ0vGgQICAgKCAkJIbaMGg0YGiFunCMOCgsJBAMDBgYRAwMIBQgEAwYMB3iHERINBQ+UmyEOAgkLBQYHBAYHAwcICAgFCxEFCZG8KRcdEh6ShBMECggMCQQECQUHBQsLBwcGCg8PBHCWNyQlAg+JkBcFCwMHCQYFAQcFCQcCAgUDCgIDDnmMHgUHAxKTmA4NEAkFBAYFBAcIAwUDBwUHDAcEGY92DQUBAQhNx0kMEREEBQEEAwQBBgQBAgIPCwcJOqZTBwoC",
+          "bottom": "Eh6ShBMECggMCQQECQUHBQsLBwcGCg8PBHCWNyQlAg+JkBcFCwMHCQYFAQcFCQcCAgUDCgIDDnmMHgUHAxKTmA4NEAkFBAYFBAcIAwUDBwUHDAcEGY92DQUBAQhNx0kMEREEBQEEAwQBBgQBAgIPCwcJOqZTBwoCAwQcnIYWBA4PAgUEBQcKCQcFBQcQBwcPWKoyBAoEAQIHZ7YzDQkQBQcHBQMHAwgGAg4MCA8Nn4UQBggCAgQHLp9kDQgMCAkGBQICBAYFDAkICApOpjgFCQcCAgkIirQxBgINKw0UCgAKDAkKDwgIDQhmlycFCAcDFUqixUgJDg9CbFkkGwMJAREMHCESCBw3lFkOCQoDebiLLgcRBktjDXR9akhIShcVKCsfGhQ3YkcXEw0Mx0USCw4MCw1hfDkwPz1aYD4TKisOExAKV24zHRwdYAkXFg4MBwcWVHA/IRMiQWEpCwoPEA4PKbBpHBkjNBQUEAwEBgQFHFFkOAgdKVRBBAoMDxERDIicFxARGAkHBwgFBwYGAyRFXUU/Q1oxAgMFCQsOD3ChMQ0LLAUHAwUHDRMfLDIVHy0uMiofEwYDBAYHCW+xNgYG"
         },
         "detailFingerprint": {
           "version": "detail-v1",
-          "full": 21.743715,
-          "top": 20.519865,
-          "middle": 26.07898,
-          "bottom": 15.346079,
-          "effectiveRatio": 0.552889
-        },
-        "orientation": 1,
-        "rawWidth": 1300,
-        "rawHeight": 1727
+          "full": 11.859244,
+          "top": 11.581063,
+          "middle": 13.267441,
+          "bottom": 11.14847,
+          "effectiveRatio": 0.499513
+        }
       },
-      "sha256": "51cd1674eca482a3f7a0753e029852d6246ad110fbf15d674d275f5bb71fde0c",
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\202510280000370-0.jpg",
+      "sha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\202112220000270-2.jpg",
       "index": 5,
       "name": "오다 고헤이",
       "subject": "오다 고헤이",
-      "imageCredit": "닛칸스포츠 (촬영자 미기재)",
-      "photoDate": "2024-10",
-      "photoDateEvidence": "中日小田幸平コーチ（2024年10月撮影）",
-      "sceneGroup": "202410-chunichi-oda-indoor-bat-white-uniform",
-      "context": "2024년10월 주니치 유니폼으로 배트를 들고 실내 구장에 서 있는 오다. 2023년9월 공 바구니 앞 야외 사진과 시즌·공간·장비·구도가 다르다.",
-      "creditDisplay": "자료사진 · 닛칸스포츠 (2024.10)",
-      "photoDateLabel": "자료사진 · 닛칸스포츠 (2024.10)",
+      "photoDate": "2021-12-22",
+      "photoDateEvidence": "2021-12-22 닛칸스포츠 구단사무실 방문·취재 기사 및 실제 사진 캡션: 球団事務所に訪れ報道陣の質疑に応じる小田幸平2軍バッテリーコーチ（撮影・森本幸一）",
+      "imageCredit": "닛칸스포츠 森本幸一",
+      "creditDisplay": "자료사진 · 닛칸스포츠 森本幸一 (2021.12.22)",
+      "photoDateLabel": "자료사진 · 닛칸스포츠 森本幸一 (2021.12.22)",
+      "sceneGroup": "20211222-nagoya-oda-suit-mask-seated-office-interview",
+      "context": "2021년12월22일 나고야 주니치 구단사무실 안에서 마스크와 정장을 착용하고 소파에 앉아 기자질의에 응답하는 오다 고헤이. 같은날3p야외마스크없는주먹포즈와장소·행동·카메라·인물자세가다른실내장면이다.",
       "fit": "cover",
-      "checkedAt": "2026-10-23T01:10:29.270Z",
-      "visuallyReviewed": true,
+      "checkedAt": "2026-10-23T01:39:06.465Z",
       "rightsStatus": "approved",
       "rightsEvidence": {
         "kind": "user-confirmed-contract",
         "statement": "2026-10-16 사용자 직접 확인: 일본 매체 사진도 사용권 확보. 이 사진의 일본 매체 원문·원본 URL·실제 기재 촬영자·촬영일 및 확인일에 연결한다. 미기재 촬영자나 계약 조건을 임의로 만들지 않는다."
-      }
+      },
+      "sourceSha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+      "replacementForPage": 5,
+      "individuallyViewed": true,
+      "comparedWithAllOtherFour": true,
+      "comparisonToExistingFour": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 4,
+          "leftSha256": "bd42d2e56229dab4bc1bf0fb755a1907952f8aba38be9b3f2dd0c6c33989a501",
+          "rightSha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+          "approved": true,
+          "sameScene": false,
+          "reason": "표지의2026년10월22일 에히메4인 실내 지명 단체사진과 후보2021년12월22일 나고야 구단사무실 개인 인터뷰로 날짜·행사·장소·인물 수·포즈가 다르다."
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 4,
+          "leftSha256": "16b7366a3ea222e4ef85738864ab6dcff45130133fb1d98bc25f6f28c6ac13a8",
+          "rightSha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+          "approved": true,
+          "sameScene": false,
+          "reason": "2p의2023년9월20일 주니치 야외 유니폼·공바구니 훈련 사진과 후보의2021년 정장·마스크 차림 실내 의자 인터뷰로 날짜·공간·장비·복장·행동이 다르다."
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 4,
+          "leftSha256": "55489e50c8883f96abf1198c768c6cefbe7c9c47ac78fd0495892e755a31fac8",
+          "rightSha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+          "approved": true,
+          "sameScene": false,
+          "reason": "3p와같은2021년12월22일이지만3p는건물밖푸른하늘·구단로고앞마스크없는1인전신주먹포즈, 후보는사무실안소파에앉아마스크를쓰고기자질의에응답하는장면이다. 배경·공간·착석여부·얼굴가림·행동·카메라구도가달라유사연속컷이아니다."
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 4,
+          "leftSha256": "85fbdeaad885ed28c00c718f24dae861cb8285dfa5fa5ca7c8ec13b6865fc0f0",
+          "rightSha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+          "approved": true,
+          "sameScene": false,
+          "reason": "4p의2026시즌 니시노 야외 오렌지모자 인터뷰와 후보 오다의2021년 마스크·정장 실내 인터뷰로 사람·날짜·팀·복장·공간이 다르다."
+        }
+      ],
+      "sourceMatchLocalCheck": {
+        "checkedAt": "2026-10-23T01:38:03.897Z",
+        "sourcePath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\sources\\202112220000270-2.jpg",
+        "sourceSha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+        "sourceQuality": {
+          "status": "approved",
+          "code": "IMAGE_QUALITY_APPROVED",
+          "reason": "이미지 화질 기준을 통과했습니다.",
+          "checkedAt": "2026-10-23T01:38:00.172Z",
+          "width": 1300,
+          "height": 1828,
+          "bytes": 174034,
+          "format": "jpeg",
+          "mimeType": "image/jpeg",
+          "effectiveSharpness": 0.8871148313503137,
+          "entropy": 7.135417477707961,
+          "effectiveDetailRatio": 0.499513,
+          "kind": "source",
+          "coverScale": 0.831,
+          "targetWidth": 1080,
+          "targetHeight": 1350,
+          "sha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+          "perceptualHash": "fedce0ccccd4d88c",
+          "edgeFingerprint": {
+            "version": "edge-v2",
+            "full": "CAsHCREFAwUIAQsREhIdFAcHJDFGYn+HkI2SkF6eCQsJChAKCg4MBiArDhAeJCljlZygmopxWj0kUMVwEAULBwcQGSY+V0YjGR8iIk6IckoyHAkHCQ8JV6hFHSlKVmaUmKKthjYcHSceHTVRHgcMCQcEBwYGRn49laGknJSIdmhYX1UqKy4aDzVLMiwwMjEzP0ZMcoNGY0UnNDQFBggSQyweGyQNGS4bPjw9Pj8+OzUuQmAkJRggKAoICREaSDMvMiUyRAYeCgcHBwQDCBQaYV0mEh8bFRkUJ0hbNzAyPzdMKygJEwkUEx0iHBkfKFFEECw/XXaFgol6eTwLEBYhKSwwHz4zJWlRLw8cGjEWgZGPioB1VEUiXW0eCwcBHkZXZxgmOis+RR8bCz8xTDsjBwIZPmOPl0EQBgkojVNabZhrSopgJxNCBylEDQUHBRqLkJBtMR8oWzN3l3BmDEFqaV9QGj0YdjISEAwPIHueOh4HFiRqQhFuJqxBEAQDERc9aCBjO08QBAsLMpBbCQIFFx5bIzuIHZsvDQcHCgsVW100VDZDBAsJQ7BTDAgDER58JgahUY4WBgQKBwwec0JMKS1aHyAfYqQ0CwUDDhZpPShufXgGBAgKAQsFVEJIKDZBJzsydokhCwQGCQ46UCyAY2cEBQ8EAQsFhqp9dxhEHBkbYFUVCAEHBQgWNEBba04LDgwJBgUGYtMtewpPSFZgc0kDCAQDBgQKGEM/ZywHEAMGDgIFNJVWOUVtHiFHu3sECAcCAwQGBTA9SBAHBwENCwoGI3BUY2JdHSFGsFEHBgwEAwQDBQ0vGgQICAgKCAkJIbaMGg0YGiFunCMOCgsJBAMDBgYRAwMIBQgEAwYMB3iHERINBQ+UmyEOAgkLBQYHBAYHAwcICAgFCxEFCZG8KRcdEh6ShBMECggMCQQECQUHBQsLBwcGCg8PBHCWNyQlAg+JkBcFCwMHCQYFAQcFCQcCAgUDCgIDDnmMHgUHAxKTmA4NEAkFBAYFBAcIAwUDBwUHDAcEGY92DQUBAQhNx0kMEREEBQEEAwQBBgQBAgIPCwcJOqZTBwoCAwQcnIYWBA4PAgUEBQcKCQcFBQcQBwcPWKoyBAoEAQIHZ7YzDQkQBQcHBQMHAwgGAg4MCA8Nn4UQBggCAgQHLp9kDQgMCAkGBQICBAYFDAkICApOpjgFCQcCAgkIirQxBgINKw0UCgAKDAkKDwgIDQhmlycFCAcDFUqixUgJDg9CbFkkGwMJAREMHCESCBw3lFkOCQoDebiLLgcRBktjDXR9akhIShcVKCsfGhQ3YkcXEw0Mx0USCw4MCw1hfDkwPz1aYD4TKisOExAKV24zHRwdYAkXFg4MBwcWVHA/IRMiQWEpCwoPEA4PKbBpHBkjNBQUEAwEBgQFHFFkOAgdKVRBBAoMDxERDIicFxARGAkHBwgFBwYGAyRFXUU/Q1oxAgMFCQsOD3ChMQ0LLAUHAwUHDRMfLDIVHy0uMiofEwYDBAYHCW+xNgYG",
+            "top": "CAsHCREFAwUIAQsREhIdFAcHJDFGYn+HkI2SkF6eCQsJChAKCg4MBiArDhAeJCljlZygmopxWj0kUMVwEAULBwcQGSY+V0YjGR8iIk6IckoyHAkHCQ8JV6hFHSlKVmaUmKKthjYcHSceHTVRHgcMCQcEBwYGRn49laGknJSIdmhYX1UqKy4aDzVLMiwwMjEzP0ZMcoNGY0UnNDQFBggSQyweGyQNGS4bPjw9Pj8+OzUuQmAkJRggKAoICREaSDMvMiUyRAYeCgcHBwQDCBQaYV0mEh8bFRkUJ0hbNzAyPzdMKygJEwkUEx0iHBkfKFFEECw/XXaFgol6eTwLEBYhKSwwHz4zJWlRLw8cGjEWgZGPioB1VEUiXW0eCwcBHkZXZxgmOis+RR8bCz8xTDsjBwIZPmOPl0EQBgkojVNabZhrSopgJxNCBylEDQUHBRqLkJBtMR8oWzN3l3BmDEFqaV9QGj0YdjISEAwPIHueOh4HFiRqQhFuJqxBEAQDERc9aCBjO08QBAsLMpBbCQIFFx5bIzuIHZsvDQcHCgsVW100VDZDBAsJQ7BTDAgDER58JgahUY4WBgQKBwwec0JMKS1a",
+            "middle": "EAwPIHueOh4HFiRqQhFuJqxBEAQDERc9aCBjO08QBAsLMpBbCQIFFx5bIzuIHZsvDQcHCgsVW100VDZDBAsJQ7BTDAgDER58JgahUY4WBgQKBwwec0JMKS1aHyAfYqQ0CwUDDhZpPShufXgGBAgKAQsFVEJIKDZBJzsydokhCwQGCQ46UCyAY2cEBQ8EAQsFhqp9dxhEHBkbYFUVCAEHBQgWNEBba04LDgwJBgUGYtMtewpPSFZgc0kDCAQDBgQKGEM/ZywHEAMGDgIFNJVWOUVtHiFHu3sECAcCAwQGBTA9SBAHBwENCwoGI3BUY2JdHSFGsFEHBgwEAwQDBQ0vGgQICAgKCAkJIbaMGg0YGiFunCMOCgsJBAMDBgYRAwMIBQgEAwYMB3iHERINBQ+UmyEOAgkLBQYHBAYHAwcICAgFCxEFCZG8KRcdEh6ShBMECggMCQQECQUHBQsLBwcGCg8PBHCWNyQlAg+JkBcFCwMHCQYFAQcFCQcCAgUDCgIDDnmMHgUHAxKTmA4NEAkFBAYFBAcIAwUDBwUHDAcEGY92DQUBAQhNx0kMEREEBQEEAwQBBgQBAgIPCwcJOqZTBwoC",
+            "bottom": "Eh6ShBMECggMCQQECQUHBQsLBwcGCg8PBHCWNyQlAg+JkBcFCwMHCQYFAQcFCQcCAgUDCgIDDnmMHgUHAxKTmA4NEAkFBAYFBAcIAwUDBwUHDAcEGY92DQUBAQhNx0kMEREEBQEEAwQBBgQBAgIPCwcJOqZTBwoCAwQcnIYWBA4PAgUEBQcKCQcFBQcQBwcPWKoyBAoEAQIHZ7YzDQkQBQcHBQMHAwgGAg4MCA8Nn4UQBggCAgQHLp9kDQgMCAkGBQICBAYFDAkICApOpjgFCQcCAgkIirQxBgINKw0UCgAKDAkKDwgIDQhmlycFCAcDFUqixUgJDg9CbFkkGwMJAREMHCESCBw3lFkOCQoDebiLLgcRBktjDXR9akhIShcVKCsfGhQ3YkcXEw0Mx0USCw4MCw1hfDkwPz1aYD4TKisOExAKV24zHRwdYAkXFg4MBwcWVHA/IRMiQWEpCwoPEA4PKbBpHBkjNBQUEAwEBgQFHFFkOAgdKVRBBAoMDxERDIicFxARGAkHBwgFBwYGAyRFXUU/Q1oxAgMFCQsOD3ChMQ0LLAUHAwUHDRMfLDIVHy0uMiofEwYDBAYHCW+xNgYG"
+          },
+          "detailFingerprint": {
+            "version": "detail-v1",
+            "full": 11.859244,
+            "top": 11.581063,
+            "middle": 13.267441,
+            "bottom": 11.14847,
+            "effectiveRatio": 0.499513
+          }
+        },
+        "strict": true,
+        "renderedPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\japan\\ehime-oda-manager\\replacement-candidate-render\\slide-5.jpg",
+        "renderedSha256": "7b5e3118a4ac1ea0cd63f5258ff9fd59ae60b791cf86a53e25af3e630604c9de",
+        "renderedQuality": {
+          "status": "approved",
+          "code": "IMAGE_QUALITY_APPROVED",
+          "reason": "이미지 화질 기준을 통과했습니다.",
+          "checkedAt": "2026-10-23T01:38:03.897Z",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 397193,
+          "format": "jpeg",
+          "mimeType": "image/jpeg",
+          "effectiveSharpness": 4.081195600992688,
+          "entropy": 7.071671436657198,
+          "effectiveDetailRatio": 0.508941,
+          "kind": "rendered",
+          "targetWidth": 1080,
+          "targetHeight": 1350
+        },
+        "regions": {
+          "full": 0.7289903196569553,
+          "top": 0.9957955164698199,
+          "middle": 0.7779351909754881,
+          "bottom": 0.10780749607923482
+        },
+        "bestRegion": "top",
+        "correlation": 0.9957955164698199,
+        "detailRetention": 1.256716762528621,
+        "policy": {
+          "minCorrelation": 0.82,
+          "minDetailRetention": 0.65
+        },
+        "sourceMatchApproved": true,
+        "notes": [
+          "원본은 그대로 사용했으며 중앙 story/config/draft 및 API는 변경하지 않았다.",
+          "5장 구조를 유지한 별도 로컬 검수 렌더이며 5p 문구는 중앙 story의 최종 문구를 그대로 복사했다."
+        ]
+      },
+      "localFinalPageVisuallyReviewed": true,
+      "localFinalPageObservations": "5페이지 최종 문구·05/05순서·전면 사진·실내 인터뷰의 실제 인물·마스크·정장·배경·날짜크레딧·본문가독성을 실제 JPEG에서 확인했다.",
+      "serverHeaderReplay": {
+        "requestAccept": "image/webp,image/png,image/jpeg,*/*",
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "sha256": "e7abb89609dd50b1bbef256acb0d0dc57dae1f7bd08d225d1f11b1782c590210",
+        "bytes": 174034,
+        "exactMatchToReviewedOriginal": true
+      },
+      "noImageGeneration": true,
+      "noAiUpscale": true,
+      "noCropOrReencodingSourceSubstitution": true,
+      "noQualityGateChanges": true,
+      "centralConfigUnchanged": true,
+      "studioApiMutated": false,
+      "visuallyReviewed": true
     }
   ]
 }
