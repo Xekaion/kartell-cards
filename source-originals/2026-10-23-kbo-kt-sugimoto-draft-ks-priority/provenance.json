@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-23T06:56:43.496Z",
+  "rightsBasis": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용 계약 및 사용료 지급 완료. 각 실제 사진의 원문·원본·제공자·조회일·현소속팀 유니폼을 개별 기록했다. 생성형 이미지·복원·확대 없음.",
+  "mirrorPurpose": "Exact authorized actual originals for reliable signed Studio inspection; no TLS/security checks disabled, no resizing/upscaling/reconstruction.",
+  "records": [
+    {
+      "slideIndex": 0,
+      "file": "source-1-303bb11970862841.jpg",
+      "sha256": "303bb11970862841e70406977a9b238641c721e6cad8d7cea13835c1fba68698",
+      "originalSourceUrl": "https://img.sportsworldi.com/content/image/2026/07/09/20260709515593.jpg",
+      "sourcePageUrl": "https://www.sportsworldi.com/newsView/20260709515596?OutUrl=google",
+      "imageCredit": "스포츠월드 · KT 위즈 제공",
+      "photoDate": "2026시즌 · 세부 촬영일 미공개",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자 직접 확인한 국내 언론사 및 야구 관련 사진 사용 계약·사용료 지급 범위. 원문 자체 사진/KT 위즈 제공 사진만 선택했으며 해외 에이전시 사진으로 대체하지 않았다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 1,
+      "file": "source-2-4ad34d7a0bc1dd2b.webp",
+      "sha256": "4ad34d7a0bc1dd2b91b6a83fb40dff11cc33d8642f6a1e883bb57c06e1a3fdaa",
+      "originalSourceUrl": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785568345937644.webp",
+      "sourcePageUrl": "https://www.xportsnews.com/article/2179035",
+      "imageCredit": "엑스포츠뉴스 DB",
+      "photoDate": "2026시즌 · 세부 촬영일 미공개",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자 직접 확인한 국내 언론사 및 야구 관련 사진 사용 계약·사용료 지급 범위. 원문 자체 사진/KT 위즈 제공 사진만 선택했으며 해외 에이전시 사진으로 대체하지 않았다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 2,
+      "file": "source-3-b45cbccbdaa14513.jpg",
+      "sha256": "b45cbccbdaa1451330bf4eb6f31c6125e020deb6d6b087af764c6a27c30def89",
+      "originalSourceUrl": "https://img.sportsworldi.com/content/image/2026/09/03/20260903516960.jpg",
+      "sourcePageUrl": "https://www.sportsworldi.com/newsView/20260903516968?OutUrl=google",
+      "imageCredit": "스포츠월드 · KT 위즈 제공",
+      "photoDate": "2026시즌 · 세부 촬영일 미공개",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자 직접 확인한 국내 언론사 및 야구 관련 사진 사용 계약·사용료 지급 범위. 원문 자체 사진/KT 위즈 제공 사진만 선택했으며 해외 에이전시 사진으로 대체하지 않았다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 3,
+      "file": "source-4-64ed84cd61900159.jpg",
+      "sha256": "64ed84cd61900159a63b864aa33ad934ea2e13dae656fb70b7cf336f198f918d",
+      "originalSourceUrl": "https://img.sportsworldi.com/content/image/2026/07/09/20260709515584.jpg",
+      "sourcePageUrl": "https://www.sportsworldi.com/newsView/20260709515596?OutUrl=google",
+      "imageCredit": "스포츠월드 · KT 위즈 제공",
+      "photoDate": "2026시즌 · 세부 촬영일 미공개",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자 직접 확인한 국내 언론사 및 야구 관련 사진 사용 계약·사용료 지급 범위. 원문 자체 사진/KT 위즈 제공 사진만 선택했으며 해외 에이전시 사진으로 대체하지 않았다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 4,
+      "file": "source-5-e0e4eb71beff1a15.jpg",
+      "sha256": "e0e4eb71beff1a15d11c252c1782fd2efa606d7f440ddd956097c7e9ead67ac0",
+      "originalSourceUrl": "https://img.sportsworldi.com/content/image/2026/06/28/20260628500226.jpg",
+      "sourcePageUrl": "https://www.sportsworldi.com/newsView/20260628500232",
+      "imageCredit": "스포츠월드 · KT 위즈 제공",
+      "photoDate": "2026시즌 · 세부 촬영일 미공개",
+      "rightsEvidence": {
+        "kind": "user-confirmed-contract",
+        "statement": "사용자 직접 확인한 국내 언론사 및 야구 관련 사진 사용 계약·사용료 지급 범위. 원문 자체 사진/KT 위즈 제공 사진만 선택했으며 해외 에이전시 사진으로 대체하지 않았다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    }
+  ]
+}
