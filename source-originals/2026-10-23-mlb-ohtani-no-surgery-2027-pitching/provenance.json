@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-23T01:06:34.316Z",
+  "photos": [
+    {
+      "name": "source-1-0c696c234db2970d.jpg",
+      "sha256": "0c696c234db2970d47cfd501b54207fd3661c07002add83157113fe8058687ab",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg/1920px-2024_MLB_World_Tour_Seoul_Series%2C_Shohei_Ohtani_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:2024_MLB_World_Tour_Seoul_Series,_Shohei_Ohtani_(1).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/USAmbROK\">Ambassador Philip Goldberg</a>",
+      "license": "Public domain",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-2-85a0889c7d5eafb0.jpg",
+      "sha256": "85a0889c7d5eafb0f4e087eabe84a4f8bd8ceec3e0dd09bfd4b8209518c72734",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Shohei_Ohtani_%2851004965041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(51004965041).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/192355779@N02\">Jeffrey Hayes</a>",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-3-2231321153cda3c1.jpg",
+      "sha256": "2231321153cda3c1b95bbb5807ad10d779895dd3bf3146188779c1daf4a9c4f6",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/3840px-Shohei_Ohtani_%2853836294794%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(53836294794).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65193799@N00\">David</a> from Washington, DC",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-4-3245c5e183e801e9.jpg",
+      "sha256": "3245c5e183e801e92edd9d75f36afc868de821e7907e0e04967ba509ae4104bd",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shohei_Ohtani_on_July_8%2C_2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_on_July_8,_2022_(2).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/kariyamogami/\">Mogami Kariya</a> on <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/\">Flickr</a> (Original version) <br> <a href=\"//commons.wikimedia.org/wiki/User:UCinternational\" title=\"User:UCinternational\">UCinternational</a> (Crop)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-5-3241abcf0b5c8c74.jpg",
+      "sha256": "3241abcf0b5c8c7473c8f1c679767bb3481e1922b324becaecdee829e5f666cc",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shohei_Ohtani_%2848343515351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_(48343515351).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10312513@N08\">Scott U</a>",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    }
+  ]
+}
