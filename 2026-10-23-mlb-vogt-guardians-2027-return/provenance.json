@@ -1,0 +1,923 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "보트, 2027년도 클리블랜드에 남는다",
+  "issueKey": "mlb-20261022-vogt-guardians-2027-return",
+  "checkedAt": "2026-10-23T01:04:01.199Z",
+  "sourceUrl": "https://www.mlb.com/news/stephen-vogt-to-remain-as-guardians-manager-in-2027",
+  "corroboratingUrls": [
+    "https://ca.sports.yahoo.com/news/guardians-manager-stephen-vogt-says-223302546.html",
+    "https://www.mlb.com/guardians/news/carl-willis-returning-as-guardians-pitching-coach-in-2026"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.mlb.com/news/stephen-vogt-to-remain-as-guardians-manager-in-2027",
+      "role": "firsthand-20261022-end-season-press-conference",
+      "author": "Tim Stebbins"
+    },
+    {
+      "url": "https://ca.sports.yahoo.com/news/guardians-manager-stephen-vogt-says-223302546.html",
+      "role": "AP-firsthand-press-conference",
+      "author": "Tom Withers"
+    }
+  ],
+  "rightsEvidence": "1p Erik Drost; CC BY 4.0; https://creativecommons.org/licenses/by/4.0; https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(55242355214).jpg; 촬영일2026-04-28; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg; SHA9148bf0a2951f47fc7e8e49c8bcc2ae6ce5a9c95a7f9333af6dc1ee58974f4c1. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n2p NickB149; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:Stephen_Vogt_2015.jpg; 촬영일2015-07-04; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA44903dcb8cde88dd5911515de1d904076db030e74b28fe68e434569d269a14bb. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n3p Erik Drost; CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53478452642).jpg; 촬영일2024-01-20; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHAd70755f21ba5b0878989c18cf7f324093c0cd8f4eea27c5984c427b90f9eb47f. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n4p Keith Allison; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Carl_Willis_(37174802781).jpg; 촬영일2017-09-18; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg; SHA6230e36defb3aeecfdeac2c917625f78d5ce45ad764a7bb04c453cab0fc21119. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n5p Erik Drost; CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(53479425646).jpg; 촬영일2024-01-20; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg; SHA9598c9d73a6567b1b8b7ffd5fe8e91cba024b58b5d28feb605194f073efc2bfa. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.",
+  "photos": [
+    {
+      "title": "File:Stephen Vogt (55242355214).jpg",
+      "pageid": 190914196,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(55242355214).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e1a64e7241015848ebbbbd5c3f68e95902353715/source-originals/2026-10-23-mlb-vogt-guardians-2027-return/source-1-9148bf0a2951f47f.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Stephen_Vogt_%2855242355214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Stephen_Vogt__55242355214_.jpg",
+      "sha256": "9148bf0a2951f47fc7e8e49c8bcc2ae6ce5a9c95a7f9333af6dc1ee58974f4c1",
+      "metadata": {
+        "size": 23359772,
+        "width": 8256,
+        "height": 5500,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1364,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1364
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Stephen_Vogt_%2855242355214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(55242355214).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=190914196",
+        "sha1": "86628dd4498e414068e96436b7f71782aa82245c",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-05-01 19:13:45",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Stephen Vogt (55242355214)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Stephen Vogt|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Flickr images missing SDC copyright status|Photographs by Erik Drost|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States photographs taken on 2026-04-28|Tampa Bay Rays at Cleveland Guardians (April 28, 2026)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "41.495418",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.685531",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Stephen Vogt",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-04-28 19:56",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/edrost88/55242355214/\">Stephen Vogt</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:39:49.833Z",
+        "width": 3840,
+        "height": 2558,
+        "bytes": 2217187,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.949834249957876,
+        "entropy": 7.042632577649783,
+        "effectiveDetailRatio": 0.591752,
+        "kind": "source",
+        "coverScale": 0.528,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg",
+        "sha256": "9148bf0a2951f47fc7e8e49c8bcc2ae6ce5a9c95a7f9333af6dc1ee58974f4c1"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "스티븐 보트",
+      "subject": "스티븐 보트",
+      "imageCredit": "Erik Drost",
+      "creditDisplay": "Erik Drost · CC BY 4.0 · 2026 자료",
+      "photoDate": "2026-04-28",
+      "photoDateLabel": "2026-04-28 자료사진",
+      "sceneGroup": "20260428-vogt-guardians-field-standing",
+      "sceneDescription": "2026년 클리블랜드 구장에서 붉은 소매의 가디언스 재킷을 입고 주머니에 손을 넣은 보트 감독. 경기장 전경을 배경으로 한 정면 전신.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:54:10.842Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Erik Drost",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(55242355214).jpg",
+        "metadataDate": "2026-04-28 19:56",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 1,
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "license": "CC BY 4.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg",
+      "hostingMirror": {
+        "commit": "e1a64e7241015848ebbbbd5c3f68e95902353715",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg",
+        "sha256": "9148bf0a2951f47fc7e8e49c8bcc2ae6ce5a9c95a7f9333af6dc1ee58974f4c1",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Stephen Vogt 2015.jpg",
+      "pageid": 45863963,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_2015.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e1a64e7241015848ebbbbd5c3f68e95902353715/source-originals/2026-10-23-mlb-vogt-guardians-2027-return/source-2-44903dcb8cde88dd.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Stephen_Vogt_2015.jpg",
+      "sha256": "44903dcb8cde88dd5911515de1d904076db030e74b28fe68e434569d269a14bb",
+      "metadata": {
+        "size": 4671713,
+        "width": 2229,
+        "height": 2786,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2000,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/6/60/Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2000,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/60/Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_2015.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45863963",
+        "sha1": "895cd9058928c7935783dbce8be1ada0f940da7b",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-12-25 08:10:26",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Stephen Vogt 2015",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "2015 Oakland Athletics season|Stephen Vogt|Self-published work|Extracted images",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Stephen_Vogt\" class=\"extiw\" title=\"en:Stephen Vogt\">Vogt</a> Hitting for the Oakland Athletics in 2015",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-07-04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NickB149&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NickB149 (page does not exist)\">NickB149</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:17.545Z",
+        "width": 1920,
+        "height": 2400,
+        "bytes": 1057902,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3191533200425525,
+        "entropy": 7.500597575759457,
+        "effectiveDetailRatio": 0.54496,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "44903dcb8cde88dd5911515de1d904076db030e74b28fe68e434569d269a14bb"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "스티븐 보트",
+      "subject": "스티븐 보트",
+      "imageCredit": "NickB149",
+      "creditDisplay": "NickB149 · CC BY-SA 4.0 · 2015 자료",
+      "photoDate": "2015-07-04",
+      "photoDateLabel": "2015-07-04 자료사진",
+      "sceneGroup": "20150704-vogt-oakland-batting",
+      "sceneDescription": "오클랜드 선수 시절 흰 유니폼의 보트가 타석에서 배트를 들고 공을 기다리는 모습. 포수·심판이 뒤에 있다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:54:10.843Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "NickB149",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_2015.jpg",
+        "metadataDate": "2015-07-04",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 4.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 2,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license": "CC BY-SA 4.0",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NickB149&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NickB149 (page does not exist)\">NickB149</a>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "e1a64e7241015848ebbbbd5c3f68e95902353715",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "44903dcb8cde88dd5911515de1d904076db030e74b28fe68e434569d269a14bb",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Chris Antonetti (53478452642).jpg",
+      "pageid": 144455691,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53478452642).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e1a64e7241015848ebbbbd5c3f68e95902353715/source-originals/2026-10-23-mlb-vogt-guardians-2027-return/source-3-d70755f21ba5b087.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Chris_Antonetti__53478452642_.jpg",
+      "sha256": "d70755f21ba5b0878989c18cf7f324093c0cd8f4eea27c5984c427b90f9eb47f",
+      "metadata": {
+        "size": 19048963,
+        "width": 8256,
+        "height": 5504,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1365,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1365
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53478452642).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144455691",
+        "sha1": "4b19349c35a4bf53e1303e793b6855b92987ea20",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-01-23 14:44:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Chris Antonetti (53478452642)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Chris Antonetti|Photographs by Erik Drost|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States photographs taken on 2024-01-20|Guards Fest 2024|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "41.503001",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.694017",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Cleveland Guardians' Guards Fest 2024 at Huntington Convention Center of Cleveland on January 20, 2024.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-01-20 10:41",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/edrost88/53478452642/\">Chris Antonetti</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:57:38.851Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1316378,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.907925552680427,
+        "entropy": 7.3654537705588154,
+        "effectiveDetailRatio": 0.52835,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "d70755f21ba5b0878989c18cf7f324093c0cd8f4eea27c5984c427b90f9eb47f"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "크리스 안토네티",
+      "subject": "크리스 안토네티",
+      "imageCredit": "Erik Drost",
+      "creditDisplay": "Erik Drost · CC BY 2.0 · 2024 자료",
+      "photoDate": "2024-01-20",
+      "photoDateLabel": "2024-01-20 자료사진",
+      "sceneGroup": "20240120-antonetti-guardfest-stage-wide",
+      "sceneDescription": "팬 행사 무대에서 마이크를 든 안토네티와 진행자를 함께 담은 가로 사진. 안토네티의 얼굴이 화면 중앙에 가깝고 상단에 여백이 있어 세로 크롭에서도 머리가 보인다. 보트의 같은 날 실내 타격 시연 사진과 인물·행동·배경이 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:58:19.384Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Erik Drost",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53478452642).jpg",
+        "metadataDate": "2024-01-20 10:41",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 3,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "e1a64e7241015848ebbbbd5c3f68e95902353715",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "d70755f21ba5b0878989c18cf7f324093c0cd8f4eea27c5984c427b90f9eb47f",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Carl Willis (37174802781).jpg",
+      "pageid": 62556391,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carl_Willis_(37174802781).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e1a64e7241015848ebbbbd5c3f68e95902353715/source-originals/2026-10-23-mlb-vogt-guardians-2027-return/source-4-6230e36defb3aeec.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Carl_Willis__37174802781_.jpg",
+      "sha256": "6230e36defb3aeecfdeac2c917625f78d5ce45ad764a7bb04c453cab0fc21119",
+      "metadata": {
+        "size": 1016056,
+        "width": 2939,
+        "height": 3186,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 2048,
+        "thumbheight": 2220,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 2220
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carl_Willis_(37174802781).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62556391",
+        "sha1": "38d8e0f33f7fbbd27abc3dc1a4d14b66ef066d76",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-09-19 07:09:05",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Carl Willis (37174802781)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Carl Willis|MLB photos taken by Keith Allison|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Towels in the United States|2017 Boston Red Sox season|Gatorade towels in baseball|Flickr images missing SDC published in|People with textile towels on their shoulders",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.283936",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-76.622178",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Red Sox at Orioles 9/18/17",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-09-18 18:25",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/keithallison/37174802781/\">Carl Willis</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27003603@N00\">Keith Allison</a> from Hanover, MD, USA",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:39:25.815Z",
+        "width": 2939,
+        "height": 3186,
+        "bytes": 1016056,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9901418194560877,
+        "entropy": 7.455064827854585,
+        "effectiveDetailRatio": 0.480469,
+        "kind": "source",
+        "coverScale": 0.424,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg",
+        "sha256": "6230e36defb3aeecfdeac2c917625f78d5ce45ad764a7bb04c453cab0fc21119"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "칼 윌리스",
+      "subject": "칼 윌리스",
+      "imageCredit": "Keith Allison",
+      "creditDisplay": "Keith Allison · CC BY-SA 2.0 · 2017 자료",
+      "photoDate": "2017-09-18",
+      "photoDateLabel": "2017-09-18 자료사진",
+      "sceneGroup": "20170918-willis-boston-dugout-towel",
+      "sceneDescription": "보스턴 코치 시절의 윌리스가 어깨에 수건을 걸치고 더그아웃에서 경기장을 바라보는 얼굴 중심 사진.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:54:10.841Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Keith Allison",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carl_Willis_(37174802781).jpg",
+        "metadataDate": "2017-09-18 18:25",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 4,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27003603@N00\">Keith Allison</a> from Hanover, MD, USA",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg",
+      "hostingMirror": {
+        "commit": "e1a64e7241015848ebbbbd5c3f68e95902353715",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg",
+        "sha256": "6230e36defb3aeecfdeac2c917625f78d5ce45ad764a7bb04c453cab0fc21119",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Stephen Vogt (53479425646).jpg",
+      "pageid": 144454855,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(53479425646).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/e1a64e7241015848ebbbbd5c3f68e95902353715/source-originals/2026-10-23-mlb-vogt-guardians-2027-return/source-5-9598c9d73a6567b1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Stephen_Vogt_%2853479425646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Stephen_Vogt__53479425646_.jpg",
+      "sha256": "9598c9d73a6567b1b8b7ffd5fe8e91cba024b58b5d28feb605194f073efc2bfa",
+      "metadata": {
+        "size": 15823211,
+        "width": 5504,
+        "height": 8256,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 3072,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 3072
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Stephen_Vogt_%2853479425646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(53479425646).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144454855",
+        "sha1": "2149d904360536b037d3c68b7e31e88c5c770d20",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-01-23 14:25:22",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Stephen Vogt (53479425646)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Stephen Vogt|Photographs by Erik Drost|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|United States photographs taken on 2024-01-20|Guards Fest 2024",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "41.503001",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-81.694017",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Cleveland Guardians' Guards Fest 2024 at Huntington Convention Center of Cleveland on January 20, 2024.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-01-20 12:48",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/edrost88/53479425646/\">Stepehn Vogt</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:37:58.518Z",
+        "width": 3840,
+        "height": 5760,
+        "bytes": 3273070,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.699398763140311,
+        "entropy": 7.245646711278823,
+        "effectiveDetailRatio": 0.515118,
+        "kind": "source",
+        "coverScale": 0.281,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg",
+        "sha256": "9598c9d73a6567b1b8b7ffd5fe8e91cba024b58b5d28feb605194f073efc2bfa"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "스티븐 보트",
+      "subject": "스티븐 보트",
+      "imageCredit": "Erik Drost",
+      "creditDisplay": "Erik Drost · CC BY 2.0 · 2024 자료",
+      "photoDate": "2024-01-20",
+      "photoDateLabel": "2024-01-20 자료사진",
+      "sceneGroup": "20240120-vogt-fan-event-plastic-bat",
+      "sceneDescription": "2024 팬 행사에서 가디언스 유니폼의 보트가 흰 플라스틱 배트를 들고 공을 치려는 동작. 안토네티 무대 대담과 의상·배경·행동이 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T00:54:10.842Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Erik Drost",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(53479425646).jpg",
+        "metadataDate": "2024-01-20 12:48",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 5,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg",
+      "hostingMirror": {
+        "commit": "e1a64e7241015848ebbbbd5c3f68e95902353715",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg",
+        "sha256": "9598c9d73a6567b1b8b7ffd5fe8e91cba024b58b5d28feb605194f073efc2bfa",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    }
+  ]
+}
