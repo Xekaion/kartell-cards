@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-23T00:54:48.818Z",
+  "photos": [
+    {
+      "name": "source-1-9148bf0a2951f47f.jpg",
+      "sha256": "9148bf0a2951f47fc7e8e49c8bcc2ae6ce5a9c95a7f9333af6dc1ee58974f4c1",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Stephen_Vogt_%2855242355214%29.jpg/3840px-Stephen_Vogt_%2855242355214%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(55242355214).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-2-44903dcb8cde88dd.jpg",
+      "sha256": "44903dcb8cde88dd5911515de1d904076db030e74b28fe68e434569d269a14bb",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Stephen_Vogt_2015.jpg/1920px-Stephen_Vogt_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_2015.jpg",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NickB149&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NickB149 (page does not exist)\">NickB149</a>",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-3-d475795966fdedbd.jpg",
+      "sha256": "d475795966fdedbd31ef837cac2f78aa27d89423b42c69eb217f39612a5d8b1b",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Chris_Antonetti_%2853479517613%29.jpg/3840px-Chris_Antonetti_%2853479517613%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53479517613).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-4-6230e36defb3aeec.jpg",
+      "sha256": "6230e36defb3aeecfdeac2c917625f78d5ce45ad764a7bb04c453cab0fc21119",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carl_Willis_%2837174802781%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Carl_Willis_(37174802781).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27003603@N00\">Keith Allison</a> from Hanover, MD, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-5-9598c9d73a6567b1.jpg",
+      "sha256": "9598c9d73a6567b1b8b7ffd5fe8e91cba024b58b5d28feb605194f073efc2bfa",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stephen_Vogt_%2853479425646%29.jpg/3840px-Stephen_Vogt_%2853479425646%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Vogt_(53479425646).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    }
+  ]
+}
