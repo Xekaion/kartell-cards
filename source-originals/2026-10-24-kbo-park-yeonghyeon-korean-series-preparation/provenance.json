@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-23T19:10:00.343Z",
+  "rightsBasis": "사용자가 확보했다고 확인한 국내·일본 매체 및 야구 관계자 사진 사용권을 각 원본에 기록했다. 공개 라이선스 자산은 해당 개별 원본의 실제 라이선스·저자·공개 귀속표시를 추가로 준수한다. 생성 이미지·AI 복원·AI 확대는 없다.",
+  "mirrorPurpose": "Exact authorized actual originals for reliable signed Studio inspection; no TLS/security checks disabled, no resizing/upscaling/reconstruction.",
+  "records": [
+    {
+      "slideIndex": 0,
+      "file": "source-1-3244a1949566c17d.jpg",
+      "sha256": "3244a1949566c17d91545034bea429b907839dfd3796d21a504e3236fb489402",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/22/2026102201001459500094713_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-22/202610220100145950009471",
+      "imageCredit": "스포츠조선 송정헌",
+      "photoDate": "2026-09-09",
+      "rightsEvidence": {
+        "kind": "user-confirmed-domestic-photo-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용권 및 사용료 확보. 각 실제 국내 원문 자체 촬영/뉴시스 사진에 적용한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 1,
+      "file": "source-2-fd008e172a9b4455.png",
+      "sha256": "fd008e172a9b44556333feb85df6f371aa62c11afc2c0d79ddaafc667929e188",
+      "originalSourceUrl": "https://img.sportsworldi.com/content/image/2026/04/01/20260401511192.png",
+      "sourcePageUrl": "https://www.sportsworldi.com/newsView/20260401511196",
+      "imageCredit": "스포츠월드 김종원",
+      "photoDate": "2026-03-31",
+      "rightsEvidence": {
+        "kind": "user-confirmed-domestic-photo-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용권 및 사용료 확보. 각 실제 국내 원문 자체 촬영/뉴시스 사진에 적용한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 2,
+      "file": "source-3-61498cb3619985a5.jpg",
+      "sha256": "61498cb3619985a55f7d5d839099415195a918d61c381166201dba59627fb8c9",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/22/2026102201001459500094715_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-22/202610220100145950009471",
+      "imageCredit": "스포츠조선 박재만",
+      "photoDate": "2026-09-29",
+      "rightsEvidence": {
+        "kind": "user-confirmed-domestic-photo-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용권 및 사용료 확보. 각 실제 국내 원문 자체 촬영/뉴시스 사진에 적용한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 3,
+      "file": "source-4-f4b5fcdd3078e68f.jpg",
+      "sha256": "f4b5fcdd3078e68f025ca0f63181896d7f2e501b4a29bde9c1ccb08b6bea091d",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/22/2026102201001459500094712_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-22/202610220100145950009471",
+      "imageCredit": "스포츠조선 박재만",
+      "photoDate": "2026-09-30",
+      "rightsEvidence": {
+        "kind": "user-confirmed-domestic-photo-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용권 및 사용료 확보. 각 실제 국내 원문 자체 촬영/뉴시스 사진에 적용한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    },
+    {
+      "slideIndex": 4,
+      "file": "source-5-85d5e9d7d98458f6.jpg",
+      "sha256": "85d5e9d7d98458f605464abde1dcaa0966c371b96e7ae75b1c09ec5ee3b4cc2c",
+      "originalSourceUrl": "https://img.sportsworldi.com/content/image/2026/04/01/20260401511194.jpg",
+      "sourcePageUrl": "https://www.sportsworldi.com/newsView/20260401511196",
+      "imageCredit": "뉴시스 / 스포츠월드",
+      "photoDate": "촬영일 미공개 · 2026-04-01 기사 게재",
+      "rightsEvidence": {
+        "kind": "user-confirmed-domestic-photo-contract",
+        "statement": "2026-10-15 사용자 확인: 국내 언론사·야구 관련인 사진 사용권 및 사용료 확보. 각 실제 국내 원문 자체 촬영/뉴시스 사진에 적용한다."
+      },
+      "byteIdentical": true,
+      "imageGeneration": false
+    }
+  ]
+}
