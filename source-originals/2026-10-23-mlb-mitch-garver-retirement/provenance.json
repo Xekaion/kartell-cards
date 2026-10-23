@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-23T01:01:42.816Z",
+  "photos": [
+    {
+      "name": "source-1-2804027cb72d076b.jpg",
+      "sha256": "2804027cb72d076b367301a7828703d12b74b5c4a44ed567a204e8c5fb69deb7",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitch_Garver_2018.jpg/3840px-Mitch_Garver_2018.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_2018.jpg",
+      "author": "Bryan Green",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-2-89814f9527ad1bc4.jpg",
+      "sha256": "89814f9527ad1bc4985e61266e8e19e67f77c26008a5d5bf637fe07e25214279",
+      "originalUrl": "https://live.staticflickr.com/5466/17180019977_568f6b187c_o.jpg",
+      "sourcePageUrl": "https://www.flickr.com/photos/begreen90/17180019977/",
+      "author": "Bryan Green",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-3-c5835151a00dea74.jpg",
+      "sha256": "c5835151a00dea74d622b7a9c4fe136863c972f1d972b238f9c7eba1688ba566",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mitch_Garver_%2847553987661%29_%28cropped%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mitch_Garver_(47553987661)_(cropped).jpg",
+      "author": "Ian D'Andrea on <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143615892@N05/\">Flickr</a>",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-4-d93ea9bf66b24f06.jpg",
+      "sha256": "d93ea9bf66b24f06636a9bdf4bd6db1b9152ba76a4daf0d42e5af99070d4b638",
+      "originalUrl": "https://live.staticflickr.com/861/40879512764_162cdd1434_o.jpg",
+      "sourcePageUrl": "https://www.flickr.com/photos/begreen90/40879512764/",
+      "author": "Bryan Green",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-5-137962a16545c20f.jpg",
+      "sha256": "137962a16545c20f555e51ac6f6c1d82e24ff278b28ebcb08cade8e21d160a3c",
+      "originalUrl": "https://live.staticflickr.com/4337/36098662223_bdf40b9c8d_o.jpg",
+      "sourcePageUrl": "https://www.flickr.com/photos/125788546@N06/36098662223/",
+      "author": "Jeffrey Hyde",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    }
+  ]
+}
