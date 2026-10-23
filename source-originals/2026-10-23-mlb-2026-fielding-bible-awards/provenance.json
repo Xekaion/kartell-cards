@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-23T01:09:11.261Z",
+  "photos": [
+    {
+      "name": "source-1-79bb243c10bccfe9.jpg",
+      "sha256": "79bb243c10bccfe9a22d5341eb165bf9d1dcc5febdd946761c9b7bfe20f69e33",
+      "originalUrl": "https://live.staticflickr.com/65535/53620274935_e1a702cb66_o.jpg",
+      "sourcePageUrl": "https://www.flickr.com/photos/mindahaas/53620274935/",
+      "author": "Minda Haas Kuhlmann",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-2-35280f5d88f65b2c.jpg",
+      "sha256": "35280f5d88f65b2c9b490c845f00ef86ff3efa19a3a25ebae16126e6cbb428d6",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Olson_%2835939469653%29.jpg/1920px-Matt_Olson_%2835939469653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Matt_Olson_(35939469653).jpg",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27003603@N00\">Keith Allison</a> from Hanover, MD, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-3-8d1d761de7692b9d.jpg",
+      "sha256": "8d1d761de7692b9d06abf2946680f1223874502d89db8a0e06a8f5dc5306923d",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/TwinsvsRedSox_41526029.jpg/3840px-TwinsvsRedSox_41526029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:TwinsvsRedSox_41526029.jpg",
+      "author": "<a href=\"//commons.wikimedia.org/wiki/User:Cwaugaman\" title=\"User:Cwaugaman\">Chris Waugaman</a>",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-4-277e5081e96a2ad9.jpg",
+      "sha256": "277e5081e96a2ad9979e773aee8dd7e4faa5889f8546e874c0dc995d6a492dee",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tanner_Bibee_%2852968064094%29.jpg/1920px-Tanner_Bibee_%2852968064094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Tanner_Bibee_(52968064094).jpg",
+      "author": "Erik Drost",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    },
+    {
+      "name": "source-5-a5d3040698631d20.jpg",
+      "sha256": "a5d3040698631d20a797b173adbfcb3fd7003f6918d7f429b9b17009b71bc8a4",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg/3840px-Alex_Bregman_during_his_at-bat%2C_March_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Alex_Bregman_during_his_at-bat,_March_2,_2019.jpg",
+      "author": "<bdi>D. Benjamin Miller</bdi>",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
+    }
+  ]
+}
