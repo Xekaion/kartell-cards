@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-23T00:54:48.818Z",
+  "checkedAt": "2026-10-23T01:03:47.901Z",
   "photos": [
     {
       "name": "source-1-9148bf0a2951f47f.jpg",
@@ -22,10 +22,10 @@
       "policy": "Unmodified real photograph, redistributed under its recorded public license. Byte-identical mirror for upstream availability; no AI generation or quality-gate exception."
     },
     {
-      "name": "source-3-d475795966fdedbd.jpg",
-      "sha256": "d475795966fdedbd31ef837cac2f78aa27d89423b42c69eb217f39612a5d8b1b",
-      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Chris_Antonetti_%2853479517613%29.jpg/3840px-Chris_Antonetti_%2853479517613%29.jpg",
-      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53479517613).jpg",
+      "name": "source-3-d70755f21ba5b087.jpg",
+      "sha256": "d70755f21ba5b0878989c18cf7f324093c0cd8f4eea27c5984c427b90f9eb47f",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chris_Antonetti_%2853478452642%29.jpg/3840px-Chris_Antonetti_%2853478452642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Antonetti_(53478452642).jpg",
       "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
