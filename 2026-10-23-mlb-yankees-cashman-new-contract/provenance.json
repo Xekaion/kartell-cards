@@ -1,0 +1,905 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "캐시먼 재계약 합의, 양키스의 30번째 시즌",
+  "issueKey": "mlb-20261021-yankees-cashman-new-contract-agreement",
+  "checkedAt": "2026-10-23T01:10:10.601Z",
+  "sourceUrl": "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
+  "corroboratingUrls": [
+    "https://www.ksat.com/sports/2026/10/21/steinbrenner-blames-yankees-players-for-lack-of-world-series-title-defends-boone-and-cashman/",
+    "https://www.mlb.com/news/aaron-boone-return-yankees-manager-2027",
+    "https://www.mlb.com/video/steinbrenner-cashman-boone-recap-yankees-season",
+    "https://fieldlevelmedia.com/mlb/yankees-gm-brian-cashman-agrees-to-contract-to-return-for-30th-season/"
+  ],
+  "sourceRoles": [
+    {
+      "url": "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
+      "role": "Bryan Hoch firsthand end-season press-conference"
+    },
+    {
+      "url": "https://www.ksat.com/sports/2026/10/21/steinbrenner-blames-yankees-players-for-lack-of-world-series-title-defends-boone-and-cashman/",
+      "role": "AP firsthand end-season press-conference"
+    },
+    {
+      "url": "https://www.mlb.com/video/steinbrenner-cashman-boone-recap-yankees-season",
+      "role": "official-press-conference-recording"
+    },
+    {
+      "url": "https://fieldlevelmedia.com/mlb/yankees-gm-brian-cashman-agrees-to-contract-to-return-for-30th-season/",
+      "role": "Field Level Media firsthand press-conference and career records"
+    }
+  ],
+  "rightsEvidence": "1p Arturo Pardavila III; CC BY 2.0; https://creativecommons.org/licenses/by/2.0; https://commons.wikimedia.org/wiki/File:Yankees_GM_Brian_Cashman_(23027698854).jpg; 촬영일2015-12-10; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA897dc277720f83bc52d8421c258dafa0b86169e2d946ef1b100ab326736dad10. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n2p Keith Allison; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Brian_Cashman_by_Keith_Allison_3.jpg; 촬영일2012-09-06; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHA8f2231e0f2534ca2d49a5705f67e52dd57bdae1d617b9ad31346c7d89f2d7e90. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n3p Jeffrey Hyde; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0; https://commons.wikimedia.org/wiki/File:Aaron_Boone_(53947874730).jpg; 촬영일2024-08-18; 원본URLhttps://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail; SHAcf4ed278c6aa82b29a4d7f9cfb4e96b9c64b6dee8d965e310e548265a7bead90. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n4p Adc95; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:Yankee_Stadium_view_from_420_section.jpg; 촬영일2022-04-13; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original; SHA9d8aa4f9ad820b0ddc5948e28ea0cee6ce8cb0b894c0a6336b0c981ed6f30ae8. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.\n5p Kidfly182; CC BY 4.0; https://creativecommons.org/licenses/by/4.0; https://commons.wikimedia.org/wiki/File:Yankee_Stadium_September_2026_03.jpg; 촬영일2026-09-15; 원본URLhttps://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original; SHA64d9f415f2f803d249412dd2f904f1c3ab798a16094627360c9f55a2208cb7ee. 크롭·글을 겹친 BY-SA 파생본은 동일조건 배포.",
+  "photos": [
+    {
+      "title": "File:Yankees GM Brian Cashman (23027698854).jpg",
+      "pageid": 45651799,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankees_GM_Brian_Cashman_(23027698854).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6d9af7e75e66343bea1b1a05b83ab316ae27a7c0/source-originals/2026-10-23-mlb-yankees-cashman-new-contract/source-1-897dc277720f83bc.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Yankees_GM_Brian_Cashman__23027698854_.jpg",
+      "sha256": "897dc277720f83bc52d8421c258dafa0b86169e2d946ef1b100ab326736dad10",
+      "metadata": {
+        "size": 4639142,
+        "width": 3629,
+        "height": 3546,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1563,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1563,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yankees_GM_Brian_Cashman_(23027698854).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45651799",
+        "sha1": "630f2e88e4b41bab90c8a0e0ce6791616943022b",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-12-15 18:51:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yankees GM Brian Cashman (23027698854)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Brian Cashman|Files from Flickr with changed licenses|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|2015 Winter Meetings|Photographs by Arturo Pardavila III",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "36.211422",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-86.694703",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Yankees general manager Brian Cashman talks to reporters at the #WinterMeetings.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-12-10 09:59",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/apardavila/23027698854/\">Yankees GM Brian Cashman</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63704136@N00\">Arturo Pardavila III</a> from Hoboken, NJ, USA",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:59.204Z",
+        "width": 1920,
+        "height": 1876,
+        "bytes": 498303,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.8884879651059333,
+        "entropy": 6.988872561424614,
+        "effectiveDetailRatio": 0.625825,
+        "kind": "source",
+        "coverScale": 0.72,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "897dc277720f83bc52d8421c258dafa0b86169e2d946ef1b100ab326736dad10"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "브라이언 캐시먼",
+      "subject": "브라이언 캐시먼",
+      "imageCredit": "Arturo Pardavila III",
+      "creditDisplay": "Arturo Pardavila III · CC BY 2.0 · 2015 자료",
+      "photoDate": "2015-12-10",
+      "photoDateLabel": "2015-12-10 자료사진",
+      "sceneGroup": "20151210-cashman-wintermeetings-face-portrait",
+      "sceneDescription": "캐시먼의 얼굴을 가까이 담은 체크 셔츠 차림의 인물 사진. 정면 얼굴과 눈이 중앙에 있어 세로 크롭에서도 얼굴이 남는다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:02:52.545Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Arturo Pardavila III",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankees_GM_Brian_Cashman_(23027698854).jpg",
+        "metadataDate": "2015-12-10 09:59",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 1,
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "license": "CC BY 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63704136@N00\">Arturo Pardavila III</a> from Hoboken, NJ, USA",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "6d9af7e75e66343bea1b1a05b83ab316ae27a7c0",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yankees_GM_Brian_Cashman_%2823027698854%29.jpg/1920px-Yankees_GM_Brian_Cashman_%2823027698854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "897dc277720f83bc52d8421c258dafa0b86169e2d946ef1b100ab326736dad10",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Brian Cashman by Keith Allison 3.jpg",
+      "pageid": 24351288,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Brian_Cashman_by_Keith_Allison_3.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6d9af7e75e66343bea1b1a05b83ab316ae27a7c0/source-originals/2026-10-23-mlb-yankees-cashman-new-contract/source-2-8f2231e0f2534ca2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Brian_Cashman_by_Keith_Allison_3.jpg",
+      "sha256": "8f2231e0f2534ca2d49a5705f67e52dd57bdae1d617b9ad31346c7d89f2d7e90",
+      "metadata": {
+        "size": 2668948,
+        "width": 4119,
+        "height": 2802,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1393,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1393
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Brian_Cashman_by_Keith_Allison_3.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24351288",
+        "sha1": "7a0ff56f96a7aa3f69df4fa747113d0e26a87157",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-01-30 23:45:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Brian Cashman by Keith Allison 3",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS-1D Mark IV|Brian Cashman|Flickr images verified by UploadWizard",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "New York Yankees at Baltimore Orioles September 6, 2012",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-09-06 17:47:38",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/keithallison/7948013190/\">https://www.flickr.com/photos/keithallison/7948013190/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Keith Allison",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:29.413Z",
+        "width": 3840,
+        "height": 2612,
+        "bytes": 1652838,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.15407385964331,
+        "entropy": 7.739298607571982,
+        "effectiveDetailRatio": 0.511019,
+        "kind": "source",
+        "coverScale": 0.517,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "8f2231e0f2534ca2d49a5705f67e52dd57bdae1d617b9ad31346c7d89f2d7e90"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "브라이언 캐시먼",
+      "subject": "브라이언 캐시먼",
+      "imageCredit": "Keith Allison",
+      "creditDisplay": "Keith Allison · CC BY-SA 2.0 · 2012 자료",
+      "photoDate": "2012-09-06",
+      "photoDateLabel": "2012-09-06 자료사진",
+      "sceneGroup": "20120906-cashman-orioles-field-batting-cage",
+      "sceneDescription": "연보라 셔츠의 캐시먼이 원정 구장 타격 케이지 옆에서 유니폼 차림의 구단 관계자들과 이야기하는 장면.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:02:52.543Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Keith Allison",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Brian_Cashman_by_Keith_Allison_3.jpg",
+        "metadataDate": "2012-09-06 17:47:38",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 2,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "Keith Allison",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "6d9af7e75e66343bea1b1a05b83ab316ae27a7c0",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Brian_Cashman_by_Keith_Allison_3.jpg/3840px-Brian_Cashman_by_Keith_Allison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "8f2231e0f2534ca2d49a5705f67e52dd57bdae1d617b9ad31346c7d89f2d7e90",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Aaron Boone (53947874730).jpg",
+      "pageid": 151875853,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Aaron_Boone_(53947874730).jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6d9af7e75e66343bea1b1a05b83ab316ae27a7c0/source-originals/2026-10-23-mlb-yankees-cashman-new-contract/source-3-cf4ed278c6aa82b2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Aaron_Boone__53947874730_.jpg",
+      "sha256": "cf4ed278c6aa82b29a4d7f9cfb4e96b9c64b6dee8d965e310e548265a7bead90",
+      "metadata": {
+        "size": 15974132,
+        "width": 6000,
+        "height": 4000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1365,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1365
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aaron_Boone_(53947874730).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151875853",
+        "sha1": "a9c6f87b05362dae15743cac495b7946bf583888",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-08-27 16:57:16",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Aaron Boone (53947874730)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Aaron Boone|Images with extracted images|Flickr images reviewed by FlickreviewR 2|2024 MLB Little League Classic|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Aaron Boone",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-08-18 17:44",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/125788546@N06/53947874730/\">Aaron Boone</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125788546@N06\">Jeffrey Hyde</a> from Bryan, TX, United States",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:48:41.065Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 2168358,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.785440402963895,
+        "entropy": 7.647981148213148,
+        "effectiveDetailRatio": 0.590362,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "cf4ed278c6aa82b29a4d7f9cfb4e96b9c64b6dee8d965e310e548265a7bead90"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "애런 분",
+      "subject": "애런 분",
+      "imageCredit": "Jeffrey Hyde",
+      "creditDisplay": "Jeffrey Hyde · CC BY-SA 2.0 · 2024 자료",
+      "photoDate": "2024-08-18",
+      "photoDateLabel": "2024-08-18 자료사진",
+      "sceneGroup": "20240818-boone-yankees-dugout-rail",
+      "sceneDescription": "회색 양키스17번 유니폼의 분 감독이 더그아웃 난간에 기대 경기장을 바라보는 옆모습. 얼굴을 가리는 관중이 있는 다른 후보 사진은 제외했다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:02:52.545Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Jeffrey Hyde",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Aaron_Boone_(53947874730).jpg",
+        "metadataDate": "2024-08-18 17:44",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 2.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 3,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license": "CC BY-SA 2.0",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125788546@N06\">Jeffrey Hyde</a> from Bryan, TX, United States",
+      "upstreamOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "hostingMirror": {
+        "commit": "6d9af7e75e66343bea1b1a05b83ab316ae27a7c0",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aaron_Boone_%2853947874730%29.jpg/3840px-Aaron_Boone_%2853947874730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "cf4ed278c6aa82b29a4d7f9cfb4e96b9c64b6dee8d965e310e548265a7bead90",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Yankee Stadium view from 420 section.jpg",
+      "pageid": 144990705,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_view_from_420_section.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6d9af7e75e66343bea1b1a05b83ab316ae27a7c0/source-originals/2026-10-23-mlb-yankees-cashman-new-contract/source-4-9d8aa4f9ad820b0d.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Yankee_Stadium_view_from_420_section.jpg",
+      "sha256": "9d8aa4f9ad820b0ddc5948e28ea0cee6ce8cb0b894c0a6336b0c981ed6f30ae8",
+      "metadata": {
+        "size": 4729024,
+        "width": 4032,
+        "height": 3024,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Yankee_Stadium_view_from_420_section.jpg/3840px-Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2048,
+        "thumbheight": 1536,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Yankee_Stadium_view_from_420_section.jpg/3840px-Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1536
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_view_from_420_section.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144990705",
+        "sha1": "f47f274d6a9977b32563a95c43cb18f13d6879fd",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-02-04 10:34:29",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yankee Stadium view from 420 section",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Interior of Yankee Stadium|Self-published work|United States photographs taken on 2022-04-13|2022 Toronto Blue Jays season|2022 New York Yankees season|April 2022 in the Bronx, New York City|Yankee Stadium at night|Baseball games at Yankee Stadium",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "40.829322",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-73.927736",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "View of Yankee Stadium from 420 section (behind home plate). Alejandro Kirk from the Toronto Blue Jays is at bat, Gerrit Cole is pitching.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 13 April 2022",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Adc95&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Adc95 (page does not exist)\">Adc95</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:57:23.950Z",
+        "width": 4032,
+        "height": 3024,
+        "bytes": 4729024,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.480246139475918,
+        "entropy": 7.48158070538193,
+        "effectiveDetailRatio": 0.594244,
+        "kind": "source",
+        "coverScale": 0.446,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "9d8aa4f9ad820b0ddc5948e28ea0cee6ce8cb0b894c0a6336b0c981ed6f30ae8"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "양키 스타디움",
+      "subject": "양키 스타디움",
+      "imageCredit": "Adc95",
+      "creditDisplay": "Adc95 · CC BY-SA 4.0 · 2022 자료",
+      "photoDate": "2022-04-13",
+      "photoDateLabel": "2022-04-13 자료사진",
+      "sceneGroup": "20220413-yankee-stadium-inside-night-wide",
+      "sceneDescription": "양키 스타디움 상단 관중석에서 내려다본 야간 경기 전경. 내야·외야·전광판이 함께 보이고 5p 정문 외관과 다른 공간·장면이다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:02:52.545Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Adc95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_view_from_420_section.jpg",
+        "metadataDate": "Taken on 13 April 2022",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "CC BY-SA 4.0"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 4,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license": "CC BY-SA 4.0",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Adc95&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Adc95 (page does not exist)\">Adc95</a>",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "hostingMirror": {
+        "commit": "6d9af7e75e66343bea1b1a05b83ab316ae27a7c0",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Yankee_Stadium_view_from_420_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "9d8aa4f9ad820b0ddc5948e28ea0cee6ce8cb0b894c0a6336b0c981ed6f30ae8",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    },
+    {
+      "title": "File:Yankee Stadium September 2026 03.jpg",
+      "pageid": 202010780,
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_September_2026_03.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/6d9af7e75e66343bea1b1a05b83ab316ae27a7c0/source-originals/2026-10-23-mlb-yankees-cashman-new-contract/source-5-64d9f415f2f803d2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-23-recovery\\mlb\\photo-pool\\Yankee_Stadium_September_2026_03.jpg",
+      "sha256": "64d9f415f2f803d249412dd2f904f1c3ab798a16094627360c9f55a2208cb7ee",
+      "metadata": {
+        "size": 249573,
+        "width": 2040,
+        "height": 1530,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 2048,
+        "thumbheight": 1536,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2048,
+          "height": 1536
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_September_2026_03.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202010780",
+        "sha1": "84bf527ed9b6eb30f7efe0a281aac8f979a27b06",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-10-19 12:30:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yankee Stadium September 2026 03",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Exterior of Yankee Stadium|Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|New York City photographs taken on 2026-09-15|September 2026 in the Bronx, New York City|Yankee Stadium in 2026",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Yankee Stadium in September 2026",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-09-15",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kidfly182\" title=\"User:Kidfly182\">Kidfly182</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-23T00:55:51.507Z",
+        "width": 2040,
+        "height": 1530,
+        "bytes": 249573,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.2544467842399465,
+        "entropy": 6.883398043223224,
+        "effectiveDetailRatio": 0.570158,
+        "kind": "source",
+        "coverScale": 0.882,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "64d9f415f2f803d249412dd2f904f1c3ab798a16094627360c9f55a2208cb7ee"
+      },
+      "strictPolicy": {
+        "minimumBytes": 100000,
+        "maximumCoverScale": 1.05,
+        "passed": true
+      },
+      "visuallyReviewed": true,
+      "name": "양키 스타디움",
+      "subject": "양키 스타디움",
+      "imageCredit": "Kidfly182",
+      "creditDisplay": "Kidfly182 · CC BY 4.0 · 2026 자료",
+      "photoDate": "2026-09-15",
+      "photoDateLabel": "2026-09-15 자료사진",
+      "sceneGroup": "20260915-yankee-stadium-gate4-exterior",
+      "sceneDescription": "푸른 낮 하늘 아래 양키 스타디움4번 게이트 정면 외관. 야간 경기 내부 전경과 날짜·시간·장소·카메라가 다르다.",
+      "fit": "cover",
+      "checkedAt": "2026-10-23T01:02:52.545Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": {
+        "kind": "public-license",
+        "author": "Kidfly182",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_September_2026_03.jpg",
+        "metadataDate": "2026-09-15",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "modifications": "카드 화면 비생성 크롭·글·기존 브랜드 레이아웃을 겹침. AI 복원·확대·생성 없음.",
+        "derivativeDistributionLicense": "photograph original license preserved"
+      },
+      "context": {
+        "archivePhoto": true,
+        "currentStoryUse": "표기한 날짜의 실제 자료사진, 이번 발표 현장 사진으로 소개하지 않음"
+      },
+      "index": 5,
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "license": "CC BY 4.0",
+      "author": "<a href=\"//commons.wikimedia.org/wiki/User:Kidfly182\" title=\"User:Kidfly182\">Kidfly182</a>",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "hostingMirror": {
+        "commit": "6d9af7e75e66343bea1b1a05b83ab316ae27a7c0",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Yankee_Stadium_September_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "64d9f415f2f803d249412dd2f904f1c3ab798a16094627360c9f55a2208cb7ee",
+        "byteIdentical": true,
+        "reason": "Wikimedia returned transient 429/503 to signed server source inspection; preserve exact licensed original and perform the same server inspection on its immutable mirror."
+      }
+    }
+  ]
+}
