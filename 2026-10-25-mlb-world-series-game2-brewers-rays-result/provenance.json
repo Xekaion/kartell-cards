@@ -1,0 +1,530 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "밀워키, 0–4 뒤집고\n월드시리즈 2연승",
+  "issueKey": "mlb-20261025-world-series-game2-brewers-rays-final-5-4",
+  "checkedAt": "2026-10-25T08:29:33.570Z",
+  "sourceUrl": "https://statsapi.mlb.com/api/v1.1/game/849802/feed/live",
+  "corroboratingUrls": [
+    "https://www.mlb.com/news/brewers-win-world-series-game-2-2026",
+    "https://www.mlb.com/brewers/news/sal-frelick-game-tying-home-run-2026-world-series-game-2"
+  ],
+  "rightsEvidence": "정확한 일본매체 게재사진의 기존 사용자 권한과 Commons 개별CC라이선스를 연결. 4p Frelick의 사진적응물을포함한전체카드CC BY-SA4.0 공개,3pChourio CC BY4.0 표시. 캡션에는 출처/URL없음.",
+  "photos": [
+    {
+      "id": "202610250000454-2",
+      "url": "https://www.nikkansports.com/baseball/mlb/news/img/202610250000454-w1300_2.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/news/202610250000454.html",
+      "caption": "ワールドシリーズ第2戦　初回に2点本塁打を放ち、腕を突き上げるレイズ・ヒックス（AP）",
+      "path": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-25-baseball-request\\ws2-research\\photos\\202610250000454-2.jpg",
+      "status": 200,
+      "sha256": "cc442de7d14442dc587bd6c5df682be5aa54b2ea3a652983247247128502b59e",
+      "width": 1300,
+      "height": 1950,
+      "bytes": 317637,
+      "checkedAt": "2026-10-25T08:18:05.440002+00:00",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610250000454-w1300_2.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-25-baseball-request\\ws2-result\\sources\\source-1-cc442de7d14442dc.jpg",
+      "subject": "리암 힉스",
+      "currentTeam": "Tampa Bay Rays",
+      "photoDate": "2026-10-24",
+      "sceneGroup": "20261024-ws2-hicks-first-inning-two-run-homer-celebration-ap",
+      "description": "오늘 WS2 1회초 투런홈런을 치고 왼팔을 들고 주루하는 리암 힉스. 회색 TAMPA BAY 유니폼·TB헬멧·WS패치. 밀워키선수사진이 아니며 표지에 탬파베이초반리드장면임을 명시.",
+      "imageCredit": "AP · 닛칸스포츠 · 2026.10.24 현지",
+      "creditDisplay": "AP · 닛칸스포츠 · 2026.10.24 현지",
+      "sourceLabel": "WS2 · 1회 힉스 투런 뒤 주루 · 탬파베이 초반 리드",
+      "rightsEvidence": "2026-10-16 사용자 일본매체사진 사용권확보 확인. 정확한 닛칸스포츠202610250000454 원문에 실제실린 AP사진만 적용. AP전체라이브러리권리로 확대하지 않음.",
+      "quality": {
+        "width": 1300,
+        "height": 1950,
+        "rawWidth": 1300,
+        "rawHeight": 1950,
+        "orientation": 1,
+        "pages": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "perceptualHash": "495b474ccccf130e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "aGFJcnUYDiuEb4mosY0yWF5VxHxoWUIhDzsoXh4ZfDIsYERzvemwLyUuMTt1ljZsVJFoZk8+Sy15och/sE1TZXZu0lT8sIeZPQ1BsDCLH2RMVVcaZHamqKbjohdSenEzrXs9lkl2ypJ7kSEmdikVYmUwbqawWhtjchsvbYYooHAQR2KFTFlzZRswNj9BX0pVj2NRFhIKiCAwnkOGmR0IK7KShp9pI2o8IDUTNkVKkkUMbFk8bxGGmTOiQgsVN3yHSBBkeTlCSy5Zfj6ElFlyeiU3SGeWD6VfDkdvhlkxFR8TNFlsnJtnUj5WWl1Qb2F0VF47mIAXPF1vZSBKJioeVziAgxkKG2xmH0s9gItqFmxbdCpQJoNrHEFSQyYqIxUbDAwoGCmDlkqyV8ceZpcQfpyPa1e0NG83cgpGRzgTGRsFGjosk1BBny4sNAhoMSBneUhLbzpLYTIoKzpCFBUvbz0XgUECIQkNKCEmJlRCDyQTIiBmXA04ViQnLgx1Zmk8j38ECgIBCg4DBAQBBgQCBw9kYQipV2p9SW54BoqVkYkoJSgmERIQFxoZHBwhISNfX2VRf010YheYn3erwhk4LC0mLDAxMTIxNDIvLC1BOQhzPSMxp67ezUM9X3EWDAoKFxgZFRETFRQMCwsmRR8fJCxBXY2bJ3NgkFEIBAMGAwYEAgEFBAIEBQQZH1MvJDUvQjxVfm50VQgBBQQEDAcGCQ8KCAkICQcyKCYyFTwsBiJdIQUMDgkIBgMFDAcFDA0JCQYFAxIzHltETlsuGjQ8Eg4MCAEGCQQCBgYGDA8MCwwJCxY5MiEtRVBxbGgIJwYABQQKBAoBCQkFDhMODgoNDhBIQB4UMzYbH0VNGAwKEhcREQ8YDw0LEAYEBgAEAwQzWjEXC19MSiA5Fw4RCgsXFhIcMDk6MiwnIhkcICQmS0olD1NiFREmMzM5PUI9MzE3koZ1cn+JejAhIiAnFDkzJENrDioKCQIGAQMLERYaDig/MSIEVFUYFR4bFjo+LThnCCAkKigoJCclHxwhk41tZn6GeDMbFxYTDylQNzlkEQsEBQEBAwICBgcHNhcGBBkaEgYJBwoIBDxHMGBgBBAFBAMFBQMGBAUJCwUHAQwHBQMCAwIEKUENJ1AZFAgBAQEDAQECAgQFAggEAwQNDQoKCSpEMi0UDjYcCQQDAwIBAQACAwIDCwkLCAkIAgEENmIvTFAzGDIwBAQEAwEFBQQFBggGBAgJBgYJBwoHQjBiaD14QYInDQ8PCwoLCwkKCwsNBQMEBAICBwMGIDVVLDFejlQzCQkGCQwJCAsJCQcIBgUFBQYDAwQDDQQeHzVTKT4tAQQGAwEBAwEDBQUEAwMEAAICAgMEJCJBJy01DS8tAgMHCAoGAgcGBAYGAQIDAwQCBAQEKTgwO0dHE0MkBAMDAQMHAgQBAQEBAQUBAgIBBAQGD0sxPzlCa2goEQQGBgYEAgIEAQECCQoLCgoKCgsMBRxFKgo8d09OLgsDAQEDAwEABAEC",
+          "top": "aGFJcnUYDiuEb4mosY0yWF5VxHxoWUIhDzsoXh4ZfDIsYERzvemwLyUuMTt1ljZsVJFoZk8+Sy15och/sE1TZXZu0lT8sIeZPQ1BsDCLH2RMVVcaZHamqKbjohdSenEzrXs9lkl2ypJ7kSEmdikVYmUwbqawWhtjchsvbYYooHAQR2KFTFlzZRswNj9BX0pVj2NRFhIKiCAwnkOGmR0IK7KShp9pI2o8IDUTNkVKkkUMbFk8bxGGmTOiQgsVN3yHSBBkeTlCSy5Zfj6ElFlyeiU3SGeWD6VfDkdvhlkxFR8TNFlsnJtnUj5WWl1Qb2F0VF47mIAXPF1vZSBKJioeVziAgxkKG2xmH0s9gItqFmxbdCpQJoNrHEFSQyYqIxUbDAwoGCmDlkqyV8ceZpcQfpyPa1e0NG83cgpGRzgTGRsFGjosk1BBny4sNAhoMSBneUhLbzpLYTIoKzpCFBUvbz0XgUECIQkNKCEmJlRCDyQTIiBmXA04ViQnLgx1Zmk8j38ECgIBCg4DBAQBBgQCBw9kYQipV2p9SW54BoqVkYkoJSgmERIQFxoZHBwhISNfX2VRf010YheYn3erwhk4LC0m",
+          "middle": "KCEmJlRCDyQTIiBmXA04ViQnLgx1Zmk8j38ECgIBCg4DBAQBBgQCBw9kYQipV2p9SW54BoqVkYkoJSgmERIQFxoZHBwhISNfX2VRf010YheYn3erwhk4LC0mLDAxMTIxNDIvLC1BOQhzPSMxp67ezUM9X3EWDAoKFxgZFRETFRQMCwsmRR8fJCxBXY2bJ3NgkFEIBAMGAwYEAgEFBAIEBQQZH1MvJDUvQjxVfm50VQgBBQQEDAcGCQ8KCAkICQcyKCYyFTwsBiJdIQUMDgkIBgMFDAcFDA0JCQYFAxIzHltETlsuGjQ8Eg4MCAEGCQQCBgYGDA8MCwwJCxY5MiEtRVBxbGgIJwYABQQKBAoBCQkFDhMODgoNDhBIQB4UMzYbH0VNGAwKEhcREQ8YDw0LEAYEBgAEAwQzWjEXC19MSiA5Fw4RCgsXFhIcMDk6MiwnIhkcICQmS0olD1NiFREmMzM5PUI9MzE3koZ1cn+JejAhIiAnFDkzJENrDioKCQIGAQMLERYaDig/MSIEVFUYFR4bFjo+LThnCCAkKigoJCclHxwhk41tZn6GeDMbFxYTDylQNzlkEQsEBQEBAwICBgcH",
+          "bottom": "MDk6MiwnIhkcICQmS0olD1NiFREmMzM5PUI9MzE3koZ1cn+JejAhIiAnFDkzJENrDioKCQIGAQMLERYaDig/MSIEVFUYFR4bFjo+LThnCCAkKigoJCclHxwhk41tZn6GeDMbFxYTDylQNzlkEQsEBQEBAwICBgcHNhcGBBkaEgYJBwoIBDxHMGBgBBAFBAMFBQMGBAUJCwUHAQwHBQMCAwIEKUENJ1AZFAgBAQEDAQECAgQFAggEAwQNDQoKCSpEMi0UDjYcCQQDAwIBAQACAwIDCwkLCAkIAgEENmIvTFAzGDIwBAQEAwEFBQQFBggGBAgJBgYJBwoHQjBiaD14QYInDQ8PCwoLCwkKCwsNBQMEBAICBwMGIDVVLDFejlQzCQkGCQwJCAsJCQcIBgUFBQYDAwQDDQQeHzVTKT4tAQQGAwEBAwEDBQUEAwMEAAICAgMEJCJBJy01DS8tAgMHCAoGAgcGBAYGAQIDAwQCBAQEKTgwO0dHE0MkBAMDAQMHAgQBAQEBAQUBAgIBBAQGD0sxPzlCa2goEQQGBgYEAgIEAQECCQoLCgoKCgsMBRxFKgo8d09OLgsDAQEDAwEABAEC"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.961042,
+          "top": 32.550835,
+          "middle": 26.787566,
+          "bottom": 18.869603,
+          "effectiveRatio": 0.539651
+        },
+        "effectiveDetailRatio": 0.539651,
+        "effectiveSharpness": 1.885474235463818,
+        "entropy": 7.3002605940564536,
+        "extendable": false,
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-25T08:27:12.282Z",
+        "bytes": 317637,
+        "kind": "source",
+        "coverScale": 0.831,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "cc442de7d14442dc587bd6c5df682be5aa54b2ea3a652983247247128502b59e",
+        "url": "https://www.nikkansports.com/baseball/mlb/news/img/202610250000454-w1300_2.jpg"
+      },
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "fit": "cover",
+      "originalBytesUnchanged": true,
+      "generatedOrUpscaled": false,
+      "workerOriginalActuallyViewed": true,
+      "role": "cover"
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/c0971c316f7692788bcb7caed49623581c9e6b3f/source-originals/2026-10-24-mlb-world-series-game1-brewers-rays-result/source-1-f74e9a7a6198e96e.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610240000408-1.html",
+      "declaredHtml": "logs/codex-2026-10-24-ws1-request/research/gallery-10.html",
+      "index": 9,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-25-baseball-request\\ws2-result\\sources\\source-2-f74e9a7a6198e96e.jpg",
+      "width": 1300,
+      "height": 1461,
+      "bytes": 250839,
+      "sha256": "f74e9a7a6198e96e718cd90e25d873737f8a7ef35876c3627b33eb2f92908c05",
+      "quality": {
+        "width": 1300,
+        "height": 1461,
+        "rawWidth": 1300,
+        "rawHeight": 1461,
+        "orientation": 1,
+        "pages": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "perceptualHash": "061e1d99cb4d0f1f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "FSMmW3UXPB4sNCwrRkk0HyItLy40KksHNVUhBz9LNx1CNl5JN0wcKjM9QE0vJykiNBVBS0I0SEpBEUAeJUMQbDY9NTY3Eio0VG9qQGpNfRAuaV91TihWIFMWQE9Ga0BCKE8NPWxLaXhFMVwdYEohPC2gakxhDVRKZRg3poIIVx8aais3PEikDl18PEAeEROLi1NIHg9UEiJjU3NqbiRNClkpIGEbYwkoaTI5KRV7YnwrKTcXJSQQe1EiPBgZGyMjGyJALh8lHEs7ThNMJzY8FCIjIRkyLwlPQzw9IT0QEjwcMxoxG0YuazhqVlhHR143KxwTLkAGIiA0XC8YCTs1a1kuZXg/cYB1Ry4fNVA5BRcZNic1LyokcDMnJF5kSldTZ0IiLFdzOz5OQUylDSxSImY4WjAmWiwDH3VgEiRbF14oBwRDJU4pHh1PIkoujDlIOTxCcpSLon9KF0IRIDIlDx5kVl1sGTcjZRYxXVBbEQs7HWV/kEsRPR+GkGImCUmDQVZnFSg1RT82BGwTJhgZFShZKzoaP2e2LrlwLERvXF11RBNCKjM5H14mKBkuLUU7ZgwkMSuDn3EtHxg1Y3keLlRFLRkMICRJHjsfQDhmLz4sAQohRRVGQSUaExkwHidLAg8HDREmIi8ZICI2NSMcCxMYFTo3IjIVBggdKxkuBQQICgMIIw8eKw9MsqhRChMJBxpLSzkcGhsXKzQhBwcJJhcaFgQvglejpsP1ljwZHB8KBw4kHzQ8DxEJJSkrOzwtBQyWuYxXVi9Km707EQsQHxIJJmAyIjY5RHJFEFhGESPUph4jQ2E4M1OGHBpkUikmaDJdJiY0FSNCQDezhKKIepw3H0MxGHNrFIeiSZSQJDdoPRQtOWtALnAlKhRpgmZzERc6FUu5D5IuDVuCjzlfBQYPRl40IGa2j4dpGQ5zbykPO0WfiWagNo+5GSI0HgkZBRA6N0UxChkoEAkScHZbLhKTiA0oKSohU16hHBo9KD1nXkowLDMyFREdJrtpFyB8UhQkKCtKj3Kwi10yFUcxVUExMT4iFyIeXLg2EBpvcQkXEhk2T11VOS1gHlEaQzgwMC0kJSkdiXIXJxxOlB4SBx8PEk1jLyoXLEoFOC0oKCYnKCwscGh0UzwEdDsSMS8ZCjgjDSZAFhgoGBAPDhIMDAsSEoKgU148oExtMAwiQlIzMSNmCAcIDQYFBwoJCAQII2QUXzJTZ1cWa0AwYi89HDI1BAMBBgQBBAUDBQIEDChxMREhHkZsNGA7khJoHUBUDw8SDg8KCQwJCQYJCBgwJRsHCggNKUUtjjQ/C1BPBwkEAgEGBQQCCQUJCCQ1HhoQDBAKCA86NGQ7Pk1PAwEIBgcNFC05QDo3NFIcSD01KCgxNEYvC2tCUHaLCw0KBgsdNTkqHR8YFAUyBRUaIBwZEwsjBSokEQkTBAMFBxUoJDdESEZDOz06Oz47MC84P0Y/JEhMUElECw0NCgocKi8sLCwjHRsbISIjKSklGBANFhISFhkZ",
+          "top": "FSMmW3UXPB4sNCwrRkk0HyItLy40KksHNVUhBz9LNx1CNl5JN0wcKjM9QE0vJykiNBVBS0I0SEpBEUAeJUMQbDY9NTY3Eio0VG9qQGpNfRAuaV91TihWIFMWQE9Ga0BCKE8NPWxLaXhFMVwdYEohPC2gakxhDVRKZRg3poIIVx8aais3PEikDl18PEAeEROLi1NIHg9UEiJjU3NqbiRNClkpIGEbYwkoaTI5KRV7YnwrKTcXJSQQe1EiPBgZGyMjGyJALh8lHEs7ThNMJzY8FCIjIRkyLwlPQzw9IT0QEjwcMxoxG0YuazhqVlhHR143KxwTLkAGIiA0XC8YCTs1a1kuZXg/cYB1Ry4fNVA5BRcZNic1LyokcDMnJF5kSldTZ0IiLFdzOz5OQUylDSxSImY4WjAmWiwDH3VgEiRbF14oBwRDJU4pHh1PIkoujDlIOTxCcpSLon9KF0IRIDIlDx5kVl1sGTcjZRYxXVBbEQs7HWV/kEsRPR+GkGImCUmDQVZnFSg1RT82BGwTJhgZFShZKzoaP2e2LrlwLERvXF11RBNCKjM5H14mKBkuLUU7ZgwkMSuDn3EtHxg1Y3keLlRF",
+          "middle": "ZRYxXVBbEQs7HWV/kEsRPR+GkGImCUmDQVZnFSg1RT82BGwTJhgZFShZKzoaP2e2LrlwLERvXF11RBNCKjM5H14mKBkuLUU7ZgwkMSuDn3EtHxg1Y3keLlRFLRkMICRJHjsfQDhmLz4sAQohRRVGQSUaExkwHidLAg8HDREmIi8ZICI2NSMcCxMYFTo3IjIVBggdKxkuBQQICgMIIw8eKw9MsqhRChMJBxpLSzkcGhsXKzQhBwcJJhcaFgQvglejpsP1ljwZHB8KBw4kHzQ8DxEJJSkrOzwtBQyWuYxXVi9Km707EQsQHxIJJmAyIjY5RHJFEFhGESPUph4jQ2E4M1OGHBpkUikmaDJdJiY0FSNCQDezhKKIepw3H0MxGHNrFIeiSZSQJDdoPRQtOWtALnAlKhRpgmZzERc6FUu5D5IuDVuCjzlfBQYPRl40IGa2j4dpGQ5zbykPO0WfiWagNo+5GSI0HgkZBRA6N0UxChkoEAkScHZbLhKTiA0oKSohU16hHBo9KD1nXkowLDMyFREdJrtpFyB8UhQkKCtKj3Kwi10yFUcxVUExMT4iFyIeXLg2EBpvcQkXEhk2T11VOS1g",
+          "bottom": "Rl40IGa2j4dpGQ5zbykPO0WfiWagNo+5GSI0HgkZBRA6N0UxChkoEAkScHZbLhKTiA0oKSohU16hHBo9KD1nXkowLDMyFREdJrtpFyB8UhQkKCtKj3Kwi10yFUcxVUExMT4iFyIeXLg2EBpvcQkXEhk2T11VOS1gHlEaQzgwMC0kJSkdiXIXJxxOlB4SBx8PEk1jLyoXLEoFOC0oKCYnKCwscGh0UzwEdDsSMS8ZCjgjDSZAFhgoGBAPDhIMDAsSEoKgU148oExtMAwiQlIzMSNmCAcIDQYFBwoJCAQII2QUXzJTZ1cWa0AwYi89HDI1BAMBBgQBBAUDBQIEDChxMREhHkZsNGA7khJoHUBUDw8SDg8KCQwJCQYJCBgwJRsHCggNKUUtjjQ/C1BPBwkEAgEGBQQCCQUJCCQ1HhoQDBAKCA86NGQ7Pk1PAwEIBgcNFC05QDo3NFIcSD01KCgxNEYvC2tCUHaLCw0KBgsdNTkqHR8YFAUyBRUaIBwZEwsjBSokEQkTBAMFBxUoJDdESEZDOz06Oz47MC84P0Y/JEhMUElECw0NCgocKi8sLCwjHRsbISIjKSklGBANFhISFhkZ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.905934,
+          "top": 9.121003,
+          "middle": 26.355942,
+          "bottom": 29.592427,
+          "effectiveRatio": 0.498921
+        },
+        "effectiveDetailRatio": 0.498921,
+        "effectiveSharpness": 1.9001224010650257,
+        "entropy": 7.620467332424596,
+        "extendable": false,
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-25T08:27:12.350Z",
+        "bytes": 250839,
+        "kind": "source",
+        "coverScale": 0.924,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "f74e9a7a6198e96e718cd90e25d873737f8a7ef35876c3627b33eb2f92908c05",
+        "url": "https://raw.githubusercontent.com/Xekaion/kartell-cards/c0971c316f7692788bcb7caed49623581c9e6b3f/source-originals/2026-10-24-mlb-world-series-game1-brewers-rays-result/source-1-f74e9a7a6198e96e.jpg"
+      },
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "currentTeam": "밀워키 브루어스",
+      "fit": "cover",
+      "originalBytesUnchanged": true,
+      "generatedOrUpscaled": false,
+      "role": "body",
+      "sceneGroup": "20261023-ws1-milwaukee-contreras-first-inning-hit-kyodo",
+      "description": "전날 WS1 1회 적시타 뒤 주루를 시작하는 콘트레라스24번. 오늘 WS2 1회 적시타의 실제장면으로 표시하지 않고 전날자료사진임을 명시.",
+      "photoDate": "2026-10-23",
+      "imageCredit": "자료사진 · 교도통신·닛칸스포츠 · 2026.10.23",
+      "creditDisplay": "자료사진 · 교도통신·닛칸스포츠 · 2026.10.23",
+      "sourceLabel": "윌리엄 콘트레라스 · 전날 WS1 자료사진",
+      "rightsEvidence": "사용자가 직접 확인한 일본 매체 사진 사용권. 닛칸스포츠 해당원문에 실제게재된 교도통신사진 한장에 적용하며 다른사진라이브러리로 확대하지 않음.",
+      "upstreamOriginalUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610240000408-w1300_1.jpg",
+      "subject": "윌리엄 콘트레라스",
+      "workerOriginalActuallyViewed": true
+    },
+    {
+      "pageid": 170465736,
+      "title": "File:Jackson Chourio.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/c0971c316f7692788bcb7caed49623581c9e6b3f/source-originals/2026-10-24-mlb-world-series-game1-brewers-rays-result/source-4-18c1888c9a80ab3e.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-25-baseball-request\\ws2-result\\sources\\source-3-18c1888c9a80ab3e.jpg",
+      "width": 2963,
+      "height": 2624,
+      "bytes": 1667352,
+      "sha256": "18c1888c9a80ab3ec028c134fed04cc29ef2f18b01586c64e088cc70a8f30758",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-21 18:58:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jackson Chourio",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Baseball players from the Dominican Republic in 2025|United States photographs taken on 2025-06-07|City Connect uniforms|Light blue sports uniforms|Major League Baseball players in 2025|Jackson Chourio|Light blue clothing in the United States|Men wearing light blue sports jerseys|Milwaukee Brewers vs San Diego Padres (June 7, 2025)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photo of Jackson Chourio taken 06/07/25",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:United_States_photographs_taken_on_2025-06-07\"></span>\n7 June 2025, 21:14:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:IanStone20165?action=edit&amp;redlink=1\" title=\"User:IanStone20165 (page does not exist)\" class=\"new\" typeof=\"mw:LocalizedAttrs\" data-mw-i18n='{\"title\":{\"lang\":\"x-page\",\"key\":\"red-link-title\",\"params\":[\"User:IanStone20165\"]}}'>IanStone20165</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "quality": {
+        "width": 2963,
+        "height": 2624,
+        "rawWidth": 2963,
+        "rawHeight": 2624,
+        "orientation": 1,
+        "pages": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "perceptualHash": "2f0b38693133c4c0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgACAwACAgIBAQEEAgQEAQIBAgIAAwMBAQAAAAIEAQIDAwECAgEBAgMFAgIEAgIAAgMDBQICAgEBAQMEAQIEBAICAwICAwUDBgsiSElFQycSAQQDAgMCAgQFAwQFAwIDAwMEBAAJPGBbTEZAT19WOw0BBQQFBQUGBAQEAgECAgMEAw5rhDsYJCsoKgwYYWcYBAMFBQYGAgIDAgEBAQECCm94F2A5KSxCPD5fREt4FwUDAgQEBAQCAwIBAQEFRmsiWD0VFSIkM09Ha3M4XQsDAQMEBAQDAQEAAgMUVyE7LCIFBRkjLRUwI1NPLyUGAgUEBAQEAwMCAQQmUQskGRQbMz8zISwMHhooFx8GBAYFBgUFBAMDAwNFSH5yfZKZnI6KmYhwgHt4VCkEAgUDBAQEBAMBBA4Xx9WloY5sUUM8Oj5DYX6wuIZJCgcEBAQFBAQEAyemqAgfGSQcFxkYGyAjHw0mV4G3WQsFAwUGAwMFJn+SJIFDQEo+GQ0ECAkNGSQlKR9RjTMJAwUEAQIEUJYvczclEShJSzURBQsMEhBGj4+mUQ0FBAYFBQYGUZAEZCIYLTIuPUI7GxseHSdybl46DggEAwUEBAUDM5AcUhYrPBMeLS8fCgoRCgpJPwUJBAQCAgMCAQMEIoIvWDU6BhMKIktTHw4kDiVjSgMFBwQCAwQDAwQEHGdEYx8WMBwgEQpDRS8uToNrGwQDBggFBQYEAwQEAkRbNBQgOS5JND1OJhY+WTYfGAUGBgYGBgQEAgQFAQtKAyxSSC85RD9GEShDKndIIQcFBwUDAwQEAgECBg0RKkNfOhohLBUKKiIMLT5oHwUCBQYEAwQEBBElMQ87P0lOKyAeHCEvQCteKVpiCwQFCQYEBAMVQVA/H10/PkBIJhcKETlNJCEQLVouBgMEBQQCCjVvXyspKTNpLyNFLQQBBzRBCBgjFkUSBgUEBwcGRVkpHjEoLSsrbS4VQyIJBSVcNwweKDwHCgoJCQsJDyFDPy8pJhwJO4o4GjUhEwMpVT8+YCwICQcICAgIEwcNIB0VFw0WIVSbMw4oJ1ORaGOPZwwIBwUEBQQDGCAfEgsKEwsYEAhkmCgKQb2nmJBoGw8REA8PDAsJTFswExMZEgYREwwaWI8nlooRGBcKCQwNDg8PDw4MPhswEBojGAMFFREkFjlKYy0SCwkGBQUFBAQHBgUCIS4hGC4dJy4OFhQMTC0MRz0GCgoLCwoMCwwMCwkGFBcnPyoTGS8oHBI0E3tYVVgCBgIBAAADAgMEBAIGFRI+NSAJJB0XFysnMBV8Dl8SBQQHBwcIBQQFBwoZBzE6BB0EKy8wGhgzRg1VH00OAwICAQEEBAofOFFqFUAbIiImIzlANRdeVxtmFj0MBQYHCwYaPlVmaWBIJD8EKwY0FSwpTHg8GQ9XJzcKBwcOClJyaFE3IA4EODAhIBsxDRgTCV6OHwssOSoJDAoTdno5FggEBgMBQQwqGi4nBB4oQTxISxotPRgPDwlogBAIBAIBBAEJ",
+          "top": "AgACAwACAgIBAQEEAgQEAQIBAgIAAwMBAQAAAAIEAQIDAwECAgEBAgMFAgIEAgIAAgMDBQICAgEBAQMEAQIEBAICAwICAwUDBgsiSElFQycSAQQDAgMCAgQFAwQFAwIDAwMEBAAJPGBbTEZAT19WOw0BBQQFBQUGBAQEAgECAgMEAw5rhDsYJCsoKgwYYWcYBAMFBQYGAgIDAgEBAQECCm94F2A5KSxCPD5fREt4FwUDAgQEBAQCAwIBAQEFRmsiWD0VFSIkM09Ha3M4XQsDAQMEBAQDAQEAAgMUVyE7LCIFBRkjLRUwI1NPLyUGAgUEBAQEAwMCAQQmUQskGRQbMz8zISwMHhooFx8GBAYFBgUFBAMDAwNFSH5yfZKZnI6KmYhwgHt4VCkEAgUDBAQEBAMBBA4Xx9WloY5sUUM8Oj5DYX6wuIZJCgcEBAQFBAQEAyemqAgfGSQcFxkYGyAjHw0mV4G3WQsFAwUGAwMFJn+SJIFDQEo+GQ0ECAkNGSQlKR9RjTMJAwUEAQIEUJYvczclEShJSzURBQsMEhBGj4+mUQ0FBAYFBQYGUZAEZCIYLTIuPUI7GxseHSdybl46DggE",
+          "middle": "AwUGAwMFJn+SJIFDQEo+GQ0ECAkNGSQlKR9RjTMJAwUEAQIEUJYvczclEShJSzURBQsMEhBGj4+mUQ0FBAYFBQYGUZAEZCIYLTIuPUI7GxseHSdybl46DggEAwUEBAUDM5AcUhYrPBMeLS8fCgoRCgpJPwUJBAQCAgMCAQMEIoIvWDU6BhMKIktTHw4kDiVjSgMFBwQCAwQDAwQEHGdEYx8WMBwgEQpDRS8uToNrGwQDBggFBQYEAwQEAkRbNBQgOS5JND1OJhY+WTYfGAUGBgYGBgQEAgQFAQtKAyxSSC85RD9GEShDKndIIQcFBwUDAwQEAgECBg0RKkNfOhohLBUKKiIMLT5oHwUCBQYEAwQEBBElMQ87P0lOKyAeHCEvQCteKVpiCwQFCQYEBAMVQVA/H10/PkBIJhcKETlNJCEQLVouBgMEBQQCCjVvXyspKTNpLyNFLQQBBzRBCBgjFkUSBgUEBwcGRVkpHjEoLSsrbS4VQyIJBSVcNwweKDwHCgoJCQsJDyFDPy8pJhwJO4o4GjUhEwMpVT8+YCwICQcICAgIEwcNIB0VFw0WIVSbMw4oJ1ORaGOPZwwIBwUEBQQD",
+          "bottom": "CjVvXyspKTNpLyNFLQQBBzRBCBgjFkUSBgUEBwcGRVkpHjEoLSsrbS4VQyIJBSVcNwweKDwHCgoJCQsJDyFDPy8pJhwJO4o4GjUhEwMpVT8+YCwICQcICAgIEwcNIB0VFw0WIVSbMw4oJ1ORaGOPZwwIBwUEBQQDGCAfEgsKEwsYEAhkmCgKQb2nmJBoGw8REA8PDAsJTFswExMZEgYREwwaWI8nlooRGBcKCQwNDg8PDw4MPhswEBojGAMFFREkFjlKYy0SCwkGBQUFBAQHBgUCIS4hGC4dJy4OFhQMTC0MRz0GCgoLCwoMCwwMCwkGFBcnPyoTGS8oHBI0E3tYVVgCBgIBAAADAgMEBAIGFRI+NSAJJB0XFysnMBV8Dl8SBQQHBwcIBQQFBwoZBzE6BB0EKy8wGhgzRg1VH00OAwICAQEEBAofOFFqFUAbIiImIzlANRdeVxtmFj0MBQYHCwYaPlVmaWBIJD8EKwY0FSwpTHg8GQ9XJzcKBwcOClJyaFE3IA4EODAhIBsxDRgTCV6OHwssOSoJDAoTdno5FggEBgMBQQwqGi4nBB4oQTxISxotPRgPDwlogBAIBAIBBAEJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 14.949803,
+          "top": 12.590994,
+          "middle": 13.581096,
+          "bottom": 17.645799,
+          "effectiveRatio": 0.558269
+        },
+        "effectiveDetailRatio": 0.558269,
+        "effectiveSharpness": 1.198407943725191,
+        "entropy": 6.850668268320533,
+        "extendable": false,
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-25T08:27:12.921Z",
+        "bytes": 1667352,
+        "kind": "source",
+        "coverScale": 0.514,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "18c1888c9a80ab3ec028c134fed04cc29ef2f18b01586c64e088cc70a8f30758",
+        "url": "https://raw.githubusercontent.com/Xekaion/kartell-cards/c0971c316f7692788bcb7caed49623581c9e6b3f/source-originals/2026-10-24-mlb-world-series-game1-brewers-rays-result/source-4-18c1888c9a80ab3e.jpg"
+      },
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "currentTeam": "밀워키 브루어스",
+      "fit": "cover",
+      "originalBytesUnchanged": true,
+      "generatedOrUpscaled": false,
+      "role": "body",
+      "sceneGroup": "20250607-milwaukee-chourio-city-connect-smile-ianstone",
+      "description": "하늘색 MKE City Connect 밀워키 유니폼을 입은 추리오 근접사진. 2025년6월7일자료이며 오늘 홈보살의 실제사진이 아님.",
+      "photoDate": "2025-06-07",
+      "imageCredit": "IanStone20165 · CC BY 4.0 · 크롭/문구 추가",
+      "creditDisplay": "IanStone20165 · CC BY 4.0 · creativecommons.org/licenses/by/4.0",
+      "sourceLabel": "자료사진 2025.06.07 · 크롭/문구추가 · commons.wikimedia.org/?curid=170465736",
+      "rightsEvidence": "IanStone20165의Jackson_Chourio.jpg는실제Commons원본페이지에서CC BY4.0. 원본링크·저자·라이선스링크·크롭/문구추가를카드하단에표시하며caption출처제외지시를지킨다. https://commons.wikimedia.org/?curid=170465736 ; https://creativecommons.org/licenses/by/4.0",
+      "upstreamOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "subject": "잭슨 추리오",
+      "workerOriginalActuallyViewed": true
+    },
+    {
+      "id": "149521252",
+      "title": "File:Frelick 1 61824.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Frelick_1_61824.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Frelick_1_61824.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-25-baseball-request\\ws2-result\\sources\\source-4-ecfc6ae64821c27f.jpg",
+      "sha256": "ecfc6ae64821c27f966c665d5b38b33d2853620d8558e09b04df3346bd982556",
+      "bytes": 12859870,
+      "width": 5184,
+      "height": 3456,
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 07:12:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Frelick 1 61824",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images with extracted images|Sal Frelick|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/Sal_Frelick\" class=\"extiw\" title=\"en:Sal Frelick\">Sal Frelick</a> jogging off the field in Anaheim. Later in this game, he robbed a game-tying 3-run home run from <a href=\"https://en.wikipedia.org/wiki/Taylor_Ward\" class=\"extiw\" title=\"en:Taylor Ward\">Taylor Ward</a> in the 9th inning for the final out of the game.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "subject": "살 프렐릭",
+      "currentTeam": "Milwaukee Brewers",
+      "photoDate": "2024-06-18",
+      "sceneGroup": "20240618-anaheim-frelick-jogging-off-field-sewageboy",
+      "description": "회색 MILWAUKEE 원정유니폼과구단모자를입고글러브를끼고조깅하는살프렐릭.2024년6월18일애너하임자료사진이며오늘동점홈런장면으로표시하지않음.프렐릭은사진중앙오른쪽,왼쪽하단일부다른동료인물과구분.",
+      "imageCredit": "Sewageboy · CC BY-SA 4.0 · 크롭/문구 추가",
+      "creditDisplay": "Sewageboy · 이 카드 CC BY-SA 4.0 · creativecommons.org/licenses/by-sa/4.0",
+      "sourceLabel": "자료 2024.06.18 · 크롭/문구 BASEBALL KARTELL · commons.wikimedia.org/?curid=149521252",
+      "rightsEvidence": "Commons File:Frelick 1 61824.jpg 원문과 API extmetadata: 촬영자Sewageboy·2024.06.18·CC BY-SA4.0. 이 사진을 크롭하고 문구를 넣은4p카드 자체를 CC BY-SA4.0으로 공개하고 원저자·원본링크·라이선스링크·변경주체를 실제4pfooter에 표시. 다른자산이나카드의라이선스로확대하지않음.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "derivativeLicenseScope": "photo adaptation and entire rendered card4",
+      "derivativeAuthor": "BASEBALL KARTELL",
+      "quality": {
+        "width": 5184,
+        "height": 3456,
+        "rawWidth": 5184,
+        "rawHeight": 3456,
+        "orientation": 1,
+        "pages": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "perceptualHash": "33460d2b470e8d93",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CAUEChIVHCcmJSQkHxwYFhIQCgUJFRobFhAKCQ0MHR0gIR0fHhQQDAYDBwwMCQsNEBIVFhEKCAYICQgGBwcKAgUICg8MCQsMDAYGAwUMFBUSCwgEAwUCBQkKCQgDBgYDAgIBBgkIBQMIDxQVDgUCBAMABAcODw4OBAMIBQIBAQQGBQICAgcREgsBCAkHBgYGDQ4LCAkJBgMDAgEEBQQBBQYFCg4JAgoNCAQEBQkMCQMFCAcEBQIEAwICAwYGAgYPDQIHCQUBBAEFBgUCAgQHAwMFBwQCBAYHBgQHDg4JAQQEAgIIBwQFBwYFBAMEBgUDBQQBBAQECg8PCwQDBAcJFC8LBAYHBAgFAgEBAgEBAQYEAw4VFBALBwcLDg8TKAgyBQIJDAgFCAgEAwMFBAgSFxcQCgcIBwkJBgIPEUMNExAMCwgHBgQEAQQEFhoZEAoBAQUEBQIGDhcSRxlGJQ8FBQMDBwYFBgUCEQ0EAAEBBAMJCw8RFCFkN1RETDAICgkFAgYGBAcQBQcJBgUDBAwNEQ0IDks7SgVFbigLBgUHBQMIDhYUDAsHBgYJCwwGBQQEIBRKXU1saEEeBgQBCg4TEg0DBAUFAwkJBwEBBAIBIBw2Eg87LUc3AAcLERAJAAYJCQUBBgQEBAMCAwQEBRovISMvUzcHBQkLBAULDQwHBwICAgMEAgEBAgMBAiU+SBFJJA4CBQUDCw0MBgIDAQMCBAMBAQMEBAMFBT4dRUlLPBQMBwAHCAUABAECCAgGBAQFBgYFAwUFCDUkNk88ZiMIAwUEBAcKCAMEDA0MCwwMCAMBAwACBCcVJoc7aDsBAwUICwkICgkGBAIHBwMEBQUEAgMEBigxJk+rWR4HCQkLBwQBAgQDAwMGCwoGBAEFBgQFDQ5tLUlfUBUHBQMCBgUGCQkMAgIKCQkEAwUCBQ8WFFI+OVZVMwYDAQYMCgoMEREQBQYGCAEHBQYMEhMTGVprdWxBBgYNEBUTERISEAsGBQQCBQcDBQ4PDQYGHy+RQy9GFhgaGhcREBAMAwEFBAQDAQIGDQkEBg0THmEfTVYaFBQLCQUDBAMFBAUHBwYCAgoMBQMJDAcFCB9WEA4DBwQGAgMGBwYEAgIIAwkJBgQMDAsIBAEEBggIAgYFBgcGBAQEBAcGCQoHBAIFCQcLCwkEAwYEAwMJDAkLCQcHCAYCAQIDBAUECQcCAgEDBwMCAQQHBQQGCQUDBwcICgkIBwEBBAIBCgQFCAcJBQIEBgIDBQUGCQwLBQICAgIECQcEAQQEAwIGCQgIBgUDAgUCBAMHDQkIBwcJCQgHBwUCBAUFCgcGBgUDAgUFBQMCBAgJBgEEBggIBAcKDAgIBgMEBAQGCQwNDAoHCAcEBwkHAwMFBgMEBAYHAwUFBAQFBwQEBAQHCAkNDQ0NCggGBAQFAgUEAgQBAQMCBAQDAQMDBgkFAQMBAwUCBAYHBwkFBgUFBgICBQcJBwQCEAwKBwEICAoKCw8QCQQBBAIDBwoIAwIFBw0LCgkI",
+          "top": "CAUEChIVHCcmJSQkHxwYFhIQCgUJFRobFhAKCQ0MHR0gIR0fHhQQDAYDBwwMCQsNEBIVFhEKCAYICQgGBwcKAgUICg8MCQsMDAYGAwUMFBUSCwgEAwUCBQkKCQgDBgYDAgIBBgkIBQMIDxQVDgUCBAMABAcODw4OBAMIBQIBAQQGBQICAgcREgsBCAkHBgYGDQ4LCAkJBgMDAgEEBQQBBQYFCg4JAgoNCAQEBQkMCQMFCAcEBQIEAwICAwYGAgYPDQIHCQUBBAEFBgUCAgQHAwMFBwQCBAYHBgQHDg4JAQQEAgIIBwQFBwYFBAMEBgUDBQQBBAQECg8PCwQDBAcJFC8LBAYHBAgFAgEBAgEBAQYEAw4VFBALBwcLDg8TKAgyBQIJDAgFCAgEAwMFBAgSFxcQCgcIBwkJBgIPEUMNExAMCwgHBgQEAQQEFhoZEAoBAQUEBQIGDhcSRxlGJQ8FBQMDBwYFBgUCEQ0EAAEBBAMJCw8RFCFkN1RETDAICgkFAgYGBAcQBQcJBgUDBAwNEQ0IDks7SgVFbigLBgUHBQMIDhYUDAsHBgYJCwwGBQQEIBRKXU1saEEeBgQBCg4TEg0D",
+          "middle": "EQ0EAAEBBAMJCw8RFCFkN1RETDAICgkFAgYGBAcQBQcJBgUDBAwNEQ0IDks7SgVFbigLBgUHBQMIDhYUDAsHBgYJCwwGBQQEIBRKXU1saEEeBgQBCg4TEg0DBAUFAwkJBwEBBAIBIBw2Eg87LUc3AAcLERAJAAYJCQUBBgQEBAMCAwQEBRovISMvUzcHBQkLBAULDQwHBwICAgMEAgEBAgMBAiU+SBFJJA4CBQUDCw0MBgIDAQMCBAMBAQMEBAMFBT4dRUlLPBQMBwAHCAUABAECCAgGBAQFBgYFAwUFCDUkNk88ZiMIAwUEBAcKCAMEDA0MCwwMCAMBAwACBCcVJoc7aDsBAwUICwkICgkGBAIHBwMEBQUEAgMEBigxJk+rWR4HCQkLBwQBAgQDAwMGCwoGBAEFBgQFDQ5tLUlfUBUHBQMCBgUGCQkMAgIKCQkEAwUCBQ8WFFI+OVZVMwYDAQYMCgoMEREQBQYGCAEHBQYMEhMTGVprdWxBBgYNEBUTERISEAsGBQQCBQcDBQ4PDQYGHy+RQy9GFhgaGhcREBAMAwEFBAQDAQIGDQkEBg0THmEfTVYaFBQLCQUDBAMFBAUH",
+          "bottom": "AgIKCQkEAwUCBQ8WFFI+OVZVMwYDAQYMCgoMEREQBQYGCAEHBQYMEhMTGVprdWxBBgYNEBUTERISEAsGBQQCBQcDBQ4PDQYGHy+RQy9GFhgaGhcREBAMAwEFBAQDAQIGDQkEBg0THmEfTVYaFBQLCQUDBAMFBAUHBwYCAgoMBQMJDAcFCB9WEA4DBwQGAgMGBwYEAgIIAwkJBgQMDAsIBAEEBggIAgYFBgcGBAQEBAcGCQoHBAIFCQcLCwkEAwYEAwMJDAkLCQcHCAYCAQIDBAUECQcCAgEDBwMCAQQHBQQGCQUDBwcICgkIBwEBBAIBCgQFCAcJBQIEBgIDBQUGCQwLBQICAgIECQcEAQQEAwIGCQgIBgUDAgUCBAMHDQkIBwcJCQgHBwUCBAUFCgcGBgUDAgUFBQMCBAgJBgEEBggIBAcKDAgIBgMEBAQGCQwNDAoHCAcEBwkHAwMFBgMEBAYHAwUFBAQFBwQEBAQHCAkNDQ0NCggGBAQFAgUEAgQBAQMCBAQDAQMDBgkFAQMBAwUCBAYHBwkFBgUFBgICBQcJBwQCEAwKBwEICAoKCw8QCQQBBAIDBwoIAwIFBw0LCgkI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 13.260677,
+          "top": 11.30304,
+          "middle": 15.967162,
+          "bottom": 14.091392,
+          "effectiveRatio": 0.546086
+        },
+        "effectiveDetailRatio": 0.546086,
+        "effectiveSharpness": 0.9219726289131623,
+        "entropy": 5.686494409565853,
+        "extendable": false,
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-25T08:27:13.385Z",
+        "bytes": 12859870,
+        "kind": "source",
+        "coverScale": 0.391,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "ecfc6ae64821c27f966c665d5b38b33d2853620d8558e09b04df3346bd982556",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Frelick_1_61824.jpg"
+      },
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "fit": "cover",
+      "originalBytesUnchanged": true,
+      "generatedOrUpscaled": false,
+      "workerOriginalActuallyViewed": true,
+      "role": "body"
+    },
+    {
+      "id": "yelich-20261012-contact",
+      "person": "크리스티안 옐리치",
+      "dateLocal": "2026-10-12",
+      "dateEvidence": "기존검수 원문 NLCS2차전3회 밀워키 경기",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/c0971c316f7692788bcb7caed49623581c9e6b3f/source-originals/2026-10-24-mlb-world-series-game1-brewers-rays-result/source-3-ff40003b1977f5b6.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/news/202610130000689.html?mode=all",
+      "imageCredit": "자료사진 · 교도통신·닛칸스포츠 · 2026.10.12",
+      "localInput": "logs/codex-2026-10-24-baseball-three/research-mlb/support-photos/yelich-1.jpg",
+      "expectedSha256": "ff40003b1977f5b6b217db34efad3c39db62891845b954519cb8ab8dc4bcc513",
+      "sceneGroup": "20261012-milwaukee-nlcs2-yelich-contact-kyodo",
+      "role": "body",
+      "rightsScope": "2026-10-16 사용자 일본매체사진 사용권확보 확인. 정확한 이 닛칸원문 게재사진만 사용.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-25-baseball-request\\ws2-result\\sources\\source-5-ff40003b1977f5b6.jpg",
+      "sha256": "ff40003b1977f5b6b217db34efad3c39db62891845b954519cb8ab8dc4bcc513",
+      "quality": {
+        "width": 1300,
+        "height": 1336,
+        "rawWidth": 1300,
+        "rawHeight": 1336,
+        "orientation": 1,
+        "pages": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "perceptualHash": "92bd3b3633775e68",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "QzjfnMZWKYWJCDOWRT4KJUMOmZkZEj1eRS2LGQkNFDAQmEApHGaPYVB3fzcrIDMjgY1+c3s1Goc/HCAhJxUSHhkSGk8ycGRWVURNOitvC4Jpc24+XkAZAgwUBQEEBwtUq77OZTw+OVc0OHdRcSARHC4iKyofHxwdCQgICVHSnllr3V9KFiAuCXiBUQ8PDQwLCwwLDw8PBAQDC5q9Jx0pqqMsRjkpGwkpFB4cHh8eHR8fGxoZAQIJJNqHRHAdkNlLIm0dNyQmHhsbGx0cGh0cHRwbAQQOav8XjUSNQGdhGnNODQYHCgkJCAkJCggGDAsJAQYb69IwmIgQIzh6p5aoFQkEBggKEAoNBgcNAwQSAg15/1MPK196KUB8XlLTc2wIPlIxjIxoHXh7XxA3ByLmuR0aKjFEQR12Qgp+P4QwZGk8ZHhvJpoYnZNAC2X3TB8YMoFCPCpxsjqQKjlAZFg/hzqLfCE2IYYnC6POHhMRaEEKDSw8jdF5IBdJUEFOeJZPk2NWonofIsiUCxEQE3ZOQRVigo05LEJvBlw/ho5DgoXHv0JmJdGXGCpETBxUVlZtWTJICaJTgm82qYIwHLqMWFB2hvxDN1o5Q0wMf4BDDhsqAyxuPwkjF00uQkALCBs33K4NE0l9aVE/hzMOEQQHAQcKBgcOITUFGDk1HkYg2HsPCgsvWC5SmEQMAgQEBQQCAwMCAxApR04PUiki2G8YDiEaFxo2k1sOEBAWFxcWEQ4QEA4MSJM7NCYX2mkaIxsoGwsYhm0HBgkhISMkDQIBBAQFKH+SEw8g024TJh8pFAkDeogcFSYqHx4pLRoaGhoWQDWPQiwwrHQJIT5FKhIJcaAmDgkUFRcWAw4NDg4NG14lVS1AkoUKMnNQUyMWXJElExIVFxYZFxcYGhoWO0pBOixab5svRpkfbS0jS5owDw8RExEPEBEQEhIiShlzQUlWQ41DP5YpYjsnModAJCYkIyEhIh8dHBksBmxnLSsNKoNKSYYwRkYnIGk0GxMOEBoYFhUUGAwVTH0fGjlVO4U3Xn0eMEs1GGQvCQwPFhINBgINCyxhYkEMMEliTHwUdG0OJlRGDm44DiEzFBIZJS4oL2FiQxkMR10hVHQJe2QMG1pUFGJTHywXOigXEwkUF0UzFAUCK2Y9SXEWd1sKBEFnQ1JhFyc1HAUEDxkdLHBTCA4NKT5bS3Mhb1kKABw4U0o8DA0IEhweGRsbJ2pBdiwMPxciOnspWmEKCSgkDQ0qGAQFDQwHAgcMNF48RXklQTkhJXBBSVwSBjYrGRZSLgcGDBMSCQ0kb0pHUkZDNVFBFkNZInIhBQtGNycnfyQIAgQJBRZPUxFMUVtGdoExBzdaB3ZiCgUGKk1EWYYgFREYHx5GhKKyUGkiXDNNH3hZHSmeZB4JBC9xO19EEhsZHDlVhI1TEldTRgk3OVY9TTgEW0kcGh4sUSs1MS4cHjkmFQQfKTJlPSk2DypYOT92TxUmIA0WEhYcBxgdFSk+QzQ+NCsqKDA0",
+          "top": "QzjfnMZWKYWJCDOWRT4KJUMOmZkZEj1eRS2LGQkNFDAQmEApHGaPYVB3fzcrIDMjgY1+c3s1Goc/HCAhJxUSHhkSGk8ycGRWVURNOitvC4Jpc24+XkAZAgwUBQEEBwtUq77OZTw+OVc0OHdRcSARHC4iKyofHxwdCQgICVHSnllr3V9KFiAuCXiBUQ8PDQwLCwwLDw8PBAQDC5q9Jx0pqqMsRjkpGwkpFB4cHh8eHR8fGxoZAQIJJNqHRHAdkNlLIm0dNyQmHhsbGx0cGh0cHRwbAQQOav8XjUSNQGdhGnNODQYHCgkJCAkJCggGDAsJAQYb69IwmIgQIzh6p5aoFQkEBggKEAoNBgcNAwQSAg15/1MPK196KUB8XlLTc2wIPlIxjIxoHXh7XxA3ByLmuR0aKjFEQR12Qgp+P4QwZGk8ZHhvJpoYnZNAC2X3TB8YMoFCPCpxsjqQKjlAZFg/hzqLfCE2IYYnC6POHhMRaEEKDSw8jdF5IBdJUEFOeJZPk2NWonofIsiUCxEQE3ZOQRVigo05LEJvBlw/ho5DgoXHv0JmJdGXGCpETBxUVlZtWTJICaJTgm82qYIwHLqMWFB2",
+          "middle": "C6POHhMRaEEKDSw8jdF5IBdJUEFOeJZPk2NWonofIsiUCxEQE3ZOQRVigo05LEJvBlw/ho5DgoXHv0JmJdGXGCpETBxUVlZtWTJICaJTgm82qYIwHLqMWFB2hvxDN1o5Q0wMf4BDDhsqAyxuPwkjF00uQkALCBs33K4NE0l9aVE/hzMOEQQHAQcKBgcOITUFGDk1HkYg2HsPCgsvWC5SmEQMAgQEBQQCAwMCAxApR04PUiki2G8YDiEaFxo2k1sOEBAWFxcWEQ4QEA4MSJM7NCYX2mkaIxsoGwsYhm0HBgkhISMkDQIBBAQFKH+SEw8g024TJh8pFAkDeogcFSYqHx4pLRoaGhoWQDWPQiwwrHQJIT5FKhIJcaAmDgkUFRcWAw4NDg4NG14lVS1AkoUKMnNQUyMWXJElExIVFxYZFxcYGhoWO0pBOixab5svRpkfbS0jS5owDw8RExEPEBEQEhIiShlzQUlWQ41DP5YpYjsnModAJCYkIyEhIh8dHBksBmxnLSsNKoNKSYYwRkYnIGk0GxMOEBoYFhUUGAwVTH0fGjlVO4U3Xn0eMEs1GGQvCQwPFhINBgINCyxhYkEMMEli",
+          "bottom": "b5svRpkfbS0jS5owDw8RExEPEBEQEhIiShlzQUlWQ41DP5YpYjsnModAJCYkIyEhIh8dHBksBmxnLSsNKoNKSYYwRkYnIGk0GxMOEBoYFhUUGAwVTH0fGjlVO4U3Xn0eMEs1GGQvCQwPFhINBgINCyxhYkEMMEliTHwUdG0OJlRGDm44DiEzFBIZJS4oL2FiQxkMR10hVHQJe2QMG1pUFGJTHywXOigXEwkUF0UzFAUCK2Y9SXEWd1sKBEFnQ1JhFyc1HAUEDxkdLHBTCA4NKT5bS3Mhb1kKABw4U0o8DA0IEhweGRsbJ2pBdiwMPxciOnspWmEKCSgkDQ0qGAQFDQwHAgcMNF48RXklQTkhJXBBSVwSBjYrGRZSLgcGDBMSCQ0kb0pHUkZDNVFBFkNZInIhBQtGNycnfyQIAgQJBRZPUxFMUVtGdoExBzdaB3ZiCgUGKk1EWYYgFREYHx5GhKKyUGkiXDNNH3hZHSmeZB4JBC9xO19EEhsZHDlVhI1TEldTRgk3OVY9TTgEW0kcGh4sUSs1MS4cHjkmFQQfKTJlPSk2DypYOT92TxUmIA0WEhYcBxgdFSk+QzQ+NCsqKDA0"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 26.937286,
+          "top": 24.810069,
+          "middle": 21.350218,
+          "bottom": 31.395775,
+          "effectiveRatio": 0.484007
+        },
+        "effectiveDetailRatio": 0.484007,
+        "effectiveSharpness": 2.097592102280961,
+        "entropy": 7.761383132543415,
+        "extendable": false,
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-25T08:27:13.450Z",
+        "bytes": 252001,
+        "kind": "source",
+        "coverScale": 1.01,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "ff40003b1977f5b6b217db34efad3c39db62891845b954519cb8ab8dc4bcc513",
+        "url": "https://raw.githubusercontent.com/Xekaion/kartell-cards/c0971c316f7692788bcb7caed49623581c9e6b3f/source-originals/2026-10-24-mlb-world-series-game1-brewers-rays-result/source-3-ff40003b1977f5b6.jpg"
+      },
+      "strictPassed": true,
+      "originalBytesUnchanged": true,
+      "generatedOrUpscaled": false,
+      "visualReviewStatus": "original_viewed_current_team_uniform_and_distinct_scene_verified",
+      "allowedUse": "본문만, 새표지는당일별도원본. 공개캡션출처0 유지하고촬영일/사진크레딧은카드footer·내부기록에보존.",
+      "originalActuallyOpened": true,
+      "visualReviewNotes": "원본직접열람: 흰Brewers22 유니폼,옐리치가배트와공을맞추는장면.포수와심판은오른쪽배경,옐리치주피사체.다른후보투구/세리머니와인물/날짜/행동이다르다.",
+      "currentTeamUniformVerified": true,
+      "currentTeam": "밀워키 브루어스",
+      "checkedAt": "2026-10-24T10:11:34.289Z",
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "fit": "cover",
+      "description": "2026.10.12 NLCS2 옐리치의흰Brewers22번타격임팩트. 오늘6회안타/프랫7회결승타/애슈비마무리의실제장면이아니고옐리치날짜명시자료사진.",
+      "photoDate": "2026-10-12",
+      "creditDisplay": "자료사진 · 교도통신·닛칸스포츠 · 2026.10.12",
+      "sourceLabel": "크리스티안 옐리치 · NLCS 자료사진",
+      "rightsEvidence": "2026-10-16 사용자 일본매체사진 사용권확보 확인. 정확한 이 닛칸원문 게재사진만 사용.",
+      "upstreamOriginalUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610130000689-w1300_1.jpg",
+      "subject": "크리스티안 옐리치",
+      "bytes": 252001,
+      "workerOriginalActuallyViewed": true
+    }
+  ]
+}
