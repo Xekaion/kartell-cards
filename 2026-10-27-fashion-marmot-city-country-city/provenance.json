@@ -1,0 +1,447 @@
+{
+  "channelId": "fashion-kartell",
+  "handle": "@fashion_kartell_magazine",
+  "slug": "2026-10-27-fashion-marmot-city-country-city",
+  "issueKey": "marmot-city-country-city-sixth-everywhere-capsule-october24-2026",
+  "publishingKind": "regular",
+  "publicationKind": "missing_regular_slot_recovery",
+  "originalSlot": "2026-10-26T14:00:00+09:00",
+  "requestCutoff": "2026-10-27T01:17:23+09:00",
+  "preparedAt": "2026-10-26T16:39:10.748Z",
+  "sourcePublishedAt": "2026-10-24T02:00:26.000Z",
+  "article": {
+    "id": "rss-149f8d8792a93668133e65ca",
+    "source": "Hypebeast",
+    "sourceId": "hypebeast",
+    "sourceUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+    "title": "Marmot x CITY COUNTRY CITY’s “Everywhere” Capsule Layers Up for Winter",
+    "publishedAt": "2026-10-24T02:00:26.000Z",
+    "corroboratingUrls": [
+      "https://marmot.jp/products/mtfw26mjk300cc",
+      "https://marmot.jp/products/mtfw26mfl301cc",
+      "https://marmot.jp/products/mtfw26mst307cc",
+      "https://marmot.jp/products/mtfw26mls305cc",
+      "https://www.houyhnhnm.jp/news/1181827/",
+      "https://shop.cocorozashi.jp/ko/blogs/news/city-country-city-26fw-5-26-10-24"
+    ],
+    "rightsStatus": "approved",
+    "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다."
+  },
+  "content": {
+    "issueKey": "marmot-city-country-city-sixth-everywhere-capsule-october24-2026",
+    "storyFormat": "release_guide",
+    "eyebrow": "협업 · 에브리웨어 FW26",
+    "headline": "마모트 X 시티 컨트리 시티",
+    "deck": "퍼프 재킷과 포켓 플리스, 티셔츠까지 이어지는 여섯 번째 ‘Everywhere’.",
+    "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+    "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+    "slides": [
+      {
+        "type": "cover",
+        "title": "마모트 X\n시티 컨트리 시티",
+        "body": "여섯 번째 ‘Everywhere’가 나왔다. 퍼프 재킷부터 포켓 플리스, 그래픽 티셔츠까지 겨울 레이어를 묶었다.",
+        "fit": "cover"
+      },
+      {
+        "type": "photo",
+        "title": "퍼텍스 겉감, 프리마로프트 속",
+        "body": "퍼텍스 퀀텀 겉감에 프리마로프트 충전재를 넣었다. 뒤쪽 캥거루 포켓과 밑단 번지 코드로 수납과 실루엣을 조절한다.",
+        "fit": "cover"
+      },
+      {
+        "type": "photo",
+        "title": "포켓을 더한 폴라텍 100",
+        "body": "가벼운 폴라텍 100 플리스에 앞뒤 포켓을 배치했다. 같은 소재의 팬츠와 캡을 함께 구성해 한 벌로도 입을 수 있다.",
+        "fit": "cover"
+      },
+      {
+        "type": "photo",
+        "title": "티셔츠에도 아카이브 그래픽",
+        "body": "면 같은 촉감의 흡수·속건 소재 위에 마모트의 아카이브 그래픽을 올렸다. 컬렉션은 10월 24일 일본에서 출시됐다.",
+        "fit": "cover"
+      },
+      {
+        "type": "photo",
+        "title": "",
+        "body": "",
+        "outro": true,
+        "fit": "cover"
+      }
+    ],
+    "caption": "마모트와 시티 컨트리 시티의 여섯 번째 협업 ‘Everywhere’가 나왔다. 겨울용 퍼프 재킷과 플리스 세트, 그래픽 티셔츠를 한 컬렉션으로 구성했다.\n\n퍼프 재킷은 퍼텍스 퀀텀 겉감에 프리마로프트 충전재를 넣었다. 양옆 손주머니에 뒤쪽 캥거루 포켓을 더하고, 밑단은 번지 코드로 조절하도록 만들었다.\n\n폴라텍 100 플리스 재킷은 앞뒤에 배치한 포켓이 특징이다. 같은 소재의 팬츠와 캡도 함께 선보인다. 긴팔과 반팔 티셔츠에는 마모트 아카이브에서 가져온 그래픽을 적용하고, 면 같은 촉감의 흡수·속건 폴리에스터 소재를 썼다.\n\n10월 24일 일본에서 출시됐다. 일본 공식 가격은 퍼프 재킷 6만3800엔, 플리스 재킷 3만3000엔, 긴팔 티셔츠 9900엔, 반팔 티셔츠 8800엔이다. 퍼프 재킷과 포켓 플리스 가운데 먼저 고르고 싶은 옷은?",
+    "hashtags": [
+      "#마모트",
+      "#Marmot",
+      "#시티컨트리시티",
+      "#CITYCOUNTRYCITY",
+      "#Everywhere",
+      "#프리마로프트",
+      "#퍼텍스",
+      "#폴라텍",
+      "#아우터",
+      "#협업",
+      "#패션",
+      "#패션뉴스",
+      "#패션스타그램",
+      "#스타일",
+      "#트렌드",
+      "#패션트렌드",
+      "#스타일링",
+      "#패션정보",
+      "#데일리룩",
+      "#옷스타그램",
+      "#패션피플",
+      "#fashion",
+      "#fashionnews",
+      "#style",
+      "#trend"
+    ],
+    "corroboratingUrls": [
+      "https://marmot.jp/products/mtfw26mjk300cc",
+      "https://marmot.jp/products/mtfw26mfl301cc",
+      "https://marmot.jp/products/mtfw26mst307cc",
+      "https://marmot.jp/products/mtfw26mls305cc",
+      "https://www.houyhnhnm.jp/news/1181827/",
+      "https://shop.cocorozashi.jp/ko/blogs/news/city-country-city-26fw-5-26-10-24"
+    ],
+    "brandNameChecks": [
+      {
+        "originalName": "Marmot",
+        "selectedName": "마모트",
+        "koreanName": "마모트",
+        "confirmedAt": "2026-10-27",
+        "status": "korean_common_name_confirmed",
+        "evidence": [
+          {
+            "url": "https://kream.co.kr/products/629975",
+            "label": "KREAM 브랜드명과 협업 상품의 마모트 표기 직접 확인"
+          },
+          {
+            "url": "https://m.gmarket.co.kr/n/minishop/dangeroustwotul/list?isShopCategory=false&lcode=100000046&p=2",
+            "label": "G마켓 판매 목록의 마모트 Marmot 협업 상품명 직접 확인"
+          }
+        ]
+      },
+      {
+        "originalName": "CITY COUNTRY CITY",
+        "selectedName": "시티 컨트리 시티",
+        "koreanName": "시티 컨트리 시티",
+        "confirmedAt": "2026-10-27",
+        "status": "korean_common_name_confirmed",
+        "evidence": [
+          {
+            "url": "https://kream.co.kr/products/629975",
+            "label": "KREAM 협업 상품명의 시티 컨트리 시티 표기 직접 확인"
+          },
+          {
+            "url": "https://m.gmarket.co.kr/n/minishop/dangeroustwotul/list?isShopCategory=false&lcode=100000046&p=2",
+            "label": "G마켓 26SS 협업 상품명에서 시티 컨트리 시티 표기 직접 확인"
+          }
+        ]
+      }
+    ],
+    "factChecks": [
+      {
+        "claim": "이번 Everywhere는 여섯 번째 협업이며 2026년10월24일 일본에서 출시됐다.",
+        "sourceUrls": [
+          "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+          "https://www.houyhnhnm.jp/news/1181827/",
+          "https://shop.cocorozashi.jp/ko/blogs/news/city-country-city-26fw-5-26-10-24"
+        ]
+      },
+      {
+        "claim": "퍼프 재킷은 퍼텍스 퀀텀 겉감·프리마로프트 충전재·뒤 캥거루 포켓·밑단 번지 코드를 적용한다. 일본 공식가격63800엔.",
+        "sourceUrls": [
+          "https://marmot.jp/products/mtfw26mjk300cc"
+        ]
+      },
+      {
+        "claim": "플리스 재킷은 폴라텍100과 앞뒤 포켓을 적용하며 공식가격33000엔. 같은소재 팬츠·캡도구성된다.",
+        "sourceUrls": [
+          "https://marmot.jp/products/mtfw26mfl301cc",
+          "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+          "https://marmot.jp/collections/city-country-city-marmot"
+        ]
+      },
+      {
+        "claim": "긴팔·반팔티셔츠는 흡수·속건 폴리에스터 소재와 아카이브 그래픽을 적용하며 일본 공식가격9900엔·8800엔.",
+        "sourceUrls": [
+          "https://marmot.jp/products/mtfw26mst307cc",
+          "https://marmot.jp/products/mtfw26mls305cc"
+        ]
+      }
+    ],
+    "verification": [],
+    "publishingKind": "regular",
+    "images": [
+      "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03030-1333x2000.jpg",
+      "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03191.jpg",
+      "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03099-1333x2000.jpg",
+      "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03188-1333x2000.jpg",
+      "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03173-1333x2000.jpg"
+    ],
+    "imageRights": [
+      {
+        "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03030-1333x2000.jpg",
+        "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+        "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+        "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-007.jpg?q=90&w=1400&cbr=1&fit=max",
+        "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+        "rightsStatus": "approved",
+        "rightsEvidence": "사용권이 확인된 Hypebeast 실제 갤러리 7번 사진과 정확히 같은 촬영 사진이다. HOUYHNHNM의 고해상도 공개 전달본과 인물·접힘·로고·배경의 완전한 일치를 개별 육안 대조하고 양쪽 SHA와 상관도를 보존했다.",
+        "sourceSha256": "5d32d1ecef12357f0338d9b162556c60d45b52b2d76242d75d650fd538e628db"
+      },
+      {
+        "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03191.jpg",
+        "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+        "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+        "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-002.jpg?q=90&w=1400&cbr=1&fit=max",
+        "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+        "rightsStatus": "approved",
+        "rightsEvidence": "사용권이 확인된 Hypebeast 실제 갤러리 2번 사진과 정확히 같은 촬영 사진이다. HOUYHNHNM의 고해상도 공개 전달본과 인물·접힘·로고·배경의 완전한 일치를 개별 육안 대조하고 양쪽 SHA와 상관도를 보존했다.",
+        "sourceSha256": "1e6f86d4f6b08de493e11281881535242a4d9fae457381be61ad93bb9f22f312"
+      },
+      {
+        "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03099-1333x2000.jpg",
+        "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+        "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+        "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-006.jpg?q=90&w=1400&cbr=1&fit=max",
+        "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+        "rightsStatus": "approved",
+        "rightsEvidence": "사용권이 확인된 Hypebeast 실제 갤러리 6번 사진과 정확히 같은 촬영 사진이다. HOUYHNHNM의 고해상도 공개 전달본과 인물·접힘·로고·배경의 완전한 일치를 개별 육안 대조하고 양쪽 SHA와 상관도를 보존했다.",
+        "sourceSha256": "85104bdf15946bafc4a87a85844e01ce2a8a870b522a4a330e385cdcc3ef936e"
+      },
+      {
+        "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03188-1333x2000.jpg",
+        "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+        "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+        "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-003.jpg?q=90&w=1400&cbr=1&fit=max",
+        "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+        "rightsStatus": "approved",
+        "rightsEvidence": "사용권이 확인된 Hypebeast 실제 갤러리 3번 사진과 정확히 같은 촬영 사진이다. HOUYHNHNM의 고해상도 공개 전달본과 인물·접힘·로고·배경의 완전한 일치를 개별 육안 대조하고 양쪽 SHA와 상관도를 보존했다.",
+        "sourceSha256": "9a3350ae4d510b708fcf09456a5edbbc91790144eb939d453db5b1cdc255f222"
+      },
+      {
+        "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03173-1333x2000.jpg",
+        "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+        "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+        "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-005.jpg?q=90&w=1400&cbr=1&fit=max",
+        "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+        "rightsStatus": "approved",
+        "rightsEvidence": "사용권이 확인된 Hypebeast 실제 갤러리 5번 사진과 정확히 같은 촬영 사진이다. HOUYHNHNM의 고해상도 공개 전달본과 인물·접힘·로고·배경의 완전한 일치를 개별 육안 대조하고 양쪽 SHA와 상관도를 보존했다.",
+        "sourceSha256": "4ef3745966d276ea3375db93ff84fe21e76d167710133d47dfdc8e86c1e65b0d"
+      }
+    ],
+    "fullCaption": "마모트와 시티 컨트리 시티의 여섯 번째 협업 ‘Everywhere’가 나왔다. 겨울용 퍼프 재킷과 플리스 세트, 그래픽 티셔츠를 한 컬렉션으로 구성했다.\n\n퍼프 재킷은 퍼텍스 퀀텀 겉감에 프리마로프트 충전재를 넣었다. 양옆 손주머니에 뒤쪽 캥거루 포켓을 더하고, 밑단은 번지 코드로 조절하도록 만들었다.\n\n폴라텍 100 플리스 재킷은 앞뒤에 배치한 포켓이 특징이다. 같은 소재의 팬츠와 캡도 함께 선보인다. 긴팔과 반팔 티셔츠에는 마모트 아카이브에서 가져온 그래픽을 적용하고, 면 같은 촉감의 흡수·속건 폴리에스터 소재를 썼다.\n\n10월 24일 일본에서 출시됐다. 일본 공식 가격은 퍼프 재킷 6만3800엔, 플리스 재킷 3만3000엔, 긴팔 티셔츠 9900엔, 반팔 티셔츠 8800엔이다. 퍼프 재킷과 포켓 플리스 가운데 먼저 고르고 싶은 옷은?\n\n(출처: Hypebeast)\n\n#마모트 #Marmot #시티컨트리시티 #CITYCOUNTRYCITY #Everywhere #프리마로프트 #퍼텍스 #폴라텍 #아우터 #협업 #패션 #패션뉴스 #패션스타그램 #스타일 #트렌드 #패션트렌드 #스타일링 #패션정보 #데일리룩 #옷스타그램 #패션피플 #fashion #fashionnews #style #trend"
+  },
+  "photos": [
+    {
+      "family": "marmot-houy",
+      "filename": "marmot-houy-03030-1333x2000.jpeg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-27-all-catchup\\fashion-research\\photos\\marmot-houy-03030-1333x2000.jpeg",
+      "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03030-1333x2000.jpg",
+      "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 202172,
+      "sourceSha256": "5d32d1ecef12357f0338d9b162556c60d45b52b2d76242d75d650fd538e628db",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03030-1333x2000.jpg",
+        "format": "jpeg",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 202172,
+        "coverScale": 0.81,
+        "effectiveSharpness": 0.701367884433562,
+        "effectiveDetailRatio": 0.450255,
+        "perceptualHash": "3e380e27178787bc",
+        "sha256": "5d32d1ecef12357f0338d9b162556c60d45b52b2d76242d75d650fd538e628db"
+      },
+      "strictPassed": true,
+      "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03030-1333x2000.jpg",
+      "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+      "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-007.jpg?q=90&w=1400&cbr=1&fit=max",
+      "licensedArticleGalleryIndex": 7,
+      "sourceTransportNote": "Higher-resolution delivery of the exact same licensed Hypebeast article photograph; not a new/unrelated Houyhnhnm photograph.",
+      "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+      "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+      "rightsStatus": "approved",
+      "checkedAt": "2026-10-27T01:32:00+09:00",
+      "sceneGroup": "marmot-fleece-front-pocket-detail",
+      "description": "회색 폴라텍 재킷의 앞쪽 주머니·보풀감·CCC 로고와 손으로 주머니를 여는 동작이 주가 되는 몸통 근접 사진. 제품 단독 정물은 아니며 의복 디테일 중심의 착용 표지 후보이다.",
+      "sourceVisuallyOpened": true,
+      "generated": false
+    },
+    {
+      "family": "marmot-houy",
+      "filename": "marmot-houy-03191.jpeg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-27-all-catchup\\fashion-research\\photos\\marmot-houy-03191.jpeg",
+      "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03191.jpg",
+      "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+      "width": 1600,
+      "height": 2400,
+      "bytes": 858799,
+      "sourceSha256": "1e6f86d4f6b08de493e11281881535242a4d9fae457381be61ad93bb9f22f312",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03191.jpg",
+        "format": "jpeg",
+        "width": 1600,
+        "height": 2400,
+        "bytes": 858799,
+        "coverScale": 0.675,
+        "effectiveSharpness": 1.6380187671176465,
+        "effectiveDetailRatio": 0.535471,
+        "perceptualHash": "b1131e615827a1ad",
+        "sha256": "1e6f86d4f6b08de493e11281881535242a4d9fae457381be61ad93bb9f22f312"
+      },
+      "strictPassed": true,
+      "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03191.jpg",
+      "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+      "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-002.jpg?q=90&w=1400&cbr=1&fit=max",
+      "licensedArticleGalleryIndex": 2,
+      "sourceTransportNote": "Higher-resolution delivery of the exact same licensed Hypebeast article photograph; not a new/unrelated Houyhnhnm photograph.",
+      "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+      "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+      "rightsStatus": "approved",
+      "checkedAt": "2026-10-27T01:32:00+09:00",
+      "sceneGroup": "marmot-gray-puffer-front-portrait",
+      "description": "회색 프리마로프트 퍼프 재킷의 지퍼·스탠드칼라와 가슴 양쪽 브랜드 로고를 보여 주는 정면 상반신 사진.",
+      "sourceVisuallyOpened": true,
+      "generated": false
+    },
+    {
+      "family": "marmot-houy",
+      "filename": "marmot-houy-03099-1333x2000.jpeg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-27-all-catchup\\fashion-research\\photos\\marmot-houy-03099-1333x2000.jpeg",
+      "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03099-1333x2000.jpg",
+      "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 261475,
+      "sourceSha256": "85104bdf15946bafc4a87a85844e01ce2a8a870b522a4a330e385cdcc3ef936e",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03099-1333x2000.jpg",
+        "format": "jpeg",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 261475,
+        "coverScale": 0.81,
+        "effectiveSharpness": 0.9435128728314267,
+        "effectiveDetailRatio": 0.481128,
+        "perceptualHash": "920d0616479189c2",
+        "sha256": "85104bdf15946bafc4a87a85844e01ce2a8a870b522a4a330e385cdcc3ef936e"
+      },
+      "strictPassed": true,
+      "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03099-1333x2000.jpg",
+      "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+      "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-006.jpg?q=90&w=1400&cbr=1&fit=max",
+      "licensedArticleGalleryIndex": 6,
+      "sourceTransportNote": "Higher-resolution delivery of the exact same licensed Hypebeast article photograph; not a new/unrelated Houyhnhnm photograph.",
+      "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+      "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+      "rightsStatus": "approved",
+      "checkedAt": "2026-10-27T01:32:00+09:00",
+      "sceneGroup": "marmot-gray-fleece-side-pocket",
+      "description": "회색 폴라텍100 플리스 재킷을 측면에서 착용한 장면. 앞쪽 입체 포켓과 소매 Marmot 로고가 명확하다.",
+      "sourceVisuallyOpened": true,
+      "generated": false
+    },
+    {
+      "family": "marmot-houy",
+      "filename": "marmot-houy-03188-1333x2000.jpeg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-27-all-catchup\\fashion-research\\photos\\marmot-houy-03188-1333x2000.jpeg",
+      "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03188-1333x2000.jpg",
+      "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 222956,
+      "sourceSha256": "9a3350ae4d510b708fcf09456a5edbbc91790144eb939d453db5b1cdc255f222",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03188-1333x2000.jpg",
+        "format": "jpeg",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 222956,
+        "coverScale": 0.81,
+        "effectiveSharpness": 1.3035464457536128,
+        "effectiveDetailRatio": 0.454853,
+        "perceptualHash": "b31d2763f9c9e3e3",
+        "sha256": "9a3350ae4d510b708fcf09456a5edbbc91790144eb939d453db5b1cdc255f222"
+      },
+      "strictPassed": true,
+      "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03188-1333x2000.jpg",
+      "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+      "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-003.jpg?q=90&w=1400&cbr=1&fit=max",
+      "licensedArticleGalleryIndex": 3,
+      "sourceTransportNote": "Higher-resolution delivery of the exact same licensed Hypebeast article photograph; not a new/unrelated Houyhnhnm photograph.",
+      "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+      "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+      "rightsStatus": "approved",
+      "checkedAt": "2026-10-27T01:32:00+09:00",
+      "sceneGroup": "marmot-white-graphic-tee-front",
+      "description": "흰색 반팔 티셔츠 앞면에 빨간 영문과 검은 산 그림이 겹친 아카이브 그래픽이 보인다. 모자 쓴 모델의 몸통 중심 사진이다.",
+      "sourceVisuallyOpened": true,
+      "generated": false
+    },
+    {
+      "family": "marmot-houy",
+      "filename": "marmot-houy-03173-1333x2000.jpeg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-27-all-catchup\\fashion-research\\photos\\marmot-houy-03173-1333x2000.jpeg",
+      "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03173-1333x2000.jpg",
+      "sourcePageUrl": "https://www.houyhnhnm.jp/news/1181827/",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 218668,
+      "sourceSha256": "4ef3745966d276ea3375db93ff84fe21e76d167710133d47dfdc8e86c1e65b0d",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "url": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03173-1333x2000.jpg",
+        "format": "jpeg",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 218668,
+        "coverScale": 0.81,
+        "effectiveSharpness": 0.9969770547642381,
+        "effectiveDetailRatio": 0.480568,
+        "perceptualHash": "cccd9ea02c2c2436",
+        "sha256": "4ef3745966d276ea3375db93ff84fe21e76d167710133d47dfdc8e86c1e65b0d"
+      },
+      "strictPassed": true,
+      "sourceUrl": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/CCC_03173-1333x2000.jpg",
+      "licensedSourcePageUrl": "https://hypebeast.com/2026/10/marmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info",
+      "licensedArticleImageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F21%2Fmarmot-city-country-city-fall-winter-2026-fw26-everywhere-capsule-release-info-005.jpg?q=90&w=1400&cbr=1&fit=max",
+      "licensedArticleGalleryIndex": 5,
+      "sourceTransportNote": "Higher-resolution delivery of the exact same licensed Hypebeast article photograph; not a new/unrelated Houyhnhnm photograph.",
+      "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast",
+      "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+      "rightsStatus": "approved",
+      "checkedAt": "2026-10-27T01:32:00+09:00",
+      "sceneGroup": "marmot-black-graphic-long-sleeve-back",
+      "description": "검정 긴팔 티셔츠의 등판 산 그래픽·Marmot 반복문자와 목 아래 CCC 로고가 보이는 뒷모습. 마지막 팔로우 아웃트로 배경으로 계획했다.",
+      "sourceVisuallyOpened": true,
+      "generated": false
+    }
+  ],
+  "checks": {
+    "fact": true,
+    "source": true,
+    "rights": true,
+    "factNotes": "Hypebeast 기사와 HOUYHNHNM 원문으로 여섯 번째 협업·10월24일 일본발매를 교차 확인했다. 새로 직접 읽은 Marmot 일본 공식상품의 MTFW26MJK300CC·MFL301CC·MLS305CC·MST307CC로 소재·포켓·현재 공식가격을 각각 대조했다. 기존 미완성초안의 과거사진통과문구를 재사용하지 않고 실제 고해상도 동일원본 5장과 현재caption을 다시 확인했다.",
+    "rightsEvidence": "기존 사용권이 확인된 Hypebeast의 마모트 X 시티 컨트리 시티 FW26 Everywhere 기사에 실제 실린 브랜드 제공 갤러리 7·2·6·3·5번과 정확히 같은 촬영 사진을 사용한다. 현재 Hypebeast 전달본은 933×1400으로 엄격한 coverScale 기준에 미달해 제외했다. HOUYHNHNM의 동일 신제품 기사에 실제 공개된 1333×2000·1600×2400 고해상도 전달 원본을 인물 자세·접힌 옷감·로고·배경까지 한 장씩 대조했다. 두 원본의 SHA·전체 구도와 정규화 픽셀 상관도는 exact-photo-match.json으로 연결했다. HOUYHNHNM의 다른 사진이나 Marmot의 별도 상품 사진 사용권으로 범위를 넓히지 않는다.",
+    "imageCredit": "Marmot / CITY COUNTRY CITY via Hypebeast"
+  },
+  "existingDraftId": "d16c9fee-eefd-4da5-ad43-d69420ecc258",
+  "existingDraftRevision": 1,
+  "imageGeneration": false,
+  "originalPhotosActuallyViewed": true,
+  "finalVisualReviewStillRequired": true
+}
