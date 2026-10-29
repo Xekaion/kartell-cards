@@ -3,7 +3,7 @@
   "handle": "@baseball_kartell",
   "headline": "왕옌청의 다음 목표,\n160이닝과 한국시리즈",
   "issueKey": "kbo-20261027-hanwha-wang-yen-cheng-taipei-pressconference-2027-goals",
-  "checkedAt": "2026-10-29T16:24:33.183Z",
+  "checkedAt": "2026-10-29T16:34:06.309Z",
   "sourceUrl": "https://files.newsis.com/view/NISX20261028_0003844433",
   "corroboratingUrls": [
     "https://udn.com/news/story/7001/9839956",
@@ -220,107 +220,177 @@
       "fit": "cover"
     },
     {
-      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-21/202609210100139930009100",
-      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/21/2026092101001399300091002_w.jpg",
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-slot\\wang-next-season\\third\\photos\\source-0-1.jpg",
+      "sourcePageUrl": "https://v.daum.net/v/20260414000829262",
+      "sourceUrl": "https://t1.daumcdn.net/news/202604/14/SpoChosun/20260414000830039fjdq.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-slot\\wang-next-season\\more\\photos\\source-1-2.jpg",
       "width": 1200,
-      "height": 1595,
+      "height": 1431,
       "rawWidth": 1200,
-      "rawHeight": 1595,
+      "rawHeight": 1431,
       "orientation": 1,
       "pages": 1,
       "format": "jpeg",
       "mimeType": "image/jpeg",
-      "perceptualHash": "6a3e11e9a919372e",
+      "perceptualHash": "4799919591a7a594",
       "edgeFingerprint": {
         "version": "edge-v2",
-        "full": "My80GiM5QzkdHConGklaWHgyDyYzO0ArCAwHFDZeTUw9Kh44UlUvTCEtKDFLOEc/JDEsGBgNKik5W19tO0VDQzMRDyqCUzwuYE5hNSk4KS8qITgdICs/Qlo5Oyk7SjkcK1FxHTVrUlwLWh0aICAWERkWHSEhSBoDLQ4iUEkNHjhFFy0WcmujJjUVFw4IEBMKJAgfLT4ZHB8LS1coEVU5aVaHWBmKjiEqIQcKEwQSGxgTTFooNB8cJjFLOCxaNjELLSoQeFREMCwnIh4GExwiYEcLGDY1EwtGVC4sFi4vHCYkKjMqIThBMSgRBhMOWGgrIhxCNgklT2NCD0RiOgwySAMVHx0kOjMJCSotKls/KCQyJBsbNj45EEEXazczMCsnLRYiWkQsWl5qPRk+DiwpERAEEA04SD9gQU8zH0lNMitXXUy9jHFmSSoLKhwTESIxGxFcShMTUzB2E1xkKzxsFb93JSt3ajAbHzM0HSgQGBVRTFdRYIo4C0N2e1JIRnghGjiFfiZJGRU4TglOHQ8sal9YTC0MCwREXGIjKXRMOFFrZjUIKxk+JlswGBEKHRMXGwgmFhQJNiFCIkFpcG5ZMScgLCQbK0kwSRoGBxMWAysgJiUcKBUvRxhqYlgtFhkyMTQRJhVUHhwEBgcHAhkVHyswGSkTSBIyCRQcFTkbBTI3IQgiLi0jBBAECy8qNjNYHzMQQxQXLTYmLSVUCRo9Hzc5EB4tCxAQISwvNFUwJiAeQylAIgkjHENHBjk5JR1LJywrEwsTEEoeRi85IQ4hZWE0JhIIIx8ORwxgQQlINkUoDwcNOEddRDc4HwwkZFQWOQMUECMzDh8rIBgrFRESEAkIBCIgEBUdLxMqV041ITo/SEpXLSVGMC0uVk4pFhAJE22AYCAVNBIlS3dNOVlFPT9CPjkjNEs0YECQdFAKXHw9j1kOLSktEjaFRUVHGQkjJ1ROMRQTX23MdmNZTJZ7SGwxFhsFDxcwTw5APy45OzM0Lzkubt0ykDgSUVR4fDYzExgcBxxVMhwVPUIiMAoiEA8DJK/RaEAeMzMUJyASIzESRE0vDQorFy4hFjBKdsJRICFzXkcoKxwNERQRPSFUXBkIGjgXIzYbBk5ofDzGPC0QJjkuIyYgIS8zCUFgJRkaKgozLx0QHCNUeqw/NScfGRwsFhATFRsmjWs4DhshHEQyFgcSPY9LPT4zRAkjGwEWFRUOBhKmzlYkGRIjNRMTDhAMPV6MU0VggVUJFgsFESITDkH/RY0tFyUXHD41HSE5F4pgMmybcOXRn5GKdnNxcuD5E6lZCCwtIgUoHjkjKQgrKiS1pHSqxNq9dVBsl8lFFW6zVgwdLB0IHxceDBYaFCGuiQQQI0JaXD4/O0IKBw5+n4FyPhcWGw4uBRUSDQmqqAcKDgkgO0ZGMUgcBAcwN3uCdSoiHhwmDQ8kWKL5aQkBDQELFSkySicHChkyGiYlWUI7PTdOXIXI4NNvExQJDwwWCxkPExUSCSEbGwwYLBUsKS0/",
-        "top": "My80GiM5QzkdHConGklaWHgyDyYzO0ArCAwHFDZeTUw9Kh44UlUvTCEtKDFLOEc/JDEsGBgNKik5W19tO0VDQzMRDyqCUzwuYE5hNSk4KS8qITgdICs/Qlo5Oyk7SjkcK1FxHTVrUlwLWh0aICAWERkWHSEhSBoDLQ4iUEkNHjhFFy0WcmujJjUVFw4IEBMKJAgfLT4ZHB8LS1coEVU5aVaHWBmKjiEqIQcKEwQSGxgTTFooNB8cJjFLOCxaNjELLSoQeFREMCwnIh4GExwiYEcLGDY1EwtGVC4sFi4vHCYkKjMqIThBMSgRBhMOWGgrIhxCNgklT2NCD0RiOgwySAMVHx0kOjMJCSotKls/KCQyJBsbNj45EEEXazczMCsnLRYiWkQsWl5qPRk+DiwpERAEEA04SD9gQU8zH0lNMitXXUy9jHFmSSoLKhwTESIxGxFcShMTUzB2E1xkKzxsFb93JSt3ajAbHzM0HSgQGBVRTFdRYIo4C0N2e1JIRnghGjiFfiZJGRU4TglOHQ8sal9YTC0MCwREXGIjKXRMOFFrZjUIKxk+JlswGBEKHRMXGwgmFhQJNiFCIkFpcG5ZMScg",
-        "middle": "HzM0HSgQGBVRTFdRYIo4C0N2e1JIRnghGjiFfiZJGRU4TglOHQ8sal9YTC0MCwREXGIjKXRMOFFrZjUIKxk+JlswGBEKHRMXGwgmFhQJNiFCIkFpcG5ZMScgLCQbK0kwSRoGBxMWAysgJiUcKBUvRxhqYlgtFhkyMTQRJhVUHhwEBgcHAhkVHyswGSkTSBIyCRQcFTkbBTI3IQgiLi0jBBAECy8qNjNYHzMQQxQXLTYmLSVUCRo9Hzc5EB4tCxAQISwvNFUwJiAeQylAIgkjHENHBjk5JR1LJywrEwsTEEoeRi85IQ4hZWE0JhIIIx8ORwxgQQlINkUoDwcNOEddRDc4HwwkZFQWOQMUECMzDh8rIBgrFRESEAkIBCIgEBUdLxMqV041ITo/SEpXLSVGMC0uVk4pFhAJE22AYCAVNBIlS3dNOVlFPT9CPjkjNEs0YECQdFAKXHw9j1kOLSktEjaFRUVHGQkjJ1ROMRQTX23MdmNZTJZ7SGwxFhsFDxcwTw5APy45OzM0Lzkubt0ykDgSUVR4fDYzExgcBxxVMhwVPUIiMAoiEA8DJK/RaEAeMzMUJyASIzESRE0vDQorFy4h",
-        "bottom": "PjkjNEs0YECQdFAKXHw9j1kOLSktEjaFRUVHGQkjJ1ROMRQTX23MdmNZTJZ7SGwxFhsFDxcwTw5APy45OzM0Lzkubt0ykDgSUVR4fDYzExgcBxxVMhwVPUIiMAoiEA8DJK/RaEAeMzMUJyASIzESRE0vDQorFy4hFjBKdsJRICFzXkcoKxwNERQRPSFUXBkIGjgXIzYbBk5ofDzGPC0QJjkuIyYgIS8zCUFgJRkaKgozLx0QHCNUeqw/NScfGRwsFhATFRsmjWs4DhshHEQyFgcSPY9LPT4zRAkjGwEWFRUOBhKmzlYkGRIjNRMTDhAMPV6MU0VggVUJFgsFESITDkH/RY0tFyUXHD41HSE5F4pgMmybcOXRn5GKdnNxcuD5E6lZCCwtIgUoHjkjKQgrKiS1pHSqxNq9dVBsl8lFFW6zVgwdLB0IHxceDBYaFCGuiQQQI0JaXD4/O0IKBw5+n4FyPhcWGw4uBRUSDQmqqAcKDgkgO0ZGMUgcBAcwN3uCdSoiHhwmDQ8kWKL5aQkBDQELFSkySicHChkyGiYlWUI7PTdOXIXI4NNvExQJDwwWCxkPExUSCSEbGwwYLBUsKS0/"
+        "full": "ZaA+MIbEUiRJRzMcJQkiFxMlGSQ8QTplPCNYSQIibJExDB97xXEqQkhAFjQVJi0gNR9TQySAnD9WTQYpeEUkDUR6Q5J2IzYuJSUhV1AkLBkUbsJZZYcWXhcsNGJKYcCrO15ToGZJFR9XUyctTx0tQYLWZEJZPwMVQERWoW1WJzmULWInIT5IXHARMWQxPEVuajMfXhgxKj1wRCYYRmd2MQRjEhc9a157KlcYLYUeYXY8UgwddlVAMhIuZqplZYBYfhonhI1KPGcKPECOaHjCwSsckFklKUxQQGViWS1iZSNpf2aHVWdtJI1/piUu5t8HgXFIFllEOZVsGF+QYFpwF5tYeBlZnWt/FDxVF9l9daA0GQ1GR1/aM5S6bEEcKxKQKyMNPca/bYRVNIWFcjI8EwhEVi9To7iNRCchDxcMGg4dDz+XfHl2QGqLT3hLFSkJOF8walbUCicREhQSCQwSEy1VBjJYmmdudTgvLhAoGj5Wdg/khhQVEAsPDQMEDhVzAy03g5N8JDElBxQXHD96bBirrAwLFA4MBQQEEAxVIThVPCIoEw8GCQwEGUZRcWfAlhAYBxMJCwUIBwVHI3k/HEQkBAwGBgwJFyJLTmCaSQsTLAUHBQEJGxp0gX1sbUELBwwEBAwPCSgqJxBWKQkpGhQVCQoHHR0XUiCkiyglCAkEBAsNEBVEXCRyJhwvEQUNCBAHFRsbX9ayjVM0BwgIBgkNEAUrVBBeICUbDRwJCgkJCy0x1rxGo8NOIAsGCgYKGRApbT5oJSYYCQUZDRgUEDgZ4aARidpDCggKCAIMFDJIIU03ChYKKxs4LiY3ITxF078nhuI9GiAhCxIXGkQrLxUXQy9WPTBCcYp8enZspH8tc91HGTw7LDdBWUAlHmSHnyooFRxEZ1lobnRXX0oyctQ+NV1PUFVSWGBMd/+Zp50qNgyPZDExFTZfFz45e8ozUQk/LBMZSF0ayzc9JMEjIjmaTDQgJSg6HycpVcdRgo5SS1VybmyNVNtnXHtOCCuWMStAOjQkVlVDL7NsYobbPH1oH16II12vy484GkSINjmRVldcl4KIQcVGGx+RVkd+PU6gSTJHVqNpQD9lQWa1WXV6omy3IMpPeSGeiz+Wb0G4WBkKFieEWyNPQpK/WIZtoVW4Dchwc2bdTC+OlBO9cRwUIFuXWh2GMMF6smmDwI6wKaHFHL2DTR5kzRappH6HjKu1S1xpKYKfeC0pmaFMJCmPQl+AVXNS3FVPkpmWiYZACyZIEic/CxYaECEBHQUSOVRwuEZf12wTKxsTDBEhDxw3CEExITgSOwg9Kz80IIzoYgg72XwVCQ4HBBEXLRYeECw0LTNUHCkcLSAYNL+6IQo3t5AOBQ4MDw4jExIVDx8FGUchRi8ZKTUNYtCEDxQ6jpIfHwgBAwMNGRYiIS1ADzU8Gy8RRCctYaSLOxQjg5wdJUALGx05HRkNJFNMHzsuMTskVmMeMm2XTiolao8rYpd6lp6hVRcaS1UuSlZCLSMZKlE7",
+        "top": "ZaA+MIbEUiRJRzMcJQkiFxMlGSQ8QTplPCNYSQIibJExDB97xXEqQkhAFjQVJi0gNR9TQySAnD9WTQYpeEUkDUR6Q5J2IzYuJSUhV1AkLBkUbsJZZYcWXhcsNGJKYcCrO15ToGZJFR9XUyctTx0tQYLWZEJZPwMVQERWoW1WJzmULWInIT5IXHARMWQxPEVuajMfXhgxKj1wRCYYRmd2MQRjEhc9a157KlcYLYUeYXY8UgwddlVAMhIuZqplZYBYfhonhI1KPGcKPECOaHjCwSsckFklKUxQQGViWS1iZSNpf2aHVWdtJI1/piUu5t8HgXFIFllEOZVsGF+QYFpwF5tYeBlZnWt/FDxVF9l9daA0GQ1GR1/aM5S6bEEcKxKQKyMNPca/bYRVNIWFcjI8EwhEVi9To7iNRCchDxcMGg4dDz+XfHl2QGqLT3hLFSkJOF8walbUCicREhQSCQwSEy1VBjJYmmdudTgvLhAoGj5Wdg/khhQVEAsPDQMEDhVzAy03g5N8JDElBxQXHD96bBirrAwLFA4MBQQEEAxVIThVPCIoEw8GCQwEGUZRcWfAlhAYBxMJCwUIBwVHI3k/HEQk",
+        "middle": "dTgvLhAoGj5Wdg/khhQVEAsPDQMEDhVzAy03g5N8JDElBxQXHD96bBirrAwLFA4MBQQEEAxVIThVPCIoEw8GCQwEGUZRcWfAlhAYBxMJCwUIBwVHI3k/HEQkBAwGBgwJFyJLTmCaSQsTLAUHBQEJGxp0gX1sbUELBwwEBAwPCSgqJxBWKQkpGhQVCQoHHR0XUiCkiyglCAkEBAsNEBVEXCRyJhwvEQUNCBAHFRsbX9ayjVM0BwgIBgkNEAUrVBBeICUbDRwJCgkJCy0x1rxGo8NOIAsGCgYKGRApbT5oJSYYCQUZDRgUEDgZ4aARidpDCggKCAIMFDJIIU03ChYKKxs4LiY3ITxF078nhuI9GiAhCxIXGkQrLxUXQy9WPTBCcYp8enZspH8tc91HGTw7LDdBWUAlHmSHnyooFRxEZ1lobnRXX0oyctQ+NV1PUFVSWGBMd/+Zp50qNgyPZDExFTZfFz45e8ozUQk/LBMZSF0ayzc9JMEjIjmaTDQgJSg6HycpVcdRgo5SS1VybmyNVNtnXHtOCCuWMStAOjQkVlVDL7NsYobbPH1oH16II12vy484GkSINjmRVldcl4KIQcVG",
+        "bottom": "NV1PUFVSWGBMd/+Zp50qNgyPZDExFTZfFz45e8ozUQk/LBMZSF0ayzc9JMEjIjmaTDQgJSg6HycpVcdRgo5SS1VybmyNVNtnXHtOCCuWMStAOjQkVlVDL7NsYobbPH1oH16II12vy484GkSINjmRVldcl4KIQcVGGx+RVkd+PU6gSTJHVqNpQD9lQWa1WXV6omy3IMpPeSGeiz+Wb0G4WBkKFieEWyNPQpK/WIZtoVW4Dchwc2bdTC+OlBO9cRwUIFuXWh2GMMF6smmDwI6wKaHFHL2DTR5kzRappH6HjKu1S1xpKYKfeC0pmaFMJCmPQl+AVXNS3FVPkpmWiYZACyZIEic/CxYaECEBHQUSOVRwuEZf12wTKxsTDBEhDxw3CEExITgSOwg9Kz80IIzoYgg72XwVCQ4HBBEXLRYeECw0LTNUHCkcLSAYNL+6IQo3t5AOBQ4MDw4jExIVDx8FGUchRi8ZKTUNYtCEDxQ6jpIfHwgBAwMNGRYiIS1ADzU8Gy8RRCctYaSLOxQjg5wdJUALGx05HRkNJFNMHzsuMTskVmMeMm2XTiolao8rYpd6lp6hVRcaS1UuSlZCLSMZKlE7"
       },
       "detailFingerprint": {
         "version": "detail-v1",
-        "full": 22.790358,
-        "top": 16.100768,
-        "middle": 28.602354,
-        "bottom": 25.639917,
-        "effectiveRatio": 0.522541
+        "full": 24.27762,
+        "top": 22.478556,
+        "middle": 24.16125,
+        "bottom": 27.4471,
+        "effectiveRatio": 0.47879
       },
-      "effectiveDetailRatio": 0.522541,
-      "effectiveSharpness": 1.995579263029673,
-      "entropy": 7.726973339364122,
+      "effectiveDetailRatio": 0.47879,
+      "effectiveSharpness": 1.9021640931422996,
+      "entropy": 7.783585109515116,
       "extendable": false,
-      "bytes": 1072056,
-      "sha256": "6a34ce71a34a7f224269605664fe4d9bf3e033dc2f2b51cf478145d85bbb1768",
+      "bytes": 879731,
+      "sha256": "186f26838063648e714dd0b7e4232d2a688be75f4593d80b65aef8571b311ff8",
       "quality": {
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-29T16:24:28.559Z",
+        "checkedAt": "2026-10-29T16:31:22.547Z",
         "width": 1200,
-        "height": 1595,
-        "bytes": 1072056,
+        "height": 1431,
+        "bytes": 879731,
         "format": "jpeg",
         "mimeType": "image/jpeg",
-        "effectiveSharpness": 1.9955792630295277,
-        "entropy": 7.726973339364122,
-        "effectiveDetailRatio": 0.522541,
+        "effectiveSharpness": 1.9021640931422996,
+        "entropy": 7.783585109515116,
+        "effectiveDetailRatio": 0.47879,
         "kind": "source",
-        "coverScale": 0.9,
+        "coverScale": 0.943,
         "targetWidth": 1080,
         "targetHeight": 1350,
         "rawWidth": 1200,
-        "rawHeight": 1595,
+        "rawHeight": 1431,
         "orientation": 1,
         "pages": 1,
-        "perceptualHash": "6a3e11e9a919372e",
+        "perceptualHash": "4799919591a7a594",
         "edgeFingerprint": {
           "version": "edge-v2",
-          "full": "My80GiM5QzkdHConGklaWHgyDyYzO0ArCAwHFDZeTUw9Kh44UlUvTCEtKDFLOEc/JDEsGBgNKik5W19tO0VDQzMRDyqCUzwuYE5hNSk4KS8qITgdICs/Qlo5Oyk7SjkcK1FxHTVrUlwLWh0aICAWERkWHSEhSBoDLQ4iUEkNHjhFFy0WcmujJjUVFw4IEBMKJAgfLT4ZHB8LS1coEVU5aVaHWBmKjiEqIQcKEwQSGxgTTFooNB8cJjFLOCxaNjELLSoQeFREMCwnIh4GExwiYEcLGDY1EwtGVC4sFi4vHCYkKjMqIThBMSgRBhMOWGgrIhxCNgklT2NCD0RiOgwySAMVHx0kOjMJCSotKls/KCQyJBsbNj45EEEXazczMCsnLRYiWkQsWl5qPRk+DiwpERAEEA04SD9gQU8zH0lNMitXXUy9jHFmSSoLKhwTESIxGxFcShMTUzB2E1xkKzxsFb93JSt3ajAbHzM0HSgQGBVRTFdRYIo4C0N2e1JIRnghGjiFfiZJGRU4TglOHQ8sal9YTC0MCwREXGIjKXRMOFFrZjUIKxk+JlswGBEKHRMXGwgmFhQJNiFCIkFpcG5ZMScgLCQbK0kwSRoGBxMWAysgJiUcKBUvRxhqYlgtFhkyMTQRJhVUHhwEBgcHAhkVHyswGSkTSBIyCRQcFTkbBTI3IQgiLi0jBBAECy8qNjNYHzMQQxQXLTYmLSVUCRo9Hzc5EB4tCxAQISwvNFUwJiAeQylAIgkjHENHBjk5JR1LJywrEwsTEEoeRi85IQ4hZWE0JhIIIx8ORwxgQQlINkUoDwcNOEddRDc4HwwkZFQWOQMUECMzDh8rIBgrFRESEAkIBCIgEBUdLxMqV041ITo/SEpXLSVGMC0uVk4pFhAJE22AYCAVNBIlS3dNOVlFPT9CPjkjNEs0YECQdFAKXHw9j1kOLSktEjaFRUVHGQkjJ1ROMRQTX23MdmNZTJZ7SGwxFhsFDxcwTw5APy45OzM0Lzkubt0ykDgSUVR4fDYzExgcBxxVMhwVPUIiMAoiEA8DJK/RaEAeMzMUJyASIzESRE0vDQorFy4hFjBKdsJRICFzXkcoKxwNERQRPSFUXBkIGjgXIzYbBk5ofDzGPC0QJjkuIyYgIS8zCUFgJRkaKgozLx0QHCNUeqw/NScfGRwsFhATFRsmjWs4DhshHEQyFgcSPY9LPT4zRAkjGwEWFRUOBhKmzlYkGRIjNRMTDhAMPV6MU0VggVUJFgsFESITDkH/RY0tFyUXHD41HSE5F4pgMmybcOXRn5GKdnNxcuD5E6lZCCwtIgUoHjkjKQgrKiS1pHSqxNq9dVBsl8lFFW6zVgwdLB0IHxceDBYaFCGuiQQQI0JaXD4/O0IKBw5+n4FyPhcWGw4uBRUSDQmqqAcKDgkgO0ZGMUgcBAcwN3uCdSoiHhwmDQ8kWKL5aQkBDQELFSkySicHChkyGiYlWUI7PTdOXIXI4NNvExQJDwwWCxkPExUSCSEbGwwYLBUsKS0/",
-          "top": "My80GiM5QzkdHConGklaWHgyDyYzO0ArCAwHFDZeTUw9Kh44UlUvTCEtKDFLOEc/JDEsGBgNKik5W19tO0VDQzMRDyqCUzwuYE5hNSk4KS8qITgdICs/Qlo5Oyk7SjkcK1FxHTVrUlwLWh0aICAWERkWHSEhSBoDLQ4iUEkNHjhFFy0WcmujJjUVFw4IEBMKJAgfLT4ZHB8LS1coEVU5aVaHWBmKjiEqIQcKEwQSGxgTTFooNB8cJjFLOCxaNjELLSoQeFREMCwnIh4GExwiYEcLGDY1EwtGVC4sFi4vHCYkKjMqIThBMSgRBhMOWGgrIhxCNgklT2NCD0RiOgwySAMVHx0kOjMJCSotKls/KCQyJBsbNj45EEEXazczMCsnLRYiWkQsWl5qPRk+DiwpERAEEA04SD9gQU8zH0lNMitXXUy9jHFmSSoLKhwTESIxGxFcShMTUzB2E1xkKzxsFb93JSt3ajAbHzM0HSgQGBVRTFdRYIo4C0N2e1JIRnghGjiFfiZJGRU4TglOHQ8sal9YTC0MCwREXGIjKXRMOFFrZjUIKxk+JlswGBEKHRMXGwgmFhQJNiFCIkFpcG5ZMScg",
-          "middle": "HzM0HSgQGBVRTFdRYIo4C0N2e1JIRnghGjiFfiZJGRU4TglOHQ8sal9YTC0MCwREXGIjKXRMOFFrZjUIKxk+JlswGBEKHRMXGwgmFhQJNiFCIkFpcG5ZMScgLCQbK0kwSRoGBxMWAysgJiUcKBUvRxhqYlgtFhkyMTQRJhVUHhwEBgcHAhkVHyswGSkTSBIyCRQcFTkbBTI3IQgiLi0jBBAECy8qNjNYHzMQQxQXLTYmLSVUCRo9Hzc5EB4tCxAQISwvNFUwJiAeQylAIgkjHENHBjk5JR1LJywrEwsTEEoeRi85IQ4hZWE0JhIIIx8ORwxgQQlINkUoDwcNOEddRDc4HwwkZFQWOQMUECMzDh8rIBgrFRESEAkIBCIgEBUdLxMqV041ITo/SEpXLSVGMC0uVk4pFhAJE22AYCAVNBIlS3dNOVlFPT9CPjkjNEs0YECQdFAKXHw9j1kOLSktEjaFRUVHGQkjJ1ROMRQTX23MdmNZTJZ7SGwxFhsFDxcwTw5APy45OzM0Lzkubt0ykDgSUVR4fDYzExgcBxxVMhwVPUIiMAoiEA8DJK/RaEAeMzMUJyASIzESRE0vDQorFy4h",
-          "bottom": "PjkjNEs0YECQdFAKXHw9j1kOLSktEjaFRUVHGQkjJ1ROMRQTX23MdmNZTJZ7SGwxFhsFDxcwTw5APy45OzM0Lzkubt0ykDgSUVR4fDYzExgcBxxVMhwVPUIiMAoiEA8DJK/RaEAeMzMUJyASIzESRE0vDQorFy4hFjBKdsJRICFzXkcoKxwNERQRPSFUXBkIGjgXIzYbBk5ofDzGPC0QJjkuIyYgIS8zCUFgJRkaKgozLx0QHCNUeqw/NScfGRwsFhATFRsmjWs4DhshHEQyFgcSPY9LPT4zRAkjGwEWFRUOBhKmzlYkGRIjNRMTDhAMPV6MU0VggVUJFgsFESITDkH/RY0tFyUXHD41HSE5F4pgMmybcOXRn5GKdnNxcuD5E6lZCCwtIgUoHjkjKQgrKiS1pHSqxNq9dVBsl8lFFW6zVgwdLB0IHxceDBYaFCGuiQQQI0JaXD4/O0IKBw5+n4FyPhcWGw4uBRUSDQmqqAcKDgkgO0ZGMUgcBAcwN3uCdSoiHhwmDQ8kWKL5aQkBDQELFSkySicHChkyGiYlWUI7PTdOXIXI4NNvExQJDwwWCxkPExUSCSEbGwwYLBUsKS0/"
+          "full": "ZaA+MIbEUiRJRzMcJQkiFxMlGSQ8QTplPCNYSQIibJExDB97xXEqQkhAFjQVJi0gNR9TQySAnD9WTQYpeEUkDUR6Q5J2IzYuJSUhV1AkLBkUbsJZZYcWXhcsNGJKYcCrO15ToGZJFR9XUyctTx0tQYLWZEJZPwMVQERWoW1WJzmULWInIT5IXHARMWQxPEVuajMfXhgxKj1wRCYYRmd2MQRjEhc9a157KlcYLYUeYXY8UgwddlVAMhIuZqplZYBYfhonhI1KPGcKPECOaHjCwSsckFklKUxQQGViWS1iZSNpf2aHVWdtJI1/piUu5t8HgXFIFllEOZVsGF+QYFpwF5tYeBlZnWt/FDxVF9l9daA0GQ1GR1/aM5S6bEEcKxKQKyMNPca/bYRVNIWFcjI8EwhEVi9To7iNRCchDxcMGg4dDz+XfHl2QGqLT3hLFSkJOF8walbUCicREhQSCQwSEy1VBjJYmmdudTgvLhAoGj5Wdg/khhQVEAsPDQMEDhVzAy03g5N8JDElBxQXHD96bBirrAwLFA4MBQQEEAxVIThVPCIoEw8GCQwEGUZRcWfAlhAYBxMJCwUIBwVHI3k/HEQkBAwGBgwJFyJLTmCaSQsTLAUHBQEJGxp0gX1sbUELBwwEBAwPCSgqJxBWKQkpGhQVCQoHHR0XUiCkiyglCAkEBAsNEBVEXCRyJhwvEQUNCBAHFRsbX9ayjVM0BwgIBgkNEAUrVBBeICUbDRwJCgkJCy0x1rxGo8NOIAsGCgYKGRApbT5oJSYYCQUZDRgUEDgZ4aARidpDCggKCAIMFDJIIU03ChYKKxs4LiY3ITxF078nhuI9GiAhCxIXGkQrLxUXQy9WPTBCcYp8enZspH8tc91HGTw7LDdBWUAlHmSHnyooFRxEZ1lobnRXX0oyctQ+NV1PUFVSWGBMd/+Zp50qNgyPZDExFTZfFz45e8ozUQk/LBMZSF0ayzc9JMEjIjmaTDQgJSg6HycpVcdRgo5SS1VybmyNVNtnXHtOCCuWMStAOjQkVlVDL7NsYobbPH1oH16II12vy484GkSINjmRVldcl4KIQcVGGx+RVkd+PU6gSTJHVqNpQD9lQWa1WXV6omy3IMpPeSGeiz+Wb0G4WBkKFieEWyNPQpK/WIZtoVW4Dchwc2bdTC+OlBO9cRwUIFuXWh2GMMF6smmDwI6wKaHFHL2DTR5kzRappH6HjKu1S1xpKYKfeC0pmaFMJCmPQl+AVXNS3FVPkpmWiYZACyZIEic/CxYaECEBHQUSOVRwuEZf12wTKxsTDBEhDxw3CEExITgSOwg9Kz80IIzoYgg72XwVCQ4HBBEXLRYeECw0LTNUHCkcLSAYNL+6IQo3t5AOBQ4MDw4jExIVDx8FGUchRi8ZKTUNYtCEDxQ6jpIfHwgBAwMNGRYiIS1ADzU8Gy8RRCctYaSLOxQjg5wdJUALGx05HRkNJFNMHzsuMTskVmMeMm2XTiolao8rYpd6lp6hVRcaS1UuSlZCLSMZKlE7",
+          "top": "ZaA+MIbEUiRJRzMcJQkiFxMlGSQ8QTplPCNYSQIibJExDB97xXEqQkhAFjQVJi0gNR9TQySAnD9WTQYpeEUkDUR6Q5J2IzYuJSUhV1AkLBkUbsJZZYcWXhcsNGJKYcCrO15ToGZJFR9XUyctTx0tQYLWZEJZPwMVQERWoW1WJzmULWInIT5IXHARMWQxPEVuajMfXhgxKj1wRCYYRmd2MQRjEhc9a157KlcYLYUeYXY8UgwddlVAMhIuZqplZYBYfhonhI1KPGcKPECOaHjCwSsckFklKUxQQGViWS1iZSNpf2aHVWdtJI1/piUu5t8HgXFIFllEOZVsGF+QYFpwF5tYeBlZnWt/FDxVF9l9daA0GQ1GR1/aM5S6bEEcKxKQKyMNPca/bYRVNIWFcjI8EwhEVi9To7iNRCchDxcMGg4dDz+XfHl2QGqLT3hLFSkJOF8walbUCicREhQSCQwSEy1VBjJYmmdudTgvLhAoGj5Wdg/khhQVEAsPDQMEDhVzAy03g5N8JDElBxQXHD96bBirrAwLFA4MBQQEEAxVIThVPCIoEw8GCQwEGUZRcWfAlhAYBxMJCwUIBwVHI3k/HEQk",
+          "middle": "dTgvLhAoGj5Wdg/khhQVEAsPDQMEDhVzAy03g5N8JDElBxQXHD96bBirrAwLFA4MBQQEEAxVIThVPCIoEw8GCQwEGUZRcWfAlhAYBxMJCwUIBwVHI3k/HEQkBAwGBgwJFyJLTmCaSQsTLAUHBQEJGxp0gX1sbUELBwwEBAwPCSgqJxBWKQkpGhQVCQoHHR0XUiCkiyglCAkEBAsNEBVEXCRyJhwvEQUNCBAHFRsbX9ayjVM0BwgIBgkNEAUrVBBeICUbDRwJCgkJCy0x1rxGo8NOIAsGCgYKGRApbT5oJSYYCQUZDRgUEDgZ4aARidpDCggKCAIMFDJIIU03ChYKKxs4LiY3ITxF078nhuI9GiAhCxIXGkQrLxUXQy9WPTBCcYp8enZspH8tc91HGTw7LDdBWUAlHmSHnyooFRxEZ1lobnRXX0oyctQ+NV1PUFVSWGBMd/+Zp50qNgyPZDExFTZfFz45e8ozUQk/LBMZSF0ayzc9JMEjIjmaTDQgJSg6HycpVcdRgo5SS1VybmyNVNtnXHtOCCuWMStAOjQkVlVDL7NsYobbPH1oH16II12vy484GkSINjmRVldcl4KIQcVG",
+          "bottom": "NV1PUFVSWGBMd/+Zp50qNgyPZDExFTZfFz45e8ozUQk/LBMZSF0ayzc9JMEjIjmaTDQgJSg6HycpVcdRgo5SS1VybmyNVNtnXHtOCCuWMStAOjQkVlVDL7NsYobbPH1oH16II12vy484GkSINjmRVldcl4KIQcVGGx+RVkd+PU6gSTJHVqNpQD9lQWa1WXV6omy3IMpPeSGeiz+Wb0G4WBkKFieEWyNPQpK/WIZtoVW4Dchwc2bdTC+OlBO9cRwUIFuXWh2GMMF6smmDwI6wKaHFHL2DTR5kzRappH6HjKu1S1xpKYKfeC0pmaFMJCmPQl+AVXNS3FVPkpmWiYZACyZIEic/CxYaECEBHQUSOVRwuEZf12wTKxsTDBEhDxw3CEExITgSOwg9Kz80IIzoYgg72XwVCQ4HBBEXLRYeECw0LTNUHCkcLSAYNL+6IQo3t5AOBQ4MDw4jExIVDx8FGUchRi8ZKTUNYtCEDxQ6jpIfHwgBAwMNGRYiIS1ADzU8Gy8RRCctYaSLOxQjg5wdJUALGx05HRkNJFNMHzsuMTskVmMeMm2XTiolao8rYpd6lp6hVRcaS1UuSlZCLSMZKlE7"
         },
         "detailFingerprint": {
           "version": "detail-v1",
-          "full": 22.790358,
-          "top": 16.100768,
-          "middle": 28.602354,
-          "bottom": 25.639917,
-          "effectiveRatio": 0.522541
+          "full": 24.27762,
+          "top": 22.478556,
+          "middle": 24.16125,
+          "bottom": 27.4471,
+          "effectiveRatio": 0.47879
         },
         "extendable": false,
-        "sha256": "6a34ce71a34a7f224269605664fe4d9bf3e033dc2f2b51cf478145d85bbb1768"
+        "sha256": "186f26838063648e714dd0b7e4232d2a688be75f4593d80b65aef8571b311ff8"
       },
-      "coverScale": 0.9,
-      "index": 2,
-      "strict": true,
-      "scale": 0.9,
-      "sourceSha256": "6a34ce71a34a7f224269605664fe4d9bf3e033dc2f2b51cf478145d85bbb1768",
-      "photoDate": "2026-07-23",
-      "imageCredit": "스포츠조선 허상욱 · 왕옌청 · 2026.07.23 자료사진",
-      "publisher": "스포츠조선",
-      "sourceLabel": "스포츠조선",
-      "sceneGroup": "wang-yen-cheng-blue-walk-july23",
-      "description": "파란 한화 특별 유니폼의 왕옌청이 광주에서 이닝을 마치고 걸어오는 장면.",
+      "coverScale": 0.9433962264150944,
+      "sourceSha256": "186f26838063648e714dd0b7e4232d2a688be75f4593d80b65aef8571b311ff8",
+      "subject": "왕옌청·양상문",
       "people": [
-        "왕옌청"
+        "왕옌청",
+        "양상문"
       ],
+      "team": "한화 이글스",
       "currentTeam": "한화 이글스",
+      "photoDate": "2026-03-17",
+      "photoDatePrecision": "day",
+      "sourcePublishedAt": "2026-04-14T00:08:00+09:00",
+      "sourcePublishedAtPrecision": "minute",
+      "photoDateEvidence": "17일 대전 한화생명볼파크 열린 한화 이글스와 두산 베어스의 경기. 4회초 2사 1,2루 한화 양상문 코치가 마운드를 찾아 왕옌청을 격려하고 있다. 대전=박재만 기자 pjm@sportschosun.com/2026.03.17/",
+      "sourceLabel": "스포츠조선 · 자료사진",
+      "imageCredit": "자료사진 · 왕옌청·양상문 / 스포츠조선 박재만 (2026.03.17)",
+      "creditDisplay": "자료사진 · 왕옌청·양상문 / 스포츠조선 박재만 (2026.03.17)",
+      "sceneGroup": "20260317-hanwha-doosan-wang-yang-mound-conference-fourth-inning",
+      "description": "회색 한화 유니폼의 왕옌청이 오른쪽에서 웃으며 글러브를 안고, 한화 코치·포수와 마운드에 모여 있는 장면. 원문은2026년3월17일대전두산전4회초양상문코치가왕옌청을격려하는실제사진으로명시했다. 현재기사의10월말새훈련/재계약발표현장으로표시하지않는다.",
       "rightsStatus": "approved",
-      "rightsEvidence": "사용자가 국내 언론사·야구 관련인 사진 사용권 계약 및 사용료 지급 완료를 직접 명시했다. 실제 스포츠조선·스타뉴스·엑스포츠뉴스 원문 또는 동일 매체 제공 다음 원문에 게재된 선택 사진만 연결한다. 대만 매체 사진·다른기관·다른자산으로 확대하지 않는다.",
-      "visuallyReviewed": true,
+      "rightsEvidence": "2026-10-15 사용자가 국내 언론사·야구 관련인 실제 사진 계약과 사용료 지급을 명시했다. 스포츠조선이 다음뉴스에 제공한 실제 원문20260414000829262의 해당 개별 사진20260414000830039fjdq.jpg와 박재만·2026.03.17 촬영 설명을 직접 대조했다. 다른 사진·기관 사용권으로 확대하지 않으며 생성·업스케일·contain·position override는 없다.",
       "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "fit": "cover",
+      "strictCoverScale": 0.9433962264150944,
       "visualReview": {
-        "sourceOriginalIndividuallyViewed": true,
-        "currentHanwhaUniformOrTrainingAttire": true,
-        "archiveContextLabel": true,
-        "sceneDistinctFromOtherSelected": true,
-        "notClaimedAsCurrentInterviewScene": true
+        "checkedAt": "2026-10-29T16:31:22.551Z",
+        "nativeOriginalIndividuallyViewed": true,
+        "faceHelmetHairAndGloveInsideCentralCrop": true,
+        "allOtherFourOriginalsIndividuallyViewed": true,
+        "allFourPairsDistinct": true,
+        "deterministicCropGeometry": {
+          "resizeWidth": 1132,
+          "resizeHeight": 1350,
+          "left": 34,
+          "top": 0,
+          "width": 1080,
+          "height": 1350,
+          "sourceScale": 0.9433962264150944,
+          "overscan": 1
+        },
+        "pairs": [
+          {
+            "sourceUrl": "https://www.sportschosun.com/article/html/2026/10/27/2026102801001753400116201_w.jpg",
+            "sha256": "ec1c6b618b9235c6a1ece143196df9aee1baf046a15325522259fb9d7092c1b8",
+            "scene": "회색 한화 유니폼의 왕옌청이 노시환 호수비를 보며 미소 짓는 장면.",
+            "comparison": "기존 단독 미소·포효·투구와 달리 이번 사진은3월17일다수인물마운드회의 장면. 동일·인접 연속프레임이 아니다."
+          },
+          {
+            "sourceUrl": "https://t1.daumcdn.net/news/202604/14/SpoChosun/20260414000829497ohsg.jpg",
+            "sha256": "22fba7985788ba926634aa91f47c2b706dd16159e6bfe504bbc9a3a3ec736560",
+            "scene": "남색 한화 유니폼의 왕옌청이 잠실 마운드에서 병살 뒤 포효하는 장면.",
+            "comparison": "기존 단독 미소·포효·투구와 달리 이번 사진은3월17일다수인물마운드회의 장면. 동일·인접 연속프레임이 아니다."
+          },
+          {
+            "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/21/2026092101001399300091003_w.jpg",
+            "sha256": "10bc0f03bc5bb27cd10c3489853b2e01fea9a92f350246757bf626ed3cf7788d",
+            "scene": "회색 한화 유니폼의 왕옌청이 잠실에서 왼팔을 뒤로 올려 투구하는 장면.",
+            "comparison": "기존 단독 미소·포효·투구와 달리 이번 사진은3월17일다수인물마운드회의 장면. 동일·인접 연속프레임이 아니다."
+          },
+          {
+            "sourceUrl": "https://www.sportschosun.com/article/html/2026/05/18/2026051901001077500071465_w.jpg",
+            "sha256": "69bd90353027e96f07aa9bec1ae16b87a2aff7f0114706a29e180e9a0aaf3469",
+            "scene": "남색 한화 유니폼의 왕옌청이 수원에서 공을 쥐고 투구를 준비하는 장면.",
+            "comparison": "기존 단독 미소·포효·투구와 달리 이번 사진은3월17일다수인물마운드회의 장면. 동일·인접 연속프레임이 아니다."
+          }
+        ],
+        "rejectedOtherCandidates": [
+          {
+            "localPath": "logs/codex-2026-10-30-midnight-catchup/research-slot/wang-next-season/more/photos/source-1-1.jpg",
+            "reason": "다른팀 LG 염경엽사진이어서 왕옌청 현재팀사진이 아님."
+          },
+          {
+            "localPath": "logs/codex-2026-10-30-midnight-catchup/research-slot/wang-next-season/third/photos/source-0-0.jpg",
+            "reason": "한국대표 원태인사진으로 왕옌청이 아님."
+          },
+          {
+            "localPath": "logs/codex-2026-10-30-midnight-catchup/research-slot/wang-next-season/third/photos/source-1-0.jpg",
+            "reason": "SSG 다케다사진으로 왕옌청이 아님."
+          },
+          {
+            "localPath": "logs/codex-2026-10-30-midnight-catchup/research-slot/wang-next-season/third/photos/source-2-3.jpg",
+            "reason": "기존8월4일미소표지와동일경기·같은반응의인접사진가능성이있어제외."
+          }
+        ],
+        "finalRenderedCardNotReviewed": true,
+        "sourceMatchServerCheckStillRequired": true
       },
-      "rootNativeViewedAt": "2026-10-29T16:24:28.039Z",
-      "fit": "cover"
+      "sourceEvidence": {
+        "localHtml": "logs/codex-2026-10-30-midnight-catchup/research-slot/wang-next-season/more/source-1.html",
+        "exactPhotoCaption": "17일 대전 한화생명볼파크 열린 한화 이글스와 두산 베어스의 경기. 4회초 2사 1,2루 한화 양상문 코치가 마운드를 찾아 왕옌청을 격려하고 있다. 대전=박재만 기자 pjm@sportschosun.com/2026.03.17/"
+      },
+      "requiredPersonHashtags": [
+        "왕옌청",
+        "양상문",
+        "한화이글스"
+      ],
+      "rootFinalCardQualityReviewPending": true
     },
     {
       "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-09-21/202609210100139930009100",
