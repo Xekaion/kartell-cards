@@ -1,0 +1,715 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "콘트레라스, 월드시리즈 MVP",
+  "issueKey": "mlb-20261029-william-contreras-world-series-mvp-winner",
+  "checkedAt": "2026-10-29T16:10:37.174Z",
+  "sourceUrl": "https://statsapi.mlb.com/api/v1/awards/WSMVP/recipients?season=2026",
+  "corroboratingUrls": [
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016120",
+    "https://www.nikkansports.com/baseball/mlb/news/202610290001684.html",
+    "https://sports.yahoo.com/mlb/breaking-news/article/world-series-2026-brewers-catcher-william-contreras-wins-mvp-thanks-to-big-effort-with-his-bat-and-behind-the-plate-045946174.html"
+  ],
+  "rightsEvidence": "2026-10-16 사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인했다. 일본 AFPBB News 및 닛칸스포츠의 실제 개별 사진 원문·제공자·사진기록·공개 원본 바이트를 연결하며 다른 Getty/AP 자산 사용권으로 확대하지 않는다. Commons 사진 3장은 각 개별 명시 라이선스·저자·원문·변경표시를 별도로 보존한다.",
+  "photos": [
+    {
+      "id": "contreras-ws-mvp/afp-original-5",
+      "sourceUrl": "https://afpbb.ismcdn.jp/mwimgs/d/0/-/img_d0a184c13b35279f64ad00055d928f5f552777.jpg",
+      "sourcePageUrl": "https://www.afpbb.com/articles/-/3659978",
+      "caption": "26MLB、ワールドシリーズ（7回戦制）、タンパベイ・レイズ対ミルウォーキー・ブルワーズ。6回に適時二塁打を放ち、塁上で喜ぶミルウォーキー・ブルワーズのウィリアム・コントレラス（2026年10月28日撮影）。(c)Mike Stobe/Getty Images/AFP",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-cpra\\contreras-ws-mvp\\afp-original-5.jpg",
+      "sha256": "4e1f80ecdb9bd3c42285f11a8244254fcf9d12fa1f20af737695c63b5eb9b2c1",
+      "width": 3349,
+      "height": 2232,
+      "bytes": 516825,
+      "strictCoverScale": 0.6048387096774194,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-29T16:09:16.415Z",
+        "width": 3349,
+        "height": 2232,
+        "bytes": 516825,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.0782535517157859,
+        "entropy": 6.380192956959945,
+        "effectiveDetailRatio": 0.551395,
+        "kind": "source",
+        "coverScale": 0.605,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3349,
+        "rawHeight": 2232,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "1437334f4f0b2f05",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CgoJCAgJFAcGAwcHBAQODhERDRASEg4IDAgICwoLBAkGAgQSQSUECw0NEREOBwkGAwMFAwkNBAsMCgoLBAUFAwJCMF0hDQwFABAJCAsIBxMOOU9DMwkCBAEFBAEEBAUzUDhRAwoVMUo1CgsJDQQiSldFRS4VFRQPCggJCQs2MmEqAhE6cA9hQggGDA0tZy5rQQoIBgwVCwkLDgM7DEEHDgQ6aqSOOhUIAQohHWYyFgMMEBEDFhQVFho6Fy8GAxIxZkZtajIVFg5HERsZCAcIBQUJEBIRDiQVL0xNUEogIkAdUVktIihOICkSERAUFhENDRIQDRQZYoBfU1BAJkIYD3B0gm8RPQIRDg0OEBIVBQMEBQkmamcJFjEdJgZIPS1AdZ8+KRsGBgMFBAcFAwUGAgcKNpp6K19RQGQ+X18nmWArEQoHAgIBCAsNBAUICwkLCyWLBWcdEh0zbBamhBoJCAQCBAgICAcFCAsLCwYHChNcU11iPk0sQUh/BQIHBAEBBAEEAgIDBAgFCQkCAwpEfxknFy9COVQ3Fg8QExcWFBQZHR0hGhUVExYeHx0taUYpKh08M1gzJigvLiwwLCspKCYhIygjJyokIhknLY1vKwo0TiAXEBETDgkMDAoEAgMBBAcGCQoDAwEWXYWilVmKdwYEBAMEBAUFBAQFBAMBAgECAQEAAQQ0bi0hWn5wi1YEAQMDAgEAAQEDBggGAgUFBgMCAgZNYQkFERgQYnEJBQQEBAUEAQMCBAMEBAMBAQMBAxVqSAgbY2NDN2oXBgMBBQIEBQEBAQIBAgUFBQIDAjdoIBpwfkFdGmEhCAYDBQgCAwQCAgQFAQMEBAIFCVJICTF7GIQkL1klCQEBBAQGBAIBAgMCBQUBAQIEFlM0AUBMPkALKk8fCQYEBQUDBAYEBwcGAgYFBAYEIVwsGVo1P0MCMUUYBQMCBgcHBwMEBgYFAQECAwMFRGIlVl0gLlAQQSwEBAYFBQIDBAEDBAUCAgUBAgQGQYOjZSMGHT8gKjsNAQECBAUDAgEEBAIDBwQDAwQFPIB2ShEGEEVuekMVCAEBAQQBAQQDAwMEAgMCAQQFMkgiSA0DCjdwe0YOAQECAAECAQMDAQMCBAQBAQQMPz0xRgwBCDNUI0AKBAMCAgABAQMBAwQCBQQCAgUOVyxfOwoEGRyXgi0JBQQDAgcHCggHBwUDAgICAQMNRVBRFgIEEWtplksLBgoJBwsKCggHCQsIBAIDBQUOH4UrCQMGD24/cHVgWk5IQzMHBQcFAwIDBAIEAQ0ZaDlLHAwMGGlNG29ZODtehpM8FAkGAwQDBwcICxJVKXBUEg0OJHxeDUmEf3VyQoqOCBEKCQgGCgkMEBAxdloPDAQDCUaZgKRmLzJghnscHxQKCQECBAUGAwwYDyAkEhUTEBgkTBkiIyMQCREMDAcIBQQEBwcKDw8YJBMQCgoMCRARGBMIAwQEBQcDBAYCAgQFAgIHBAQGCAsHAQYCAgUKBwQDAgIGBgYEBgUEBgUE",
+          "top": "CgoJCAgJFAcGAwcHBAQODhERDRASEg4IDAgICwoLBAkGAgQSQSUECw0NEREOBwkGAwMFAwkNBAsMCgoLBAUFAwJCMF0hDQwFABAJCAsIBxMOOU9DMwkCBAEFBAEEBAUzUDhRAwoVMUo1CgsJDQQiSldFRS4VFRQPCggJCQs2MmEqAhE6cA9hQggGDA0tZy5rQQoIBgwVCwkLDgM7DEEHDgQ6aqSOOhUIAQohHWYyFgMMEBEDFhQVFho6Fy8GAxIxZkZtajIVFg5HERsZCAcIBQUJEBIRDiQVL0xNUEogIkAdUVktIihOICkSERAUFhENDRIQDRQZYoBfU1BAJkIYD3B0gm8RPQIRDg0OEBIVBQMEBQkmamcJFjEdJgZIPS1AdZ8+KRsGBgMFBAcFAwUGAgcKNpp6K19RQGQ+X18nmWArEQoHAgIBCAsNBAUICwkLCyWLBWcdEh0zbBamhBoJCAQCBAgICAcFCAsLCwYHChNcU11iPk0sQUh/BQIHBAEBBAEEAgIDBAgFCQkCAwpEfxknFy9COVQ3Fg8QExcWFBQZHR0hGhUVExYeHx0taUYpKh08M1gzJigvLiwwLCspKCYh",
+          "middle": "CAsLCwYHChNcU11iPk0sQUh/BQIHBAEBBAEEAgIDBAgFCQkCAwpEfxknFy9COVQ3Fg8QExcWFBQZHR0hGhUVExYeHx0taUYpKh08M1gzJigvLiwwLCspKCYhIygjJyokIhknLY1vKwo0TiAXEBETDgkMDAoEAgMBBAcGCQoDAwEWXYWilVmKdwYEBAMEBAUFBAQFBAMBAgECAQEAAQQ0bi0hWn5wi1YEAQMDAgEAAQEDBggGAgUFBgMCAgZNYQkFERgQYnEJBQQEBAUEAQMCBAMEBAMBAQMBAxVqSAgbY2NDN2oXBgMBBQIEBQEBAQIBAgUFBQIDAjdoIBpwfkFdGmEhCAYDBQgCAwQCAgQFAQMEBAIFCVJICTF7GIQkL1klCQEBBAQGBAIBAgMCBQUBAQIEFlM0AUBMPkALKk8fCQYEBQUDBAYEBwcGAgYFBAYEIVwsGVo1P0MCMUUYBQMCBgcHBwMEBgYFAQECAwMFRGIlVl0gLlAQQSwEBAYFBQIDBAEDBAUCAgUBAgQGQYOjZSMGHT8gKjsNAQECBAUDAgEEBAIDBwQDAwQFPIB2ShEGEEVuekMVCAEBAQQBAQQDAwME",
+          "bottom": "AgYFBAYEIVwsGVo1P0MCMUUYBQMCBgcHBwMEBgYFAQECAwMFRGIlVl0gLlAQQSwEBAYFBQIDBAEDBAUCAgUBAgQGQYOjZSMGHT8gKjsNAQECBAUDAgEEBAIDBwQDAwQFPIB2ShEGEEVuekMVCAEBAQQBAQQDAwMEAgMCAQQFMkgiSA0DCjdwe0YOAQECAAECAQMDAQMCBAQBAQQMPz0xRgwBCDNUI0AKBAMCAgABAQMBAwQCBQQCAgUOVyxfOwoEGRyXgi0JBQQDAgcHCggHBwUDAgICAQMNRVBRFgIEEWtplksLBgoJBwsKCggHCQsIBAIDBQUOH4UrCQMGD24/cHVgWk5IQzMHBQcFAwIDBAIEAQ0ZaDlLHAwMGGlNG29ZODtehpM8FAkGAwQDBwcICxJVKXBUEg0OJHxeDUmEf3VyQoqOCBEKCQgGCgkMEBAxdloPDAQDCUaZgKRmLzJghnscHxQKCQECBAUGAwwYDyAkEhUTEBgkTBkiIyMQCREMDAcIBQQEBwcKDw8YJBMQCgoMCRARGBMIAwQEBQcDBAYCAgQFAgIHBAQGCAsHAQYCAgUKBwQDAgIGBgYEBgUEBgUE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 24.069388,
+          "top": 26.907296,
+          "middle": 21.678818,
+          "bottom": 21.998683,
+          "effectiveRatio": 0.551395
+        },
+        "extendable": false,
+        "sha256": "4e1f80ecdb9bd3c42285f11a8244254fcf9d12fa1f20af737695c63b5eb9b2c1"
+      },
+      "approved": true,
+      "publisherPhotoRecord": {
+        "url_for_web": "https://afpbb.ismcdn.jp/mwimgs/d/0/810x540/img_d0a184c13b35279f64ad00055d928f5f552777.jpg",
+        "caption_j": "26MLB、ワールドシリーズ（7回戦制）、タンパベイ・レイズ対ミルウォーキー・ブルワーズ。6回に適時二塁打を放ち、塁上で喜ぶミルウォーキー・ブルワーズのウィリアム・コントレラス（2026年10月28日撮影）。(c)Mike Stobe/Getty Images/AFP",
+        "ind": 5,
+        "pid": "79647_063_2302463255",
+        "url_for_web_thumb": "https://afpbb.ismcdn.jp/mwimgs/d/0/120x100/img_d0a184c13b35279f64ad00055d928f5f552777.jpg",
+        "relthumb_flag": ""
+      },
+      "sourceSha256": "4e1f80ecdb9bd3c42285f11a8244254fcf9d12fa1f20af737695c63b5eb9b2c1",
+      "subject": "윌리엄 콘트레라스",
+      "team": "밀워키 브루어스",
+      "photoDate": "2026-10-28",
+      "imageCredit": "Mike Stobe/Getty Images/AFP via AFPBB News",
+      "creditDisplay": "WS5 · Mike Stobe/Getty/AFP (2026.10.28 현지)",
+      "sceneGroup": "ws5-contreras-double-two-arms-raised",
+      "description": "콘트레라스가 WS5 6회 적시2루타 뒤 두 팔을 높이 들어 세리머니를 하는 장면.",
+      "rightsEvidence": "2026-10-16 사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인했다. 일본 AFPBB News 및 닛칸스포츠의 실제 개별 사진 원문·제공자·사진기록·공개 원본 바이트를 연결하며 다른 Getty/AP 자산 사용권으로 확대하지 않는다.",
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "photoDateEvidence": "실제 원문 사진설명 WS5 2026-10-28 현지 촬영. 기사게재10/29과 구분.",
+      "uniformContext": "실제 현재 밀워키 소속 유니폼. 과거 브레이브스 사진은 전부 제외.",
+      "rootNativeViewedAt": "2026-10-29T16:09:14.964Z",
+      "fit": "cover"
+    },
+    {
+      "id": "contreras-ws-mvp/nikkan-current-1-1",
+      "sourceUrl": "https://www.nikkansports.com/baseball/mlb/news/img/202610290000587-w1300_2.jpg",
+      "sourcePageUrl": "https://www.nikkansports.com/baseball/mlb/news/202610290000587.html",
+      "caption": "レイズ戦の6回、適時二塁打を放つブルワーズのコントレラス。投手クレビンジャー＝セントピーターズバーグ（共同）",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-cpra\\contreras-ws-mvp\\nikkan-current-1-1.jpg",
+      "sha256": "d17567de561323d01ed169da40fa8b90694d0090670afe2fd9c6611a8755cac1",
+      "width": 1300,
+      "height": 1580,
+      "bytes": 284033,
+      "strictCoverScale": 0.8544303797468354,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-29T16:09:16.477Z",
+        "width": 1300,
+        "height": 1580,
+        "bytes": 284033,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.222879035459374,
+        "entropy": 7.408876964473166,
+        "effectiveDetailRatio": 0.536456,
+        "kind": "source",
+        "coverScale": 0.854,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1300,
+        "rawHeight": 1580,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "98903031488c1a4e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DAMCAQECBAk2OEqMXbZSWwoGAgEBAQIDBAYEBwwRCAMBAQEEBj2Xl3ttL3aGelwAAgEBAQEJHzwNCAsNBwQBAwIFCo2EK0ANFEtenVkDAQEBAQYiqEp0e15gPwcEAwMFAzqwnm1qVJaDWQsJDAQCBBCYODhbcYNoMQIGBAQEAws0cFAcIzgKDAQPOA8FBAJIrEZyiF5+BgEBAgMCBQUGIVw/UUUSCRBPakIRAQELSEZSdodhIiIjISAgJCMdIgo7PykOFDlwQGofJy0TIBkeFgkeHyMkIyUhISQmJzA1KBQpJzQYTCk5YygmICAgICglDRAPEQ8NDgwOEhIpPww5SCAYPySVZkgJExERFRcUFRMSExcaHR4gJSdGIgkGO3IxEZWNZIMNMDEsLigkJSMjIiksKygrOTsyOQ8VLy9Le3OtsCkXQS4oJygqICElIyJMV1VINEQQMS4iEzWJep2bMCZRTxcRDAwNFQ4QDzpcQlc2e1cYOEIPNXmHCGqRZmx0Rw8RCwcEFRIPGkYoDCqSfy8fFkOCTYSJRWlsKjg0GyYHBQQICgECDzBBGUKRgCUXOmdullNy7SuDMEI1Hi0bGxwiDAsKDiBFUFepTx5GZCw1F3x8m69RLVQpFggKCgkGEhMTFRQhMzldkINPOxMQg2p9I4FBDlIrIhsaFRQWHCAcHB4bESQedX58KWZvXH0sHGcIIERgMCcoKSchCQkHCAIRGjyUQkdBOA8YlGIZNFcpOS44OS0rLC0wCxAQGCQYJlxOfHVBMyYoB2VGWyZLG4FNBAgLDRAFDhITFiAzO1h7Gik9IyIkLypEKRcWfzphKR0eIx4dBggLFwwsOC1XXmVMPSxDUj4pGwYmTDkuCggKATERAwECDjQqJRkdFQYSFREvFUtnUyk2I0gsBgsQPE1CEg0MDTFNVy03QElFOi1aTHp+JlsQNSISGiAXWSBoHx4jJCVKQBwlJyQgJisfNk/AnR8fGiQxOS0jJ3QrCg0QFQoGCAEBBwMDDjePYTNWs2UcICQmKzEzOUQ8Jh8kHSEfHiQmJiQye64rktJVqFkkJCopKCQhJCYdP0FDTUdHSkA6R3SOk1i7hXmiK2VPU1RRT0hKSUtIGx8eJBwgIiQ7ZldLJ2dyeY5DGC0nJSMkJyUpJiAeCQYGDh4pL0FUExcmRVYTMDEbCAMBAwMDCAMCBAQEBhoqNCkfJQs/WjUxURMwCQoKAwEBAgMFCQEDAgMDTzMTGjM1OFNGITFCHy8cGwwGAQIDBAQGBgQDAgICMko1NB8bIgURFg8dICccFAsMCw4NDgoJCQoLBgICRy8JAwgFBAQJCwkLGxYiDwoJDQ8PDAkNCgwPDAoOJgcFBAYGAwQEBAQWEh0SAwcICQQEAwMGCQoKCAoOBQgJBQUFBAEGAwMVJx4GBggCAQMEAQMFCgQJBAYGBAUCBAMEBAUEAgkRNyUgBAQEBAMBAQQHCgUMAwoEBQUKCwgGBAMDBAQjJyEpAwMCBAICBQMFCQYJAQgL",
+          "top": "DAMCAQECBAk2OEqMXbZSWwoGAgEBAQIDBAYEBwwRCAMBAQEEBj2Xl3ttL3aGelwAAgEBAQEJHzwNCAsNBwQBAwIFCo2EK0ANFEtenVkDAQEBAQYiqEp0e15gPwcEAwMFAzqwnm1qVJaDWQsJDAQCBBCYODhbcYNoMQIGBAQEAws0cFAcIzgKDAQPOA8FBAJIrEZyiF5+BgEBAgMCBQUGIVw/UUUSCRBPakIRAQELSEZSdodhIiIjISAgJCMdIgo7PykOFDlwQGofJy0TIBkeFgkeHyMkIyUhISQmJzA1KBQpJzQYTCk5YygmICAgICglDRAPEQ8NDgwOEhIpPww5SCAYPySVZkgJExERFRcUFRMSExcaHR4gJSdGIgkGO3IxEZWNZIMNMDEsLigkJSMjIiksKygrOTsyOQ8VLy9Le3OtsCkXQS4oJygqICElIyJMV1VINEQQMS4iEzWJep2bMCZRTxcRDAwNFQ4QDzpcQlc2e1cYOEIPNXmHCGqRZmx0Rw8RCwcEFRIPGkYoDCqSfy8fFkOCTYSJRWlsKjg0GyYHBQQICgECDzBBGUKRgCUXOmdullNy7SuDMEI1Hi0bGxwi",
+          "middle": "FQ4QDzpcQlc2e1cYOEIPNXmHCGqRZmx0Rw8RCwcEFRIPGkYoDCqSfy8fFkOCTYSJRWlsKjg0GyYHBQQICgECDzBBGUKRgCUXOmdullNy7SuDMEI1Hi0bGxwiDAsKDiBFUFepTx5GZCw1F3x8m69RLVQpFggKCgkGEhMTFRQhMzldkINPOxMQg2p9I4FBDlIrIhsaFRQWHCAcHB4bESQedX58KWZvXH0sHGcIIERgMCcoKSchCQkHCAIRGjyUQkdBOA8YlGIZNFcpOS44OS0rLC0wCxAQGCQYJlxOfHVBMyYoB2VGWyZLG4FNBAgLDRAFDhITFiAzO1h7Gik9IyIkLypEKRcWfzphKR0eIx4dBggLFwwsOC1XXmVMPSxDUj4pGwYmTDkuCggKATERAwECDjQqJRkdFQYSFREvFUtnUyk2I0gsBgsQPE1CEg0MDTFNVy03QElFOi1aTHp+JlsQNSISGiAXWSBoHx4jJCVKQBwlJyQgJisfNk/AnR8fGiQxOS0jJ3QrCg0QFQoGCAEBBwMDDjePYTNWs2UcICQmKzEzOUQ8Jh8kHSEfHiQmJiQye64rktJVqFkkJCopKCQhJCYd",
+          "bottom": "Eg0MDTFNVy03QElFOi1aTHp+JlsQNSISGiAXWSBoHx4jJCVKQBwlJyQgJisfNk/AnR8fGiQxOS0jJ3QrCg0QFQoGCAEBBwMDDjePYTNWs2UcICQmKzEzOUQ8Jh8kHSEfHiQmJiQye64rktJVqFkkJCopKCQhJCYdP0FDTUdHSkA6R3SOk1i7hXmiK2VPU1RRT0hKSUtIGx8eJBwgIiQ7ZldLJ2dyeY5DGC0nJSMkJyUpJiAeCQYGDh4pL0FUExcmRVYTMDEbCAMBAwMDCAMCBAQEBhoqNCkfJQs/WjUxURMwCQoKAwEBAgMFCQEDAgMDTzMTGjM1OFNGITFCHy8cGwwGAQIDBAQGBgQDAgICMko1NB8bIgURFg8dICccFAsMCw4NDgoJCQoLBgICRy8JAwgFBAQJCwkLGxYiDwoJDQ8PDAkNCgwPDAoOJgcFBAYGAwQEBAQWEh0SAwcICQQEAwMGCQoKCAoOBQgJBQUFBAEGAwMVJx4GBggCAQMEAQMFCgQJBAYGBAUCBAMEBAUEAgkRNyUgBAQEBAMBAQQHCgUMAwoEBQUKCwgGBAMDBAQjJyEpAwMCBAICBQMFCQYJAQgL"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.851014,
+          "top": 29.416923,
+          "middle": 36.436313,
+          "bottom": 22.003832,
+          "effectiveRatio": 0.536456
+        },
+        "extendable": false,
+        "sha256": "d17567de561323d01ed169da40fa8b90694d0090670afe2fd9c6611a8755cac1"
+      },
+      "approved": true,
+      "sourceSha256": "d17567de561323d01ed169da40fa8b90694d0090670afe2fd9c6611a8755cac1",
+      "subject": "윌리엄 콘트레라스",
+      "team": "밀워키 브루어스",
+      "photoDate": "2026-10-28",
+      "imageCredit": "교도통신 / 닛칸스포츠",
+      "creditDisplay": "WS5 · 교도통신/닛칸스포츠 (2026.10.28 현지)",
+      "sceneGroup": "ws5-contreras-rbi-double-batter",
+      "description": "WS5 6회 콘트레라스가 적시2루타를 치는 장면. 전경에는 탬파베이 마이크 클레빈저와 포수·심판이 보인다.",
+      "rightsEvidence": "2026-10-16 사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인했다. 일본 AFPBB News 및 닛칸스포츠의 실제 개별 사진 원문·제공자·사진기록·공개 원본 바이트를 연결하며 다른 Getty/AP 자산 사용권으로 확대하지 않는다.",
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "photoDateEvidence": "실제 원문 사진설명 WS5 2026-10-28 현지 촬영. 기사게재10/29과 구분.",
+      "uniformContext": "실제 현재 밀워키 소속 유니폼. 과거 브레이브스 사진은 전부 제외.",
+      "rootNativeViewedAt": "2026-10-29T16:09:15.029Z",
+      "fit": "cover"
+    },
+    {
+      "id": "contreras-ws-mvp/commons-milwaukee-0",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/William_Contreras_1_61824.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:William_Contreras_1_61824.jpg",
+      "caption": "William Contreras in the batter's box in Anaheim.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-cpra\\contreras-ws-mvp\\commons-milwaukee-0.jpg",
+      "sha256": "8142d017d54225661e42d20325082e9e6451bac677ad0c04e0b2bbd7253aa603",
+      "width": 5184,
+      "height": 3456,
+      "bytes": 12366335,
+      "strictCoverScale": 0.390625,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-29T16:09:16.884Z",
+        "width": 5184,
+        "height": 3456,
+        "bytes": 12366335,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.8274450014191453,
+        "entropy": 6.776573394037769,
+        "effectiveDetailRatio": 0.495162,
+        "kind": "source",
+        "coverScale": 0.391,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 5184,
+        "rawHeight": 3456,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "0a1215252b232200",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwQJCAQJBwIEBwYRCwECBAUHBAEEBgECAgMJDgYDAwYGBQcIAQcCCBENAgMBAwcDAQQDAgIDAQYNBwQBCQUDBQgEBgUOEQ4BAwICBAYEAwMAAwgDCQsKBQIDCAACBAIDBREQCwUCAQMBBAcFBAYFBQMNEAoGAgMBAgQBAQIGDgwGAgMEAQIEBAUFAgQHBQkQCwcEAQEFAQEEAwgNDgYDAAADBwYEBAUEAwIECA0KCAIDBAEMAQICBwoNBwEBAQMIBggUA0EEAQIFCwgGAwUFAQgKAgIHCg4JAgEDAgUJCShdZzNABgUKCAMBBAICAgkJAwYJCgcBAQYEBAkEImBNmHVAEhALBAQDBAYIBgMEBwgIBwQLCgcCAwUBImw9Oms7SgYCBQIEBQMHCgYHCwoIBQcoFwgICAgEPWdyJTV+JDsHBAUBAQYIBQYDDQoICScqS0o1FQVMaEB9MW87NzkXBwIDBAULCQgJCAQFBhpGLgU2PiFYEyE2Uh4+KxkgBQIHBhIJDhImBgYIBxEnP09BQA9RPA8RL0kkUwMvEAwKFAUJBiAqDA0XHRUKBgkXDCNJTzJCVBohDzQtMh8XBAcIGRUSBw8SDxkdJSovMjNzdHiHZVkkGBghGSgXCAkDCAwSLi8uLiQgFQoILI1GNU4gG09KEgoiKBgEAgYKDQQHBwYNDRASFxYXJCN8aFRUSmA8BDATDwIBAgsRCgQGFBUOBgUEChEOFCM5U2xxbCUdHgZIGQYbOQ8BAgMGDAkHCAYEBgIDAAQnLxsoNUUgNT8ERwdAGTIJBQYKBgkNEQ8DBwQEAgUwLAYRSScRFDVVHRkiNhYDBgoWGBUNCQwJBQUFBA0iJQEvQQoGDA8lMAgNEgIDChQCEQkWEBYkBQYhPSMYKAtBMQULBgUQHwgFAg4JEAhKCQcOPDsyIxhOQEZNMiVjJRUQCwkdHRQLCQsHB0RBGgckOhYxMlJdMHxGMm5KBQgGDQwOMg0LDQUKJTYtMTIvIRoeKk4hJH5OTTMQJBkgGg8MIx81Hg4RDzxMSH91Kx9AL0prfFc5FQ0XFg0KCxUXGVUUOysOCBQfbi7AZEhRMD9cUjMZEAcWDAEHBgUYISNVKxQMEA4gHiBOax0IFjdBRCYIFx4TAgIDCAUGISsODQkGCQsLf099SA8QOFY3YwYZHRUHCQcGDA8XFhUWICofBhomak1DIi8dGmN6LhcYCgkGAwAHBAkKCBVZcHaAaCgPOGQ1NQUYCwwTKh8XBgYJDQoKFxIXKGBrPjdNhoVHj1JXOhsRISEgDAsHAgIJBBQXDAcHI1N1fXpoVUpMeTt3Ui4XIA4QDhYPDQwLFBMHCwoKCBlBSlRYVzoPL3yGMTArCAILExADCQsIBgkXGxgUGBoTEAoEAwYNS3goGSgZCw8QDQQODQMNFBoOBxAIAwgKBAIDBgoGMSEZHCAcEwoJFRgQBgQLEBElKycgIBoQDQgIBQMII2M1Ix0IBw0LCQoKCBARFiIWDgUGCQsHCAsLCwgL",
+          "top": "AwQJCAQJBwIEBwYRCwECBAUHBAEEBgECAgMJDgYDAwYGBQcIAQcCCBENAgMBAwcDAQQDAgIDAQYNBwQBCQUDBQgEBgUOEQ4BAwICBAYEAwMAAwgDCQsKBQIDCAACBAIDBREQCwUCAQMBBAcFBAYFBQMNEAoGAgMBAgQBAQIGDgwGAgMEAQIEBAUFAgQHBQkQCwcEAQEFAQEEAwgNDgYDAAADBwYEBAUEAwIECA0KCAIDBAEMAQICBwoNBwEBAQMIBggUA0EEAQIFCwgGAwUFAQgKAgIHCg4JAgEDAgUJCShdZzNABgUKCAMBBAICAgkJAwYJCgcBAQYEBAkEImBNmHVAEhALBAQDBAYIBgMEBwgIBwQLCgcCAwUBImw9Oms7SgYCBQIEBQMHCgYHCwoIBQcoFwgICAgEPWdyJTV+JDsHBAUBAQYIBQYDDQoICScqS0o1FQVMaEB9MW87NzkXBwIDBAULCQgJCAQFBhpGLgU2PiFYEyE2Uh4+KxkgBQIHBhIJDhImBgYIBxEnP09BQA9RPA8RL0kkUwMvEAwKFAUJBiAqDA0XHRUKBgkXDCNJTzJCVBohDzQtMh8XBAcIGRUS",
+          "middle": "CAQFBhpGLgU2PiFYEyE2Uh4+KxkgBQIHBhIJDhImBgYIBxEnP09BQA9RPA8RL0kkUwMvEAwKFAUJBiAqDA0XHRUKBgkXDCNJTzJCVBohDzQtMh8XBAcIGRUSBw8SDxkdJSovMjNzdHiHZVkkGBghGSgXCAkDCAwSLi8uLiQgFQoILI1GNU4gG09KEgoiKBgEAgYKDQQHBwYNDRASFxYXJCN8aFRUSmA8BDATDwIBAgsRCgQGFBUOBgUEChEOFCM5U2xxbCUdHgZIGQYbOQ8BAgMGDAkHCAYEBgIDAAQnLxsoNUUgNT8ERwdAGTIJBQYKBgkNEQ8DBwQEAgUwLAYRSScRFDVVHRkiNhYDBgoWGBUNCQwJBQUFBA0iJQEvQQoGDA8lMAgNEgIDChQCEQkWEBYkBQYhPSMYKAtBMQULBgUQHwgFAg4JEAhKCQcOPDsyIxhOQEZNMiVjJRUQCwkdHRQLCQsHB0RBGgckOhYxMlJdMHxGMm5KBQgGDQwOMg0LDQUKJTYtMTIvIRoeKk4hJH5OTTMQJBkgGg8MIx81Hg4RDzxMSH91Kx9AL0prfFc5FQ0XFg0KCxUXGVUUOysOCBQf",
+          "bottom": "CQcOPDsyIxhOQEZNMiVjJRUQCwkdHRQLCQsHB0RBGgckOhYxMlJdMHxGMm5KBQgGDQwOMg0LDQUKJTYtMTIvIRoeKk4hJH5OTTMQJBkgGg8MIx81Hg4RDzxMSH91Kx9AL0prfFc5FQ0XFg0KCxUXGVUUOysOCBQfbi7AZEhRMD9cUjMZEAcWDAEHBgUYISNVKxQMEA4gHiBOax0IFjdBRCYIFx4TAgIDCAUGISsODQkGCQsLf099SA8QOFY3YwYZHRUHCQcGDA8XFhUWICofBhomak1DIi8dGmN6LhcYCgkGAwAHBAkKCBVZcHaAaCgPOGQ1NQUYCwwTKh8XBgYJDQoKFxIXKGBrPjdNhoVHj1JXOhsRISEgDAsHAgIJBBQXDAcHI1N1fXpoVUpMeTt3Ui4XIA4QDhYPDQwLFBMHCwoKCBlBSlRYVzoPL3yGMTArCAILExADCQsIBgkXGxgUGBoTEAoEAwYNS3goGSgZCw8QDQQODQMNFBoOBxAIAwgKBAIDBgoGMSEZHCAcEwoJFRgQBgQLEBElKycgIBoQDQgIBQMII2M1Ix0IBw0LCQoKCBARFiIWDgUGCQsHCAsLCwgL"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 17.562099,
+          "top": 11.815008,
+          "middle": 19.230543,
+          "bottom": 23.05138,
+          "effectiveRatio": 0.495162
+        },
+        "extendable": false,
+        "sha256": "8142d017d54225661e42d20325082e9e6451bac677ad0c04e0b2bbd7253aa603"
+      },
+      "approved": true,
+      "commonsPage": {
+        "pageid": 149521497,
+        "ns": 6,
+        "title": "File:William Contreras 1 61824.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12366335,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/William_Contreras_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:William_Contreras_1_61824.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149521497",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-06-19 07:36:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "William Contreras 1 61824",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Jordan Baker (umpire)|William Contreras|Logan O’Hoppe|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "William Contreras in the batter's box in Anaheim.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-06-18 04:48:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 07:36:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "William Contreras 1 61824",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan Baker (umpire)|William Contreras|Logan O’Hoppe|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "William Contreras in the batter's box in Anaheim.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:48:41",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "sourceSha256": "8142d017d54225661e42d20325082e9e6451bac677ad0c04e0b2bbd7253aa603",
+      "subject": "윌리엄 콘트레라스",
+      "team": "밀워키 브루어스",
+      "photoDate": "2024-06-18",
+      "imageCredit": "Sewageboy · CC BY-SA 4.0",
+      "creditDisplay": "Sewageboy · 자료사진 2024.06.18 · CC BY-SA 4.0 · 크롭·문구\ncommons.wikimedia.org/wiki/File:William_Contreras_1_61824.jpg\ncreativecommons.org/licenses/by-sa/4.0",
+      "sceneGroup": "contreras-anaheim-batting-box",
+      "description": "밀워키 회색 원정 유니폼의 콘트레라스가 애너하임에서 타격을 준비하는 장면. 2026 월드시리즈 장면으로 설명하지 않는다.",
+      "rightsEvidence": "Commons 실제 File 원문과 API의 Sewageboy 저자·2024-06-18 촬영일·CC BY-SA 4.0을 확인했다. 저자·원본URL·라이선스URL·크롭/문구 변경을 해당 실제 카드에 표시하고 전체 카드 파생본도 CC BY-SA 4.0으로 배포해야 한다.",
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "photoDateEvidence": "Commons 실제 API DateTimeOriginal 2024-06-18 및 사진설명 Anaheim.",
+      "uniformContext": "실제 현재 밀워키 소속 유니폼. 과거 브레이브스 사진은 전부 제외.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rootNativeViewedAt": "2026-10-29T16:09:15.444Z",
+      "fit": "cover"
+    },
+    {
+      "id": "contreras-ws-mvp/commons-milwaukee-1",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/William_Contreras_2_61824.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:William_Contreras_2_61824.jpg",
+      "caption": "William Contreras on the basepaths between first and second.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-cpra\\contreras-ws-mvp\\commons-milwaukee-1.jpg",
+      "sha256": "4e8681291b726b81321c53b3b9e936eab164ff828ed14c1561c704992a4db3f1",
+      "width": 5184,
+      "height": 3456,
+      "bytes": 10473613,
+      "strictCoverScale": 0.390625,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-29T16:09:17.265Z",
+        "width": 5184,
+        "height": 3456,
+        "bytes": 10473613,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.6603891722359976,
+        "entropy": 5.7681644481695,
+        "effectiveDetailRatio": 0.441481,
+        "kind": "source",
+        "coverScale": 0.391,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 5184,
+        "rawHeight": 3456,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "0703052727070707",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwMCAwMDBQUEBQUGBwkFBQUGCg8LBgcKCggICQQDBAUGBQMEAwACBAIBBAACAgQDAwELCwcFCQkJCg0KAgMEBgUDAgMEBQgIBwcFAwYICwkHAgYDAwECAwQGBAQBAAIEAgIBAgIDBAQECAUFBwkKCgcFBQcIBgUFBgIAAgIBBAQAAwQEAwIEGAkCBAAFAgMCBgUBAwIDBgYAAQQCAwEEAgAEBgIsgiMVAwQEBAEBAAcIBQEDAgIFBAMDAwQDAQMEBiKBDZNDFgEBAwMCBAEDBwcDAgMCBQYCAQIEBAECDRA0yoQZPwIEAAECAgICAgQGAQECAQYHAQEBAwQCBhJWcy+NRgYBAQEBAQIBAgYBAQECAgEDBgECAwQEBQ9Mb7SzjlMHAQACAQICBAQFBAMBAQMDAwQDAgMCBAIin79bRK1ICAEBBAECAwEDBAEEAgEDBAIDBAECAgRNg0snKUeVOwsBAgMCAgICBgkFBQQEBAQCAgMEBQY6hT55OR48gkEJAwIDAgIECAwLCAgKCwkHBwcFCQcVVmdAXFNiL4UyBAQDBAIBCQgJCwoMDA4OCwoJCAkMEV0aB1dgbkVrEwgFAwQGCwUKCQkGBwoNDQ0NCggXcSNYWUhnTSB0JgwNCgcIBQgLCQgFCQgHCwgHBwRjUGFwMTNHDANATAgKDQwHBQkICAgLCAQGAwgICBllPyt7ayg8EBFhMQkJCQwNCAYEAQMDBAEHCggJDQotdmNHSX0HJWBACgYGCAgJBAMBAwIGCQgKDxkbEQ4WSUtpYzA8UlUGAwQBAgMCBgEDAgMICAYGCwsXGw0NEUhEWixRZBcECQYICQkJDAkEAgQFBAQDBQYIBgwOETtQNB9YMgQDAgQEAgMEDA8LCgYGBQQCAgUJDQcFCC5eTQVVPAUEBAYGBggIBggKDQwPCwQDAgIFCwwNVn4oSyRRQwcDAgMFBAQHBQMEBAgICwkDAgMEBQhHUCOPPFhCRRIOCgcFBQQEBQMEBgMFBAUGBwQFBAcKSllNXG80VA0LDw0ICQoNAgQFBQYIBQIDBwoHAgMIDhskKmUUVxMIBgcDAwYEBQMBAAEDBwoLCAQDBQUGBgkqOpANaiIHCQcEAQMKBgkIBAQGBAQDBAcHBAICAAchijtVXzwKCAkHBAQCCQsPDQsLDw4OEAsICAQGBgdDNnlzUg4QDQwLCQsNCQgLDQwNEBISEhEPDQ4ODwgTSjcYBAsBAwEBAwQFAwEBAwQFBgcGBQoLCgkMDQ4NBgUFBwgFAwcGBQQBBQUGBAMEBAUEAQMEBgUEBwkKCgoMCAgCBwwNDQoLBQUEBAQEBQQDAwMEAQQBAgIEBgYGBwMFBgYBBAQEAwEBAgMCAwYEBQUHBwQDBAQFAwIGBgMFAwYDAwMCAwMEAgEABQIDAgMEBQgIBwcJCAgGAgUCAgcGAwUBBQUEBAMEAwUCBAIBAwQCBAUFBwUEBQUEBQgNCwgJBAQEBgYICQQGBggIBgcGBQQFAgEDAw0CDQMICQYJ",
+          "top": "AwMCAwMDBQUEBQUGBwkFBQUGCg8LBgcKCggICQQDBAUGBQMEAwACBAIBBAACAgQDAwELCwcFCQkJCg0KAgMEBgUDAgMEBQgIBwcFAwYICwkHAgYDAwECAwQGBAQBAAIEAgIBAgIDBAQECAUFBwkKCgcFBQcIBgUFBgIAAgIBBAQAAwQEAwIEGAkCBAAFAgMCBgUBAwIDBgYAAQQCAwEEAgAEBgIsgiMVAwQEBAEBAAcIBQEDAgIFBAMDAwQDAQMEBiKBDZNDFgEBAwMCBAEDBwcDAgMCBQYCAQIEBAECDRA0yoQZPwIEAAECAgICAgQGAQECAQYHAQEBAwQCBhJWcy+NRgYBAQEBAQIBAgYBAQECAgEDBgECAwQEBQ9Mb7SzjlMHAQACAQICBAQFBAMBAQMDAwQDAgMCBAIin79bRK1ICAEBBAECAwEDBAEEAgEDBAIDBAECAgRNg0snKUeVOwsBAgMCAgICBgkFBQQEBAQCAgMEBQY6hT55OR48gkEJAwIDAgIECAwLCAgKCwkHBwcFCQcVVmdAXFNiL4UyBAQDBAIBCQgJCwoMDA4OCwoJCAkMEV0aB1dgbkVrEwgFAwQG",
+          "middle": "BgkFBQQEBAQCAgMEBQY6hT55OR48gkEJAwIDAgIECAwLCAgKCwkHBwcFCQcVVmdAXFNiL4UyBAQDBAIBCQgJCwoMDA4OCwoJCAkMEV0aB1dgbkVrEwgFAwQGCwUKCQkGBwoNDQ0NCggXcSNYWUhnTSB0JgwNCgcIBQgLCQgFCQgHCwgHBwRjUGFwMTNHDANATAgKDQwHBQkICAgLCAQGAwgICBllPyt7ayg8EBFhMQkJCQwNCAYEAQMDBAEHCggJDQotdmNHSX0HJWBACgYGCAgJBAMBAwIGCQgKDxkbEQ4WSUtpYzA8UlUGAwQBAgMCBgEDAgMICAYGCwsXGw0NEUhEWixRZBcECQYICQkJDAkEAgQFBAQDBQYIBgwOETtQNB9YMgQDAgQEAgMEDA8LCgYGBQQCAgUJDQcFCC5eTQVVPAUEBAYGBggIBggKDQwPCwQDAgIFCwwNVn4oSyRRQwcDAgMFBAQHBQMEBAgICwkDAgMEBQhHUCOPPFhCRRIOCgcFBQQEBQMEBgMFBAUGBwQFBAcKSllNXG80VA0LDw0ICQoNAgQFBQYIBQIDBwoHAgMIDhskKmUUVxMIBgcDAwYE",
+          "bottom": "BggKDQwPCwQDAgIFCwwNVn4oSyRRQwcDAgMFBAQHBQMEBAgICwkDAgMEBQhHUCOPPFhCRRIOCgcFBQQEBQMEBgMFBAUGBwQFBAcKSllNXG80VA0LDw0ICQoNAgQFBQYIBQIDBwoHAgMIDhskKmUUVxMIBgcDAwYEBQMBAAEDBwoLCAQDBQUGBgkqOpANaiIHCQcEAQMKBgkIBAQGBAQDBAcHBAICAAchijtVXzwKCAkHBAQCCQsPDQsLDw4OEAsICAQGBgdDNnlzUg4QDQwLCQsNCQgLDQwNEBISEhEPDQ4ODwgTSjcYBAsBAwEBAwQFAwEBAwQFBgcGBQoLCgkMDQ4NBgUFBwgFAwcGBQQBBQUGBAMEBAUEAQMEBgUEBwkKCgoMCAgCBwwNDQoLBQUEBAQEBQQDAwMEAQQBAgIEBgYGBwMFBgYBBAQEAwEBAgMCAwYEBQUHBwQDBAQFAwIGBgMFAwYDAwMCAwMEAgEABQIDAgMEBQgIBwcJCAgGAgUCAgcGAwUBBQUEBAMEAwUCBAIBAwQCBAUFBwUEBQUEBQgNCwgJBAQEBgYICQQGBggIBgcGBQQFAgEDAw0CDQMICQYJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 9.120499,
+          "top": 7.776708,
+          "middle": 11.298969,
+          "bottom": 9.787139,
+          "effectiveRatio": 0.441481
+        },
+        "extendable": true,
+        "sha256": "4e8681291b726b81321c53b3b9e936eab164ff828ed14c1561c704992a4db3f1"
+      },
+      "approved": true,
+      "commonsPage": {
+        "pageid": 149521500,
+        "ns": 6,
+        "title": "File:William Contreras 2 61824.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10473613,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/William_Contreras_2_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:William_Contreras_2_61824.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149521500",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-06-19 07:36:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "William Contreras 2 61824",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "William Contreras|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "William Contreras on the basepaths between first and second.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-06-18 04:52:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 07:36:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "William Contreras 2 61824",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "William Contreras|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "William Contreras on the basepaths between first and second.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:52:08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "sourceSha256": "4e8681291b726b81321c53b3b9e936eab164ff828ed14c1561c704992a4db3f1",
+      "subject": "윌리엄 콘트레라스",
+      "team": "밀워키 브루어스",
+      "photoDate": "2024-06-18",
+      "imageCredit": "Sewageboy · CC BY-SA 4.0",
+      "creditDisplay": "Sewageboy · 자료사진 2024.06.18 · CC BY-SA 4.0 · 크롭·문구\ncommons.wikimedia.org/wiki/File:William_Contreras_2_61824.jpg\ncreativecommons.org/licenses/by-sa/4.0",
+      "sceneGroup": "contreras-anaheim-basepaths",
+      "description": "밀워키 회색 원정 유니폼의 콘트레라스가 1·2루 사이에서 리드하는 장면. 앞 타격 사진과 시각·동작이 다르다.",
+      "rightsEvidence": "Commons 실제 File 원문과 API의 Sewageboy 저자·2024-06-18 촬영일·CC BY-SA 4.0을 확인했다. 저자·원본URL·라이선스URL·크롭/문구 변경을 해당 실제 카드에 표시하고 전체 카드 파생본도 CC BY-SA 4.0으로 배포해야 한다.",
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "photoDateEvidence": "Commons 실제 API DateTimeOriginal 2024-06-18 및 사진설명 Anaheim.",
+      "uniformContext": "실제 현재 밀워키 소속 유니폼. 과거 브레이브스 사진은 전부 제외.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rootNativeViewedAt": "2026-10-29T16:09:15.830Z",
+      "fit": "cover"
+    },
+    {
+      "id": "contreras-ws-mvp/chourio-archive",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg",
+      "caption": "",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-30-midnight-catchup\\research-cpra\\contreras-ws-mvp\\chourio-archive.jpg",
+      "sha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e",
+      "width": 1920,
+      "height": 1700,
+      "bytes": 738975,
+      "strictCoverScale": 0.7941176470588235,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-29T16:09:17.525Z",
+        "width": 1920,
+        "height": 1700,
+        "bytes": 738975,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.5629124772578487,
+        "entropy": 6.916856853837089,
+        "effectiveDetailRatio": 0.662698,
+        "kind": "source",
+        "coverScale": 0.794,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 1700,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "2f0b38693133c0c0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI",
+          "top": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggE",
+          "middle": "BAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQE",
+          "bottom": "CjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.364024,
+          "top": 19.153258,
+          "middle": 21.210755,
+          "bottom": 25.847882,
+          "effectiveRatio": 0.662698
+        },
+        "extendable": false,
+        "sha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e"
+      },
+      "approved": true,
+      "priorRights": {
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg",
+        "imageCredit": "IanStone20165 · CC BY 4.0 · 크롭·문구",
+        "photoDate": "2025-06-07",
+        "imageRights": "CC BY 4.0",
+        "checkedAt": "2026-10-28T06:06:02.628Z",
+        "rightsEvidence": "Wikimedia Commons 각 파일 원문에서 저자·촬영일과 CC BY-SA 4.0, CC BY 4.0, CC BY 2.0, CC0를 확인했다. 카드에는 저자·라이선스·자료사진 시점과 BASEBALL KARTELL의 크롭·그라데이션·문구 추가를 표시한다."
+      },
+      "pageStatus": 200,
+      "sourceSha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e",
+      "subject": "잭슨 추리오",
+      "team": "밀워키 브루어스",
+      "photoDate": "2025-06-07",
+      "imageCredit": "IanStone20165 · CC BY 4.0",
+      "creditDisplay": "IanStone20165 · 자료사진 2025.06.07 · CC BY 4.0 · 크롭·문구\ncommons.wikimedia.org/wiki/File:Jackson_Chourio.jpg\ncreativecommons.org/licenses/by/4.0",
+      "sceneGroup": "chourio-milwaukee-city-connect-close",
+      "description": "밀워키 하늘색 시티커넥트 모자·유니폼의 추리오가 웃는 근접 장면. 베네수엘라 대표팀 동료의 사진이며 콘트레라스로 이름붙이지 않는다.",
+      "rightsEvidence": "Commons 실제 File 원문에서 IanStone20165 저자·2025-06-07 촬영일·CC BY 4.0을 새 조회했고 원본·라이선스URL·크롭/문구 변경을 카드에 표시한다.",
+      "rightsStatus": "approved",
+      "visuallyReviewed": true,
+      "currentTeamUniformVerified": true,
+      "photoDateEvidence": "Commons 실제 File 원문 Date 7 June 2025.",
+      "uniformContext": "실제 현재 밀워키 소속 유니폼. 과거 브레이브스 사진은 전부 제외.",
+      "rootNativeViewedAt": "2026-10-29T16:09:16.090Z",
+      "fit": "cover"
+    }
+  ]
+}
