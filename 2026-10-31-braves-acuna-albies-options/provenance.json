@@ -3,7 +3,7 @@
   "handle": "@baseball_kartell",
   "headline": "아쿠냐·알비스,\n내년에도 애틀랜타",
   "issueKey": "mlb-20261029-braves-acuna-albies-2027-club-options-exercised",
-  "checkedAt": "2026-10-30T16:01:41.094Z",
+  "checkedAt": "2026-10-30T16:09:08.238Z",
   "sourceUrl": "https://www.mlb.com/news/ronald-acuna-jr-ozzie-albies-club-options-exercised-by-braves",
   "corroboratingUrls": [
     "https://www.mksports.co.kr/news/breaking-news/12191145",
@@ -606,19 +606,88 @@
       "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ozzie_Albies_%2847516512331%29_%28cropped%29.jpg"
     },
     {
-      "name": "acuna-bp",
-      "title": "File:Ronald Acuña Jr. during batting practice at Coors Field - 1.jpg",
-      "pageid": 78238072,
-      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/09efe1e48a15686403b4d6ca1fd59ae210daab87/sources/2026-10-31-braves-options/photo-4.jpg",
-      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ronald_Acu%C3%B1a_Jr._during_batting_practice_at_Coors_Field_-_1.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ozzie_Albies_playing_catch_before_Braves-Mariners_game.jpg/1920px-Ozzie_Albies_playing_catch_before_Braves-Mariners_game.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ozzie_Albies_playing_catch_before_Braves-Mariners_game.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-31-midnight-catchup\\research-packages\\braves-options\\photo4-replacement\\albies-2024-catch.jpg",
+      "width": 1920,
+      "height": 2560,
+      "rawWidth": 1920,
+      "rawHeight": 2560,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "42e3fb677b191923",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "BwEFDxMQEQQEBAQDAwYGAQgKDw0GBgUEBQYIAQMEBAEGBQoNAgUCAgIEBQkEAQMJBAQtLwoEAQQGBQQICAkLEA4JCQoEBwYHCgkBBwIGJDtIQCkGCAUMDA4FFgoQHxgLDQ4MDQ4NDg4LDAsbKSQcOzsKBwwKBw8hIwsWEhsRDw4QDxANDxAQEBATGhkPHx8tAgYKBxsiIyoQChQhCA0KCgkECQwJCwsQBRkNDBIdKRAGCwoeCjMdDg8bEg0IBQYCCwcCBQQEBgkSCQ8TTisLERAUHhcnBx8WCwkIBwULCAcEAgQBAgEBCAVLGDs0JjwFFSYhJxcXCwYJAQQEBQMCAgIDBQEBDTxbKRYaQStKPSoFJRsRFBMGAgECBBQFKh8IBgYOL2IKZiEhJEgvFx8gHjAPLSUKBA8QEwkXHioZCghBKCNjHjkFIh0LBQYsCy0hLjkjHjEQCQ8DKR8UEC4hNkwOPwsJEgsKCQ4lJBUsHxkXNxcxDgUGAhkZIhgyTCRPGAwTGxgEGB0WCRgQKRYdFhgZHRMPFgo0ESQOHj82GBgJCSYUBgwVBh0gDwoNFyEfGAYFFCYZKCVGIU0MLhIVFg8MAQ8CBgQDCxMXFhcbIRgdNFEZY62GZk4hDxURCQcbJwgiISAgFhMJAQIIGjE5T2tmyl6QmEFBPDs9QEMoHA8aDQkXGw8IAwMJIjhJRQ8iP5V9Kw0LCg8LGz0zMBMhKSYlEQ8JBQYKI1k0I2M4Vy0hSzQ6QUE7QToSISsrJycpLjE6OTk7QENaSwwgKCBqSDAoJSQjKycxkI+RkJGSkJKWk5OVlaQ+MlUPBR9Kp52goKKgnJyYS0xNTk1NTk9OT09NT51iYwsyG01WWFRVV1hYWVlYAgMBAQICAgIBAQICBnlbRCckC0RUHAQEAwMEBAcJBgUEBAMDAgIDAQIDBEtUIRsaDEVqJQQBAgMFAwMIAgQEBAUFAwQHBwYFAkYvGzAgDElREQMBAgQEBAQEAwACBAMGCAcGBgYHByheHkEsCFhhIQsMDA0PDhANCQsLDQ8OCgkNDgwKCA08Yjg5IVRvGAYCAQEDAgQGBgUFBAQEAgICAQIBAQIqawlPJlhcCQIDBAUHBwgICAYEBgYFAwIDBQQFBgRipFVBR2lLCAIDBAYGBQYJCwoICAgHBwgGBgUGCyLEVM48kYV1CQYFBgYEBggICwsLCAkJCgsLCQoJD0G7SLp3gJNyCgYFBAIECAcHDw4MCwgICAcICQoLEFSGgX6NVp5QDgkJBwgLCwkMERUWERAOCwgDBQUJCmFMjEOLN5QtDg0MDQ8REBARBwgNDQ8REhMQERIREGQcZBBjZGARBAcJDA0ODw8QCgQCCQ0KGyQgJC8pOEQ0RiAYSxQUDAgMCgkIBgkLDg4IDQkMFgMGEAcDBhg7FRIUCSEQFREQEBEPDg0NERISCwQJBxAJDRgYHhgOCQIEBAoFAgsKDRAPDQ4RCw0QEBEQEREOEwwMDg4PCAgLCAkJBQoMDgoLCxUV",
+        "top": "BwEFDxMQEQQEBAQDAwYGAQgKDw0GBgUEBQYIAQMEBAEGBQoNAgUCAgIEBQkEAQMJBAQtLwoEAQQGBQQICAkLEA4JCQoEBwYHCgkBBwIGJDtIQCkGCAUMDA4FFgoQHxgLDQ4MDQ4NDg4LDAsbKSQcOzsKBwwKBw8hIwsWEhsRDw4QDxANDxAQEBATGhkPHx8tAgYKBxsiIyoQChQhCA0KCgkECQwJCwsQBRkNDBIdKRAGCwoeCjMdDg8bEg0IBQYCCwcCBQQEBgkSCQ8TTisLERAUHhcnBx8WCwkIBwULCAcEAgQBAgEBCAVLGDs0JjwFFSYhJxcXCwYJAQQEBQMCAgIDBQEBDTxbKRYaQStKPSoFJRsRFBMGAgECBBQFKh8IBgYOL2IKZiEhJEgvFx8gHjAPLSUKBA8QEwkXHioZCghBKCNjHjkFIh0LBQYsCy0hLjkjHjEQCQ8DKR8UEC4hNkwOPwsJEgsKCQ4lJBUsHxkXNxcxDgUGAhkZIhgyTCRPGAwTGxgEGB0WCRgQKRYdFhgZHRMPFgo0ESQOHj82GBgJCSYUBgwVBh0gDwoNFyEfGAYFFCYZKCVGIU0MLhIVFg8M",
+        "middle": "CQ4lJBUsHxkXNxcxDgUGAhkZIhgyTCRPGAwTGxgEGB0WCRgQKRYdFhgZHRMPFgo0ESQOHj82GBgJCSYUBgwVBh0gDwoNFyEfGAYFFCYZKCVGIU0MLhIVFg8MAQ8CBgQDCxMXFhcbIRgdNFEZY62GZk4hDxURCQcbJwgiISAgFhMJAQIIGjE5T2tmyl6QmEFBPDs9QEMoHA8aDQkXGw8IAwMJIjhJRQ8iP5V9Kw0LCg8LGz0zMBMhKSYlEQ8JBQYKI1k0I2M4Vy0hSzQ6QUE7QToSISsrJycpLjE6OTk7QENaSwwgKCBqSDAoJSQjKycxkI+RkJGSkJKWk5OVlaQ+MlUPBR9Kp52goKKgnJyYS0xNTk1NTk9OT09NT51iYwsyG01WWFRVV1hYWVlYAgMBAQICAgIBAQICBnlbRCckC0RUHAQEAwMEBAcJBgUEBAMDAgIDAQIDBEtUIRsaDEVqJQQBAgMFAwMIAgQEBAUFAwQHBwYFAkYvGzAgDElREQMBAgQEBAQEAwACBAMGCAcGBgYHByheHkEsCFhhIQsMDA0PDhANCQsLDQ8OCgkNDgwKCA08Yjg5IVRvGAYCAQEDAgQG",
+        "bottom": "BgUEBAMDAgIDAQIDBEtUIRsaDEVqJQQBAgMFAwMIAgQEBAUFAwQHBwYFAkYvGzAgDElREQMBAgQEBAQEAwACBAMGCAcGBgYHByheHkEsCFhhIQsMDA0PDhANCQsLDQ8OCgkNDgwKCA08Yjg5IVRvGAYCAQEDAgQGBgUFBAQEAgICAQIBAQIqawlPJlhcCQIDBAUHBwgICAYEBgYFAwIDBQQFBgRipFVBR2lLCAIDBAYGBQYJCwoICAgHBwgGBgUGCyLEVM48kYV1CQYFBgYEBggICwsLCAkJCgsLCQoJD0G7SLp3gJNyCgYFBAIECAcHDw4MCwgICAcICQoLEFSGgX6NVp5QDgkJBwgLCwkMERUWERAOCwgDBQUJCmFMjEOLN5QtDg0MDQ8REBARBwgNDQ8REhMQERIREGQcZBBjZGARBAcJDA0ODw8QCgQCCQ0KGyQgJC8pOEQ0RiAYSxQUDAgMCgkIBgkLDg4IDQkMFgMGEAcDBhg7FRIUCSEQFREQEBEPDg0NERISCwQJBxAJDRgYHhgOCQIEBAoFAgsKDRAPDQ4RCw0QEBEQEREOEwwMDg4PCAgLCAkJBQoMDgoLCxUV"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 31.403441,
+        "top": 17.867624,
+        "middle": 23.231799,
+        "bottom": 42.663779,
+        "effectiveRatio": 0.669194
+      },
+      "effectiveDetailRatio": 0.669194,
+      "effectiveSharpness": 3.236128642183163,
+      "entropy": 7.397102214308688,
+      "extendable": false,
+      "bytes": 1172365,
+      "sha256": "e34721cd4ac69c2caf68ec3c11a3878d42887b0ef1d2686c196fd5aff04d5498",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-30T16:08:55.586Z",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 1172365,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.2361286421832447,
+        "entropy": 7.397102214308688,
+        "effectiveDetailRatio": 0.669194,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "42e3fb677b191923",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BwEFDxMQEQQEBAQDAwYGAQgKDw0GBgUEBQYIAQMEBAEGBQoNAgUCAgIEBQkEAQMJBAQtLwoEAQQGBQQICAkLEA4JCQoEBwYHCgkBBwIGJDtIQCkGCAUMDA4FFgoQHxgLDQ4MDQ4NDg4LDAsbKSQcOzsKBwwKBw8hIwsWEhsRDw4QDxANDxAQEBATGhkPHx8tAgYKBxsiIyoQChQhCA0KCgkECQwJCwsQBRkNDBIdKRAGCwoeCjMdDg8bEg0IBQYCCwcCBQQEBgkSCQ8TTisLERAUHhcnBx8WCwkIBwULCAcEAgQBAgEBCAVLGDs0JjwFFSYhJxcXCwYJAQQEBQMCAgIDBQEBDTxbKRYaQStKPSoFJRsRFBMGAgECBBQFKh8IBgYOL2IKZiEhJEgvFx8gHjAPLSUKBA8QEwkXHioZCghBKCNjHjkFIh0LBQYsCy0hLjkjHjEQCQ8DKR8UEC4hNkwOPwsJEgsKCQ4lJBUsHxkXNxcxDgUGAhkZIhgyTCRPGAwTGxgEGB0WCRgQKRYdFhgZHRMPFgo0ESQOHj82GBgJCSYUBgwVBh0gDwoNFyEfGAYFFCYZKCVGIU0MLhIVFg8MAQ8CBgQDCxMXFhcbIRgdNFEZY62GZk4hDxURCQcbJwgiISAgFhMJAQIIGjE5T2tmyl6QmEFBPDs9QEMoHA8aDQkXGw8IAwMJIjhJRQ8iP5V9Kw0LCg8LGz0zMBMhKSYlEQ8JBQYKI1k0I2M4Vy0hSzQ6QUE7QToSISsrJycpLjE6OTk7QENaSwwgKCBqSDAoJSQjKycxkI+RkJGSkJKWk5OVlaQ+MlUPBR9Kp52goKKgnJyYS0xNTk1NTk9OT09NT51iYwsyG01WWFRVV1hYWVlYAgMBAQICAgIBAQICBnlbRCckC0RUHAQEAwMEBAcJBgUEBAMDAgIDAQIDBEtUIRsaDEVqJQQBAgMFAwMIAgQEBAUFAwQHBwYFAkYvGzAgDElREQMBAgQEBAQEAwACBAMGCAcGBgYHByheHkEsCFhhIQsMDA0PDhANCQsLDQ8OCgkNDgwKCA08Yjg5IVRvGAYCAQEDAgQGBgUFBAQEAgICAQIBAQIqawlPJlhcCQIDBAUHBwgICAYEBgYFAwIDBQQFBgRipFVBR2lLCAIDBAYGBQYJCwoICAgHBwgGBgUGCyLEVM48kYV1CQYFBgYEBggICwsLCAkJCgsLCQoJD0G7SLp3gJNyCgYFBAIECAcHDw4MCwgICAcICQoLEFSGgX6NVp5QDgkJBwgLCwkMERUWERAOCwgDBQUJCmFMjEOLN5QtDg0MDQ8REBARBwgNDQ8REhMQERIREGQcZBBjZGARBAcJDA0ODw8QCgQCCQ0KGyQgJC8pOEQ0RiAYSxQUDAgMCgkIBgkLDg4IDQkMFgMGEAcDBhg7FRIUCSEQFREQEBEPDg0NERISCwQJBxAJDRgYHhgOCQIEBAoFAgsKDRAPDQ4RCw0QEBEQEREOEwwMDg4PCAgLCAkJBQoMDgoLCxUV",
+          "top": "BwEFDxMQEQQEBAQDAwYGAQgKDw0GBgUEBQYIAQMEBAEGBQoNAgUCAgIEBQkEAQMJBAQtLwoEAQQGBQQICAkLEA4JCQoEBwYHCgkBBwIGJDtIQCkGCAUMDA4FFgoQHxgLDQ4MDQ4NDg4LDAsbKSQcOzsKBwwKBw8hIwsWEhsRDw4QDxANDxAQEBATGhkPHx8tAgYKBxsiIyoQChQhCA0KCgkECQwJCwsQBRkNDBIdKRAGCwoeCjMdDg8bEg0IBQYCCwcCBQQEBgkSCQ8TTisLERAUHhcnBx8WCwkIBwULCAcEAgQBAgEBCAVLGDs0JjwFFSYhJxcXCwYJAQQEBQMCAgIDBQEBDTxbKRYaQStKPSoFJRsRFBMGAgECBBQFKh8IBgYOL2IKZiEhJEgvFx8gHjAPLSUKBA8QEwkXHioZCghBKCNjHjkFIh0LBQYsCy0hLjkjHjEQCQ8DKR8UEC4hNkwOPwsJEgsKCQ4lJBUsHxkXNxcxDgUGAhkZIhgyTCRPGAwTGxgEGB0WCRgQKRYdFhgZHRMPFgo0ESQOHj82GBgJCSYUBgwVBh0gDwoNFyEfGAYFFCYZKCVGIU0MLhIVFg8M",
+          "middle": "CQ4lJBUsHxkXNxcxDgUGAhkZIhgyTCRPGAwTGxgEGB0WCRgQKRYdFhgZHRMPFgo0ESQOHj82GBgJCSYUBgwVBh0gDwoNFyEfGAYFFCYZKCVGIU0MLhIVFg8MAQ8CBgQDCxMXFhcbIRgdNFEZY62GZk4hDxURCQcbJwgiISAgFhMJAQIIGjE5T2tmyl6QmEFBPDs9QEMoHA8aDQkXGw8IAwMJIjhJRQ8iP5V9Kw0LCg8LGz0zMBMhKSYlEQ8JBQYKI1k0I2M4Vy0hSzQ6QUE7QToSISsrJycpLjE6OTk7QENaSwwgKCBqSDAoJSQjKycxkI+RkJGSkJKWk5OVlaQ+MlUPBR9Kp52goKKgnJyYS0xNTk1NTk9OT09NT51iYwsyG01WWFRVV1hYWVlYAgMBAQICAgIBAQICBnlbRCckC0RUHAQEAwMEBAcJBgUEBAMDAgIDAQIDBEtUIRsaDEVqJQQBAgMFAwMIAgQEBAUFAwQHBwYFAkYvGzAgDElREQMBAgQEBAQEAwACBAMGCAcGBgYHByheHkEsCFhhIQsMDA0PDhANCQsLDQ8OCgkNDgwKCA08Yjg5IVRvGAYCAQEDAgQG",
+          "bottom": "BgUEBAMDAgIDAQIDBEtUIRsaDEVqJQQBAgMFAwMIAgQEBAUFAwQHBwYFAkYvGzAgDElREQMBAgQEBAQEAwACBAMGCAcGBgYHByheHkEsCFhhIQsMDA0PDhANCQsLDQ8OCgkNDgwKCA08Yjg5IVRvGAYCAQEDAgQGBgUFBAQEAgICAQIBAQIqawlPJlhcCQIDBAUHBwgICAYEBgYFAwIDBQQFBgRipFVBR2lLCAIDBAYGBQYJCwoICAgHBwgGBgUGCyLEVM48kYV1CQYFBgYEBggICwsLCAkJCgsLCQoJD0G7SLp3gJNyCgYFBAIECAcHDw4MCwgICAcICQoLEFSGgX6NVp5QDgkJBwgLCwkMERUWERAOCwgDBQUJCmFMjEOLN5QtDg0MDQ8REBARBwgNDQ8REhMQERIREGQcZBBjZGARBAcJDA0ODw8QCgQCCQ0KGyQgJC8pOEQ0RiAYSxQUDAgMCgkIBgkLDg4IDQkMFgMGEAcDBhg7FRIUCSEQFREQEBEPDg0NERISCwQJBxAJDRgYHhgOCQIEBAoFAgsKDRAPDQ4RCw0QEBEQEREOEwwMDg4PCAgLCAkJBQoMDgoLCxUV"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.403441,
+          "top": 17.867624,
+          "middle": 23.231799,
+          "bottom": 42.663779,
+          "effectiveRatio": 0.669194
+        },
+        "extendable": false,
+        "sha256": "e34721cd4ac69c2caf68ec3c11a3878d42887b0ef1d2686c196fd5aff04d5498"
+      },
+      "coverScale": 0.5625,
       "commonsMetadata": {
         "DateTime": {
-          "value": "2019-04-21 20:46:53",
+          "value": "2024-09-26 19:38:08",
           "source": "mediawiki-metadata",
           "hidden": ""
         },
         "ObjectName": {
-          "value": "Ronald Acuña Jr. during batting practice at Coors Field - 1",
+          "value": "Ozzie Albies playing catch before Braves-Mariners game",
           "source": "mediawiki-metadata"
         },
         "CommonsMetadataExtension": {
@@ -627,7 +696,7 @@
           "hidden": ""
         },
         "Categories": {
-          "value": "Ronald Acuña Jr.|Self-published work|Files with coordinates missing SDC location of creation",
+          "value": "Ozzie Albies|Self-published work|2024 Atlanta Braves season",
           "source": "commons-categories",
           "hidden": ""
         },
@@ -636,25 +705,12 @@
           "source": "commons-categories",
           "hidden": ""
         },
-        "GPSLatitude": {
-          "value": "39.756528",
-          "source": "commons-desc-page"
-        },
-        "GPSLongitude": {
-          "value": "-104.994257",
-          "source": "commons-desc-page"
-        },
-        "GPSMapDatum": {
-          "value": "WGS-84",
-          "source": "commons-desc-page",
-          "hidden": ""
-        },
         "ImageDescription": {
-          "value": "This photo was taken at Coors Field during on-field batting practice, shortly before a game against the Rockies",
+          "value": "Atlanta Braves second baseman Ozzie Albies playing catch before a road game against the Seattle Mariners, May 1, 2024",
           "source": "commons-desc-page"
         },
         "DateTimeOriginal": {
-          "value": "2019-04-09 17:10:47",
+          "value": "2024-05-01 14:39:56",
           "source": "commons-desc-page"
         },
         "Credit": {
@@ -662,7 +718,7 @@
           "source": "commons-desc-page"
         },
         "Artist": {
-          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KamenG&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KamenG (page does not exist)\">Kamen Guentchev</a>",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jsayre64\" title=\"User:Jsayre64\">Jsayre64</a>",
           "source": "commons-desc-page"
         },
         "LicenseShortName": {
@@ -699,121 +755,29 @@
           "hidden": ""
         }
       },
-      "declaredWidth": 1767,
-      "declaredHeight": 2048,
-      "declaredSize": 758191,
-      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-31-midnight-catchup\\research-packages\\braves-options\\commons\\photos\\acuna-bp.jpg",
-      "width": 1767,
-      "height": 2048,
-      "rawWidth": 1767,
-      "rawHeight": 2048,
-      "orientation": 1,
-      "pages": 1,
-      "format": "jpeg",
-      "mimeType": "image/jpeg",
-      "perceptualHash": "997173c9f1b0e045",
-      "edgeFingerprint": {
-        "version": "edge-v2",
-        "full": "EwUKICYgDxMpHhsdEgQ8LSoXERwfNzUtNh4oGhMQHxgXEQIcIBwTGh8sJxkrCBMWGh0QETIrHRENHAoCERAHCA4DDRQRHxYPFwYkCRgSEAYJCRshHg4YBwYIIAQNCQUEBgwBGA0MDBIqChAEDBIJGSUPDgQIAwUHGiIRBQgGCxUaJh8ODgwQEB4KDQoaFiIFBgQJBAQLEwYcGQ8hFxAHEBEVEhMTCBEJAwQUESEIBggLEwoWDRUWCg4KGiUQGx4LCgkfCwwGBQgWGSQHBw0yIhwsBAwWGw0eDwo6FhwSCiYUFA0EAgUWFx0oFikWFxgbExxaRjQ1PTEnKxAxLSMWGRMMBR0bFTATEQ41Ky0qJVx9cHV7joYvInNwViYeFhgTKR0qP05QDSkfPSMfJZJcGyUnOI5IUodAikQMFQ0SMAwmSyZTFCQOITQlHHWbgH6CjLA2hiKHEFM1DAkUNR4lTzRNHDEzEzMVFxdaW114fFAjXyQvNSk6DgsJHzMiN3JbLS1BCzodOS8nHicUGxUeSh5DDyktAhUKBhARCSEEFxlBE0McJCwuICA5JAovT1EUJT0jCwsGCAEIHjUnIy0oFCAqKSgiLSo/KAkPKzUsExAOCAoJDQkFLx0NDxMMBBcYHBMRDExoPgoHDxkmMTAdGCIeHBYQGhYGDggBBQYMDRIgIiiNUgwECTQ7Cy0hGTQpICIVKzkqKCAcFhkUFBU2Gg2OXgoAABArKhcSOiMQCx4aPjsmKC41N0FKKhcRGzR7WAwEBx48FhkWFS0WDhccQj4GFBMaJjNOGiEzNShOeH5QKWEzDBsSEBILCBkbPzUQHB4hJSkuIC5THggVdm6MKjsYECQNEhAKCBcaOjQYGBwhJC42MCwgGQwmMA9XKTYUEhsIEAwLBRgZKxwEEAQEAQwFEhQMFAodKgdLZBQSExoJCwsQCysjQT0VCgcIChELGBwRGBAUMBATRjQbDh8JDxAWGisWOTwlBA0MAgkGGAcEDCETIA4MMTsRCBcHEhccKRArHiM0DzInCTZcJRQVGEVFMw8KOCoLFCURExYfJR0IMFFFY0lHMGd6MRorSU1dUiAkSB0GHjENHxwqIhwOXERcFFNrNJg9BRQDCkg5FQY3PRYXKyMdMiUSFB8kIhwOiShdMY5FHBwVHBwZEhEuQCcRGDpVPkh2c3ydfH+KeDyNnmosNzxERkJCIwsgTnCAlaCpgYaPhHtpV0cvGhA3azEXKCoxLSw7NSAYMXmDcFpKQSoYEgwLCQ4MCQsHCgQMDw4OCAcZSDIcF1QfCggMBwwDAAEJBwkJAAIDCgEKERMPDg8eWUUWMC06HgYJBgoDAgIIBgkIAQEDCgMKDgUMCQwQL2dcUU4jEwQJBwsCAQEJCQoHAwQHEgwOCgURCwgKEh4dEgwCAQ4TCw0ICAkXExENCwwRGg4RFggPCAgHERkLEAcFBhINDwwDAgkTAhMFAwINDRAQDQ8TBQcFDQ0UEQcHCRANFwoHCA0QExIJCgwPEhgO",
-        "top": "EwUKICYgDxMpHhsdEgQ8LSoXERwfNzUtNh4oGhMQHxgXEQIcIBwTGh8sJxkrCBMWGh0QETIrHRENHAoCERAHCA4DDRQRHxYPFwYkCRgSEAYJCRshHg4YBwYIIAQNCQUEBgwBGA0MDBIqChAEDBIJGSUPDgQIAwUHGiIRBQgGCxUaJh8ODgwQEB4KDQoaFiIFBgQJBAQLEwYcGQ8hFxAHEBEVEhMTCBEJAwQUESEIBggLEwoWDRUWCg4KGiUQGx4LCgkfCwwGBQgWGSQHBw0yIhwsBAwWGw0eDwo6FhwSCiYUFA0EAgUWFx0oFikWFxgbExxaRjQ1PTEnKxAxLSMWGRMMBR0bFTATEQ41Ky0qJVx9cHV7joYvInNwViYeFhgTKR0qP05QDSkfPSMfJZJcGyUnOI5IUodAikQMFQ0SMAwmSyZTFCQOITQlHHWbgH6CjLA2hiKHEFM1DAkUNR4lTzRNHDEzEzMVFxdaW114fFAjXyQvNSk6DgsJHzMiN3JbLS1BCzodOS8nHicUGxUeSh5DDyktAhUKBhARCSEEFxlBE0McJCwuICA5JAovT1EUJT0jCwsGCAEIHjUnIy0oFCAq",
-        "middle": "FxdaW114fFAjXyQvNSk6DgsJHzMiN3JbLS1BCzodOS8nHicUGxUeSh5DDyktAhUKBhARCSEEFxlBE0McJCwuICA5JAovT1EUJT0jCwsGCAEIHjUnIy0oFCAqKSgiLSo/KAkPKzUsExAOCAoJDQkFLx0NDxMMBBcYHBMRDExoPgoHDxkmMTAdGCIeHBYQGhYGDggBBQYMDRIgIiiNUgwECTQ7Cy0hGTQpICIVKzkqKCAcFhkUFBU2Gg2OXgoAABArKhcSOiMQCx4aPjsmKC41N0FKKhcRGzR7WAwEBx48FhkWFS0WDhccQj4GFBMaJjNOGiEzNShOeH5QKWEzDBsSEBILCBkbPzUQHB4hJSkuIC5THggVdm6MKjsYECQNEhAKCBcaOjQYGBwhJC42MCwgGQwmMA9XKTYUEhsIEAwLBRgZKxwEEAQEAQwFEhQMFAodKgdLZBQSExoJCwsQCysjQT0VCgcIChELGBwRGBAUMBATRjQbDh8JDxAWGisWOTwlBA0MAgkGGAcEDCETIA4MMTsRCBcHEhccKRArHiM0DzInCTZcJRQVGEVFMw8KOCoLFCURExYfJR0IMFFFY0lHMGd6",
-        "bottom": "EhQMFAodKgdLZBQSExoJCwsQCysjQT0VCgcIChELGBwRGBAUMBATRjQbDh8JDxAWGisWOTwlBA0MAgkGGAcEDCETIA4MMTsRCBcHEhccKRArHiM0DzInCTZcJRQVGEVFMw8KOCoLFCURExYfJR0IMFFFY0lHMGd6MRorSU1dUiAkSB0GHjENHxwqIhwOXERcFFNrNJg9BRQDCkg5FQY3PRYXKyMdMiUSFB8kIhwOiShdMY5FHBwVHBwZEhEuQCcRGDpVPkh2c3ydfH+KeDyNnmosNzxERkJCIwsgTnCAlaCpgYaPhHtpV0cvGhA3azEXKCoxLSw7NSAYMXmDcFpKQSoYEgwLCQ4MCQsHCgQMDw4OCAcZSDIcF1QfCggMBwwDAAEJBwkJAAIDCgEKERMPDg8eWUUWMC06HgYJBgoDAgIIBgkIAQEDCgMKDgUMCQwQL2dcUU4jEwQJBwsCAQEJCQoHAwQHEgwOCgURCwgKEh4dEgwCAQ4TCw0ICAkXExENCwwRGg4RFggPCAgHERkLEAcFBhINDwwDAgkTAhMFAwINDRAQDQ8TBQcFDQ0UEQcHCRANFwoHCA0QExIJCgwPEhgO"
-      },
-      "detailFingerprint": {
-        "version": "detail-v1",
-        "full": 68.100203,
-        "top": 88.564502,
-        "middle": 71.495946,
-        "bottom": 30.890761,
-        "effectiveRatio": 0.619556
-      },
-      "effectiveDetailRatio": 0.619556,
-      "effectiveSharpness": 4.278338258677614,
-      "entropy": 7.516489567467943,
-      "extendable": false,
-      "bytes": 758191,
-      "sha256": "3423bda1c451abf5826514f9e6f897bdc09c9b3355ea5111cf47ff0b28949d86",
-      "quality": {
-        "status": "approved",
-        "code": "IMAGE_QUALITY_APPROVED",
-        "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-10-30T15:48:47.311Z",
-        "width": 1767,
-        "height": 2048,
-        "bytes": 758191,
-        "format": "jpeg",
-        "mimeType": "image/jpeg",
-        "effectiveSharpness": 4.278338258677724,
-        "entropy": 7.516489567467943,
-        "effectiveDetailRatio": 0.619556,
-        "kind": "source",
-        "coverScale": 0.659,
-        "targetWidth": 1080,
-        "targetHeight": 1350,
-        "rawWidth": 1767,
-        "rawHeight": 2048,
-        "orientation": 1,
-        "pages": 1,
-        "perceptualHash": "997173c9f1b0e045",
-        "edgeFingerprint": {
-          "version": "edge-v2",
-          "full": "EwUKICYgDxMpHhsdEgQ8LSoXERwfNzUtNh4oGhMQHxgXEQIcIBwTGh8sJxkrCBMWGh0QETIrHRENHAoCERAHCA4DDRQRHxYPFwYkCRgSEAYJCRshHg4YBwYIIAQNCQUEBgwBGA0MDBIqChAEDBIJGSUPDgQIAwUHGiIRBQgGCxUaJh8ODgwQEB4KDQoaFiIFBgQJBAQLEwYcGQ8hFxAHEBEVEhMTCBEJAwQUESEIBggLEwoWDRUWCg4KGiUQGx4LCgkfCwwGBQgWGSQHBw0yIhwsBAwWGw0eDwo6FhwSCiYUFA0EAgUWFx0oFikWFxgbExxaRjQ1PTEnKxAxLSMWGRMMBR0bFTATEQ41Ky0qJVx9cHV7joYvInNwViYeFhgTKR0qP05QDSkfPSMfJZJcGyUnOI5IUodAikQMFQ0SMAwmSyZTFCQOITQlHHWbgH6CjLA2hiKHEFM1DAkUNR4lTzRNHDEzEzMVFxdaW114fFAjXyQvNSk6DgsJHzMiN3JbLS1BCzodOS8nHicUGxUeSh5DDyktAhUKBhARCSEEFxlBE0McJCwuICA5JAovT1EUJT0jCwsGCAEIHjUnIy0oFCAqKSgiLSo/KAkPKzUsExAOCAoJDQkFLx0NDxMMBBcYHBMRDExoPgoHDxkmMTAdGCIeHBYQGhYGDggBBQYMDRIgIiiNUgwECTQ7Cy0hGTQpICIVKzkqKCAcFhkUFBU2Gg2OXgoAABArKhcSOiMQCx4aPjsmKC41N0FKKhcRGzR7WAwEBx48FhkWFS0WDhccQj4GFBMaJjNOGiEzNShOeH5QKWEzDBsSEBILCBkbPzUQHB4hJSkuIC5THggVdm6MKjsYECQNEhAKCBcaOjQYGBwhJC42MCwgGQwmMA9XKTYUEhsIEAwLBRgZKxwEEAQEAQwFEhQMFAodKgdLZBQSExoJCwsQCysjQT0VCgcIChELGBwRGBAUMBATRjQbDh8JDxAWGisWOTwlBA0MAgkGGAcEDCETIA4MMTsRCBcHEhccKRArHiM0DzInCTZcJRQVGEVFMw8KOCoLFCURExYfJR0IMFFFY0lHMGd6MRorSU1dUiAkSB0GHjENHxwqIhwOXERcFFNrNJg9BRQDCkg5FQY3PRYXKyMdMiUSFB8kIhwOiShdMY5FHBwVHBwZEhEuQCcRGDpVPkh2c3ydfH+KeDyNnmosNzxERkJCIwsgTnCAlaCpgYaPhHtpV0cvGhA3azEXKCoxLSw7NSAYMXmDcFpKQSoYEgwLCQ4MCQsHCgQMDw4OCAcZSDIcF1QfCggMBwwDAAEJBwkJAAIDCgEKERMPDg8eWUUWMC06HgYJBgoDAgIIBgkIAQEDCgMKDgUMCQwQL2dcUU4jEwQJBwsCAQEJCQoHAwQHEgwOCgURCwgKEh4dEgwCAQ4TCw0ICAkXExENCwwRGg4RFggPCAgHERkLEAcFBhINDwwDAgkTAhMFAwINDRAQDQ8TBQcFDQ0UEQcHCRANFwoHCA0QExIJCgwPEhgO",
-          "top": "EwUKICYgDxMpHhsdEgQ8LSoXERwfNzUtNh4oGhMQHxgXEQIcIBwTGh8sJxkrCBMWGh0QETIrHRENHAoCERAHCA4DDRQRHxYPFwYkCRgSEAYJCRshHg4YBwYIIAQNCQUEBgwBGA0MDBIqChAEDBIJGSUPDgQIAwUHGiIRBQgGCxUaJh8ODgwQEB4KDQoaFiIFBgQJBAQLEwYcGQ8hFxAHEBEVEhMTCBEJAwQUESEIBggLEwoWDRUWCg4KGiUQGx4LCgkfCwwGBQgWGSQHBw0yIhwsBAwWGw0eDwo6FhwSCiYUFA0EAgUWFx0oFikWFxgbExxaRjQ1PTEnKxAxLSMWGRMMBR0bFTATEQ41Ky0qJVx9cHV7joYvInNwViYeFhgTKR0qP05QDSkfPSMfJZJcGyUnOI5IUodAikQMFQ0SMAwmSyZTFCQOITQlHHWbgH6CjLA2hiKHEFM1DAkUNR4lTzRNHDEzEzMVFxdaW114fFAjXyQvNSk6DgsJHzMiN3JbLS1BCzodOS8nHicUGxUeSh5DDyktAhUKBhARCSEEFxlBE0McJCwuICA5JAovT1EUJT0jCwsGCAEIHjUnIy0oFCAq",
-          "middle": "FxdaW114fFAjXyQvNSk6DgsJHzMiN3JbLS1BCzodOS8nHicUGxUeSh5DDyktAhUKBhARCSEEFxlBE0McJCwuICA5JAovT1EUJT0jCwsGCAEIHjUnIy0oFCAqKSgiLSo/KAkPKzUsExAOCAoJDQkFLx0NDxMMBBcYHBMRDExoPgoHDxkmMTAdGCIeHBYQGhYGDggBBQYMDRIgIiiNUgwECTQ7Cy0hGTQpICIVKzkqKCAcFhkUFBU2Gg2OXgoAABArKhcSOiMQCx4aPjsmKC41N0FKKhcRGzR7WAwEBx48FhkWFS0WDhccQj4GFBMaJjNOGiEzNShOeH5QKWEzDBsSEBILCBkbPzUQHB4hJSkuIC5THggVdm6MKjsYECQNEhAKCBcaOjQYGBwhJC42MCwgGQwmMA9XKTYUEhsIEAwLBRgZKxwEEAQEAQwFEhQMFAodKgdLZBQSExoJCwsQCysjQT0VCgcIChELGBwRGBAUMBATRjQbDh8JDxAWGisWOTwlBA0MAgkGGAcEDCETIA4MMTsRCBcHEhccKRArHiM0DzInCTZcJRQVGEVFMw8KOCoLFCURExYfJR0IMFFFY0lHMGd6",
-          "bottom": "EhQMFAodKgdLZBQSExoJCwsQCysjQT0VCgcIChELGBwRGBAUMBATRjQbDh8JDxAWGisWOTwlBA0MAgkGGAcEDCETIA4MMTsRCBcHEhccKRArHiM0DzInCTZcJRQVGEVFMw8KOCoLFCURExYfJR0IMFFFY0lHMGd6MRorSU1dUiAkSB0GHjENHxwqIhwOXERcFFNrNJg9BRQDCkg5FQY3PRYXKyMdMiUSFB8kIhwOiShdMY5FHBwVHBwZEhEuQCcRGDpVPkh2c3ydfH+KeDyNnmosNzxERkJCIwsgTnCAlaCpgYaPhHtpV0cvGhA3azEXKCoxLSw7NSAYMXmDcFpKQSoYEgwLCQ4MCQsHCgQMDw4OCAcZSDIcF1QfCggMBwwDAAEJBwkJAAIDCgEKERMPDg8eWUUWMC06HgYJBgoDAgIIBgkIAQEDCgMKDgUMCQwQL2dcUU4jEwQJBwsCAQEJCQoHAwQHEgwOCgURCwgKEh4dEgwCAQ4TCw0ICAkXExENCwwRGg4RFggPCAgHERkLEAcFBhINDwwDAgkTAhMFAwINDRAQDQ8TBQcFDQ0UEQcHCRANFwoHCA0QExIJCgwPEhgO"
-        },
-        "detailFingerprint": {
-          "version": "detail-v1",
-          "full": 68.100203,
-          "top": 88.564502,
-          "middle": 71.495946,
-          "bottom": 30.890761,
-          "effectiveRatio": 0.619556
-        },
-        "extendable": false,
-        "sha256": "3423bda1c451abf5826514f9e6f897bdc09c9b3355ea5111cf47ff0b28949d86"
-      },
-      "coverScale": 0.6591796875,
-      "index": 3,
-      "strict": true,
-      "scale": 0.6591796875,
-      "sourceSha256": "3423bda1c451abf5826514f9e6f897bdc09c9b3355ea5111cf47ff0b28949d86",
-      "photoDate": "2019-04-09",
-      "imageCredit": "Kamen Guentchev · CC BY-SA 4.0 · 19.04.09 자료·편집",
-      "sourceLabel": "MLB · commons.wikimedia.org/?curid=78238072",
-      "sceneGroup": "braves-acuna-bp-2019-04-09",
-      "description": "아쿠냐가 남색 Atlanta 훈련복과 배트를 들고 타격 케이지 앞에 선 장면. 2019년 4월 9일 쿠어스필드 자료사진. 배경 인물 이름은 확인되지 않았으며 식별을 주장하지 않는다.",
-      "people": [
-        "로날드 아쿠냐 주니어"
-      ],
-      "currentTeam": "애틀랜타 브레이브스",
-      "relatedTeams": [
-        "애틀랜타 브레이브스"
-      ],
-      "rightsStatus": "approved",
-      "rightsEvidence": "선택 사진 다섯 장의 Wikimedia Commons 개별 파일 메타데이터·저자·라이선스·촬영일을 각각 확인했다. 미국 언론사 사진 사용권을 사용자 국내/일본 계약에 확대하지 않는다. 실제 공개 카드에도 각 저자, 정확 라이선스, Commons 파일 curid URL, 자료 촬영일, 편집 사실을 표시한다. BY-SA 사진의 해당 편집 카드는 원래 사진과 같은 BY-SA 라이선스로 배포한다. 사진은 실제 애틀랜타 복장 자료이며 2026년 옵션 발표 현장으로 가장하지 않는다. Exact approved downloaded bytes are mirrored at an immutable Git commit for source availability; original Commons source, author and individual licence remain in originalSourceUrl/sourcePageUrl and public licenses.json.",
-      "author": "Kamen Guentchev",
+      "pageid": 153204471,
+      "title": "File:Ozzie Albies playing catch before Braves-Mariners game.jpg",
+      "nativeWidth": 3456,
+      "nativeHeight": 4608,
+      "author": "Jsayre64",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "publicAttributionSource": "https://commons.wikimedia.org/?curid=78238072",
+      "photoDate": "2024-05-01",
+      "publicAttributionSource": "https://commons.wikimedia.org/?curid=153204471",
       "derivativeLicense": "CC BY-SA 4.0",
-      "transformations": [
-        "center cover crop if renderer uses it",
-        "text overlay",
-        "existing standard newsroom gradients"
-      ],
-      "visuallyReviewed": true,
+      "sourceLabel": "https://commons.wikimedia.org/?curid=153204471 https://creativecommons.org/licenses/by-sa/4.0",
+      "imageCredit": "Jsayre64 · 알비스 · 2024-05-01 자료 · 편집 · 카드 CC BY-SA 4.0",
+      "description": "알비스가 현재Atlanta회색유니폼으로캐치볼하는2024-05-01실제자료사진. 아쿠냐사진으로표현하지않으며사진인물을카드footer에명시. 배경군중의이름을추정하지않는다.",
+      "sceneGroup": "albies-catch-2024-05-01",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Commonscurid153204471 실제imageinfo의Jsayre64/2024-05-01/CC BY-SA4.0/원파일URL및라이선스URL을확인하고공식1920표준다운스케일바이트를root직접뷰했다. 카드에저자·자료일·사진인물알비스·편집·원문과라이선스URL·편집카드동일CC BY-SA4.0을표시한다. 국내매체계약으로확대추정하지않는다.",
       "currentTeamUniformVerified": true,
-      "visualReview": {
-        "sourceOriginalIndividuallyViewed": true,
-        "currentAtlantaUniformOrTrainingAttire": true,
-        "archiveContextLabel": true,
-        "sceneDistinctFromOtherSelected": true,
-        "notClaimedAsOptionAnnouncementScene": true,
-        "finalRendererCropAndCoverHistoryReview": "pending_root"
-      },
-      "fit": "cover",
-      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ronald_Acu%C3%B1a_Jr._during_batting_practice_at_Coors_Field_-_1.jpg"
+      "visuallyReviewed": true,
+      "people": [
+        "오지 알비스"
+      ],
+      "currentTeam": "애틀랜타 브레이브스",
+      "fit": "cover"
     },
     {
       "name": "acuna-portrait-standard",
