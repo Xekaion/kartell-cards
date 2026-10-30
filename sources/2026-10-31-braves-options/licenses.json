@@ -1,0 +1,70 @@
+{
+  "purpose": "Availability mirror of five individually licensed Commons photographs. Original source and licence retained; exact bytes, no generation or enhancement.",
+  "photos": [
+    {
+      "file": "photo-1.jpg",
+      "sha256": "06644473d662a3dd3a11fceecd3f4db976c147fc9446ea4281a7419b44a2582a",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/OzzieAlbies.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:OzzieAlbies.jpg",
+      "author": "Reunion",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "photoDate": "2026-06-23",
+      "description": "알비스가 남색 Atlanta 유니폼을 입고 공을 던질 준비를 하는 근접 장면. 2026년 6월 23일 자료사진.",
+      "modifications": "none; exact downloaded bytes",
+      "cardModifications": "crop, gradient and text overlay; SA cards retain the indicated source licence"
+    },
+    {
+      "file": "photo-2.jpg",
+      "sha256": "93aee9d420e0f6d541dfbe8efa3163b8f321672c94a67f67cf0eaf0f78d56a8f",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ronald_Acu%C3%B1a_Jr._batting%2C_August_6%2C_2022_-_01-00002.jpg/3840px-Ronald_Acu%C3%B1a_Jr._batting%2C_August_6%2C_2022_-_01-00002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ronald_Acu%C3%B1a_Jr._batting,_August_6,_2022_-_01-00002.jpg",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "photoDate": "2022-08-06",
+      "description": "아쿠냐가 회색 Atlanta 원정 유니폼과 노란 보호대를 착용한 타격 장면. 왼쪽에 메츠 포수 토마스 니도가 보이는 2022년 8월 6일 자료사진.",
+      "modifications": "none; exact downloaded bytes",
+      "cardModifications": "crop, gradient and text overlay; SA cards retain the indicated source licence"
+    },
+    {
+      "file": "photo-3.jpg",
+      "sha256": "7b9af7163c5bf839dcd9f8e6bf2cccb3ddbb5d1f6706d64c8fbb3089374a4167",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ozzie_Albies_%2847516512331%29_%28cropped%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ozzie_Albies_(47516512331)_(cropped).jpg",
+      "author": "Ian D’Andrea",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "photoDate": "2019-03-31",
+      "description": "알비스가 회색 Atlanta 원정 유니폼과 글러브를 착용해 이동하는 장면. 2019년 3월 31일 자료사진.",
+      "modifications": "none; exact downloaded bytes",
+      "cardModifications": "crop, gradient and text overlay; SA cards retain the indicated source licence"
+    },
+    {
+      "file": "photo-4.jpg",
+      "sha256": "3423bda1c451abf5826514f9e6f897bdc09c9b3355ea5111cf47ff0b28949d86",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ronald_Acu%C3%B1a_Jr._during_batting_practice_at_Coors_Field_-_1.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ronald_Acu%C3%B1a_Jr._during_batting_practice_at_Coors_Field_-_1.jpg",
+      "author": "Kamen Guentchev",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "photoDate": "2019-04-09",
+      "description": "아쿠냐가 남색 Atlanta 훈련복과 배트를 들고 타격 케이지 앞에 선 장면. 2019년 4월 9일 쿠어스필드 자료사진. 배경 인물 이름은 확인되지 않았으며 식별을 주장하지 않는다.",
+      "modifications": "none; exact downloaded bytes",
+      "cardModifications": "crop, gradient and text overlay; SA cards retain the indicated source licence"
+    },
+    {
+      "file": "photo-5.jpg",
+      "sha256": "89db2f9e4b2d55492d123c857c37b9b5407df631e04c888841b9e0f3e2342be6",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ronald_Acuna_Jr._%2848396603396%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ronald_Acuna_Jr._(48396603396).jpg",
+      "author": "Ian D’Andrea",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "photoDate": "2019-07-27",
+      "description": "아쿠냐가 회색 Atlanta 유니폼과 글러브를 착용해 외야에서 이동하는 장면. 2019년 7월 27일 자료사진.",
+      "modifications": "none; exact downloaded bytes",
+      "cardModifications": "crop, gradient and text overlay; SA cards retain the indicated source licence"
+    }
+  ]
+}
