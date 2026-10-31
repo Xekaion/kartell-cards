@@ -1,0 +1,775 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "비셋, 4,200만 달러 옵션 행사…메츠 잔류",
+  "issueKey": "mlb-20261030-bo-bichette-2027-player-option-exercised",
+  "checkedAt": "2026-10-31T15:31:13.309Z",
+  "sourceUrl": "https://www.mlb.com/news/bo-bichette-player-option-mets",
+  "corroboratingUrls": [
+    "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
+    "https://statsapi.mlb.com/api/v1/people/666182?hydrate=currentTeam,stats(group=[hitting],type=[yearByYear])"
+  ],
+  "rightsEvidence": "사진별 Commons 원저작자와 CC0/CC BY4.0/CC BY-SA4.0를 적용한다. 국내·일본매체 계약을 미국 독자 사진권리로 확장하지 않는다. 저자·자료사진날짜·원문·라이선스링크·크롭/글자추가를 카드에 고지하고 BY-SA 해당카드에 동일조건을 유지한다.",
+  "photos": [
+    {
+      "id": "commons-191965569",
+      "pageid": 191965569,
+      "title": "File:Bo Bichette, May 13, 2026 (002) (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bo_Bichette%2C_May_13%2C_2026_%28002%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bo_Bichette%2C_May_13%2C_2026_%28002%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bo_Bichette,_May_13,_2026_(002)_(cropped).jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bo_Bichette%2C_May_13%2C_2026_%28002%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1589,
+      "originalHeight": 2117,
+      "apiThumbWidth": 1920,
+      "apiThumbHeight": 2558,
+      "author": "D. Benjamin Miller",
+      "photoDate": "2026-05-13",
+      "description": "비셋의 메츠 홈 유니폼 상반신 자료사진.2026년5월13일 디트로이트전,옵션 발표 현장이 아니다.",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2026-05-14 18:26:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bo Bichette, May 13, 2026 (002) (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Extracted images|Photographs by D. Benjamin Miller|Taken with Canon EOS R5 Mark II and Canon RF 100-500mm F4.5-7.1L IS USM|New York Mets vs. Detroit Tigers (May 13, 2026)|Bo Bichette during the 2026 New York Mets season|Bo Bichette in New York (state)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Bo Bichette",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-05-13 19:19:15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi>D. Benjamin Miller</bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "subject": "뉴욕 메츠 선수 자료사진",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\bichette-option\\selected\\photo-1.jpg",
+      "sha256": "6a8ecae006cccc14d1516291f8ad7e10203dcc745f841fc23bc6d0da09b6bd08",
+      "width": 1589,
+      "height": 2117,
+      "bytes": 4555514,
+      "strictNativeCoverScale": 0.6796727501573316,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:30:37.651Z",
+        "width": 1589,
+        "height": 2117,
+        "bytes": 4555514,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.6629468040370092,
+        "entropy": 7.3928913556810585,
+        "effectiveDetailRatio": 0.555658,
+        "kind": "source",
+        "coverScale": 0.68,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1589,
+        "rawHeight": 2117,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "63b34693131b9736",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "e0cnSX1HII6MGhUVEBwTIRkkCGOkhycrgmsWBAEBfEg5cWCaLj+fWwwcITMzFCAbPxQ7nHUHW3goBAIBfUk3iSKdfQ5rjkMOCQ8zIQY8Yj0DSYMsWXgoBAEBiT4xjWtAiFFBoVQECRQVJR5pJplIfIgRhmcUAwABPjw6RGsrZ09irzoZECIzMjhucDZudh5/lSoDAAEBeImLd1IjYIOaZG04HTcRHz5xZ25BQ4mdPgUCAQABTklQVT0kSVRqP2JrkG2SkJw1S0xrb2MyBgcAAAEABwQHBAEBAgYuZyYcRJZbG11rSAMNEQgGBQYBAQAACAQHBAEBAQEIO1VeeCVTM1NyUgcFBAgJBgYBAQEACAMIBAEAAQEBBx8oiaI2LmBmEQkIAggHBgUBAAEBBwMHBAACAQEACA9MJHiWR1UNcHYqCgsJBQYBAQEBCAQIBAIBAQEDBRFSlUU6XgeRzMHZgjACBAYBAAEBDAcLCAcGCAgIG4KHbppiV6vvXyaC2OJ2BwYAAAABPTc7Pj4+QCtP0cprO1OnzbpAExAUKor/fAsCAAAAFxUbGBgbG1XlpjBfanmPWhoLAwkBChZ6+kYJAgAAPjg9QT9DUMFpIgkJVEcMDAEEBAQBBggTwL0TBAEAHBkdHhwqnqYiDR0IBwI1SQwGAgEHBwQTS+pbCAIACQQIBwk2vWIMCBwHCj54RFMMAwkRDQkJEbesEAMBCQMJBQlGulw1TB8oLXEWM1EfCg4KCQoKEmjhQAkDCAQIBQlMry9tNEFveEMaTF5CFRQECwkNEyLQjgkCCQQIBglLmTVGWUahUXNdXH5SHCEQBhIgL0eEwicGCQQJBwtVhUg7Np82HCYVZqFDIhkmHBA9cFFTjFUJCAUIBAiBZF4hel9vcJ55eT0ZDw8dLhFjLRYXbZUXCQUKARWdU35ufZmOTkgWKBphXx0VMhhPfF1YSchcEgkNDy2qT0SFkxUjCB1tdGuXp4E1ExshGjdOfbt3NSosNTzMyyYcCAQLBWCPRSU2KMduChqhoEgysMA5Li0wMShj/8FRHwkJBTagHUJRNn+CCXSATFB1slksLSspLCwvTsOFJxIEAxODIxFIFnV+DWZXRxlgwFEja2xtbWxhxcUqDgwJBwmCYTWXcbkkDBxlCCEmm4tiUVFSUVFQnE8IEwUGAQglfjxajzsUFhIuEBkTTmRbIB8eHh8uXywIDAUFBgwDHwkaEQwJGC06OT86LCYjBAIBAgQkTCMNDQUGCQwGBhARBw0TFkiBTzdGJwYJAAEBAQUpTCUNDAsHDQoNBgsEDAoPJUOTKg8RHg4MAAICAgQvQxoYHkxNPiIcHBASERIIP4JoJgsSGQYDBQQFBQg3QAEIMUipj3VdTBQKCRY5k0oZCAUXGwQEDAwMDBFKPgAhPrhMRmx/g1AkChSXRnBHFwceGAQDCgoICBpeLgMoDGfUp2Q3clYkJg82pnN5PRIaEAYCAwIEBitgHhAhBgdDeKOsdDRPMRkvMlCKKhoWBQEE",
+          "top": "e0cnSX1HII6MGhUVEBwTIRkkCGOkhycrgmsWBAEBfEg5cWCaLj+fWwwcITMzFCAbPxQ7nHUHW3goBAIBfUk3iSKdfQ5rjkMOCQ8zIQY8Yj0DSYMsWXgoBAEBiT4xjWtAiFFBoVQECRQVJR5pJplIfIgRhmcUAwABPjw6RGsrZ09irzoZECIzMjhucDZudh5/lSoDAAEBeImLd1IjYIOaZG04HTcRHz5xZ25BQ4mdPgUCAQABTklQVT0kSVRqP2JrkG2SkJw1S0xrb2MyBgcAAAEABwQHBAEBAgYuZyYcRJZbG11rSAMNEQgGBQYBAQAACAQHBAEBAQEIO1VeeCVTM1NyUgcFBAgJBgYBAQEACAMIBAEAAQEBBx8oiaI2LmBmEQkIAggHBgUBAAEBBwMHBAACAQEACA9MJHiWR1UNcHYqCgsJBQYBAQEBCAQIBAIBAQEDBRFSlUU6XgeRzMHZgjACBAYBAAEBDAcLCAcGCAgIG4KHbppiV6vvXyaC2OJ2BwYAAAABPTc7Pj4+QCtP0cprO1OnzbpAExAUKor/fAsCAAAAFxUbGBgbG1XlpjBfanmPWhoLAwkBChZ6+kYJAgAA",
+          "middle": "DAcLCAcGCAgIG4KHbppiV6vvXyaC2OJ2BwYAAAABPTc7Pj4+QCtP0cprO1OnzbpAExAUKor/fAsCAAAAFxUbGBgbG1XlpjBfanmPWhoLAwkBChZ6+kYJAgAAPjg9QT9DUMFpIgkJVEcMDAEEBAQBBggTwL0TBAEAHBkdHhwqnqYiDR0IBwI1SQwGAgEHBwQTS+pbCAIACQQIBwk2vWIMCBwHCj54RFMMAwkRDQkJEbesEAMBCQMJBQlGulw1TB8oLXEWM1EfCg4KCQoKEmjhQAkDCAQIBQlMry9tNEFveEMaTF5CFRQECwkNEyLQjgkCCQQIBglLmTVGWUahUXNdXH5SHCEQBhIgL0eEwicGCQQJBwtVhUg7Np82HCYVZqFDIhkmHBA9cFFTjFUJCAUIBAiBZF4hel9vcJ55eT0ZDw8dLhFjLRYXbZUXCQUKARWdU35ufZmOTkgWKBphXx0VMhhPfF1YSchcEgkNDy2qT0SFkxUjCB1tdGuXp4E1ExshGjdOfbt3NSosNTzMyyYcCAQLBWCPRSU2KMduChqhoEgysMA5Li0wMShj/8FRHwkJBTagHUJRNn+CCXSATFB1slks",
+          "bottom": "CQUKARWdU35ufZmOTkgWKBphXx0VMhhPfF1YSchcEgkNDy2qT0SFkxUjCB1tdGuXp4E1ExshGjdOfbt3NSosNTzMyyYcCAQLBWCPRSU2KMduChqhoEgysMA5Li0wMShj/8FRHwkJBTagHUJRNn+CCXSATFB1slksLSspLCwvTsOFJxIEAxODIxFIFnV+DWZXRxlgwFEja2xtbWxhxcUqDgwJBwmCYTWXcbkkDBxlCCEmm4tiUVFSUVFQnE8IEwUGAQglfjxajzsUFhIuEBkTTmRbIB8eHh8uXywIDAUFBgwDHwkaEQwJGC06OT86LCYjBAIBAgQkTCMNDQUGCQwGBhARBw0TFkiBTzdGJwYJAAEBAQUpTCUNDAsHDQoNBgsEDAoPJUOTKg8RHg4MAAICAgQvQxoYHkxNPiIcHBASERIIP4JoJgsSGQYDBQQFBQg3QAEIMUipj3VdTBQKCRY5k0oZCAUXGwQEDAwMDBFKPgAhPrhMRmx/g1AkChSXRnBHFwceGAQDCgoICBpeLgMoDGfUp2Q3clYkJg82pnN5PRIaEAYCAwIEBitgHhAhBgdDeKOsdDRPMRkvMlCKKhoWBQEE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.531295,
+          "top": 18.620703,
+          "middle": 26.217734,
+          "bottom": 27.386588,
+          "effectiveRatio": 0.555658
+        },
+        "extendable": false,
+        "sha256": "6a8ecae006cccc14d1516291f8ad7e10203dcc745f841fc23bc6d0da09b6bd08"
+      },
+      "strictPassed": true,
+      "imageCredit": "D. Benjamin Miller",
+      "creditDisplay": "자료사진 · D. Benjamin Miller · 2026.05.13 · CC0\ncommons.wikimedia.org/?curid=191965569 · creativecommons.org/publicdomain/zero/1.0/\n크롭·글자 추가",
+      "context": "비셋의 메츠 홈 유니폼 상반신 자료사진.2026년5월13일 디트로이트전,옵션 발표 현장이 아니다.",
+      "sceneGroup": "bichette-20260513-home-portrait",
+      "rightsEvidence": "Commons exact pageid191965569 extmetadata의 D. Benjamin Miller, CC0, https://creativecommons.org/publicdomain/zero/1.0/를 저장하고 대조했다. 카드에 출처·라이선스·편집고지를 표시한다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:23:45.670Z",
+      "visualReviewLimitations": "도구 표시 해상도의 실제 전체 원사진을 봤다. 원본100% 픽셀 전수검토나 최종모바일검수를 주장하지 않는다.",
+      "fit": "cover"
+    },
+    {
+      "id": "commons-188223708",
+      "pageid": 188223708,
+      "title": "File:Bo Bichette March 31 2026 327.png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bo_Bichette_March_31_2026_327.png/1920px-Bo_Bichette_March_31_2026_327.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bo_Bichette_March_31_2026_327.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bo_Bichette_March_31_2026_327.png",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bo_Bichette_March_31_2026_327.png/1920px-Bo_Bichette_March_31_2026_327.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 1933,
+      "originalHeight": 1523,
+      "apiThumbWidth": 1920,
+      "apiThumbHeight": 1513,
+      "author": "Johnmaxmena2",
+      "photoDate": "2026-03-31",
+      "description": "메츠 원정 유니폼의 비셋이 경기 전 서 있는 상반신.2026년3월31일 세인트루이스전,첫 장과 촬영일/복장/배경이 다르다.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2026-04-06 12:45:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bo Bichette March 31 2026 327",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|St. Louis Cardinals vs New York Mets (March 31, 2026)|Bo Bichette during the 2026 New York Mets season|Bo Bichette in the United States",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Bo Bichette of the Mets in St.Louis 2026.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-03-31",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johnmaxmena2\" title=\"User:Johnmaxmena2\">Johnmaxmena2</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "subject": "뉴욕 메츠 선수 자료사진",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\bichette-option\\selected\\photo-2.png",
+      "sha256": "c9678e06f3735b20b777cc661452de23e6be9c26dcda9b12eb64fef846c2a3b4",
+      "width": 1920,
+      "height": 1513,
+      "bytes": 15301195,
+      "strictNativeCoverScale": 0.8922670191672174,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:30:37.959Z",
+        "width": 1920,
+        "height": 1513,
+        "bytes": 15301195,
+        "format": "png",
+        "mimeType": "image/png",
+        "effectiveSharpness": 2.4760273263244317,
+        "entropy": 7.489024444599636,
+        "effectiveDetailRatio": 0.680676,
+        "kind": "source",
+        "coverScale": 0.892,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 1513,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "e5610ce47534446e",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "HiMiJxQZPVFgKgskDDVBDBgqDhMSDU9rKBE4SD4nISRKIxcKDj89ABApKSVPWEcqExwSRWwoFydQTAsMKhooOBg8SIF7aXFGSUYfN0ZLYy4xbDUSJC46JxwQJT1kQg1JX4OYdXh/bSMEBQ0cVGhISwEkNTUmCw8wP1pNPzdvZBISEhIqOko4EQwHE0YsHRhCUB4HBxE5GxwdGEKMUAMGH0pNPRIrSiYHFyUcFideJiELDh1DBCglHQ5srSUedYSFh4R+SC42MBgQGEQ+GhERECJUOyITIRIYjqVopl0uLEmBrKFsIz8QQVIbEwkBFQtDPxYYFwkHGYRzUyNgc1MxPGCHnh9Obi8cIBEdHgkcHx8pHyQWFCp0YRdPFFxrNAwSUHgyZQwwKyMzMQ4UEhgbLi4MKQaDS5VpVDROKRonMDIePBA0KxseHEceJzxgQA0tGCkfWC5mYkRfKykvJDIcOgsmKhIgWDkRGVAVLgcPJhEjEnA+MjANTjs0DS84GgslIQ5ANAQgIDQuKB9VPRcePSVVWDZVUUsgNyMeFx4uECctCSADEikgHD5cW1pAOzsEM0JBNFVRUSMzFB4ZJzsWGwsxKSQgQ1cjJ0ZIPR5hN1weN0iIPiQ+IxMkSB4QFi8ORBpPShIgBREiHVw2e00sJXKHQwg/KAkhFiUzPDENN3FNCkAxHQsOORd0ZzIlaKw4JA5eMhUkOS4+YzoUalssRA82Jg9LR2hUKwtMoE4MFkF7Gi8eGREeCkE1RlwHKBcfNi9KKxVUfFpNcD4SDG5ZCRwYIR4PFiUtRngwMi5PWk8sITBCO1w7Ulc3F4EsDhADDBUaICVER1dWUllMWFomO0c4QCtVLEFCTFcdDwQDAQ4JDxQWMBQsRG45Ilx5RRAaG10/JBU7SiURAQIEBQgOCgkKIwwXWC0gj6A+AyAaPBhMOBAcIRMBBwMHDQkODAQNODIjP0KigiQGDQ8hBi0tGRIMFAQFAwIECxcNEwwQOz85FYleBQQDBgYPICcNFAkOBAYCAgIDAxobEiMUOgkzK3YOCAcDAQYJCwofCgcGBAMBAQEEEA4nHyAVK0Qrc0cLEg0GCgUFCg8PAxUGBQcEBQYNEiQgKA4VM1pScSQRGh8oDwoEAQEDFxILCQsICAgOHgwfIwkVDSVbNhoXKkgEJRIFAwMLHBIRCgQLCQkMBCcoFAUXAQQVHhoZLDU3GAkEBAoZFwYOEAQNDQ0FBR4rEQMXAQISHxAVHSkXCwgFBxERDxMKBw4SCAYKBxEqHwIWAgcWJhAKIB0NEQkHCgoIEAkHBw4JEQcNDxInFQoVAwgZMRcJGh4PEw4KBwIFCRAVCgwVDiEDFhIbFwsYAhcONyMWExsNCw4NBg4OCw4ODxUWCRolAxosLQwZARAPLRcZBiYOBwsNHBocFA0EGQsgHwsnGRsXLzgJAicYQx4KBhQWCAocIgYbGA0SFRsjHg0SEh4WJDAeAioURBEPCxESCw8OGBwMCxgeCBUOKgQcJQ07FA4M",
+          "top": "HiMiJxQZPVFgKgskDDVBDBgqDhMSDU9rKBE4SD4nISRKIxcKDj89ABApKSVPWEcqExwSRWwoFydQTAsMKhooOBg8SIF7aXFGSUYfN0ZLYy4xbDUSJC46JxwQJT1kQg1JX4OYdXh/bSMEBQ0cVGhISwEkNTUmCw8wP1pNPzdvZBISEhIqOko4EQwHE0YsHRhCUB4HBxE5GxwdGEKMUAMGH0pNPRIrSiYHFyUcFideJiELDh1DBCglHQ5srSUedYSFh4R+SC42MBgQGEQ+GhERECJUOyITIRIYjqVopl0uLEmBrKFsIz8QQVIbEwkBFQtDPxYYFwkHGYRzUyNgc1MxPGCHnh9Obi8cIBEdHgkcHx8pHyQWFCp0YRdPFFxrNAwSUHgyZQwwKyMzMQ4UEhgbLi4MKQaDS5VpVDROKRonMDIePBA0KxseHEceJzxgQA0tGCkfWC5mYkRfKykvJDIcOgsmKhIgWDkRGVAVLgcPJhEjEnA+MjANTjs0DS84GgslIQ5ANAQgIDQuKB9VPRcePSVVWDZVUUsgNyMeFx4uECctCSADEikgHD5cW1pAOzsEM0JBNFVRUSMzFB4ZJzsWGwsx",
+          "middle": "GVAVLgcPJhEjEnA+MjANTjs0DS84GgslIQ5ANAQgIDQuKB9VPRcePSVVWDZVUUsgNyMeFx4uECctCSADEikgHD5cW1pAOzsEM0JBNFVRUSMzFB4ZJzsWGwsxKSQgQ1cjJ0ZIPR5hN1weN0iIPiQ+IxMkSB4QFi8ORBpPShIgBREiHVw2e00sJXKHQwg/KAkhFiUzPDENN3FNCkAxHQsOORd0ZzIlaKw4JA5eMhUkOS4+YzoUalssRA82Jg9LR2hUKwtMoE4MFkF7Gi8eGREeCkE1RlwHKBcfNi9KKxVUfFpNcD4SDG5ZCRwYIR4PFiUtRngwMi5PWk8sITBCO1w7Ulc3F4EsDhADDBUaICVER1dWUllMWFomO0c4QCtVLEFCTFcdDwQDAQ4JDxQWMBQsRG45Ilx5RRAaG10/JBU7SiURAQIEBQgOCgkKIwwXWC0gj6A+AyAaPBhMOBAcIRMBBwMHDQkODAQNODIjP0KigiQGDQ8hBi0tGRIMFAQFAwIECxcNEwwQOz85FYleBQQDBgYPICcNFAkOBAYCAgIDAxobEiMUOgkzK3YOCAcDAQYJCwofCgcGBAMBAQEEEA4nHyAV",
+          "bottom": "IwwXWC0gj6A+AyAaPBhMOBAcIRMBBwMHDQkODAQNODIjP0KigiQGDQ8hBi0tGRIMFAQFAwIECxcNEwwQOz85FYleBQQDBgYPICcNFAkOBAYCAgIDAxobEiMUOgkzK3YOCAcDAQYJCwofCgcGBAMBAQEEEA4nHyAVK0Qrc0cLEg0GCgUFCg8PAxUGBQcEBQYNEiQgKA4VM1pScSQRGh8oDwoEAQEDFxILCQsICAgOHgwfIwkVDSVbNhoXKkgEJRIFAwMLHBIRCgQLCQkMBCcoFAUXAQQVHhoZLDU3GAkEBAoZFwYOEAQNDQ0FBR4rEQMXAQISHxAVHSkXCwgFBxERDxMKBw4SCAYKBxEqHwIWAgcWJhAKIB0NEQkHCgoIEAkHBw4JEQcNDxInFQoVAwgZMRcJGh4PEw4KBwIFCRAVCgwVDiEDFhIbFwsYAhcONyMWExsNCw4NBg4OCw4ODxUWCRolAxosLQwZARAPLRcZBiYOBwsNHBocFA0EGQsgHwsnGRsXLzgJAicYQx4KBhQWCAocIgYbGA0SFRsjHg0SEh4WJDAeAioURBEPCxESCw8OGBwMCxgeCBUOKgQcJQ07FA4M"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.07496,
+          "top": 21.050662,
+          "middle": 23.78509,
+          "bottom": 24.669722,
+          "effectiveRatio": 0.680676
+        },
+        "extendable": false,
+        "sha256": "c9678e06f3735b20b777cc661452de23e6be9c26dcda9b12eb64fef846c2a3b4"
+      },
+      "strictPassed": true,
+      "imageCredit": "Johnmaxmena2",
+      "creditDisplay": "자료사진 · Johnmaxmena2 · 2026.03.31 · CC BY 4.0\ncommons.wikimedia.org/?curid=188223708 · creativecommons.org/licenses/by/4.0/\n크롭·글자 추가",
+      "context": "메츠 원정 유니폼의 비셋이 경기 전 서 있는 상반신.2026년3월31일 세인트루이스전,첫 장과 촬영일/복장/배경이 다르다.",
+      "sceneGroup": "bichette-20260331-pregame-portrait",
+      "rightsEvidence": "Commons exact pageid188223708 extmetadata의 Johnmaxmena2, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/를 저장하고 대조했다. 카드에 출처·라이선스·편집고지를 표시한다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:23:45.916Z",
+      "visualReviewLimitations": "도구 표시 해상도의 실제 전체 원사진을 봤다. 원본100% 픽셀 전수검토나 최종모바일검수를 주장하지 않는다.",
+      "fit": "cover"
+    },
+    {
+      "id": "commons-196342986",
+      "pageid": 196342986,
+      "title": "File:Toronto Blue Jays vs New York Mets Rogers Centre Toronto July 1, 2026 202607011528 DSCN3026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toronto_Blue_Jays_vs_New_York_Mets_Rogers_Centre_Toronto_July_1%2C_2026_202607011528_DSCN3026.jpg/1920px-Toronto_Blue_Jays_vs_New_York_Mets_Rogers_Centre_Toronto_July_1%2C_2026_202607011528_DSCN3026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Toronto_Blue_Jays_vs_New_York_Mets_Rogers_Centre_Toronto_July_1%2C_2026_202607011528_DSCN3026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Toronto_Blue_Jays_vs_New_York_Mets_Rogers_Centre_Toronto_July_1,_2026_202607011528_DSCN3026.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toronto_Blue_Jays_vs_New_York_Mets_Rogers_Centre_Toronto_July_1%2C_2026_202607011528_DSCN3026.jpg/1920px-Toronto_Blue_Jays_vs_New_York_Mets_Rogers_Centre_Toronto_July_1%2C_2026_202607011528_DSCN3026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 5184,
+      "originalHeight": 3888,
+      "apiThumbWidth": 1920,
+      "apiThumbHeight": 1440,
+      "author": "ウィ貴公子",
+      "photoDate": "2026-07-01",
+      "description": "2026년7월1일 토론토 원정에서 메츠 비셋이 타석에 선 장면.포수는 MLB 해당 경기 선발 포수/30번 알레한드로 커크와 대조했다.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2026-07-28 06:11:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Toronto Blue Jays vs New York Mets Rogers Centre Toronto July 1, 2026 202607011528 DSCN3026",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon Coolpix A900|Interior of Rogers Centre|Self-published work|2 male baseball players|3 males in baseball|Photographs taken by ウィ貴公子 in Toronto|Bo Bichette during the 2026 New York Mets season|Photographs taken by ウィ貴公子 in Canada in 2026|Toronto photographs taken on 2026-07-01|Photographs taken by ウィ貴公子 in July, 2026|Files uploaded by ウィ貴公子 in July, 2026|Alejandro Kirk during the 2026 Toronto Blue Jays season|During the game of the Toronto Blue Jays vs New York Mets (July 1, 2026)|John Libka as a home plate umpire|John Libka during the 2026 Major League Baseball season|Bo Bichette at Rogers Centre|John Libka at Rogers Centre",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "New York Mets No.19 Bo Bichette<br>\n<p><a href=\"https://en.wikipedia.org/wiki/Toronto_Blue_Jays\" class=\"extiw\" title=\"en:Toronto Blue Jays\">Toronto Blue Jays</a> vs <a href=\"https://en.wikipedia.org/wiki/New_York_Mets\" class=\"extiw\" title=\"en:New York Mets\">New York Mets</a><br>\nat <a href=\"https://en.wikipedia.org/wiki/Rogers_Centre\" class=\"extiw\" title=\"en:Rogers Centre\">Rogers Centre</a><br>\n（July 1, 2026, PM03:28）<br>\n</p>\n<div style=\"display:table;width:auto;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Nikon_Logo.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Nikon_Logo.svg/40px-Nikon_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Nikon_Logo.svg/60px-Nikon_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"400\" data-file-height=\"400\"></a></span> This <a href=\"https://en.wikipedia.org/wiki/photo\" class=\"extiw\" title=\"w:photo\">photo</a> was taken with Nikon Coolpix A900</div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<p>1 July 2026, 15:28:59\n</p>\n（※カメラの設定を<a href=\"https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC\" class=\"extiw\" title=\"ja:東京\">東京</a>の時間から<a href=\"https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%83%B3%E3%83%88\" class=\"extiw\" title=\"ja:トロント\">トロント</a>の時間に直すのを忘れたため、生成データ上は<a href=\"https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82\" class=\"extiw\" title=\"ja:日本標準時\">日本標準時</a>（JST）だが、実際の撮影時間は<a href=\"https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%83%A8%E5%A4%8F%E6%99%82%E9%96%93\" class=\"extiw\" title=\"ja:東部夏時間\">東部夏時間</a>（EDT）。JSTとEDTの時差は13時間）",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%82%A6%E3%82%A3%E8%B2%B4%E5%85%AC%E5%AD%90\" title=\"User:ウィ貴公子\">ウィ貴公子</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "subject": "뉴욕 메츠 선수 자료사진",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\bichette-option\\selected\\photo-3.jpg",
+      "sha256": "e0ec7d45f9846f0d8d2405ba558b8258faae96fa098aadda52e33bed7573827d",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 733469,
+      "strictNativeCoverScale": 0.9375,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:30:38.063Z",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 733469,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.0319653074593704,
+        "entropy": 7.100035486924753,
+        "effectiveDetailRatio": 0.630966,
+        "kind": "source",
+        "coverScale": 0.938,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 1440,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "23c3d4949b89b269",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwgJBwQGBQEDBwYMCgcEAgQGBgIFBgMEAwIHBQYHAwQFBwQEBAQFBgMKDAkIBQkKCAYGBAMGBAIAAQMJAQQCAQcBBgUIBQQNDAUJCgUFBAADAQYGBQQCBgQCBQEEAgcLCg0MDRANBwMDAQYGBQYGBwkGBgEHBAYCBQQFCQ8OBAYLBwYGAgICBwgIBQcEBgQFCAYIAgEEBggKDQwGCAcFBQcJBgkHCggGBAIBBgICBgoECgUGDw8LCgIEDAgHCQsGCQkJDAgFBAACAgMDBAQABAgCOikKDAcLBQYICQUDBgkLBwIEBAQCBQUGCQYDAwYyhoRVAgcCAgcJBQcGCAYJBwIDBQUFCAcJBwgFCUU5JmKLQwYICwUDBgUBAAYEBQIBAwMEBwIDCAYINFhKPyB+Xg4MCgUFCAQDAAMICg4IBwYDAwYHAgofRyNXdRaYagMFBAwIBQEJBgMGCwAQDwICBQIHDht5RBETiVybRg4CCwcEBgwICQkHCRMPBwYDAhMMJoZqVltOa19fIA4OCwQCCAILBAQFAwcEDAoJFUEyPEQrLTxKJTo2EgUDBAUGBxISCREUEhIOChAOSRVZc0YpHj9oICYLCAUIBgYECQwMDhQRDAoQDQoLFmNScrI8JC1xJxsIDxMNDA8QExANEBIIBxAREwwMFhtkdKwYI01AIBkVGyEeICIhHhYSDg0KDA4OERUSEA4ibGC3do4EVy0dGBQZCA0PEQsJCQIIDgwNDw0NDhITK3c8Ynl8VDkPCwEXIjYqBQsICwQJDwgHBAUHCQoNBzW9cdZWUS4LDAkiQiA2Hw0ODg8PBgEEAQQCBAcECVkka1J/SCcREB42SVxAGAgICQ8OCgsKDQwHCQkFHjiMTmJyPh8JAy0oIThEJQkBBAYFCAoHBA0QCwUJMDEVNTIeRx0FHRpnOxoWMhICAQMECQcJDQoMDQUQQBQtICYTSCghFxsWYCI2IAQFBAMGBAQGChQIBAgeOggwITo7VjAPLyI1IBwRHR0EBgYGCwYMFQoBAgYjRD1DHxhEYQ84KioTFRIkBSIiBgoGBAgICgMGBwkJVXMcBAwzLzoiBTsdQC8mKAkJDwUBAgkWCwQEDQQ8ZUM+CAoUJCcgNl4tCR4/EyQUBwMFCA8KBQYKBw9XNHFVPDYpSEZ8i518Ug8MOQctFggICAYGCwkCBA9VJKcsJTU8hXNTLwhAc14aBSofBgsJBwUEAwQBAQtsUkg1NjEiXXZQRnxiOiwzJCkJBQgBAgYJDAgBD1d3ohEFDxkhNhUyUmZVNkcoPjQ7NTk0LScmGBUGMZAsb0wHAwIEMkwwO1FbPiNTUTIXEQsSFic6Qj5DimNudBQOBAQFIhU6TVEJQyg3X1xhUkc+OzcxIyI5MFxiHEA8OisnHB0nMC1UGQ0NFQ8SGRQVGCQwPDlXg4E0KigXDBMNUFpiPipKY0o9LiAXCw4GCQQEBAkMKTQ3P0RTU0E3FBwwQz5PcnNwc25lSCwYCAcIAQEEChMQDgkJCB0M",
+          "top": "AwgJBwQGBQEDBwYMCgcEAgQGBgIFBgMEAwIHBQYHAwQFBwQEBAQFBgMKDAkIBQkKCAYGBAMGBAIAAQMJAQQCAQcBBgUIBQQNDAUJCgUFBAADAQYGBQQCBgQCBQEEAgcLCg0MDRANBwMDAQYGBQYGBwkGBgEHBAYCBQQFCQ8OBAYLBwYGAgICBwgIBQcEBgQFCAYIAgEEBggKDQwGCAcFBQcJBgkHCggGBAIBBgICBgoECgUGDw8LCgIEDAgHCQsGCQkJDAgFBAACAgMDBAQABAgCOikKDAcLBQYICQUDBgkLBwIEBAQCBQUGCQYDAwYyhoRVAgcCAgcJBQcGCAYJBwIDBQUFCAcJBwgFCUU5JmKLQwYICwUDBgUBAAYEBQIBAwMEBwIDCAYINFhKPyB+Xg4MCgUFCAQDAAMICg4IBwYDAwYHAgofRyNXdRaYagMFBAwIBQEJBgMGCwAQDwICBQIHDht5RBETiVybRg4CCwcEBgwICQkHCRMPBwYDAhMMJoZqVltOa19fIA4OCwQCCAILBAQFAwcEDAoJFUEyPEQrLTxKJTo2EgUDBAUGBxISCREUEhIOChAOSRVZc0YpHj9o",
+          "middle": "iVybRg4CCwcEBgwICQkHCRMPBwYDAhMMJoZqVltOa19fIA4OCwQCCAILBAQFAwcEDAoJFUEyPEQrLTxKJTo2EgUDBAUGBxISCREUEhIOChAOSRVZc0YpHj9oICYLCAUIBgYECQwMDhQRDAoQDQoLFmNScrI8JC1xJxsIDxMNDA8QExANEBIIBxAREwwMFhtkdKwYI01AIBkVGyEeICIhHhYSDg0KDA4OERUSEA4ibGC3do4EVy0dGBQZCA0PEQsJCQIIDgwNDw0NDhITK3c8Ynl8VDkPCwEXIjYqBQsICwQJDwgHBAUHCQoNBzW9cdZWUS4LDAkiQiA2Hw0ODg8PBgEEAQQCBAcECVkka1J/SCcREB42SVxAGAgICQ8OCgsKDQwHCQkFHjiMTmJyPh8JAy0oIThEJQkBBAYFCAoHBA0QCwUJMDEVNTIeRx0FHRpnOxoWMhICAQMECQcJDQoMDQUQQBQtICYTSCghFxsWYCI2IAQFBAMGBAQGChQIBAgeOggwITo7VjAPLyI1IBwRHR0EBgYGCwYMFQoBAgYjRD1DHxhEYQ84KioTFRIkBSIiBgoGBAgICgMGBwkJVXMcBAwz",
+          "bottom": "Rx0FHRpnOxoWMhICAQMECQcJDQoMDQUQQBQtICYTSCghFxsWYCI2IAQFBAMGBAQGChQIBAgeOggwITo7VjAPLyI1IBwRHR0EBgYGCwYMFQoBAgYjRD1DHxhEYQ84KioTFRIkBSIiBgoGBAgICgMGBwkJVXMcBAwzLzoiBTsdQC8mKAkJDwUBAgkWCwQEDQQ8ZUM+CAoUJCcgNl4tCR4/EyQUBwMFCA8KBQYKBw9XNHFVPDYpSEZ8i518Ug8MOQctFggICAYGCwkCBA9VJKcsJTU8hXNTLwhAc14aBSofBgsJBwUEAwQBAQtsUkg1NjEiXXZQRnxiOiwzJCkJBQgBAgYJDAgBD1d3ohEFDxkhNhUyUmZVNkcoPjQ7NTk0LScmGBUGMZAsb0wHAwIEMkwwO1FbPiNTUTIXEQsSFic6Qj5DimNudBQOBAQFIhU6TVEJQyg3X1xhUkc+OzcxIyI5MFxiHEA8OisnHB0nMC1UGQ0NFQ8SGRQVGCQwPDlXg4E0KigXDBMNUFpiPipKY0o9LiAXCw4GCQQEBAkMKTQ3P0RTU0E3FBwwQz5PcnNwc25lSCwYCAcIAQEEChMQDgkJCB0M"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 34.873405,
+          "top": 36.045729,
+          "middle": 37.376348,
+          "bottom": 32.314629,
+          "effectiveRatio": 0.630966
+        },
+        "extendable": false,
+        "sha256": "e0ec7d45f9846f0d8d2405ba558b8258faae96fa098aadda52e33bed7573827d"
+      },
+      "strictPassed": true,
+      "imageCredit": "ウィ貴公子",
+      "creditDisplay": "자료사진 · ウィ貴公子 · 2026.07.01 · CC BY-SA 4.0\ncommons.wikimedia.org/?curid=196342986 · creativecommons.org/licenses/by-sa/4.0/\n크롭·글자 추가 · 이 카드 CC BY-SA 4.0",
+      "context": "2026년7월1일 토론토 원정에서 메츠 비셋이 타석에 선 장면.포수는 MLB 해당 경기 선발 포수/30번 알레한드로 커크와 대조했다.",
+      "sceneGroup": "bichette-20260701-batting-toronto",
+      "rightsEvidence": "Commons exact pageid196342986 extmetadata의 ウィ貴公子, CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/를 저장하고 대조했다. 카드에 출처·라이선스·편집고지를 표시한다. 사진 파생 카드도 CC BY-SA 4.0로 제공한다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:23:45.998Z",
+      "visualReviewLimitations": "관중석에서 내려다본 타석 구도이며 망이 겹친다. 별개 날짜·타격장면으로 앞의 두 인물사진과 구별된다.",
+      "fit": "cover"
+    },
+    {
+      "id": "commons-188222399",
+      "pageid": 188222399,
+      "title": "File:Lindor March 31 2026 204.png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Lindor_March_31_2026_204.png/1920px-Lindor_March_31_2026_204.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lindor_March_31_2026_204.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lindor_March_31_2026_204.png",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Lindor_March_31_2026_204.png/1920px-Lindor_March_31_2026_204.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4252,
+      "originalHeight": 3612,
+      "apiThumbWidth": 1920,
+      "apiThumbHeight": 1631,
+      "author": "Johnmaxmena2",
+      "photoDate": "정확한 촬영일 출처 상충: 설명/파일명2026-03-31,DateTimeOriginal2026-04-06",
+      "description": "메츠 린도어의 경기 전 캐치볼.설명과 파일명은3월31일이나Commons원촬영일 필드4월6일과 충돌해 카드에는2026년자료로만 표기했다.옵션 발표 현장이 아니다.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2026-04-06 12:31:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lindor March 31 2026 204",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|St. Louis Cardinals vs New York Mets (March 31, 2026)|Francisco Lindor during the 2026 New York Mets season",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Francisco Lindor of the Mets in st.louis pregame 2026 March 31.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-04-06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johnmaxmena2\" title=\"User:Johnmaxmena2\">Johnmaxmena2</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "subject": "뉴욕 메츠 선수 자료사진",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\bichette-option\\selected\\photo-4.png",
+      "sha256": "9a0dbd3aeb8544f9a5571a6fd9473524fb04a305b17d2b4955ded670b247deb1",
+      "width": 1920,
+      "height": 1631,
+      "bytes": 16556725,
+      "strictNativeCoverScale": 0.8277130594727161,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:30:38.765Z",
+        "width": 1920,
+        "height": 1631,
+        "bytes": 16556725,
+        "format": "png",
+        "mimeType": "image/png",
+        "effectiveSharpness": 2.1026465052145697,
+        "entropy": 7.268369145996985,
+        "effectiveDetailRatio": 0.563924,
+        "kind": "source",
+        "coverScale": 0.828,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 1631,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "7361719f9f1f272f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "SDZCCQwTCgcQBxUcfw54KxkjESQMIkAMCAgSEw8MRCVFDiIZEiMMCAx8IGgnHhMQGQ0nTk0yBRoMBg8aSiFBL1ZjKyMxEGk4Uic7MRYZHjs/XExEEgY8Q15JRhdBdmBSXTQnTkNdSkIbJzgROgskMDcQGzpGHDVdWhuCfhYOKEA1Oz5ZMxpDGSA5ISwJFRE9GxdpSkFri56LUCgmOywYERCJlZZVCxk0NSk4PyMcLVMcRikpQl1OJBUrEC4WH1tJQ3FwR0MtKlxdIy8/KEpAIg0mZGgzHBYUPxkUHUVELBFHIBVAQWoyS1Y4bRs9IBU3WmYxFRs5PyoXFy4jL1NNKBESMzQcFjtOMSFFaWQ/LHRUGyM4LTwTIC4dPWYoJRwZHQgZEAsTEhwvM1lNbpwxBhMpNxAGEi0aTgxHBAEECQwTHBoeECUWIhcsilwfEgMVEQkQGB4bHCArGgQCAQQEBQsTEyAqGhkaMiQ0KwsEEQ4PKyEuT0g3HwYCBAMFBAIFBAQIDhcaKz0SNBUQBRYcFhw1GU42BAQEBAMFBgMGBQMEBAQEHyolMBoKAxQSFSIuUy8dBAICAQEFBAEEBAIEAgMDHgt6ESEQFgsIDRUaIS4KBAEAAQEGBQEDAwECAQIEGE9fagwVEAoBDRkOEh0JAwIBAAEGBQADAwIBAQMECUoJZR4SBgsPGR8/UhgHCwkEAQEHBQICBAECAQEEGVIlZy0VK0xQUWRYhm0FCgcIAwIHCQMEAwEBAQEDJRtQHGh0dmFTXltFgoQcHxwYFxQVEQ4REhITFRUUGhAZR3FaRiw7Mm5yYUcwJiUnKyknLS8rJR8gHRoYOEtOWDIRFx8UCEGMSXJxbW9sa2hmZ2pqZGFiZGJeICEgLRwpIFlLKBhZMyssLC8uLC0tLi4wLy8uMjQ0AgcbJh4VZjdkVwZSKgQBAgIFBAQCAgQHBwQCAgUIAgQQLBwZUD1EWClFMAYCAwUHBwUEBAUJBgIDAgQJAgIDICwUMSUwOSMuKAIABQMFBQQBAwQJCAQBAgQHBgYHCSwiMC8xPBsoJAkKCQoLDAoKCgwLCgoICAcLBAQDCw0kETIeLw0kIAAABQIGBgIEBgkJCwoMCQcKBQQDCQscBSYJNhAiHRYbHRoZGhUWFxgYGBobGRYVEBQSDRQYDRwSTTYYFAoIBgQJDAkDAgMGBQUEBAgKCAULEgkhFQw9P4kqFRIUFhQUFA0NDQ4QEA8QDQwODRARDw4CEwpJVWZXBggHBgUKCQYGBQYIBwMEBQgKBwgGCRcsGRtZQU5TAwMDBAIGBAUEBAYIBgUFBgkLBAEECioPGyZZKmVEBAMDAgEGBwMCAQMIBgEBAAYKCQoIESgjGSdcH3QjBgIBAwEFBAIBAQMGBQIDAgQHBAQIFA0wDUc5WkoKBgcIBgYJCQkIBwgJCQkKBwkNCgkJDgcxBzw7Sw0PDQsMDQwODgwLCgoMDAoMCgwNDw8MCwknIQ8zIBIIBAQFCAYIBwQFBQYIBAQBAgcJ",
+          "top": "SDZCCQwTCgcQBxUcfw54KxkjESQMIkAMCAgSEw8MRCVFDiIZEiMMCAx8IGgnHhMQGQ0nTk0yBRoMBg8aSiFBL1ZjKyMxEGk4Uic7MRYZHjs/XExEEgY8Q15JRhdBdmBSXTQnTkNdSkIbJzgROgskMDcQGzpGHDVdWhuCfhYOKEA1Oz5ZMxpDGSA5ISwJFRE9GxdpSkFri56LUCgmOywYERCJlZZVCxk0NSk4PyMcLVMcRikpQl1OJBUrEC4WH1tJQ3FwR0MtKlxdIy8/KEpAIg0mZGgzHBYUPxkUHUVELBFHIBVAQWoyS1Y4bRs9IBU3WmYxFRs5PyoXFy4jL1NNKBESMzQcFjtOMSFFaWQ/LHRUGyM4LTwTIC4dPWYoJRwZHQgZEAsTEhwvM1lNbpwxBhMpNxAGEi0aTgxHBAEECQwTHBoeECUWIhcsilwfEgMVEQkQGB4bHCArGgQCAQQEBQsTEyAqGhkaMiQ0KwsEEQ4PKyEuT0g3HwYCBAMFBAIFBAQIDhcaKz0SNBUQBRYcFhw1GU42BAQEBAMFBgMGBQMEBAQEHyolMBoKAxQSFSIuUy8dBAICAQEFBAEEBAIEAgMD",
+          "middle": "MiQ0KwsEEQ4PKyEuT0g3HwYCBAMFBAIFBAQIDhcaKz0SNBUQBRYcFhw1GU42BAQEBAMFBgMGBQMEBAQEHyolMBoKAxQSFSIuUy8dBAICAQEFBAEEBAIEAgMDHgt6ESEQFgsIDRUaIS4KBAEAAQEGBQEDAwECAQIEGE9fagwVEAoBDRkOEh0JAwIBAAEGBQADAwIBAQMECUoJZR4SBgsPGR8/UhgHCwkEAQEHBQICBAECAQEEGVIlZy0VK0xQUWRYhm0FCgcIAwIHCQMEAwEBAQEDJRtQHGh0dmFTXltFgoQcHxwYFxQVEQ4REhITFRUUGhAZR3FaRiw7Mm5yYUcwJiUnKyknLS8rJR8gHRoYOEtOWDIRFx8UCEGMSXJxbW9sa2hmZ2pqZGFiZGJeICEgLRwpIFlLKBhZMyssLC8uLC0tLi4wLy8uMjQ0AgcbJh4VZjdkVwZSKgQBAgIFBAQCAgQHBwQCAgUIAgQQLBwZUD1EWClFMAYCAwUHBwUEBAUJBgIDAgQJAgIDICwUMSUwOSMuKAIABQMFBQQBAwQJCAQBAgQHBgYHCSwiMC8xPBsoJAkKCQoLDAoKCgwLCgoICAcL",
+          "bottom": "AgcbJh4VZjdkVwZSKgQBAgIFBAQCAgQHBwQCAgUIAgQQLBwZUD1EWClFMAYCAwUHBwUEBAUJBgIDAgQJAgIDICwUMSUwOSMuKAIABQMFBQQBAwQJCAQBAgQHBgYHCSwiMC8xPBsoJAkKCQoLDAoKCgwLCgoICAcLBAQDCw0kETIeLw0kIAAABQIGBgIEBgkJCwoMCQcKBQQDCQscBSYJNhAiHRYbHRoZGhUWFxgYGBobGRYVEBQSDRQYDRwSTTYYFAoIBgQJDAkDAgMGBQUEBAgKCAULEgkhFQw9P4kqFRIUFhQUFA0NDQ4QEA8QDQwODRARDw4CEwpJVWZXBggHBgUKCQYGBQYIBwMEBQgKBwgGCRcsGRtZQU5TAwMDBAIGBAUEBAYIBgUFBgkLBAEECioPGyZZKmVEBAMDAgEGBwMCAQMIBgEBAAYKCQoIESgjGSdcH3QjBgIBAwEFBAIBAQMGBQIDAgQHBAQIFA0wDUc5WkoKBgcIBgYJCQkIBwgJCQkKBwkNCgkJDgcxBzw7Sw0PDQsMDQwODgwLCgoMDAoMCgwNDw8MCwknIQ8zIBIIBAQFCAYIBwQFBQYIBAQBAgcJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 16.339721,
+          "top": 18.148624,
+          "middle": 17.240655,
+          "bottom": 14.452478,
+          "effectiveRatio": 0.563924
+        },
+        "extendable": false,
+        "sha256": "9a0dbd3aeb8544f9a5571a6fd9473524fb04a305b17d2b4955ded670b247deb1"
+      },
+      "strictPassed": true,
+      "imageCredit": "Johnmaxmena2",
+      "creditDisplay": "자료사진 · Johnmaxmena2 · 2026년 자료 · CC BY 4.0\ncommons.wikimedia.org/?curid=188222399 · creativecommons.org/licenses/by/4.0/\n크롭·글자 추가",
+      "context": "메츠 린도어의 경기 전 캐치볼.설명과 파일명은3월31일이나Commons원촬영일 필드4월6일과 충돌해 카드에는2026년자료로만 표기했다.옵션 발표 현장이 아니다.",
+      "sceneGroup": "lindor-2026-pregame-catch",
+      "rightsEvidence": "Commons exact pageid188222399 extmetadata의 Johnmaxmena2, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/를 저장하고 대조했다. 카드에 출처·라이선스·편집고지를 표시한다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:23:46.493Z",
+      "visualReviewLimitations": "도구 표시 해상도의 실제 전체 원사진을 봤다. 원본100% 픽셀 전수검토나 최종모바일검수를 주장하지 않는다.",
+      "fit": "cover"
+    },
+    {
+      "id": "commons-188247390",
+      "pageid": 188247390,
+      "title": "File:Soto March 31 2026 1952seqn).png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Soto_March_31_2026_1952seqn%29.png/1280px-Soto_March_31_2026_1952seqn%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Soto_March_31_2026_1952seqn%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Soto_March_31_2026_1952seqn).png",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Soto_March_31_2026_1952seqn%29.png/1280px-Soto_March_31_2026_1952seqn%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 2202,
+      "originalHeight": 2374,
+      "apiThumbWidth": 1280,
+      "apiThumbHeight": 1380,
+      "author": "Johnmaxmena2",
+      "photoDate": "2026-03-31",
+      "description": "2026년3월31일 세인트루이스전에서 타석에 들어서는 메츠 소토와 뒤에서 대기하는 비셋.포수는MLB해당 경기의유일포수 이반 에레라와대조했다.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2026-04-06 16:39:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Soto March 31 2026 1952seqn)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|St. Louis Cardinals vs New York Mets (March 31, 2026)|Juan Soto during the 2026 New York Mets season|Bo Bichette during the 2026 New York Mets season|Bo Bichette in the United States",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "juan soto  of the mets 2026",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-03-31",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johnmaxmena2\" title=\"User:Johnmaxmena2\">Johnmaxmena2</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "subject": "뉴욕 메츠 선수 자료사진",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\bichette-option\\selected\\photo-5.png",
+      "sha256": "7498973b2d0127460b98c184c0a606243e5c5223b0c134a413440b2c425fa86c",
+      "width": 1280,
+      "height": 1380,
+      "bytes": 9407932,
+      "strictNativeCoverScale": 0.9782608695652174,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:30:39.019Z",
+        "width": 1280,
+        "height": 1380,
+        "bytes": 9407932,
+        "format": "png",
+        "mimeType": "image/png",
+        "effectiveSharpness": 2.5547234981351026,
+        "entropy": 7.639938488631742,
+        "effectiveDetailRatio": 0.501836,
+        "kind": "source",
+        "coverScale": 0.978,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1280,
+        "rawHeight": 1380,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "14d349686362c848",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "WiNqRx0EMBN7KD8cRhAZEhxADA1UFzMsRz0hNTdFRyBRNEUgLh5AfTE8Lx85RCYoPiZ5gS86GzcSTF01EFMhERUwEgYUGBAlGFcCJlopPjg6UXU0BiQFJWsqO2QNJRFGPCMWUzUcOBdpHxwgKA4mJyUrOQdELTRMPTaIG1RDKTE1HHxDIHMwPDslUS8LBh9QIRsvezR4YnCKmEFAFh4OU0tHQR0kDzAcD0M1KjdmNh1AQ1NqMGZOXio5GyAwJBhxZlsKCgkULlNRIRk/SRZPMU1LSww5OTA7MVEcDjxYT28FDA8cBid0QAwLTVdpKochTzAiXi4fPCxLGA1jKIxQCxkaJUtCUxk2hEImTDlOM2lGVDA2Mkk0OmeEFEickXWAWCNXGFCWDl0UOV1lUSFLHSwdZ1xzTDtKfCBaW2dAZDkNEk5NdzwhKQYFCUBRPQhwWy46T0tmqHA2Nl6RTBsqGkV9aE9PVEtMPT2CsW0eTzw8QzdELa0hdH5FDwkSDCJAPhIGCQYEG4CpbcdYBxIXFx0oVZkPik0rFw4PGToGSDAxNiUvK49qK4ylKxIPDB8mhoB1hWEZLRAJIRc2MFw5Gg8oKYFPPTG0SRwYGw1FLWeYSzYjHBQLGx9rbjVBDBAIGIB1NqeZOhgiFE4INU0lJwkhBw8LBWGEaR0tIRgpDiw2LVI+Ij8fbho+RzMQHBslMRQJFYR4bTw5KTAmKY2TWLaOMB5XOSw1FHowJSI8oIFSaLl1J7IdGQ4PJp1oMmmYYDk5MiscUxpOLzOeeZOVmWRvnDyFEgwMWb5GJkePbB8NJCoQPYssK6R0RwQMJhCKMI9KMQoHfcAyHCFqkDIPCRIajxpyYFIePDRLQBN9dTw5Gw0MQ71rISNlhTRXazQpIHEhQkk2XhQqXQ11aB4eEyIPSXd7GRI9aXV/bXhwekMuPBwTPBkVdw10bRUlNhMVHTY/JRdCBw43ThgQFC45CCURLycOeityXy0pOjYdHnKiKXxqeG5CQDc8OTILCQQdLCwKW0xYPSEbGi8XGktiV11UOzcoFhMVFhUQEBUUBhgPLC9ACQ0MCg0sDg4vFk08GSMxCwYIBwYFBgQLEA4IHgwdDggBAgUJAkJPZWs4MFwxBAQEBAQEAgAQDkhBLQYjCgkEAQEGGEItfjk5LGUYAQQEBAkGAwMDPk9VYRgYGAQCBQIBDhdGTiEeUE0FBQIKCgYBBQUcI10wZg8tCAUHBQYJDhhBEyopWDUNDA4MCwoLCwsSGE5FZBIgDgsJBQgGDxhQHBwPYR8JDAYDAwgHDA0TDxcvQhEqERUZGB4kJy5LZx1qLwQSCA0RDgsJDAsEIi4RZUQpQyYnExMUPT9pViYxHioECgUDCQ0QEwsCAiRFCTgoHCcsLCw6FTk5WTggHRoZCgQGERQYJigREQAXOhcLOS4rGBoaFyI8GB4gKBEPDg0WDAIGBRUYGBgODgMICgQLCQIWIx8XEQ4LFhEMFxklLzEwOSkfDQwICQoLDwYGCAIP",
+          "top": "WiNqRx0EMBN7KD8cRhAZEhxADA1UFzMsRz0hNTdFRyBRNEUgLh5AfTE8Lx85RCYoPiZ5gS86GzcSTF01EFMhERUwEgYUGBAlGFcCJlopPjg6UXU0BiQFJWsqO2QNJRFGPCMWUzUcOBdpHxwgKA4mJyUrOQdELTRMPTaIG1RDKTE1HHxDIHMwPDslUS8LBh9QIRsvezR4YnCKmEFAFh4OU0tHQR0kDzAcD0M1KjdmNh1AQ1NqMGZOXio5GyAwJBhxZlsKCgkULlNRIRk/SRZPMU1LSww5OTA7MVEcDjxYT28FDA8cBid0QAwLTVdpKochTzAiXi4fPCxLGA1jKIxQCxkaJUtCUxk2hEImTDlOM2lGVDA2Mkk0OmeEFEickXWAWCNXGFCWDl0UOV1lUSFLHSwdZ1xzTDtKfCBaW2dAZDkNEk5NdzwhKQYFCUBRPQhwWy46T0tmqHA2Nl6RTBsqGkV9aE9PVEtMPT2CsW0eTzw8QzdELa0hdH5FDwkSDCJAPhIGCQYEG4CpbcdYBxIXFx0oVZkPik0rFw4PGToGSDAxNiUvK49qK4ylKxIPDB8mhoB1hWEZLRAJIRc2MFw5Gg8o",
+          "middle": "PT2CsW0eTzw8QzdELa0hdH5FDwkSDCJAPhIGCQYEG4CpbcdYBxIXFx0oVZkPik0rFw4PGToGSDAxNiUvK49qK4ylKxIPDB8mhoB1hWEZLRAJIRc2MFw5Gg8oKYFPPTG0SRwYGw1FLWeYSzYjHBQLGx9rbjVBDBAIGIB1NqeZOhgiFE4INU0lJwkhBw8LBWGEaR0tIRgpDiw2LVI+Ij8fbho+RzMQHBslMRQJFYR4bTw5KTAmKY2TWLaOMB5XOSw1FHowJSI8oIFSaLl1J7IdGQ4PJp1oMmmYYDk5MiscUxpOLzOeeZOVmWRvnDyFEgwMWb5GJkePbB8NJCoQPYssK6R0RwQMJhCKMI9KMQoHfcAyHCFqkDIPCRIajxpyYFIePDRLQBN9dTw5Gw0MQ71rISNlhTRXazQpIHEhQkk2XhQqXQ11aB4eEyIPSXd7GRI9aXV/bXhwekMuPBwTPBkVdw10bRUlNhMVHTY/JRdCBw43ThgQFC45CCURLycOeityXy0pOjYdHnKiKXxqeG5CQDc8OTILCQQdLCwKW0xYPSEbGi8XGktiV11UOzcoFhMVFhUQEBUUBhgPLC9ACQ0MCg0s",
+          "bottom": "SXd7GRI9aXV/bXhwekMuPBwTPBkVdw10bRUlNhMVHTY/JRdCBw43ThgQFC45CCURLycOeityXy0pOjYdHnKiKXxqeG5CQDc8OTILCQQdLCwKW0xYPSEbGi8XGktiV11UOzcoFhMVFhUQEBUUBhgPLC9ACQ0MCg0sDg4vFk08GSMxCwYIBwYFBgQLEA4IHgwdDggBAgUJAkJPZWs4MFwxBAQEBAQEAgAQDkhBLQYjCgkEAQEGGEItfjk5LGUYAQQEBAkGAwMDPk9VYRgYGAQCBQIBDhdGTiEeUE0FBQIKCgYBBQUcI10wZg8tCAUHBQYJDhhBEyopWDUNDA4MCwoLCwsSGE5FZBIgDgsJBQgGDxhQHBwPYR8JDAYDAwgHDA0TDxcvQhEqERUZGB4kJy5LZx1qLwQSCA0RDgsJDAsEIi4RZUQpQyYnExMUPT9pViYxHioECgUDCQ0QEwsCAiRFCTgoHCcsLCw6FTk5WTggHRoZCgQGERQYJigREQAXOhcLOS4rGBoaFyI8GB4gKBEPDg0WDAIGBRUYGBgODgMICgQLCQIWIx8XEQ4LFhEMFxklLzEwOSkfDQwICQoLDwYGCAIP"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.396213,
+          "top": 24.401188,
+          "middle": 23.560727,
+          "bottom": 31.21972,
+          "effectiveRatio": 0.501836
+        },
+        "extendable": false,
+        "sha256": "7498973b2d0127460b98c184c0a606243e5c5223b0c134a413440b2c425fa86c"
+      },
+      "strictPassed": true,
+      "imageCredit": "Johnmaxmena2",
+      "creditDisplay": "자료사진 · Johnmaxmena2 · 2026.03.31 · CC BY 4.0\ncommons.wikimedia.org/?curid=188247390 · creativecommons.org/licenses/by/4.0/\n크롭·글자 추가",
+      "context": "2026년3월31일 세인트루이스전에서 타석에 들어서는 메츠 소토와 뒤에서 대기하는 비셋.포수는MLB해당 경기의유일포수 이반 에레라와대조했다.",
+      "sceneGroup": "soto-bichette-20260331-ondeck",
+      "rightsEvidence": "Commons exact pageid188247390 extmetadata의 Johnmaxmena2, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/를 저장하고 대조했다. 카드에 출처·라이선스·편집고지를 표시한다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:23:46.660Z",
+      "visualReviewLimitations": "소토 앞/비셋 뒤/포수 에레라와 관중의 일부가 보인다. 해당 경기선수명단과 대조했으며 전 소속팀 유니폼으로 주장하지 않는다.",
+      "fit": "cover"
+    }
+  ]
+}
