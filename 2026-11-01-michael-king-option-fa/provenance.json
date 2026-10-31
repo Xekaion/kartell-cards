@@ -1,0 +1,811 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "마이클 킹, 선수 옵션 거절하고 FA",
+  "issueKey": "mlb-20261031-michael-king-2027-player-option-declined",
+  "checkedAt": "2026-10-31T16:03:45.799Z",
+  "sourceUrl": "https://www.mlb.com/news/michael-king-free-agent-2027",
+  "corroboratingUrls": [
+    "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
+    "https://statsapi.mlb.com/api/v1/people/650633?hydrate=currentTeam,stats(group=[pitching],type=[yearByYear])"
+  ],
+  "rightsEvidence": "King실사진3장은사용자가확보한국내매체사용권을실제스포츠동아원문게티이미지코리아사진에한정연결한다.구장1장은CCBY-SA4.0개별허락,바스케스1장은USMC공식DVIDSPublicDomain이며각저자/원문/편집고지를남긴다.미국독자매체계약권리확대0.",
+  "photos": [
+    {
+      "id": "donga-20250730-1",
+      "url": "https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/30/132102600.1.jpg",
+      "sourceUrl": "https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/30/132102600.1.jpg",
+      "sourcePageUrl": "https://sports.donga.com/sports/article/all/20250730/132102603/1",
+      "author": "게티이미지코리아 · 스포츠동아",
+      "photoDate": "정확한 촬영일 미확인 자료사진(2025-07-30 기사 게재 이전)",
+      "originalDescription": "마이클 킹. 사진=게티이미지코리아",
+      "articleDate": "20250730",
+      "description": "샌디에이고 홈 유니폼의 킹이 낮 경기에서 공을 들어 투구하는 장면. 2025년7월30일 스포츠동아 기사에 게재된 자료이며 촬영일은 원문에 없다.2026년 옵션 발표/등판 사진으로 표현하지 않는다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\king-option\\selected\\photo-1.jpg",
+      "sha256": "03e40770eb1c9c4f605977efa2856501f5a91afecb31b55040e7ca9f1a99dbfa",
+      "width": 1200,
+      "height": 1754,
+      "bytes": 268508,
+      "strictNativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:42:04.694Z",
+        "width": 1200,
+        "height": 1754,
+        "bytes": 268508,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.6793039717096403,
+        "entropy": 7.764345977571793,
+        "effectiveDetailRatio": 0.556975,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1754,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "a533242431192d2d",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "IQ0JPHJ1TCMfLjYxgWYqbnw+U0czHgsYMTY8NywcFwoFDDE0HRUXTywWHB0NOV0wQEAlEhIVKTU0LCIPFAwJERQKHxU+NRgSGQ4XKjYFCx0bBgoPEhYUEwsKFA4PCgoXHCYjb3cfGwYRGCQkJiETBwkQCgYKCQ0QFRQDIzY5OTM/LWhmIh8hHD4wIyQXDQwOEBQRFxkrFQ4xUEc9NSBAFEBbRhkmIFQrKCYcEg4OFhUWICccDyRVTjwrIBwuaRMyVCcvOUEZHBwjHBETGB8iHBEMDT5kSy8bFB4ZWVs+VkYzdWU4KxMdHQ4TGxkLERcSE0xsSBUVFhcPKHxkabXjz4RtakAfIQ8XDAkdIRkGFlluPREEDhENI1GwuJV9WlNAOFxHKTAaDxIeGBArGVtwPg8NEREQHkMTj7cqDRMlUishDh4sLyotNk1MF1BqRh4bGhsrOlXgnuXeGDRHMx47oKlvNRw4Q1A1EUBeRjQqLSNLOKaDJT3xO24VWlHLv157nIIeMTEmDSpNQzovM0JqH6F+NQTDgjorfVySdOCVXl2EMxkWDBA1RD0rJT1Zi4pAXSte1keLQC1q/4Q7NEBYYykECgsKKDAqMSscelVzPF81bXEvNX+1JnOLfoVOnVYKBAgNESoqKTMZX2BYa1OAKmGdrGNFpo9fNg66sikFAQIULjsrM0ZAe3EiTkV0tt5qIKSgTAw1btS4HQ0NAwwhLi4aRmRvf/8/nCIxbyydnkUVUIOZqGwJHR4gBxYlJiQPUXYrJ6a7HllibadCITo7Xl9AFyYzKCsqCRMvLikhUZMxFiamb0Q7WhA/HhIYQi0fIzImGhYbCQUcLSsWVaI7GhYxl5UHQjoREQkYNC8hJxwFDAsNAwgSGCQZW5A9MhsyQo90RyAJBAQVJCEkIw4CCwwOHBokJSYfbGYaDxw2KBpULgYRDwYTHw4IDBAICQ0JKCcwJxkZbGQXHSovIBcSFxAZERQgMh4bIBsPCxAYLC4wIxUNboAHKy8uFwcUKCIcEhYMPSMRFBYUEBASHBoTECAWdIIXRBENJg8aFiAeHCABSjYSEQ8NFxEKCg8TEhcQgX1FOCgWEycEHwUcJSINUzkOAgcBAgsBKS00KSYSb4gsPD44HhsnDgokT2k7W04KCQUEBQQEPzhBQC0fhVBnjSYmJhYkHyx5axdTjl8DCQQGAQcJKyIiKCsniSZ6oOKock0KM1lVZnBWKIowDQoEAwkABgQFEyctn1fErUqmk2E1BnKHRj8vG1xdCQ0KEAsFAgICEyBIr11Dx+V9l5AvbVZ7pSsxETlXIRwbIBsbAQIDEh1fvEQdC0p5bQhHUQUGjsg6ETE8GxgVFBomAQICER6Aty84dVgrSkF+FAoGII5rCjsxAggDCg8VAQICEiGRqhN1VyAtQYRgBgwNQ5tcGFwsGx8aIywjAQICECmekitaQBcSK5FbCAdEpnUJU18LERETGSMvAgIDDjGneTQ4OC0VNqFPCjCJdxstax8QCA4MCRox",
+          "top": "IQ0JPHJ1TCMfLjYxgWYqbnw+U0czHgsYMTY8NywcFwoFDDE0HRUXTywWHB0NOV0wQEAlEhIVKTU0LCIPFAwJERQKHxU+NRgSGQ4XKjYFCx0bBgoPEhYUEwsKFA4PCgoXHCYjb3cfGwYRGCQkJiETBwkQCgYKCQ0QFRQDIzY5OTM/LWhmIh8hHD4wIyQXDQwOEBQRFxkrFQ4xUEc9NSBAFEBbRhkmIFQrKCYcEg4OFhUWICccDyRVTjwrIBwuaRMyVCcvOUEZHBwjHBETGB8iHBEMDT5kSy8bFB4ZWVs+VkYzdWU4KxMdHQ4TGxkLERcSE0xsSBUVFhcPKHxkabXjz4RtakAfIQ8XDAkdIRkGFlluPREEDhENI1GwuJV9WlNAOFxHKTAaDxIeGBArGVtwPg8NEREQHkMTj7cqDRMlUishDh4sLyotNk1MF1BqRh4bGhsrOlXgnuXeGDRHMx47oKlvNRw4Q1A1EUBeRjQqLSNLOKaDJT3xO24VWlHLv157nIIeMTEmDSpNQzovM0JqH6F+NQTDgjorfVySdOCVXl2EMxkWDBA1RD0rJT1Zi4pAXSte1keLQC1q/4Q7NEBYYykE",
+          "middle": "EUBeRjQqLSNLOKaDJT3xO24VWlHLv157nIIeMTEmDSpNQzovM0JqH6F+NQTDgjorfVySdOCVXl2EMxkWDBA1RD0rJT1Zi4pAXSte1keLQC1q/4Q7NEBYYykECgsKKDAqMSscelVzPF81bXEvNX+1JnOLfoVOnVYKBAgNESoqKTMZX2BYa1OAKmGdrGNFpo9fNg66sikFAQIULjsrM0ZAe3EiTkV0tt5qIKSgTAw1btS4HQ0NAwwhLi4aRmRvf/8/nCIxbyydnkUVUIOZqGwJHR4gBxYlJiQPUXYrJ6a7HllibadCITo7Xl9AFyYzKCsqCRMvLikhUZMxFiamb0Q7WhA/HhIYQi0fIzImGhYbCQUcLSsWVaI7GhYxl5UHQjoREQkYNC8hJxwFDAsNAwgSGCQZW5A9MhsyQo90RyAJBAQVJCEkIw4CCwwOHBokJSYfbGYaDxw2KBpULgYRDwYTHw4IDBAICQ0JKCcwJxkZbGQXHSovIBcSFxAZERQgMh4bIBsPCxAYLC4wIxUNboAHKy8uFwcUKCIcEhYMPSMRFBYUEBASHBoTECAWdIIXRBENJg8aFiAeHCABSjYSEQ8NFxEK",
+          "bottom": "HBokJSYfbGYaDxw2KBpULgYRDwYTHw4IDBAICQ0JKCcwJxkZbGQXHSovIBcSFxAZERQgMh4bIBsPCxAYLC4wIxUNboAHKy8uFwcUKCIcEhYMPSMRFBYUEBASHBoTECAWdIIXRBENJg8aFiAeHCABSjYSEQ8NFxEKCg8TEhcQgX1FOCgWEycEHwUcJSINUzkOAgcBAgsBKS00KSYSb4gsPD44HhsnDgokT2k7W04KCQUEBQQEPzhBQC0fhVBnjSYmJhYkHyx5axdTjl8DCQQGAQcJKyIiKCsniSZ6oOKock0KM1lVZnBWKIowDQoEAwkABgQFEyctn1fErUqmk2E1BnKHRj8vG1xdCQ0KEAsFAgICEyBIr11Dx+V9l5AvbVZ7pSsxETlXIRwbIBsbAQIDEh1fvEQdC0p5bQhHUQUGjsg6ETE8GxgVFBomAQICER6Aty84dVgrSkF+FAoGII5rCjsxAggDCg8VAQICEiGRqhN1VyAtQYRgBgwNQ5tcGFwsGx8aIywjAQICECmekitaQBcSK5FbCAdEpnUJU18LERETGSMvAgIDDjGneTQ4OC0VNqFPCjCJdxstax8QCA4MCRox"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.60448,
+          "top": 24.333849,
+          "middle": 35.390792,
+          "bottom": 37.667272,
+          "effectiveRatio": 0.556975
+        },
+        "extendable": false,
+        "sha256": "03e40770eb1c9c4f605977efa2856501f5a91afecb31b55040e7ca9f1a99dbfa"
+      },
+      "strictPassed": true,
+      "imageCredit": "게티이미지코리아 · 스포츠동아",
+      "creditDisplay": "게티이미지코리아 · 자료사진(촬영일 미확인)",
+      "context": "샌디에이고 홈 유니폼의 킹이 낮 경기에서 공을 들어 투구하는 장면. 2025년7월30일 스포츠동아 기사에 게재된 자료이며 촬영일은 원문에 없다.2026년 옵션 발표/등판 사진으로 표현하지 않는다.",
+      "sceneGroup": "king-day-delivery-pre20250730",
+      "subjectType": "player",
+      "license": "사용자 확보 국내매체 사용권",
+      "licenseUrl": null,
+      "rightsEvidence": "2026-10-15 사용자가 국내 언론사·야구 관련인 사진의 사용 계약과 사용료 지급을 직접 확인했다. 실제 스포츠동아 원문에 게재된 동일 게티이미지코리아 사진과 명시 크레딧·자료사진 맥락에 한정한다. 미국 독자 매체에 별도 계약이 있다고 추정하지 않는다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:36:17.355Z",
+      "visualReviewLimitations": "스포츠동아 제공 사진의 게티이미지코리아 표시가 하단에 있다. 원본 표시를 지우거나 복원하지 않았으며 최종 크롭/글자 배치에서 사진 맥락과 출처표시를 유지한다.",
+      "fit": "cover"
+    },
+    {
+      "id": "donga-20250414-1",
+      "url": "https://dimg.donga.com/wps/SPORTS/IMAGE/2025/04/14/131407588.1.jpg",
+      "sourceUrl": "https://dimg.donga.com/wps/SPORTS/IMAGE/2025/04/14/131407588.1.jpg",
+      "sourcePageUrl": "https://sports.donga.com/sports/article/all/20250414/131407595/1",
+      "author": "게티이미지코리아 · 스포츠동아",
+      "photoDate": "정확한 촬영일 미확인 자료사진(2025-04-14 기사 게재 이전)",
+      "originalDescription": "마이클 킹. 사진=게티이미지코리아",
+      "articleDate": "20250414",
+      "description": "샌디에이고 카모 유니폼의 킹이 셋 포지션을 잡은 낮 경기 자료사진.첫 장과 복장·포즈·카메라·배경이 다르다.기사 발행일을 촬영일로 쓰지 않는다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\king-option\\selected\\photo-2.jpg",
+      "sha256": "5b97165d231d46ebbf5fb25d06a14dd266923ed06d33cf27b296676ba70e214b",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 251874,
+      "strictNativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:42:04.793Z",
+        "width": 1200,
+        "height": 1800,
+        "bytes": 251874,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.6656246990091637,
+        "entropy": 7.544741045217961,
+        "effectiveDetailRatio": 0.548917,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1800,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "e74686a6266bc9cd",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "HgQSLCcrFhoKESg7KAQmBjMxNx8DGi0ZCRoeERcHGRMaGhcEMhULDD4dOiclCyNBIBcGHiYcGiMnFSURDRgGGScuHgIGCxU0IwQ6DR8lNlgoGBYeFBYfDRYdFgIRFRgoHBQhEhQoDA4ZKlE7OTqBLxIQFxMdMSI1DRESFggGBggPEA8ZHAk0rWoeKS9ZbxAODxkYHiU9DAUSCBISERMKBgsIFyG5tXJLCRwmX0AaJg0RDQcfBw8FEQwEBhwZEQsJB1/VFnosFRELGjQdJitDNR0dBAoPBA4EFBEZEBttboexb21bDQ4hJA8dCSQXMRIRIA0qEgIVFA8XGXOrjIcob5JdFgghNig1HSM2LxAVIB5BPQwPCQ4LJGlbYSo+ZWAlUQseLVsvHRkxIxMdD0EgQSsLCxERIT+Rpa5tMitWGRANFmsrFAoSDQctFxo2Nw0QBwQQG0ExEVV0dU0IKRQFA1g4CwgGDRwQEgcJEwMSEAkVGQESICMdO1I2DxUcAlpNCAUNHBgPEw4VIQ4JGTRILhkLECZjmXocPypSEVJJLSAGHgQTRx4aDgwoUloyTScmHDeGjmySd6hgmGgcNTUWExINNiwuICQ/PhVTQgMcN0iqZzl8pUgaW9paFEEyAgggEwkiKQYxLThRGy0lJUKTQBQxFwkDFYKoHx9DISRGICgjIhUVIQUuShEuP2Z8HAkIBAgNFEaxIxI0OTMtDxckFRAdIBQRPVUmVZ5jDA0IAggDDEOOKAsXJDIeHBoTGAogJRw8OUdAN7RvCQ0GCgwQEE+WKTAkJzFEKioeFCkLGx8QKAstI66PBAUJCBMJFWKmLyAWJjgMFA8TGBENNztBJj46HpuFAwQICw8IDXKgHg4EEg0jGB4dHxMaRx4fEBE3DY16AgQTNRMJBm2TKgoQFSAiGg8genAuKD4QQRgZIoR5CQovhDcOA2aaKkUyCRopDhp5urR7I0hiPmQ6IY9yEg51aYgbCW2kIUpIMzoxJoWlXVK1XEFtK0FyZnlECxGLU7gzCmGVHhczMywiXmxGYzhidahkD0l6cTlgGQuSjMR7DziuLy2KO0AiXRVDN1MnZ4Y4U0claE16RRippIfCHBd8gYQZqxd5MEQfm0hFaA0mY0U1VRKlPTvAeGe/QA4KejuLTk5OXD1RPzQwM1oqQVQ5SUWKLki5aDyvpAYMH3BbJ0RuHEVrY1Moc2huLmAdIlJVHUewXQBGz2YKKHQ+QUZfTmxQdU1mqjN4gmpMT1YsD2LMQw4Mf6wpKElyQR5bbmWBUXirelF9poJ3caGHF5q+GBAMPsViDhlEiS9tHUU2YnZXNTc8UEU7QKK4CLqhBA8NC5HKGYPCmU2OKi8fdVMGAwMEAwQGE7ezFcieBBENGjPXb5HDLyYhFDMYZ04DAAEAAQEGELy3SeprCg0SFhW1k0jQWCokT1QudI58fYGCf31/hfCRk8OLf4FoHm3MqDrPsXxnbHdde8PIx8fHxsfF0LkkOqDTxcrTm9TKJCgvz8a5",
+          "top": "HgQSLCcrFhoKESg7KAQmBjMxNx8DGi0ZCRoeERcHGRMaGhcEMhULDD4dOiclCyNBIBcGHiYcGiMnFSURDRgGGScuHgIGCxU0IwQ6DR8lNlgoGBYeFBYfDRYdFgIRFRgoHBQhEhQoDA4ZKlE7OTqBLxIQFxMdMSI1DRESFggGBggPEA8ZHAk0rWoeKS9ZbxAODxkYHiU9DAUSCBISERMKBgsIFyG5tXJLCRwmX0AaJg0RDQcfBw8FEQwEBhwZEQsJB1/VFnosFRELGjQdJitDNR0dBAoPBA4EFBEZEBttboexb21bDQ4hJA8dCSQXMRIRIA0qEgIVFA8XGXOrjIcob5JdFgghNig1HSM2LxAVIB5BPQwPCQ4LJGlbYSo+ZWAlUQseLVsvHRkxIxMdD0EgQSsLCxERIT+Rpa5tMitWGRANFmsrFAoSDQctFxo2Nw0QBwQQG0ExEVV0dU0IKRQFA1g4CwgGDRwQEgcJEwMSEAkVGQESICMdO1I2DxUcAlpNCAUNHBgPEw4VIQ4JGTRILhkLECZjmXocPypSEVJJLSAGHgQTRx4aDgwoUloyTScmHDeGjmySd6hgmGgcNTUWExIN",
+          "middle": "EgcJEwMSEAkVGQESICMdO1I2DxUcAlpNCAUNHBgPEw4VIQ4JGTRILhkLECZjmXocPypSEVJJLSAGHgQTRx4aDgwoUloyTScmHDeGjmySd6hgmGgcNTUWExINNiwuICQ/PhVTQgMcN0iqZzl8pUgaW9paFEEyAgggEwkiKQYxLThRGy0lJUKTQBQxFwkDFYKoHx9DISRGICgjIhUVIQUuShEuP2Z8HAkIBAgNFEaxIxI0OTMtDxckFRAdIBQRPVUmVZ5jDA0IAggDDEOOKAsXJDIeHBoTGAogJRw8OUdAN7RvCQ0GCgwQEE+WKTAkJzFEKioeFCkLGx8QKAstI66PBAUJCBMJFWKmLyAWJjgMFA8TGBENNztBJj46HpuFAwQICw8IDXKgHg4EEg0jGB4dHxMaRx4fEBE3DY16AgQTNRMJBm2TKgoQFSAiGg8genAuKD4QQRgZIoR5CQovhDcOA2aaKkUyCRopDhp5urR7I0hiPmQ6IY9yEg51aYgbCW2kIUpIMzoxJoWlXVK1XEFtK0FyZnlECxGLU7gzCmGVHhczMywiXmxGYzhidahkD0l6cTlgGQuSjMR7DziuLy2KO0Ai",
+          "bottom": "Gg8genAuKD4QQRgZIoR5CQovhDcOA2aaKkUyCRopDhp5urR7I0hiPmQ6IY9yEg51aYgbCW2kIUpIMzoxJoWlXVK1XEFtK0FyZnlECxGLU7gzCmGVHhczMywiXmxGYzhidahkD0l6cTlgGQuSjMR7DziuLy2KO0AiXRVDN1MnZ4Y4U0claE16RRippIfCHBd8gYQZqxd5MEQfm0hFaA0mY0U1VRKlPTvAeGe/QA4KejuLTk5OXD1RPzQwM1oqQVQ5SUWKLki5aDyvpAYMH3BbJ0RuHEVrY1Moc2huLmAdIlJVHUewXQBGz2YKKHQ+QUZfTmxQdU1mqjN4gmpMT1YsD2LMQw4Mf6wpKElyQR5bbmWBUXirelF9poJ3caGHF5q+GBAMPsViDhlEiS9tHUU2YnZXNTc8UEU7QKK4CLqhBA8NC5HKGYPCmU2OKi8fdVMGAwMEAwQGE7ezFcieBBENGjPXb5HDLyYhFDMYZ04DAAEAAQEGELy3SeprCg0SFhW1k0jQWCokT1QudI58fYGCf31/hfCRk8OLf4FoHm3MqDrPsXxnbHdde8PIx8fHxsfF0LkkOqDTxcrTm9TKJCgvz8a5"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.198324,
+          "top": 31.136912,
+          "middle": 20.863721,
+          "bottom": 14.900963,
+          "effectiveRatio": 0.548917
+        },
+        "extendable": false,
+        "sha256": "5b97165d231d46ebbf5fb25d06a14dd266923ed06d33cf27b296676ba70e214b"
+      },
+      "strictPassed": true,
+      "imageCredit": "게티이미지코리아 · 스포츠동아",
+      "creditDisplay": "게티이미지코리아 · 자료사진(촬영일 미확인)",
+      "context": "샌디에이고 카모 유니폼의 킹이 셋 포지션을 잡은 낮 경기 자료사진.첫 장과 복장·포즈·카메라·배경이 다르다.기사 발행일을 촬영일로 쓰지 않는다.",
+      "sceneGroup": "king-camo-set-pre20250414",
+      "subjectType": "player",
+      "license": "사용자 확보 국내매체 사용권",
+      "licenseUrl": null,
+      "rightsEvidence": "2026-10-15 사용자가 국내 언론사·야구 관련인 사진의 사용 계약과 사용료 지급을 직접 확인했다. 실제 스포츠동아 원문에 게재된 동일 게티이미지코리아 사진과 명시 크레딧·자료사진 맥락에 한정한다. 미국 독자 매체에 별도 계약이 있다고 추정하지 않는다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:36:17.426Z",
+      "visualReviewLimitations": "스포츠동아 제공 사진의 게티이미지코리아 표시가 하단에 있다. 원본 표시를 지우거나 복원하지 않았으며 최종 크롭/글자 배치에서 사진 맥락과 출처표시를 유지한다.",
+      "fit": "cover"
+    },
+    {
+      "id": "donga-20241002a-1",
+      "url": "https://dimg.donga.com/wps/SPORTS/IMAGE/2024/10/02/130141535.1.jpg",
+      "sourceUrl": "https://dimg.donga.com/wps/SPORTS/IMAGE/2024/10/02/130141535.1.jpg",
+      "sourcePageUrl": "https://sports.donga.com/sports/article/all/20241002/130141560/1",
+      "author": "게티이미지코리아 · 스포츠동아",
+      "photoDate": "정확한 촬영일 미확인 자료사진(2024-10-02 기사 게재 이전)",
+      "originalDescription": "마이클 킹. 사진=게티이미지코리아",
+      "articleDate": "20241002",
+      "description": "샌디에이고 홈 유니폼 킹의 야간 투구 팔로스루 전신 자료사진.2/1/2025 사진과 같은기저사진이므로2/1판은 선택하지않았다.첫 장 주간투구와는 프레이밍·조명·행동이 다르다.",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\king-option\\selected\\photo-3.jpg",
+      "sha256": "514bd93833ab5a1fa7bf69854f9e7101891e871a6a0297fb35b047bc0b718164",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 280658,
+      "strictNativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:42:04.896Z",
+        "width": 1200,
+        "height": 1800,
+        "bytes": 280658,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.1665528011578807,
+        "entropy": 7.743267809040844,
+        "effectiveDetailRatio": 0.584146,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1800,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "658b3323c7e70f98",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "KzFCIS5XWlQnUzY6bUc1U3ZgKxAcEGuFloc8uUs+ISQwKTI0E0+Uh31iXzYXMylcYj4sh6eSgUX6f0UaHS1AHwsWTWBLFS9bWXh1XzlHWio7iGhILM2gHyoaIiFbLBkmLT08OigxZl5kYVhrpWQoclUTVKtcCR8sIRE1OxhJVlAISC4lW2MlPYEnWMVmnnMhepRGEhwfCRIaOSVOW4eIHFpbXXIfoenGUC+RSp6JdWYzLhUUExwXHg5RcUCurR9lx1Fy6knVi1Apvl5EOzc3JhMbKSccDyljlxZKm5+xfDqhlyd6hldTLV0vYFkhCxc4XWtPOUFmbTUkJkBkJXKgWxZGb0MrLA5TaSAQCxxSZx9NJgsbT5VSHUdvmZBxUUEwTHYhNzY+LS4KGS5oikw9LhgMPz53RH6dYxkdWyE4TWkoNW1aKEw/FBBKTFhbNjcZLByAltJAQkQud3VURh9NkmWRERhTW0kRETo+QUEXNkhl3GNrZSwVBm5HYliAYpaGKS8fMlc9HBoTVkISJUpySgQkeE8mMjo8UkJCfkuICCcmIk8xBhIaVWYkNlJekX4WNmgiKAU7ORsze1JzEBcMQFMlGAQkMGZMEiw+M4drVUciLRsMFFChIolJLh8XPj8ZHxEaFSBQMjQmKCtAJD4+STlLi4RIeEg/VGY6OA41CUsjMWI7CEY3EkQ1E0lAFkNxWiJKgDBHEkeDVB0lUWI5S1opSDpAP0k+Gik7UFFAIgptdDZ7Yjl1YAowUS4kOSNeUSgeUCclGTEWWmIdHRCLeSE0SkZoNwMlNjlhPD03IRkTIBM2HyM3YlcTHiWEWAo/HjM3Ig4JPiNAFCE/MRIEJBk8VWEqRUAJGC5/RhQzGykoLiUOQho0Ey8vTyMNHT47XyYWRzcBHTyNPDAWEwsGITEkNzdaFCsgLy0WIklGIkcgYTEKIDleSD0gCQ4BCiQkGCJROjQZICsWGg1IUycwdi8JHUxNFBQgFhUNFA0jPiIpNjUxNi4RDRQgJxpIaiAcHmlqAjAhHBwKGAYgO29CESJdXTMIECMNKigwaUUuFl9mZTI0Fh00PRIMdXmGd31+TDAtLCYgJiU/iVsKOm4kSnUgQSgiGEgvYz1aenlZLCQ5Nyw5SV12vzAdlcSbnFMUTF1tfmhBIBEZIyUgGBUbGxodJD7Zsw1O/4xMTBcTKThDTTUdAQIDAAACBAQEBAMICGb/WyCpxFlEOicWKgsCBQQEBAMCBQUGBQQEBQUCGMzeHTqVcH1wXzQyLgsDBggELi0vLi4uMDAvLzEpbf9wFU5cJAcVLSxBWzkqKiwxd3Z0eHt7fH56fHx39LEZNIY7Cg8HDyoxXnl9goB7T09OUFFSUVRTUkmWqQ8iXkUmHSwrLCslPFNVV1ZRBQYHBwQEBAIDB0aCHSk9Qw8IBwgFAwICAQMFCQYEBAMDAQIBAQssYZA5FSBQahUGBAIFAggMDw0BChAMAwEECg4EGC5WTyJLU2+eTxAGEBoaGR0UERIQGhIW",
+          "top": "KzFCIS5XWlQnUzY6bUc1U3ZgKxAcEGuFloc8uUs+ISQwKTI0E0+Uh31iXzYXMylcYj4sh6eSgUX6f0UaHS1AHwsWTWBLFS9bWXh1XzlHWio7iGhILM2gHyoaIiFbLBkmLT08OigxZl5kYVhrpWQoclUTVKtcCR8sIRE1OxhJVlAISC4lW2MlPYEnWMVmnnMhepRGEhwfCRIaOSVOW4eIHFpbXXIfoenGUC+RSp6JdWYzLhUUExwXHg5RcUCurR9lx1Fy6knVi1Apvl5EOzc3JhMbKSccDyljlxZKm5+xfDqhlyd6hldTLV0vYFkhCxc4XWtPOUFmbTUkJkBkJXKgWxZGb0MrLA5TaSAQCxxSZx9NJgsbT5VSHUdvmZBxUUEwTHYhNzY+LS4KGS5oikw9LhgMPz53RH6dYxkdWyE4TWkoNW1aKEw/FBBKTFhbNjcZLByAltJAQkQud3VURh9NkmWRERhTW0kRETo+QUEXNkhl3GNrZSwVBm5HYliAYpaGKS8fMlc9HBoTVkISJUpySgQkeE8mMjo8UkJCfkuICCcmIk8xBhIaVWYkNlJekX4WNmgiKAU7ORsze1JzEBcMQFMl",
+          "middle": "ETo+QUEXNkhl3GNrZSwVBm5HYliAYpaGKS8fMlc9HBoTVkISJUpySgQkeE8mMjo8UkJCfkuICCcmIk8xBhIaVWYkNlJekX4WNmgiKAU7ORsze1JzEBcMQFMlGAQkMGZMEiw+M4drVUciLRsMFFChIolJLh8XPj8ZHxEaFSBQMjQmKCtAJD4+STlLi4RIeEg/VGY6OA41CUsjMWI7CEY3EkQ1E0lAFkNxWiJKgDBHEkeDVB0lUWI5S1opSDpAP0k+Gik7UFFAIgptdDZ7Yjl1YAowUS4kOSNeUSgeUCclGTEWWmIdHRCLeSE0SkZoNwMlNjlhPD03IRkTIBM2HyM3YlcTHiWEWAo/HjM3Ig4JPiNAFCE/MRIEJBk8VWEqRUAJGC5/RhQzGykoLiUOQho0Ey8vTyMNHT47XyYWRzcBHTyNPDAWEwsGITEkNzdaFCsgLy0WIklGIkcgYTEKIDleSD0gCQ4BCiQkGCJROjQZICsWGg1IUycwdi8JHUxNFBQgFhUNFA0jPiIpNjUxNi4RDRQgJxpIaiAcHmlqAjAhHBwKGAYgO29CESJdXTMIECMNKigwaUUuFl9mZTI0Fh00PRIM",
+          "bottom": "NzdaFCsgLy0WIklGIkcgYTEKIDleSD0gCQ4BCiQkGCJROjQZICsWGg1IUycwdi8JHUxNFBQgFhUNFA0jPiIpNjUxNi4RDRQgJxpIaiAcHmlqAjAhHBwKGAYgO29CESJdXTMIECMNKigwaUUuFl9mZTI0Fh00PRIMdXmGd31+TDAtLCYgJiU/iVsKOm4kSnUgQSgiGEgvYz1aenlZLCQ5Nyw5SV12vzAdlcSbnFMUTF1tfmhBIBEZIyUgGBUbGxodJD7Zsw1O/4xMTBcTKThDTTUdAQIDAAACBAQEBAMICGb/WyCpxFlEOicWKgsCBQQEBAMCBQUGBQQEBQUCGMzeHTqVcH1wXzQyLgsDBggELi0vLi4uMDAvLzEpbf9wFU5cJAcVLSxBWzkqKiwxd3Z0eHt7fH56fHx39LEZNIY7Cg8HDyoxXnl9goB7T09OUFFSUVRTUkmWqQ8iXkUmHSwrLCslPFNVV1ZRBQYHBwQEBAIDB0aCHSk9Qw8IBwgFAwICAQMFCQYEBAMDAQIBAQssYZA5FSBQahUGBAIFAggMDw0BChAMAwEECg4EGC5WTyJLU2+eTxAGEBoaGR0UERIQGhIW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 31.293133,
+          "top": 39.097952,
+          "middle": 22.962815,
+          "bottom": 25.254772,
+          "effectiveRatio": 0.584146
+        },
+        "extendable": false,
+        "sha256": "514bd93833ab5a1fa7bf69854f9e7101891e871a6a0297fb35b047bc0b718164"
+      },
+      "strictPassed": true,
+      "imageCredit": "게티이미지코리아 · 스포츠동아",
+      "creditDisplay": "게티이미지코리아 · 자료사진(촬영일 미확인)",
+      "context": "샌디에이고 홈 유니폼 킹의 야간 투구 팔로스루 전신 자료사진.2/1/2025 사진과 같은기저사진이므로2/1판은 선택하지않았다.첫 장 주간투구와는 프레이밍·조명·행동이 다르다.",
+      "sceneGroup": "king-night-followthrough-pre20241002",
+      "subjectType": "player",
+      "license": "사용자 확보 국내매체 사용권",
+      "licenseUrl": null,
+      "rightsEvidence": "2026-10-15 사용자가 국내 언론사·야구 관련인 사진의 사용 계약과 사용료 지급을 직접 확인했다. 실제 스포츠동아 원문에 게재된 동일 게티이미지코리아 사진과 명시 크레딧·자료사진 맥락에 한정한다. 미국 독자 매체에 별도 계약이 있다고 추정하지 않는다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:36:17.497Z",
+      "visualReviewLimitations": "스포츠동아 제공 사진의 게티이미지코리아 표시가 하단에 있다. 원본 표시를 지우거나 복원하지 않았으며 최종 크롭/글자 배치에서 사진 맥락과 출처표시를 유지한다.",
+      "fit": "cover"
+    },
+    {
+      "id": "commons-155087714",
+      "pageid": 155087714,
+      "title": "File:Petco Park 2024.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Petco_Park_2024.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Petco_Park_2024.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Petco_Park_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Petco_Park_2024.jpg",
+      "author": "IvanL04",
+      "photoDate": "2024-11-10",
+      "description": "펫코파크 외야·관중석·도심을 바라본 2024년 세로 자료사진. 식별되는 특정 선수의 사진이나2026옵트아웃현장으로 소개하지 않는다.",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2024-11-11 06:21:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Petco Park 2024",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Petco Park|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Vista del estadio de los padres de san diego",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-11-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:IvanL04&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:IvanL04 (page does not exist)\">IvanL04</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "originalWidth": 1200,
+      "originalHeight": 1600,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\king-photo4-replacement\\petco-portrait-cc0-original.jpg",
+      "sha256": "3df1f3f68fb34c81bc8adce5c8a17c92cfd940488f0e7cdc66347abc1ccd091c",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 277836,
+      "strictNativeCoverScale": 0.9,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T15:50:32.139Z",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 277836,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.0220845640314944,
+        "entropy": 7.175082777061107,
+        "effectiveDetailRatio": 0.61166,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1600,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "d674a1c1411fef1c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BwgICAkIBgUEAAEBAQACAQIBAgQJCgsAPU4/MjoXCAgEBAQFBAIEAgAAAgUEAgEBBAYEARReZSAzKD9AEhAODQ0MCwoJAgIFBRE5RT84KAUFDFdWExAGDyM5EA8REA4NCwoNJCYNDEhfSkpCVEcqPlISDAQ0YXAtCgYEBAQCAAU0VVFIO2AlBA4MIE9SSh0GCzWLpIpZBAgaDQMCBSxcNStHTigKBAMGEBQeIQcIF22TOExxEDlAOx0LCy1KGQQSHQoHCQ0GCAQOFwYKJExed30uSU0jOkYhISpQIAgDAQgJBQkECQQLGQkDGCEsN0YhQxkLGTU5Rjo7JgcFBQYLBgkDEA0LIAEgIDA0MzEpOAkFDBozKj8uHAYDEBARBwcFDwwMH0SJZGxzY2NpJQgDDA8MAxIdBQkFDA8XCQYFCwQISZdKQFAyHxZPBAULDQMGBgQGCwwUBw4UCgYHCwQKOXlHHjNWY2KFCAsEDAULBAgHDAMWFw8VCwQFCg0JMHFzYGmAg3VzBAgICgwDAQENDQgEFAoRCgMIDwsXIyJLPjg5LSEVBgQEDAgGBAEIBAYKBgYLDxUUFRcSBAsUEgUNDgYCBwgICQYFBAIMCwYCAwkVJBIHCx0ZBB0cEA4YHB0pEwUYGg8YBRAGBAoEARkqDhYOOEpAFR8TDg0QDxQrEzJHSVVOMxgXEA0IFzAfFgc8TAs3KBoUERIXFyIwSU5CNjUzRSMOCAIJICUaFwYVLikdDQUNBgMPEwgKEw8oLjAtKywUMwYZKhkTFx4KQycsNy8oJyYnKjE1LDU5JxsdHwMwOkpPSUNFMhhcWSImIzw3OkQwLVkfKgkXGRYZGB8vHkIyHC47bj90ExwNDDgxKCkfHixLJCgrGhAEEBIQIxcKIy4bMXQpDhcTNy8UCBMaCicwGxAJExgTGzM9RTYsPhQZBygtHz83LwQNCA8CEQQhIh4WKEFfZ2hlTiQaCQoQGBEICAgEBxIWEg0MCAUERVp5dV1DLBYQGRkQChEVDQQOEhAJBAwIAQYLDw0CREUwLCwVBhQYEgQSHBoLCRMQBwURFhEHBgsOBwULAwsdIwQcIhMDDh0fEQcbHxUEDxUXDwcOFxYNAwkMBQYCDyMdBRweEw0NFh0XCA0dGQ0GBQ0RCgMOEg8HHw0HBxAbJRgJICESBBQcISEYBhsXDwgHDg0LBgUJCSAVCAoGDyUsGQ8gFgQCAwUQIRAPDwkGAQIHCAYEIQMYGQcRFBkcKicMEB4RCgUIDRwRCQcECQsEBAUBKyILFCEPDAQFBBUmHgUOEBASDggGCgwNCgUFCAQBESgiCBEkGAYIBhANFxYUFgsQCgcHDggMCgkBCQcGAwYfIAkLHh4IEAgSDAgVCQQFCAUHBAYECwsHCAcDBAQIIiQPBRckBxQNBBALAgUCCAoBDwoKDAQCBQEGCQwPCyAnDQEVHxEJBRADAgQFBAEKCQYGCQ8GBwkGBwcCAQIXIw0CEBQOCQsFBAcGBAYFAQQJAgwGDgsH",
+          "top": "BwgICAkIBgUEAAEBAQACAQIBAgQJCgsAPU4/MjoXCAgEBAQFBAIEAgAAAgUEAgEBBAYEARReZSAzKD9AEhAODQ0MCwoJAgIFBRE5RT84KAUFDFdWExAGDyM5EA8REA4NCwoNJCYNDEhfSkpCVEcqPlISDAQ0YXAtCgYEBAQCAAU0VVFIO2AlBA4MIE9SSh0GCzWLpIpZBAgaDQMCBSxcNStHTigKBAMGEBQeIQcIF22TOExxEDlAOx0LCy1KGQQSHQoHCQ0GCAQOFwYKJExed30uSU0jOkYhISpQIAgDAQgJBQkECQQLGQkDGCEsN0YhQxkLGTU5Rjo7JgcFBQYLBgkDEA0LIAEgIDA0MzEpOAkFDBozKj8uHAYDEBARBwcFDwwMH0SJZGxzY2NpJQgDDA8MAxIdBQkFDA8XCQYFCwQISZdKQFAyHxZPBAULDQMGBgQGCwwUBw4UCgYHCwQKOXlHHjNWY2KFCAsEDAULBAgHDAMWFw8VCwQFCg0JMHFzYGmAg3VzBAgICgwDAQENDQgEFAoRCgMIDwsXIyJLPjg5LSEVBgQEDAgGBAEIBAYKBgYLDxUUFRcSBAsUEgUNDgYC",
+          "middle": "CAsEDAULBAgHDAMWFw8VCwQFCg0JMHFzYGmAg3VzBAgICgwDAQENDQgEFAoRCgMIDwsXIyJLPjg5LSEVBgQEDAgGBAEIBAYKBgYLDxUUFRcSBAsUEgUNDgYCBwgICQYFBAIMCwYCAwkVJBIHCx0ZBB0cEA4YHB0pEwUYGg8YBRAGBAoEARkqDhYOOEpAFR8TDg0QDxQrEzJHSVVOMxgXEA0IFzAfFgc8TAs3KBoUERIXFyIwSU5CNjUzRSMOCAIJICUaFwYVLikdDQUNBgMPEwgKEw8oLjAtKywUMwYZKhkTFx4KQycsNy8oJyYnKjE1LDU5JxsdHwMwOkpPSUNFMhhcWSImIzw3OkQwLVkfKgkXGRYZGB8vHkIyHC47bj90ExwNDDgxKCkfHixLJCgrGhAEEBIQIxcKIy4bMXQpDhcTNy8UCBMaCicwGxAJExgTGzM9RTYsPhQZBygtHz83LwQNCA8CEQQhIh4WKEFfZ2hlTiQaCQoQGBEICAgEBxIWEg0MCAUERVp5dV1DLBYQGRkQChEVDQQOEhAJBAwIAQYLDw0CREUwLCwVBhQYEgQSHBoLCRMQBwURFhEHBgsOBwUL",
+          "bottom": "GxAJExgTGzM9RTYsPhQZBygtHz83LwQNCA8CEQQhIh4WKEFfZ2hlTiQaCQoQGBEICAgEBxIWEg0MCAUERVp5dV1DLBYQGRkQChEVDQQOEhAJBAwIAQYLDw0CREUwLCwVBhQYEgQSHBoLCRMQBwURFhEHBgsOBwULAwsdIwQcIhMDDh0fEQcbHxUEDxUXDwcOFxYNAwkMBQYCDyMdBRweEw0NFh0XCA0dGQ0GBQ0RCgMOEg8HHw0HBxAbJRgJICESBBQcISEYBhsXDwgHDg0LBgUJCSAVCAoGDyUsGQ8gFgQCAwUQIRAPDwkGAQIHCAYEIQMYGQcRFBkcKicMEB4RCgUIDRwRCQcECQsEBAUBKyILFCEPDAQFBBUmHgUOEBASDggGCgwNCgUFCAQBESgiCBEkGAYIBhANFxYUFgsQCgcHDggMCgkBCQcGAwYfIAkLHh4IEAgSDAgVCQQFCAUHBAYECwsHCAcDBAQIIiQPBRckBxQNBBALAgUCCAoBDwoKDAQCBQEGCQwPCyAnDQEVHxEJBRADAgQFBAEKCQYGCQ8GBwkGBwcCAQIXIw0CEBQOCQsFBAcGBAYFAQQJAgwGDgsH"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 37.642822,
+          "top": 25.70728,
+          "middle": 53.950033,
+          "bottom": 28.668723,
+          "effectiveRatio": 0.61166
+        },
+        "extendable": false,
+        "sha256": "3df1f3f68fb34c81bc8adce5c8a17c92cfd940488f0e7cdc66347abc1ccd091c"
+      },
+      "strictPassed": true,
+      "imageCredit": "IvanL04 · 펫코파크 · 2024.11.10 자료 · 크롭·글자 · CC0",
+      "creditDisplay": "IvanL04 · CC0 · 2024.11.10 자료사진",
+      "context": "펫코파크 · 2024.11.10 자료사진 · 특정선수/2026현장사진아님",
+      "sceneGroup": "petco-20241110-outfield-portrait-ivanl04",
+      "subjectType": "current-team-stadium",
+      "rightsEvidence": "Wikimedia Commons 공식 File:Petco Park 2024.jpg와 imageinfo를 새로 읽고 IvanL04의 Own work·2024-11-10 촬영일·CC0 1.0 public domain dedication을 확인했다. 이 정확한 사진은 상업 복제/수정이 허용된다. 미국 언론사 사진 계약 범위를 추정하지 않는다.",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T15:48:20.811Z",
+      "visualReviewLimitations": "고층 관중석에서 찍은 약간 기울어진 구도. 원근·기울기를 편집하지 않았으며 최종 렌더/sourceMatch·root검수는 아직 수행하지 않았다.",
+      "rawWidth": 1200,
+      "rawHeight": 1600,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "d674a1c1411fef1c",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "BwgICAkIBgUEAAEBAQACAQIBAgQJCgsAPU4/MjoXCAgEBAQFBAIEAgAAAgUEAgEBBAYEARReZSAzKD9AEhAODQ0MCwoJAgIFBRE5RT84KAUFDFdWExAGDyM5EA8REA4NCwoNJCYNDEhfSkpCVEcqPlISDAQ0YXAtCgYEBAQCAAU0VVFIO2AlBA4MIE9SSh0GCzWLpIpZBAgaDQMCBSxcNStHTigKBAMGEBQeIQcIF22TOExxEDlAOx0LCy1KGQQSHQoHCQ0GCAQOFwYKJExed30uSU0jOkYhISpQIAgDAQgJBQkECQQLGQkDGCEsN0YhQxkLGTU5Rjo7JgcFBQYLBgkDEA0LIAEgIDA0MzEpOAkFDBozKj8uHAYDEBARBwcFDwwMH0SJZGxzY2NpJQgDDA8MAxIdBQkFDA8XCQYFCwQISZdKQFAyHxZPBAULDQMGBgQGCwwUBw4UCgYHCwQKOXlHHjNWY2KFCAsEDAULBAgHDAMWFw8VCwQFCg0JMHFzYGmAg3VzBAgICgwDAQENDQgEFAoRCgMIDwsXIyJLPjg5LSEVBgQEDAgGBAEIBAYKBgYLDxUUFRcSBAsUEgUNDgYCBwgICQYFBAIMCwYCAwkVJBIHCx0ZBB0cEA4YHB0pEwUYGg8YBRAGBAoEARkqDhYOOEpAFR8TDg0QDxQrEzJHSVVOMxgXEA0IFzAfFgc8TAs3KBoUERIXFyIwSU5CNjUzRSMOCAIJICUaFwYVLikdDQUNBgMPEwgKEw8oLjAtKywUMwYZKhkTFx4KQycsNy8oJyYnKjE1LDU5JxsdHwMwOkpPSUNFMhhcWSImIzw3OkQwLVkfKgkXGRYZGB8vHkIyHC47bj90ExwNDDgxKCkfHixLJCgrGhAEEBIQIxcKIy4bMXQpDhcTNy8UCBMaCicwGxAJExgTGzM9RTYsPhQZBygtHz83LwQNCA8CEQQhIh4WKEFfZ2hlTiQaCQoQGBEICAgEBxIWEg0MCAUERVp5dV1DLBYQGRkQChEVDQQOEhAJBAwIAQYLDw0CREUwLCwVBhQYEgQSHBoLCRMQBwURFhEHBgsOBwULAwsdIwQcIhMDDh0fEQcbHxUEDxUXDwcOFxYNAwkMBQYCDyMdBRweEw0NFh0XCA0dGQ0GBQ0RCgMOEg8HHw0HBxAbJRgJICESBBQcISEYBhsXDwgHDg0LBgUJCSAVCAoGDyUsGQ8gFgQCAwUQIRAPDwkGAQIHCAYEIQMYGQcRFBkcKicMEB4RCgUIDRwRCQcECQsEBAUBKyILFCEPDAQFBBUmHgUOEBASDggGCgwNCgUFCAQBESgiCBEkGAYIBhANFxYUFgsQCgcHDggMCgkBCQcGAwYfIAkLHh4IEAgSDAgVCQQFCAUHBAYECwsHCAcDBAQIIiQPBRckBxQNBBALAgUCCAoBDwoKDAQCBQEGCQwPCyAnDQEVHxEJBRADAgQFBAEKCQYGCQ8GBwkGBwcCAQIXIw0CEBQOCQsFBAcGBAYFAQQJAgwGDgsH",
+        "top": "BwgICAkIBgUEAAEBAQACAQIBAgQJCgsAPU4/MjoXCAgEBAQFBAIEAgAAAgUEAgEBBAYEARReZSAzKD9AEhAODQ0MCwoJAgIFBRE5RT84KAUFDFdWExAGDyM5EA8REA4NCwoNJCYNDEhfSkpCVEcqPlISDAQ0YXAtCgYEBAQCAAU0VVFIO2AlBA4MIE9SSh0GCzWLpIpZBAgaDQMCBSxcNStHTigKBAMGEBQeIQcIF22TOExxEDlAOx0LCy1KGQQSHQoHCQ0GCAQOFwYKJExed30uSU0jOkYhISpQIAgDAQgJBQkECQQLGQkDGCEsN0YhQxkLGTU5Rjo7JgcFBQYLBgkDEA0LIAEgIDA0MzEpOAkFDBozKj8uHAYDEBARBwcFDwwMH0SJZGxzY2NpJQgDDA8MAxIdBQkFDA8XCQYFCwQISZdKQFAyHxZPBAULDQMGBgQGCwwUBw4UCgYHCwQKOXlHHjNWY2KFCAsEDAULBAgHDAMWFw8VCwQFCg0JMHFzYGmAg3VzBAgICgwDAQENDQgEFAoRCgMIDwsXIyJLPjg5LSEVBgQEDAgGBAEIBAYKBgYLDxUUFRcSBAsUEgUNDgYC",
+        "middle": "CAsEDAULBAgHDAMWFw8VCwQFCg0JMHFzYGmAg3VzBAgICgwDAQENDQgEFAoRCgMIDwsXIyJLPjg5LSEVBgQEDAgGBAEIBAYKBgYLDxUUFRcSBAsUEgUNDgYCBwgICQYFBAIMCwYCAwkVJBIHCx0ZBB0cEA4YHB0pEwUYGg8YBRAGBAoEARkqDhYOOEpAFR8TDg0QDxQrEzJHSVVOMxgXEA0IFzAfFgc8TAs3KBoUERIXFyIwSU5CNjUzRSMOCAIJICUaFwYVLikdDQUNBgMPEwgKEw8oLjAtKywUMwYZKhkTFx4KQycsNy8oJyYnKjE1LDU5JxsdHwMwOkpPSUNFMhhcWSImIzw3OkQwLVkfKgkXGRYZGB8vHkIyHC47bj90ExwNDDgxKCkfHixLJCgrGhAEEBIQIxcKIy4bMXQpDhcTNy8UCBMaCicwGxAJExgTGzM9RTYsPhQZBygtHz83LwQNCA8CEQQhIh4WKEFfZ2hlTiQaCQoQGBEICAgEBxIWEg0MCAUERVp5dV1DLBYQGRkQChEVDQQOEhAJBAwIAQYLDw0CREUwLCwVBhQYEgQSHBoLCRMQBwURFhEHBgsOBwUL",
+        "bottom": "GxAJExgTGzM9RTYsPhQZBygtHz83LwQNCA8CEQQhIh4WKEFfZ2hlTiQaCQoQGBEICAgEBxIWEg0MCAUERVp5dV1DLBYQGRkQChEVDQQOEhAJBAwIAQYLDw0CREUwLCwVBhQYEgQSHBoLCRMQBwURFhEHBgsOBwULAwsdIwQcIhMDDh0fEQcbHxUEDxUXDwcOFxYNAwkMBQYCDyMdBRweEw0NFh0XCA0dGQ0GBQ0RCgMOEg8HHw0HBxAbJRgJICESBBQcISEYBhsXDwgHDg0LBgUJCSAVCAoGDyUsGQ8gFgQCAwUQIRAPDwkGAQIHCAYEIQMYGQcRFBkcKicMEB4RCgUIDRwRCQcECQsEBAUBKyILFCEPDAQFBBUmHgUOEBASDggGCgwNCgUFCAQBESgiCBEkGAYIBhANFxYUFgsQCgcHDggMCgkBCQcGAwYfIAkLHh4IEAgSDAgVCQQFCAUHBAYECwsHCAcDBAQIIiQPBRckBxQNBBALAgUCCAoBDwoKDAQCBQEGCQwPCyAnDQEVHxEJBRADAgQFBAEKCQYGCQ8GBwkGBwcCAQIXIw0CEBQOCQsFBAcGBAYFAQQJAgwGDgsH"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 37.642822,
+        "top": 25.70728,
+        "middle": 53.950033,
+        "bottom": 28.668723,
+        "effectiveRatio": 0.61166
+      },
+      "effectiveDetailRatio": 0.61166,
+      "effectiveSharpness": 3.0220845640315726,
+      "entropy": 7.175082777061107,
+      "extendable": false,
+      "index": 3,
+      "sourceSha256": "3df1f3f68fb34c81bc8adce5c8a17c92cfd940488f0e7cdc66347abc1ccd091c",
+      "coverScale": 0.9,
+      "scale": 0.9,
+      "strict": true,
+      "commonsMetadata": {
+        "DateTime": {
+          "value": "2024-11-11 06:21:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Petco Park 2024",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Petco Park|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Vista del estadio de los padres de san diego",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-11-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:IvanL04&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:IvanL04 (page does not exist)\">IvanL04</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "currentTeam": "샌디에이고 파드리스",
+      "people": [],
+      "sourceLabel": "MLB · 펫코파크 자료",
+      "currentTeamVenueVerified": true,
+      "visualReview": {
+        "nativeOriginalIndividuallyViewed": true,
+        "realPetcoParkInterior": true,
+        "portraitSuitable": true,
+        "distinctFromThreeKingPortraitsAndVasquezAutograph": true,
+        "notClaimedAsCurrentGameOrKingScene": true,
+        "minorTiltNotCorrected": true,
+        "noRecognizableMainPlayerClaim": true,
+        "limitations": "고층 관중석에서 찍은 약간 기울어진 구도. 원근·기울기를 편집하지 않았으며 최종 렌더/sourceMatch·root검수는 아직 수행하지 않았다."
+      },
+      "fit": "cover"
+    },
+    {
+      "name": "commons-64200739",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Petco_Field_-_San_Diego%2C_CA_-_USA_-_01_%286776067922%29.jpg/1920px-Petco_Field_-_San_Diego%2C_CA_-_USA_-_01_%286776067922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Petco_Field_-_San_Diego,_CA_-_USA_-_01_(6776067922).jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-01-midnight-catchup\\research-packages\\king-photo5-replacement\\native\\photos\\commons-64200739.jpg",
+      "width": 1920,
+      "height": 2560,
+      "rawWidth": 1920,
+      "rawHeight": 2560,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "fd6741018c730e17",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "CQkIBwcHBwcGBwcHBwgGBgkKDA4/NlxjIAsCBAsMCwoJCQkJCQgICAcHCAcGBDE4CRRUTkJqJA0MDAYHDwkIBwgICAgICgoKCQQOO0M7UxQzaC9JGR8UFB4nDg4SEBAQDxASAgMNDxANNVdgORIQQxtFV09JSkhKPTk2LispJCMqT1NMPDAqKQUVKygnWk4kRFdPSkw6VFJMVlNLSkdabmqUgntgZXNtWU5OhFhldG0hNUAUkZV7ko2BmH+JdGR5b2tZXUtFX10gUCA6KFI5GSI/VWBsXXRrbXR4SDcGLD4lLT45OWEOO2yEpHgwMiopJDMeMhQaOBcDGzJrYlEoORkNGCJUQWlfeq2RSzIrFBAKFBIgDCUQGzlEYYSMmZ2hqYiFa4SKglhLKScIFBIEFwcdIxcNGBQyUGElFQgQFBEZPk5VWV1GHiYHFiEYDQwLAg8NDhcbFjROJBkQKygoNBkaFjg0IRMHFCkyJyApIh4UDyQiES4pWEYqGi8/HTY5JjBdHBIIAA4QGy0XBQ8KBgIMPjU4GT5cmJ92b2JQYIBzWxcMBxEYIiUuJiUWEDBHRhdDXWx5SSUzETE7KSxMRBIaPD08LB4SHCRAYXZ1Z1t5hmo8DBEaJR4mDxIVGkUbCQ8eLCcVNVFkZUk0MDEnFgkFEgYEBQUGDy8uKz4hPjYuHh1QUx0XLkNHSVNBNUVTYm1ueHp8dxkMEgsbCAQFBgYQSWpiWkIuKzRCISAkIBoJHC5Bd1kHBgkCBwMGAwQMChAmOUImDQ4UKhgJIRgnPDwuUlgEBwkHNjk0PkU+Q1RQSD8qIi41IiAUEw4PJkZneUQJBwYDf35xd3tzdHp2dXFiWFNPVVBTWl5kdGt6hx0LCQgBNC0/ODNDPDA5Py01RwkaKxU3MikkCxw4V1AWHRccLCg0LigkHhINCBEgL2VMSDk/SkNWaWJdXB4aFioeCwIXKDdCTVhaW1pTZjwLUzoqIBsNCQ4OBgoFBAMOfHZ5d2dmXUZDNRsQDg0UAhETEgsECQ4EEQELFRkVMB8dDAwLICEdHBMLCgoGDg0KAwoJBAEODB8aHxgQFQ0hJBMXCgcDBA4JCggBBgwDEQoKFgwXKh0OEhIvERUcDgcNDxEODQMIFhYOEQkUCg4IBgEJExsXMzstFAwSERgOBQUQESMYFxMJAwcXGjcpJyMfGRkREAwmEBIHBwgSDxYQFgkQDhAWHSwiKB0XCwsXEBAJEgUHFxEQCwsDDQ0NESYhHhoVFREkGjkuHhoFLB0mMDE/CBAcFR4ZHhsQBQkGDQ0TFy0cGxkGDChLPjQwKhEMNSUZDwcPBhMYGBEQEBMHBQQcJTY8SEAlFxcYQFVRHjAgGh4QDA4QDAsNJio5PkhAOzQcBSJOWkpPThwWKxAmCQYNGBkrMD49NDsmFA0bKlRSUlJEHBYhPFVMCRoVGicyOD9ARCQBFiNNSl5dW0QJGCtPWD88NS0iLDY8OD4zCA4lMT9PVmBbHB4ZLVhTPjksHBEZIzs8",
+        "top": "CQkIBwcHBwcGBwcHBwgGBgkKDA4/NlxjIAsCBAsMCwoJCQkJCQgICAcHCAcGBDE4CRRUTkJqJA0MDAYHDwkIBwgICAgICgoKCQQOO0M7UxQzaC9JGR8UFB4nDg4SEBAQDxASAgMNDxANNVdgORIQQxtFV09JSkhKPTk2LispJCMqT1NMPDAqKQUVKygnWk4kRFdPSkw6VFJMVlNLSkdabmqUgntgZXNtWU5OhFhldG0hNUAUkZV7ko2BmH+JdGR5b2tZXUtFX10gUCA6KFI5GSI/VWBsXXRrbXR4SDcGLD4lLT45OWEOO2yEpHgwMiopJDMeMhQaOBcDGzJrYlEoORkNGCJUQWlfeq2RSzIrFBAKFBIgDCUQGzlEYYSMmZ2hqYiFa4SKglhLKScIFBIEFwcdIxcNGBQyUGElFQgQFBEZPk5VWV1GHiYHFiEYDQwLAg8NDhcbFjROJBkQKygoNBkaFjg0IRMHFCkyJyApIh4UDyQiES4pWEYqGi8/HTY5JjBdHBIIAA4QGy0XBQ8KBgIMPjU4GT5cmJ92b2JQYIBzWxcMBxEYIiUuJiUWEDBHRhdDXWx5SSUzETE7KSxMRBIa",
+        "middle": "FCkyJyApIh4UDyQiES4pWEYqGi8/HTY5JjBdHBIIAA4QGy0XBQ8KBgIMPjU4GT5cmJ92b2JQYIBzWxcMBxEYIiUuJiUWEDBHRhdDXWx5SSUzETE7KSxMRBIaPD08LB4SHCRAYXZ1Z1t5hmo8DBEaJR4mDxIVGkUbCQ8eLCcVNVFkZUk0MDEnFgkFEgYEBQUGDy8uKz4hPjYuHh1QUx0XLkNHSVNBNUVTYm1ueHp8dxkMEgsbCAQFBgYQSWpiWkIuKzRCISAkIBoJHC5Bd1kHBgkCBwMGAwQMChAmOUImDQ4UKhgJIRgnPDwuUlgEBwkHNjk0PkU+Q1RQSD8qIi41IiAUEw4PJkZneUQJBwYDf35xd3tzdHp2dXFiWFNPVVBTWl5kdGt6hx0LCQgBNC0/ODNDPDA5Py01RwkaKxU3MikkCxw4V1AWHRccLCg0LigkHhINCBEgL2VMSDk/SkNWaWJdXB4aFioeCwIXKDdCTVhaW1pTZjwLUzoqIBsNCQ4OBgoFBAMOfHZ5d2dmXUZDNRsQDg0UAhETEgsECQ4EEQELFRkVMB8dDAwLICEdHBMLCgoGDg0KAwoJBAEODB8aHxgQ",
+        "bottom": "LCg0LigkHhINCBEgL2VMSDk/SkNWaWJdXB4aFioeCwIXKDdCTVhaW1pTZjwLUzoqIBsNCQ4OBgoFBAMOfHZ5d2dmXUZDNRsQDg0UAhETEgsECQ4EEQELFRkVMB8dDAwLICEdHBMLCgoGDg0KAwoJBAEODB8aHxgQFQ0hJBMXCgcDBA4JCggBBgwDEQoKFgwXKh0OEhIvERUcDgcNDxEODQMIFhYOEQkUCg4IBgEJExsXMzstFAwSERgOBQUQESMYFxMJAwcXGjcpJyMfGRkREAwmEBIHBwgSDxYQFgkQDhAWHSwiKB0XCwsXEBAJEgUHFxEQCwsDDQ0NESYhHhoVFREkGjkuHhoFLB0mMDE/CBAcFR4ZHhsQBQkGDQ0TFy0cGxkGDChLPjQwKhEMNSUZDwcPBhMYGBEQEBMHBQQcJTY8SEAlFxcYQFVRHjAgGh4QDA4QDAsNJio5PkhAOzQcBSJOWkpPThwWKxAmCQYNGBkrMD49NDsmFA0bKlRSUlJEHBYhPFVMCRoVGicyOD9ARCQBFiNNSl5dW0QJGCtPWD88NS0iLDY8OD4zCA4lMT9PVmBbHB4ZLVhTPjksHBEZIzs8"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 75.229324,
+        "top": 94.685385,
+        "middle": 82.964212,
+        "bottom": 61.129531,
+        "effectiveRatio": 0.713806
+      },
+      "effectiveDetailRatio": 0.713806,
+      "effectiveSharpness": 6.736508219811738,
+      "entropy": 7.791307787410915,
+      "extendable": false,
+      "bytes": 1438428,
+      "sha256": "bff0c0a26b08a82718fc5244607f031bd642cbac5bd836b88f01862ed4f1ebdd",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-10-31T16:02:03.762Z",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 1438428,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 6.736508219811681,
+        "entropy": 7.791307787410915,
+        "effectiveDetailRatio": 0.713806,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "fd6741018c730e17",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CQkIBwcHBwcGBwcHBwgGBgkKDA4/NlxjIAsCBAsMCwoJCQkJCQgICAcHCAcGBDE4CRRUTkJqJA0MDAYHDwkIBwgICAgICgoKCQQOO0M7UxQzaC9JGR8UFB4nDg4SEBAQDxASAgMNDxANNVdgORIQQxtFV09JSkhKPTk2LispJCMqT1NMPDAqKQUVKygnWk4kRFdPSkw6VFJMVlNLSkdabmqUgntgZXNtWU5OhFhldG0hNUAUkZV7ko2BmH+JdGR5b2tZXUtFX10gUCA6KFI5GSI/VWBsXXRrbXR4SDcGLD4lLT45OWEOO2yEpHgwMiopJDMeMhQaOBcDGzJrYlEoORkNGCJUQWlfeq2RSzIrFBAKFBIgDCUQGzlEYYSMmZ2hqYiFa4SKglhLKScIFBIEFwcdIxcNGBQyUGElFQgQFBEZPk5VWV1GHiYHFiEYDQwLAg8NDhcbFjROJBkQKygoNBkaFjg0IRMHFCkyJyApIh4UDyQiES4pWEYqGi8/HTY5JjBdHBIIAA4QGy0XBQ8KBgIMPjU4GT5cmJ92b2JQYIBzWxcMBxEYIiUuJiUWEDBHRhdDXWx5SSUzETE7KSxMRBIaPD08LB4SHCRAYXZ1Z1t5hmo8DBEaJR4mDxIVGkUbCQ8eLCcVNVFkZUk0MDEnFgkFEgYEBQUGDy8uKz4hPjYuHh1QUx0XLkNHSVNBNUVTYm1ueHp8dxkMEgsbCAQFBgYQSWpiWkIuKzRCISAkIBoJHC5Bd1kHBgkCBwMGAwQMChAmOUImDQ4UKhgJIRgnPDwuUlgEBwkHNjk0PkU+Q1RQSD8qIi41IiAUEw4PJkZneUQJBwYDf35xd3tzdHp2dXFiWFNPVVBTWl5kdGt6hx0LCQgBNC0/ODNDPDA5Py01RwkaKxU3MikkCxw4V1AWHRccLCg0LigkHhINCBEgL2VMSDk/SkNWaWJdXB4aFioeCwIXKDdCTVhaW1pTZjwLUzoqIBsNCQ4OBgoFBAMOfHZ5d2dmXUZDNRsQDg0UAhETEgsECQ4EEQELFRkVMB8dDAwLICEdHBMLCgoGDg0KAwoJBAEODB8aHxgQFQ0hJBMXCgcDBA4JCggBBgwDEQoKFgwXKh0OEhIvERUcDgcNDxEODQMIFhYOEQkUCg4IBgEJExsXMzstFAwSERgOBQUQESMYFxMJAwcXGjcpJyMfGRkREAwmEBIHBwgSDxYQFgkQDhAWHSwiKB0XCwsXEBAJEgUHFxEQCwsDDQ0NESYhHhoVFREkGjkuHhoFLB0mMDE/CBAcFR4ZHhsQBQkGDQ0TFy0cGxkGDChLPjQwKhEMNSUZDwcPBhMYGBEQEBMHBQQcJTY8SEAlFxcYQFVRHjAgGh4QDA4QDAsNJio5PkhAOzQcBSJOWkpPThwWKxAmCQYNGBkrMD49NDsmFA0bKlRSUlJEHBYhPFVMCRoVGicyOD9ARCQBFiNNSl5dW0QJGCtPWD88NS0iLDY8OD4zCA4lMT9PVmBbHB4ZLVhTPjksHBEZIzs8",
+          "top": "CQkIBwcHBwcGBwcHBwgGBgkKDA4/NlxjIAsCBAsMCwoJCQkJCQgICAcHCAcGBDE4CRRUTkJqJA0MDAYHDwkIBwgICAgICgoKCQQOO0M7UxQzaC9JGR8UFB4nDg4SEBAQDxASAgMNDxANNVdgORIQQxtFV09JSkhKPTk2LispJCMqT1NMPDAqKQUVKygnWk4kRFdPSkw6VFJMVlNLSkdabmqUgntgZXNtWU5OhFhldG0hNUAUkZV7ko2BmH+JdGR5b2tZXUtFX10gUCA6KFI5GSI/VWBsXXRrbXR4SDcGLD4lLT45OWEOO2yEpHgwMiopJDMeMhQaOBcDGzJrYlEoORkNGCJUQWlfeq2RSzIrFBAKFBIgDCUQGzlEYYSMmZ2hqYiFa4SKglhLKScIFBIEFwcdIxcNGBQyUGElFQgQFBEZPk5VWV1GHiYHFiEYDQwLAg8NDhcbFjROJBkQKygoNBkaFjg0IRMHFCkyJyApIh4UDyQiES4pWEYqGi8/HTY5JjBdHBIIAA4QGy0XBQ8KBgIMPjU4GT5cmJ92b2JQYIBzWxcMBxEYIiUuJiUWEDBHRhdDXWx5SSUzETE7KSxMRBIa",
+          "middle": "FCkyJyApIh4UDyQiES4pWEYqGi8/HTY5JjBdHBIIAA4QGy0XBQ8KBgIMPjU4GT5cmJ92b2JQYIBzWxcMBxEYIiUuJiUWEDBHRhdDXWx5SSUzETE7KSxMRBIaPD08LB4SHCRAYXZ1Z1t5hmo8DBEaJR4mDxIVGkUbCQ8eLCcVNVFkZUk0MDEnFgkFEgYEBQUGDy8uKz4hPjYuHh1QUx0XLkNHSVNBNUVTYm1ueHp8dxkMEgsbCAQFBgYQSWpiWkIuKzRCISAkIBoJHC5Bd1kHBgkCBwMGAwQMChAmOUImDQ4UKhgJIRgnPDwuUlgEBwkHNjk0PkU+Q1RQSD8qIi41IiAUEw4PJkZneUQJBwYDf35xd3tzdHp2dXFiWFNPVVBTWl5kdGt6hx0LCQgBNC0/ODNDPDA5Py01RwkaKxU3MikkCxw4V1AWHRccLCg0LigkHhINCBEgL2VMSDk/SkNWaWJdXB4aFioeCwIXKDdCTVhaW1pTZjwLUzoqIBsNCQ4OBgoFBAMOfHZ5d2dmXUZDNRsQDg0UAhETEgsECQ4EEQELFRkVMB8dDAwLICEdHBMLCgoGDg0KAwoJBAEODB8aHxgQ",
+          "bottom": "LCg0LigkHhINCBEgL2VMSDk/SkNWaWJdXB4aFioeCwIXKDdCTVhaW1pTZjwLUzoqIBsNCQ4OBgoFBAMOfHZ5d2dmXUZDNRsQDg0UAhETEgsECQ4EEQELFRkVMB8dDAwLICEdHBMLCgoGDg0KAwoJBAEODB8aHxgQFQ0hJBMXCgcDBA4JCggBBgwDEQoKFgwXKh0OEhIvERUcDgcNDxEODQMIFhYOEQkUCg4IBgEJExsXMzstFAwSERgOBQUQESMYFxMJAwcXGjcpJyMfGRkREAwmEBIHBwgSDxYQFgkQDhAWHSwiKB0XCwsXEBAJEgUHFxEQCwsDDQ0NESYhHhoVFREkGjkuHhoFLB0mMDE/CBAcFR4ZHhsQBQkGDQ0TFy0cGxkGDChLPjQwKhEMNSUZDwcPBhMYGBEQEBMHBQQcJTY8SEAlFxcYQFVRHjAgGh4QDA4QDAsNJio5PkhAOzQcBSJOWkpPThwWKxAmCQYNGBkrMD49NDsmFA0bKlRSUlJEHBYhPFVMCRoVGicyOD9ARCQBFiNNSl5dW0QJGCtPWD88NS0iLDY8OD4zCA4lMT9PVmBbHB4ZLVhTPjksHBEZIzs8"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 75.229324,
+          "top": 94.685385,
+          "middle": 82.964212,
+          "bottom": 61.129531,
+          "effectiveRatio": 0.713806
+        },
+        "extendable": false,
+        "sha256": "bff0c0a26b08a82718fc5244607f031bd642cbac5bd836b88f01862ed4f1ebdd"
+      },
+      "coverScale": 0.5625,
+      "index": 4,
+      "id": "commons-64200739",
+      "pageid": 64200739,
+      "title": "File:Petco Field - San Diego, CA - USA - 01 (6776067922).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Petco_Field_-_San_Diego%2C_CA_-_USA_-_01_%286776067922%29.jpg/1920px-Petco_Field_-_San_Diego%2C_CA_-_USA_-_01_%286776067922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Petco_Field_-_San_Diego%2C_CA_-_USA_-_01_%286776067922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2736,
+      "originalHeight": 3648,
+      "sourceSha256": "bff0c0a26b08a82718fc5244607f031bd642cbac5bd836b88f01862ed4f1ebdd",
+      "sourceLabel": "MLB · 펫코파크 자료",
+      "author": "Adam Jones",
+      "photoDate": "2012-02-22",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "licenseMetadata": {
+        "DateTime": {
+          "value": "2017-11-20 09:06:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Petco Field - San Diego, CA - USA - 01 (6776067922)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Petco Park|Photographs by Adam Jones|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Petco Field - San Diego, CA - USA - 01",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-02-22 10:32",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/adam_jones/6776067922/\">Petco Field - San Diego, CA - USA - 01</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41000732@N04\">Adam Jones</a> from Kelowna, BC, Canada",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "commonsMetadata": {
+        "DateTime": {
+          "value": "2017-11-20 09:06:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Petco Field - San Diego, CA - USA - 01 (6776067922)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Petco Park|Photographs by Adam Jones|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Petco Field - San Diego, CA - USA - 01",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-02-22 10:32",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/adam_jones/6776067922/\">Petco Field - San Diego, CA - USA - 01</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41000732@N04\">Adam Jones</a> from Kelowna, BC, Canada",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "imageCredit": "Adam Jones · 펫코파크 · 2012.02.22 자료 · 크롭·글자 · 카드 CC BY-SA2.0",
+      "creditDisplay": "Adam Jones · CC BY-SA 2.0 · 2012.02.22 자료",
+      "context": "펫코파크 · 2012.02.22 자료사진 · 2026현장/킹 사진 아님",
+      "description": "펫코파크 외야 낮은 관중석에서 그라운드와 빈 스탠드를 바라본 2012년 세로 자료사진. 2026년 현장이나 마이클 킹의 모습으로 소개하지 않는다.",
+      "sceneGroup": "petco-20120222-bleachers-portrait-adam-jones",
+      "subjectType": "current-team-stadium",
+      "currentTeam": "샌디에이고 파드리스",
+      "people": [],
+      "currentTeamVenueVerified": true,
+      "currentTeamUniformVerified": true,
+      "strictNativeCoverScale": 0.5625,
+      "strictPassed": true,
+      "strict": true,
+      "rightsStatus": "approved",
+      "rightsEvidence": "Wikimedia Commons 공식 imageinfo의 File:Petco Field - San Diego, CA - USA - 01 (6776067922).jpg에서 Adam Jones 촬영(2012-02-22 10:32), Flickr원본링크, CC BY-SA 2.0을 확인했다. 공식 표준1920px thumbnail이며 native2736×3648을 축소한 동일기저사진이다. 미국 언론사 계약으로 추정하지 않는다. 저자/라이선스/원문을 표시하고 파생물에 동일라이선스 적용이 필요하다.",
+      "attribution": {
+        "author": "Adam Jones",
+        "authorUrl": "https://www.flickr.com/people/41000732@N04",
+        "title": "Petco Field - San Diego, CA - USA - 01 (6776067922).jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Petco_Field_-_San_Diego,_CA_-_USA_-_01_(6776067922).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "공식Commons1920px축소판을 원본대로 사용. 카드 제작 시 정상center-cover·텍스트/gradient 추가는 별도 root검수 및 동일조건 라이선스·변경고지에 연결해야 함.",
+        "shareAlikeRequired": true
+      },
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-10-31T16:00:24.625Z",
+      "visualReview": {
+        "nativeOriginalIndividuallyViewed": true,
+        "realPetcoParkInterior": true,
+        "portraitSuitable": true,
+        "noMainPlayerIdentification": true,
+        "differentFromIvan2024HighStandOutfield": true,
+        "archiveDateExplicit": true,
+        "notClaimedAsCurrent2026Appearance": true,
+        "centerCoverExpectedVerticalLossFraction": 0.0625,
+        "limitations": "2012년 구장 자료사진으로 옛 광고/좌석·시설 모습이 포함된다. 현재경기나2026년 시설상태 증명으로 쓰지 않는다. 원근/색/선명도/크롭 편집0. root 최종 렌더/sourceMatch 검수 미완료."
+      },
+      "distinctness": [
+        {
+          "index": 0,
+          "sha256": "03e40770eb1c9c4f605977efa2856501f5a91afecb31b55040e7ca9f1a99dbfa",
+          "sameSha": false,
+          "perceptualHash": "a533242431192d2d",
+          "hammingDistance": 30
+        },
+        {
+          "index": 1,
+          "sha256": "5b97165d231d46ebbf5fb25d06a14dd266923ed06d33cf27b296676ba70e214b",
+          "sameSha": false,
+          "perceptualHash": "e74686a6266bc9cd",
+          "hammingDistance": 31
+        },
+        {
+          "index": 2,
+          "sha256": "514bd93833ab5a1fa7bf69854f9e7101891e871a6a0297fb35b047bc0b718164",
+          "sameSha": false,
+          "perceptualHash": "658b3323c7e70f98",
+          "hammingDistance": 27
+        },
+        {
+          "index": 3,
+          "sha256": "3df1f3f68fb34c81bc8adce5c8a17c92cfd940488f0e7cdc66347abc1ccd091c",
+          "sameSha": false,
+          "perceptualHash": "d674a1c1411fef1c",
+          "hammingDistance": 28
+        }
+      ],
+      "fit": "cover"
+    }
+  ]
+}
