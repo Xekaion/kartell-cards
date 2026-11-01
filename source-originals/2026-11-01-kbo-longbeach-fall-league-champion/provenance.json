@@ -1,0 +1,59 @@
+{
+  "version": "kbo-official-press-attachment-source-mirror-v1",
+  "sourcePageUrl": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12224",
+  "sourceArchiveUrl": "https://www.koreabaseball.com/Common/FileDownload.ashx?file=notice%2ffiles%2f2026%2f11%2f2026%20%ec%9a%b8%ec%82%b0-KBO%20Fall%20League%20%ea%b2%b0%ec%8a%b9%ec%a0%84%20%ec%8b%9c%ec%83%81%ec%8b%9d%20%ec%82%ac%ec%a7%84.zip",
+  "sourceArchiveSha256": "d49e71e971665e30d1219bcf162b4ae45c59812dd09df59a34f4b859227e2925",
+  "publisher": "KBO",
+  "imageCredit": "KBO 제공",
+  "imageRights": "KBO 공식 보도자료 첨부 시상식 사진",
+  "rightsEvidence": "KBO 공식 보도자료 bdSe=12224에 결승전 시상식 사진 ZIP이 보도자료 자료로 직접 첨부되어 있다. 이 미러는 ZIP 내부 원본 JPEG 바이트를 수정 없이 immutable HTTPS로 제공하기 위한 것이며 생성·확대·복원·재인코딩을 하지 않았다.",
+  "photoDate": "2026-10-31",
+  "checkedAt": "2026-11-01T12:03:00+09:00",
+  "files": [
+    {
+      "file": "source-1-team-champions.jpg",
+      "archiveEntry": "2026 울산-KBO Fall League 결승전 시상식 사진 1.jpg",
+      "sha256": "e79bde0e16dcda8f11aa08b9a449d3df97440947ac08bc4146013d372869e7b0",
+      "width": 2000,
+      "height": 1334,
+      "sceneGroup": "longbeach-team-champions-group-photo",
+      "description": "롱비치 코스트 선수단과 코칭스태프가 우승 트로피·꽃다발과 함께 단체 기념사진을 촬영한 장면. 전광판에 우승팀 표시가 보인다."
+    },
+    {
+      "file": "source-2-trophy-celebration.jpg",
+      "archiveEntry": "2026 울산-KBO Fall League 결승전 시상식 사진 5.jpg",
+      "sha256": "fce4256fbe7ba21c735427ae06f9833bfb608764457b35a1f588810bbf8f9aa5",
+      "width": 2000,
+      "height": 1353,
+      "sceneGroup": "longbeach-players-lift-championship-trophy",
+      "description": "롱비치 선수들이 우승 트로피를 들어 올리며 환호하는 시상식 세리머니. 단체 정렬 사진과 인물 동작·구도가 다르다."
+    },
+    {
+      "file": "source-3-mvp-bess.jpg",
+      "archiveEntry": "2026 울산-KBO Fall League 결승전 시상식 사진 4.jpg",
+      "sha256": "dddb80ec8f57aeba9c23a9c7739145dedc3969e10c7672fcfe8416c3cbdd933d",
+      "width": 2000,
+      "height": 1334,
+      "sceneGroup": "cuba-bess-fall-league-mvp-award",
+      "description": "쿠바 베쓰가 MVP 수상 보드와 꽃다발을 들고 KBO 관계자와 기념 촬영한 장면. 팀 트로피 세리머니와 주인공·행동이 다르다."
+    },
+    {
+      "file": "source-4-manager-wakamatsu.jpg",
+      "archiveEntry": "2026 울산-KBO Fall League 결승전 시상식 사진 3.jpg",
+      "sha256": "44773d9e115cae9d945dde6eedc1593324247a9282257089c0b2e9a131f8f012",
+      "width": 2000,
+      "height": 1365,
+      "sceneGroup": "don-wakamatsu-best-manager-award",
+      "description": "돈 와카마쓰 감독이 감독상 보드와 상패를 들고 KBO 관계자와 기념 촬영한 장면. MVP 수상자 사진과 인물·상패가 다르다."
+    },
+    {
+      "file": "source-5-championship-trophy.jpg",
+      "archiveEntry": "2026 울산-KBO Fall League 결승전 시상식 사진 6.jpg",
+      "sha256": "1730758661d8cd5aa8d340a41715b0bab788ae7dc505adf36ff37d5b19ecfdf3",
+      "width": 2000,
+      "height": 1334,
+      "sceneGroup": "fall-league-championship-trophy-closeup",
+      "description": "2026 울산-KBO 폴리그 우승 트로피 단독 클로즈업. 선수·수상 보드가 있는 다른 네 장과 구도가 다르다."
+    }
+  ]
+}
