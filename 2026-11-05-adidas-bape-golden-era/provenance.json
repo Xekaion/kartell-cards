@@ -1,0 +1,44 @@
+{
+  "channelId": "fashion-kartell",
+  "headline": "아디다스 X 베이프",
+  "issueKey": "adidas-bape-golden-era-purple-camo-november7-2026",
+  "sourceUrl": "https://hypebeast.com/2026/11/bape-adidas-jalen-williams-y2k-hoops-collection-headlined-crazy-energy-lookbook-release-info",
+  "corroboratingUrls": [
+    "https://news.adidas.com/termsconditions/basketball/adidas-and-bape--reunite-for-a-collection-inspired-by-the-basketball-golden-era-of-the-late--90s-and/s/f55e632a-3fc8-4133-9990-e92f7b2f40ef",
+    "https://www.fullress.com/a-bathing-ape-adidas-originals-golden-era-2026-fw-collection/",
+    "https://www.atmos-tokyo.com/lp/adidas-bape-goldenera-26fw",
+    "https://www.luck-d.com/agit/news/3700"
+  ],
+  "rightsEvidence": "사용자가 일본 매체 사진의 사용권도 확보했다고 직접 확인한 범위에 든 Fullress의 이 기사에 실제 게재된 제품 사진과 동일한 기저 사진이다. 해당 기사에서 연결한 정식 판매처 atmos가 게시한 더 큰 원본을 사용하며 카모·주름·패치/로고·윤곽을 실제 개별 대조했다. atmos의 공개 자체를 허가로 간주하지 않는다. 사용자가 확인한 Hypebeast 및 일본 매체 사진 사용권 범위. Hypebeast의 이번 공식 캠페인 004 사진과 Fullress의 세로 원본이 선글라스·목걸이·손/칼라 자세까지 같은 기저 사진임을 실제 대조했다. 크롭/압축이 다른 판으로 바이트 동일 주장은 하지 않는다.",
+  "photos": [
+    {
+      "sourceUrl": "https://assets.atmos-tokyo.com/items/L/kx0593-1.jpg",
+      "sourcePageUrl": "https://www.fullress.com/a-bathing-ape-adidas-originals-golden-era-2026-fw-collection/",
+      "sourceSha256": "169e4799d20338917377bef3eb72df9a05f17ad805043ff862599f06f387a1fa",
+      "imageCredit": "adidas / BAPE / Fullress",
+      "rightsEvidence": "사용자가 일본 매체 사진의 사용권도 확보했다고 직접 확인한 범위에 든 Fullress의 이 기사에 실제 게재된 제품 사진과 동일한 기저 사진이다. 해당 기사에서 연결한 정식 판매처 atmos가 게시한 더 큰 원본을 사용하며 카모·주름·패치/로고·윤곽을 실제 개별 대조했다. atmos의 공개 자체를 허가로 간주하지 않는다."
+    },
+    {
+      "sourceUrl": "https://assets.atmos-tokyo.com/items/L/kx0592-1.jpg",
+      "sourcePageUrl": "https://www.fullress.com/a-bathing-ape-adidas-originals-golden-era-2026-fw-collection/",
+      "sourceSha256": "3470e7734806c7b51d4a0d84dd812eafd1fbfd8444747fe68c250cc2967ea6e2",
+      "imageCredit": "adidas / BAPE / Fullress",
+      "rightsEvidence": "사용자가 일본 매체 사진의 사용권도 확보했다고 직접 확인한 범위에 든 Fullress의 이 기사에 실제 게재된 제품 사진과 동일한 기저 사진이다. 해당 기사에서 연결한 정식 판매처 atmos가 게시한 더 큰 원본을 사용하며 카모·주름·패치/로고·윤곽을 실제 개별 대조했다. atmos의 공개 자체를 허가로 간주하지 않는다."
+    },
+    {
+      "sourceUrl": "https://assets.atmos-tokyo.com/items/L/kx0596-1.jpg",
+      "sourcePageUrl": "https://www.fullress.com/a-bathing-ape-adidas-originals-golden-era-2026-fw-collection/",
+      "sourceSha256": "c198c8b9a98e277c714485107525e431eabbe92255e2c72646795a7df90d6383",
+      "imageCredit": "adidas / BAPE / Fullress",
+      "rightsEvidence": "사용자가 일본 매체 사진의 사용권도 확보했다고 직접 확인한 범위에 든 Fullress의 이 기사에 실제 게재된 제품 사진과 동일한 기저 사진이다. 해당 기사에서 연결한 정식 판매처 atmos가 게시한 더 큰 원본을 사용하며 카모·주름·패치/로고·윤곽을 실제 개별 대조했다. atmos의 공개 자체를 허가로 간주하지 않는다."
+    },
+    {
+      "sourceUrl": "https://www.fullress.com/wp-content/uploads/2026/11/111dfaegrtgwet-5.jpg",
+      "sourcePageUrl": "https://hypebeast.com/2026/11/bape-adidas-jalen-williams-y2k-hoops-collection-headlined-crazy-energy-lookbook-release-info",
+      "sourceSha256": "62b52b189090d66d2abf15a0a6e32db6e505ed45d11536e75797ea67e54b6665",
+      "imageCredit": "adidas / BAPE / Hypebeast",
+      "rightsEvidence": "사용자가 확인한 Hypebeast 및 일본 매체 사진 사용권 범위. Hypebeast의 이번 공식 캠페인 004 사진과 Fullress의 세로 원본이 선글라스·목걸이·손/칼라 자세까지 같은 기저 사진임을 실제 대조했다. 크롭/압축이 다른 판으로 바이트 동일 주장은 하지 않는다."
+    }
+  ],
+  "imageGeneration": false
+}
