@@ -1,0 +1,681 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "캔즐러, 시애틀 유니폼 입고 첫 기자회견",
+  "issueKey": "mlb-20261104-mariners-kanzler-first-introductory-press-conference",
+  "checkedAt": "2026-11-05T16:05:04.946Z",
+  "sourceUrl": "https://www.mlbkor.com/news/articleView.html?idxno=34761",
+  "corroboratingUrls": [
+    "https://www.mlb.com/mariners/news/mariners-introduce-jason-kanzler-as-new-manager",
+    "https://www.fox13seattle.com/sports/why-mariners-believe-jason-kanzler.amp",
+    "https://www.mk.co.kr/news/sports/12196074"
+  ],
+  "rightsEvidence": "사용자가 확인한 국내 언론사 계약은 해당 국내 원문에 게재된 정확한 촬영본/발표이미지만 적용한다. Commons3장은 개별CC와저작자·촬영일을 별도로 확인하고 카드/provenance에 필수표기를 연결한다. 미국전체사진권리확대0.",
+  "photos": [
+    {
+      "url": "https://img.mlbstatic.com/mlb-images/image/upload/v1793843796/mlb/vve8gelacpwrhwpskfhc.jpg",
+      "page": "https://www.mlbkor.com/news/articleView.html?idxno=34761",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mariners-kanzler-introduction\\sources\\official-native-presser.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T15:42:23.323Z",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 7595900,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.115243312485243,
+        "entropy": 7.463395762257278,
+        "effectiveDetailRatio": 0.480201,
+        "kind": "source",
+        "coverScale": 0.338,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 6000,
+        "rawHeight": 4000,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "47932b4d4f6b6f6d",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "HAcCAQEBAAECBhkyDwICAgIBAAABBCSTVjNrRgIECAoEBQEBAwYEOVR3WDMPBQQCAQACB1hxVDA3OQEBR0Q3JAUDChlJV0YXWl5bMCkjAgICBU2OHqNEEAEBOThFWUUNFjJeCQw9DhI0NhcuIQQBBCeXZ1ajPQICGywjIUE6EVpDNSYzOkZvW1UcCQMCAwdEr1WEeQ8CdpuwwqctDg1XOUEwSot+V243SxEIARpMJJcliBsJknuSlMl9EQQNCBIRWFofGlh4OywRCkk7YTp0XSkUUkJINGORKQkCAgUoVBoNFSRgZTNHFDN3PWh5FiBeRARDVkRZGwkNEQVaWhYeISEeIwkwQxYyh3EmU3uPHQwyIChbJh0cIHg+oV1TbYhfb3AyDBMnTSmOi2UoCywRCimEQxUOXX02OVEyWysbBE47FhQrJEyCXj5aQRIaFTtnJAMKeDxbLhwuSlIQJU8wEQg4NWRZPx8gE3QvI25jEQUFY48rj2QFVEs/SkwLH1Q7T2goRzImXgZ8aYQ6DwMCLJJiUadbFlg0SzUXOkoLMxg4MmcuYl9AfS8VEAQIHEiFaqHCeywcVScjVjIzIkQ/IVVpTGRwOSMLGQlW09KKQz6gxnpwwNZXLVY4PlAlHwhUnmpbM2MZI5n/xowiRxYXf3pbSL//thEkOERRMT41z3IZhitun/+GDCFTDkA9MFNRIxaB//s3K2J1Gjxyg8o2UX1WmlgFAgEsLTINPi8tIy8iN//mDltvMjsnM7Z2FlWUaD0QCj1GPVJATDYgDCgEBXD/gVeNVC0qJVWWIB9lx3kLDBI4RgUEOxAoIiIDBTbdtDu6YTUrDBWcUxsXv44OBBomHDJCgzcNTYNkLybFsxujji81IDR5dRcahrQxGUJXf2h/c3ARXWmAkUvUqxyupyQPFzg5jysRVbRISIOJby1DG2YyejIeVnCjlw2dyh0QGDAwm1URLZFBW2xiXhBCe34qSHR2PCOdaxF43j4VHBZxW2QUMZY2QHc8cZOUY0sHJitVfXLAWBdT0WITHCgbJm4xKoltHG6Jx3ElCjIFFA4XKHPkaxJAyogWKCZoJ0pEH15qLDB5QAgKAjACFw8RA7n/ZAwyu5oQHhpQSkc2LFtqORYjERkUCjQGHQ4QnP+QBgQetKwZFhAcVVQfHjRZWTUmHwsLCi4KIQcQx+4kEgELpc8pJB4gQndKFzNmciwPCQoJBTUMIgIOr+c4DgYMcupmHRYXPXsxI01DUDsGCQkFBjENJwcLvOcqEAkLL7ioDwcOFnIpDjl2YjogAwgJCzsOJAwJ1eIUEAwJLZp/JB0dHpBxMyGRgiQNFBMMCkAHJA0F5tUEDwwGLLVkGhYaJ5uWClqCeS0ICAIRGj4MJRYL88QMEQoEIJZlDgkJJnE5Li6bfDMgFBUNDC0REQ8Z/8kLFxIHM7ShJSYiL4NROBmplh4NCAgYEEMNDwtl6G4HExAKEEi+NzopK59MDQycmhoKCggLLjwjFgY+9L8sDRAIBxQR",
+          "top": "HAcCAQEBAAECBhkyDwICAgIBAAABBCSTVjNrRgIECAoEBQEBAwYEOVR3WDMPBQQCAQACB1hxVDA3OQEBR0Q3JAUDChlJV0YXWl5bMCkjAgICBU2OHqNEEAEBOThFWUUNFjJeCQw9DhI0NhcuIQQBBCeXZ1ajPQICGywjIUE6EVpDNSYzOkZvW1UcCQMCAwdEr1WEeQ8CdpuwwqctDg1XOUEwSot+V243SxEIARpMJJcliBsJknuSlMl9EQQNCBIRWFofGlh4OywRCkk7YTp0XSkUUkJINGORKQkCAgUoVBoNFSRgZTNHFDN3PWh5FiBeRARDVkRZGwkNEQVaWhYeISEeIwkwQxYyh3EmU3uPHQwyIChbJh0cIHg+oV1TbYhfb3AyDBMnTSmOi2UoCywRCimEQxUOXX02OVEyWysbBE47FhQrJEyCXj5aQRIaFTtnJAMKeDxbLhwuSlIQJU8wEQg4NWRZPx8gE3QvI25jEQUFY48rj2QFVEs/SkwLH1Q7T2goRzImXgZ8aYQ6DwMCLJJiUadbFlg0SzUXOkoLMxg4MmcuYl9AfS8VEAQIHEiFaqHCeywcVScjVjIzIkQ/IVVp",
+          "middle": "E3QvI25jEQUFY48rj2QFVEs/SkwLH1Q7T2goRzImXgZ8aYQ6DwMCLJJiUadbFlg0SzUXOkoLMxg4MmcuYl9AfS8VEAQIHEiFaqHCeywcVScjVjIzIkQ/IVVpTGRwOSMLGQlW09KKQz6gxnpwwNZXLVY4PlAlHwhUnmpbM2MZI5n/xowiRxYXf3pbSL//thEkOERRMT41z3IZhitun/+GDCFTDkA9MFNRIxaB//s3K2J1Gjxyg8o2UX1WmlgFAgEsLTINPi8tIy8iN//mDltvMjsnM7Z2FlWUaD0QCj1GPVJATDYgDCgEBXD/gVeNVC0qJVWWIB9lx3kLDBI4RgUEOxAoIiIDBTbdtDu6YTUrDBWcUxsXv44OBBomHDJCgzcNTYNkLybFsxujji81IDR5dRcahrQxGUJXf2h/c3ARXWmAkUvUqxyupyQPFzg5jysRVbRISIOJby1DG2YyejIeVnCjlw2dyh0QGDAwm1URLZFBW2xiXhBCe34qSHR2PCOdaxF43j4VHBZxW2QUMZY2QHc8cZOUY0sHJitVfXLAWBdT0WITHCgbJm4xKoltHG6Jx3ElCjIFFA4XKHPkaxJAyogW",
+          "bottom": "Fzg5jysRVbRISIOJby1DG2YyejIeVnCjlw2dyh0QGDAwm1URLZFBW2xiXhBCe34qSHR2PCOdaxF43j4VHBZxW2QUMZY2QHc8cZOUY0sHJitVfXLAWBdT0WITHCgbJm4xKoltHG6Jx3ElCjIFFA4XKHPkaxJAyogWKCZoJ0pEH15qLDB5QAgKAjACFw8RA7n/ZAwyu5oQHhpQSkc2LFtqORYjERkUCjQGHQ4QnP+QBgQetKwZFhAcVVQfHjRZWTUmHwsLCi4KIQcQx+4kEgELpc8pJB4gQndKFzNmciwPCQoJBTUMIgIOr+c4DgYMcupmHRYXPXsxI01DUDsGCQkFBjENJwcLvOcqEAkLL7ioDwcOFnIpDjl2YjogAwgJCzsOJAwJ1eIUEAwJLZp/JB0dHpBxMyGRgiQNFBMMCkAHJA0F5tUEDwwGLLVkGhYaJ5uWClqCeS0ICAIRGj4MJRYL88QMEQoEIJZlDgkJJnE5Li6bfDMgFBUNDC0REQ8Z/8kLFxIHM7ShJSYiL4NROBmplh4NCAgYEEMNDwtl6G4HExAKEEi+NzopK59MDQycmhoKCggLLjwjFgY+9L8sDRAIBxQR"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 25.814681,
+          "top": 18.584308,
+          "middle": 32.897576,
+          "bottom": 30.463982,
+          "effectiveRatio": 0.480201
+        },
+        "extendable": false,
+        "sha256": "e736158d0ecd489885d657ef4c8b201cede53b963fabf354a8a45ca8756a9d6e"
+      },
+      "status": 200,
+      "rightsStatus": "approved",
+      "id": "kanzler-actual-intro",
+      "people": [
+        "제이슨 캔즐러",
+        "제리 디포토",
+        "저스틴 홀랜더"
+      ],
+      "author": "확인한 국내 원문에 개별 촬영자 미공개",
+      "date": "2026-11-04",
+      "credit": "MLB Korea 게재 · 26.11.04 취임회견",
+      "description": "디포토가 왼쪽, 시애틀 유니폼의 캔즐러가 가운데, 홀랜더가 오른쪽에 서서 웃는 실제 취임 기자회견 사진. MLB Korea 첫600px 이미지와 표정·옷·배경이 정확히 같은 촬영본인6000×4000 네이티브다.",
+      "group": "kanzler-dipoto-hollander-actual-intro-20261104",
+      "rights": "사용자 국내 언론사 사진 계약을 MLB Korea 34761에 실제 게재된 이 정확한 촬영본에만 적용한다. 공식 MLB 동일 asset의 변환 없는6000×4000 네이티브와 국내600px 사진의 인물표정·그림자·배경·옷 주름을 직접 대조했다. 미국 MLB 전체 사진 사용권으로 확대하지 않는다.",
+      "sourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/v1793843796/mlb/vve8gelacpwrhwpskfhc.jpg",
+      "sourcePageUrl": "https://www.mlbkor.com/news/articleView.html?idxno=34761",
+      "sha256": "e736158d0ecd489885d657ef4c8b201cede53b963fabf354a8a45ca8756a9d6e",
+      "imageCredit": "MLB Korea 게재 · 26.11.04 취임회견",
+      "photoDate": "2026-11-04",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "Exact Commons/source event description; article date is not used as unknown photo date.",
+      "sceneGroup": "kanzler-dipoto-hollander-actual-intro-20261104",
+      "currentTeam": "시애틀 매리너스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "사진 속 주인물은 시애틀 소속으로 소개하며 다른 구단의 옛 유니폼이 없다.",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:33:04.885Z",
+      "rightsEvidence": "사용자 국내 언론사 사진 계약을 MLB Korea 34761에 실제 게재된 이 정확한 촬영본에만 적용한다. 공식 MLB 동일 asset의 변환 없는6000×4000 네이티브와 국내600px 사진의 인물표정·그림자·배경·옷 주름을 직접 대조했다. 미국 MLB 전체 사진 사용권으로 확대하지 않는다.",
+      "license": null,
+      "licenseUrl": null,
+      "fit": "cover"
+    },
+    {
+      "story": "mariners-kanzler-introduction",
+      "id": "cc-2",
+      "url": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dc166e1f9783d12383fa41c5499455ba42eecdaa/source-originals/2026-11-06-mariners-kanzler-introduction/source-2-0f3a853be4059fb9.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_on_May_18%2C_2024_-_50_(cropped).jpg",
+      "cc": {
+        "title": "File:Cal Raleigh on May 18, 2024 - 50 (cropped).jpg",
+        "size": 960481,
+        "width": 1355,
+        "height": 1356,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cal_Raleigh_on_May_18%2C_2024_-_50_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cal_Raleigh_on_May_18,_2024_-_50_(cropped).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188500334",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-04-09 02:10:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Cal Raleigh on May 18, 2024 - 50 (cropped)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Baltimore Orioles players|Extracted images|United States photographs taken on 2024-05-18|Photographs by the United States Army Band|Cal Raleigh|Seattle Mariners vs. Baltimore Orioles (May 18, 2024)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "U.S. Army photo by Staff Sgt. Rachel Minto (released)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-05-18 19:29:21",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/23690396@N02/53863164085/\">https://www.flickr.com/photos/23690396@N02/53863164085/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "usarmyband",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "checkedAt": "2026-11-05T15:25:39.385Z",
+      "visuallyReviewed": true,
+      "status": 200,
+      "responseMime": "image/jpeg",
+      "sha256": "0f3a853be4059fb9314226de6de3d02a730e2fd046de8f9bed80314d0e9d781c",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T15:42:23.426Z",
+        "width": 1355,
+        "height": 1356,
+        "bytes": 960481,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.0872205614976376,
+        "entropy": 7.657964906507004,
+        "effectiveDetailRatio": 0.501229,
+        "kind": "source",
+        "coverScale": 0.996,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1355,
+        "rawHeight": 1356,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "329199ca96b76360",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "GTg7PEtqPJiUGQoDDBQfPlR1KgkdLSsAP3ZalD8TTDgXLj0zMhyNTh0ZEhBDRT8tSzlKR1wlTkkkXGQZNCIRLUVGJi5vbBoKGS8nMwc8NnZlPT1UI1UxP1UFJC4JHkJpOhMpdYNyNBgoTUItQTw+VTkSDV8wXlgZMzAICgxcVQgJOUxpeCMVG1JMEicyJyY4C1ZIU28gQysMBRhWSA0HHA9Aa0EJBRosHAYaJCAQOGpfLJcwSB8HBhNaTRMEGxU2SEEPI2VaQkwzLBE1CYR1JHCOTRkGBRRhSBsKHjtdWToOlnl3hRpRNjImL258Mi+LThMGBhFdTB4udR6fngmPoxUhXYNdV1A0JDdrNkJrWDAcFCdxXTZHQoxPzz6QFGJFby8oSjcRCjJ0UFl+ECMeIzBJRF4OhVRaBqdjmEZSUyIRFCEnKCkwXU8cKS5EKUY2Y1GQnV1gI4JXjlU7URUxJx4UJh8SJBMkFRYbOS4XFkuqWwkrL2qQIlFMQB4rJxY1HyQxNzQpKi8qIRIUEAuN8Ih6pYlcLxQSERk0MDEtIA0ICAYaNx4vJRoOCQ4sgdfVt0Q0RF1fbixcJTuAH0o4LkN5H1IqDAQDBR8LEy01YGcgU0QYL0sKci12JTwaR2pUClZuBQgIICMNL21KXjUnGhEXGhJkXzCrQY9nXBkCIgp5QAoaMhhXrjclMBQXLAMKHkZDFFekR5ikFgcIHiFMRyYuJlGtYJOiNkYCDxcdFUKlZZSZddQeEg9PDBlHYjEmC2KgemKp2G0aEQkZRnVcsp4XtEgcFhtrEyeQahItjLl4UxAHU7N+DxARgDkGREd8bywUEEytIXuHLJHJu1Mee1NWJUeYSyZoagUFCjNpRS01bbVrP29K2797KSiEUVp/dTKJejaTJwUEECZMdXmOlVMHNBSddQ4gGVhEVYIWcndcTnxdDgACBQ8kTlhFGQkEHjRbHBgZVjM6ORhwOmNXPZ8fEQgEAAgJCAkFAgYDTjxTDStPH5wyVDc7RylUpEgjLjQjCwUCAgMBBgEDSSpKMjwtoB+6X1hFIAtvbz8THR0/QyYEBgMDAggCOyZVJxUiLclPdlIgECQsZHU+HSEZIEtIHQYCAgIESTxbHBkJOz+UWBAnMBklN2ODXzMqIRMsWDcICAMEXFaDHRA6Y1s8Li0MDyYlHiNFZ19JLSwoCU5NFBIRRoiBBDNmX0ljPiQVEQweGCkoLzdEOC8qLRomSCkJKoRDBlF5TEk7GygVExIXESksMCgtKyMlJEZSOxQKR2UYN4dKS1QYBQwTGRkQECgkLSsoKyEoSDMPGQkqYmtDa1AwNXJGCRMVHBgUFy47Q1RJSi5sRTshOVJBT1ernTEQRoA8GRIXARcNFRQKI1drboBtVThlYkclZIxTSIFfZVUtDA0CJhIIHBYmLBktQldIaWk/Ki0jRUCkpC8uHhA8Kyg1LRYhGRAKITw8Hy8sDioaLTwVn5dgTUcyLTNKT1RgZWtlUE5OVGF1cHFwdmFHRyog",
+          "top": "GTg7PEtqPJiUGQoDDBQfPlR1KgkdLSsAP3ZalD8TTDgXLj0zMhyNTh0ZEhBDRT8tSzlKR1wlTkkkXGQZNCIRLUVGJi5vbBoKGS8nMwc8NnZlPT1UI1UxP1UFJC4JHkJpOhMpdYNyNBgoTUItQTw+VTkSDV8wXlgZMzAICgxcVQgJOUxpeCMVG1JMEicyJyY4C1ZIU28gQysMBRhWSA0HHA9Aa0EJBRosHAYaJCAQOGpfLJcwSB8HBhNaTRMEGxU2SEEPI2VaQkwzLBE1CYR1JHCOTRkGBRRhSBsKHjtdWToOlnl3hRpRNjImL258Mi+LThMGBhFdTB4udR6fngmPoxUhXYNdV1A0JDdrNkJrWDAcFCdxXTZHQoxPzz6QFGJFby8oSjcRCjJ0UFl+ECMeIzBJRF4OhVRaBqdjmEZSUyIRFCEnKCkwXU8cKS5EKUY2Y1GQnV1gI4JXjlU7URUxJx4UJh8SJBMkFRYbOS4XFkuqWwkrL2qQIlFMQB4rJxY1HyQxNzQpKi8qIRIUEAuN8Ih6pYlcLxQSERk0MDEtIA0ICAYaNx4vJRoOCQ4sgdfVt0Q0RF1fbixcJTuAH0o4LkN5",
+          "middle": "FRYbOS4XFkuqWwkrL2qQIlFMQB4rJxY1HyQxNzQpKi8qIRIUEAuN8Ih6pYlcLxQSERk0MDEtIA0ICAYaNx4vJRoOCQ4sgdfVt0Q0RF1fbixcJTuAH0o4LkN5H1IqDAQDBR8LEy01YGcgU0QYL0sKci12JTwaR2pUClZuBQgIICMNL21KXjUnGhEXGhJkXzCrQY9nXBkCIgp5QAoaMhhXrjclMBQXLAMKHkZDFFekR5ikFgcIHiFMRyYuJlGtYJOiNkYCDxcdFUKlZZSZddQeEg9PDBlHYjEmC2KgemKp2G0aEQkZRnVcsp4XtEgcFhtrEyeQahItjLl4UxAHU7N+DxARgDkGREd8bywUEEytIXuHLJHJu1Mee1NWJUeYSyZoagUFCjNpRS01bbVrP29K2797KSiEUVp/dTKJejaTJwUEECZMdXmOlVMHNBSddQ4gGVhEVYIWcndcTnxdDgACBQ8kTlhFGQkEHjRbHBgZVjM6ORhwOmNXPZ8fEQgEAAgJCAkFAgYDTjxTDStPH5wyVDc7RylUpEgjLjQjCwUCAgMBBgEDSSpKMjwtoB+6X1hFIAtvbz8THR0/QyYEBgMDAggC",
+          "bottom": "NBSddQ4gGVhEVYIWcndcTnxdDgACBQ8kTlhFGQkEHjRbHBgZVjM6ORhwOmNXPZ8fEQgEAAgJCAkFAgYDTjxTDStPH5wyVDc7RylUpEgjLjQjCwUCAgMBBgEDSSpKMjwtoB+6X1hFIAtvbz8THR0/QyYEBgMDAggCOyZVJxUiLclPdlIgECQsZHU+HSEZIEtIHQYCAgIESTxbHBkJOz+UWBAnMBklN2ODXzMqIRMsWDcICAMEXFaDHRA6Y1s8Li0MDyYlHiNFZ19JLSwoCU5NFBIRRoiBBDNmX0ljPiQVEQweGCkoLzdEOC8qLRomSCkJKoRDBlF5TEk7GygVExIXESksMCgtKyMlJEZSOxQKR2UYN4dKS1QYBQwTGRkQECgkLSsoKyEoSDMPGQkqYmtDa1AwNXJGCRMVHBgUFy47Q1RJSi5sRTshOVJBT1ernTEQRoA8GRIXARcNFRQKI1drboBtVThlYkclZIxTSIFfZVUtDA0CJhIIHBYmLBktQldIaWk/Ki0jRUCkpC8uHhA8Kyg1LRYhGRAKITw8Hy8sDioaLTwVn5dgTUcyLTNKT1RgZWtlUE5OVGF1cHFwdmFHRyog"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.952854,
+          "top": 22.237132,
+          "middle": 21.31635,
+          "bottom": 24.018319,
+          "effectiveRatio": 0.501229
+        },
+        "extendable": false,
+        "sha256": "0f3a853be4059fb9314226de6de3d02a730e2fd046de8f9bed80314d0e9d781c"
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mariners-kanzler-introduction\\sources\\cc-2.jpg",
+      "strictPassed": true,
+      "people": [
+        "칼 랄리"
+      ],
+      "author": "Staff Sgt. Rachel Minto / usarmyband",
+      "date": "2024-05-18",
+      "credit": "Rachel Minto · CC BY 2.0 · 24.05.18 자료·편집",
+      "description": "시애틀 포수 칼 랄리가 포수 장비와 마스크를 착용하고 미트를 앞으로 내민 실제 경기 자료사진. 원파일의 이름·설명과 목 보호대의 RALEIGH 표기가 일치한다. 왼쪽 심판 팔과 마스크 일부가 남는다.",
+      "group": "raleigh-catching-kneel-20240518",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dc166e1f9783d12383fa41c5499455ba42eecdaa/source-originals/2026-11-06-mariners-kanzler-introduction/source-2-0f3a853be4059fb9.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_on_May_18%2C_2024_-_50_(cropped).jpg",
+      "imageCredit": "Rachel Minto · CC BY 2.0 · 24.05.18 자료·편집",
+      "photoDate": "2024-05-18",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "Exact Commons/source event description; article date is not used as unknown photo date.",
+      "sceneGroup": "raleigh-catching-kneel-20240518",
+      "currentTeam": "시애틀 매리너스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "사진 속 주인물은 시애틀 소속으로 소개하며 다른 구단의 옛 유니폼이 없다.",
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:33:04.886Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Exact Commons file https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_on_May_18%2C_2024_-_50_(cropped).jpg; Staff Sgt. Rachel Minto / usarmyband; CC BY 2.0; https://creativecommons.org/licenses/by/2.0. 실제 파일 설명과 개별 저작자·촬영일·라이선스를 확인했다. 카드에 저작자/CC/자료일/크롭·글자 변경 고지를 유지하고 CC BY-SA 사진이 쓰인 해당 카드 파생본은 같은 CC BY-SA4.0으로 배포한다. 인스타 공개 캡션에 출처 블록을 새로 넣지 않고 카드 footer와 공개 provenance에 원문·license URL을 연결한다.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "fit": "cover",
+      "upstreamSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cal_Raleigh_on_May_18%2C_2024_-_50_%28cropped%29.jpg"
+    },
+    {
+      "story": "mariners-kanzler-introduction",
+      "id": "cc-1",
+      "url": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dc166e1f9783d12383fa41c5499455ba42eecdaa/source-originals/2026-11-06-mariners-kanzler-introduction/source-3-a8229d9dc525490d.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_in_2024.jpg",
+      "cc": {
+        "title": "File:Cal Raleigh in 2024.jpg",
+        "size": 1165352,
+        "width": 1658,
+        "height": 2238,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cal_Raleigh_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cal_Raleigh_in_2024.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155103472",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-11-11 20:01:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Cal Raleigh in 2024",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Seattle Mariners players|Self-published work|Baseball players from the United States in 2024|United States photographs taken on 2024-06-04|Major League Baseball players in 2024|2024 Seattle Mariners season|Cal Raleigh",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Seattle Mariners catcher Cal Raleigh at a game in June 2024.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "4 June 2024, 21:32:56",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Liannadavis\" title=\"User:Liannadavis\">Liannadavis</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "checkedAt": "2026-11-05T15:25:36.967Z",
+      "visuallyReviewed": true,
+      "status": 200,
+      "responseMime": "image/jpeg",
+      "sha256": "a8229d9dc525490d961664697054695314f52d69d20372b0eae316e65e382799",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T15:51:20.910Z",
+        "width": 1280,
+        "height": 1728,
+        "bytes": 596612,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.089787287713818,
+        "entropy": 7.5230438796570525,
+        "effectiveDetailRatio": 0.566862,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1280,
+        "rawHeight": 1728,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "07eacd66c1982005",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DAsZFhUWEBALCQcJCAUHCQkHBgUFBAcJCgoICQcFFhARCgwFBAMDAwQFBQIGBQIKChMUGREPCwcEAwgBCBAQEw8ODQgJCAQJCAgIEhcdGBgRCg0KAwsKBwcEEgkIBwsCCAgJCwYEDhcYEA8FBAwICQUJBQYJAwsPDBULCg4MCQgEDy47Wz8wCgIHBQgGAgQBBAUFBwoGCAkIAwINDC9QcWVbQEJPLwkEBgQBAwUEBQUJAggGAwgJBgYENmxXI0Jlj2pcQyQHAgcEAgYFBwkQFQ4LCwoJAQQnaDYlha+UmKaqmkEJCQ0dIx8XJCUiDg4aGhgOBQdBTitfgkINGikxXZUwHyIgHRwdGhETDQ8NGRgVIRslQTM7Q0AlJDYpFk9OEgwJCgYDEAkEEg4CMS4uJyc3PQ0XJTA8P1FeIEgoDQICBAcFAwgKBgkGDAUFCAYgRhoUKQ4UIwZCLDopEQ0GBAIIAwMEDQULCg0ODxEVMiUjIiETRlU4OixhJRADBAIKCxASBRUEDQMHBwMBGigPHiNDOwdIaUU9IwcJAQQFBxILHQYUCgYACQgFESUlFhwnXEGLPXEbGggGCAQMDgYDDBATBAwKCgkGBx02FxwTLE8wQToqDwYHBwMDEiERNyELAwgCAQUKBRMtSSkuUFMxOgsSDgsLAwkPGRMcKi8sBgIRCwwNH0QmVkQrMXJeDg8eHQ0LBA4eHyUVMCMEGBUaCxJYfH11HERCLwtBRzopDA4KBBwiOCUQGg4JCBMEW491UiN7cR4kLFqOPBQEDhQLDxY+RSgwHx8TCgeBmUYNHC0ITkMXd6suRT4EHDATGS9PJFwcPREME4uHEzIYESYhEil5fk58MllBaWokLUg3RFEzJwsGiY0eGREeBA0YCxhHpWVuZiBgSDdRKS5DOQgGGTAsogkPHxoJHwsEJxEPT5OJUSsXLDUUNTAXLkA0IhUMWhoEEAskGBoiEiYLKxNBAhE0HEAwGQ8EHRY6MDEoPgQSDBwQHRsLNDtRSy0lHSMLOiQ7KTQuMTQqJCQeSAULCRgzJztNTykVIkEoGyw+GEA5SC4jJiMfHxMYRwoUNz4uKiwrGQsPITReUiowQRY8NCIkGwYjPzoTRBQyPCAoMCMxIS4wGBNlbkViLCFjRTBCVE82FDM7EghUQz0yMCUVDgkbJx4Xe4NUEh0cU0M2JR8tODAiR2BeLi0dGhEWERQWITI6JSJFKiErLSwiHiApLy8rNohoJhkhJis2PDAYAhYnKBUiUU5YVk1CQ0hEMiESt5NCGxcYBAoVMUA9IgMqO0BBOjQyMD9MSzscBwYCTTIDGzFFWlxJJgkzRUI4KiIbHB8XExITDw0LAAoIL0ZUWlY+EyNHUkw/MCUdHyAYDwsEAgEBBQoQEQ0GVkofDjNPVk06KB8fJikcEQcEAwQCAQIDBQYHCgoEHUJVSkU3Jx8iJCIdEwcGBAUGBwQDAgIDBQIEAgMEQj0vJSYmJCAWDQQCAQAEBAMCAgMDBAMFBQcEAgIB",
+          "top": "DAsZFhUWEBALCQcJCAUHCQkHBgUFBAcJCgoICQcFFhARCgwFBAMDAwQFBQIGBQIKChMUGREPCwcEAwgBCBAQEw8ODQgJCAQJCAgIEhcdGBgRCg0KAwsKBwcEEgkIBwsCCAgJCwYEDhcYEA8FBAwICQUJBQYJAwsPDBULCg4MCQgEDy47Wz8wCgIHBQgGAgQBBAUFBwoGCAkIAwINDC9QcWVbQEJPLwkEBgQBAwUEBQUJAggGAwgJBgYENmxXI0Jlj2pcQyQHAgcEAgYFBwkQFQ4LCwoJAQQnaDYlha+UmKaqmkEJCQ0dIx8XJCUiDg4aGhgOBQdBTitfgkINGikxXZUwHyIgHRwdGhETDQ8NGRgVIRslQTM7Q0AlJDYpFk9OEgwJCgYDEAkEEg4CMS4uJyc3PQ0XJTA8P1FeIEgoDQICBAcFAwgKBgkGDAUFCAYgRhoUKQ4UIwZCLDopEQ0GBAIIAwMEDQULCg0ODxEVMiUjIiETRlU4OixhJRADBAIKCxASBRUEDQMHBwMBGigPHiNDOwdIaUU9IwcJAQQFBxILHQYUCgYACQgFESUlFhwnXEGLPXEbGggGCAQMDgYDDBAT",
+          "middle": "Cg0ODxEVMiUjIiETRlU4OixhJRADBAIKCxASBRUEDQMHBwMBGigPHiNDOwdIaUU9IwcJAQQFBxILHQYUCgYACQgFESUlFhwnXEGLPXEbGggGCAQMDgYDDBATBAwKCgkGBx02FxwTLE8wQToqDwYHBwMDEiERNyELAwgCAQUKBRMtSSkuUFMxOgsSDgsLAwkPGRMcKi8sBgIRCwwNH0QmVkQrMXJeDg8eHQ0LBA4eHyUVMCMEGBUaCxJYfH11HERCLwtBRzopDA4KBBwiOCUQGg4JCBMEW491UiN7cR4kLFqOPBQEDhQLDxY+RSgwHx8TCgeBmUYNHC0ITkMXd6suRT4EHDATGS9PJFwcPREME4uHEzIYESYhEil5fk58MllBaWokLUg3RFEzJwsGiY0eGREeBA0YCxhHpWVuZiBgSDdRKS5DOQgGGTAsogkPHxoJHwsEJxEPT5OJUSsXLDUUNTAXLkA0IhUMWhoEEAskGBoiEiYLKxNBAhE0HEAwGQ8EHRY6MDEoPgQSDBwQHRsLNDtRSy0lHSMLOiQ7KTQuMTQqJCQeSAULCRgzJztNTykVIkEoGyw+GEA5SC4jJiMfHxMY",
+          "bottom": "ogkPHxoJHwsEJxEPT5OJUSsXLDUUNTAXLkA0IhUMWhoEEAskGBoiEiYLKxNBAhE0HEAwGQ8EHRY6MDEoPgQSDBwQHRsLNDtRSy0lHSMLOiQ7KTQuMTQqJCQeSAULCRgzJztNTykVIkEoGyw+GEA5SC4jJiMfHxMYRwoUNz4uKiwrGQsPITReUiowQRY8NCIkGwYjPzoTRBQyPCAoMCMxIS4wGBNlbkViLCFjRTBCVE82FDM7EghUQz0yMCUVDgkbJx4Xe4NUEh0cU0M2JR8tODAiR2BeLi0dGhEWERQWITI6JSJFKiErLSwiHiApLy8rNohoJhkhJis2PDAYAhYnKBUiUU5YVk1CQ0hEMiESt5NCGxcYBAoVMUA9IgMqO0BBOjQyMD9MSzscBwYCTTIDGzFFWlxJJgkzRUI4KiIbHB8XExITDw0LAAoIL0ZUWlY+EyNHUkw/MCUdHyAYDwsEAgEBBQoQEQ0GVkofDjNPVk06KB8fJikcEQcEAwQCAQIDBQYHCgoEHUJVSkU3Jx8iJCIdEwcGBAUGBwQDAgIDBQIEAgMEQj0vJSYmJCAWDQQCAQAEBAMCAgMDBAMFBQcEAgIB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 40.839774,
+          "top": 37.238536,
+          "middle": 43.096634,
+          "bottom": 44.351373,
+          "effectiveRatio": 0.566862
+        },
+        "extendable": false,
+        "sha256": "a8229d9dc525490d961664697054695314f52d69d20372b0eae316e65e382799"
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mariners-kanzler-introduction\\sources\\cc-1-commons-thumb1280.jpg",
+      "strictPassed": true,
+      "people": [
+        "칼 랄리"
+      ],
+      "author": "Liannadavis",
+      "date": "2024-06-04",
+      "credit": "Liannadavis · CC BY-SA 4.0 · 24.06.04 자료·편집",
+      "description": "푸른 시애틀 훈련복의 칼 랄리가 그라운드 보호망 뒤에서 팬 쪽을 보며 손을 든 실제 사진. 앞선 포수 장비 경기 사진과 촬영일·복장·동작·구도가 모두 다르다. 보호망과 난간 가림은 원본대로 보존한다.",
+      "group": "raleigh-net-fan-wave-20240604",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dc166e1f9783d12383fa41c5499455ba42eecdaa/source-originals/2026-11-06-mariners-kanzler-introduction/source-3-a8229d9dc525490d.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_in_2024.jpg",
+      "imageCredit": "Liannadavis · CC BY-SA 4.0 · 24.06.04 자료·편집",
+      "photoDate": "2024-06-04",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "Exact Commons/source event description; article date is not used as unknown photo date.",
+      "sceneGroup": "raleigh-net-fan-wave-20240604",
+      "currentTeam": "시애틀 매리너스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "사진 속 주인물은 시애틀 소속으로 소개하며 다른 구단의 옛 유니폼이 없다.",
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:33:04.886Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Exact Commons file https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_in_2024.jpg; Liannadavis; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. 실제 파일 설명과 개별 저작자·촬영일·라이선스를 확인했다. 카드에 저작자/CC/자료일/크롭·글자 변경 고지를 유지하고 CC BY-SA 사진이 쓰인 해당 카드 파생본은 같은 CC BY-SA4.0으로 배포한다. 인스타 공개 캡션에 출처 블록을 새로 넣지 않고 카드 footer와 공개 provenance에 원문·license URL을 연결한다.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "fit": "cover",
+      "originalNativeSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cal_Raleigh_in_2024.jpg",
+      "sourceSha256": "a8229d9dc525490d961664697054695314f52d69d20372b0eae316e65e382799",
+      "upstreamSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cal_Raleigh_in_2024.jpg/1280px-Cal_Raleigh_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "story": "mariners-kanzler-introduction",
+      "id": "cc-3-v2",
+      "title": "File:T-Mobile Park 2026.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dc166e1f9783d12383fa41c5499455ba42eecdaa/source-originals/2026-11-06-mariners-kanzler-introduction/source-4-8002219a16f647a7.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File%3AT-Mobile_Park_2026.jpg",
+      "sourceMetadata": {
+        "size": 3941066,
+        "width": 4032,
+        "height": 3024,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/T-Mobile_Park_2026.jpg/3840px-T-Mobile_Park_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 2560,
+        "thumbheight": 1920,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/T-Mobile_Park_2026.jpg/3840px-T-Mobile_Park_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 2560,
+          "height": 1920
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/T-Mobile_Park_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:T-Mobile_Park_2026.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195706871",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-07-15 09:50:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "T-Mobile Park 2026",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "T-Mobile Park|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|2026 Seattle Mariners season",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "47.590419",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-122.332772",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "White Sox vs Mariners\n<p>T-Mobile Park\n</p>\nSeattle, Washington",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-05-20 13:08:59",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/tisue/55371563902/\">https://www.flickr.com/photos/tisue/55371563902/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Seth Tisue",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "status": 200,
+      "checkedAt": "2026-11-05T15:26:54.806Z",
+      "sha256": "8002219a16f647a74b4e153549e8df1b9ba82c8c2ad7e70254df19b16e231b74",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T15:42:23.705Z",
+        "width": 3840,
+        "height": 2880,
+        "bytes": 2335528,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.2314403408072447,
+        "entropy": 7.613698924425989,
+        "effectiveDetailRatio": 0.636412,
+        "kind": "source",
+        "coverScale": 0.469,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2880,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "db67361f0f056ffe",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BQQEBgUFBAgHBgcICAoJBgYGBQYDBAwYFgUVCgQECAcFBQYFBAMIBgYJCAkKCQkJBgUKFBYGEAwECA0hBggIBgUGBgQGCgoICAoKCQsKDBIZDAsMAwoKCipECAcJCwwKCQoODAsJCQsMBwgSGRIJDwIZGBIKGjQSDw0KCxERDwoDDQsMCgcIDxcWCxAIBxcXDBENDwVGFhQPDQwQHRU8Gw0JBgYRFwQTEQQODg8GBAIJFhtpCRYcEwkRJU9ORRAJChUOEBgbGA8RERAQEBESDnjOMBIEFRMPGmocZzgUFQYMFTk/OCEYGx4gGSUib+dsLkFTLAUrPG8QQk5ACg8NKSYUGBwQDgwGCRlk6HcRGSQyZC4vH2sSM0NFMEAmT2JaaiAMCwgMIE7EjhsaFhAYJ0srLGxNHxstIDdjeE4/TF0tLy0pNJpuOFFNJRIRFSYrXBc4KBkrHEpKFjcdGD9IUUdBXD9YSU9LIh4dHAgcKlkeHxkeLEMlMA8NCwovJhwRMxEbGAgFIC0aIgkSGENAJxoTUBQNEhooHBkZOyo3EhQbHSklOhQpGAsJERM1PTJGPBMgGSAmMRAPNUhJN1NLRDVDPSwxExADGQQGJBgQFREaKBowKQczDhUjIggTDi4WRzdFSTMsHiJPRR4SBQUPFxILFjQrEQgpDhcNDSZSICwsLh8vREI2QjYaJBshKB4aGDg7JlA6QFBMT18wQTRWJScvDyxIMjglJSIwDCAwHjwpLiNLJQ8GBgQKHBsLHxUdKykoLCgQFBsVGR8RFCktMTdGZFFFSkdeGRIQIhIJBwwHDwMGCwccBAQWAwsCEgUFIzQ/PUQ/IRUPBBkGBAkIBgQEDgUGCAACAwEABQYDAQgLCgoWDQ8BCwkLAgYBCQESBQgEBwMDAgUDBAEBBgIEDAsBCxIYEBoaGRoaGxobERcTCwoEBQQGAgEIBgwLDhAMLRwUEhoUGhEYDxoIFxghHx4bFwkKCAoGFQoDEg0GAQ0HDBEPFhYcHRcYEwQICg8WISQYDQIRBQUGDAgEIhgYGR0aDQkYGxkTJRsDAQYDCBQhHBABCQILBQkGGgoJCRE6QSkWCAUGDSgOCgIFAAUFHCUJCQQGCQcFBQAFF0IwFkImAwYEBR8fAwQGBgIFCSobAxETEgkMAgMKDBxFSjIFCwYIBRccBwIABwYNIEEuEQ8XDwoGAwYACw4UCggOEQ4RITQdGBAUFBUjcKVBCAUPESRzExUNDxUfIhwVEyAhKBMZDQwLGCBqsFyJITExLH6FCwUHAgkfHxAPFh8ROJaekz1KTVFadzp1QTsrT3YzFhoVInKIj0gfKTk9mpFOkXc2STVIQhBdbRocSjUYHSIkcItBW4I2NTpMZwgrE2AJHzpkTCszVFEkPRoGNzY/Zxc6L0c6EEgpKxkVHi82QEQwCwoCEj4rLhkIEgoeNB4ZMxBELyMnLxIgFQUcJRAFAwMJGRQgGQ0GEQw9QgsrJxwYRwYwGSINBSMKKQoEBgoSBhAFDAkB",
+          "top": "BQQEBgUFBAgHBgcICAoJBgYGBQYDBAwYFgUVCgQECAcFBQYFBAMIBgYJCAkKCQkJBgUKFBYGEAwECA0hBggIBgUGBgQGCgoICAoKCQsKDBIZDAsMAwoKCipECAcJCwwKCQoODAsJCQsMBwgSGRIJDwIZGBIKGjQSDw0KCxERDwoDDQsMCgcIDxcWCxAIBxcXDBENDwVGFhQPDQwQHRU8Gw0JBgYRFwQTEQQODg8GBAIJFhtpCRYcEwkRJU9ORRAJChUOEBgbGA8RERAQEBESDnjOMBIEFRMPGmocZzgUFQYMFTk/OCEYGx4gGSUib+dsLkFTLAUrPG8QQk5ACg8NKSYUGBwQDgwGCRlk6HcRGSQyZC4vH2sSM0NFMEAmT2JaaiAMCwgMIE7EjhsaFhAYJ0srLGxNHxstIDdjeE4/TF0tLy0pNJpuOFFNJRIRFSYrXBc4KBkrHEpKFjcdGD9IUUdBXD9YSU9LIh4dHAgcKlkeHxkeLEMlMA8NCwovJhwRMxEbGAgFIC0aIgkSGENAJxoTUBQNEhooHBkZOyo3EhQbHSklOhQpGAsJERM1PTJGPBMgGSAmMRAPNUhJN1NLRDVD",
+          "middle": "Ih4dHAgcKlkeHxkeLEMlMA8NCwovJhwRMxEbGAgFIC0aIgkSGENAJxoTUBQNEhooHBkZOyo3EhQbHSklOhQpGAsJERM1PTJGPBMgGSAmMRAPNUhJN1NLRDVDPSwxExADGQQGJBgQFREaKBowKQczDhUjIggTDi4WRzdFSTMsHiJPRR4SBQUPFxILFjQrEQgpDhcNDSZSICwsLh8vREI2QjYaJBshKB4aGDg7JlA6QFBMT18wQTRWJScvDyxIMjglJSIwDCAwHjwpLiNLJQ8GBgQKHBsLHxUdKykoLCgQFBsVGR8RFCktMTdGZFFFSkdeGRIQIhIJBwwHDwMGCwccBAQWAwsCEgUFIzQ/PUQ/IRUPBBkGBAkIBgQEDgUGCAACAwEABQYDAQgLCgoWDQ8BCwkLAgYBCQESBQgEBwMDAgUDBAEBBgIEDAsBCxIYEBoaGRoaGxobERcTCwoEBQQGAgEIBgwLDhAMLRwUEhoUGhEYDxoIFxghHx4bFwkKCAoGFQoDEg0GAQ0HDBEPFhYcHRcYEwQICg8WISQYDQIRBQUGDAgEIhgYGR0aDQkYGxkTJRsDAQYDCBQhHBABCQILBQkG",
+          "bottom": "CxIYEBoaGRoaGxobERcTCwoEBQQGAgEIBgwLDhAMLRwUEhoUGhEYDxoIFxghHx4bFwkKCAoGFQoDEg0GAQ0HDBEPFhYcHRcYEwQICg8WISQYDQIRBQUGDAgEIhgYGR0aDQkYGxkTJRsDAQYDCBQhHBABCQILBQkGGgoJCRE6QSkWCAUGDSgOCgIFAAUFHCUJCQQGCQcFBQAFF0IwFkImAwYEBR8fAwQGBgIFCSobAxETEgkMAgMKDBxFSjIFCwYIBRccBwIABwYNIEEuEQ8XDwoGAwYACw4UCggOEQ4RITQdGBAUFBUjcKVBCAUPESRzExUNDxUfIhwVEyAhKBMZDQwLGCBqsFyJITExLH6FCwUHAgkfHxAPFh8ROJaekz1KTVFadzp1QTsrT3YzFhoVInKIj0gfKTk9mpFOkXc2STVIQhBdbRocSjUYHSIkcItBW4I2NTpMZwgrE2AJHzpkTCszVFEkPRoGNzY/Zxc6L0c6EEgpKxkVHi82QEQwCwoCEj4rLhkIEgoeNB4ZMxBELyMnLxIgFQUcJRAFAwMJGRQgGQ0GEQw9QgsrJxwYRwYwGSINBSMKKQoEBgoSBhAFDAkB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 49.800422,
+          "top": 52.296033,
+          "middle": 65.590219,
+          "bottom": 32.213821,
+          "effectiveRatio": 0.636412
+        },
+        "extendable": false,
+        "sha256": "8002219a16f647a74b4e153549e8df1b9ba82c8c2ad7e70254df19b16e231b74"
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mariners-kanzler-introduction\\sources\\cc-3-v2.jpg",
+      "strictPassed": true,
+      "url": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dc166e1f9783d12383fa41c5499455ba42eecdaa/source-originals/2026-11-06-mariners-kanzler-introduction/source-4-8002219a16f647a7.jpg",
+      "people": [],
+      "author": "Seth Tisue",
+      "date": "2026-05-20",
+      "credit": "Seth Tisue · CC BY-SA 4.0 · 26.05.20 자료·편집",
+      "description": "2026년5월20일 화이트삭스-매리너스전 T-모바일 파크의 그라운드와 시애틀 시가지가 보이는 실제 관중석 시점 자료사진. 앞쪽 관중과 원거리 선수는 특정 인물로 식별하거나 이름을 추정하지 않는다.",
+      "group": "tmobile-wide-field-skyline-20260520",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File%3AT-Mobile_Park_2026.jpg",
+      "imageCredit": "Seth Tisue · CC BY-SA 4.0 · 26.05.20 자료·편집",
+      "photoDate": "2026-05-20",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "Exact Commons/source event description; article date is not used as unknown photo date.",
+      "sceneGroup": "tmobile-wide-field-skyline-20260520",
+      "currentTeam": "시애틀 매리너스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "현 홈구장 실경이며 특정 선수의 현 유니폼 주장 없음.",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:33:04.886Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": "Exact Commons file https://commons.wikimedia.org/wiki/File%3AT-Mobile_Park_2026.jpg; Seth Tisue; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. 실제 파일 설명과 개별 저작자·촬영일·라이선스를 확인했다. 카드에 저작자/CC/자료일/크롭·글자 변경 고지를 유지하고 CC BY-SA 사진이 쓰인 해당 카드 파생본은 같은 CC BY-SA4.0으로 배포한다. 인스타 공개 캡션에 출처 블록을 새로 넣지 않고 카드 footer와 공개 provenance에 원문·license URL을 연결한다.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "fit": "cover",
+      "upstreamSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/T-Mobile_Park_2026.jpg/3840px-T-Mobile_Park_2026.jpg"
+    },
+    {
+      "s": "mariners-kanzler-introduction",
+      "url": "https://isp.edailystatic.com/data/isp/image/2026/11/04/isp20261104000049.1280x.0.png",
+      "page": "https://v.isplus.com/article/view/isp202611040040",
+      "status": 200,
+      "checkedAt": "2026-11-05T15:20:47.702Z",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mariners-kanzler-introduction\\sources\\candidate-1.png",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T15:42:23.960Z",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 3847483,
+        "format": "png",
+        "mimeType": "image/png",
+        "effectiveSharpness": 2.724187758977929,
+        "entropy": 7.065297701396048,
+        "effectiveDetailRatio": 0.53964,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1280,
+        "rawHeight": 1707,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "e1b297173b9f0b0a",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DwkUFg8RGhcMEgUWLBYwMCANCQoBERMQEBYdGxEEEwoLIw0VBBoFDB1IRGI3WFktBw0CEAMGBRAPESAQGQQPIgkOARUIDzhBE3hwfDNZGRUOEQkMBAwBBQ0WGwoRHAwTChgiFT87EggmFDtwJA0JDQQSAxIDCgYCGA8JEgwOCQ8eEWVeXXhscD9RTREEDxYWChkPCgsKFBAIEAQJCQkOEDaDmWQVXldpNiMlBwsJCBsjDw8JGA8GERYMDRMRHTQ2HkEsCStAMTQwMxcKDQYbEgESHhQTGgUQDhQPGgkRQiw1JBdTIBkZLi0XCw4XEhAJIxMRDi4RGRkYHBYrNC84PkRSEggPGSIhEgEHDBYXFQYJGQU4IxUaIRpfKEdeMnAvGREZJQkLHzQnBgkOEggPECIOOCscIR4mf1YqUZUfKSEZER0YQVM0LAQGEwgNGwwjHSQ0K00qK1yFWYIkLyAoL0E0G2VkBQgEEwUDGRwaGjdScR15VwsrR1huMT9CQBlde3UmFgsEEwQCEBsLQpR0QRwmRYddKcQ+KUxiZ2taMQknEgkEEAYEIhZSu3QWJDI4LBtxhoFKJUUsdrlqFAUhEQoFDwYGGVy/bQYBBD0lLBAoNjEmTg4FIn/wZQkdDwkEDgIMJqKVRoAqBicxNjstNw4MMAkFCRSk0yQiDQcDDQUVHLhDuW23Kw4VWTI4QFZbe1UkEQtMz2sjCwYDDAccIKkXbAF0gTx0kpCfdHqGsLS+WDh3gl4PDwgECQkYPacJikOuZXCcY21fQhFEFTulzhGXa3gKFAsFCAkfM4pbkIkqcGlcQQZ0nVyleFMixG1PdLJwCQsFCQcLOX7qVl24SxUFVkGXMw0iW1pFiL9XYJB5IgYHBgYONCvarPdGSgIVEyZljXuEWzwQKIh7d4I0CA8GBQYLKwNJs0ZkBwgYEh5BHxQjIQozJjAvOD4WDA4FBgoPMBYePEVcLBUKIywSFiM3Cx8XShNFURgpCxIHCRASPhsLDDFFXC1ZH1VqM1icPUprJT8mKSoXDBQHCRYILUM0NGOQVUtbJ19VT5Y9o7qRbmEoDEMLDRYGBREgDRIZIEuHQFgjQ0UMZHFyvzUdd7NuUiMcFhIFBgYQGBwQJICMOBqQXB1bX2SKiWiIU+ZoIBkNEgUECAgGBAdkX6SAN2p6UDVbNHA0W5EQT1zGfg8FBgUFBgcJC3Kmwlhjblw8TiBiKURJgE6oL0SYz2wOBgcEBgUGC5u+eZiUcIJkR4tTIBcmXUt/MRwykKUUBgUEBgYFCZ7BiFh3h0g7f2tDKiYXF3NBOENMy4IGBQUEBAcHB22zyHN+wLuRoLCwaqxbqlu+h4zOonUWBwYEAQIGBgpuSXp/OVOKQjR5dYxue4SEenVddRwDBgQEAgEAAgQGBg8LBQYGEQYsHQQICQoEBAgHBgQCAwMCBAMDBQQCAQUFBgUGBistNSgICQgFCAcEAQMDAwMDDw4ODg4NDg8ODQwLCyAzLCcJCQkICAoKCwsLDA0N",
+          "top": "DwkUFg8RGhcMEgUWLBYwMCANCQoBERMQEBYdGxEEEwoLIw0VBBoFDB1IRGI3WFktBw0CEAMGBRAPESAQGQQPIgkOARUIDzhBE3hwfDNZGRUOEQkMBAwBBQ0WGwoRHAwTChgiFT87EggmFDtwJA0JDQQSAxIDCgYCGA8JEgwOCQ8eEWVeXXhscD9RTREEDxYWChkPCgsKFBAIEAQJCQkOEDaDmWQVXldpNiMlBwsJCBsjDw8JGA8GERYMDRMRHTQ2HkEsCStAMTQwMxcKDQYbEgESHhQTGgUQDhQPGgkRQiw1JBdTIBkZLi0XCw4XEhAJIxMRDi4RGRkYHBYrNC84PkRSEggPGSIhEgEHDBYXFQYJGQU4IxUaIRpfKEdeMnAvGREZJQkLHzQnBgkOEggPECIOOCscIR4mf1YqUZUfKSEZER0YQVM0LAQGEwgNGwwjHSQ0K00qK1yFWYIkLyAoL0E0G2VkBQgEEwUDGRwaGjdScR15VwsrR1huMT9CQBlde3UmFgsEEwQCEBsLQpR0QRwmRYddKcQ+KUxiZ2taMQknEgkEEAYEIhZSu3QWJDI4LBtxhoFKJUUsdrlqFAUhEQoF",
+          "middle": "EwUDGRwaGjdScR15VwsrR1huMT9CQBlde3UmFgsEEwQCEBsLQpR0QRwmRYddKcQ+KUxiZ2taMQknEgkEEAYEIhZSu3QWJDI4LBtxhoFKJUUsdrlqFAUhEQoFDwYGGVy/bQYBBD0lLBAoNjEmTg4FIn/wZQkdDwkEDgIMJqKVRoAqBicxNjstNw4MMAkFCRSk0yQiDQcDDQUVHLhDuW23Kw4VWTI4QFZbe1UkEQtMz2sjCwYDDAccIKkXbAF0gTx0kpCfdHqGsLS+WDh3gl4PDwgECQkYPacJikOuZXCcY21fQhFEFTulzhGXa3gKFAsFCAkfM4pbkIkqcGlcQQZ0nVyleFMixG1PdLJwCQsFCQcLOX7qVl24SxUFVkGXMw0iW1pFiL9XYJB5IgYHBgYONCvarPdGSgIVEyZljXuEWzwQKIh7d4I0CA8GBQYLKwNJs0ZkBwgYEh5BHxQjIQozJjAvOD4WDA4FBgoPMBYePEVcLBUKIywSFiM3Cx8XShNFURgpCxIHCRASPhsLDDFFXC1ZH1VqM1icPUprJT8mKSoXDBQHCRYILUM0NGOQVUtbJ19VT5Y9o7qRbmEoDEMLDRYG",
+          "bottom": "BQYLKwNJs0ZkBwgYEh5BHxQjIQozJjAvOD4WDA4FBgoPMBYePEVcLBUKIywSFiM3Cx8XShNFURgpCxIHCRASPhsLDDFFXC1ZH1VqM1icPUprJT8mKSoXDBQHCRYILUM0NGOQVUtbJ19VT5Y9o7qRbmEoDEMLDRYGBREgDRIZIEuHQFgjQ0UMZHFyvzUdd7NuUiMcFhIFBgYQGBwQJICMOBqQXB1bX2SKiWiIU+ZoIBkNEgUECAgGBAdkX6SAN2p6UDVbNHA0W5EQT1zGfg8FBgUFBgcJC3Kmwlhjblw8TiBiKURJgE6oL0SYz2wOBgcEBgUGC5u+eZiUcIJkR4tTIBcmXUt/MRwykKUUBgUEBgYFCZ7BiFh3h0g7f2tDKiYXF3NBOENMy4IGBQUEBAcHB22zyHN+wLuRoLCwaqxbqlu+h4zOonUWBwYEAQIGBgpuSXp/OVOKQjR5dYxue4SEenVddRwDBgQEAgEAAgQGBg8LBQYGEQYsHQQICQoEBAgHBgQCAwMCBAMDBQQCAQUFBgUGBistNSgICQgFCAcEAQMDAwMDDw4ODg4NDg8ODQwLCyAzLCcJCQkICAoKCwsLDA0N"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 34.615437,
+          "top": 27.25452,
+          "middle": 46.231825,
+          "bottom": 23.531603,
+          "effectiveRatio": 0.53964
+        },
+        "extendable": false,
+        "sha256": "ad1d183c36901717213bbf4ed79b75aadbc96532ed549098a283a513c1dee6c9"
+      },
+      "id": "kanzler-official-announcement",
+      "people": [
+        "제이슨 캔즐러"
+      ],
+      "author": "시애틀 매리너스 SNS / 일간스포츠 게재",
+      "date": null,
+      "credit": "일간스포츠 게재 · 시애틀 구단 발표 이미지",
+      "description": "시애틀 매리너스가 선임 발표에 공개한 사진 기반 편집 이미지. 흰 시애틀 유니폼과 모자의 캔즐러가 팔짱을 끼고 있고 이름·구단 배경이 합성 편집되어 있다. 실제 취임회견 사진이나 별도 무가공 사진이라고 하지 않는다.",
+      "group": "kanzler-official-announcement-portrait-composite",
+      "rights": "사용자 국내 언론사 사진 계약 중 일간스포츠 isp202611040040에 실제 게재된 정확한 시애틀 SNS 발표 PNG에 한정한다. 보조 원공개 편집물 자체를 보존하며 제 생성·새 합성·AI 복원은 하지 않았다. 공식발표 이미지의 제작 방식은 별도 확인되지 않았으므로 순수 무가공 촬영본으로 주장하지 않는다.",
+      "sourceUrl": "https://isp.edailystatic.com/data/isp/image/2026/11/04/isp20261104000049.1280x.0.png",
+      "sourcePageUrl": "https://v.isplus.com/article/view/isp202611040040",
+      "sha256": "ad1d183c36901717213bbf4ed79b75aadbc96532ed549098a283a513c1dee6c9",
+      "imageCredit": "일간스포츠 게재 · 시애틀 구단 발표 이미지",
+      "photoDate": null,
+      "photoDatePrecision": "unknown",
+      "photoDateEvidence": "정확한 촬영일 미공개; 구단 발표 이미지 게재일과 분리.",
+      "sceneGroup": "kanzler-official-announcement-portrait-composite",
+      "currentTeam": "시애틀 매리너스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "사진 속 주인물은 시애틀 소속으로 소개하며 다른 구단의 옛 유니폼이 없다.",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:33:04.887Z",
+      "rightsStatus": "approved",
+      "rightsEvidence": "사용자 국내 언론사 사진 계약 중 일간스포츠 isp202611040040에 실제 게재된 정확한 시애틀 SNS 발표 PNG에 한정한다. 보조 원공개 편집물 자체를 보존하며 제 생성·새 합성·AI 복원은 하지 않았다. 공식발표 이미지의 제작 방식은 별도 확인되지 않았으므로 순수 무가공 촬영본으로 주장하지 않는다.",
+      "license": null,
+      "licenseUrl": null,
+      "fit": "cover"
+    }
+  ]
+}
