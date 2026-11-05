@@ -1,0 +1,42 @@
+{
+  "channelId": "fashion-kartell",
+  "headline": "TTTMSW X 아디다스",
+  "issueKey": "tttmsw-adidas-first-capsule-samba-jane-november2026",
+  "sourceUrl": "https://ginzamag.com/categories/fashion/609000",
+  "corroboratingUrls": [
+    "https://www.adidas.jp/blog/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B9%E3%81%A8tttmsw%E3%81%AE%E5%88%9D%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://www.tttmsw.jp/items/165046944"
+  ],
+  "rightsEvidence": "사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인한 범위. 일본 매체 GINZA의 이번 기사609000에 실제 게재된 4개 사진의 명시적인 source_url 원본을 사용한다. WordPress 공개 기사 데이터의 image.post=609000/파일명/캡션으로 연결했고 사진 각각을 원해상도로 열었다. 공식제품사이트가 공개됐다는 사실 자체로 권리를 추정하지 않는다.",
+  "photos": [
+    {
+      "sourceUrl": "https://api.ginzamag.com/wp-content/uploads/2026/11/KZ6950_FLT_eCom.jpg",
+      "sourcePageUrl": "https://ginzamag.com/categories/fashion/609000",
+      "sourceSha256": "b56cacc2ec63516a65296c87d2e38bba5efe41f10da05090b68c6918a00bf29b",
+      "imageCredit": "adidas / TTTMSW / GINZA",
+      "rightsEvidence": "사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인한 범위. 일본 매체 GINZA의 이번 기사609000에 실제 게재된 4개 사진의 명시적인 source_url 원본을 사용한다. WordPress 공개 기사 데이터의 image.post=609000/파일명/캡션으로 연결했고 사진 각각을 원해상도로 열었다. 공식제품사이트가 공개됐다는 사실 자체로 권리를 추정하지 않는다."
+    },
+    {
+      "sourceUrl": "https://api.ginzamag.com/wp-content/uploads/2026/11/KX5315_FC_eCom.jpg",
+      "sourcePageUrl": "https://ginzamag.com/categories/fashion/609000",
+      "sourceSha256": "181bb0f95e07d65597753ca9fc7f5b79fa1e2ae04cfea3ed084e5d95c403cfb5",
+      "imageCredit": "adidas / TTTMSW / GINZA",
+      "rightsEvidence": "사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인한 범위. 일본 매체 GINZA의 이번 기사609000에 실제 게재된 4개 사진의 명시적인 source_url 원본을 사용한다. WordPress 공개 기사 데이터의 image.post=609000/파일명/캡션으로 연결했고 사진 각각을 원해상도로 열었다. 공식제품사이트가 공개됐다는 사실 자체로 권리를 추정하지 않는다."
+    },
+    {
+      "sourceUrl": "https://api.ginzamag.com/wp-content/uploads/2026/11/KX5317_FC_eCom.jpg",
+      "sourcePageUrl": "https://ginzamag.com/categories/fashion/609000",
+      "sourceSha256": "3b2b1d6b0ce0390398047f9be2b5f9d616ceedec6a6452d83bee69368d26a2f9",
+      "imageCredit": "adidas / TTTMSW / GINZA",
+      "rightsEvidence": "사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인한 범위. 일본 매체 GINZA의 이번 기사609000에 실제 게재된 4개 사진의 명시적인 source_url 원본을 사용한다. WordPress 공개 기사 데이터의 image.post=609000/파일명/캡션으로 연결했고 사진 각각을 원해상도로 열었다. 공식제품사이트가 공개됐다는 사실 자체로 권리를 추정하지 않는다."
+    },
+    {
+      "sourceUrl": "https://api.ginzamag.com/wp-content/uploads/2026/11/005728060002.jpg",
+      "sourcePageUrl": "https://ginzamag.com/categories/fashion/609000",
+      "sourceSha256": "2f82629e41c11fc8765c235746d1e0ac58206e5666605ef2b183bc9322c40a8e",
+      "imageCredit": "adidas / TTTMSW / GINZA",
+      "rightsEvidence": "사용자가 일본 매체 사진도 사용권을 확보했다고 직접 확인한 범위. 일본 매체 GINZA의 이번 기사609000에 실제 게재된 4개 사진의 명시적인 source_url 원본을 사용한다. WordPress 공개 기사 데이터의 image.post=609000/파일명/캡션으로 연결했고 사진 각각을 원해상도로 열었다. 공식제품사이트가 공개됐다는 사실 자체로 권리를 추정하지 않는다."
+    }
+  ],
+  "imageGeneration": false
+}
