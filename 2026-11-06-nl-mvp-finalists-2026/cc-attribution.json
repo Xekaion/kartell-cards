@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-11-05T17:11:16.330Z",
+  "scope": "Exact5 current original photos; preserve with public immutable asset metadata. No public caption URL/source block.",
+  "renderChanges": "Normal card crop/downscale, gradient and Korean text. Native source bytes unchanged.",
+  "photos": [
+    {
+      "page": 1,
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg",
+      "sourceSha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf",
+      "author": "Joe Glorioso / All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "imageCredit": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "rightsEvidence": "각 Commons 파일의 실제 원저자·원출처·공개 라이선스를 개별 확인한 사진이다. 국내 언론 계약을 미국 사진 전체에 확대하지 않는다. 카드의 크레딧과 함께 원 Commons URL, 해당 라이선스 URL, 저작자, 서버 표준 축소판 사용 및 카드 텍스트 오버레이 사실을 공개 자산 메타데이터에 보존한다. BY-SA 사진의 카드 이미지에는 해당 동일/호환 라이선스 조건을 유지한다. Author: Joe Glorioso / All-Pro Reels. Source: https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg. License: https://creativecommons.org/licenses/by-sa/2.0. Normal native-preserving card render crops/downscales and adds text/gradient; applicable same/compatible BY-SA terms retained.",
+      "adaptedCardTerms": "same or compatible share-alike license"
+    },
+    {
+      "page": 2,
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg/1920px-Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_(22_September_2026).jpg",
+      "sourceSha256": "c2a26b6669de8681deb1e04bfb1aed33ff63d4bd92e92536fff0a5d30b752352",
+      "author": "Archieship",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "imageCredit": "PCA 2026.09.22 자료 · Archieship/CC BY4",
+      "rightsEvidence": "각 Commons 파일의 실제 원저자·원출처·공개 라이선스를 개별 확인한 사진이다. 국내 언론 계약을 미국 사진 전체에 확대하지 않는다. 카드의 크레딧과 함께 원 Commons URL, 해당 라이선스 URL, 저작자, 서버 표준 축소판 사용 및 카드 텍스트 오버레이 사실을 공개 자산 메타데이터에 보존한다. BY-SA 사진의 카드 이미지에는 해당 동일/호환 라이선스 조건을 유지한다. Author: Archieship. Source: https://commons.wikimedia.org/wiki/File:Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_(22_September_2026).jpg. License: https://creativecommons.org/licenses/by/4.0. Normal native-preserving card render crops/downscales and adds text/gradient; applicable same/compatible BY-SA terms retained.",
+      "adaptedCardTerms": "CC BY 4.0"
+    },
+    {
+      "page": 3,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Dodgers_at_Nationals_%2853677092784%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677092784).jpg",
+      "sourceSha256": "6bfca39a250dc9e810eb0e79099976621a267b69045e044b05dfcb51f6392024",
+      "author": "Joe Glorioso / All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "imageCredit": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "rightsEvidence": "Exact All-Pro Reels Flickr photo53677092784, individually CC BY-SA2.0 as Commons/FlickreviewR2 confirmed. Author: Joe Glorioso / All-Pro Reels. Source: https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677092784).jpg. License: https://creativecommons.org/licenses/by-sa/2.0. Native unchanged; normal card crop/downscale and text/gradient overlay. Card adaptation retains same/compatible BY-SA license.",
+      "adaptedCardTerms": "same or compatible share-alike license"
+    },
+    {
+      "page": 4,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg",
+      "sourceSha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f",
+      "author": "Sewageboy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "imageCredit": "투랑 2024.06 자료 · Sewageboy/CC BY-SA4",
+      "rightsEvidence": "각 Commons 파일의 실제 원저자·원출처·공개 라이선스를 개별 확인한 사진이다. 국내 언론 계약을 미국 사진 전체에 확대하지 않는다. 카드의 크레딧과 함께 원 Commons URL, 해당 라이선스 URL, 저작자, 서버 표준 축소판 사용 및 카드 텍스트 오버레이 사실을 공개 자산 메타데이터에 보존한다. BY-SA 사진의 카드 이미지에는 해당 동일/호환 라이선스 조건을 유지한다. Author: Sewageboy. Source: https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg. License: https://creativecommons.org/licenses/by-sa/4.0. Normal native-preserving card render crops/downscales and adds text/gradient; applicable same/compatible BY-SA terms retained.",
+      "adaptedCardTerms": "same or compatible share-alike license"
+    },
+    {
+      "page": 5,
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Shohei_Ohtani_parade.jpg/1920px-Shohei_Ohtani_parade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_parade.jpg",
+      "sourceSha256": "9535648083e69bcfbe1cd7b532a0d3a0290c17e5736e9b46948b2e693c066f24",
+      "author": "Garrett Brooks (Reunion)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "imageCredit": "오타니 2025.11.03 자료 · G.Brooks/CC BY4",
+      "rightsEvidence": "각 Commons 파일의 실제 원저자·원출처·공개 라이선스를 개별 확인한 사진이다. 국내 언론 계약을 미국 사진 전체에 확대하지 않는다. 카드의 크레딧과 함께 원 Commons URL, 해당 라이선스 URL, 저작자, 서버 표준 축소판 사용 및 카드 텍스트 오버레이 사실을 공개 자산 메타데이터에 보존한다. BY-SA 사진의 카드 이미지에는 해당 동일/호환 라이선스 조건을 유지한다. Author: Garrett Brooks (Reunion). Source: https://commons.wikimedia.org/wiki/File:Shohei_Ohtani_parade.jpg. License: https://creativecommons.org/licenses/by/4.0. Normal native-preserving card render crops/downscales and adds text/gradient; applicable same/compatible BY-SA terms retained.",
+      "adaptedCardTerms": "CC BY 4.0"
+    }
+  ]
+}
