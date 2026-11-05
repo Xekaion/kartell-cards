@@ -1,0 +1,700 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "MLB 골드글러브 20명 확정, 9명은 첫 수상",
+  "issueKey": "mlb-20261101-rawlings-gold-glove-winners-announced",
+  "checkedAt": "2026-11-05T16:18:28.354Z",
+  "sourceUrl": "https://www.yna.co.kr/view/AKR20261102091500007",
+  "corroboratingUrls": [
+    "https://www.streetinsider.com/PRNewswire/2026%2BRawlings%2BGold%2BGlove%2BAward%C2%AE%2BWinners%2BRevealed/27267803.html",
+    "https://www.koreadaily.com/article/20261102140213208",
+    "https://nwww.newsis.com/view/NISX20261102_0003851399",
+    "https://www.mlb.com/news/2026-gold-glove-award-winners"
+  ],
+  "rightsEvidence": "Commons4장 개별저작자·라이선스·실제 파일과 국내매체 실제 AFP/YNA1장만 확인. 미국전체사진사용권 추정0. 카드 크레딧과 public provenance를 분리하고 caption에 출처 URL을 넣지 않는다.",
+  "photos": [
+    {
+      "title": "File:ColeYoung2025.png",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/ColeYoung2025.png/1280px-ColeYoung2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:ColeYoung2025.png",
+      "status": 200,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mlb-gold-glove-winners\\sources\\cole1280.png",
+      "sha256": "907959b528bb569f279dfa04efc3612ec32fccab28ffd8811309c0e42b50d000",
+      "last4Hex": "ae426082",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T16:17:40.391Z",
+        "width": 1280,
+        "height": 1660,
+        "bytes": 4519099,
+        "format": "png",
+        "mimeType": "image/png",
+        "effectiveSharpness": 4.375184545093843,
+        "entropy": 7.293182843772229,
+        "effectiveDetailRatio": 0.652782,
+        "kind": "source",
+        "coverScale": 0.844,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1280,
+        "rawHeight": 1660,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "09098e58cc96f0e0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "FBEODg4NCwsKCQkJCQcHCg4LCgsKCQsODgwNDAoJBQYEBAUBAQIBAwMBAgQEBgIBBQQDBAQCAQECAwQFCAYEBgUGAwQFBAMDBAYGBAUHAwIDAgQHCAQFBAMCBgUEBAUEAwUCBAQTCi9YDhADBQQEBAQGAwUDAgQDBwcHAwUEBQUECRYFJlF1TxMPBwYEBQUEAwYEBAQFBQUGBQUDBAQGEwguIZUogS0HCAUEBAQEBQYEBQQDAgECBAQEAgQOCSEVFkpoTQsNDQQFBAMEAgQDAwMBBAQCAwMEBAULCRIRIQ9JIwYdERAHBAQEAwQDAQECKCgoJyIhJiguGQUSEyIJJQo6LSUxKysrKyUfJSMiRkVBPjMxPkFIQxhyTjVSYzSGTSM4PkBCPjMtMjM0ExIQEg4PFBENTGeNuJd3Wm1ERQYQCgsLEQ4JCwsMCgkLDgoJDwooLYJDQoZFH0ImWxcRCwoOEw0IBgQEBQQICwULCgQlYzkWHxZfQTM6VggJBAQJDQULCQQEBgYHCAMLAwQBLndtLFE+JSpFSggIAwQGCgIOCAMBBgUIBggGBAQFDDJFXmsmIypOJQoFAwMECQIOBgMCBAQGBAgLAwIFDCkSOjZ3YUMeMggGBwIEBgMLBAQBAwMGBgELBQMGCy9MU3cnT1BaQS8gDwoGCAcKAgMABQYFAwEHBAQCB0dVMmNAM02FHTI2LyMhGAcGBAIEBAUEBwcJCQkBGymUMVkzQVgNEQkMEBUcLycHBAQHAgUGBgwHDQwYIwtSl05mNg4hGBcUCggLDz0qCQkJAgQEDg8WCBQUDAQENVYfDAsLEAsGAwwOBxVFGBAKAgUIDyggHz0YJxMEBgMJBAEBAQMBDBwZDxAuLAkOBggPIz0rWTxUJQQKCQgVGx8aEQIOGR4kGBIpPhkLQ0swQiokHEMmAwlHGS58gW+NY2gcFiMPDwpkeHFUX2Z3WxwJSlUuYFeeYGpwTg1qJ5VgcUMNBAyPlGlhKD2haQ88fytihUJWvzOAN2EDUhMvSqE7GgmDvR0mDhydgRxLYz1bPCZcrTqRPxNIGTFDL4FZFRlFnKhCDSulbyIxtDsRER+Loj1ljiKcI4wRMo5SDzEULn6eEjeqZxwNj5MjboachB07UhtDIGd1hGJJGRIEGU2WC3iiPB8TSntLrF8fDA4XFxAPCw8jEjUmDT9xf5x6NKpkCxYOTkJ3NBQcFRgREQgXCDtkgEMScIV6XkMTVqR6UkcpYCUjHh4PCgIJCR8KE0ZaWGgviz49JBUXBmmumYJAl1UTEAEFCRMTIBQHAx90HHllUhp4MwkODBclP2YhSoEwCwkBEQsWEwkND16OhkaaNmRhTxAKFgYzVVVJK4VACAgMDgkNFxcQFpYVkyabT3g+QhodEhVGUSlpFZM3Aw4EBQweFg0PF2CcWT+Aj0gjMRwuCik0Lx1eGpsoCQkFERgVDREXHRpCOQ9moQ4hIAwlEiomNQ9jXJQVEAEfIhItFxMHDSQTFRdWqhImFgMU",
+          "top": "FBEODg4NCwsKCQkJCQcHCg4LCgsKCQsODgwNDAoJBQYEBAUBAQIBAwMBAgQEBgIBBQQDBAQCAQECAwQFCAYEBgUGAwQFBAMDBAYGBAUHAwIDAgQHCAQFBAMCBgUEBAUEAwUCBAQTCi9YDhADBQQEBAQGAwUDAgQDBwcHAwUEBQUECRYFJlF1TxMPBwYEBQUEAwYEBAQFBQUGBQUDBAQGEwguIZUogS0HCAUEBAQEBQYEBQQDAgECBAQEAgQOCSEVFkpoTQsNDQQFBAMEAgQDAwMBBAQCAwMEBAULCRIRIQ9JIwYdERAHBAQEAwQDAQECKCgoJyIhJiguGQUSEyIJJQo6LSUxKysrKyUfJSMiRkVBPjMxPkFIQxhyTjVSYzSGTSM4PkBCPjMtMjM0ExIQEg4PFBENTGeNuJd3Wm1ERQYQCgsLEQ4JCwsMCgkLDgoJDwooLYJDQoZFH0ImWxcRCwoOEw0IBgQEBQQICwULCgQlYzkWHxZfQTM6VggJBAQJDQULCQQEBgYHCAMLAwQBLndtLFE+JSpFSggIAwQGCgIOCAMBBgUIBggGBAQFDDJFXmsmIypOJQoFAwMECQIOBgMC",
+          "middle": "BQQICwULCgQlYzkWHxZfQTM6VggJBAQJDQULCQQEBgYHCAMLAwQBLndtLFE+JSpFSggIAwQGCgIOCAMBBgUIBggGBAQFDDJFXmsmIypOJQoFAwMECQIOBgMCBAQGBAgLAwIFDCkSOjZ3YUMeMggGBwIEBgMLBAQBAwMGBgELBQMGCy9MU3cnT1BaQS8gDwoGCAcKAgMABQYFAwEHBAQCB0dVMmNAM02FHTI2LyMhGAcGBAIEBAUEBwcJCQkBGymUMVkzQVgNEQkMEBUcLycHBAQHAgUGBgwHDQwYIwtSl05mNg4hGBcUCggLDz0qCQkJAgQEDg8WCBQUDAQENVYfDAsLEAsGAwwOBxVFGBAKAgUIDyggHz0YJxMEBgMJBAEBAQMBDBwZDxAuLAkOBggPIz0rWTxUJQQKCQgVGx8aEQIOGR4kGBIpPhkLQ0swQiokHEMmAwlHGS58gW+NY2gcFiMPDwpkeHFUX2Z3WxwJSlUuYFeeYGpwTg1qJ5VgcUMNBAyPlGlhKD2haQ88fytihUJWvzOAN2EDUhMvSqE7GgmDvR0mDhydgRxLYz1bPCZcrTqRPxNIGTFDL4FZFRlFnKhC",
+          "bottom": "Q0swQiokHEMmAwlHGS58gW+NY2gcFiMPDwpkeHFUX2Z3WxwJSlUuYFeeYGpwTg1qJ5VgcUMNBAyPlGlhKD2haQ88fytihUJWvzOAN2EDUhMvSqE7GgmDvR0mDhydgRxLYz1bPCZcrTqRPxNIGTFDL4FZFRlFnKhCDSulbyIxtDsRER+Loj1ljiKcI4wRMo5SDzEULn6eEjeqZxwNj5MjboachB07UhtDIGd1hGJJGRIEGU2WC3iiPB8TSntLrF8fDA4XFxAPCw8jEjUmDT9xf5x6NKpkCxYOTkJ3NBQcFRgREQgXCDtkgEMScIV6XkMTVqR6UkcpYCUjHh4PCgIJCR8KE0ZaWGgviz49JBUXBmmumYJAl1UTEAEFCRMTIBQHAx90HHllUhp4MwkODBclP2YhSoEwCwkBEQsWEwkND16OhkaaNmRhTxAKFgYzVVVJK4VACAgMDgkNFxcQFpYVkyabT3g+QhodEhVGUSlpFZM3Aw4EBQweFg0PF2CcWT+Aj0gjMRwuCik0Lx1eGpsoCQkFERgVDREXHRpCOQ9moQ4hIAwlEiomNQ9jXJQVEAEfIhItFxMHDSQTFRdWqhImFgMU"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 24.493955,
+          "top": 24.167194,
+          "middle": 25.442316,
+          "bottom": 24.954309,
+          "effectiveRatio": 0.652782
+        },
+        "extendable": false,
+        "sha256": "907959b528bb569f279dfa04efc3612ec32fccab28ffd8811309c0e42b50d000"
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2025-09-07 10:16:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ColeYoung2025",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Baseball players from the United States in 2025|Young men of the United States in 2025|United States photographs taken on 2025-09-01|Major League Baseball players in 2025|2025 Seattle Mariners season|Cole Young",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cole Young during a game against the Tampa Bay Rays in September 2025.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1 September 2025",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Arc1294&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Arc1294 (page does not exist)\">Arc1294</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "id": "goldglove-1",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/ColeYoung2025.png/1280px-ColeYoung2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Arc1294",
+      "date": "2025-09-01",
+      "photoDate": "2025-09-01",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "1 September 2025",
+      "credit": "Arc1294 · CC BY 4.0 · 25.09.01 자료·편집",
+      "imageCredit": "Arc1294 · CC BY 4.0 · 25.09.01 자료·편집",
+      "people": [
+        "콜 영"
+      ],
+      "currentTeam": "시애틀 매리너스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "콜 영이 시애틀 남색 유니폼과 S 모자를 착용한 독립 인물 사진. 2번과 SEATTLE 글자가 보이고 옛 소속팀 유니폼은 없다.",
+      "description": "콜 영이 시애틀 남색 유니폼과 S 모자를 착용한 독립 인물 사진. 2번과 SEATTLE 글자가 보이고 옛 소속팀 유니폼은 없다.",
+      "sceneGroup": "goldglove-1-distinct-game-portrait",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:49:27.134Z",
+      "rightsStatus": "approved",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rightsEvidence": "해당 Commons 파일의 실제 imageinfo 저작자·LicenseShortName·LicenseUrl·촬영일을 개별 확인했다. 카드에 저작자/라이선스/자료사진/편집을 표시하고 공개 provenance에 원문과 라이선스 URL을 보존한다. BY-SA 파생 카드는 해당 라이선스로 배포한다."
+    },
+    {
+      "title": "PCA current Cubs domestic AFP/YNA",
+      "url": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000538900034761_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-09-08/202609080100053890003476",
+      "status": 200,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mlb-gold-glove-winners\\sources\\pca-current-cubs.jpg",
+      "sha256": "ab1586417cdaf9ba0330f4d639048954fa2929b557d0f0f300d0787aa8579a48",
+      "last4Hex": "e07fffd9",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T16:17:40.470Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 1281087,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.5977900794820912,
+        "entropy": 7.426434074346616,
+        "effectiveDetailRatio": 0.483329,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1799,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "c661a4e7c5cc4b4b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "LRopS0NSRCgkLiUYFiRVLBMRFgwiLDczJhZANx0eIw8ZFhg4QiMHCR0JGhhFXBQkDxQLGDQ+NSU3DBAQFRYNEA8XMT4eDAIGFx4iaTEhCxkWDQQuOjsYFRkkFwsSDRIHEThVNBUOGyobVD0yKkMjGgoJHDIxEh0eCxEVDhoVDRQvSjETGzE8UzkzHEFsTxIGCgomLRg5ChwiExYmIBUROkMXEgdAHEAJChwZTGQYDSYMQiopDhoQBQkQGBYQI0UfDhARWRcWEQgLBD1JEw4vJS0kAgkTEQkIBgIJE0YpDhgxMyNWb0gnDShKFgooDyEGHRUVEgsHBwgOED4wBhgvqqakhp+jOTNZDRAxCB8JKAIIGxYIBg8TCTQkESCSj20nDSyThU1GGRM1Bx8IQCwvDSkbDRAVBD0sJCdGnBEbHDWSPnImGhIxAyENUClPNBQhHRceKks4HjNeoUE0BB9qdiAeGRs+MSkeIwhHRwcaGDxGVkgnCxVrZHosShBGZjExMypPXFBGBxVBQhQWTUg0NCkOKltVQUOLNBdJVldFIR8nMiwrEj5NMQ8YWC4JBwkJMmcyL0hdLGiRIzh1hh4VGhMCMFJFHwEORC0IBQgHJS9ADxprbnQeFEpbYIguHywjFE4SFg8ZM08OIh0hUDQ9Cx8XNDooHhdMZy1XHQouGENHEwMLRSYvOR4zMDIFJgwRQCxcNAwOM1EcOxwVJhQ/IxwVNClDHx0NHxMrCQsaMkVNIBkHCCtFJRoMOURBURoSCyMtGSIRHSQCFSZRGDlDIBgHCyMSKBMXT4RKJxYUDBopB0AeISEGEWMjXEMkPg8JWXU9JxYWQzFbECA6LScyPj4XHiQMIzFRSyEoHSVMlneoPg4SJkRADUgoGSgzNBwVJSIRLB8yRDklMw9XkBexjB4NTCk0SToNBhIhLBAQKBwSJ1cTLRM5JhsXd5NbcFEFN183QmslDgxHaGQCNRINBC9gPzhQKENDPHNRDGQYIEVALi1eLhN7SHc5MRAGCRQiOzkjIBkYGSc+OEY6OjYOJk8bVQl4PmENGQEQDhYWEg0hMkA6HxkTRhJPJCoxVjFUGDBIXDccKyodMGAvIScnEwwYDQkoPCphCCsNZFYNLjYTOSFmb3N7Y0NfCwsZJyspHSAtFihgDQ4yKGJANyAWFltoRCM+ElVsOjk4MS0ZEBYOARZFLCEsMiRqeS4fFiA+Yl9iY5BjJiUhGREQAQcIAQUdHitIE1RkaH5BNTUoLWFnXkoiEgsFAQQILjcOBQcJMDEVQFI9MqJSHzouWB4qHxARHhoPJkhSUHRlFA8ISCUUOSY+QJBVAyuWdqVmRhIzKyc3eH5cPR2TSUg6QTggPg4mW2pQCE2mV3GFm4pJBBVSVSdnHEJFMh5AFyJRQhAvKzEzGWSwVT1EQYyQcFNfQzQ7UTQrUSYYGEA5DBwQGEBWLX+cOx4+JQs/f4xrLAslXhg2WT8pIldHQD4yOzk0EHR1Hg0NLxkhFh0oJxIdbB4wTztE",
+          "top": "LRopS0NSRCgkLiUYFiRVLBMRFgwiLDczJhZANx0eIw8ZFhg4QiMHCR0JGhhFXBQkDxQLGDQ+NSU3DBAQFRYNEA8XMT4eDAIGFx4iaTEhCxkWDQQuOjsYFRkkFwsSDRIHEThVNBUOGyobVD0yKkMjGgoJHDIxEh0eCxEVDhoVDRQvSjETGzE8UzkzHEFsTxIGCgomLRg5ChwiExYmIBUROkMXEgdAHEAJChwZTGQYDSYMQiopDhoQBQkQGBYQI0UfDhARWRcWEQgLBD1JEw4vJS0kAgkTEQkIBgIJE0YpDhgxMyNWb0gnDShKFgooDyEGHRUVEgsHBwgOED4wBhgvqqakhp+jOTNZDRAxCB8JKAIIGxYIBg8TCTQkESCSj20nDSyThU1GGRM1Bx8IQCwvDSkbDRAVBD0sJCdGnBEbHDWSPnImGhIxAyENUClPNBQhHRceKks4HjNeoUE0BB9qdiAeGRs+MSkeIwhHRwcaGDxGVkgnCxVrZHosShBGZjExMypPXFBGBxVBQhQWTUg0NCkOKltVQUOLNBdJVldFIR8nMiwrEj5NMQ8YWC4JBwkJMmcyL0hdLGiRIzh1hh4VGhMC",
+          "middle": "IwhHRwcaGDxGVkgnCxVrZHosShBGZjExMypPXFBGBxVBQhQWTUg0NCkOKltVQUOLNBdJVldFIR8nMiwrEj5NMQ8YWC4JBwkJMmcyL0hdLGiRIzh1hh4VGhMCMFJFHwEORC0IBQgHJS9ADxprbnQeFEpbYIguHywjFE4SFg8ZM08OIh0hUDQ9Cx8XNDooHhdMZy1XHQouGENHEwMLRSYvOR4zMDIFJgwRQCxcNAwOM1EcOxwVJhQ/IxwVNClDHx0NHxMrCQsaMkVNIBkHCCtFJRoMOURBURoSCyMtGSIRHSQCFSZRGDlDIBgHCyMSKBMXT4RKJxYUDBopB0AeISEGEWMjXEMkPg8JWXU9JxYWQzFbECA6LScyPj4XHiQMIzFRSyEoHSVMlneoPg4SJkRADUgoGSgzNBwVJSIRLB8yRDklMw9XkBexjB4NTCk0SToNBhIhLBAQKBwSJ1cTLRM5JhsXd5NbcFEFN183QmslDgxHaGQCNRINBC9gPzhQKENDPHNRDGQYIEVALi1eLhN7SHc5MRAGCRQiOzkjIBkYGSc+OEY6OjYOJk8bVQl4PmENGQEQDhYWEg0hMkA6HxkTRhJP",
+          "bottom": "TCk0SToNBhIhLBAQKBwSJ1cTLRM5JhsXd5NbcFEFN183QmslDgxHaGQCNRINBC9gPzhQKENDPHNRDGQYIEVALi1eLhN7SHc5MRAGCRQiOzkjIBkYGSc+OEY6OjYOJk8bVQl4PmENGQEQDhYWEg0hMkA6HxkTRhJPJCoxVjFUGDBIXDccKyodMGAvIScnEwwYDQkoPCphCCsNZFYNLjYTOSFmb3N7Y0NfCwsZJyspHSAtFihgDQ4yKGJANyAWFltoRCM+ElVsOjk4MS0ZEBYOARZFLCEsMiRqeS4fFiA+Yl9iY5BjJiUhGREQAQcIAQUdHitIE1RkaH5BNTUoLWFnXkoiEgsFAQQILjcOBQcJMDEVQFI9MqJSHzouWB4qHxARHhoPJkhSUHRlFA8ISCUUOSY+QJBVAyuWdqVmRhIzKyc3eH5cPR2TSUg6QTggPg4mW2pQCE2mV3GFm4pJBBVSVSdnHEJFMh5AFyJRQhAvKzEzGWSwVT1EQYyQcFNfQzQ7UTQrUSYYGEA5DBwQGEBWLX+cOx4+JQs/f4xrLAslXhg2WT8pIldHQD4yOzk0EHR1Hg0NLxkhFh0oJxIdbB4wTztE"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 18.596171,
+          "top": 16.806004,
+          "middle": 21.440975,
+          "bottom": 17.759241,
+          "effectiveRatio": 0.483329
+        },
+        "extendable": false,
+        "sha256": "ab1586417cdaf9ba0330f4d639048954fa2929b557d0f0f300d0787aa8579a48"
+      },
+      "id": "goldglove-2",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000538900034761_w.jpg",
+      "author": "AFP·연합뉴스",
+      "date": null,
+      "photoDate": null,
+      "photoDatePrecision": "unknown",
+      "photoDateEvidence": "국내 기사 게재일은2026-09-08이며 실제 촬영일은 미확인이다.",
+      "credit": "AFP·연합뉴스 · 촬영일 미확인 자료",
+      "imageCredit": "AFP·연합뉴스 · 촬영일 미확인 자료",
+      "people": [
+        "피트 크로-암스트롱"
+      ],
+      "currentTeam": "시카고 컵스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "PCA가 파란 컵스 헬멧과 파란 유니폼, 빨간 장갑으로 손을 든 세로 인물 사진. 현재 컵스 소속이다.",
+      "description": "PCA가 파란 컵스 헬멧과 파란 유니폼, 빨간 장갑으로 손을 든 세로 인물 사진. 현재 컵스 소속이다.",
+      "sceneGroup": "goldglove-2-distinct-game-portrait",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:49:27.209Z",
+      "rightsStatus": "approved",
+      "license": null,
+      "licenseUrl": null,
+      "rightsEvidence": "사용자2026-10-15 국내 언론사 실제 사진 계약 확인에 따라 스포츠조선 해당 원문에 게재된 정확한 AFP·연합뉴스 사진에 한정한다. AFP 전체 사용권을 추정하지 않는다."
+    },
+    {
+      "title": "File:Alex Bregman on deck for the Chicago Cubs in a spring training game (20 February 2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alex_Bregman_on_deck_for_the_Chicago_Cubs_in_a_spring_training_game_%2820_February_2026%29.jpg/1920px-Alex_Bregman_on_deck_for_the_Chicago_Cubs_in_a_spring_training_game_%2820_February_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Alex_Bregman_on_deck_for_the_Chicago_Cubs_in_a_spring_training_game_(20_February_2026).jpg",
+      "status": 200,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mlb-gold-glove-winners\\sources\\cc-3.jpg",
+      "sha256": "f4cf9c4ddaafd6a8f08d43f6579c15bd39b8ddaf936c21b31fa6acf3c9e233b3",
+      "last4Hex": "2a3fffd9",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T16:17:40.667Z",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 1130681,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.8879658723124624,
+        "entropy": 7.710208588745445,
+        "effectiveDetailRatio": 0.564727,
+        "kind": "source",
+        "coverScale": 0.563,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "b614cc4c4d1d5204",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "KzghGmENKygtHkQjdRMoBRgSQy01NBYiGx4ZNh4oMw1EKgt+bj5GDRsxQzIYFi0vLSRGEicsESIvIiINFkUvVFJlDBNgOTEpJw43MT9PGDdLIzYdQjMeTUYMPio7GS1LSWhALxosWhU7HlMlMjUZVCkOEh4+PTBBFCdGOyQXBCKJPyRIJxUsQBVEFiEuNgkvOiQUPkIuHw0jOykPKT8EThEYKRNQGzItMT41Lx9MGQwkRQorYDAlAREVDwsgEBwgIgYpXD4hdzRgPEo4LD5HKiM6OgwdJxcMHjQrLxYwJhFXIyQKO29BFRUgBTBgHwIfYkcoMR0KMjQQLlAITDuHbygjNilNSi9ITGxIFx0mLl1CDBkfDlNMQiMfDY8gcBkdJh0bIQsLHhoWOiAcKx0qFgwGGiQaFxU/Vl9NWxMRIl1QLSMvV0JDFw4JOT1GRSkiHywnMDw8V3A7QSAXPCEtFiEvFi0YGQcUND41FAoECBoeHR8aTVkiSFIxKxsdJxM8Ih4QEg0hEQcJOEgjCAIKDB1KzJN6SaA1JhUbI1gsICAcECMnAgEwRRtIGQUFCj6ntThCQay2FisiICQqQDciMS4NBAEYP0kqFg0UIlB4fVprYn/EXD4pMUpAQjIVJEZDEAYPDCUlFBkbIg0cgTg1W1MROBEbBxsIJCs2IxMjFCEwiF83KBkYFiAGNX9zeUNNRCE0NT4ULx0jRSFjKli7SVlvKhsUHCc3c6QdZV53NS46EDZxRGw6KVUumcMGSjpzHA0GFg4YhbULW1BRFUFbaxlvFk5QERQUlGa/WxOHJRkaP1ESicEfZCNdJFkEbBJxD1FAGiUouttQowGJNQVQUVE8uLQiQF+BbkMvXxdxG1Q3IB86tiUloCSHLEJCHkgXxoBthxh3oBFFOhdjFkAtHzQZFxUmqi+KDGodDD5GthincKU3pk4uGmN9Vj4kLWxiETA2exaHMi83LF9VkDmQSaQyb3A6N4lVSWYxODhKDSY+dD6BJyQmdTNQTVMcThprKyAkDwRbRBs1GwwTKUBYiSdFWiZEG1RqGWgfFCUpMCEYBgYPGR8jGRASQmR0KRpGTygtKB91EWEfEBwZHx8uHyEgGA4HAQICSzc2ERkaGRQZHzFjN0gMBAEFJ1AmHB8nJCAhIigqbZlRKh4UCAgECjg5cTgTGRYePi1LIBodJCQcHCEho10TGBoVCggKCRFJRQsCBAUDJz4pEhMdFxkhKzY7AxoACBMcHB4gIRcjBgMFBwkREgshJSIkLTAqKjIzMSU5NTEuJRUTCgQGCQYQGRclKCwnKyUcHRgSBwYLEDAbCQQOHSIiHykiJDM0LiMnHxsZEhcVBwYNDA0NEQ0fJSQwMRsaJCASFBgOEQoHBQcEAwYMEA0LDhENICAdEA0GCwsKDhQHChELAgYHBgcBCQQEDgoNEBkREAcLDQwMEAAHAREcGRgYEhMMCQgEBgEKBgcOFxMLEAgHBAsPFhoYGxwTExIEBAsFAQMJAg0FDxEOCxIW",
+          "top": "KzghGmENKygtHkQjdRMoBRgSQy01NBYiGx4ZNh4oMw1EKgt+bj5GDRsxQzIYFi0vLSRGEicsESIvIiINFkUvVFJlDBNgOTEpJw43MT9PGDdLIzYdQjMeTUYMPio7GS1LSWhALxosWhU7HlMlMjUZVCkOEh4+PTBBFCdGOyQXBCKJPyRIJxUsQBVEFiEuNgkvOiQUPkIuHw0jOykPKT8EThEYKRNQGzItMT41Lx9MGQwkRQorYDAlAREVDwsgEBwgIgYpXD4hdzRgPEo4LD5HKiM6OgwdJxcMHjQrLxYwJhFXIyQKO29BFRUgBTBgHwIfYkcoMR0KMjQQLlAITDuHbygjNilNSi9ITGxIFx0mLl1CDBkfDlNMQiMfDY8gcBkdJh0bIQsLHhoWOiAcKx0qFgwGGiQaFxU/Vl9NWxMRIl1QLSMvV0JDFw4JOT1GRSkiHywnMDw8V3A7QSAXPCEtFiEvFi0YGQcUND41FAoECBoeHR8aTVkiSFIxKxsdJxM8Ih4QEg0hEQcJOEgjCAIKDB1KzJN6SaA1JhUbI1gsICAcECMnAgEwRRtIGQUFCj6ntThCQay2FisiICQqQDciMS4N",
+          "middle": "ND41FAoECBoeHR8aTVkiSFIxKxsdJxM8Ih4QEg0hEQcJOEgjCAIKDB1KzJN6SaA1JhUbI1gsICAcECMnAgEwRRtIGQUFCj6ntThCQay2FisiICQqQDciMS4NBAEYP0kqFg0UIlB4fVprYn/EXD4pMUpAQjIVJEZDEAYPDCUlFBkbIg0cgTg1W1MROBEbBxsIJCs2IxMjFCEwiF83KBkYFiAGNX9zeUNNRCE0NT4ULx0jRSFjKli7SVlvKhsUHCc3c6QdZV53NS46EDZxRGw6KVUumcMGSjpzHA0GFg4YhbULW1BRFUFbaxlvFk5QERQUlGa/WxOHJRkaP1ESicEfZCNdJFkEbBJxD1FAGiUouttQowGJNQVQUVE8uLQiQF+BbkMvXxdxG1Q3IB86tiUloCSHLEJCHkgXxoBthxh3oBFFOhdjFkAtHzQZFxUmqi+KDGodDD5GthincKU3pk4uGmN9Vj4kLWxiETA2exaHMi83LF9VkDmQSaQyb3A6N4lVSWYxODhKDSY+dD6BJyQmdTNQTVMcThprKyAkDwRbRBs1GwwTKUBYiSdFWiZEG1RqGWgfFCUpMCEYBgYPGR8jGRAS",
+          "bottom": "FxUmqi+KDGodDD5GthincKU3pk4uGmN9Vj4kLWxiETA2exaHMi83LF9VkDmQSaQyb3A6N4lVSWYxODhKDSY+dD6BJyQmdTNQTVMcThprKyAkDwRbRBs1GwwTKUBYiSdFWiZEG1RqGWgfFCUpMCEYBgYPGR8jGRASQmR0KRpGTygtKB91EWEfEBwZHx8uHyEgGA4HAQICSzc2ERkaGRQZHzFjN0gMBAEFJ1AmHB8nJCAhIigqbZlRKh4UCAgECjg5cTgTGRYePi1LIBodJCQcHCEho10TGBoVCggKCRFJRQsCBAUDJz4pEhMdFxkhKzY7AxoACBMcHB4gIRcjBgMFBwkREgshJSIkLTAqKjIzMSU5NTEuJRUTCgQGCQYQGRclKCwnKyUcHRgSBwYLEDAbCQQOHSIiHykiJDM0LiMnHxsZEhcVBwYNDA0NEQ0fJSQwMRsaJCASFBgOEQoHBQcEAwYMEA0LDhENICAdEA0GCwsKDhQHChELAgYHBgcBCQQEDgoNEBkREAcLDQwMEAAHAREcGRgYEhMMCQgEBgEKBgcOFxMLEAgHBAsPFhoYGxwTExIEBAsFAQMJAg0FDxEOCxIW"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 43.217319,
+          "top": 41.125016,
+          "middle": 40.698582,
+          "bottom": 45.545297,
+          "effectiveRatio": 0.564727
+        },
+        "extendable": false,
+        "sha256": "f4cf9c4ddaafd6a8f08d43f6579c15bd39b8ddaf936c21b31fa6acf3c9e233b3"
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-28 02:07:41",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Alex Bregman on deck for the Chicago Cubs in a spring training game (20 February 2026)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 28 October 2026",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "33.431183",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "111.882111",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Alex Bregman on deck for the Chicago Cubs in a spring training game (20 February 2026).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-02-20 13:49:34",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Archieship&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Archieship (page does not exist)\">Archieship</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "id": "goldglove-3",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alex_Bregman_on_deck_for_the_Chicago_Cubs_in_a_spring_training_game_%2820_February_2026%29.jpg/1920px-Alex_Bregman_on_deck_for_the_Chicago_Cubs_in_a_spring_training_game_%2820_February_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Archieship",
+      "date": "2026-02-20",
+      "photoDate": "2026-02-20",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "2026-02-20 13:49:34",
+      "credit": "Archieship · CC BY 4.0 · 26.02.20 자료·편집",
+      "imageCredit": "Archieship · CC BY 4.0 · 26.02.20 자료·편집",
+      "people": [
+        "알렉스 브레그먼"
+      ],
+      "currentTeam": "시카고 컵스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "브레그먼이 2026년2월20일 컵스 스프링캠프에서 줄무늬 유니폼으로 대기 타격을 한다. 뒤의 구단 덕아웃과 전경 그물이 있으며 옛 보스턴·휴스턴 유니폼이 아니다.",
+      "description": "브레그먼이 2026년2월20일 컵스 스프링캠프에서 줄무늬 유니폼으로 대기 타격을 한다. 뒤의 구단 덕아웃과 전경 그물이 있으며 옛 보스턴·휴스턴 유니폼이 아니다.",
+      "sceneGroup": "goldglove-3-distinct-game-portrait",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:49:27.423Z",
+      "rightsStatus": "approved",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rightsEvidence": "해당 Commons 파일의 실제 imageinfo 저작자·LicenseShortName·LicenseUrl·촬영일을 개별 확인했다. 카드에 저작자/라이선스/자료사진/편집을 표시하고 공개 provenance에 원문과 라이선스 URL을 보존한다. BY-SA 파생 카드는 해당 라이선스로 배포한다."
+    },
+    {
+      "title": "File:DET at LAA 2025 - Dingler (1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/DET_at_LAA_2025_-_Dingler_%281%29.jpg/3840px-DET_at_LAA_2025_-_Dingler_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:DET_at_LAA_2025_-_Dingler_(1).jpg",
+      "status": 200,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mlb-gold-glove-winners\\sources\\cc-0.jpg",
+      "sha256": "afc7408be9107b1c492e886a458abc460f59cc01c26cd43dd4187d473a37255a",
+      "last4Hex": "827fffd9",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T16:17:40.883Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1693549,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9424323501529249,
+        "entropy": 7.350051402537247,
+        "effectiveDetailRatio": 0.466644,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "4d97b61c5d1d2b17",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "DS1BOEgxdj0sFC0XHlUXKCh7UiNiaFItN2I0XS0dQDNpdmltdD8vNUlcPVBpQlxtNyE8aleLQmGQUykucVdobVt9OytEKkYqLzdZXGgkITINSUk5JTRVOUAWCQQFBwYzNlANGiAWEiEgCiZFVSUtL0VcQRseOUhEoZyYnpaaYZWwhKSbopeelp10e8KNn2ITURZppp9pdnNqdHFuTWh2YGJlYVldWlhJUWRgPYF0WUPFXUAzBQMDBQMEBAIDAwUHBQMCAQIDAwgys4NMQdBbFA0JCQsLCAcIBwUFAwICBAQDAgIDAgYyoHlBoXkIBgUEBwUEAgQFBgYGBQUGBgYFBgcFBAcnbzRHO3sXAQQFBwcGBAQFBgYGBQMEBAQDBAUHCQU3jiYFC4JOBgQEFgQFBAIFBAEBAwIDAQMDAgEBFAJmkjA5HlNZFQQELScEBgQIDwkHBwgCAwMJAgQPCQ2CnRQSQmE/MxoQRGsqI1gJCSk9DRAJBAwLCwQGFxCSlGleIHM5KxQbIyxFP1VPSkI+XREMAwcICQQDDRGCU4NYKHc3GB8GG0IYPDYcEAMRRDgIBwoJCg8MGRl8WUtBW0hhMQ0UKisvHiAlPKZ/VFhDRkdEQklESlFJTxITZ0EOXzs3CAUnLRhY4ZFrlnd3fnV2ZldUV1h+LSMzOTpUEi4gEhEPECV+Wi0YGDoKEBQQGBsLGjQ6TzE+ECpFPw8DMTEuLi9HmjkdK0A9IBcRCgcjHSIyUDNhI2gzQDkrHyEjISc/eI8pL0BGKSgpKTAgHh8pFidTWihqFWBMAQQDBAVXEIo8Dj01CwQEBwYoHRREPxUJSkZdDlJfCQgFCQlIT5BMJipSHwgGBQoPMFKRYEIJE0JrK2NiBgMDDwwVbk8wXmwZFQUIPTQTIGNHmGAqEmo8bIEoAwUTFQcsUBBVNTYmDQk+PU9EMEZpX2U1aVIzZh8KBQgTGR83HjQbLiQfGQ0qcwQfEzlonCtUWiorVBsKDA4XJRo+EioRDSAdKA4KWUY2H2RjJkdZZDwgbjMWAgUHBx0oKycICwQnCSgWInExESqyrl00VT0KcVEJAgcOEA5BOA8DEA0tHS0ZIgg2KEwqWmIdWT0XTF8GBAcPERMXHxEIExMbLiEuDhkTFwk5JiY3Uxc0fEkSCRcxLCcuCwoQCwUMGhkkMywmLR4pQDU4TGZ3UQcJGS4fLhUTIAcGAwoEAhcZEx0ZJy4jKSg6WlQyEA4NDBEoJgUbCQYHDQcHCgYMFxEEBwoHBgcEBQYECA0NCwoNDAwGAwEDAQcBAgcGAwQPDgkJCAUCBAQABQgPBwUCAwQFAwQGCQEFCwgDBwUGBAsJChIUFhMTFRcVBQUDBgoICAkHBgQHAgwLCAsTFRcTFREOCwgIBQYEBwcMDgsMBwIICwQFCAELEhQQCwQAAgYICQUECA8WEBEPCAMECAcECBAREhYSDggFCQgEBQEFChMYHiQiAwYJCQQABw4TFRURDAYFBwsMBAULDRARFhcYGBEP",
+          "top": "DS1BOEgxdj0sFC0XHlUXKCh7UiNiaFItN2I0XS0dQDNpdmltdD8vNUlcPVBpQlxtNyE8aleLQmGQUykucVdobVt9OytEKkYqLzdZXGgkITINSUk5JTRVOUAWCQQFBwYzNlANGiAWEiEgCiZFVSUtL0VcQRseOUhEoZyYnpaaYZWwhKSbopeelp10e8KNn2ITURZppp9pdnNqdHFuTWh2YGJlYVldWlhJUWRgPYF0WUPFXUAzBQMDBQMEBAIDAwUHBQMCAQIDAwgys4NMQdBbFA0JCQsLCAcIBwUFAwICBAQDAgIDAgYyoHlBoXkIBgUEBwUEAgQFBgYGBQUGBgYFBgcFBAcnbzRHO3sXAQQFBwcGBAQFBgYGBQMEBAQDBAUHCQU3jiYFC4JOBgQEFgQFBAIFBAEBAwIDAQMDAgEBFAJmkjA5HlNZFQQELScEBgQIDwkHBwgCAwMJAgQPCQ2CnRQSQmE/MxoQRGsqI1gJCSk9DRAJBAwLCwQGFxCSlGleIHM5KxQbIyxFP1VPSkI+XREMAwcICQQDDRGCU4NYKHc3GB8GG0IYPDYcEAMRRDgIBwoJCg8MGRl8WUtBW0hhMQ0U",
+          "middle": "RGsqI1gJCSk9DRAJBAwLCwQGFxCSlGleIHM5KxQbIyxFP1VPSkI+XREMAwcICQQDDRGCU4NYKHc3GB8GG0IYPDYcEAMRRDgIBwoJCg8MGRl8WUtBW0hhMQ0UKisvHiAlPKZ/VFhDRkdEQklESlFJTxITZ0EOXzs3CAUnLRhY4ZFrlnd3fnV2ZldUV1h+LSMzOTpUEi4gEhEPECV+Wi0YGDoKEBQQGBsLGjQ6TzE+ECpFPw8DMTEuLi9HmjkdK0A9IBcRCgcjHSIyUDNhI2gzQDkrHyEjISc/eI8pL0BGKSgpKTAgHh8pFidTWihqFWBMAQQDBAVXEIo8Dj01CwQEBwYoHRREPxUJSkZdDlJfCQgFCQlIT5BMJipSHwgGBQoPMFKRYEIJE0JrK2NiBgMDDwwVbk8wXmwZFQUIPTQTIGNHmGAqEmo8bIEoAwUTFQcsUBBVNTYmDQk+PU9EMEZpX2U1aVIzZh8KBQgTGR83HjQbLiQfGQ0qcwQfEzlonCtUWiorVBsKDA4XJRo+EioRDSAdKA4KWUY2H2RjJkdZZDwgbjMWAgUHBx0oKycICwQnCSgWInExESqyrl00VT0KcVEJ",
+          "bottom": "AwUTFQcsUBBVNTYmDQk+PU9EMEZpX2U1aVIzZh8KBQgTGR83HjQbLiQfGQ0qcwQfEzlonCtUWiorVBsKDA4XJRo+EioRDSAdKA4KWUY2H2RjJkdZZDwgbjMWAgUHBx0oKycICwQnCSgWInExESqyrl00VT0KcVEJAgcOEA5BOA8DEA0tHS0ZIgg2KEwqWmIdWT0XTF8GBAcPERMXHxEIExMbLiEuDhkTFwk5JiY3Uxc0fEkSCRcxLCcuCwoQCwUMGhkkMywmLR4pQDU4TGZ3UQcJGS4fLhUTIAcGAwoEAhcZEx0ZJy4jKSg6WlQyEA4NDBEoJgUbCQYHDQcHCgYMFxEEBwoHBgcEBQYECA0NCwoNDAwGAwEDAQcBAgcGAwQPDgkJCAUCBAQABQgPBwUCAwQFAwQGCQEFCwgDBwUGBAsJChIUFhMTFRcVBQUDBgoICAkHBgQHAgwLCAsTFRcTFREOCwgIBQYEBwcMDgsMBwIICwQFCAELEhQQCwQAAgYICQUECA8WEBEPCAMECAcECBAREhYSDggFCQgEBQEFChMYHiQiAwYJCQQABw4TFRURDAYFBwsMBAULDRARFhcYGBEP"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 16.245593,
+          "top": 13.078703,
+          "middle": 17.84637,
+          "bottom": 17.732309,
+          "effectiveRatio": 0.466644
+        },
+        "extendable": false,
+        "sha256": "afc7408be9107b1c492e886a458abc460f59cc01c26cd43dd4187d473a37255a"
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2025-05-03 06:50:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "DET at LAA 2025 - Dingler (1)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Cory Blaser|Logan O’Hoppe|Self-published work|Detroit Tigers at Los Angeles Angels (May 2, 2025)|Dillon Dingler",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "From the Detroit Tigers at Los Angeles Angels game on May 2, 2025.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-05-02 04:38:30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "id": "goldglove-4",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/DET_at_LAA_2025_-_Dingler_%281%29.jpg/3840px-DET_at_LAA_2025_-_Dingler_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Sewageboy",
+      "date": "2025-05-02",
+      "photoDate": "2025-05-02",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "2025-05-02 04:38:30",
+      "credit": "Sewageboy · CC BY-SA 4.0 · 25.05.02 자료·편집",
+      "imageCredit": "Sewageboy · CC BY-SA 4.0 · 25.05.02 자료·편집",
+      "people": [
+        "딜런 딩글러"
+      ],
+      "currentTeam": "디트로이트 타이거스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "딩글러13번이 디트로이트 회색 원정 유니폼으로 타석에 선 후면 경기 장면. 포수·심판이 전경에 있고 뒷선수/상대포수 신원은 추정하지 않는다.",
+      "description": "딩글러13번이 디트로이트 회색 원정 유니폼으로 타석에 선 후면 경기 장면. 포수·심판이 전경에 있고 뒷선수/상대포수 신원은 추정하지 않는다.",
+      "sceneGroup": "goldglove-4-distinct-game-portrait",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:49:27.646Z",
+      "rightsStatus": "approved",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsEvidence": "해당 Commons 파일의 실제 imageinfo 저작자·LicenseShortName·LicenseUrl·촬영일을 개별 확인했다. 카드에 저작자/라이선스/자료사진/편집을 표시하고 공개 provenance에 원문과 라이선스 URL을 보존한다. BY-SA 파생 카드는 해당 라이선스로 배포한다."
+    },
+    {
+      "title": "File:CorbinCarroll.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/CorbinCarroll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:CorbinCarroll.jpg",
+      "status": 200,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\mlb-gold-glove-winners\\sources\\cc-2.jpg",
+      "sha256": "3112d24c8e5491ed3196e342b51cc64b2a34dc64320ecc00fbea361cebcc39d8",
+      "last4Hex": "f74fffd9",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-05T16:17:41.022Z",
+        "width": 2428,
+        "height": 3032,
+        "bytes": 3008583,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7488543535471572,
+        "entropy": 7.628318255589875,
+        "effectiveDetailRatio": 0.438246,
+        "kind": "source",
+        "coverScale": 0.445,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 2428,
+        "rawHeight": 3032,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "f2223919c4493133",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "RDY2OTg7QENHUWRugUpLIAkXY3kiBgoLGQwCExIUCx88Ng4EFxYZLiwPMD9GQBALY3kRJEw4BytQFhwsR09QW1RAU1NgSiELRCQhPyYOZH0QSytMB0swMRcUPRscFTlBMyZtdAs4KRoSQSgJbH4VQyY4CEAfNh0uPTlNTj00QVGLWicXGQorPSMIcIEURh86CEElPQkaX0A3TUZGTUc/XwoZEzSMgTQGaYEVPzg/D0Q/PAgJQDQRBQUCBA4ocHlkVZiWbmgvcYIVFEIqBjVGEwUMEzA6IEE9PTxCJEQfKlBAMHgkfYAVCggICgsLCQcHFRhJXk1EQkJIMEIrFE8uS0tWdnUzLS8wLS0xMC8qGyk7d0sbFxkeJUQqKCwzIkJgWhogHBwfIR4iISE+FCZCf2gQCxMwR0ElIg9CFXleBQ4PBgcKBggKBhR8DhcygIomAT+sfxNoIlkto6OVq20ZDQoHCQgKDz6xCA4XZsJahqppoGlaK1JX0BEpebe6UwcKCAgFGZ+IAg4SLHGakE5fNbkuMT3FK2E2NzGM03IGAgMGV8g3AwwWIhhRG10WaFqdVqwabB9NBgYJYs9JCAcYsYgJAzkOLSIaETVSJmBCcCJqJlwFCBocFJeiIgpguzkKN3BfFSsjTTY0UTBLIl8hWQUPKgwcJF2/URCVtBkpbWHCWyE2Q0hAMy1AJSNIEAtAQk0cEly8Xw0dvrR4bLRwvjAqJzQHGygnFhczFTNOFk0wESmQrSIHGnVQgaVUwzolJwgIICkvEB04DFAXJTcfEQ0wn3kVCR8wippexToRIxoMHTMnCSAzJ0saO1QWHAgwXIdVBUhahpqBsxgJExcWET4aDioPRz4pS1UkKFJEHjFhHWVGd6d7qCsMFBULEDEIHCMvKD1hXzAZf1QmJz1oIGZQPIkjpFJAPikjEj0FFiwiS0ouMzhrjppIOkZQNGFnTro2kWI5PBkNFyIHKDYZPQwEDhmUz0KzMFYfI1Z+k6EOcE0bJCsLEisHMygGPAsCFS/KgChUQxoLGkiPXtNtYzwqLgkOHDAtKx0YMgMHEDK8gxArIhoTGEGXC3e8IC47NxcLGAceGhcNKQ4ICRiOjwQxLhknJzCYBglvVhM3TB8TDRwkOQ0dQw0JBSSTgA4pRBUjMiOLBCRyLxcVeDYMGBtEHwgoTjAYDDKvhQcWSiclKV6GCyhdLhovaYk0KiIsMxlLGSIjcrWoKg0JPFdCPUqmESZEWFxbOXV9k4QXFz40CBZ2v3gsDwgEF05fIhmVCCAVO0+1JnxZTJleFCQRJi6JahEqCAQLESMOKFunByEhJkCmUU83A0qYUBooMlKBaisWIA4PFyM0EmqrBRcUDZagMw0wMhVMkodmh3lrGBgMHwkLEURXBn2LCRIvlbtMJxESHTMgJ2OFeUIaCxAQGwwJVEdfNYOECRSOrCYaNQYTCQQjNj1KMyECERATEg4GNFVRJHeIDiuhWDpLLBkXEA8zKxUdLSgRDRYQEQ0EBCgsFn59",
+          "top": "RDY2OTg7QENHUWRugUpLIAkXY3kiBgoLGQwCExIUCx88Ng4EFxYZLiwPMD9GQBALY3kRJEw4BytQFhwsR09QW1RAU1NgSiELRCQhPyYOZH0QSytMB0swMRcUPRscFTlBMyZtdAs4KRoSQSgJbH4VQyY4CEAfNh0uPTlNTj00QVGLWicXGQorPSMIcIEURh86CEElPQkaX0A3TUZGTUc/XwoZEzSMgTQGaYEVPzg/D0Q/PAgJQDQRBQUCBA4ocHlkVZiWbmgvcYIVFEIqBjVGEwUMEzA6IEE9PTxCJEQfKlBAMHgkfYAVCggICgsLCQcHFRhJXk1EQkJIMEIrFE8uS0tWdnUzLS8wLS0xMC8qGyk7d0sbFxkeJUQqKCwzIkJgWhogHBwfIR4iISE+FCZCf2gQCxMwR0ElIg9CFXleBQ4PBgcKBggKBhR8DhcygIomAT+sfxNoIlkto6OVq20ZDQoHCQgKDz6xCA4XZsJahqppoGlaK1JX0BEpebe6UwcKCAgFGZ+IAg4SLHGakE5fNbkuMT3FK2E2NzGM03IGAgMGV8g3AwwWIhhRG10WaFqdVqwabB9NBgYJYs9JCAcYsYgJ",
+          "middle": "CA4XZsJahqppoGlaK1JX0BEpebe6UwcKCAgFGZ+IAg4SLHGakE5fNbkuMT3FK2E2NzGM03IGAgMGV8g3AwwWIhhRG10WaFqdVqwabB9NBgYJYs9JCAcYsYgJAzkOLSIaETVSJmBCcCJqJlwFCBocFJeiIgpguzkKN3BfFSsjTTY0UTBLIl8hWQUPKgwcJF2/URCVtBkpbWHCWyE2Q0hAMy1AJSNIEAtAQk0cEly8Xw0dvrR4bLRwvjAqJzQHGygnFhczFTNOFk0wESmQrSIHGnVQgaVUwzolJwgIICkvEB04DFAXJTcfEQ0wn3kVCR8wippexToRIxoMHTMnCSAzJ0saO1QWHAgwXIdVBUhahpqBsxgJExcWET4aDioPRz4pS1UkKFJEHjFhHWVGd6d7qCsMFBULEDEIHCMvKD1hXzAZf1QmJz1oIGZQPIkjpFJAPikjEj0FFiwiS0ouMzhrjppIOkZQNGFnTro2kWI5PBkNFyIHKDYZPQwEDhmUz0KzMFYfI1Z+k6EOcE0bJCsLEisHMygGPAsCFS/KgChUQxoLGkiPXtNtYzwqLgkOHDAtKx0YMgMHEDK8gxArIhoTGEGX",
+          "bottom": "PIkjpFJAPikjEj0FFiwiS0ouMzhrjppIOkZQNGFnTro2kWI5PBkNFyIHKDYZPQwEDhmUz0KzMFYfI1Z+k6EOcE0bJCsLEisHMygGPAsCFS/KgChUQxoLGkiPXtNtYzwqLgkOHDAtKx0YMgMHEDK8gxArIhoTGEGXC3e8IC47NxcLGAceGhcNKQ4ICRiOjwQxLhknJzCYBglvVhM3TB8TDRwkOQ0dQw0JBSSTgA4pRBUjMiOLBCRyLxcVeDYMGBtEHwgoTjAYDDKvhQcWSiclKV6GCyhdLhovaYk0KiIsMxlLGSIjcrWoKg0JPFdCPUqmESZEWFxbOXV9k4QXFz40CBZ2v3gsDwgEF05fIhmVCCAVO0+1JnxZTJleFCQRJi6JahEqCAQLESMOKFunByEhJkCmUU83A0qYUBooMlKBaisWIA4PFyM0EmqrBRcUDZagMw0wMhVMkodmh3lrGBgMHwkLEURXBn2LCRIvlbtMJxESHTMgJ2OFeUIaCxAQGwwJVEdfNYOECRSOrCYaNQYTCQQjNj1KMyECERATEg4GNFVRJHeIDiuhWDpLLBkXEA8zKxUdLSgRDRYQEQ0EBCgsFn59"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 13.130538,
+          "top": 11.021512,
+          "middle": 15.283491,
+          "bottom": 13.337306,
+          "effectiveRatio": 0.438246
+        },
+        "extendable": false,
+        "sha256": "3112d24c8e5491ed3196e342b51cc64b2a34dc64320ecc00fbea361cebcc39d8"
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2026-07-13 21:32:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "CorbinCarroll",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Corbin Carroll|Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|2026 Arizona Diamondbacks season",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Corbin Carroll before a game against the Padres, July 9 2026",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-09 18:36:43",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Reunion\" title=\"User:Reunion\">Reunion</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "id": "goldglove-5",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/CorbinCarroll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Reunion",
+      "date": "2026-07-09",
+      "photoDate": "2026-07-09",
+      "photoDatePrecision": "day",
+      "photoDateEvidence": "2026-07-09 18:36:43",
+      "credit": "Reunion · CC BY 4.0 · 26.07.09 자료·편집",
+      "imageCredit": "Reunion · CC BY 4.0 · 26.07.09 자료·편집",
+      "people": [
+        "코빈 캐럴"
+      ],
+      "currentTeam": "애리조나 다이아몬드백스",
+      "currentTeamUniformVerified": true,
+      "currentTeamContext": "캐럴이 애리조나 검정 유니폼과 A 모자를 쓴 경기 전 인물 사진. 양옆 선수는 부분 가림으로 신원을 추정하지 않는다.",
+      "description": "캐럴이 애리조나 검정 유니폼과 A 모자를 쓴 경기 전 인물 사진. 양옆 선수는 부분 가림으로 신원을 추정하지 않는다.",
+      "sceneGroup": "goldglove-5-distinct-game-portrait",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "reviewer": "/root/midnight_1106_helpers",
+      "reviewedAt": "2026-11-05T15:49:27.785Z",
+      "rightsStatus": "approved",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rightsEvidence": "해당 Commons 파일의 실제 imageinfo 저작자·LicenseShortName·LicenseUrl·촬영일을 개별 확인했다. 카드에 저작자/라이선스/자료사진/편집을 표시하고 공개 provenance에 원문과 라이선스 URL을 보존한다. BY-SA 파생 카드는 해당 라이선스로 배포한다."
+    }
+  ]
+}
