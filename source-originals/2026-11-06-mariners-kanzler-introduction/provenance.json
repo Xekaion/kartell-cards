@@ -1,0 +1,38 @@
+{
+  "channelId": "kbo-daily",
+  "issueKey": "mlb-20261104-mariners-kanzler-first-introductory-press-conference",
+  "recordedAt": "2026-11-05T15:57:46.514Z",
+  "purpose": "Keep exact approved CC publisher bytes available while upstream returns intermittent errors; unchanged normal Studio image/file/quality/source-match checks still required",
+  "rows": [
+    {
+      "slideIndex": 1,
+      "file": "source-2-0f3a853be4059fb9.jpg",
+      "sha256": "0f3a853be4059fb9314226de6de3d02a730e2fd046de8f9bed80314d0e9d781c",
+      "upstreamSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cal_Raleigh_on_May_18%2C_2024_-_50_%28cropped%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_on_May_18%2C_2024_-_50_(cropped).jpg",
+      "imageCredit": "Rachel Minto · CC BY 2.0 · 24.05.18 자료·편집",
+      "rightsEvidence": "Exact Commons file https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_on_May_18%2C_2024_-_50_(cropped).jpg; Staff Sgt. Rachel Minto / usarmyband; CC BY 2.0; https://creativecommons.org/licenses/by/2.0. 실제 파일 설명과 개별 저작자·촬영일·라이선스를 확인했다. 카드에 저작자/CC/자료일/크롭·글자 변경 고지를 유지하고 CC BY-SA 사진이 쓰인 해당 카드 파생본은 같은 CC BY-SA4.0으로 배포한다. 인스타 공개 캡션에 출처 블록을 새로 넣지 않고 카드 footer와 공개 provenance에 원문·license URL을 연결한다.",
+      "changes": "Byte-for-byte mirror of actual publisher file; no trimming, reencoding or enlargement"
+    },
+    {
+      "slideIndex": 2,
+      "file": "source-3-a8229d9dc525490d.jpg",
+      "sha256": "a8229d9dc525490d961664697054695314f52d69d20372b0eae316e65e382799",
+      "upstreamSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cal_Raleigh_in_2024.jpg/1280px-Cal_Raleigh_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_in_2024.jpg",
+      "imageCredit": "Liannadavis · CC BY-SA 4.0 · 24.06.04 자료·편집",
+      "rightsEvidence": "Exact Commons file https://commons.wikimedia.org/wiki/File%3ACal_Raleigh_in_2024.jpg; Liannadavis; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. 실제 파일 설명과 개별 저작자·촬영일·라이선스를 확인했다. 카드에 저작자/CC/자료일/크롭·글자 변경 고지를 유지하고 CC BY-SA 사진이 쓰인 해당 카드 파생본은 같은 CC BY-SA4.0으로 배포한다. 인스타 공개 캡션에 출처 블록을 새로 넣지 않고 카드 footer와 공개 provenance에 원문·license URL을 연결한다.",
+      "changes": "Byte-for-byte mirror of actual publisher file; no trimming, reencoding or enlargement"
+    },
+    {
+      "slideIndex": 3,
+      "file": "source-4-8002219a16f647a7.jpg",
+      "sha256": "8002219a16f647a74b4e153549e8df1b9ba82c8c2ad7e70254df19b16e231b74",
+      "upstreamSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/T-Mobile_Park_2026.jpg/3840px-T-Mobile_Park_2026.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File%3AT-Mobile_Park_2026.jpg",
+      "imageCredit": "Seth Tisue · CC BY-SA 4.0 · 26.05.20 자료·편집",
+      "rightsEvidence": "Exact Commons file https://commons.wikimedia.org/wiki/File%3AT-Mobile_Park_2026.jpg; Seth Tisue; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. 실제 파일 설명과 개별 저작자·촬영일·라이선스를 확인했다. 카드에 저작자/CC/자료일/크롭·글자 변경 고지를 유지하고 CC BY-SA 사진이 쓰인 해당 카드 파생본은 같은 CC BY-SA4.0으로 배포한다. 인스타 공개 캡션에 출처 블록을 새로 넣지 않고 카드 footer와 공개 provenance에 원문·license URL을 연결한다.",
+      "changes": "Byte-for-byte mirror of actual publisher file; no trimming, reencoding or enlargement"
+    }
+  ]
+}
