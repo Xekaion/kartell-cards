@@ -1,0 +1,812 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "오타니·PCA·추리오\n실버슬러거 최종 후보",
+  "issueKey": "mlb-20261105-louisville-silver-slugger-finalists-full-announcement",
+  "checkedAt": "2026-11-06T15:37:54.880Z",
+  "sourceUrl": "https://fansided.com/mlb/announcing-the-2026-silver-slugger-finalists-for-american-and-national-leagues",
+  "corroboratingUrls": [
+    "https://www.slugger.com/en-us/pages/silver-slugger-awards",
+    "https://www.mlb.com/news/2026-silver-slugger-award-finalists"
+  ],
+  "rightsEvidence": "개별 Commons 실제 파일 페이지의 저작자·공개 라이선스·촬영일을 확인했다. 국내 언론 사용 계약을 근거로 삼지 않는다. 카드 크레딧과 공개 자산 메타데이터에 저작자/파일 페이지/라이선스 URL/표준 축소판 또는 원본 사용/텍스트 오버레이·레이아웃 크롭을 보존한다. BY-SA 카드 파생본은 같은 라이선스로 제공한다.",
+  "photos": [
+    {
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg",
+      "alt": "Photo of Jackson Chourio taken 06/07/25",
+      "author": "IanStone20165",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "photoDate": "2025-06-07",
+      "width": 1920,
+      "height": 1700,
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:33:35.874Z",
+        "width": 1920,
+        "height": 1700,
+        "bytes": 738975,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.562912477258131,
+        "entropy": 6.916856853837089,
+        "effectiveDetailRatio": 0.662698,
+        "kind": "source",
+        "coverScale": 0.794,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 1700,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "2f0b38693133c0c0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI",
+          "top": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggE",
+          "middle": "BAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQE",
+          "bottom": "CjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.364024,
+          "top": 19.153258,
+          "middle": 21.210755,
+          "bottom": 25.847882,
+          "effectiveRatio": 0.662698
+        },
+        "extendable": false,
+        "sha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e"
+      },
+      "rawWidth": 1920,
+      "rawHeight": 1700,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "2f0b38693133c0c0",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI",
+        "top": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggE",
+        "middle": "BAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQE",
+        "bottom": "CjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 22.364024,
+        "top": 19.153258,
+        "middle": 21.210755,
+        "bottom": 25.847882,
+        "effectiveRatio": 0.662698
+      },
+      "effectiveDetailRatio": 0.662698,
+      "effectiveSharpness": 2.562912477257816,
+      "entropy": 6.916856853837089,
+      "extendable": false,
+      "bytes": 738975,
+      "sha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e",
+      "scale": 0.7941176470588235,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "strictPassed": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\silver-slugger-finalists2026\\photos\\standard-native-0.jpg",
+      "id": "silver-chourio-current",
+      "people": [
+        "잭슨 추리오"
+      ],
+      "currentTeam": "밀워키 브루어스",
+      "sceneGroup": "chourio-jun7-portrait",
+      "description": "푸른 밀워키 시티커넥트 유니폼과 MKE 모자를 쓴 잭슨 추리오의 실제 근접 얼굴. 아래 오른쪽 흰 유니폼 일부는 신원 미확인으로 이름을 붙이지 않는다.",
+      "imageCredit": "추리오 2025.06.07 자료 · IanStone20165/CC BY4",
+      "creditDisplay": "추리오 2025.06.07 자료 · IanStone20165/CC BY4",
+      "rightsLicense": "CC BY 4.0",
+      "context": "현 소속 밀워키의 정확한 과거 촬영일을 표시한 자료. 11월 후보 발표 현장 사진이 아니다.",
+      "visualLimitations": "작은 하단 우측 다른 선수의 일부 어깨는 당사자 이름으로 추측하지 않는다. 최종 표지 얼굴·모자 크롭과 원본 일치 검수는 루트가 실제 렌더 뒤 수행한다.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e",
+      "rightsStatus": "approved",
+      "rightsEvidence": "개별 Commons 실제 파일 페이지의 저작자·공개 라이선스·촬영일을 확인했다. 국내 언론 사용 계약을 근거로 삼지 않는다. 카드 크레딧과 공개 자산 메타데이터에 저작자/파일 페이지/라이선스 URL/표준 축소판 또는 원본 사용/텍스트 오버레이·레이아웃 크롭을 보존한다. BY-SA 카드 파생본은 같은 라이선스로 제공한다.",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:32:11.812Z",
+      "strictNativeCoverScale": 0.7941176470588235,
+      "fit": "cover"
+    },
+    {
+      "id": "silver-reused-body-0",
+      "title": "File:Dodgers at Nationals (53677091634).jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg",
+      "commonsMetadata": {
+        "DateTime": {
+          "value": "2024-04-25 00:31:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Dodgers at Nationals (53677091634)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images with extracted images|Flickr images reviewed by FlickreviewR 2|Shohei Ohtani in 2024|United States photographs taken on 2024-04-23|Photographs by All-Pro Reels|Los Angeles Dodgers at Washington Nationals (April 23, 2024)|Shohei Ohtani in Washington, D.C.|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "WASHINGTON, D.C., APRIL 24, 2024 — <a href=\"https://en.wikipedia.org/wiki/Washington_Nationals\" class=\"extiw\" title=\"en:Washington Nationals\">Washington Nationals</a> faced the <a href=\"https://en.wikipedia.org/wiki/Los_Angeles_Dodgers\" class=\"extiw\" title=\"en:Los Angeles Dodgers\">Los Angeles Dodgers</a> at <a href=\"https://en.wikipedia.org/wiki/Nationals_Park\" class=\"extiw\" title=\"en:Nationals Park\">Nationals Park</a>.  (Joe Glorioso/All-Pro Reels for Washington Times Sports)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-04-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joeglo/53677091634/\">Dodgers at Nationals</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10457902@N08\">All-Pro Reels</a> from District of Columbia, USA",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadataOriginalWidth": 4000,
+      "metadataOriginalHeight": 2665,
+      "metadataNativeWidth": 3840,
+      "metadataNativeHeight": 2558,
+      "deliveryEvidence": "Commons imageinfo official standard-size thumbnail; server-provided downscale only, no local image transform. Original first-attempt429 retained.",
+      "requestedStandardWidth": 3840,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:33:36.219Z",
+        "width": 3840,
+        "height": 2558,
+        "bytes": 1659278,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.90364430889145,
+        "entropy": 7.541473802411929,
+        "effectiveDetailRatio": 0.537491,
+        "kind": "source",
+        "coverScale": 0.528,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2558,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "32330b0a0d57130f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD",
+          "top": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8",
+          "middle": "chEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwEC",
+          "bottom": "UwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.413032,
+          "top": 19.229752,
+          "middle": 27.034942,
+          "bottom": 18.704316,
+          "effectiveRatio": 0.537491
+        },
+        "extendable": false,
+        "sha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf"
+      },
+      "width": 3840,
+      "height": 2558,
+      "rawWidth": 3840,
+      "rawHeight": 2558,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "32330b0a0d57130f",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD",
+        "top": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8",
+        "middle": "chEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwEC",
+        "bottom": "UwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 21.413032,
+        "top": 19.229752,
+        "middle": 27.034942,
+        "bottom": 18.704316,
+        "effectiveRatio": 0.537491
+      },
+      "effectiveDetailRatio": 0.537491,
+      "effectiveSharpness": 1.9036443088912598,
+      "entropy": 7.541473802411929,
+      "extendable": false,
+      "bytes": 1659278,
+      "sha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf",
+      "scale": 0.527756059421423,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "strictPassed": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\nl-mvp-finalists-2026\\photos\\mvp-standard-2.jpg",
+      "people": [
+        "오타니 쇼헤이"
+      ],
+      "currentTeam": "LA 다저스",
+      "author": "Joe Glorioso / All-Pro Reels",
+      "photoDate": "2024-04",
+      "photoDatePrecision": "month; Commons original date2024-04-23와 description2024-04-24가 달라 카드에는 월까지만 표기",
+      "creditDisplay": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "sceneGroup": "ohtani-nationals-baserunning-april2024",
+      "description": "회색 LA 다저스17번 오타니가 베이스에서 리드하는 전신. 타격·퍼레이드와 다른 장면이며 얼굴과 모자 모두 원본 안에 있다.",
+      "imageCredit": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "rightsEvidence": "개별 Commons 실제 파일 페이지의 저작자·공개 라이선스·촬영일을 확인했다. 국내 언론 사용 계약을 근거로 삼지 않는다. 카드 크레딧과 공개 자산 메타데이터에 저작자/파일 페이지/라이선스 URL/표준 축소판 또는 원본 사용/텍스트 오버레이·레이아웃 크롭을 보존한다. BY-SA 카드 파생본은 같은 라이선스로 제공한다.",
+      "rightsLicense": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalAuthor": "Joe Glorioso / All-Pro Reels",
+      "originalSourceCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joeglo/53677091634/\">Dodgers at Nationals</a>",
+      "licenseMetadata": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg",
+      "deliveryTransform": "Commons imageinfo official standard-size thumbnail; server-provided downscale only, no local image transform. Original first-attempt429 retained.",
+      "intendedCardLicense": "CC BY-SA 2.0",
+      "context": "현재 소속이 같은 선수의 명시된 과거 자료사진. 2026 BBWAA 발표 현장을 촬영했다고 주장하지 않는다.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:32:11.812Z",
+      "strictNativeCoverScale": 0.527756059421423,
+      "priorUse": "Already published inside earlier MVP article; permitted body reuse, never proposed as a reused cover. Exact native SHA preserved.",
+      "fit": "cover"
+    },
+    {
+      "id": "silver-reused-body-1",
+      "title": "File:Pete Crow-Armstrong walking back to the Cubs’ dugout in a game against the Marlins (22 September 2026).jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg/1920px-Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_(22_September_2026).jpg",
+      "commonsMetadata": {
+        "DateTime": {
+          "value": "2026-10-28 01:44:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pete Crow-Armstrong walking back to the Cubs’ dugout in a game against the Marlins (22 September 2026)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Chicago|Self-published work|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "41.948222",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-87.656206",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pete Crow-Armstrong walking back to the Cubs’ dugout in a game against the Marlins (22 September 2026)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-09-22 19:22:01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Archieship&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Archieship (page does not exist)\">Archieship</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg/1920px-Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadataOriginalWidth": 2669,
+      "metadataOriginalHeight": 3024,
+      "metadataNativeWidth": 1920,
+      "metadataNativeHeight": 2175,
+      "deliveryEvidence": "Commons imageinfo official standard-size thumbnail; server-provided downscale only, no local image transform. Original first-attempt429 retained.",
+      "requestedStandardWidth": 1920,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:33:36.388Z",
+        "width": 1920,
+        "height": 2175,
+        "bytes": 820972,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.4448309352139446,
+        "entropy": 7.413647531880997,
+        "effectiveDetailRatio": 0.554691,
+        "kind": "source",
+        "coverScale": 0.621,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 2175,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "f48c0c4ccd4dcc4c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "IikiJCIYFAwMCwgWSkU1TTkPDhZgVSYnb2szBgoHGBAMCQUCAAMBAggjR0YlLzIcCw5cTxUqGVlWIgYGBQkJCQwJCwkLCQQiFmd2PU0RDQNNXhEVAyhlJQgIAAQGBgQDAgECBQESNTciRgsIBgc6XBYGBlZYChggCwoLCw4MCQcEBQknTBMzDCEIDw9dSwwGAUdjKBoYBQcJBwMGBgYGCkmMb0IVXXZmFR1bJwQHA0Z3KQYLAwQGBwgDAgQKbL1WbKuFuFOekjVMNwYCB0NzIQYKBQcIBQQEAQRZujYfGlaTJTQTkIplMScdGVh4HgcBCQkHBgQECReHZSsNGhkQaGWBMrh+ExcaHWFDBAYHAwcCBAQECh+BRSkVHBpGcyRDXp2XEx4BH1s5AQYHCQgJAwYEAkKFEhoNIAtDNwsNPFPGJg4DK10oCAkHCQ0HCAQAF2GGfysVFiYsbywhWj6vYQMBNl0cCwYOBQQEAg0OESmHw200MgwTL1dTfLFtRgsGO1AXDw0ECwwOERIUDjVLPJNdGwwSDxW0sm4kJA8GUFUQAAkLEw8JCxIPDkIrWX4/FhEZEx6aqSQgHAIEX0oKDQgJDxATEhIFCkMoaWZDRzZHECuBvg0sBw0ZXzALAQUHExYWDwsEBThIYTcUNm93OBBsnSQXDQEvXB4GEAoGBQMEAwcHDwNmU0hMYWBTdEJlkjEBBxVKUAoQCQcGBQwKCAsFAi8qDzsaITtdRBp0oG4dBRteOgMFBwoHAwgFAQQICQ89SlcfMD1CJglgSkxwISdeMwgICQEIBgUKCxMRDg4mPmkbKg8yMBFpdjoxQBtbKAsECgwIBgoODwYIBAcKMVoVKwo1KBB7kzlGBBhMJQ4IDRASDQwDBgoHBQkEG1AUKBk8JxOHmD0MEAxPKgUMCg4RCQEDBAsJBwsRKVMMNRFZOQuXrx8tCws7USQeFhINBQQJDA0XGhUPLWMVPShRaw6EukJMRD9qGUAvEQgJBAQGCAkMAQoJKXIjShVmUSpza0k0PVg6azkzIxANCAQMBwMLERMNGmcvTDVDXSZQMwoLFwgvAj0rCwwLDgkGDAwMDAkFDVpBO1YeVAtIPQQDDxEECgMHBgYMBAUGBwYKBwEEGFZCJWInXQ9PRwgEAQgIBAUECwwHCQwDBQgHBwwNHlozJVIQWw9dRggQDQUMEAwUEw0EBg4LDgkKCAwKHFktJkwdVBteLQYKERMODhEZFAkCCAwODQsNDgoKE2ZUKnMRYyZgIwQBBQsQExcLChAPCgYKCAsKEQoHDWNXGWMKbDdoEQMCAw0RDw4LCQ4RBQQDAwQFBwsKDEmGO3QwXENOEggIEgsGBAMICAMEIx8fJCgjIRkREDeiKZU5iWWOFQoJBgQGBwUBBQcEDAoHBwEJDgoIDD9ep3EarKBKIAYICQEJEA0OEwsMKyomKSkpJSAiHxhhZ00hX2k7Fg8JBwcPDQYHBAgNBQQDBAEJAwkKBRAGERERIhIJCQoBBgQECgsMDwgJ",
+          "top": "IikiJCIYFAwMCwgWSkU1TTkPDhZgVSYnb2szBgoHGBAMCQUCAAMBAggjR0YlLzIcCw5cTxUqGVlWIgYGBQkJCQwJCwkLCQQiFmd2PU0RDQNNXhEVAyhlJQgIAAQGBgQDAgECBQESNTciRgsIBgc6XBYGBlZYChggCwoLCw4MCQcEBQknTBMzDCEIDw9dSwwGAUdjKBoYBQcJBwMGBgYGCkmMb0IVXXZmFR1bJwQHA0Z3KQYLAwQGBwgDAgQKbL1WbKuFuFOekjVMNwYCB0NzIQYKBQcIBQQEAQRZujYfGlaTJTQTkIplMScdGVh4HgcBCQkHBgQECReHZSsNGhkQaGWBMrh+ExcaHWFDBAYHAwcCBAQECh+BRSkVHBpGcyRDXp2XEx4BH1s5AQYHCQgJAwYEAkKFEhoNIAtDNwsNPFPGJg4DK10oCAkHCQ0HCAQAF2GGfysVFiYsbywhWj6vYQMBNl0cCwYOBQQEAg0OESmHw200MgwTL1dTfLFtRgsGO1AXDw0ECwwOERIUDjVLPJNdGwwSDxW0sm4kJA8GUFUQAAkLEw8JCxIPDkIrWX4/FhEZEx6aqSQgHAIEX0oKDQgJ",
+          "middle": "BQQEAg0OESmHw200MgwTL1dTfLFtRgsGO1AXDw0ECwwOERIUDjVLPJNdGwwSDxW0sm4kJA8GUFUQAAkLEw8JCxIPDkIrWX4/FhEZEx6aqSQgHAIEX0oKDQgJDxATEhIFCkMoaWZDRzZHECuBvg0sBw0ZXzALAQUHExYWDwsEBThIYTcUNm93OBBsnSQXDQEvXB4GEAoGBQMEAwcHDwNmU0hMYWBTdEJlkjEBBxVKUAoQCQcGBQwKCAsFAi8qDzsaITtdRBp0oG4dBRteOgMFBwoHAwgFAQQICQ89SlcfMD1CJglgSkxwISdeMwgICQEIBgUKCxMRDg4mPmkbKg8yMBFpdjoxQBtbKAsECgwIBgoODwYIBAcKMVoVKwo1KBB7kzlGBBhMJQ4IDRASDQwDBgoHBQkEG1AUKBk8JxOHmD0MEAxPKgUMCg4RCQEDBAsJBwsRKVMMNRFZOQuXrx8tCws7USQeFhINBQQJDA0XGhUPLWMVPShRaw6EukJMRD9qGUAvEQgJBAQGCAkMAQoJKXIjShVmUSpza0k0PVg6azkzIxANCAQMBwMLERMNGmcvTDVDXSZQMwoLFwgvAj0rCwwL",
+          "bottom": "CQEDBAsJBwsRKVMMNRFZOQuXrx8tCws7USQeFhINBQQJDA0XGhUPLWMVPShRaw6EukJMRD9qGUAvEQgJBAQGCAkMAQoJKXIjShVmUSpza0k0PVg6azkzIxANCAQMBwMLERMNGmcvTDVDXSZQMwoLFwgvAj0rCwwLDgkGDAwMDAkFDVpBO1YeVAtIPQQDDxEECgMHBgYMBAUGBwYKBwEEGFZCJWInXQ9PRwgEAQgIBAUECwwHCQwDBQgHBwwNHlozJVIQWw9dRggQDQUMEAwUEw0EBg4LDgkKCAwKHFktJkwdVBteLQYKERMODhEZFAkCCAwODQsNDgoKE2ZUKnMRYyZgIwQBBQsQExcLChAPCgYKCAsKEQoHDWNXGWMKbDdoEQMCAw0RDw4LCQ4RBQQDAwQFBwsKDEmGO3QwXENOEggIEgsGBAMICAMEIx8fJCgjIRkREDeiKZU5iWWOFQoJBgQGBwUBBQcEDAoHBwEJDgoIDD9ep3EarKBKIAYICQEJEA0OEwsMKyomKSkpJSAiHxhhZ00hX2k7Fg8JBwcPDQYHBAgNBQQDBAEJAwkKBRAGERERIhIJCQoBBgQECgsMDwgJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 35.818516,
+          "top": 32.329715,
+          "middle": 39.43184,
+          "bottom": 37.419973,
+          "effectiveRatio": 0.554691
+        },
+        "extendable": false,
+        "sha256": "c2a26b6669de8681deb1e04bfb1aed33ff63d4bd92e92536fff0a5d30b752352"
+      },
+      "width": 1920,
+      "height": 2175,
+      "rawWidth": 1920,
+      "rawHeight": 2175,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "f48c0c4ccd4dcc4c",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "IikiJCIYFAwMCwgWSkU1TTkPDhZgVSYnb2szBgoHGBAMCQUCAAMBAggjR0YlLzIcCw5cTxUqGVlWIgYGBQkJCQwJCwkLCQQiFmd2PU0RDQNNXhEVAyhlJQgIAAQGBgQDAgECBQESNTciRgsIBgc6XBYGBlZYChggCwoLCw4MCQcEBQknTBMzDCEIDw9dSwwGAUdjKBoYBQcJBwMGBgYGCkmMb0IVXXZmFR1bJwQHA0Z3KQYLAwQGBwgDAgQKbL1WbKuFuFOekjVMNwYCB0NzIQYKBQcIBQQEAQRZujYfGlaTJTQTkIplMScdGVh4HgcBCQkHBgQECReHZSsNGhkQaGWBMrh+ExcaHWFDBAYHAwcCBAQECh+BRSkVHBpGcyRDXp2XEx4BH1s5AQYHCQgJAwYEAkKFEhoNIAtDNwsNPFPGJg4DK10oCAkHCQ0HCAQAF2GGfysVFiYsbywhWj6vYQMBNl0cCwYOBQQEAg0OESmHw200MgwTL1dTfLFtRgsGO1AXDw0ECwwOERIUDjVLPJNdGwwSDxW0sm4kJA8GUFUQAAkLEw8JCxIPDkIrWX4/FhEZEx6aqSQgHAIEX0oKDQgJDxATEhIFCkMoaWZDRzZHECuBvg0sBw0ZXzALAQUHExYWDwsEBThIYTcUNm93OBBsnSQXDQEvXB4GEAoGBQMEAwcHDwNmU0hMYWBTdEJlkjEBBxVKUAoQCQcGBQwKCAsFAi8qDzsaITtdRBp0oG4dBRteOgMFBwoHAwgFAQQICQ89SlcfMD1CJglgSkxwISdeMwgICQEIBgUKCxMRDg4mPmkbKg8yMBFpdjoxQBtbKAsECgwIBgoODwYIBAcKMVoVKwo1KBB7kzlGBBhMJQ4IDRASDQwDBgoHBQkEG1AUKBk8JxOHmD0MEAxPKgUMCg4RCQEDBAsJBwsRKVMMNRFZOQuXrx8tCws7USQeFhINBQQJDA0XGhUPLWMVPShRaw6EukJMRD9qGUAvEQgJBAQGCAkMAQoJKXIjShVmUSpza0k0PVg6azkzIxANCAQMBwMLERMNGmcvTDVDXSZQMwoLFwgvAj0rCwwLDgkGDAwMDAkFDVpBO1YeVAtIPQQDDxEECgMHBgYMBAUGBwYKBwEEGFZCJWInXQ9PRwgEAQgIBAUECwwHCQwDBQgHBwwNHlozJVIQWw9dRggQDQUMEAwUEw0EBg4LDgkKCAwKHFktJkwdVBteLQYKERMODhEZFAkCCAwODQsNDgoKE2ZUKnMRYyZgIwQBBQsQExcLChAPCgYKCAsKEQoHDWNXGWMKbDdoEQMCAw0RDw4LCQ4RBQQDAwQFBwsKDEmGO3QwXENOEggIEgsGBAMICAMEIx8fJCgjIRkREDeiKZU5iWWOFQoJBgQGBwUBBQcEDAoHBwEJDgoIDD9ep3EarKBKIAYICQEJEA0OEwsMKyomKSkpJSAiHxhhZ00hX2k7Fg8JBwcPDQYHBAgNBQQDBAEJAwkKBRAGERERIhIJCQoBBgQECgsMDwgJ",
+        "top": "IikiJCIYFAwMCwgWSkU1TTkPDhZgVSYnb2szBgoHGBAMCQUCAAMBAggjR0YlLzIcCw5cTxUqGVlWIgYGBQkJCQwJCwkLCQQiFmd2PU0RDQNNXhEVAyhlJQgIAAQGBgQDAgECBQESNTciRgsIBgc6XBYGBlZYChggCwoLCw4MCQcEBQknTBMzDCEIDw9dSwwGAUdjKBoYBQcJBwMGBgYGCkmMb0IVXXZmFR1bJwQHA0Z3KQYLAwQGBwgDAgQKbL1WbKuFuFOekjVMNwYCB0NzIQYKBQcIBQQEAQRZujYfGlaTJTQTkIplMScdGVh4HgcBCQkHBgQECReHZSsNGhkQaGWBMrh+ExcaHWFDBAYHAwcCBAQECh+BRSkVHBpGcyRDXp2XEx4BH1s5AQYHCQgJAwYEAkKFEhoNIAtDNwsNPFPGJg4DK10oCAkHCQ0HCAQAF2GGfysVFiYsbywhWj6vYQMBNl0cCwYOBQQEAg0OESmHw200MgwTL1dTfLFtRgsGO1AXDw0ECwwOERIUDjVLPJNdGwwSDxW0sm4kJA8GUFUQAAkLEw8JCxIPDkIrWX4/FhEZEx6aqSQgHAIEX0oKDQgJ",
+        "middle": "BQQEAg0OESmHw200MgwTL1dTfLFtRgsGO1AXDw0ECwwOERIUDjVLPJNdGwwSDxW0sm4kJA8GUFUQAAkLEw8JCxIPDkIrWX4/FhEZEx6aqSQgHAIEX0oKDQgJDxATEhIFCkMoaWZDRzZHECuBvg0sBw0ZXzALAQUHExYWDwsEBThIYTcUNm93OBBsnSQXDQEvXB4GEAoGBQMEAwcHDwNmU0hMYWBTdEJlkjEBBxVKUAoQCQcGBQwKCAsFAi8qDzsaITtdRBp0oG4dBRteOgMFBwoHAwgFAQQICQ89SlcfMD1CJglgSkxwISdeMwgICQEIBgUKCxMRDg4mPmkbKg8yMBFpdjoxQBtbKAsECgwIBgoODwYIBAcKMVoVKwo1KBB7kzlGBBhMJQ4IDRASDQwDBgoHBQkEG1AUKBk8JxOHmD0MEAxPKgUMCg4RCQEDBAsJBwsRKVMMNRFZOQuXrx8tCws7USQeFhINBQQJDA0XGhUPLWMVPShRaw6EukJMRD9qGUAvEQgJBAQGCAkMAQoJKXIjShVmUSpza0k0PVg6azkzIxANCAQMBwMLERMNGmcvTDVDXSZQMwoLFwgvAj0rCwwL",
+        "bottom": "CQEDBAsJBwsRKVMMNRFZOQuXrx8tCws7USQeFhINBQQJDA0XGhUPLWMVPShRaw6EukJMRD9qGUAvEQgJBAQGCAkMAQoJKXIjShVmUSpza0k0PVg6azkzIxANCAQMBwMLERMNGmcvTDVDXSZQMwoLFwgvAj0rCwwLDgkGDAwMDAkFDVpBO1YeVAtIPQQDDxEECgMHBgYMBAUGBwYKBwEEGFZCJWInXQ9PRwgEAQgIBAUECwwHCQwDBQgHBwwNHlozJVIQWw9dRggQDQUMEAwUEw0EBg4LDgkKCAwKHFktJkwdVBteLQYKERMODhEZFAkCCAwODQsNDgoKE2ZUKnMRYyZgIwQBBQsQExcLChAPCgYKCAsKEQoHDWNXGWMKbDdoEQMCAw0RDw4LCQ4RBQQDAwQFBwsKDEmGO3QwXENOEggIEgsGBAMICAMEIx8fJCgjIRkREDeiKZU5iWWOFQoJBgQGBwUBBQcEDAoHBwEJDgoIDD9ep3EarKBKIAYICQEJEA0OEwsMKyomKSkpJSAiHxhhZ00hX2k7Fg8JBwcPDQYHBAgNBQQDBAEJAwkKBRAGERERIhIJCQoBBgQECgsMDwgJ"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 35.818516,
+        "top": 32.329715,
+        "middle": 39.43184,
+        "bottom": 37.419973,
+        "effectiveRatio": 0.554691
+      },
+      "effectiveDetailRatio": 0.554691,
+      "effectiveSharpness": 1.4448309352141475,
+      "entropy": 7.413647531880997,
+      "extendable": false,
+      "bytes": 820972,
+      "sha256": "c2a26b6669de8681deb1e04bfb1aed33ff63d4bd92e92536fff0a5d30b752352",
+      "scale": 0.6206896551724138,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "strictPassed": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\nl-mvp-finalists-2026\\photos\\mvp-standard-1.jpg",
+      "people": [
+        "피트 크로우암스트롱"
+      ],
+      "currentTeam": "시카고 컵스",
+      "author": "Archieship",
+      "photoDate": "2026-09-22",
+      "creditDisplay": "PCA 2026.09.22 자료 · Archieship/CC BY4",
+      "sceneGroup": "pca-cubs-dugout-return-sept22-2026",
+      "description": "흰 줄무늬 시카고 컵스 유니폼과 파란C모자 PCA가 글러브를 들고 더그아웃으로 돌아오는 장면. 보호망이 프레임 전체에 보이는 원본 한계가 있다.",
+      "imageCredit": "PCA 2026.09.22 자료 · Archieship/CC BY4",
+      "rightsEvidence": "개별 Commons 실제 파일 페이지의 저작자·공개 라이선스·촬영일을 확인했다. 국내 언론 사용 계약을 근거로 삼지 않는다. 카드 크레딧과 공개 자산 메타데이터에 저작자/파일 페이지/라이선스 URL/표준 축소판 또는 원본 사용/텍스트 오버레이·레이아웃 크롭을 보존한다. BY-SA 카드 파생본은 같은 라이선스로 제공한다.",
+      "rightsLicense": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalAuthor": "Archieship",
+      "originalSourceCredit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "licenseMetadata": "https://commons.wikimedia.org/wiki/File:Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_(22_September_2026).jpg",
+      "deliveryTransform": "Commons imageinfo official standard-size thumbnail; server-provided downscale only, no local image transform. Original first-attempt429 retained.",
+      "context": "현재 소속이 같은 선수의 명시된 과거 자료사진. 2026 BBWAA 발표 현장을 촬영했다고 주장하지 않는다.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg/1920px-Pete_Crow-Armstrong_walking_back_to_the_Cubs%E2%80%99_dugout_in_a_game_against_the_Marlins_%2822_September_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "c2a26b6669de8681deb1e04bfb1aed33ff63d4bd92e92536fff0a5d30b752352",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:32:11.812Z",
+      "strictNativeCoverScale": 0.6206896551724138,
+      "priorUse": "Already published inside earlier MVP article; permitted body reuse, never proposed as a reused cover. Exact native SHA preserved.",
+      "fit": "cover"
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bobby_Whit_Jr_batting_against_the_Tigers_%2829_Sep_2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bobby_Whit_Jr_batting_against_the_Tigers_(29_Sep_2022).jpg",
+      "alt": "Bobby Whit Jr. (Kansas City Royals)",
+      "author": "Notorious4life",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "photoDate": "2022-09-29",
+      "width": 2171,
+      "height": 2895,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:33:36.532Z",
+        "width": 2171,
+        "height": 2895,
+        "bytes": 1207371,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.6500332805911013,
+        "entropy": 7.612580531830872,
+        "effectiveDetailRatio": 0.563929,
+        "kind": "source",
+        "coverScale": 0.497,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 2171,
+        "rawHeight": 2895,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "793575f6c65a5de0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "OGFvRDcxET6CIxM6OSkvGTFQGJY6NkF6LUA6UrOJKhgeSBuKWoQyjCgaL00bMxEtdDAMEjZrURU4dzOvLDkQQn4smVh6ESoXQhMzPSASAxkkHh1feAxpYUcVOiZEKTSDbI1oQE1EI0I+Ix52fn6Xj4+VSyZHj6KfZDdFOV5dRCJNNkFsT0AyFHVcFSE2LjM5JBEnKhw0LEVXQzc8THdbVkElamUQJUIuI0ZkVmtrbHN8golYcG5ra25tZ11kYXhbcWwzgqFbS2E4KjU/TkpHPUh4AgIBAgECBQMGCh1bUCNChykzEVcwHTZMIUcxJjEHR09JQVFTP0NFRkA3OSoqhZwaLm0EKjw+aHBiREUzLlFfXFdRTTYmI0BsZi4iNnyjao1RXzMaVSBBGSYQFEI6Ph0xQywUGjx6lQQeFwtBoQyFKp9sFxAwExAXKy0JFQkULDQTJDBGmTwREg8eeTiEQkqZaCIoDggTGwIJEwwOGTIlCB8ve2sfEg4VP3Y9QQZzWAsQGAQJIA0WEhMVCCNAIAALXsJ6ExQPBEESOxBooVMXExwVCRESAg0UGRwtLxNFTFCRTBhtbUdWbVAyeMBNHxsKRi82ODk7KSozFBlHc4I2FnuukJKXpdcwIHmRHgYQKSQiJh4eGhcUAyMtHA0Pa51JEDgfMuiVGh1/bhkBHxgnKg8VExUWFyY6IhF6oScSKSExP4+YJww6e0E9JRApKUM2Ki0uKzc6FompGRYjHDMxQ3BnJiYfoI8TLyM2R0cgDxEREygan4wVFRE6Sj80KGc9H0oXdkInEiYRF0NcXmFiYnOajBMhIEhDMC0bJEoSLTdUpVNANzU1NDIvLy4vLFdkER8vVWoVJBkrQYNxGhxMYhsFJCEgIyMjKiswKw4eGDZkiTNLNBBISSSKRyBFfjwfNTY3NjYyMjY0UiAZLW1+P4QdOipfCklFUxYmbUMoDREXFhkTDg4INo8nKq1pWmktEGctaEBMnj4Vfo88AwkHBQYEAAQIN2BzG2WvHHw3HEJmF2NGrKUQabA5BQAEBAMEBggLFzhnL0vKfl5RMw8qjjQqZLo6NIpiBQgFBQYFBQUDCRk7OR5do2oULBEyYZdNW3RDF1VpAgQEAwMBAQMEBiWCJi8mPGcfOSI8QWZFIFNDDi9NBgYHCwgHBwEGIZNmWzsVODgULyIwTTRWEkx9Cys/Mi4wNjY9QEMkX28pTUFOckFiZzc6aBJuWUGeXD57QEJBPkJAO0h2V9FsEkw+pxVlED4pa2lUjDx1jxiNBAICDxMfKkGgYpuoToTUdVlcUisnEYVvW0dgh3qHEhQbHiIjGx09o4F2U2MdVCUdLx8URDtJIEseUHFREQ8JCQsSIiYpWIMyB0FRSz0+NkQ1OiAYPzAbEAwMJSYrGRMWEg8PCwQLHw8LDxUPAjhIIh9DQDQnIxscGhMUGwoFCAoHDRINEh0jMDowLjQzMzEoJB4gFQwEQkE8JBwkKisuKyMVFhESGA4XFRYTCwwJCQgGCQoD",
+          "top": "OGFvRDcxET6CIxM6OSkvGTFQGJY6NkF6LUA6UrOJKhgeSBuKWoQyjCgaL00bMxEtdDAMEjZrURU4dzOvLDkQQn4smVh6ESoXQhMzPSASAxkkHh1feAxpYUcVOiZEKTSDbI1oQE1EI0I+Ix52fn6Xj4+VSyZHj6KfZDdFOV5dRCJNNkFsT0AyFHVcFSE2LjM5JBEnKhw0LEVXQzc8THdbVkElamUQJUIuI0ZkVmtrbHN8golYcG5ra25tZ11kYXhbcWwzgqFbS2E4KjU/TkpHPUh4AgIBAgECBQMGCh1bUCNChykzEVcwHTZMIUcxJjEHR09JQVFTP0NFRkA3OSoqhZwaLm0EKjw+aHBiREUzLlFfXFdRTTYmI0BsZi4iNnyjao1RXzMaVSBBGSYQFEI6Ph0xQywUGjx6lQQeFwtBoQyFKp9sFxAwExAXKy0JFQkULDQTJDBGmTwREg8eeTiEQkqZaCIoDggTGwIJEwwOGTIlCB8ve2sfEg4VP3Y9QQZzWAsQGAQJIA0WEhMVCCNAIAALXsJ6ExQPBEESOxBooVMXExwVCRESAg0UGRwtLxNFTFCRTBhtbUdWbVAyeMBNHxsK",
+          "middle": "GwIJEwwOGTIlCB8ve2sfEg4VP3Y9QQZzWAsQGAQJIA0WEhMVCCNAIAALXsJ6ExQPBEESOxBooVMXExwVCRESAg0UGRwtLxNFTFCRTBhtbUdWbVAyeMBNHxsKRi82ODk7KSozFBlHc4I2FnuukJKXpdcwIHmRHgYQKSQiJh4eGhcUAyMtHA0Pa51JEDgfMuiVGh1/bhkBHxgnKg8VExUWFyY6IhF6oScSKSExP4+YJww6e0E9JRApKUM2Ki0uKzc6FompGRYjHDMxQ3BnJiYfoI8TLyM2R0cgDxEREygan4wVFRE6Sj80KGc9H0oXdkInEiYRF0NcXmFiYnOajBMhIEhDMC0bJEoSLTdUpVNANzU1NDIvLy4vLFdkER8vVWoVJBkrQYNxGhxMYhsFJCEgIyMjKiswKw4eGDZkiTNLNBBISSSKRyBFfjwfNTY3NjYyMjY0UiAZLW1+P4QdOipfCklFUxYmbUMoDREXFhkTDg4INo8nKq1pWmktEGctaEBMnj4Vfo88AwkHBQYEAAQIN2BzG2WvHHw3HEJmF2NGrKUQabA5BQAEBAMEBggLFzhnL0vKfl5RMw8qjjQqZLo6NIpi",
+          "bottom": "NTY3NjYyMjY0UiAZLW1+P4QdOipfCklFUxYmbUMoDREXFhkTDg4INo8nKq1pWmktEGctaEBMnj4Vfo88AwkHBQYEAAQIN2BzG2WvHHw3HEJmF2NGrKUQabA5BQAEBAMEBggLFzhnL0vKfl5RMw8qjjQqZLo6NIpiBQgFBQYFBQUDCRk7OR5do2oULBEyYZdNW3RDF1VpAgQEAwMBAQMEBiWCJi8mPGcfOSI8QWZFIFNDDi9NBgYHCwgHBwEGIZNmWzsVODgULyIwTTRWEkx9Cys/Mi4wNjY9QEMkX28pTUFOckFiZzc6aBJuWUGeXD57QEJBPkJAO0h2V9FsEkw+pxVlED4pa2lUjDx1jxiNBAICDxMfKkGgYpuoToTUdVlcUisnEYVvW0dgh3qHEhQbHiIjGx09o4F2U2MdVCUdLx8URDtJIEseUHFREQ8JCQsSIiYpWIMyB0FRSz0+NkQ1OiAYPzAbEAwMJSYrGRMWEg8PCwQLHw8LDxUPAjhIIh9DQDQnIxscGhMUGwoFCAoHDRINEh0jMDowLjQzMzEoJB4gFQwEQkE8JBwkKisuKyMVFhESGA4XFRYTCwwJCQgGCQoD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 17.149186,
+          "top": 17.883359,
+          "middle": 17.148039,
+          "bottom": 16.134074,
+          "effectiveRatio": 0.563929
+        },
+        "extendable": false,
+        "sha256": "5993d5866752031055b4330b2badbf93b4755980c5f1320db93158721a2b5f08"
+      },
+      "rawWidth": 2171,
+      "rawHeight": 2895,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "793575f6c65a5de0",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "OGFvRDcxET6CIxM6OSkvGTFQGJY6NkF6LUA6UrOJKhgeSBuKWoQyjCgaL00bMxEtdDAMEjZrURU4dzOvLDkQQn4smVh6ESoXQhMzPSASAxkkHh1feAxpYUcVOiZEKTSDbI1oQE1EI0I+Ix52fn6Xj4+VSyZHj6KfZDdFOV5dRCJNNkFsT0AyFHVcFSE2LjM5JBEnKhw0LEVXQzc8THdbVkElamUQJUIuI0ZkVmtrbHN8golYcG5ra25tZ11kYXhbcWwzgqFbS2E4KjU/TkpHPUh4AgIBAgECBQMGCh1bUCNChykzEVcwHTZMIUcxJjEHR09JQVFTP0NFRkA3OSoqhZwaLm0EKjw+aHBiREUzLlFfXFdRTTYmI0BsZi4iNnyjao1RXzMaVSBBGSYQFEI6Ph0xQywUGjx6lQQeFwtBoQyFKp9sFxAwExAXKy0JFQkULDQTJDBGmTwREg8eeTiEQkqZaCIoDggTGwIJEwwOGTIlCB8ve2sfEg4VP3Y9QQZzWAsQGAQJIA0WEhMVCCNAIAALXsJ6ExQPBEESOxBooVMXExwVCRESAg0UGRwtLxNFTFCRTBhtbUdWbVAyeMBNHxsKRi82ODk7KSozFBlHc4I2FnuukJKXpdcwIHmRHgYQKSQiJh4eGhcUAyMtHA0Pa51JEDgfMuiVGh1/bhkBHxgnKg8VExUWFyY6IhF6oScSKSExP4+YJww6e0E9JRApKUM2Ki0uKzc6FompGRYjHDMxQ3BnJiYfoI8TLyM2R0cgDxEREygan4wVFRE6Sj80KGc9H0oXdkInEiYRF0NcXmFiYnOajBMhIEhDMC0bJEoSLTdUpVNANzU1NDIvLy4vLFdkER8vVWoVJBkrQYNxGhxMYhsFJCEgIyMjKiswKw4eGDZkiTNLNBBISSSKRyBFfjwfNTY3NjYyMjY0UiAZLW1+P4QdOipfCklFUxYmbUMoDREXFhkTDg4INo8nKq1pWmktEGctaEBMnj4Vfo88AwkHBQYEAAQIN2BzG2WvHHw3HEJmF2NGrKUQabA5BQAEBAMEBggLFzhnL0vKfl5RMw8qjjQqZLo6NIpiBQgFBQYFBQUDCRk7OR5do2oULBEyYZdNW3RDF1VpAgQEAwMBAQMEBiWCJi8mPGcfOSI8QWZFIFNDDi9NBgYHCwgHBwEGIZNmWzsVODgULyIwTTRWEkx9Cys/Mi4wNjY9QEMkX28pTUFOckFiZzc6aBJuWUGeXD57QEJBPkJAO0h2V9FsEkw+pxVlED4pa2lUjDx1jxiNBAICDxMfKkGgYpuoToTUdVlcUisnEYVvW0dgh3qHEhQbHiIjGx09o4F2U2MdVCUdLx8URDtJIEseUHFREQ8JCQsSIiYpWIMyB0FRSz0+NkQ1OiAYPzAbEAwMJSYrGRMWEg8PCwQLHw8LDxUPAjhIIh9DQDQnIxscGhMUGwoFCAoHDRINEh0jMDowLjQzMzEoJB4gFQwEQkE8JBwkKisuKyMVFhESGA4XFRYTCwwJCQgGCQoD",
+        "top": "OGFvRDcxET6CIxM6OSkvGTFQGJY6NkF6LUA6UrOJKhgeSBuKWoQyjCgaL00bMxEtdDAMEjZrURU4dzOvLDkQQn4smVh6ESoXQhMzPSASAxkkHh1feAxpYUcVOiZEKTSDbI1oQE1EI0I+Ix52fn6Xj4+VSyZHj6KfZDdFOV5dRCJNNkFsT0AyFHVcFSE2LjM5JBEnKhw0LEVXQzc8THdbVkElamUQJUIuI0ZkVmtrbHN8golYcG5ra25tZ11kYXhbcWwzgqFbS2E4KjU/TkpHPUh4AgIBAgECBQMGCh1bUCNChykzEVcwHTZMIUcxJjEHR09JQVFTP0NFRkA3OSoqhZwaLm0EKjw+aHBiREUzLlFfXFdRTTYmI0BsZi4iNnyjao1RXzMaVSBBGSYQFEI6Ph0xQywUGjx6lQQeFwtBoQyFKp9sFxAwExAXKy0JFQkULDQTJDBGmTwREg8eeTiEQkqZaCIoDggTGwIJEwwOGTIlCB8ve2sfEg4VP3Y9QQZzWAsQGAQJIA0WEhMVCCNAIAALXsJ6ExQPBEESOxBooVMXExwVCRESAg0UGRwtLxNFTFCRTBhtbUdWbVAyeMBNHxsK",
+        "middle": "GwIJEwwOGTIlCB8ve2sfEg4VP3Y9QQZzWAsQGAQJIA0WEhMVCCNAIAALXsJ6ExQPBEESOxBooVMXExwVCRESAg0UGRwtLxNFTFCRTBhtbUdWbVAyeMBNHxsKRi82ODk7KSozFBlHc4I2FnuukJKXpdcwIHmRHgYQKSQiJh4eGhcUAyMtHA0Pa51JEDgfMuiVGh1/bhkBHxgnKg8VExUWFyY6IhF6oScSKSExP4+YJww6e0E9JRApKUM2Ki0uKzc6FompGRYjHDMxQ3BnJiYfoI8TLyM2R0cgDxEREygan4wVFRE6Sj80KGc9H0oXdkInEiYRF0NcXmFiYnOajBMhIEhDMC0bJEoSLTdUpVNANzU1NDIvLy4vLFdkER8vVWoVJBkrQYNxGhxMYhsFJCEgIyMjKiswKw4eGDZkiTNLNBBISSSKRyBFfjwfNTY3NjYyMjY0UiAZLW1+P4QdOipfCklFUxYmbUMoDREXFhkTDg4INo8nKq1pWmktEGctaEBMnj4Vfo88AwkHBQYEAAQIN2BzG2WvHHw3HEJmF2NGrKUQabA5BQAEBAMEBggLFzhnL0vKfl5RMw8qjjQqZLo6NIpi",
+        "bottom": "NTY3NjYyMjY0UiAZLW1+P4QdOipfCklFUxYmbUMoDREXFhkTDg4INo8nKq1pWmktEGctaEBMnj4Vfo88AwkHBQYEAAQIN2BzG2WvHHw3HEJmF2NGrKUQabA5BQAEBAMEBggLFzhnL0vKfl5RMw8qjjQqZLo6NIpiBQgFBQYFBQUDCRk7OR5do2oULBEyYZdNW3RDF1VpAgQEAwMBAQMEBiWCJi8mPGcfOSI8QWZFIFNDDi9NBgYHCwgHBwEGIZNmWzsVODgULyIwTTRWEkx9Cys/Mi4wNjY9QEMkX28pTUFOckFiZzc6aBJuWUGeXD57QEJBPkJAO0h2V9FsEkw+pxVlED4pa2lUjDx1jxiNBAICDxMfKkGgYpuoToTUdVlcUisnEYVvW0dgh3qHEhQbHiIjGx09o4F2U2MdVCUdLx8URDtJIEseUHFREQ8JCQsSIiYpWIMyB0FRSz0+NkQ1OiAYPzAbEAwMJSYrGRMWEg8PCwQLHw8LDxUPAjhIIh9DQDQnIxscGhMUGwoFCAoHDRINEh0jMDowLjQzMzEoJB4gFQwEQkE8JBwkKisuKyMVFhESGA4XFRYTCwwJCQgGCQoD"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 17.149186,
+        "top": 17.883359,
+        "middle": 17.148039,
+        "bottom": 16.134074,
+        "effectiveRatio": 0.563929
+      },
+      "effectiveDetailRatio": 0.563929,
+      "effectiveSharpness": 0.6500332805911461,
+      "entropy": 7.612580531830872,
+      "extendable": false,
+      "bytes": 1207371,
+      "sha256": "5993d5866752031055b4330b2badbf93b4755980c5f1320db93158721a2b5f08",
+      "scale": 0.49746660525103636,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "strictPassed": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\silver-slugger-finalists2026\\photos\\witt-native-0.jpg",
+      "id": "silver-witt-current-club-archive",
+      "people": [
+        "보비 위트 주니어"
+      ],
+      "currentTeam": "캔자스시티 로열스",
+      "sceneGroup": "witt-sep29-batting",
+      "description": "파란 KC 로열스 유니폼 WITT JR.7번의 타석 준비 장면. 디트로이트 포수·심판은 옛 경기의 신원 미확인 배경으로 주인공과 혼동하지 않는다.",
+      "imageCredit": "위트 2022.09.29 자료 · Notorious4life/CC0",
+      "creditDisplay": "위트 2022.09.29 자료 · Notorious4life/CC0",
+      "rightsLicense": "CC0 1.0",
+      "context": "현재 소속과 같은 로열스 유니폼의 2022 자료. 올해 후보 발표 사진처럼 설명하지 않는다.",
+      "visualLimitations": "폰트 WITT JR.와 KC,7번 및 Commons 원작자 설명으로 신원을 확인한다. 얼굴 일부가 타격 헬멧에 가려지고 원본에 망·관중이 보인다.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bobby_Whit_Jr_batting_against_the_Tigers_%2829_Sep_2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bobby_Whit_Jr_batting_against_the_Tigers_%2829_Sep_2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceSha256": "5993d5866752031055b4330b2badbf93b4755980c5f1320db93158721a2b5f08",
+      "rightsStatus": "approved",
+      "rightsEvidence": "개별 Commons 실제 파일 페이지의 저작자·공개 라이선스·촬영일을 확인했다. 국내 언론 사용 계약을 근거로 삼지 않는다. 카드 크레딧과 공개 자산 메타데이터에 저작자/파일 페이지/라이선스 URL/표준 축소판 또는 원본 사용/텍스트 오버레이·레이아웃 크롭을 보존한다. BY-SA 카드 파생본은 같은 라이선스로 제공한다.",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:32:11.812Z",
+      "strictNativeCoverScale": 0.49746660525103636,
+      "fit": "cover"
+    },
+    {
+      "id": "silver-reused-body-3",
+      "person": "turang",
+      "title": "File:Turang 2 61824 (cropped).jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg",
+      "commonsMetadata": {
+        "DateTime": {
+          "value": "2024-06-19 19:16:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Turang 2 61824 (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Extracted images|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)|Brice Turang",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Brice Turang looking to steal second base.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:49:33",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "metadataWidth": 1112,
+      "metadataHeight": 1378,
+      "metadataBytes": 1026441,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:33:36.627Z",
+        "width": 1112,
+        "height": 1378,
+        "bytes": 1026441,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7051469047597633,
+        "entropy": 6.733792368617287,
+        "effectiveDetailRatio": 0.45889,
+        "kind": "source",
+        "coverScale": 0.98,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1112,
+        "rawHeight": 1378,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "b541ccc7754c49d3",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK",
+          "top": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEB",
+          "middle": "AwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGggg",
+          "bottom": "AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 7.153857,
+          "top": 6.176632,
+          "middle": 6.883865,
+          "bottom": 7.905874,
+          "effectiveRatio": 0.45889
+        },
+        "extendable": false,
+        "sha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f"
+      },
+      "width": 1112,
+      "height": 1378,
+      "rawWidth": 1112,
+      "rawHeight": 1378,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "b541ccc7754c49d3",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK",
+        "top": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEB",
+        "middle": "AwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGggg",
+        "bottom": "AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 7.153857,
+        "top": 6.176632,
+        "middle": 6.883865,
+        "bottom": 7.905874,
+        "effectiveRatio": 0.45889
+      },
+      "effectiveDetailRatio": 0.45889,
+      "effectiveSharpness": 0.7051469047597799,
+      "entropy": 6.733792368617287,
+      "extendable": false,
+      "bytes": 1026441,
+      "sha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f",
+      "scale": 0.9796806966618288,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "strictPassed": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\nl-mvp-finalists-2026\\photos\\mvp-native-3.jpg",
+      "people": [
+        "브라이스 투랑"
+      ],
+      "currentTeam": "밀워키 브루어스",
+      "author": "Sewageboy",
+      "photoDate": "2024-06",
+      "photoDatePrecision": "month; 원 Commons metadata2024-06-18, 현지/메타시각 혼동을 피해 월 표기",
+      "creditDisplay": "투랑 2024.06 자료 · Sewageboy/CC BY-SA4",
+      "sceneGroup": "turang-brewers-leadoff-anaheim-june2024",
+      "description": "회색 밀워키 유니폼2번 투랑이 베이스에서 허리를 숙이고 주루를 준비한다. 앞쪽의 상대 내야수 뒷모습은 기사 당사자로 이름 붙이지 않는다.",
+      "imageCredit": "투랑 2024.06 자료 · Sewageboy/CC BY-SA4",
+      "rightsEvidence": "개별 Commons 실제 파일 페이지의 저작자·공개 라이선스·촬영일을 확인했다. 국내 언론 사용 계약을 근거로 삼지 않는다. 카드 크레딧과 공개 자산 메타데이터에 저작자/파일 페이지/라이선스 URL/표준 축소판 또는 원본 사용/텍스트 오버레이·레이아웃 크롭을 보존한다. BY-SA 카드 파생본은 같은 라이선스로 제공한다.",
+      "rightsLicense": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalAuthor": "Sewageboy",
+      "originalSourceCredit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "licenseMetadata": "https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg",
+      "deliveryTransform": "Commons 실제 공개 파일 원본; 로컬 변환0",
+      "intendedCardLicense": "CC BY-SA 4.0",
+      "context": "현재 소속이 같은 선수의 명시된 과거 자료사진. 2026 BBWAA 발표 현장을 촬영했다고 주장하지 않는다.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceSha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:32:11.812Z",
+      "strictNativeCoverScale": 0.9796806966618288,
+      "priorUse": "Already published inside earlier MVP article; permitted body reuse, never proposed as a reused cover. Exact native SHA preserved.",
+      "fit": "cover"
+    }
+  ]
+}
