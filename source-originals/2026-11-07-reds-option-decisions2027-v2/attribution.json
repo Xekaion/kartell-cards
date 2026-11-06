@@ -1,0 +1,29 @@
+{
+  "version": "licensed-real-source-archive-v1",
+  "story": "reds-option-decisions2027",
+  "rawResearch": {
+    "path": "logs/codex-2026-11-07-midnight-catchup/research-packages/reds-option-decisions2027/research-package-v6.json",
+    "sha256": "78a92908802081228be9c40be6b6e7172971806c63f2944b8e1c4436bdffb316"
+  },
+  "createdAt": "2026-11-06T17:10:03.679Z",
+  "purpose": "Stable immutable hosting of exact already reviewed licensed source photographs. Original publisher URLs, author, dates and individual license conditions remain attached. No broader rights claim.",
+  "sources": [
+    {
+      "slideIndex": 2,
+      "filename": "source-3.jpg",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg/3840px-Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Spencer_Steer_in_the_field,_July_20,_2025_(1).jpg",
+      "sha256": "82b10ffec886c3d7f2bbe1ad12a476859e8aeab0e5e1a9c18f5c47e903ddf0d3",
+      "bytes": 2498900,
+      "width": 3840,
+      "height": 2560,
+      "author": "D. Benjamin Miller",
+      "imageCredit": "D. Benjamin Miller · 2025-07-20 자료 · CC0",
+      "photoDate": "2025-07-20",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsEvidence": "원Commons 개별저작자 D. Benjamin Miller, CC0 공개헌정 및 실제2025-07-20 촬영정보를 확인했다. 원사진은 공식API제공3840표준축소 JPEG이며 정상검사 바이트와 저장SHA가 같다. 통상세로크롭/축소·문안/그라데이션을 변경사항으로 기록하며 생성·복원·AI확대0이다.",
+      "changesToOriginal": "None. Identical real source image bytes; no re-encoding, cropping, restoration, generation, or AI enlargement. Normal text/gradient composition of later cards is separately attributed."
+    }
+  ]
+}
