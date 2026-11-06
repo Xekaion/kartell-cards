@@ -1,0 +1,1170 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "수아레즈·존슨 옵션 거절\n파간도 FA 시장으로",
+  "issueKey": "mlb-20261031-cincinnati-suarez-johnson-pagan-option-decisions2027",
+  "checkedAt": "2026-11-06T17:11:40.884Z",
+  "sourceUrl": "https://www.mlbtraderumors.com/2026/10/reds-decline-mutual-options-for-eugenio-suarez-pierce-johnson.html",
+  "corroboratingUrls": [
+    "https://worldbaseball.com/news/pagan-declines-option-with-reds-who-turn-down-options-on-suarez-and-johnson",
+    "https://statsapi.mlb.com/api/v1/transactions?teamId=113&startDate=2026-10-30&endDate=2026-11-06"
+  ],
+  "rightsEvidence": "원 Commons/Flickr 연결 파일의 저작자 Hayden Schiff, 개별 CC BY 2.0(https://creativecommons.org/licenses/by/2.0/)를 실제 metadata로 확인했다. 원본보존·통상세로크롭/축소/문안/그라데이션을 변경사항으로 공개metadata에 명시하며 BY-SA 파생카드는 같은/호환 라이선스를 유지한다. 국내언론권리를 미국자료에확대하지않는다.\n원 Commons/Flickr 연결 파일의 저작자 All-Pro Reels / Joe Glorioso, 개별 CC BY-SA 2.0(https://creativecommons.org/licenses/by-sa/2.0/)를 실제 metadata로 확인했다. 원본보존·통상세로크롭/축소/문안/그라데이션을 변경사항으로 공개metadata에 명시하며 BY-SA 파생카드는 같은/호환 라이선스를 유지한다. 국내언론권리를 미국자료에확대하지않는다.\n원 Commons/Flickr 연결 파일의 저작자 Reunion, 개별 CC BY 4.0(https://creativecommons.org/licenses/by/4.0/)를 실제 metadata로 확인했다. 원본보존·통상세로크롭/축소/문안/그라데이션을 변경사항으로 공개metadata에 명시하며 BY-SA 파생카드는 같은/호환 라이선스를 유지한다. 국내언론권리를 미국자료에확대하지않는다.\n원 Commons/Flickr 연결 파일의 저작자 D. Benjamin Miller, 개별 CC0(https://creativecommons.org/publicdomain/zero/1.0/)를 실제 metadata로 확인했다. 원본보존·통상세로크롭/축소/문안/그라데이션을 변경사항으로 공개metadata에 명시하며 BY-SA 파생카드는 같은/호환 라이선스를 유지한다. 국내언론권리를 미국자료에확대하지않는다.",
+  "photos": [
+    {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-06T16:11:04.541Z",
+      "width": 6000,
+      "height": 4000,
+      "bytes": 14076348,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 0.7782812777148684,
+      "entropy": 6.686021430384699,
+      "effectiveDetailRatio": 0.49828,
+      "kind": "source",
+      "coverScale": 0.338,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-1.jpg",
+      "sha256": "f11c4b46601f1424409a5f394d21039d18f75c814540126e7786511218e836fd",
+      "perceptualHash": "170f2f0b0b1f171f",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AQMCAQIBAAIBAgECAQEBAgMCAgEBAgEBAQEBAgICAQIAAQIBAQIAAQEBAAAAAgMCAgEBAgMBAQEBAQICAgIBAgQBAQEAAgICAgICAQQDAQIGEAoBAwIDAwIDBgYFBAMDBAQBAgQEBAQEAwICAQUiKUAcAwMBAwIBDg0NEBAQDw8QERERDwsMDg8OEBwiHyBCIA8MDBAPBgcJDQ8MDA0RERISFhcWFhcaGxcZLlRDLhoZGBocOTo5Pj49PT9AP0E+PDg4Oz43OTQbIBUuSjg4Njo5IyIgIB8gISAgIB8dGxkaFxg4WmwlMBAVGRMSEhERBAMDAwIBAwICAwABAgUGEl2VdXynQylOKgYFBAQEBAQDBAIAAwEAAQMCBQILcaFGK26tGKWKJwYICAkJBQUGBgYGBgUFBgYFBQNLixs/KUScercvWQ0CAQEDBAQHBQYJCAcHCAkHCwtsRzoxHBsuhhtAPQ0BAgEBBQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUDBAMEBQQFBQUFBAowcW13XkcEDCobe1JgKQQCBAQEBgYGBQQEAwEDAw5zQpBdKCAkHy81fx1xOQYBAQQDBAIEBAMEAgEEBSVwMYJ1GhEOGjRAdgl0NwYBAQMEAwECAQIDAQEEBi5qNEmoNkgdTCZRhxdwHwYEBAUEBgQDAgMDAwIDCDV3KS+EpyZrRhUlejtZEgcDAwUEAQMCAgABAQMEBzl3LTIrkXBjTycWXyY3EQQCAwQDBgYCAAMCAQQGBjZuLSc6aEwfYTFKdRNBNQgCAwUEAAEDAAIAAwQBBzd1NyFqWzQyM0JrQCQZQikPDhEPAwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMGCgkKCwoKCTSXGzddQgQBBAICBh4NEyIgEQIDAwIDAQEDBAQCEHFeKUliGAUGBgQFCCQLIg8pBAQEBAMEBQICBAQJNIUbSGwxAgMCAgADCSwnGjQmAgQDBAQDBAMCAgEOWFsiY0cDBwcHBAIHEz4ZGjoUBAQGCQYHAgEBBAohZGVlaxwDAwECBAMDNT5KSC4HBAMIBQABBAQCARMnFFtkHggCAwQEAwQECD5vYgQcDAYFAgQDCQsMDBEwHjIXERARDw0RERERFD8+TVQKIxgNEBEQBwYJCQcfPRonKhQNDw8QDwsKEiI3NzkuIw0GCQMECggJCQgLCygkHw4ODAgMDA0MDRMmLxQKBAsJCgoHBAIGBgkKDwYNDA4MDw0ODAwLCw0JBQoQEg4LDAoKBgYIBQUDAwIDBAQEAQEDAgICAQECAwECAwUGBgUG",
+        "top": "AQMCAQIBAAIBAgECAQEBAgMCAgEBAgEBAQEBAgICAQIAAQIBAQIAAQEBAAAAAgMCAgEBAgMBAQEBAQICAgIBAgQBAQEAAgICAgICAQQDAQIGEAoBAwIDAwIDBgYFBAMDBAQBAgQEBAQEAwICAQUiKUAcAwMBAwIBDg0NEBAQDw8QERERDwsMDg8OEBwiHyBCIA8MDBAPBgcJDQ8MDA0RERISFhcWFhcaGxcZLlRDLhoZGBocOTo5Pj49PT9AP0E+PDg4Oz43OTQbIBUuSjg4Njo5IyIgIB8gISAgIB8dGxkaFxg4WmwlMBAVGRMSEhERBAMDAwIBAwICAwABAgUGEl2VdXynQylOKgYFBAQEBAQDBAIAAwEAAQMCBQILcaFGK26tGKWKJwYICAkJBQUGBgYGBgUFBgYFBQNLixs/KUScercvWQ0CAQEDBAQHBQYJCAcHCAkHCwtsRzoxHBsuhhtAPQ0BAgEBBQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUD",
+        "middle": "BQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUDBAMEBQQFBQUFBAowcW13XkcEDCobe1JgKQQCBAQEBgYGBQQEAwEDAw5zQpBdKCAkHy81fx1xOQYBAQQDBAIEBAMEAgEEBSVwMYJ1GhEOGjRAdgl0NwYBAQMEAwECAQIDAQEEBi5qNEmoNkgdTCZRhxdwHwYEBAUEBgQDAgMDAwIDCDV3KS+EpyZrRhUlejtZEgcDAwUEAQMCAgABAQMEBzl3LTIrkXBjTycWXyY3EQQCAwQDBgYCAAMCAQQGBjZuLSc6aEwfYTFKdRNBNQgCAwUEAAEDAAIAAwQBBzd1NyFqWzQyM0JrQCQZQikPDhEPAwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMG",
+        "bottom": "AwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMGCgkKCwoKCTSXGzddQgQBBAICBh4NEyIgEQIDAwIDAQEDBAQCEHFeKUliGAUGBgQFCCQLIg8pBAQEBAMEBQICBAQJNIUbSGwxAgMCAgADCSwnGjQmAgQDBAQDBAMCAgEOWFsiY0cDBwcHBAIHEz4ZGjoUBAQGCQYHAgEBBAohZGVlaxwDAwECBAMDNT5KSC4HBAMIBQABBAQCARMnFFtkHggCAwQEAwQECD5vYgQcDAYFAgQDCQsMDBEwHjIXERARDw0RERERFD8+TVQKIxgNEBEQBwYJCQcfPRonKhQNDw8QDwsKEiI3NzkuIw0GCQMECggJCQgLCygkHw4ODAgMDA0MDRMmLxQKBAsJCgoHBAIGBgkKDwYNDA4MDw0ODAwLCw0JBQoQEg4LDAoKBgYIBQUDAwIDBAQEAQEDAgICAQECAwECAwUGBgUG"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 12.01505,
+        "top": 10.014814,
+        "middle": 12.051689,
+        "bottom": 13.716834,
+        "effectiveRatio": 0.49828
+      },
+      "extendable": false,
+      "orientation": 1,
+      "rawWidth": 6000,
+      "rawHeight": 4000,
+      "id": 74502423,
+      "title": "File:CINvARI - Eugenio Suarez (45356532551).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-1.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:CINvARI_-_Eugenio_Suarez_(45356532551).jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-11-19 02:42:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "CINvARI - Eugenio Suarez (45356532551)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D7100|Eugenio Suárez|Photographs by Hayden Schiff|Flickr images reviewed by FlickreviewR 2|Cincinnati Reds vs Arizona Diamondbacks, 2018-08-11",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "39.097969",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-84.506996",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Taken at a baseball game between the Cincinnati Reds and the Arizona Diamondbacks on August 11, 2018 at Great American Ball Park in Cincinnati, Ohio.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-08-11 20:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/oxguy3/45356532551/\">Eugenio Suarez</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65581273@N05\">Hayden Schiff</a> from Cincinnati, USA",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\reds-option-decisions2027\\photos\\74502423.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:11:25.553Z",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 14076348,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7782812777146627,
+        "entropy": 6.686021430384699,
+        "effectiveDetailRatio": 0.49828,
+        "kind": "source",
+        "coverScale": 0.338,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 6000,
+        "rawHeight": 4000,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "170f2f0b0b1f171f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQMCAQIBAAIBAgECAQEBAgMCAgEBAgEBAQEBAgICAQIAAQIBAQIAAQEBAAAAAgMCAgEBAgMBAQEBAQICAgIBAgQBAQEAAgICAgICAQQDAQIGEAoBAwIDAwIDBgYFBAMDBAQBAgQEBAQEAwICAQUiKUAcAwMBAwIBDg0NEBAQDw8QERERDwsMDg8OEBwiHyBCIA8MDBAPBgcJDQ8MDA0RERISFhcWFhcaGxcZLlRDLhoZGBocOTo5Pj49PT9AP0E+PDg4Oz43OTQbIBUuSjg4Njo5IyIgIB8gISAgIB8dGxkaFxg4WmwlMBAVGRMSEhERBAMDAwIBAwICAwABAgUGEl2VdXynQylOKgYFBAQEBAQDBAIAAwEAAQMCBQILcaFGK26tGKWKJwYICAkJBQUGBgYGBgUFBgYFBQNLixs/KUScercvWQ0CAQEDBAQHBQYJCAcHCAkHCwtsRzoxHBsuhhtAPQ0BAgEBBQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUDBAMEBQQFBQUFBAowcW13XkcEDCobe1JgKQQCBAQEBgYGBQQEAwEDAw5zQpBdKCAkHy81fx1xOQYBAQQDBAIEBAMEAgEEBSVwMYJ1GhEOGjRAdgl0NwYBAQMEAwECAQIDAQEEBi5qNEmoNkgdTCZRhxdwHwYEBAUEBgQDAgMDAwIDCDV3KS+EpyZrRhUlejtZEgcDAwUEAQMCAgABAQMEBzl3LTIrkXBjTycWXyY3EQQCAwQDBgYCAAMCAQQGBjZuLSc6aEwfYTFKdRNBNQgCAwUEAAEDAAIAAwQBBzd1NyFqWzQyM0JrQCQZQikPDhEPAwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMGCgkKCwoKCTSXGzddQgQBBAICBh4NEyIgEQIDAwIDAQEDBAQCEHFeKUliGAUGBgQFCCQLIg8pBAQEBAMEBQICBAQJNIUbSGwxAgMCAgADCSwnGjQmAgQDBAQDBAMCAgEOWFsiY0cDBwcHBAIHEz4ZGjoUBAQGCQYHAgEBBAohZGVlaxwDAwECBAMDNT5KSC4HBAMIBQABBAQCARMnFFtkHggCAwQEAwQECD5vYgQcDAYFAgQDCQsMDBEwHjIXERARDw0RERERFD8+TVQKIxgNEBEQBwYJCQcfPRonKhQNDw8QDwsKEiI3NzkuIw0GCQMECggJCQgLCygkHw4ODAgMDA0MDRMmLxQKBAsJCgoHBAIGBgkKDwYNDA4MDw0ODAwLCw0JBQoQEg4LDAoKBgYIBQUDAwIDBAQEAQEDAgICAQECAwECAwUGBgUG",
+          "top": "AQMCAQIBAAIBAgECAQEBAgMCAgEBAgEBAQEBAgICAQIAAQIBAQIAAQEBAAAAAgMCAgEBAgMBAQEBAQICAgIBAgQBAQEAAgICAgICAQQDAQIGEAoBAwIDAwIDBgYFBAMDBAQBAgQEBAQEAwICAQUiKUAcAwMBAwIBDg0NEBAQDw8QERERDwsMDg8OEBwiHyBCIA8MDBAPBgcJDQ8MDA0RERISFhcWFhcaGxcZLlRDLhoZGBocOTo5Pj49PT9AP0E+PDg4Oz43OTQbIBUuSjg4Njo5IyIgIB8gISAgIB8dGxkaFxg4WmwlMBAVGRMSEhERBAMDAwIBAwICAwABAgUGEl2VdXynQylOKgYFBAQEBAQDBAIAAwEAAQMCBQILcaFGK26tGKWKJwYICAkJBQUGBgYGBgUFBgYFBQNLixs/KUScercvWQ0CAQEDBAQHBQYJCAcHCAkHCwtsRzoxHBsuhhtAPQ0BAgEBBQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUD",
+          "middle": "BQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUDBAMEBQQFBQUFBAowcW13XkcEDCobe1JgKQQCBAQEBgYGBQQEAwEDAw5zQpBdKCAkHy81fx1xOQYBAQQDBAIEBAMEAgEEBSVwMYJ1GhEOGjRAdgl0NwYBAQMEAwECAQIDAQEEBi5qNEmoNkgdTCZRhxdwHwYEBAUEBgQDAgMDAwIDCDV3KS+EpyZrRhUlejtZEgcDAwUEAQMCAgABAQMEBzl3LTIrkXBjTycWXyY3EQQCAwQDBgYCAAMCAQQGBjZuLSc6aEwfYTFKdRNBNQgCAwUEAAEDAAIAAwQBBzd1NyFqWzQyM0JrQCQZQikPDhEPAwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMG",
+          "bottom": "AwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMGCgkKCwoKCTSXGzddQgQBBAICBh4NEyIgEQIDAwIDAQEDBAQCEHFeKUliGAUGBgQFCCQLIg8pBAQEBAMEBQICBAQJNIUbSGwxAgMCAgADCSwnGjQmAgQDBAQDBAMCAgEOWFsiY0cDBwcHBAIHEz4ZGjoUBAQGCQYHAgEBBAohZGVlaxwDAwECBAMDNT5KSC4HBAMIBQABBAQCARMnFFtkHggCAwQEAwQECD5vYgQcDAYFAgQDCQsMDBEwHjIXERARDw0RERERFD8+TVQKIxgNEBEQBwYJCQcfPRonKhQNDw8QDwsKEiI3NzkuIw0GCQMECggJCQgLCygkHw4ODAgMDA0MDRMmLxQKBAsJCgoHBAIGBgkKDwYNDA4MDw0ODAwLCw0JBQoQEg4LDAoKBgYIBQUDAwIDBAQEAQEDAgICAQECAwECAwUGBgUG"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 12.01505,
+          "top": 10.014814,
+          "middle": 12.051689,
+          "bottom": 13.716834,
+          "effectiveRatio": 0.49828
+        },
+        "extendable": false,
+        "sha256": "f11c4b46601f1424409a5f394d21039d18f75c814540126e7786511218e836fd"
+      },
+      "remote": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T16:11:04.541Z",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 14076348,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7782812777148684,
+        "entropy": 6.686021430384699,
+        "effectiveDetailRatio": 0.49828,
+        "kind": "source",
+        "coverScale": 0.338,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/CINvARI_-_Eugenio_Suarez_%2845356532551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "f11c4b46601f1424409a5f394d21039d18f75c814540126e7786511218e836fd",
+        "perceptualHash": "170f2f0b0b1f171f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AQMCAQIBAAIBAgECAQEBAgMCAgEBAgEBAQEBAgICAQIAAQIBAQIAAQEBAAAAAgMCAgEBAgMBAQEBAQICAgIBAgQBAQEAAgICAgICAQQDAQIGEAoBAwIDAwIDBgYFBAMDBAQBAgQEBAQEAwICAQUiKUAcAwMBAwIBDg0NEBAQDw8QERERDwsMDg8OEBwiHyBCIA8MDBAPBgcJDQ8MDA0RERISFhcWFhcaGxcZLlRDLhoZGBocOTo5Pj49PT9AP0E+PDg4Oz43OTQbIBUuSjg4Njo5IyIgIB8gISAgIB8dGxkaFxg4WmwlMBAVGRMSEhERBAMDAwIBAwICAwABAgUGEl2VdXynQylOKgYFBAQEBAQDBAIAAwEAAQMCBQILcaFGK26tGKWKJwYICAkJBQUGBgYGBgUFBgYFBQNLixs/KUScercvWQ0CAQEDBAQHBQYJCAcHCAkHCwtsRzoxHBsuhhtAPQ0BAgEBBQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUDBAMEBQQFBQUFBAowcW13XkcEDCobe1JgKQQCBAQEBgYGBQQEAwEDAw5zQpBdKCAkHy81fx1xOQYBAQQDBAIEBAMEAgEEBSVwMYJ1GhEOGjRAdgl0NwYBAQMEAwECAQIDAQEEBi5qNEmoNkgdTCZRhxdwHwYEBAUEBgQDAgMDAwIDCDV3KS+EpyZrRhUlejtZEgcDAwUEAQMCAgABAQMEBzl3LTIrkXBjTycWXyY3EQQCAwQDBgYCAAMCAQQGBjZuLSc6aEwfYTFKdRNBNQgCAwUEAAEDAAIAAwQBBzd1NyFqWzQyM0JrQCQZQikPDhEPAwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMGCgkKCwoKCTSXGzddQgQBBAICBh4NEyIgEQIDAwIDAQEDBAQCEHFeKUliGAUGBgQFCCQLIg8pBAQEBAMEBQICBAQJNIUbSGwxAgMCAgADCSwnGjQmAgQDBAQDBAMCAgEOWFsiY0cDBwcHBAIHEz4ZGjoUBAQGCQYHAgEBBAohZGVlaxwDAwECBAMDNT5KSC4HBAMIBQABBAQCARMnFFtkHggCAwQEAwQECD5vYgQcDAYFAgQDCQsMDBEwHjIXERARDw0RERERFD8+TVQKIxgNEBEQBwYJCQcfPRonKhQNDw8QDwsKEiI3NzkuIw0GCQMECggJCQgLCygkHw4ODAgMDA0MDRMmLxQKBAsJCgoHBAIGBgkKDwYNDA4MDw0ODAwLCw0JBQoQEg4LDAoKBgYIBQUDAwIDBAQEAQEDAgICAQECAwECAwUGBgUG",
+          "top": "AQMCAQIBAAIBAgECAQEBAgMCAgEBAgEBAQEBAgICAQIAAQIBAQIAAQEBAAAAAgMCAgEBAgMBAQEBAQICAgIBAgQBAQEAAgICAgICAQQDAQIGEAoBAwIDAwIDBgYFBAMDBAQBAgQEBAQEAwICAQUiKUAcAwMBAwIBDg0NEBAQDw8QERERDwsMDg8OEBwiHyBCIA8MDBAPBgcJDQ8MDA0RERISFhcWFhcaGxcZLlRDLhoZGBocOTo5Pj49PT9AP0E+PDg4Oz43OTQbIBUuSjg4Njo5IyIgIB8gISAgIB8dGxkaFxg4WmwlMBAVGRMSEhERBAMDAwIBAwICAwABAgUGEl2VdXynQylOKgYFBAQEBAQDBAIAAwEAAQMCBQILcaFGK26tGKWKJwYICAkJBQUGBgYGBgUFBgYFBQNLixs/KUScercvWQ0CAQEDBAQHBQYJCAcHCAkHCwtsRzoxHBsuhhtAPQ0BAgEBBQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUD",
+          "middle": "BQQDAwQGBwcICAcJCTN8DDQ2QT0HGCRFKwgEBQQEAgEEBAQEAwECAQIDDWs+O0dSQ0UvKFwyGQsDAwMDCQcHBwcICQgICQcNQyWcgW1CKjojXGxLCwoBBAUDBAMEBQQFBQUFBAowcW13XkcEDCobe1JgKQQCBAQEBgYGBQQEAwEDAw5zQpBdKCAkHy81fx1xOQYBAQQDBAIEBAMEAgEEBSVwMYJ1GhEOGjRAdgl0NwYBAQMEAwECAQIDAQEEBi5qNEmoNkgdTCZRhxdwHwYEBAUEBgQDAgMDAwIDCDV3KS+EpyZrRhUlejtZEgcDAwUEAQMCAgABAQMEBzl3LTIrkXBjTycWXyY3EQQCAwQDBgYCAAMCAQQGBjZuLSc6aEwfYTFKdRNBNQgCAwUEAAEDAAIAAwQBBzd1NyFqWzQyM0JrQCQZQikPDhEPAwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMG",
+          "bottom": "AwQHCgkLDAwNCFF1N0d3LQxASCJTGi6CVxMLDRMYBAUFAwUHDQ0XKoggSYRjIiIWHT9GWH5oMikbHiEfHh4jJSMjJSUviTxCaWsnFBUYFglAMjQcLwQGBwUFFhMSDg0LBAxweyhJYyANCwcIDBghHRoMFAUEBAMGCgkKCwoKCTSXGzddQgQBBAICBh4NEyIgEQIDAwIDAQEDBAQCEHFeKUliGAUGBgQFCCQLIg8pBAQEBAMEBQICBAQJNIUbSGwxAgMCAgADCSwnGjQmAgQDBAQDBAMCAgEOWFsiY0cDBwcHBAIHEz4ZGjoUBAQGCQYHAgEBBAohZGVlaxwDAwECBAMDNT5KSC4HBAMIBQABBAQCARMnFFtkHggCAwQEAwQECD5vYgQcDAYFAgQDCQsMDBEwHjIXERARDw0RERERFD8+TVQKIxgNEBEQBwYJCQcfPRonKhQNDw8QDwsKEiI3NzkuIw0GCQMECggJCQgLCygkHw4ODAgMDA0MDRMmLxQKBAsJCgoHBAIGBgkKDwYNDA4MDw0ODAwLCw0JBQoQEg4LDAoKBgYIBQUDAwIDBAQEAQEDAgICAQECAwECAwUGBgUG"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 12.01505,
+          "top": 10.014814,
+          "middle": 12.051689,
+          "bottom": 13.716834,
+          "effectiveRatio": 0.49828
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 6000,
+        "rawHeight": 4000
+      },
+      "strictPassed": true,
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T16:11:02.572Z",
+        "width": 6000,
+        "height": 4000,
+        "bytes": 14076348,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7782812777150453,
+        "entropy": 6.686021430384699,
+        "effectiveDetailRatio": 0.49828,
+        "kind": "source",
+        "coverScale": 0.338,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/CINvARI_-_Eugenio_Suarez_%2845356532551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceSha256": "f11c4b46601f1424409a5f394d21039d18f75c814540126e7786511218e836fd",
+      "pages": 1,
+      "header": {
+        "width": 6000,
+        "height": 4000,
+        "rawWidth": 6000,
+        "rawHeight": 4000,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "strictNativeCoverScale": 0.3375,
+      "completeNativeMarker": true,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "rightsStatus": "approved",
+      "rightsEvidence": "원 Commons/Flickr 연결 파일의 저작자 Hayden Schiff, 개별 CC BY 2.0(https://creativecommons.org/licenses/by/2.0/)를 실제 metadata로 확인했다. 원본보존·통상세로크롭/축소/문안/그라데이션을 변경사항으로 공개metadata에 명시하며 BY-SA 파생카드는 같은/호환 라이선스를 유지한다. 국내언론권리를 미국자료에확대하지않는다.",
+      "author": "Hayden Schiff",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "photoDate": "2018-08-11",
+      "imageCredit": "Hayden Schiff · 2018-08-11 자료 · CC BY 2.0",
+      "description": "수아레즈가 신시내티 흰 유니폼과 C모자를 쓰고 수비를 준비하는 2018년8월11일 사진. 구단을 떠났던 시기의 SEA/ARI유니폼이 아니라 그의2026최종소속과 같은CIN자료다. 얼굴·글러브·두손·다리가 보인다. 최신모습으로오인하지않게2018자료일을명시한다.",
+      "visualReview": "수아레즈가 신시내티 흰 유니폼과 C모자를 쓰고 수비를 준비하는 2018년8월11일 사진. 구단을 떠났던 시기의 SEA/ARI유니폼이 아니라 그의2026최종소속과 같은CIN자료다. 얼굴·글러브·두손·다리가 보인다. 최신모습으로오인하지않게2018자료일을명시한다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:28:21.142Z",
+      "sceneGroup": "suarez-cin-20180811-fielding",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "2026_last_CIN_club_archive_now_FA",
+      "currentTeamArchiveContextReason": "수아레즈가 신시내티 흰 유니폼과 C모자를 쓰고 수비를 준비하는 2018년8월11일 사진. 구단을 떠났던 시기의 SEA/ARI유니폼이 아니라 그의2026최종소속과 같은CIN자료다. 얼굴·글러브·두손·다리가 보인다. 최신모습으로오인하지않게2018자료일을명시한다.",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/CINvARI_-_Eugenio_Suarez_%2845356532551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceMirror": {
+        "commit": "c1ed3c0336bb4605b402aa1f7d8110037db3a958",
+        "relative": "source-originals/2026-11-07-reds-option-decisions2027-v1",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/CINvARI_-_Eugenio_Suarez_%2845356532551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/attribution.json"
+      },
+      "fit": "cover"
+    },
+    {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-06T16:45:39.577Z",
+      "width": 3074,
+      "height": 2344,
+      "bytes": 7748599,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 3.666903546271902,
+      "entropy": 7.34441696855356,
+      "effectiveDetailRatio": 0.595794,
+      "kind": "source",
+      "coverScale": 0.576,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-2.jpg",
+      "sha256": "207586a8660d5c9e133b4f49b27f217592c4caba290bb25d6451f67c09ade3ed",
+      "perceptualHash": "7a5304e60d8e699c",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "BQAEAgICAQEEAwUEAwQJCAgGBwMCBwgKCAEECQYEAQYCAgIDAwQGBQECBAYFBgIEBgIDAQEDBAMEAQgBAQIDBAICAwcBBQEDBQIDFhgtEQwFBAQEAwQCAQQGAwEEBAEFAQEIBAIDBgUYWUJtSBYHAwIGBQQEAgIDBAMDBAICBQQIBQYHAwZSdTsveC0HBAEBAQMBAwIDAgQAAgQBBAICAQQCCAyBUlwlYy8JAgIBAgAEAgICAgEDAQMDBAIBBQEBAwSJnS14ihoMBwEDAgQCAgMDEBIODAsOEAsLDg4KCQpWhzdJhS8UCQQEAwEDAQECNDAtKSYlKRgYGBkcISCVrh/vvxQxDxQMDw0IBggHNTIuNjsxKSogJTMwLlV1VPjqGw0uMjQ2MyoiJSMkIywpKTM5NEM/PEJAQVsdlIgPIysYSVtXTVFJSUVJDwsWDQoKGiApHxEUISFfT3lXWFAeYlgyMTtGQT88DQkEDQkOCxAJCAoKDzE9IC1oUVEiRVAcCQwWGhkYEw4OCg8MBwoOBgMFBTEoY1IjAWF9V30qBwQGAgIJBggQEQkJGBEEBwQGDzsvdy4pSyxzYCAQAQQICQEDAQcFCQUQESQaEAcJCzgobjkuF28YFxEQDQUJBAUGCwkECxASAw8cIBoXEzQOfVAoNTcmBAkMGRcMCAcDDwcDDhcLBwgHCSAaIzcfUYh9SSAIHgkKBAgQERIQHBcTEAQHCAYGCQIJFQd4MkRNWQ4lMCkEDgkHAwoVBxITHyEWCg0HAgMGHV5qVXx6dGIsDzoIAwYECAkEExARBQ0YGxsTDQMKIWYXM3RGQEVGKCAIBQYJCwQFCgkMDAkKDgkRFxYOP2gVgk2hhAtZPxYFCxoJAgcICAoOBg0NBgYEBxAfMGoQi4logpgoYyEGFQ8aHBYVHBULBQcFAwgJBAoCElQ3Tp5SZIVATSkNBgkHFB4aCBYSExQRDQYDCAQKFU8wQ19dM2ddK0MEBgEJCAcGDAUJDRMREw4FBgYKHFEzGEs9RA9hTk1GAQkHCQoCBgoMAwMJERIQEQgHAklHOVoFFzMFPzpZOAgMEwwCBwwECgcFAw4aNj83K0JJNUgDChsTP0IeWCATGxUIBwEHBAEJBRQrS1tUfII8VkEEBQEVD2d5JVEGBx8SCRYSBAcQEgw6Sw8efMg3d2cXCwwEJjZ+mCo8BwsZCxQYGhUVERILVlAYcdcb0WtkHwkNEkRDMFQdEQILCAUDDBUbGhMJG2AslNhA9k5lajU0SGM7fBkUEAkIAQYECAQHBwkaFlRhl699yjwkMUM7OE2qKDQqHBQJAwYJCA0CBwYICC5/j4qenV1XVTMwSXshZxceFRkXCgkKDAkGBAIBFysWIVmOOTsoNjk0MRxBEhsEAggZDRASDwMHBAYFDRI8ITMXJA8RCQUJCQIVCAQFBwMIAgEMDhIIBwIFEQ4MHR4kCw8OExAUFRUOBgkLAQYGAQUCBBUSEBEUCQsFBQQIBggCBAsEFhMODAgNCAAI",
+        "top": "BQAEAgICAQEEAwUEAwQJCAgGBwMCBwgKCAEECQYEAQYCAgIDAwQGBQECBAYFBgIEBgIDAQEDBAMEAQgBAQIDBAICAwcBBQEDBQIDFhgtEQwFBAQEAwQCAQQGAwEEBAEFAQEIBAIDBgUYWUJtSBYHAwIGBQQEAgIDBAMDBAICBQQIBQYHAwZSdTsveC0HBAEBAQMBAwIDAgQAAgQBBAICAQQCCAyBUlwlYy8JAgIBAgAEAgICAgEDAQMDBAIBBQEBAwSJnS14ihoMBwEDAgQCAgMDEBIODAsOEAsLDg4KCQpWhzdJhS8UCQQEAwEDAQECNDAtKSYlKRgYGBkcISCVrh/vvxQxDxQMDw0IBggHNTIuNjsxKSogJTMwLlV1VPjqGw0uMjQ2MyoiJSMkIywpKTM5NEM/PEJAQVsdlIgPIysYSVtXTVFJSUVJDwsWDQoKGiApHxEUISFfT3lXWFAeYlgyMTtGQT88DQkEDQkOCxAJCAoKDzE9IC1oUVEiRVAcCQwWGhkYEw4OCg8MBwoOBgMFBTEoY1IjAWF9V30qBwQGAgIJBggQEQkJGBEEBwQGDzsvdy4pSyxzYCAQAQQICQED",
+        "middle": "DQkEDQkOCxAJCAoKDzE9IC1oUVEiRVAcCQwWGhkYEw4OCg8MBwoOBgMFBTEoY1IjAWF9V30qBwQGAgIJBggQEQkJGBEEBwQGDzsvdy4pSyxzYCAQAQQICQEDAQcFCQUQESQaEAcJCzgobjkuF28YFxEQDQUJBAUGCwkECxASAw8cIBoXEzQOfVAoNTcmBAkMGRcMCAcDDwcDDhcLBwgHCSAaIzcfUYh9SSAIHgkKBAgQERIQHBcTEAQHCAYGCQIJFQd4MkRNWQ4lMCkEDgkHAwoVBxITHyEWCg0HAgMGHV5qVXx6dGIsDzoIAwYECAkEExARBQ0YGxsTDQMKIWYXM3RGQEVGKCAIBQYJCwQFCgkMDAkKDgkRFxYOP2gVgk2hhAtZPxYFCxoJAgcICAoOBg0NBgYEBxAfMGoQi4logpgoYyEGFQ8aHBYVHBULBQcFAwgJBAoCElQ3Tp5SZIVATSkNBgkHFB4aCBYSExQRDQYDCAQKFU8wQ19dM2ddK0MEBgEJCAcGDAUJDRMREw4FBgYKHFEzGEs9RA9hTk1GAQkHCQoCBgoMAwMJERIQEQgHAklHOVoFFzMFPzpZOAgMEwwC",
+        "bottom": "HBULBQcFAwgJBAoCElQ3Tp5SZIVATSkNBgkHFB4aCBYSExQRDQYDCAQKFU8wQ19dM2ddK0MEBgEJCAcGDAUJDRMREw4FBgYKHFEzGEs9RA9hTk1GAQkHCQoCBgoMAwMJERIQEQgHAklHOVoFFzMFPzpZOAgMEwwCBwwECgcFAw4aNj83K0JJNUgDChsTP0IeWCATGxUIBwEHBAEJBRQrS1tUfII8VkEEBQEVD2d5JVEGBx8SCRYSBAcQEgw6Sw8efMg3d2cXCwwEJjZ+mCo8BwsZCxQYGhUVERILVlAYcdcb0WtkHwkNEkRDMFQdEQILCAUDDBUbGhMJG2AslNhA9k5lajU0SGM7fBkUEAkIAQYECAQHBwkaFlRhl699yjwkMUM7OE2qKDQqHBQJAwYJCA0CBwYICC5/j4qenV1XVTMwSXshZxceFRkXCgkKDAkGBAIBFysWIVmOOTsoNjk0MRxBEhsEAggZDRASDwMHBAYFDRI8ITMXJA8RCQUJCQIVCAQFBwMIAgEMDhIIBwIFEQ4MHR4kCw8OExAUFRUOBgkLAQYGAQUCBBUSEBEUCQsFBQQIBggCBAsEFhMODAgNCAAI"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 44.979509,
+        "top": 37.339008,
+        "middle": 52.258535,
+        "bottom": 49.770512,
+        "effectiveRatio": 0.595794
+      },
+      "extendable": false,
+      "orientation": 1,
+      "rawWidth": 3074,
+      "rawHeight": 2344,
+      "id": 84945211,
+      "title": "File:Eugenio Suarez (43156965424).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-2.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Eugenio_Suarez_(43156965424).jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-12-16 06:25:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Eugenio Suarez (43156965424)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Eugenio Suárez|2018 Cincinnati Reds season|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Eugenio Suarez",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-08-04 14:54",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bootbearwdc/43156965424/\">125A8768</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65193799@N00\">David</a> from Washington, DC",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\reds-option-decisions2027\\photos\\84945211.jpg",
+      "imageCredit": "David · 2018-08-04 자료 · CC BY 2.0",
+      "photoDate": "2018-08-04",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "currentTeamUniformVerified": true,
+      "currentTeamEvidence": "공식 2026 최종 CIN/동일 조직 기록과 실제 Reds 유니폼을 대조했다. 자료촬영일을 별도 표기한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:11:25.965Z",
+        "width": 3074,
+        "height": 2344,
+        "bytes": 7748599,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.6669035462716946,
+        "entropy": 7.34441696855356,
+        "effectiveDetailRatio": 0.595794,
+        "kind": "source",
+        "coverScale": 0.576,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3074,
+        "rawHeight": 2344,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "7a5304e60d8e699c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BQAEAgICAQEEAwUEAwQJCAgGBwMCBwgKCAEECQYEAQYCAgIDAwQGBQECBAYFBgIEBgIDAQEDBAMEAQgBAQIDBAICAwcBBQEDBQIDFhgtEQwFBAQEAwQCAQQGAwEEBAEFAQEIBAIDBgUYWUJtSBYHAwIGBQQEAgIDBAMDBAICBQQIBQYHAwZSdTsveC0HBAEBAQMBAwIDAgQAAgQBBAICAQQCCAyBUlwlYy8JAgIBAgAEAgICAgEDAQMDBAIBBQEBAwSJnS14ihoMBwEDAgQCAgMDEBIODAsOEAsLDg4KCQpWhzdJhS8UCQQEAwEDAQECNDAtKSYlKRgYGBkcISCVrh/vvxQxDxQMDw0IBggHNTIuNjsxKSogJTMwLlV1VPjqGw0uMjQ2MyoiJSMkIywpKTM5NEM/PEJAQVsdlIgPIysYSVtXTVFJSUVJDwsWDQoKGiApHxEUISFfT3lXWFAeYlgyMTtGQT88DQkEDQkOCxAJCAoKDzE9IC1oUVEiRVAcCQwWGhkYEw4OCg8MBwoOBgMFBTEoY1IjAWF9V30qBwQGAgIJBggQEQkJGBEEBwQGDzsvdy4pSyxzYCAQAQQICQEDAQcFCQUQESQaEAcJCzgobjkuF28YFxEQDQUJBAUGCwkECxASAw8cIBoXEzQOfVAoNTcmBAkMGRcMCAcDDwcDDhcLBwgHCSAaIzcfUYh9SSAIHgkKBAgQERIQHBcTEAQHCAYGCQIJFQd4MkRNWQ4lMCkEDgkHAwoVBxITHyEWCg0HAgMGHV5qVXx6dGIsDzoIAwYECAkEExARBQ0YGxsTDQMKIWYXM3RGQEVGKCAIBQYJCwQFCgkMDAkKDgkRFxYOP2gVgk2hhAtZPxYFCxoJAgcICAoOBg0NBgYEBxAfMGoQi4logpgoYyEGFQ8aHBYVHBULBQcFAwgJBAoCElQ3Tp5SZIVATSkNBgkHFB4aCBYSExQRDQYDCAQKFU8wQ19dM2ddK0MEBgEJCAcGDAUJDRMREw4FBgYKHFEzGEs9RA9hTk1GAQkHCQoCBgoMAwMJERIQEQgHAklHOVoFFzMFPzpZOAgMEwwCBwwECgcFAw4aNj83K0JJNUgDChsTP0IeWCATGxUIBwEHBAEJBRQrS1tUfII8VkEEBQEVD2d5JVEGBx8SCRYSBAcQEgw6Sw8efMg3d2cXCwwEJjZ+mCo8BwsZCxQYGhUVERILVlAYcdcb0WtkHwkNEkRDMFQdEQILCAUDDBUbGhMJG2AslNhA9k5lajU0SGM7fBkUEAkIAQYECAQHBwkaFlRhl699yjwkMUM7OE2qKDQqHBQJAwYJCA0CBwYICC5/j4qenV1XVTMwSXshZxceFRkXCgkKDAkGBAIBFysWIVmOOTsoNjk0MRxBEhsEAggZDRASDwMHBAYFDRI8ITMXJA8RCQUJCQIVCAQFBwMIAgEMDhIIBwIFEQ4MHR4kCw8OExAUFRUOBgkLAQYGAQUCBBUSEBEUCQsFBQQIBggCBAsEFhMODAgNCAAI",
+          "top": "BQAEAgICAQEEAwUEAwQJCAgGBwMCBwgKCAEECQYEAQYCAgIDAwQGBQECBAYFBgIEBgIDAQEDBAMEAQgBAQIDBAICAwcBBQEDBQIDFhgtEQwFBAQEAwQCAQQGAwEEBAEFAQEIBAIDBgUYWUJtSBYHAwIGBQQEAgIDBAMDBAICBQQIBQYHAwZSdTsveC0HBAEBAQMBAwIDAgQAAgQBBAICAQQCCAyBUlwlYy8JAgIBAgAEAgICAgEDAQMDBAIBBQEBAwSJnS14ihoMBwEDAgQCAgMDEBIODAsOEAsLDg4KCQpWhzdJhS8UCQQEAwEDAQECNDAtKSYlKRgYGBkcISCVrh/vvxQxDxQMDw0IBggHNTIuNjsxKSogJTMwLlV1VPjqGw0uMjQ2MyoiJSMkIywpKTM5NEM/PEJAQVsdlIgPIysYSVtXTVFJSUVJDwsWDQoKGiApHxEUISFfT3lXWFAeYlgyMTtGQT88DQkEDQkOCxAJCAoKDzE9IC1oUVEiRVAcCQwWGhkYEw4OCg8MBwoOBgMFBTEoY1IjAWF9V30qBwQGAgIJBggQEQkJGBEEBwQGDzsvdy4pSyxzYCAQAQQICQED",
+          "middle": "DQkEDQkOCxAJCAoKDzE9IC1oUVEiRVAcCQwWGhkYEw4OCg8MBwoOBgMFBTEoY1IjAWF9V30qBwQGAgIJBggQEQkJGBEEBwQGDzsvdy4pSyxzYCAQAQQICQEDAQcFCQUQESQaEAcJCzgobjkuF28YFxEQDQUJBAUGCwkECxASAw8cIBoXEzQOfVAoNTcmBAkMGRcMCAcDDwcDDhcLBwgHCSAaIzcfUYh9SSAIHgkKBAgQERIQHBcTEAQHCAYGCQIJFQd4MkRNWQ4lMCkEDgkHAwoVBxITHyEWCg0HAgMGHV5qVXx6dGIsDzoIAwYECAkEExARBQ0YGxsTDQMKIWYXM3RGQEVGKCAIBQYJCwQFCgkMDAkKDgkRFxYOP2gVgk2hhAtZPxYFCxoJAgcICAoOBg0NBgYEBxAfMGoQi4logpgoYyEGFQ8aHBYVHBULBQcFAwgJBAoCElQ3Tp5SZIVATSkNBgkHFB4aCBYSExQRDQYDCAQKFU8wQ19dM2ddK0MEBgEJCAcGDAUJDRMREw4FBgYKHFEzGEs9RA9hTk1GAQkHCQoCBgoMAwMJERIQEQgHAklHOVoFFzMFPzpZOAgMEwwC",
+          "bottom": "HBULBQcFAwgJBAoCElQ3Tp5SZIVATSkNBgkHFB4aCBYSExQRDQYDCAQKFU8wQ19dM2ddK0MEBgEJCAcGDAUJDRMREw4FBgYKHFEzGEs9RA9hTk1GAQkHCQoCBgoMAwMJERIQEQgHAklHOVoFFzMFPzpZOAgMEwwCBwwECgcFAw4aNj83K0JJNUgDChsTP0IeWCATGxUIBwEHBAEJBRQrS1tUfII8VkEEBQEVD2d5JVEGBx8SCRYSBAcQEgw6Sw8efMg3d2cXCwwEJjZ+mCo8BwsZCxQYGhUVERILVlAYcdcb0WtkHwkNEkRDMFQdEQILCAUDDBUbGhMJG2AslNhA9k5lajU0SGM7fBkUEAkIAQYECAQHBwkaFlRhl699yjwkMUM7OE2qKDQqHBQJAwYJCA0CBwYICC5/j4qenV1XVTMwSXshZxceFRkXCgkKDAkGBAIBFysWIVmOOTsoNjk0MRxBEhsEAggZDRASDwMHBAYFDRI8ITMXJA8RCQUJCQIVCAQFBwMIAgEMDhIIBwIFEQ4MHR4kCw8OExAUFRUOBgkLAQYGAQUCBBUSEBEUCQsFBQQIBggCBAsEFhMODAgNCAAI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 44.979509,
+          "top": 37.339008,
+          "middle": 52.258535,
+          "bottom": 49.770512,
+          "effectiveRatio": 0.595794
+        },
+        "extendable": false,
+        "sha256": "207586a8660d5c9e133b4f49b27f217592c4caba290bb25d6451f67c09ade3ed"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "원 Commons/Flickr 개별 저작자·라이선스를 확인했다. 원사진의 통상 세로크롭/축소 및 문자·그라데이션 추가를 변경사항으로 공개 metadata에 기록한다. 생성·복원·AI 확대는 사용하지 않았다.",
+      "author": "David",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:51:45.193Z",
+      "sceneGroup": "suarez-cin-20180804-walking-infield",
+      "description": "수아레즈가 회색 CINCINNATI 7번 경기 유니폼과 선글라스를 착용하고 수비장에서 이동하는 2018년8월4일 자료. 머리 전체와 드러난 손 전체가 원본·unsigned 최종에서 보존된다. 1p의 흰 유니폼 수비 준비 사진과 날짜·구도·저작자·동작이 다른 장면이다.",
+      "visualReview": "수아레즈가 회색 CINCINNATI 7번 경기 유니폼과 선글라스를 착용하고 수비장에서 이동하는 2018년8월4일 자료. 머리 전체와 드러난 손 전체가 원본·unsigned 최종에서 보존된다. 1p의 흰 유니폼 수비 준비 사진과 날짜·구도·저작자·동작이 다른 장면이다.",
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "actualCurrentClubUniformArchive",
+      "currentTeamArchiveContextReason": "2026최종CIN→10월31일FA. 사진은같은CIN2018자료이며SEA/ARI옛소속이아님.",
+      "strictNativeCoverScale": 0.575938566552901,
+      "completeNativeMarker": true,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "sourceSha256": "207586a8660d5c9e133b4f49b27f217592c4caba290bb25d6451f67c09ade3ed",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Eugenio_Suarez_%2843156965424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Eugenio_Suarez_%2843156965424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceMirror": {
+        "commit": "c1ed3c0336bb4605b402aa1f7d8110037db3a958",
+        "relative": "source-originals/2026-11-07-reds-option-decisions2027-v1",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Eugenio_Suarez_%2843156965424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/attribution.json"
+      },
+      "fit": "cover"
+    },
+    {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-06T17:04:47.511Z",
+      "width": 3840,
+      "height": 2560,
+      "bytes": 2498900,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 3.1598202452390822,
+      "entropy": 6.305295534359175,
+      "effectiveDetailRatio": 0.539511,
+      "kind": "source",
+      "coverScale": 0.527,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@9e3c4e82493c1e07c51ddafc04972fb191cf1831/source-originals/2026-11-07-reds-option-decisions2027-v2/source-3.jpg",
+      "sha256": "82b10ffec886c3d7f2bbe1ad12a476859e8aeab0e5e1a9c18f5c47e903ddf0d3",
+      "perceptualHash": "00075ad83139d80b",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "ERAQEA4LCggKBwoMAwQFAwMDBQUDCQUJCQ0SDxAMAwUHCQsKBwYHCQcMEhMTEBEPDhAOCAYEBAUCBwUGDAsKBwUDBAQDAQIFBAIFAwEHCgoMCQgGCQwMBwgGDw4UEg8QEQ0KDAgLERAPCgsHBAYHBgQBAQYICQsKAQYGBgkODAwNDA8QExMTFRMXFhMWExINDQsHAQIFBwMEAwwICAwNCQ8SCg4MDxEWFRQQERIQDg8NCwwHBwYJDAUECAQEAQgIBAIBAgMDAQIEAwQDBAYIDAsOAQYCBgUEBAoFBAMICggCAwYIDAoIDQsMCQQFBggJAQUJBwoKDAwJBgUFChAQCgwMBwMBBQcJDQwQDQ8OBAMCAQYMDQYLDQwMDAwRDwsNCgoOCAoIDBIOBwkIBAIDAwgJBAYFBQIBAgIECAgVFQUiJwwJDQ4LDQ0NBAICBAQGBwYEBwUEBgUFBwwXNypCOx4ECwQDCggHCwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMTDg0MDAYJCAgHBgUEBAMAAgMjRg8tIxoHCQIGDw8QCQ0QEhMTEA8REg4MERAOBgkmNzk1MC0GDA0MCAkHCQYCAgcHBgQGCQYDBgYNEBw9OhMjJD42HhALEAwLBAYEAgIGBAEHDAoKEgYXISgaDh0mBgQoLjIfCg0MDAkHCxISERIWGBEREjI0CAcHEg8PCQsDDTU7FQcGHxkaHiAcGRcSDhAMMEgrKS4nCw0JEjsNJDRWMggGERIRCwYGBAMEAwAIPmFNTCVRKx4YVCtMMjxGSyMJAwACBAgGAgIFCAkgeXVbnkwgOjM+OyZPZjVrfRUYCQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZBAcFCAMCCQ0LDQ8pgnRQaBg2NktGMzpREhNfWBIYAQIFDg4RFRMOCgkGUJGoLxggTSYvREViYjQrZjsCERARCwoLAwAEBQoBB11fVkAdJFIuGzNCYFBxTQcFCAMCBgUFBwgEAwQEDDFcTCQSEz9AGiAWHm9tBgwRBQkJCQcGBwMEBAUBJjkqEEMdMTgOCBMofqA7GhgdCQQHBQUBAwcHBAMDCDM5KVhoeGcvIleChk4PEg4KBAgIBgQEBgQCAQQBBQYgKTA+apCFhGpORBkCBAABCQMFBwYHBwcECAYIDRglLQ0IHjhVUEAgMR4FBQQEBgMKCQoPEhQTGhofJh8WBRQREhssIQUaIyAOBAYDBAgPDRMWGRUVFRMNBwoLFBEjMixDIRsZIB4EBQYJFRsYFRAOBQcGBQoODggMGwwaKHY6SCUUFxURCg4J",
+        "top": "ERAQEA4LCggKBwoMAwQFAwMDBQUDCQUJCQ0SDxAMAwUHCQsKBwYHCQcMEhMTEBEPDhAOCAYEBAUCBwUGDAsKBwUDBAQDAQIFBAIFAwEHCgoMCQgGCQwMBwgGDw4UEg8QEQ0KDAgLERAPCgsHBAYHBgQBAQYICQsKAQYGBgkODAwNDA8QExMTFRMXFhMWExINDQsHAQIFBwMEAwwICAwNCQ8SCg4MDxEWFRQQERIQDg8NCwwHBwYJDAUECAQEAQgIBAIBAgMDAQIEAwQDBAYIDAsOAQYCBgUEBAoFBAMICggCAwYIDAoIDQsMCQQFBggJAQUJBwoKDAwJBgUFChAQCgwMBwMBBQcJDQwQDQ8OBAMCAQYMDQYLDQwMDAwRDwsNCgoOCAoIDBIOBwkIBAIDAwgJBAYFBQIBAgIECAgVFQUiJwwJDQ4LDQ0NBAICBAQGBwYEBwUEBgUFBwwXNypCOx4ECwQDCggHCwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMT",
+        "middle": "CwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMTDg0MDAYJCAgHBgUEBAMAAgMjRg8tIxoHCQIGDw8QCQ0QEhMTEA8REg4MERAOBgkmNzk1MC0GDA0MCAkHCQYCAgcHBgQGCQYDBgYNEBw9OhMjJD42HhALEAwLBAYEAgIGBAEHDAoKEgYXISgaDh0mBgQoLjIfCg0MDAkHCxISERIWGBEREjI0CAcHEg8PCQsDDTU7FQcGHxkaHiAcGRcSDhAMMEgrKS4nCw0JEjsNJDRWMggGERIRCwYGBAMEAwAIPmFNTCVRKx4YVCtMMjxGSyMJAwACBAgGAgIFCAkgeXVbnkwgOjM+OyZPZjVrfRUYCQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZ",
+        "bottom": "CQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZBAcFCAMCCQ0LDQ8pgnRQaBg2NktGMzpREhNfWBIYAQIFDg4RFRMOCgkGUJGoLxggTSYvREViYjQrZjsCERARCwoLAwAEBQoBB11fVkAdJFIuGzNCYFBxTQcFCAMCBgUFBwgEAwQEDDFcTCQSEz9AGiAWHm9tBgwRBQkJCQcGBwMEBAUBJjkqEEMdMTgOCBMofqA7GhgdCQQHBQUBAwcHBAMDCDM5KVhoeGcvIleChk4PEg4KBAgIBgQEBgQCAQQBBQYgKTA+apCFhGpORBkCBAABCQMFBwYHBwcECAYIDRglLQ0IHjhVUEAgMR4FBQQEBgMKCQoPEhQTGhofJh8WBRQREhssIQUaIyAOBAYDBAgPDRMWGRUVFRMNBwoLFBEjMixDIRsZIB4EBQYJFRsYFRAOBQcGBQoODggMGwwaKHY6SCUUFxURCg4J"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 16.45154,
+        "top": 11.570717,
+        "middle": 18.97351,
+        "bottom": 20.768805,
+        "effectiveRatio": 0.539511
+      },
+      "extendable": false,
+      "orientation": 1,
+      "rawWidth": 3840,
+      "rawHeight": 2560,
+      "id": 170527550,
+      "title": "File:Spencer Steer in the field, July 20, 2025 (1).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@9e3c4e82493c1e07c51ddafc04972fb191cf1831/source-originals/2026-11-07-reds-option-decisions2027-v2/source-3.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Spencer_Steer_in_the_field,_July_20,_2025_(1).jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-22 19:21:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Spencer Steer in the field, July 20, 2025 (1)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Photographs by D. Benjamin Miller|Taken with Canon RF 100-500mm f/4.5-7.1L IS USM|People with Wilson baseball gloves|Spencer Steer|Taken with Canon EOS R5 Mark II|New York Mets vs. Cincinnati Reds (July 20, 2025)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Spencer Steer in the field",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-07-20 14:26:22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi>D. Benjamin Miller</bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "remote": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:04:47.511Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 2498900,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.1598202452390822,
+        "entropy": 6.305295534359175,
+        "effectiveDetailRatio": 0.539511,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg/3840px-Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "82b10ffec886c3d7f2bbe1ad12a476859e8aeab0e5e1a9c18f5c47e903ddf0d3",
+        "perceptualHash": "00075ad83139d80b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "ERAQEA4LCggKBwoMAwQFAwMDBQUDCQUJCQ0SDxAMAwUHCQsKBwYHCQcMEhMTEBEPDhAOCAYEBAUCBwUGDAsKBwUDBAQDAQIFBAIFAwEHCgoMCQgGCQwMBwgGDw4UEg8QEQ0KDAgLERAPCgsHBAYHBgQBAQYICQsKAQYGBgkODAwNDA8QExMTFRMXFhMWExINDQsHAQIFBwMEAwwICAwNCQ8SCg4MDxEWFRQQERIQDg8NCwwHBwYJDAUECAQEAQgIBAIBAgMDAQIEAwQDBAYIDAsOAQYCBgUEBAoFBAMICggCAwYIDAoIDQsMCQQFBggJAQUJBwoKDAwJBgUFChAQCgwMBwMBBQcJDQwQDQ8OBAMCAQYMDQYLDQwMDAwRDwsNCgoOCAoIDBIOBwkIBAIDAwgJBAYFBQIBAgIECAgVFQUiJwwJDQ4LDQ0NBAICBAQGBwYEBwUEBgUFBwwXNypCOx4ECwQDCggHCwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMTDg0MDAYJCAgHBgUEBAMAAgMjRg8tIxoHCQIGDw8QCQ0QEhMTEA8REg4MERAOBgkmNzk1MC0GDA0MCAkHCQYCAgcHBgQGCQYDBgYNEBw9OhMjJD42HhALEAwLBAYEAgIGBAEHDAoKEgYXISgaDh0mBgQoLjIfCg0MDAkHCxISERIWGBEREjI0CAcHEg8PCQsDDTU7FQcGHxkaHiAcGRcSDhAMMEgrKS4nCw0JEjsNJDRWMggGERIRCwYGBAMEAwAIPmFNTCVRKx4YVCtMMjxGSyMJAwACBAgGAgIFCAkgeXVbnkwgOjM+OyZPZjVrfRUYCQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZBAcFCAMCCQ0LDQ8pgnRQaBg2NktGMzpREhNfWBIYAQIFDg4RFRMOCgkGUJGoLxggTSYvREViYjQrZjsCERARCwoLAwAEBQoBB11fVkAdJFIuGzNCYFBxTQcFCAMCBgUFBwgEAwQEDDFcTCQSEz9AGiAWHm9tBgwRBQkJCQcGBwMEBAUBJjkqEEMdMTgOCBMofqA7GhgdCQQHBQUBAwcHBAMDCDM5KVhoeGcvIleChk4PEg4KBAgIBgQEBgQCAQQBBQYgKTA+apCFhGpORBkCBAABCQMFBwYHBwcECAYIDRglLQ0IHjhVUEAgMR4FBQQEBgMKCQoPEhQTGhofJh8WBRQREhssIQUaIyAOBAYDBAgPDRMWGRUVFRMNBwoLFBEjMixDIRsZIB4EBQYJFRsYFRAOBQcGBQoODggMGwwaKHY6SCUUFxURCg4J",
+          "top": "ERAQEA4LCggKBwoMAwQFAwMDBQUDCQUJCQ0SDxAMAwUHCQsKBwYHCQcMEhMTEBEPDhAOCAYEBAUCBwUGDAsKBwUDBAQDAQIFBAIFAwEHCgoMCQgGCQwMBwgGDw4UEg8QEQ0KDAgLERAPCgsHBAYHBgQBAQYICQsKAQYGBgkODAwNDA8QExMTFRMXFhMWExINDQsHAQIFBwMEAwwICAwNCQ8SCg4MDxEWFRQQERIQDg8NCwwHBwYJDAUECAQEAQgIBAIBAgMDAQIEAwQDBAYIDAsOAQYCBgUEBAoFBAMICggCAwYIDAoIDQsMCQQFBggJAQUJBwoKDAwJBgUFChAQCgwMBwMBBQcJDQwQDQ8OBAMCAQYMDQYLDQwMDAwRDwsNCgoOCAoIDBIOBwkIBAIDAwgJBAYFBQIBAgIECAgVFQUiJwwJDQ4LDQ0NBAICBAQGBwYEBwUEBgUFBwwXNypCOx4ECwQDCggHCwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMT",
+          "middle": "CwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMTDg0MDAYJCAgHBgUEBAMAAgMjRg8tIxoHCQIGDw8QCQ0QEhMTEA8REg4MERAOBgkmNzk1MC0GDA0MCAkHCQYCAgcHBgQGCQYDBgYNEBw9OhMjJD42HhALEAwLBAYEAgIGBAEHDAoKEgYXISgaDh0mBgQoLjIfCg0MDAkHCxISERIWGBEREjI0CAcHEg8PCQsDDTU7FQcGHxkaHiAcGRcSDhAMMEgrKS4nCw0JEjsNJDRWMggGERIRCwYGBAMEAwAIPmFNTCVRKx4YVCtMMjxGSyMJAwACBAgGAgIFCAkgeXVbnkwgOjM+OyZPZjVrfRUYCQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZ",
+          "bottom": "CQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZBAcFCAMCCQ0LDQ8pgnRQaBg2NktGMzpREhNfWBIYAQIFDg4RFRMOCgkGUJGoLxggTSYvREViYjQrZjsCERARCwoLAwAEBQoBB11fVkAdJFIuGzNCYFBxTQcFCAMCBgUFBwgEAwQEDDFcTCQSEz9AGiAWHm9tBgwRBQkJCQcGBwMEBAUBJjkqEEMdMTgOCBMofqA7GhgdCQQHBQUBAwcHBAMDCDM5KVhoeGcvIleChk4PEg4KBAgIBgQEBgQCAQQBBQYgKTA+apCFhGpORBkCBAABCQMFBwYHBwcECAYIDRglLQ0IHjhVUEAgMR4FBQQEBgMKCQoPEhQTGhofJh8WBRQREhssIQUaIyAOBAYDBAgPDRMWGRUVFRMNBwoLFBEjMixDIRsZIB4EBQYJFRsYFRAOBQcGBQoODggMGwwaKHY6SCUUFxURCg4J"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 16.45154,
+          "top": 11.570717,
+          "middle": 18.97351,
+          "bottom": 20.768805,
+          "effectiveRatio": 0.539511
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 3840,
+        "rawHeight": 2560
+      },
+      "observed": [
+        {
+          "status": 200,
+          "retryAfter": null
+        }
+      ],
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\reds-option-decisions2027\\photos\\170527550-v6.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:11:26.212Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 2498900,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.159820245239054,
+        "entropy": 6.305295534359175,
+        "effectiveDetailRatio": 0.539511,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "00075ad83139d80b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "ERAQEA4LCggKBwoMAwQFAwMDBQUDCQUJCQ0SDxAMAwUHCQsKBwYHCQcMEhMTEBEPDhAOCAYEBAUCBwUGDAsKBwUDBAQDAQIFBAIFAwEHCgoMCQgGCQwMBwgGDw4UEg8QEQ0KDAgLERAPCgsHBAYHBgQBAQYICQsKAQYGBgkODAwNDA8QExMTFRMXFhMWExINDQsHAQIFBwMEAwwICAwNCQ8SCg4MDxEWFRQQERIQDg8NCwwHBwYJDAUECAQEAQgIBAIBAgMDAQIEAwQDBAYIDAsOAQYCBgUEBAoFBAMICggCAwYIDAoIDQsMCQQFBggJAQUJBwoKDAwJBgUFChAQCgwMBwMBBQcJDQwQDQ8OBAMCAQYMDQYLDQwMDAwRDwsNCgoOCAoIDBIOBwkIBAIDAwgJBAYFBQIBAgIECAgVFQUiJwwJDQ4LDQ0NBAICBAQGBwYEBwUEBgUFBwwXNypCOx4ECwQDCggHCwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMTDg0MDAYJCAgHBgUEBAMAAgMjRg8tIxoHCQIGDw8QCQ0QEhMTEA8REg4MERAOBgkmNzk1MC0GDA0MCAkHCQYCAgcHBgQGCQYDBgYNEBw9OhMjJD42HhALEAwLBAYEAgIGBAEHDAoKEgYXISgaDh0mBgQoLjIfCg0MDAkHCxISERIWGBEREjI0CAcHEg8PCQsDDTU7FQcGHxkaHiAcGRcSDhAMMEgrKS4nCw0JEjsNJDRWMggGERIRCwYGBAMEAwAIPmFNTCVRKx4YVCtMMjxGSyMJAwACBAgGAgIFCAkgeXVbnkwgOjM+OyZPZjVrfRUYCQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZBAcFCAMCCQ0LDQ8pgnRQaBg2NktGMzpREhNfWBIYAQIFDg4RFRMOCgkGUJGoLxggTSYvREViYjQrZjsCERARCwoLAwAEBQoBB11fVkAdJFIuGzNCYFBxTQcFCAMCBgUFBwgEAwQEDDFcTCQSEz9AGiAWHm9tBgwRBQkJCQcGBwMEBAUBJjkqEEMdMTgOCBMofqA7GhgdCQQHBQUBAwcHBAMDCDM5KVhoeGcvIleChk4PEg4KBAgIBgQEBgQCAQQBBQYgKTA+apCFhGpORBkCBAABCQMFBwYHBwcECAYIDRglLQ0IHjhVUEAgMR4FBQQEBgMKCQoPEhQTGhofJh8WBRQREhssIQUaIyAOBAYDBAgPDRMWGRUVFRMNBwoLFBEjMixDIRsZIB4EBQYJFRsYFRAOBQcGBQoODggMGwwaKHY6SCUUFxURCg4J",
+          "top": "ERAQEA4LCggKBwoMAwQFAwMDBQUDCQUJCQ0SDxAMAwUHCQsKBwYHCQcMEhMTEBEPDhAOCAYEBAUCBwUGDAsKBwUDBAQDAQIFBAIFAwEHCgoMCQgGCQwMBwgGDw4UEg8QEQ0KDAgLERAPCgsHBAYHBgQBAQYICQsKAQYGBgkODAwNDA8QExMTFRMXFhMWExINDQsHAQIFBwMEAwwICAwNCQ8SCg4MDxEWFRQQERIQDg8NCwwHBwYJDAUECAQEAQgIBAIBAgMDAQIEAwQDBAYIDAsOAQYCBgUEBAoFBAMICggCAwYIDAoIDQsMCQQFBggJAQUJBwoKDAwJBgUFChAQCgwMBwMBBQcJDQwQDQ8OBAMCAQYMDQYLDQwMDAwRDwsNCgoOCAoIDBIOBwkIBAIDAwgJBAYFBQIBAgIECAgVFQUiJwwJDQ4LDQ0NBAICBAQGBwYEBwUEBgUFBwwXNypCOx4ECwQDCggHCwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMT",
+          "middle": "CwoDBAQHBgUFCAcDAwYGBBBCcoRZRzQDBQIEBAMBBQgEAgYGBAcFBAADAwYHCT98SxIqXVMLDBAMCwsJBAYDAwQCAgIAAQYDAwMBBBt4cGZhZjsODAwOERMTDg0MDAYJCAgHBgUEBAMAAgMjRg8tIxoHCQIGDw8QCQ0QEhMTEA8REg4MERAOBgkmNzk1MC0GDA0MCAkHCQYCAgcHBgQGCQYDBgYNEBw9OhMjJD42HhALEAwLBAYEAgIGBAEHDAoKEgYXISgaDh0mBgQoLjIfCg0MDAkHCxISERIWGBEREjI0CAcHEg8PCQsDDTU7FQcGHxkaHiAcGRcSDhAMMEgrKS4nCw0JEjsNJDRWMggGERIRCwYGBAMEAwAIPmFNTCVRKx4YVCtMMjxGSyMJAwACBAgGAgIFCAkgeXVbnkwgOjM+OyZPZjVrfRUYCQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZ",
+          "bottom": "CQMDAgMGCQkJCQQ6fGISsmgpGhUQIz5cdQmncj4RBgYBBAUDBAUHBgswimIRZnsmFR8vPDk5Sjc4XD4ZBQgFAgkJDQ0QCw5IqlZFa2hIUFw9OiQeG15NUA8LCQkQBwcGCAcMEBM+mWMyZzlZd2dKOyoVJUcVAhAZBAcFCAMCCQ0LDQ8pgnRQaBg2NktGMzpREhNfWBIYAQIFDg4RFRMOCgkGUJGoLxggTSYvREViYjQrZjsCERARCwoLAwAEBQoBB11fVkAdJFIuGzNCYFBxTQcFCAMCBgUFBwgEAwQEDDFcTCQSEz9AGiAWHm9tBgwRBQkJCQcGBwMEBAUBJjkqEEMdMTgOCBMofqA7GhgdCQQHBQUBAwcHBAMDCDM5KVhoeGcvIleChk4PEg4KBAgIBgQEBgQCAQQBBQYgKTA+apCFhGpORBkCBAABCQMFBwYHBwcECAYIDRglLQ0IHjhVUEAgMR4FBQQEBgMKCQoPEhQTGhofJh8WBRQREhssIQUaIyAOBAYDBAgPDRMWGRUVFRMNBwoLFBEjMixDIRsZIB4EBQYJFRsYFRAOBQcGBQoODggMGwwaKHY6SCUUFxURCg4J"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 16.45154,
+          "top": 11.570717,
+          "middle": 18.97351,
+          "bottom": 20.768805,
+          "effectiveRatio": 0.539511
+        },
+        "extendable": false,
+        "sha256": "82b10ffec886c3d7f2bbe1ad12a476859e8aeab0e5e1a9c18f5c47e903ddf0d3"
+      },
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg/3840px-Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "82b10ffec886c3d7f2bbe1ad12a476859e8aeab0e5e1a9c18f5c47e903ddf0d3",
+      "strictPassed": true,
+      "strictNativeCoverScale": 0.52734375,
+      "completeNativeMarker": true,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "rightsStatus": "approved",
+      "rightsEvidence": "원Commons 개별저작자 D. Benjamin Miller, CC0 공개헌정 및 실제2025-07-20 촬영정보를 확인했다. 원사진은 공식API제공3840표준축소 JPEG이며 정상검사 바이트와 저장SHA가 같다. 통상세로크롭/축소·문안/그라데이션을 변경사항으로 기록하며 생성·복원·AI확대0이다.",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "photoDate": "2025-07-20",
+      "imageCredit": "D. Benjamin Miller · 2025-07-20 자료 · CC0",
+      "visuallyReviewed": true,
+      "visualReview": "스펜서 스티어가 빨간 Reds 경기유니폼·C모자를 착용하고 필드에서 손과 글러브를 몸 앞에 둔 2025년7월20일 자료. 현재공식MLB668715의CIN113 소속을 확인했다. 원본과새unsigned5에서 머리·모자·얼굴·양손/글러브 보존을 검수한다. 엘리 양팔 사진은 미채택이며 현스티어 기록만 본문에 사용한다.",
+      "reviewedAt": "2026-11-06T17:06:33.051Z",
+      "description": "스펜서 스티어가 빨간 Reds 경기유니폼·C모자를 착용하고 필드에서 손과 글러브를 몸 앞에 둔 2025년7월20일 자료. 현재공식MLB668715의CIN113 소속을 확인했다. 원본과새unsigned5에서 머리·모자·얼굴·양손/글러브 보존을 검수한다. 엘리 양팔 사진은 미채택이며 현스티어 기록만 본문에 사용한다.",
+      "sceneGroup": "steer-cin-20250720-fielding-glove-hands-front",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "actualCurrentClubUniformArchive",
+      "currentTeamArchiveContextReason": "공식현CIN113과실제CIN2025자료. MIN/Wichita전소속사진이아님.",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg/3840px-Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceMirror": {
+        "commit": "9e3c4e82493c1e07c51ddafc04972fb191cf1831",
+        "relative": "source-originals/2026-11-07-reds-option-decisions2027-v2",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg/3840px-Spencer_Steer_in_the_field%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@9e3c4e82493c1e07c51ddafc04972fb191cf1831/source-originals/2026-11-07-reds-option-decisions2027-v2/attribution.json"
+      },
+      "fit": "cover"
+    },
+    {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-06T16:25:16.215Z",
+      "width": 1438,
+      "height": 1916,
+      "bytes": 3699330,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 2.364640049240989,
+      "entropy": 7.244926694464084,
+      "effectiveDetailRatio": 0.632713,
+      "kind": "source",
+      "coverScale": 0.751,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-4.jpg",
+      "sha256": "2d219bdba6f28580b3a70be8d0b01e71d9b5fbb014e095235d034a9d25372c02",
+      "perceptualHash": "60703070ac9ce465",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "BgIDAQIDBQEHBBgaDh4zNyE6BwsGBQEFCgwJAwYFAwIDAQEBBgYHDzNJOz10e4w6SxkPBAIJBwEFBgYDBQcFAwMGAwgINGQ1f35fUYSWXlQeCQQGBAYEBAEBCgcJCgUJCwIZZE82UDseIShKVZFQDwQJAwUHAwcBDBELCgUCCAIwcFIcCw0uJgsOEGSZOAsIAwIDAwYIBAcFCgUEBAofhluAaThERD9Qa5KcIwoEAwMDAgQGBgkLBwEFBgEKNGY7TCwtNRcqTX0eFgQEAQQBAgIEBggEAQQEBwgRFTNnRV9BTWhIcygTCgcJAwQFBwUEBgQDAgMHBAEGFjFQc1UJDGZ+Yh4SBAUJCQYKCQgDCAMCAgUGBAEHDREdNCsnLyg7ExcLDA4JEAcEBQQKBAQDAwQDBAIGDhcYNC8WHTQoDgcGAwgRBQUDBQkLAgMFAQgOCQQJBActERALCwgkGAsFDQwGCBAUDg0HBAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUDAgUCBgcDAwYJDy0SGz4hKBsRFxUdNC4LCQQHBQkFBgcGBQILCQ4PIhU+QUYwERMNEg4HEygrIBUOBggGAAIIBwwDJSQUIRhXITY8LQIVDgUHDBknLzMrFQkHBQUBAwcyMAoBFww6blAnERYMAwMIFB4iKCcrLxUBBwYMBydDMzEaExAoJhYdFA8BBwgTGBYoIiMeLDIODhURDUMwTC8yCxgNFhcJNVMRCBAZESIdGh4hJDoiAwQGGk0ePxxPERUCDQQ0hkRbDhwgHycKGhwWFDQ5AQsLN0VLZid3YBMEBQ96QJw3CRgSIw0JEyEiFkozCw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5oDBVVUwo0gy1IOjBCXzaXZm8RR09qJhMeGAZgpEQFCSdmNxNEOHQjDDBHAyodExURhFCTThQkGwsorJdjBh9SRBJDGDpxUDElGSQ3PzJCR5RxLR4ZIRUXSY+GBAw0UT4al4lFr5FthYN0aUdVhG8SEh4EIhURDhxACwgWV2U5ZZ6ykyUmQiI0IxQ5EQ4KDiIOJhglTEkdAwQiQ3qNN2NiFBkVCgwJOpJmjhoKDhkbGU09HllHBQIvMylofzAUCwsQDQsLbF8WbkwJDhMZOEw0OiduAgU2KSE7aUsUCQwICAQcZIESblEZDhcKSlVVTydECwg9IyM8ZE8QDhAJEiMDDGNLZjgJFxIRTWAbaw45BxA4ISpBYE0LFREVGAojRGAuP1gNFwcXQkkRTC8nBgxDOTpgbkMJIw4PDCkHXodApycdCRETSEAOKUUV",
+        "top": "BgIDAQIDBQEHBBgaDh4zNyE6BwsGBQEFCgwJAwYFAwIDAQEBBgYHDzNJOz10e4w6SxkPBAIJBwEFBgYDBQcFAwMGAwgINGQ1f35fUYSWXlQeCQQGBAYEBAEBCgcJCgUJCwIZZE82UDseIShKVZFQDwQJAwUHAwcBDBELCgUCCAIwcFIcCw0uJgsOEGSZOAsIAwIDAwYIBAcFCgUEBAofhluAaThERD9Qa5KcIwoEAwMDAgQGBgkLBwEFBgEKNGY7TCwtNRcqTX0eFgQEAQQBAgIEBggEAQQEBwgRFTNnRV9BTWhIcygTCgcJAwQFBwUEBgQDAgMHBAEGFjFQc1UJDGZ+Yh4SBAUJCQYKCQgDCAMCAgUGBAEHDREdNCsnLyg7ExcLDA4JEAcEBQQKBAQDAwQDBAIGDhcYNC8WHTQoDgcGAwgRBQUDBQkLAgMFAQgOCQQJBActERALCwgkGAsFDQwGCBAUDg0HBAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUD",
+        "middle": "BAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUDAgUCBgcDAwYJDy0SGz4hKBsRFxUdNC4LCQQHBQkFBgcGBQILCQ4PIhU+QUYwERMNEg4HEygrIBUOBggGAAIIBwwDJSQUIRhXITY8LQIVDgUHDBknLzMrFQkHBQUBAwcyMAoBFww6blAnERYMAwMIFB4iKCcrLxUBBwYMBydDMzEaExAoJhYdFA8BBwgTGBYoIiMeLDIODhURDUMwTC8yCxgNFhcJNVMRCBAZESIdGh4hJDoiAwQGGk0ePxxPERUCDQQ0hkRbDhwgHycKGhwWFDQ5AQsLN0VLZid3YBMEBQ96QJw3CRgSIw0JEyEiFkozCw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5o",
+        "bottom": "Cw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5oDBVVUwo0gy1IOjBCXzaXZm8RR09qJhMeGAZgpEQFCSdmNxNEOHQjDDBHAyodExURhFCTThQkGwsorJdjBh9SRBJDGDpxUDElGSQ3PzJCR5RxLR4ZIRUXSY+GBAw0UT4al4lFr5FthYN0aUdVhG8SEh4EIhURDhxACwgWV2U5ZZ6ykyUmQiI0IxQ5EQ4KDiIOJhglTEkdAwQiQ3qNN2NiFBkVCgwJOpJmjhoKDhkbGU09HllHBQIvMylofzAUCwsQDQsLbF8WbkwJDhMZOEw0OiduAgU2KSE7aUsUCQwICAQcZIESblEZDhcKSlVVTydECwg9IyM8ZE8QDhAJEiMDDGNLZjgJFxIRTWAbaw45BxA4ISpBYE0LFREVGAojRGAuP1gNFwcXQkkRTC8nBgxDOTpgbkMJIw4PDCkHXodApycdCRETSEAOKUUV"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 14.241893,
+        "top": 16.439555,
+        "middle": 13.272786,
+        "bottom": 12.841449,
+        "effectiveRatio": 0.632713
+      },
+      "extendable": false,
+      "orientation": 1,
+      "rawWidth": 1438,
+      "rawHeight": 1916,
+      "id": 170432366,
+      "title": "File:Matt McLain in the infield, July 20, 2025 (1) (cropped).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-4.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Matt_McLain_in_the_infield,_July_20,_2025_(1)_(cropped).jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-21 04:48:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Matt McLain in the infield, July 20, 2025 (1) (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Matt McLain|Self-published work|Extracted images|Photographs by D. Benjamin Miller|Taken with Canon RF 100-500mm f/4.5-7.1L IS USM|Taken with Canon EOS R5 Mark II|New York Mets vs. Cincinnati Reds (July 20, 2025)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Matt McLain in the infield",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-07-20 14:47:34",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi>D. Benjamin Miller</bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\reds-option-decisions2027\\photos\\170432366.jpg",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:11:26.341Z",
+        "width": 1438,
+        "height": 1916,
+        "bytes": 3699330,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3646400492413115,
+        "entropy": 7.244926694464084,
+        "effectiveDetailRatio": 0.632713,
+        "kind": "source",
+        "coverScale": 0.751,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1438,
+        "rawHeight": 1916,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "60703070ac9ce465",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BgIDAQIDBQEHBBgaDh4zNyE6BwsGBQEFCgwJAwYFAwIDAQEBBgYHDzNJOz10e4w6SxkPBAIJBwEFBgYDBQcFAwMGAwgINGQ1f35fUYSWXlQeCQQGBAYEBAEBCgcJCgUJCwIZZE82UDseIShKVZFQDwQJAwUHAwcBDBELCgUCCAIwcFIcCw0uJgsOEGSZOAsIAwIDAwYIBAcFCgUEBAofhluAaThERD9Qa5KcIwoEAwMDAgQGBgkLBwEFBgEKNGY7TCwtNRcqTX0eFgQEAQQBAgIEBggEAQQEBwgRFTNnRV9BTWhIcygTCgcJAwQFBwUEBgQDAgMHBAEGFjFQc1UJDGZ+Yh4SBAUJCQYKCQgDCAMCAgUGBAEHDREdNCsnLyg7ExcLDA4JEAcEBQQKBAQDAwQDBAIGDhcYNC8WHTQoDgcGAwgRBQUDBQkLAgMFAQgOCQQJBActERALCwgkGAsFDQwGCBAUDg0HBAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUDAgUCBgcDAwYJDy0SGz4hKBsRFxUdNC4LCQQHBQkFBgcGBQILCQ4PIhU+QUYwERMNEg4HEygrIBUOBggGAAIIBwwDJSQUIRhXITY8LQIVDgUHDBknLzMrFQkHBQUBAwcyMAoBFww6blAnERYMAwMIFB4iKCcrLxUBBwYMBydDMzEaExAoJhYdFA8BBwgTGBYoIiMeLDIODhURDUMwTC8yCxgNFhcJNVMRCBAZESIdGh4hJDoiAwQGGk0ePxxPERUCDQQ0hkRbDhwgHycKGhwWFDQ5AQsLN0VLZid3YBMEBQ96QJw3CRgSIw0JEyEiFkozCw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5oDBVVUwo0gy1IOjBCXzaXZm8RR09qJhMeGAZgpEQFCSdmNxNEOHQjDDBHAyodExURhFCTThQkGwsorJdjBh9SRBJDGDpxUDElGSQ3PzJCR5RxLR4ZIRUXSY+GBAw0UT4al4lFr5FthYN0aUdVhG8SEh4EIhURDhxACwgWV2U5ZZ6ykyUmQiI0IxQ5EQ4KDiIOJhglTEkdAwQiQ3qNN2NiFBkVCgwJOpJmjhoKDhkbGU09HllHBQIvMylofzAUCwsQDQsLbF8WbkwJDhMZOEw0OiduAgU2KSE7aUsUCQwICAQcZIESblEZDhcKSlVVTydECwg9IyM8ZE8QDhAJEiMDDGNLZjgJFxIRTWAbaw45BxA4ISpBYE0LFREVGAojRGAuP1gNFwcXQkkRTC8nBgxDOTpgbkMJIw4PDCkHXodApycdCRETSEAOKUUV",
+          "top": "BgIDAQIDBQEHBBgaDh4zNyE6BwsGBQEFCgwJAwYFAwIDAQEBBgYHDzNJOz10e4w6SxkPBAIJBwEFBgYDBQcFAwMGAwgINGQ1f35fUYSWXlQeCQQGBAYEBAEBCgcJCgUJCwIZZE82UDseIShKVZFQDwQJAwUHAwcBDBELCgUCCAIwcFIcCw0uJgsOEGSZOAsIAwIDAwYIBAcFCgUEBAofhluAaThERD9Qa5KcIwoEAwMDAgQGBgkLBwEFBgEKNGY7TCwtNRcqTX0eFgQEAQQBAgIEBggEAQQEBwgRFTNnRV9BTWhIcygTCgcJAwQFBwUEBgQDAgMHBAEGFjFQc1UJDGZ+Yh4SBAUJCQYKCQgDCAMCAgUGBAEHDREdNCsnLyg7ExcLDA4JEAcEBQQKBAQDAwQDBAIGDhcYNC8WHTQoDgcGAwgRBQUDBQkLAgMFAQgOCQQJBActERALCwgkGAsFDQwGCBAUDg0HBAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUD",
+          "middle": "BAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUDAgUCBgcDAwYJDy0SGz4hKBsRFxUdNC4LCQQHBQkFBgcGBQILCQ4PIhU+QUYwERMNEg4HEygrIBUOBggGAAIIBwwDJSQUIRhXITY8LQIVDgUHDBknLzMrFQkHBQUBAwcyMAoBFww6blAnERYMAwMIFB4iKCcrLxUBBwYMBydDMzEaExAoJhYdFA8BBwgTGBYoIiMeLDIODhURDUMwTC8yCxgNFhcJNVMRCBAZESIdGh4hJDoiAwQGGk0ePxxPERUCDQQ0hkRbDhwgHycKGhwWFDQ5AQsLN0VLZid3YBMEBQ96QJw3CRgSIw0JEyEiFkozCw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5o",
+          "bottom": "Cw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5oDBVVUwo0gy1IOjBCXzaXZm8RR09qJhMeGAZgpEQFCSdmNxNEOHQjDDBHAyodExURhFCTThQkGwsorJdjBh9SRBJDGDpxUDElGSQ3PzJCR5RxLR4ZIRUXSY+GBAw0UT4al4lFr5FthYN0aUdVhG8SEh4EIhURDhxACwgWV2U5ZZ6ykyUmQiI0IxQ5EQ4KDiIOJhglTEkdAwQiQ3qNN2NiFBkVCgwJOpJmjhoKDhkbGU09HllHBQIvMylofzAUCwsQDQsLbF8WbkwJDhMZOEw0OiduAgU2KSE7aUsUCQwICAQcZIESblEZDhcKSlVVTydECwg9IyM8ZE8QDhAJEiMDDGNLZjgJFxIRTWAbaw45BxA4ISpBYE0LFREVGAojRGAuP1gNFwcXQkkRTC8nBgxDOTpgbkMJIw4PDCkHXodApycdCRETSEAOKUUV"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 14.241893,
+          "top": 16.439555,
+          "middle": 13.272786,
+          "bottom": 12.841449,
+          "effectiveRatio": 0.632713
+        },
+        "extendable": false,
+        "sha256": "2d219bdba6f28580b3a70be8d0b01e71d9b5fbb014e095235d034a9d25372c02"
+      },
+      "remote": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T16:25:16.215Z",
+        "width": 1438,
+        "height": 1916,
+        "bytes": 3699330,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.364640049240989,
+        "entropy": 7.244926694464084,
+        "effectiveDetailRatio": 0.632713,
+        "kind": "source",
+        "coverScale": 0.751,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Matt_McLain_in_the_infield%2C_July_20%2C_2025_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sha256": "2d219bdba6f28580b3a70be8d0b01e71d9b5fbb014e095235d034a9d25372c02",
+        "perceptualHash": "60703070ac9ce465",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "BgIDAQIDBQEHBBgaDh4zNyE6BwsGBQEFCgwJAwYFAwIDAQEBBgYHDzNJOz10e4w6SxkPBAIJBwEFBgYDBQcFAwMGAwgINGQ1f35fUYSWXlQeCQQGBAYEBAEBCgcJCgUJCwIZZE82UDseIShKVZFQDwQJAwUHAwcBDBELCgUCCAIwcFIcCw0uJgsOEGSZOAsIAwIDAwYIBAcFCgUEBAofhluAaThERD9Qa5KcIwoEAwMDAgQGBgkLBwEFBgEKNGY7TCwtNRcqTX0eFgQEAQQBAgIEBggEAQQEBwgRFTNnRV9BTWhIcygTCgcJAwQFBwUEBgQDAgMHBAEGFjFQc1UJDGZ+Yh4SBAUJCQYKCQgDCAMCAgUGBAEHDREdNCsnLyg7ExcLDA4JEAcEBQQKBAQDAwQDBAIGDhcYNC8WHTQoDgcGAwgRBQUDBQkLAgMFAQgOCQQJBActERALCwgkGAsFDQwGCBAUDg0HBAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUDAgUCBgcDAwYJDy0SGz4hKBsRFxUdNC4LCQQHBQkFBgcGBQILCQ4PIhU+QUYwERMNEg4HEygrIBUOBggGAAIIBwwDJSQUIRhXITY8LQIVDgUHDBknLzMrFQkHBQUBAwcyMAoBFww6blAnERYMAwMIFB4iKCcrLxUBBwYMBydDMzEaExAoJhYdFA8BBwgTGBYoIiMeLDIODhURDUMwTC8yCxgNFhcJNVMRCBAZESIdGh4hJDoiAwQGGk0ePxxPERUCDQQ0hkRbDhwgHycKGhwWFDQ5AQsLN0VLZid3YBMEBQ96QJw3CRgSIw0JEyEiFkozCw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5oDBVVUwo0gy1IOjBCXzaXZm8RR09qJhMeGAZgpEQFCSdmNxNEOHQjDDBHAyodExURhFCTThQkGwsorJdjBh9SRBJDGDpxUDElGSQ3PzJCR5RxLR4ZIRUXSY+GBAw0UT4al4lFr5FthYN0aUdVhG8SEh4EIhURDhxACwgWV2U5ZZ6ykyUmQiI0IxQ5EQ4KDiIOJhglTEkdAwQiQ3qNN2NiFBkVCgwJOpJmjhoKDhkbGU09HllHBQIvMylofzAUCwsQDQsLbF8WbkwJDhMZOEw0OiduAgU2KSE7aUsUCQwICAQcZIESblEZDhcKSlVVTydECwg9IyM8ZE8QDhAJEiMDDGNLZjgJFxIRTWAbaw45BxA4ISpBYE0LFREVGAojRGAuP1gNFwcXQkkRTC8nBgxDOTpgbkMJIw4PDCkHXodApycdCRETSEAOKUUV",
+          "top": "BgIDAQIDBQEHBBgaDh4zNyE6BwsGBQEFCgwJAwYFAwIDAQEBBgYHDzNJOz10e4w6SxkPBAIJBwEFBgYDBQcFAwMGAwgINGQ1f35fUYSWXlQeCQQGBAYEBAEBCgcJCgUJCwIZZE82UDseIShKVZFQDwQJAwUHAwcBDBELCgUCCAIwcFIcCw0uJgsOEGSZOAsIAwIDAwYIBAcFCgUEBAofhluAaThERD9Qa5KcIwoEAwMDAgQGBgkLBwEFBgEKNGY7TCwtNRcqTX0eFgQEAQQBAgIEBggEAQQEBwgRFTNnRV9BTWhIcygTCgcJAwQFBwUEBgQDAgMHBAEGFjFQc1UJDGZ+Yh4SBAUJCQYKCQgDCAMCAgUGBAEHDREdNCsnLyg7ExcLDA4JEAcEBQQKBAQDAwQDBAIGDhcYNC8WHTQoDgcGAwgRBQUDBQkLAgMFAQgOCQQJBActERALCwgkGAsFDQwGCBAUDg0HBAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUD",
+          "middle": "BAMDBQoDCAQDCQImQh00QkA8OSkGBgYFFRcECgkIAgQEAwYGAQMIBgQJN08sDihbYRQlCAwLEQcKBQcCAQIDBAYHCAsJBwsiFjgxJjkvMVIsIwMJAgwIBwUDAgUCBgcDAwYJDy0SGz4hKBsRFxUdNC4LCQQHBQkFBgcGBQILCQ4PIhU+QUYwERMNEg4HEygrIBUOBggGAAIIBwwDJSQUIRhXITY8LQIVDgUHDBknLzMrFQkHBQUBAwcyMAoBFww6blAnERYMAwMIFB4iKCcrLxUBBwYMBydDMzEaExAoJhYdFA8BBwgTGBYoIiMeLDIODhURDUMwTC8yCxgNFhcJNVMRCBAZESIdGh4hJDoiAwQGGk0ePxxPERUCDQQ0hkRbDhwgHycKGhwWFDQ5AQsLN0VLZid3YBMEBQ96QJw3CRgSIw0JEyEiFkozCw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5o",
+          "bottom": "Cw8SSyZxKDMcfTs+LmCETZAmgCosHgcLBh4iXy8bGBMcZg15Hx6FJ2BGXkYiqSqmP6lACxMIBhcfKmciBAcydRaXK3ReZB4mTzEPbFtob3JSExcUCxEQE1eOAwI+XRB1gk81PSE8CzcRUEssWFs0FQseEw4pkL5oDBVVUwo0gy1IOjBCXzaXZm8RR09qJhMeGAZgpEQFCSdmNxNEOHQjDDBHAyodExURhFCTThQkGwsorJdjBh9SRBJDGDpxUDElGSQ3PzJCR5RxLR4ZIRUXSY+GBAw0UT4al4lFr5FthYN0aUdVhG8SEh4EIhURDhxACwgWV2U5ZZ6ykyUmQiI0IxQ5EQ4KDiIOJhglTEkdAwQiQ3qNN2NiFBkVCgwJOpJmjhoKDhkbGU09HllHBQIvMylofzAUCwsQDQsLbF8WbkwJDhMZOEw0OiduAgU2KSE7aUsUCQwICAQcZIESblEZDhcKSlVVTydECwg9IyM8ZE8QDhAJEiMDDGNLZjgJFxIRTWAbaw45BxA4ISpBYE0LFREVGAojRGAuP1gNFwcXQkkRTC8nBgxDOTpgbkMJIw4PDCkHXodApycdCRETSEAOKUUV"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 14.241893,
+          "top": 16.439555,
+          "middle": 13.272786,
+          "bottom": 12.841449,
+          "effectiveRatio": 0.632713
+        },
+        "extendable": false,
+        "orientation": 1,
+        "rawWidth": 1438,
+        "rawHeight": 1916
+      },
+      "strictPassed": true,
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T16:25:15.628Z",
+        "width": 1438,
+        "height": 1916,
+        "bytes": 3699330,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.3646400492411455,
+        "entropy": 7.244926694464084,
+        "effectiveDetailRatio": 0.632713,
+        "kind": "source",
+        "coverScale": 0.751,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Matt_McLain_in_the_infield%2C_July_20%2C_2025_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceSha256": "2d219bdba6f28580b3a70be8d0b01e71d9b5fbb014e095235d034a9d25372c02",
+      "pages": 1,
+      "header": {
+        "width": 1438,
+        "height": 1916,
+        "rawWidth": 1438,
+        "rawHeight": 1916,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "strictNativeCoverScale": 0.7510431154381085,
+      "completeNativeMarker": true,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "rightsStatus": "approved",
+      "rightsEvidence": "원 Commons/Flickr 연결 파일의 저작자 D. Benjamin Miller, 개별 CC0(https://creativecommons.org/publicdomain/zero/1.0/)를 실제 metadata로 확인했다. 원본보존·통상세로크롭/축소/문안/그라데이션을 변경사항으로 공개metadata에 명시하며 BY-SA 파생카드는 같은/호환 라이선스를 유지한다. 국내언론권리를 미국자료에확대하지않는다.",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "photoDate": "2025-07-20",
+      "imageCredit": "D. Benjamin Miller · 2025-07-20 자료 · CC0",
+      "description": "맷 맥클레인이 C모자·Reds9번 경기유니폼을 입고 내야에 서 있는2025년7월20일 자료. 앞서확인한 일반티셔츠인물컷을기각하고진짜경기유니폼사진으로교체했다.",
+      "visualReview": "맷 맥클레인이 C모자·Reds9번 경기유니폼을 입고 내야에 서 있는2025년7월20일 자료. 앞서확인한 일반티셔츠인물컷을기각하고진짜경기유니폼사진으로교체했다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:28:21.142Z",
+      "sceneGroup": "mclain-cin-20250720-infield",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "current_CIN_2025_archive",
+      "currentTeamArchiveContextReason": "맷 맥클레인이 C모자·Reds9번 경기유니폼을 입고 내야에 서 있는2025년7월20일 자료. 앞서확인한 일반티셔츠인물컷을기각하고진짜경기유니폼사진으로교체했다.",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Matt_McLain_in_the_infield%2C_July_20%2C_2025_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceMirror": {
+        "commit": "c1ed3c0336bb4605b402aa1f7d8110037db3a958",
+        "relative": "source-originals/2026-11-07-reds-option-decisions2027-v1",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Matt_McLain_in_the_infield%2C_July_20%2C_2025_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/attribution.json"
+      },
+      "fit": "cover"
+    },
+    {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-06T16:48:14.377Z",
+      "width": 3840,
+      "height": 2562,
+      "bytes": 3025380,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 3.170703090945407,
+      "entropy": 6.462414520301536,
+      "effectiveDetailRatio": 0.599472,
+      "kind": "source",
+      "coverScale": 0.527,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-5.jpg",
+      "sha256": "54a6b8c12321cb4fd2a46672959b7e4e35477b7eed738642cbd7fbe5366394e3",
+      "perceptualHash": "f88978d818f474e6",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "CgsRERUKBwkKDQ4GCAcHBQEJAwcCBAUHCAYEBAQKEhcaGBENExcVEAoMCQoIAgMGCAUDCQUICAYGAwwMDxEKBwkPEgsMCQcNDQwNCgsKBgUFBQQFBAQDCAkQBAUJBQYFAgYBAgMIBQQEBAQEBxEHJSYkBAUFCgwGERAKDAwNDQoLDQ8UExIREA4QEhdCcmtoJg0MCwUCDggHDxMVFBccGhUVEhAUFhMUDjV9VDxrahgOCAYFCQwODwsQEhELCwUEBQYLCAYBBS9/e1B0bxoMCwwLCgwLCQoIAwUHAgMDAgYCBgkIBwcqUTlRMQQEAwMIBgkHBwYMDAcDBAQBBAYFBgMEBB4uNixCKhIGCQ0NBAUIDQsHBgYEBgUHCAgNDQ8WKzAsMA09QSsTCgcEAwQFAgoJBwIECQkODwwNDSEzLBEOFBUSFCo0DwoMBAQHCQQECQwNDhIMCwYGECYvIA8sHhEZIhMyHgYNBwgCBAsMCwkIBwQJCgsHFT5AQzEqTR9BJjcvLAsEBgkNCggEBAIEBBAICAcQDWtLWGskJ0QwPE0oMRMSCQsBAwMEAwcIBwQCAwYLMVlVDXY8Cw4xahRGIRYPCQcFCAIECAQBAgIHBwkZWGMbQ0ldHFRZMy8/PRgKEA0NBgQIBwwLCwwEAgEsdihcOQ46YE80KjkyTyMEBAYFBgUIBwMCAwYJCAQ+X05YNB0lEwsaQD1JGxUECQgFBggKDQsNDA0LBgVAMFgSPQ4REBsPOk07Xw0OCQ0RFBETDA0NCAYCBBJcLVwRbUsuGwsPZgtJRjwJExUWEg8NCQkJCgcGC0J/QHcdMlhRa2BhWR9QfzwIDgkIBggJCwUKDQsJCV1ugU4SBQoXLko1FQxEC0gWAgQHAwQDBAQFBgkNCxdMNA8ZAhUSCzhOHScvUzAQAwQBCQQGCQwTEQ4ICSAOKhIcIBgZN2RBPRopLxYICQsCDRQWFBYMDAcEHTRHISwUMBQRK4IOSwkJFQoDFBcZGhsWDg0JDA8WQGdTPj0NJi0fHnkbPgsEBwUIDQwRCgkJCQsPCwwXXD0sMkAhGjEeDWIrMwgKDAkJBgECAwMECgwEBAMIO24aRj4WAywzDE5DGQMFCwgLAgsJCgYICAEGAQMBDUxbSyIJDSQsESs5AQEDAgIBCQYCBAkEBAgCAgUBAw8yFgoGAQ4sITAmBAQEBQgIEBQQFhQVFhIQEg0PDQ0GBgILBgsMCw4RBggCBQUFDQ0PDRASFBUWGBwWFBANCwYFEBAoPE0yBgMIBAYECw0PDgkFAQABBAQHBAMCCAcHEBBQRy5eHgQGCAQHBQcGAhEPDxEREA4IAwEEBQIIEiE9aw1QNAQHBwQDDhYYGBAKBgICAwUJDAUHBgYICjA/YydDNwIBBwkMFA0ICQIEBQUEBwQGBAoHCQYGKTkvK0FFQQkFCQYJAgkFCg0JCwkIBQMIDAQEBgYRMxEtHXIgZQ0HBQEDBgQLDQUMCgoICgEEBAQDCREhKQw8KVtVdUMECAYI",
+        "top": "CgsRERUKBwkKDQ4GCAcHBQEJAwcCBAUHCAYEBAQKEhcaGBENExcVEAoMCQoIAgMGCAUDCQUICAYGAwwMDxEKBwkPEgsMCQcNDQwNCgsKBgUFBQQFBAQDCAkQBAUJBQYFAgYBAgMIBQQEBAQEBxEHJSYkBAUFCgwGERAKDAwNDQoLDQ8UExIREA4QEhdCcmtoJg0MCwUCDggHDxMVFBccGhUVEhAUFhMUDjV9VDxrahgOCAYFCQwODwsQEhELCwUEBQYLCAYBBS9/e1B0bxoMCwwLCgwLCQoIAwUHAgMDAgYCBgkIBwcqUTlRMQQEAwMIBgkHBwYMDAcDBAQBBAYFBgMEBB4uNixCKhIGCQ0NBAUIDQsHBgYEBgUHCAgNDQ8WKzAsMA09QSsTCgcEAwQFAgoJBwIECQkODwwNDSEzLBEOFBUSFCo0DwoMBAQHCQQECQwNDhIMCwYGECYvIA8sHhEZIhMyHgYNBwgCBAsMCwkIBwQJCgsHFT5AQzEqTR9BJjcvLAsEBgkNCggEBAIEBBAICAcQDWtLWGskJ0QwPE0oMRMSCQsBAwMEAwcIBwQCAwYLMVlVDXY8Cw4xahRGIRYP",
+        "middle": "BwgCBAsMCwkIBwQJCgsHFT5AQzEqTR9BJjcvLAsEBgkNCggEBAIEBBAICAcQDWtLWGskJ0QwPE0oMRMSCQsBAwMEAwcIBwQCAwYLMVlVDXY8Cw4xahRGIRYPCQcFCAIECAQBAgIHBwkZWGMbQ0ldHFRZMy8/PRgKEA0NBgQIBwwLCwwEAgEsdihcOQ46YE80KjkyTyMEBAYFBgUIBwMCAwYJCAQ+X05YNB0lEwsaQD1JGxUECQgFBggKDQsNDA0LBgVAMFgSPQ4REBsPOk07Xw0OCQ0RFBETDA0NCAYCBBJcLVwRbUsuGwsPZgtJRjwJExUWEg8NCQkJCgcGC0J/QHcdMlhRa2BhWR9QfzwIDgkIBggJCwUKDQsJCV1ugU4SBQoXLko1FQxEC0gWAgQHAwQDBAQFBgkNCxdMNA8ZAhUSCzhOHScvUzAQAwQBCQQGCQwTEQ4ICSAOKhIcIBgZN2RBPRopLxYICQsCDRQWFBYMDAcEHTRHISwUMBQRK4IOSwkJFQoDFBcZGhsWDg0JDA8WQGdTPj0NJi0fHnkbPgsEBwUIDQwRCgkJCQsPCwwXXD0sMkAhGjEeDWIrMwgKDAkJ",
+        "bottom": "AwQBCQQGCQwTEQ4ICSAOKhIcIBgZN2RBPRopLxYICQsCDRQWFBYMDAcEHTRHISwUMBQRK4IOSwkJFQoDFBcZGhsWDg0JDA8WQGdTPj0NJi0fHnkbPgsEBwUIDQwRCgkJCQsPCwwXXD0sMkAhGjEeDWIrMwgKDAkJBgECAwMECgwEBAMIO24aRj4WAywzDE5DGQMFCwgLAgsJCgYICAEGAQMBDUxbSyIJDSQsESs5AQEDAgIBCQYCBAkEBAgCAgUBAw8yFgoGAQ4sITAmBAQEBQgIEBQQFhQVFhIQEg0PDQ0GBgILBgsMCw4RBggCBQUFDQ0PDRASFBUWGBwWFBANCwYFEBAoPE0yBgMIBAYECw0PDgkFAQABBAQHBAMCCAcHEBBQRy5eHgQGCAQHBQcGAhEPDxEREA4IAwEEBQIIEiE9aw1QNAQHBwQDDhYYGBAKBgICAwUJDAUHBgYICjA/YydDNwIBBwkMFA0ICQIEBQUEBwQGBAoHCQYGKTkvK0FFQQkFCQYJAgkFCg0JCwkIBQMIDAQEBgYRMxEtHXIgZQ0HBQEDBgQLDQUMCgoICgEEBAQDCREhKQw8KVtVdUMECAYI"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 32.454188,
+        "top": 19.624898,
+        "middle": 28.36588,
+        "bottom": 43.814244,
+        "effectiveRatio": 0.599472
+      },
+      "extendable": false,
+      "orientation": 1,
+      "rawWidth": 3840,
+      "rawHeight": 2562,
+      "id": 170421452,
+      "title": "File:TJ Friedl in the outfield, July 20, 2025 (1).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/source-5.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:TJ_Friedl_in_the_outfield,_July_20,_2025_(1).jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-20 22:37:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "TJ Friedl in the outfield, July 20, 2025 (1)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Images with extracted images|Photographs by D. Benjamin Miller|Taken with Canon RF 100-500mm f/4.5-7.1L IS USM|Red Rawlings baseball gloves|TJ Friedl|Taken with Canon EOS R5 Mark II|New York Mets vs. Cincinnati Reds (July 20, 2025)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "TJ Friedl in the outfield",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-07-20 14:58:22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi>D. Benjamin Miller</bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\reds-option-decisions2027\\photos\\170421452-3840.jpg",
+      "imageCredit": "D. Benjamin Miller · 2025-07-20 자료 · CC0",
+      "photoDate": "2025-07-20",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "currentTeamUniformVerified": true,
+      "currentTeamEvidence": "공식 2026 최종 CIN/동일 조직 기록과 실제 Reds 유니폼을 대조했다. 자료촬영일을 별도 표기한다.",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:11:26.568Z",
+        "width": 3840,
+        "height": 2562,
+        "bytes": 3025380,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 3.1707030909462097,
+        "entropy": 6.462414520301536,
+        "effectiveDetailRatio": 0.599472,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2562,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "f88978d818f474e6",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CgsRERUKBwkKDQ4GCAcHBQEJAwcCBAUHCAYEBAQKEhcaGBENExcVEAoMCQoIAgMGCAUDCQUICAYGAwwMDxEKBwkPEgsMCQcNDQwNCgsKBgUFBQQFBAQDCAkQBAUJBQYFAgYBAgMIBQQEBAQEBxEHJSYkBAUFCgwGERAKDAwNDQoLDQ8UExIREA4QEhdCcmtoJg0MCwUCDggHDxMVFBccGhUVEhAUFhMUDjV9VDxrahgOCAYFCQwODwsQEhELCwUEBQYLCAYBBS9/e1B0bxoMCwwLCgwLCQoIAwUHAgMDAgYCBgkIBwcqUTlRMQQEAwMIBgkHBwYMDAcDBAQBBAYFBgMEBB4uNixCKhIGCQ0NBAUIDQsHBgYEBgUHCAgNDQ8WKzAsMA09QSsTCgcEAwQFAgoJBwIECQkODwwNDSEzLBEOFBUSFCo0DwoMBAQHCQQECQwNDhIMCwYGECYvIA8sHhEZIhMyHgYNBwgCBAsMCwkIBwQJCgsHFT5AQzEqTR9BJjcvLAsEBgkNCggEBAIEBBAICAcQDWtLWGskJ0QwPE0oMRMSCQsBAwMEAwcIBwQCAwYLMVlVDXY8Cw4xahRGIRYPCQcFCAIECAQBAgIHBwkZWGMbQ0ldHFRZMy8/PRgKEA0NBgQIBwwLCwwEAgEsdihcOQ46YE80KjkyTyMEBAYFBgUIBwMCAwYJCAQ+X05YNB0lEwsaQD1JGxUECQgFBggKDQsNDA0LBgVAMFgSPQ4REBsPOk07Xw0OCQ0RFBETDA0NCAYCBBJcLVwRbUsuGwsPZgtJRjwJExUWEg8NCQkJCgcGC0J/QHcdMlhRa2BhWR9QfzwIDgkIBggJCwUKDQsJCV1ugU4SBQoXLko1FQxEC0gWAgQHAwQDBAQFBgkNCxdMNA8ZAhUSCzhOHScvUzAQAwQBCQQGCQwTEQ4ICSAOKhIcIBgZN2RBPRopLxYICQsCDRQWFBYMDAcEHTRHISwUMBQRK4IOSwkJFQoDFBcZGhsWDg0JDA8WQGdTPj0NJi0fHnkbPgsEBwUIDQwRCgkJCQsPCwwXXD0sMkAhGjEeDWIrMwgKDAkJBgECAwMECgwEBAMIO24aRj4WAywzDE5DGQMFCwgLAgsJCgYICAEGAQMBDUxbSyIJDSQsESs5AQEDAgIBCQYCBAkEBAgCAgUBAw8yFgoGAQ4sITAmBAQEBQgIEBQQFhQVFhIQEg0PDQ0GBgILBgsMCw4RBggCBQUFDQ0PDRASFBUWGBwWFBANCwYFEBAoPE0yBgMIBAYECw0PDgkFAQABBAQHBAMCCAcHEBBQRy5eHgQGCAQHBQcGAhEPDxEREA4IAwEEBQIIEiE9aw1QNAQHBwQDDhYYGBAKBgICAwUJDAUHBgYICjA/YydDNwIBBwkMFA0ICQIEBQUEBwQGBAoHCQYGKTkvK0FFQQkFCQYJAgkFCg0JCwkIBQMIDAQEBgYRMxEtHXIgZQ0HBQEDBgQLDQUMCgoICgEEBAQDCREhKQw8KVtVdUMECAYI",
+          "top": "CgsRERUKBwkKDQ4GCAcHBQEJAwcCBAUHCAYEBAQKEhcaGBENExcVEAoMCQoIAgMGCAUDCQUICAYGAwwMDxEKBwkPEgsMCQcNDQwNCgsKBgUFBQQFBAQDCAkQBAUJBQYFAgYBAgMIBQQEBAQEBxEHJSYkBAUFCgwGERAKDAwNDQoLDQ8UExIREA4QEhdCcmtoJg0MCwUCDggHDxMVFBccGhUVEhAUFhMUDjV9VDxrahgOCAYFCQwODwsQEhELCwUEBQYLCAYBBS9/e1B0bxoMCwwLCgwLCQoIAwUHAgMDAgYCBgkIBwcqUTlRMQQEAwMIBgkHBwYMDAcDBAQBBAYFBgMEBB4uNixCKhIGCQ0NBAUIDQsHBgYEBgUHCAgNDQ8WKzAsMA09QSsTCgcEAwQFAgoJBwIECQkODwwNDSEzLBEOFBUSFCo0DwoMBAQHCQQECQwNDhIMCwYGECYvIA8sHhEZIhMyHgYNBwgCBAsMCwkIBwQJCgsHFT5AQzEqTR9BJjcvLAsEBgkNCggEBAIEBBAICAcQDWtLWGskJ0QwPE0oMRMSCQsBAwMEAwcIBwQCAwYLMVlVDXY8Cw4xahRGIRYP",
+          "middle": "BwgCBAsMCwkIBwQJCgsHFT5AQzEqTR9BJjcvLAsEBgkNCggEBAIEBBAICAcQDWtLWGskJ0QwPE0oMRMSCQsBAwMEAwcIBwQCAwYLMVlVDXY8Cw4xahRGIRYPCQcFCAIECAQBAgIHBwkZWGMbQ0ldHFRZMy8/PRgKEA0NBgQIBwwLCwwEAgEsdihcOQ46YE80KjkyTyMEBAYFBgUIBwMCAwYJCAQ+X05YNB0lEwsaQD1JGxUECQgFBggKDQsNDA0LBgVAMFgSPQ4REBsPOk07Xw0OCQ0RFBETDA0NCAYCBBJcLVwRbUsuGwsPZgtJRjwJExUWEg8NCQkJCgcGC0J/QHcdMlhRa2BhWR9QfzwIDgkIBggJCwUKDQsJCV1ugU4SBQoXLko1FQxEC0gWAgQHAwQDBAQFBgkNCxdMNA8ZAhUSCzhOHScvUzAQAwQBCQQGCQwTEQ4ICSAOKhIcIBgZN2RBPRopLxYICQsCDRQWFBYMDAcEHTRHISwUMBQRK4IOSwkJFQoDFBcZGhsWDg0JDA8WQGdTPj0NJi0fHnkbPgsEBwUIDQwRCgkJCQsPCwwXXD0sMkAhGjEeDWIrMwgKDAkJ",
+          "bottom": "AwQBCQQGCQwTEQ4ICSAOKhIcIBgZN2RBPRopLxYICQsCDRQWFBYMDAcEHTRHISwUMBQRK4IOSwkJFQoDFBcZGhsWDg0JDA8WQGdTPj0NJi0fHnkbPgsEBwUIDQwRCgkJCQsPCwwXXD0sMkAhGjEeDWIrMwgKDAkJBgECAwMECgwEBAMIO24aRj4WAywzDE5DGQMFCwgLAgsJCgYICAEGAQMBDUxbSyIJDSQsESs5AQEDAgIBCQYCBAkEBAgCAgUBAw8yFgoGAQ4sITAmBAQEBQgIEBQQFhQVFhIQEg0PDQ0GBgILBgsMCw4RBggCBQUFDQ0PDRASFBUWGBwWFBANCwYFEBAoPE0yBgMIBAYECw0PDgkFAQABBAQHBAMCCAcHEBBQRy5eHgQGCAQHBQcGAhEPDxEREA4IAwEEBQIIEiE9aw1QNAQHBwQDDhYYGBAKBgICAwUJDAUHBgYICjA/YydDNwIBBwkMFA0ICQIEBQUEBwQGBAoHCQYGKTkvK0FFQQkFCQYJAgkFCg0JCwkIBQMIDAQEBgYRMxEtHXIgZQ0HBQEDBgQLDQUMCgoICgEEBAQDCREhKQw8KVtVdUMECAYI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 32.454188,
+          "top": 19.624898,
+          "middle": 28.36588,
+          "bottom": 43.814244,
+          "effectiveRatio": 0.599472
+        },
+        "extendable": false,
+        "sha256": "54a6b8c12321cb4fd2a46672959b7e4e35477b7eed738642cbd7fbe5366394e3"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "원 Commons/Flickr 개별 저작자·라이선스를 확인했다. 원사진의 통상 세로크롭/축소 및 문자·그라데이션 추가를 변경사항으로 공개 metadata에 기록한다. 생성·복원·AI 확대는 사용하지 않았다.",
+      "author": "D. Benjamin Miller",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:51:45.194Z",
+      "sceneGroup": "friedl-cin-20250720-outfield-ball-glove",
+      "description": "TJ 프리들이 C모자·Reds 경기 유니폼을 입고 외야에서 공과 글러브를 각각 양손에 든 2025년7월20일 전체 프레임 자료. API제공3840 표준 축소본을 정상 검사한 정확 바이트다. 모자와 얼굴·양손·공·글러브 모두 unsigned 최종에서 보존된다. 2026현재 같은 CIN 산하 루이빌 소속임을 별도로 확인했고 현재 메이저 로스터 확정으로 표시하지 않는다.",
+      "visualReview": "TJ 프리들이 C모자·Reds 경기 유니폼을 입고 외야에서 공과 글러브를 각각 양손에 든 2025년7월20일 전체 프레임 자료. API제공3840 표준 축소본을 정상 검사한 정확 바이트다. 모자와 얼굴·양손·공·글러브 모두 unsigned 최종에서 보존된다. 2026현재 같은 CIN 산하 루이빌 소속임을 별도로 확인했고 현재 메이저 로스터 확정으로 표시하지 않는다.",
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "actualCurrentClubUniformArchive",
+      "currentTeamArchiveContextReason": "현재Louisville416/parentCIN113동일조직.2025CIN유니폼자료임을날짜표기.",
+      "strictNativeCoverScale": 0.5269320843091335,
+      "completeNativeMarker": true,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "sourceSha256": "54a6b8c12321cb4fd2a46672959b7e4e35477b7eed738642cbd7fbe5366394e3",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/TJ_Friedl_in_the_outfield%2C_July_20%2C_2025_%281%29.jpg/3840px-TJ_Friedl_in_the_outfield%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/TJ_Friedl_in_the_outfield%2C_July_20%2C_2025_%281%29.jpg/3840px-TJ_Friedl_in_the_outfield%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceMirror": {
+        "commit": "c1ed3c0336bb4605b402aa1f7d8110037db3a958",
+        "relative": "source-originals/2026-11-07-reds-option-decisions2027-v1",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/TJ_Friedl_in_the_outfield%2C_July_20%2C_2025_%281%29.jpg/3840px-TJ_Friedl_in_the_outfield%2C_July_20%2C_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@c1ed3c0336bb4605b402aa1f7d8110037db3a958/source-originals/2026-11-07-reds-option-decisions2027-v1/attribution.json"
+      },
+      "fit": "cover"
+    }
+  ]
+}
