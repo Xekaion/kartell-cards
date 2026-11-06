@@ -1,0 +1,1042 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "밀워키, 콘트레라스\n2027년 옵션 행사",
+  "issueKey": "mlb-20261102-brewers-william-contreras-2027-club-option-exercised",
+  "checkedAt": "2026-11-06T15:23:55.598Z",
+  "sourceUrl": "https://www.mlb.com/amp/news/brewers-pick-up-william-contreras-option-extend-jake-bauers-qualifying-offer.html",
+  "corroboratingUrls": [
+    "https://www.fox6now.com/news/brewers-roster-moves-contreras-bauers",
+    "https://statsapi.mlb.com/api/v1/people/661388/stats?stats=season&group=hitting&season=2026"
+  ],
+  "sourceRoles": {
+    "primaryContractDecision": "FOX6 Nov2 actual roster announcement; MLB article only corroborates same option exercise fact within25word budget.",
+    "seasonStatistics": "Official MLB StatsAPI actual2026 personal season totals for four currentMIL players, fresh fetched.",
+    "photoRights": "Per-file Commons CC, exact author/license/date/changes in cc-attribution-v2.json"
+  },
+  "rightsEvidence": "각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:William_Contreras_2_61824.jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.\n각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:William_Contreras_1_61824.jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.\n각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.\n각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg의 저작자 IanStone20165와 CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.\n각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:Yelich_1_61824.jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.",
+  "photos": [
+    {
+      "title": "File:William Contreras 2 61824.jpg",
+      "id": 149521500,
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/William_Contreras_2_61824.jpg/3840px-William_Contreras_2_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:William_Contreras_2_61824.jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 07:36:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "William Contreras 2 61824",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "William Contreras|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "William Contreras on the basepaths between first and second.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:52:08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:18:29.363Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1500388,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9099614322412573,
+        "entropy": 5.8023530589898655,
+        "effectiveDetailRatio": 0.486194,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "0f0b050727070707",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgMCBAMEBgQEBAUFBwkEBgYGCQ0KBwcKCgYHCQUEBQQGBgIEAwECBAQBAwEDAQMEAgEJCwcGCgoJCQsJAwMDBgUFAwMDBAcHBwcFAwUHCgkGAgUCAgACBAUGBAEAAQEEAwEBAQEEAwQECQYEBgkJCQYFBAcIBQQDBgIBAgIBAwMAAQMDBAEGGAoCBAAFAgQBBgUBAwMDBgYAAQMDAgACAQEEBAItgSUVAgYDBAEBAAcIAwEBAwIFBAQEAgQEAQMDBCV+DZBEFgEDAQICAgIEBwcDAQICBgYBAgMEBQECDRA3yIQbQAMCAAECAgIDAgQGAQEBAgUGAgABAQQBBxRYcS+MRQcBAQEBAgICAwYBAQIBAQECBQICBAMEBhBOcLOzjFEJAQEBAgICAwMFBAIAAQMDAwMDAwMDAwEin8JaRaxHCQEBAgEBAgEEBAIDAgEDAwIEBAEDAgRMhEsoJ0eVOwsAAgICAwICBwkFBAQEBAMCAwMEBgc6hj93ORo7gUEJAwIEAgEDCAsKCAgLCQgHBgYECAgVVmU+YVNfL4QyBAQDBAMCCggJCwoMDQ4ODAoJCQoNElwWC1Via0VrEwcFAQQGCgYJCQgGBwsNDg0OCgcWcCJaX0xkTx5xJwsNCgYHBAkLCQkFCQgHCgcHBgNhUWBwLjJIDQJASQkKDg0IBgkJCAkLCQQFAwgIBxdkOyl6ayg8ERFfMQkJCQsNCQYEAQIDBQIHCQcJDQktdmNGSn0HJWBACQQGCAcJBQMBAgIGCQcKDxkcEg0VSUtpZDE9U1QGAgQAAwICBwICAgQICAcHCwsYHAwNEEhFWC1SZBcFCQUICAgJCwoEAwUGBAICBAYJBQ4PEzpNLx5WMwQEAgMEAgMDCw4MCQYEBgQCAgUKDggGBS1eTglWPwQFBQUHBgcIBgcLDQwPCgMDAQIFCgwOV30pTyRSQQkDAwEEBAUHBAMEBggICgkDAgIEBQdIUCOOO1c/RBUNCgcGBAMEBQMEBgIFBAUHBgQEBAcKSVlMXW81VQ4KDgwJCgsNAgQFBgYHBQQDBwgIAgMHDhkkK2QQVhQHBgQCAgUFAwMBAAMDBgoLCAQCBQUHBAonOosOZSQHCAgEAgIIBgcHBQUFBAQDBQUIBQMDAgYeiz1SXjsKCAgHBQMDCgwODAwMDw4PEAwJCAMFBQdDNnxyUhAQDgwLCQoMCAkMDAsNEREREhAQDQ4PDwgTSzkXAQsCBAIBAwMFBAIBBAQGBgkFBQkLCgoMDg0OBgQEBwoGBAgGBQIBAwUHBQQEBAQDAgMCBgUEBwkKCgoLCQkCBQwNCwwLBgYEBAQFBQYEAgMDAgIBAgMFBgYGBgIFBgUAAwUFBAEBAQIDBAUFBQQGBgUEBAQFAwIGBQIEAwUDBAMBAwMDAgABAwEDAgQGBAcIBwcKCAgGAgQCAQYFAwYCBAQEBQQDAwUCAwMCBAMCBAQEBgUEBQYGBQkOCwkKBQQEBQcICAUFBwgJBggGBAQGAQEDAg0DDQQJDAUJ",
+          "top": "AgMCBAMEBgQEBAUFBwkEBgYGCQ0KBwcKCgYHCQUEBQQGBgIEAwECBAQBAwEDAQMEAgEJCwcGCgoJCQsJAwMDBgUFAwMDBAcHBwcFAwUHCgkGAgUCAgACBAUGBAEAAQEEAwEBAQEEAwQECQYEBgkJCQYFBAcIBQQDBgIBAgIBAwMAAQMDBAEGGAoCBAAFAgQBBgUBAwMDBgYAAQMDAgACAQEEBAItgSUVAgYDBAEBAAcIAwEBAwIFBAQEAgQEAQMDBCV+DZBEFgEDAQICAgIEBwcDAQICBgYBAgMEBQECDRA3yIQbQAMCAAECAgIDAgQGAQEBAgUGAgABAQQBBxRYcS+MRQcBAQEBAgICAwYBAQIBAQECBQICBAMEBhBOcLOzjFEJAQEBAgICAwMFBAIAAQMDAwMDAwMDAwEin8JaRaxHCQEBAgEBAgEEBAIDAgEDAwIEBAEDAgRMhEsoJ0eVOwsAAgICAwICBwkFBAQEBAMCAwMEBgc6hj93ORo7gUEJAwIEAgEDCAsKCAgLCQgHBgYECAgVVmU+YVNfL4QyBAQDBAMCCggJCwoMDQ4ODAoJCQoNElwWC1Via0VrEwcFAQQG",
+          "middle": "BwkFBAQEBAMCAwMEBgc6hj93ORo7gUEJAwIEAgEDCAsKCAgLCQgHBgYECAgVVmU+YVNfL4QyBAQDBAMCCggJCwoMDQ4ODAoJCQoNElwWC1Via0VrEwcFAQQGCgYJCQgGBwsNDg0OCgcWcCJaX0xkTx5xJwsNCgYHBAkLCQkFCQgHCgcHBgNhUWBwLjJIDQJASQkKDg0IBgkJCAkLCQQFAwgIBxdkOyl6ayg8ERFfMQkJCQsNCQYEAQIDBQIHCQcJDQktdmNGSn0HJWBACQQGCAcJBQMBAgIGCQcKDxkcEg0VSUtpZDE9U1QGAgQAAwICBwICAgQICAcHCwsYHAwNEEhFWC1SZBcFCQUICAgJCwoEAwUGBAICBAYJBQ4PEzpNLx5WMwQEAgMEAgMDCw4MCQYEBgQCAgUKDggGBS1eTglWPwQFBQUHBgcIBgcLDQwPCgMDAQIFCgwOV30pTyRSQQkDAwEEBAUHBAMEBggICgkDAgIEBQdIUCOOO1c/RBUNCgcGBAMEBQMEBgIFBAUHBgQEBAcKSVlMXW81VQ4KDgwJCgsNAgQFBgYHBQQDBwgIAgMHDhkkK2QQVhQHBgQCAgUF",
+          "bottom": "BgcLDQwPCgMDAQIFCgwOV30pTyRSQQkDAwEEBAUHBAMEBggICgkDAgIEBQdIUCOOO1c/RBUNCgcGBAMEBQMEBgIFBAUHBgQEBAcKSVlMXW81VQ4KDgwJCgsNAgQFBgYHBQQDBwgIAgMHDhkkK2QQVhQHBgQCAgUFAwMBAAMDBgoLCAQCBQUHBAonOosOZSQHCAgEAgIIBgcHBQUFBAQDBQUIBQMDAgYeiz1SXjsKCAgHBQMDCgwODAwMDw4PEAwJCAMFBQdDNnxyUhAQDgwLCQoMCAkMDAsNEREREhAQDQ4PDwgTSzkXAQsCBAIBAwMFBAIBBAQGBgkFBQkLCgoMDg0OBgQEBwoGBAgGBQIBAwUHBQQEBAQDAgMCBgUEBwkKCgoLCQkCBQwNCwwLBgYEBAQFBQYEAgMDAgIBAgMFBgYGBgIFBgUAAwUFBAEBAQIDBAUFBQQGBgUEBAQFAwIGBQIEAwUDBAMBAwMDAgABAwEDAgQGBAcIBwcKCAgGAgQCAQYFAwYCBAQEBQQDAwUCAwMCBAMCBAQEBgUEBQYGBQkOCwkKBQQEBQcICAUFBwgJBggGBAQGAQEDAg0DDQQJDAUJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 11.321236,
+          "top": 9.767081,
+          "middle": 13.768008,
+          "bottom": 12.180292,
+          "effectiveRatio": 0.486194
+        },
+        "extendable": true,
+        "sha256": "a749316abbcbbc574059a0d5c882188510633e853de6c30144b611c90c3f774e"
+      },
+      "strictPassed": true,
+      "width": 3840,
+      "height": 2560,
+      "rawWidth": 3840,
+      "rawHeight": 2560,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "0f0b050727070707",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AgMCBAMEBgQEBAUFBwkEBgYGCQ0KBwcKCgYHCQUEBQQGBgIEAwECBAQBAwEDAQMEAgEJCwcGCgoJCQsJAwMDBgUFAwMDBAcHBwcFAwUHCgkGAgUCAgACBAUGBAEAAQEEAwEBAQEEAwQECQYEBgkJCQYFBAcIBQQDBgIBAgIBAwMAAQMDBAEGGAoCBAAFAgQBBgUBAwMDBgYAAQMDAgACAQEEBAItgSUVAgYDBAEBAAcIAwEBAwIFBAQEAgQEAQMDBCV+DZBEFgEDAQICAgIEBwcDAQICBgYBAgMEBQECDRA3yIQbQAMCAAECAgIDAgQGAQEBAgUGAgABAQQBBxRYcS+MRQcBAQEBAgICAwYBAQIBAQECBQICBAMEBhBOcLOzjFEJAQEBAgICAwMFBAIAAQMDAwMDAwMDAwEin8JaRaxHCQEBAgEBAgEEBAIDAgEDAwIEBAEDAgRMhEsoJ0eVOwsAAgICAwICBwkFBAQEBAMCAwMEBgc6hj93ORo7gUEJAwIEAgEDCAsKCAgLCQgHBgYECAgVVmU+YVNfL4QyBAQDBAMCCggJCwoMDQ4ODAoJCQoNElwWC1Via0VrEwcFAQQGCgYJCQgGBwsNDg0OCgcWcCJaX0xkTx5xJwsNCgYHBAkLCQkFCQgHCgcHBgNhUWBwLjJIDQJASQkKDg0IBgkJCAkLCQQFAwgIBxdkOyl6ayg8ERFfMQkJCQsNCQYEAQIDBQIHCQcJDQktdmNGSn0HJWBACQQGCAcJBQMBAgIGCQcKDxkcEg0VSUtpZDE9U1QGAgQAAwICBwICAgQICAcHCwsYHAwNEEhFWC1SZBcFCQUICAgJCwoEAwUGBAICBAYJBQ4PEzpNLx5WMwQEAgMEAgMDCw4MCQYEBgQCAgUKDggGBS1eTglWPwQFBQUHBgcIBgcLDQwPCgMDAQIFCgwOV30pTyRSQQkDAwEEBAUHBAMEBggICgkDAgIEBQdIUCOOO1c/RBUNCgcGBAMEBQMEBgIFBAUHBgQEBAcKSVlMXW81VQ4KDgwJCgsNAgQFBgYHBQQDBwgIAgMHDhkkK2QQVhQHBgQCAgUFAwMBAAMDBgoLCAQCBQUHBAonOosOZSQHCAgEAgIIBgcHBQUFBAQDBQUIBQMDAgYeiz1SXjsKCAgHBQMDCgwODAwMDw4PEAwJCAMFBQdDNnxyUhAQDgwLCQoMCAkMDAsNEREREhAQDQ4PDwgTSzkXAQsCBAIBAwMFBAIBBAQGBgkFBQkLCgoMDg0OBgQEBwoGBAgGBQIBAwUHBQQEBAQDAgMCBgUEBwkKCgoLCQkCBQwNCwwLBgYEBAQFBQYEAgMDAgIBAgMFBgYGBgIFBgUAAwUFBAEBAQIDBAUFBQQGBgUEBAQFAwIGBQIEAwUDBAMBAwMDAgABAwEDAgQGBAcIBwcKCAgGAgQCAQYFAwYCBAQEBQQDAwUCAwMCBAMCBAQEBgUEBQYGBQkOCwkKBQQEBQcICAUFBwgJBggGBAQGAQEDAg0DDQQJDAUJ",
+        "top": "AgMCBAMEBgQEBAUFBwkEBgYGCQ0KBwcKCgYHCQUEBQQGBgIEAwECBAQBAwEDAQMEAgEJCwcGCgoJCQsJAwMDBgUFAwMDBAcHBwcFAwUHCgkGAgUCAgACBAUGBAEAAQEEAwEBAQEEAwQECQYEBgkJCQYFBAcIBQQDBgIBAgIBAwMAAQMDBAEGGAoCBAAFAgQBBgUBAwMDBgYAAQMDAgACAQEEBAItgSUVAgYDBAEBAAcIAwEBAwIFBAQEAgQEAQMDBCV+DZBEFgEDAQICAgIEBwcDAQICBgYBAgMEBQECDRA3yIQbQAMCAAECAgIDAgQGAQEBAgUGAgABAQQBBxRYcS+MRQcBAQEBAgICAwYBAQIBAQECBQICBAMEBhBOcLOzjFEJAQEBAgICAwMFBAIAAQMDAwMDAwMDAwEin8JaRaxHCQEBAgEBAgEEBAIDAgEDAwIEBAEDAgRMhEsoJ0eVOwsAAgICAwICBwkFBAQEBAMCAwMEBgc6hj93ORo7gUEJAwIEAgEDCAsKCAgLCQgHBgYECAgVVmU+YVNfL4QyBAQDBAMCCggJCwoMDQ4ODAoJCQoNElwWC1Via0VrEwcFAQQG",
+        "middle": "BwkFBAQEBAMCAwMEBgc6hj93ORo7gUEJAwIEAgEDCAsKCAgLCQgHBgYECAgVVmU+YVNfL4QyBAQDBAMCCggJCwoMDQ4ODAoJCQoNElwWC1Via0VrEwcFAQQGCgYJCQgGBwsNDg0OCgcWcCJaX0xkTx5xJwsNCgYHBAkLCQkFCQgHCgcHBgNhUWBwLjJIDQJASQkKDg0IBgkJCAkLCQQFAwgIBxdkOyl6ayg8ERFfMQkJCQsNCQYEAQIDBQIHCQcJDQktdmNGSn0HJWBACQQGCAcJBQMBAgIGCQcKDxkcEg0VSUtpZDE9U1QGAgQAAwICBwICAgQICAcHCwsYHAwNEEhFWC1SZBcFCQUICAgJCwoEAwUGBAICBAYJBQ4PEzpNLx5WMwQEAgMEAgMDCw4MCQYEBgQCAgUKDggGBS1eTglWPwQFBQUHBgcIBgcLDQwPCgMDAQIFCgwOV30pTyRSQQkDAwEEBAUHBAMEBggICgkDAgIEBQdIUCOOO1c/RBUNCgcGBAMEBQMEBgIFBAUHBgQEBAcKSVlMXW81VQ4KDgwJCgsNAgQFBgYHBQQDBwgIAgMHDhkkK2QQVhQHBgQCAgUF",
+        "bottom": "BgcLDQwPCgMDAQIFCgwOV30pTyRSQQkDAwEEBAUHBAMEBggICgkDAgIEBQdIUCOOO1c/RBUNCgcGBAMEBQMEBgIFBAUHBgQEBAcKSVlMXW81VQ4KDgwJCgsNAgQFBgYHBQQDBwgIAgMHDhkkK2QQVhQHBgQCAgUFAwMBAAMDBgoLCAQCBQUHBAonOosOZSQHCAgEAgIIBgcHBQUFBAQDBQUIBQMDAgYeiz1SXjsKCAgHBQMDCgwODAwMDw4PEAwJCAMFBQdDNnxyUhAQDgwLCQoMCAkMDAsNEREREhAQDQ4PDwgTSzkXAQsCBAIBAwMFBAIBBAQGBgkFBQkLCgoMDg0OBgQEBwoGBAgGBQIBAwUHBQQEBAQDAgMCBgUEBwkKCgoLCQkCBQwNCwwLBgYEBAQFBQYEAgMDAgIBAgMFBgYGBgIFBgUAAwUFBAEBAQIDBAUFBQQGBgUEBAQFAwIGBQIEAwUDBAMBAwMDAgABAwEDAgQGBAcIBwcKCAgGAgQCAQYFAwYCBAQEBQQDAwUCAwMCBAMCBAQEBgUEBQYGBQkOCwkKBQQEBQcICAUFBwgJBggGBAQGAQEDAg0DDQQJDAUJ"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 11.321236,
+        "top": 9.767081,
+        "middle": 13.768008,
+        "bottom": 12.180292,
+        "effectiveRatio": 0.486194
+      },
+      "effectiveDetailRatio": 0.486194,
+      "effectiveSharpness": 0.9099614322413436,
+      "entropy": 5.8023530589898655,
+      "extendable": true,
+      "sha256": "a749316abbcbbc574059a0d5c882188510633e853de6c30144b611c90c3f774e",
+      "bytes": 1500388,
+      "header": {
+        "width": 3840,
+        "height": 2560,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:06:51.238Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1500388,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9099614322413436,
+        "entropy": 5.8023530589898655,
+        "effectiveDetailRatio": 0.486194,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "scale": 0.52734375,
+      "completeNativeMarker": true,
+      "remoteInspectorSameSha": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\brewers-contreras-option2027\\photos\\149521500.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/William_Contreras_2_61824.jpg/3840px-William_Contreras_2_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/William_Contreras_2_61824.jpg/3840px-William_Contreras_2_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "a749316abbcbbc574059a0d5c882188510633e853de6c30144b611c90c3f774e",
+      "rightsStatus": "approved",
+      "rightsEvidence": "각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:William_Contreras_2_61824.jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.",
+      "author": "Sewageboy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "photoDate": "2024-06-18",
+      "imageCredit": "Sewageboy · 2024-06-18 자료 · CC BY-SA 4.0",
+      "description": "현 밀워키 유니폼을 입은 콘트레라스가 1·2루 사이에서 주루를 준비하는 전신. 얼굴·헬멧·손·발을 실제 원본에서 확인했다. 타격 사진과 별도 장면이며 2024.06.18 동소속 자료다.",
+      "visualReview": "현 밀워키 유니폼을 입은 콘트레라스가 1·2루 사이에서 주루를 준비하는 전신. 얼굴·헬멧·손·발을 실제 원본에서 확인했다. 타격 사진과 별도 장면이며 2024.06.18 동소속 자료다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:15:03.212Z",
+      "sceneGroup": "contreras-20240618-basepath",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "current_milwaukee_brewers_uniform_archive",
+      "currentTeamArchiveContextReason": "현 밀워키 유니폼을 입은 콘트레라스가 1·2루 사이 누상에서 준비하는 전신 사진. 타격 사진과 별도 장면이며 얼굴·헬멧·손·발을 직접 열어 확인했다. 2024년 동소속 자료사진이다.",
+      "strictNativeCoverScale": 0.52734375,
+      "remoteInspectorVerified": true,
+      "fit": "cover"
+    },
+    {
+      "title": "File:William Contreras 1 61824.jpg",
+      "id": 149521497,
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/William_Contreras_1_61824.jpg/3840px-William_Contreras_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:William_Contreras_1_61824.jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 07:36:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "William Contreras 1 61824",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan Baker (umpire)|William Contreras|Logan O’Hoppe|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "William Contreras in the batter's box in Anaheim.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:48:41",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:18:29.704Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1924422,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.341706059440512,
+        "entropy": 6.804513774696261,
+        "effectiveDetailRatio": 0.546385,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "0a1215252b232200",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgEICgIJCAMEBgYRDAECAgQHBAIDBgMBAwQJDgYCBAcIBQkIAAYBBxANAgMBAwcEAQMEAQIBAQYMBgQBCAcCBgcCBgQMEA0CAwMCAwYEAgQBAQcECQsJBAIDCQEDAQIDBBAQDQYDAQMCBAYEBAUEBQUNEgoEAgIBAgQBAQIGDgwIAgMEAAQDAwUFAwMHBQsSCgUEAgIFAgMEBAgNDQcCAgEDCAcDBQUEAgEEBw0JBgIEAwAMAgMDCAsNBwICAQEICAYUAkEDAQIECwcFBAMGAggLBAIHCw0IAwEDAgQLCCZeZjNBBgULCQMBAwMBBAkIAwgJCQYBAQUDAwkDIWVOmnRBExELBAQDAwYHBwQEBwYHBwULCAUDBAcBI2pBOmw7SwYCBQIFBQQHCQQHCgoIBgYnGAYKCQcFPGZxJTZ+JDoGBAYBAgYIBQYDDQsICCcsSUs0FQVMaUB6M3E7OTkWCAIDBAUMCggJCAMFBhpFLwU2PSFZESM2Ux0+KhofBAQIBhIIDhImBwYIBxImQFBAPwxROg4QMEchUwMuEAwKFAUKCCIqDAwWHBUKCAgVCyNJUC5AVRseDjApMR4WBQYIGhUUBw4QDxkdJiosNTJ1dXaHZFwmGBMeGSgXBgkEBw4TLjAtKyMfFQoLKZBGOEwjG09LEQkhJhgEAgYLDQQHBwcQDhERFRMVJSJ+ZVFVSV88BDESEAEBAgsRCgUGFRUOBQQDChAOEyI2WGtxaiYcHwVKGQYbORABAgMFDgkHBgQEBgIEAgMrMxwoNUMfNEADRwdAGTIJBgYKBgoNEQ0DBwQFAwYyKwQQSCgRFTVVHRgkNhYEBgsVGhUOCQwHBgYDAw0lKAIwQwsHDA8nMAgOEwMCCRUEEAkWEBgjBgYhPCAZKg1CMQUKBQUQHwgGAgsIEQlLCQcNPDswIhdMP0RNNSVkJBUNCwgcHRQLBgsHCUVBGwYkOBcwMFNdMHpHMm9JBgkEDAsPMAwKDAQLJTYvNjEvIxkhJFEdJX5MTjMQIxgfGg8MJBw3GQ0SDjxMQ4N1Jx9CK09qeVQ4FA0VFw0KDRIXGVURPicMBxUfay3BZkVQK0JaUTIXDwYYDQIGBQQXICNZKBYKEA4eGh9MbB0IFDdAPyYIFR4UAQICBwUJISsOEgoFCgsJgUp7Rw4NN1I1YwQaHBYHCQYHCw4VGBQXIikeBxskaFBFJSwcHmJ5MRUWDAgGBAEHAQsNCBhZcXaAZigOOGIwMAYYCg0ULCAWBQQKDAoLGBEXK2FqPDNNhYVIk1FZORwSJCEhDgsHAQIJBBMXCwkGIlV2enVmUUhNeD10Vi4YIQ8QEBUNDgoMExIFCwoICxlASlJYVTkSMXuLMC8sCgMKEg8DCgsHBQoWGRoUGB0UDAgHBQMMSHspGicXChARDQQPDQINExkNBg0IAwcIBQIDBQoFMSIZHB8dFAgJFRcQBQQJDxElKSggHxkPDQkJBgMIIWI1Ix0ICAwKCQsKCRARFiIVDAQGCQsIBwoJCwgK",
+          "top": "AgEICgIJCAMEBgYRDAECAgQHBAIDBgMBAwQJDgYCBAcIBQkIAAYBBxANAgMBAwcEAQMEAQIBAQYMBgQBCAcCBgcCBgQMEA0CAwMCAwYEAgQBAQcECQsJBAIDCQEDAQIDBBAQDQYDAQMCBAYEBAUEBQUNEgoEAgIBAgQBAQIGDgwIAgMEAAQDAwUFAwMHBQsSCgUEAgIFAgMEBAgNDQcCAgEDCAcDBQUEAgEEBw0JBgIEAwAMAgMDCAsNBwICAQEICAYUAkEDAQIECwcFBAMGAggLBAIHCw0IAwEDAgQLCCZeZjNBBgULCQMBAwMBBAkIAwgJCQYBAQUDAwkDIWVOmnRBExELBAQDAwYHBwQEBwYHBwULCAUDBAcBI2pBOmw7SwYCBQIFBQQHCQQHCgoIBgYnGAYKCQcFPGZxJTZ+JDoGBAYBAgYIBQYDDQsICCcsSUs0FQVMaUB6M3E7OTkWCAIDBAUMCggJCAMFBhpFLwU2PSFZESM2Ux0+KhofBAQIBhIIDhImBwYIBxImQFBAPwxROg4QMEchUwMuEAwKFAUKCCIqDAwWHBUKCAgVCyNJUC5AVRseDjApMR4WBQYIGhUU",
+          "middle": "CAMFBhpFLwU2PSFZESM2Ux0+KhofBAQIBhIIDhImBwYIBxImQFBAPwxROg4QMEchUwMuEAwKFAUKCCIqDAwWHBUKCAgVCyNJUC5AVRseDjApMR4WBQYIGhUUBw4QDxkdJiosNTJ1dXaHZFwmGBMeGSgXBgkEBw4TLjAtKyMfFQoLKZBGOEwjG09LEQkhJhgEAgYLDQQHBwcQDhERFRMVJSJ+ZVFVSV88BDESEAEBAgsRCgUGFRUOBQQDChAOEyI2WGtxaiYcHwVKGQYbORABAgMFDgkHBgQEBgIEAgMrMxwoNUMfNEADRwdAGTIJBgYKBgoNEQ0DBwQFAwYyKwQQSCgRFTVVHRgkNhYEBgsVGhUOCQwHBgYDAw0lKAIwQwsHDA8nMAgOEwMCCRUEEAkWEBgjBgYhPCAZKg1CMQUKBQUQHwgGAgsIEQlLCQcNPDswIhdMP0RNNSVkJBUNCwgcHRQLBgsHCUVBGwYkOBcwMFNdMHpHMm9JBgkEDAsPMAwKDAQLJTYvNjEvIxkhJFEdJX5MTjMQIxgfGg8MJBw3GQ0SDjxMQ4N1Jx9CK09qeVQ4FA0VFw0KDRIXGVURPicMBxUf",
+          "bottom": "CQcNPDswIhdMP0RNNSVkJBUNCwgcHRQLBgsHCUVBGwYkOBcwMFNdMHpHMm9JBgkEDAsPMAwKDAQLJTYvNjEvIxkhJFEdJX5MTjMQIxgfGg8MJBw3GQ0SDjxMQ4N1Jx9CK09qeVQ4FA0VFw0KDRIXGVURPicMBxUfay3BZkVQK0JaUTIXDwYYDQIGBQQXICNZKBYKEA4eGh9MbB0IFDdAPyYIFR4UAQICBwUJISsOEgoFCgsJgUp7Rw4NN1I1YwQaHBYHCQYHCw4VGBQXIikeBxskaFBFJSwcHmJ5MRUWDAgGBAEHAQsNCBhZcXaAZigOOGIwMAYYCg0ULCAWBQQKDAoLGBEXK2FqPDNNhYVIk1FZORwSJCEhDgsHAQIJBBMXCwkGIlV2enVmUUhNeD10Vi4YIQ8QEBUNDgoMExIFCwoICxlASlJYVTkSMXuLMC8sCgMKEg8DCgsHBQoWGRoUGB0UDAgHBQMMSHspGicXChARDQQPDQINExkNBg0IAwcIBQIDBQoFMSIZHB8dFAgJFRcQBQQJDxElKSggHxkPDQkJBgMIIWI1Ix0ICAwKCQsKCRARFiIVDAQGCQsIBwoJCwgK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.438069,
+          "top": 14.721679,
+          "middle": 24.349208,
+          "bottom": 29.691674,
+          "effectiveRatio": 0.546385
+        },
+        "extendable": false,
+        "sha256": "b5795394c98b4c3884e81fefdf661541a5606e53281034ef6517e263b2f9f1e9"
+      },
+      "strictPassed": true,
+      "width": 3840,
+      "height": 2560,
+      "rawWidth": 3840,
+      "rawHeight": 2560,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "0a1215252b232200",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AgEICgIJCAMEBgYRDAECAgQHBAIDBgMBAwQJDgYCBAcIBQkIAAYBBxANAgMBAwcEAQMEAQIBAQYMBgQBCAcCBgcCBgQMEA0CAwMCAwYEAgQBAQcECQsJBAIDCQEDAQIDBBAQDQYDAQMCBAYEBAUEBQUNEgoEAgIBAgQBAQIGDgwIAgMEAAQDAwUFAwMHBQsSCgUEAgIFAgMEBAgNDQcCAgEDCAcDBQUEAgEEBw0JBgIEAwAMAgMDCAsNBwICAQEICAYUAkEDAQIECwcFBAMGAggLBAIHCw0IAwEDAgQLCCZeZjNBBgULCQMBAwMBBAkIAwgJCQYBAQUDAwkDIWVOmnRBExELBAQDAwYHBwQEBwYHBwULCAUDBAcBI2pBOmw7SwYCBQIFBQQHCQQHCgoIBgYnGAYKCQcFPGZxJTZ+JDoGBAYBAgYIBQYDDQsICCcsSUs0FQVMaUB6M3E7OTkWCAIDBAUMCggJCAMFBhpFLwU2PSFZESM2Ux0+KhofBAQIBhIIDhImBwYIBxImQFBAPwxROg4QMEchUwMuEAwKFAUKCCIqDAwWHBUKCAgVCyNJUC5AVRseDjApMR4WBQYIGhUUBw4QDxkdJiosNTJ1dXaHZFwmGBMeGSgXBgkEBw4TLjAtKyMfFQoLKZBGOEwjG09LEQkhJhgEAgYLDQQHBwcQDhERFRMVJSJ+ZVFVSV88BDESEAEBAgsRCgUGFRUOBQQDChAOEyI2WGtxaiYcHwVKGQYbORABAgMFDgkHBgQEBgIEAgMrMxwoNUMfNEADRwdAGTIJBgYKBgoNEQ0DBwQFAwYyKwQQSCgRFTVVHRgkNhYEBgsVGhUOCQwHBgYDAw0lKAIwQwsHDA8nMAgOEwMCCRUEEAkWEBgjBgYhPCAZKg1CMQUKBQUQHwgGAgsIEQlLCQcNPDswIhdMP0RNNSVkJBUNCwgcHRQLBgsHCUVBGwYkOBcwMFNdMHpHMm9JBgkEDAsPMAwKDAQLJTYvNjEvIxkhJFEdJX5MTjMQIxgfGg8MJBw3GQ0SDjxMQ4N1Jx9CK09qeVQ4FA0VFw0KDRIXGVURPicMBxUfay3BZkVQK0JaUTIXDwYYDQIGBQQXICNZKBYKEA4eGh9MbB0IFDdAPyYIFR4UAQICBwUJISsOEgoFCgsJgUp7Rw4NN1I1YwQaHBYHCQYHCw4VGBQXIikeBxskaFBFJSwcHmJ5MRUWDAgGBAEHAQsNCBhZcXaAZigOOGIwMAYYCg0ULCAWBQQKDAoLGBEXK2FqPDNNhYVIk1FZORwSJCEhDgsHAQIJBBMXCwkGIlV2enVmUUhNeD10Vi4YIQ8QEBUNDgoMExIFCwoICxlASlJYVTkSMXuLMC8sCgMKEg8DCgsHBQoWGRoUGB0UDAgHBQMMSHspGicXChARDQQPDQINExkNBg0IAwcIBQIDBQoFMSIZHB8dFAgJFRcQBQQJDxElKSggHxkPDQkJBgMIIWI1Ix0ICAwKCQsKCRARFiIVDAQGCQsIBwoJCwgK",
+        "top": "AgEICgIJCAMEBgYRDAECAgQHBAIDBgMBAwQJDgYCBAcIBQkIAAYBBxANAgMBAwcEAQMEAQIBAQYMBgQBCAcCBgcCBgQMEA0CAwMCAwYEAgQBAQcECQsJBAIDCQEDAQIDBBAQDQYDAQMCBAYEBAUEBQUNEgoEAgIBAgQBAQIGDgwIAgMEAAQDAwUFAwMHBQsSCgUEAgIFAgMEBAgNDQcCAgEDCAcDBQUEAgEEBw0JBgIEAwAMAgMDCAsNBwICAQEICAYUAkEDAQIECwcFBAMGAggLBAIHCw0IAwEDAgQLCCZeZjNBBgULCQMBAwMBBAkIAwgJCQYBAQUDAwkDIWVOmnRBExELBAQDAwYHBwQEBwYHBwULCAUDBAcBI2pBOmw7SwYCBQIFBQQHCQQHCgoIBgYnGAYKCQcFPGZxJTZ+JDoGBAYBAgYIBQYDDQsICCcsSUs0FQVMaUB6M3E7OTkWCAIDBAUMCggJCAMFBhpFLwU2PSFZESM2Ux0+KhofBAQIBhIIDhImBwYIBxImQFBAPwxROg4QMEchUwMuEAwKFAUKCCIqDAwWHBUKCAgVCyNJUC5AVRseDjApMR4WBQYIGhUU",
+        "middle": "CAMFBhpFLwU2PSFZESM2Ux0+KhofBAQIBhIIDhImBwYIBxImQFBAPwxROg4QMEchUwMuEAwKFAUKCCIqDAwWHBUKCAgVCyNJUC5AVRseDjApMR4WBQYIGhUUBw4QDxkdJiosNTJ1dXaHZFwmGBMeGSgXBgkEBw4TLjAtKyMfFQoLKZBGOEwjG09LEQkhJhgEAgYLDQQHBwcQDhERFRMVJSJ+ZVFVSV88BDESEAEBAgsRCgUGFRUOBQQDChAOEyI2WGtxaiYcHwVKGQYbORABAgMFDgkHBgQEBgIEAgMrMxwoNUMfNEADRwdAGTIJBgYKBgoNEQ0DBwQFAwYyKwQQSCgRFTVVHRgkNhYEBgsVGhUOCQwHBgYDAw0lKAIwQwsHDA8nMAgOEwMCCRUEEAkWEBgjBgYhPCAZKg1CMQUKBQUQHwgGAgsIEQlLCQcNPDswIhdMP0RNNSVkJBUNCwgcHRQLBgsHCUVBGwYkOBcwMFNdMHpHMm9JBgkEDAsPMAwKDAQLJTYvNjEvIxkhJFEdJX5MTjMQIxgfGg8MJBw3GQ0SDjxMQ4N1Jx9CK09qeVQ4FA0VFw0KDRIXGVURPicMBxUf",
+        "bottom": "CQcNPDswIhdMP0RNNSVkJBUNCwgcHRQLBgsHCUVBGwYkOBcwMFNdMHpHMm9JBgkEDAsPMAwKDAQLJTYvNjEvIxkhJFEdJX5MTjMQIxgfGg8MJBw3GQ0SDjxMQ4N1Jx9CK09qeVQ4FA0VFw0KDRIXGVURPicMBxUfay3BZkVQK0JaUTIXDwYYDQIGBQQXICNZKBYKEA4eGh9MbB0IFDdAPyYIFR4UAQICBwUJISsOEgoFCgsJgUp7Rw4NN1I1YwQaHBYHCQYHCw4VGBQXIikeBxskaFBFJSwcHmJ5MRUWDAgGBAEHAQsNCBhZcXaAZigOOGIwMAYYCg0ULCAWBQQKDAoLGBEXK2FqPDNNhYVIk1FZORwSJCEhDgsHAQIJBBMXCwkGIlV2enVmUUhNeD10Vi4YIQ8QEBUNDgoMExIFCwoICxlASlJYVTkSMXuLMC8sCgMKEg8DCgsHBQoWGRoUGB0UDAgHBQMMSHspGicXChARDQQPDQINExkNBg0IAwcIBQIDBQoFMSIZHB8dFAgJFRcQBQQJDxElKSggHxkPDQkJBgMIIWI1Ix0ICAwKCQsKCRARFiIVDAQGCQsIBwoJCwgK"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 22.438069,
+        "top": 14.721679,
+        "middle": 24.349208,
+        "bottom": 29.691674,
+        "effectiveRatio": 0.546385
+      },
+      "effectiveDetailRatio": 0.546385,
+      "effectiveSharpness": 1.3417060594405756,
+      "entropy": 6.804513774696261,
+      "extendable": false,
+      "sha256": "b5795394c98b4c3884e81fefdf661541a5606e53281034ef6517e263b2f9f1e9",
+      "bytes": 1924422,
+      "header": {
+        "width": 3840,
+        "height": 2560,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:06:48.777Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 1924422,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.3417060594405756,
+        "entropy": 6.804513774696261,
+        "effectiveDetailRatio": 0.546385,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "scale": 0.52734375,
+      "completeNativeMarker": true,
+      "remoteInspectorSameSha": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\brewers-contreras-option2027\\photos\\149521497.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/William_Contreras_1_61824.jpg/3840px-William_Contreras_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/William_Contreras_1_61824.jpg/3840px-William_Contreras_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "b5795394c98b4c3884e81fefdf661541a5606e53281034ef6517e263b2f9f1e9",
+      "rightsStatus": "approved",
+      "rightsEvidence": "각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:William_Contreras_1_61824.jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.",
+      "author": "Sewageboy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "photoDate": "2024-06-18",
+      "imageCredit": "Sewageboy · 2024-06-18 자료 · CC BY-SA 4.0",
+      "description": "현 밀워키 회색 유니폼 콘트레라스가 타석에서 공을 기다린다. 배경은 에인절스 포수 로건 오호피와 심판 조던 베이커다. 2024.06.18 자료이며 2026 현재 경기 사진으로 쓰지 않는다.",
+      "visualReview": "현 밀워키 회색 유니폼 콘트레라스가 타석에서 공을 기다린다. 배경은 에인절스 포수 로건 오호피와 심판 조던 베이커다. 2024.06.18 자료이며 2026 현재 경기 사진으로 쓰지 않는다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:15:03.212Z",
+      "sceneGroup": "contreras-20240618-battersbox",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "current_milwaukee_brewers_uniform_archive",
+      "currentTeamArchiveContextReason": "현 밀워키 유니폼의 콘트레라스가 타석에서 공을 기다리는 장면. 에인절스 포수 로건 오호피와 심판 조던 베이커가 배경에 보인다. 2024년 동소속 자료이며 몸동작은 1쪽 주루와 다르다.",
+      "strictNativeCoverScale": 0.52734375,
+      "remoteInspectorVerified": true,
+      "fit": "cover"
+    },
+    {
+      "id": 149539802,
+      "title": "File:Turang 2 61824 (cropped).jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 19:16:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Turang 2 61824 (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Extracted images|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)|Brice Turang",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Brice Turang looking to steal second base.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:49:33",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:18:29.798Z",
+        "width": 1112,
+        "height": 1378,
+        "bytes": 1026441,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.705146904759789,
+        "entropy": 6.733792368617287,
+        "effectiveDetailRatio": 0.45889,
+        "kind": "source",
+        "coverScale": 0.98,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1112,
+        "rawHeight": 1378,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "b541ccc7754c49d3",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK",
+          "top": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEB",
+          "middle": "AwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGggg",
+          "bottom": "AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 7.153857,
+          "top": 6.176632,
+          "middle": 6.883865,
+          "bottom": 7.905874,
+          "effectiveRatio": 0.45889
+        },
+        "extendable": false,
+        "sha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f"
+      },
+      "strictPassed": true,
+      "width": 1112,
+      "height": 1378,
+      "rawWidth": 1112,
+      "rawHeight": 1378,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "b541ccc7754c49d3",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK",
+        "top": "AwMBBQQDAwIDBAECAQMFBAEBAwUCBAcIAwEBBQQAAgEDBAcGAwQBAgQBBAIABAUFBAMFAgEGBgECBAYBAgMEAQIDBAQCAQEEAwQDAgkFBAQDBgcDAwYGAwEDAwIABAEJBAICAgQCBAYDAwIBBAMEAwQEBAMHBwQDAgMFBAktKwgGCgoDAwIEAQQBAgUEBQQJCwwGAQYCAwMCBV6HL1I3KAwPAwMBAgQFAgEEAQQEAw8JCwcFAgACT5xW0EkbSEkSDQQCAQECAgIDAQEDBQQLCAIGBgYLcU2jnC0TKVFHDwEEBAIDBAIDBQQCBQMCBAUEBA4yZyWsei9TJzBoLgQCAQEBAwEBAQIAAgYEAwUBBiQcQ4OufgcUGh9TTwoFBQEBAQEBBAEEAwIEBAUDBg0xNmlPTEtVJgpVXR4JBgcDAQIBAgMCBQQDAQIGAgkJKiIzQzJJdEKUbXFqSigJBwEBAQEBAgQDBAMEAwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEB",
+        "middle": "AwUGJSMpGyYhSGVceThbf4lnIAcEAQQCAQEEAwIECAgJSRMyOR9GMiQwYikdGkKFmE4NAgIEAwQDAgIBAQQIFE4dLEQbNThTVhgSFhwLPItsHAcBAwEEAwEBBAQECRQaPkQ2DzZoWBsZGBkkHxJjhDQGBAIEAQECBAEEAQYMEDIuOEdWUjYnKR4dFhMRSItABAoFAwMAAwMCAQYSHCItIDcRM0BAQEAkPDUPAzeLVxsEBAQEBAYBAQEHIQIxNywKHyI1SFkdD0AxLGcdf4JQCwQFBQEDAQEFGQtDGjodCBokJlpUKyFBqKypH02OVA4FBQMFBgYDEiFLST4vISwTQBGLTS2zqELctC85iTYLAwMCAwQELSgzZx4oBiIcGjBIhpWXGgtAzXUgOoAxAAMCAQIDGFZuaRUtKw8WDBghVVkfFggJf5EgEDt6AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGggg",
+        "bottom": "AwICAgIGJmeBYlFEJDcCBREdHTA+JQwVjH8eDxNUBwUGBQQGLWM3JWQ8BiksERgLKjk7Pxgdg2U0FBUjBQUDAQICQ10kLGorCQEsMR0LKCE2OxkreTcjNx0iCAMEAgINUEkSMF8iBQQDPmIrCiInMhw9ljodGgggCw0GBAUXUz0MPl4XAQUdTDtsNywSIxlkohklJRg9HBYTCgYYVjsFS1QMBhdbBz4WM0ZoQg6nhQQhERxlFxYcGAkZUDkNWUkEC2AvSTMrLj0sgDfJPw4gBk1bDAsPIhkeV0EdcTgLQlkyTi8YIENCKIWDFgwiJGwrERYqIwYiWj5Acg8ZcxA/JiAkLglEQlMdEhcOUFcMLRkiPhwpWiRgVQ1cQEM+Ky4zJDFcHycfCB0PXTIIXS9MSA45WhFhLyBHSGlLNB8LJ1gxDxkwFBIxXBoFL2d6XGFveUN3MAccSUcnHxcqMR4gDQwlQA5VOwgFbp6Be2aT7fitVyENOSsLHTkgCS1EGBIOOglZGAUDnlU9PBUxOG1ykaM5K1UaRigSB0wtNh0VRDdFCQYEEgoEKBg7anFdQE+SUDcbHxMHCUwmHhwcF1EaCQgK"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 7.153857,
+        "top": 6.176632,
+        "middle": 6.883865,
+        "bottom": 7.905874,
+        "effectiveRatio": 0.45889
+      },
+      "effectiveDetailRatio": 0.45889,
+      "effectiveSharpness": 0.705146904759773,
+      "entropy": 6.733792368617287,
+      "extendable": false,
+      "sha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f",
+      "bytes": 1026441,
+      "header": {
+        "width": 1112,
+        "height": 1378,
+        "rawWidth": 1112,
+        "rawHeight": 1378,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:12:34.604Z",
+        "width": 1112,
+        "height": 1378,
+        "bytes": 1026441,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.705146904759773,
+        "entropy": 6.733792368617287,
+        "effectiveDetailRatio": 0.45889,
+        "kind": "source",
+        "coverScale": 0.98,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "scale": 0.9796806966618288,
+      "completeNativeMarker": true,
+      "remoteInspectorSameSha": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\brewers-contreras-option2027\\photos\\149539802-v2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Turang_2_61824_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceSha256": "e9f9f08e0f6cd19daec27789114bbe1d6e948a649d05ad60c0459b4b7d9de88f",
+      "author": "Sewageboy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "photoDate": "2024-06-18",
+      "imageCredit": "Sewageboy · 2024-06-18 자료 · CC BY-SA 4.0",
+      "rightsStatus": "approved",
+      "rightsEvidence": "각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:Turang_2_61824_(cropped).jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.",
+      "description": "밀워키2번 투랑이 누상에서 허리를 숙여 주루를 준비한다. MKE 헬멧과 MILWAUKEE 유니폼·소매 MKE를 확인했다. 앞 상대 선수는 뒷모습만 보여 임의 이름을 붙이지 않는다.",
+      "visualReview": "밀워키2번 투랑이 누상에서 허리를 숙여 주루를 준비한다. MKE 헬멧과 MILWAUKEE 유니폼·소매 MKE를 확인했다. 앞 상대 선수는 뒷모습만 보여 임의 이름을 붙이지 않는다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:15:03.212Z",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "current_milwaukee_brewers_uniform_archive",
+      "sceneGroup": "turang-20240618-basepath",
+      "strictNativeCoverScale": 0.9796806966618288,
+      "remoteInspectorVerified": true,
+      "fit": "cover"
+    },
+    {
+      "id": 170465736,
+      "title": "File:Jackson Chourio.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-21 18:58:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jackson Chourio",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Baseball players from the Dominican Republic in 2025|United States photographs taken on 2025-06-07|City Connect uniforms|Light blue sports uniforms|Major League Baseball players in 2025|Jackson Chourio|Light blue clothing in the United States|Men wearing light blue sports jerseys|Milwaukee Brewers vs San Diego Padres (June 7, 2025)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photo of Jackson Chourio taken 06/07/25",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "7 June 2025, 21:14:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:IanStone20165&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:IanStone20165 (page does not exist)\">IanStone20165</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:18:30.055Z",
+        "width": 1920,
+        "height": 1700,
+        "bytes": 738975,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.5629124772575884,
+        "entropy": 6.916856853837089,
+        "effectiveDetailRatio": 0.662698,
+        "kind": "source",
+        "coverScale": 0.794,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1920,
+        "rawHeight": 1700,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "2f0b38693133c0c0",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI",
+          "top": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggE",
+          "middle": "BAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQE",
+          "bottom": "CjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 22.364024,
+          "top": 19.153258,
+          "middle": 21.210755,
+          "bottom": 25.847882,
+          "effectiveRatio": 0.662698
+        },
+        "extendable": false,
+        "sha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e"
+      },
+      "strictPassed": true,
+      "width": 1920,
+      "height": 1700,
+      "rawWidth": 1920,
+      "rawHeight": 1700,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "2f0b38693133c0c0",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI",
+        "top": "AgEDAgECAQIBAQIDAQQDAQMBAQEBBAIBAQEBAQEEAgMDAgIDAgEBAQIEAwIEAQEBAgQDBQICAgIBAAIEAgIDAwEDBAMCAwQEBAoiSUhEQycRAQQEAgQCAgIEAwQEAgEDAgQFBQEKO2BdTEZBUGFXOg0ABAQGBQUFBAUDAQIDAgIEAw1shTwZJSomKgwaZGYWAwQFBQYFAwMDAgACAgIBCnJ5GmA4KC5APEBgQ055FQUDAwQFBQQBAgIBAQEFSGsnWTwWFiAoMVM/bnM6XwoEAgMEBAYDAQEAAQQWWR48KyEGBxsiLBMvHFRRLyQGBAQFBAQEAgIAAgMoUQskGhQYLz4tICwOGRYoFiAGBAYFBQUEBAQDAgRHR3psdY+Xm5GLmoRxg3pxUCkEAwQCBAUFBAQDBBAZy9WoppRvVUQ+P0NGY4SyuoRFCQcEBAQEBAMEBCmpqgoZEyIZFxgYGyEjHA0rXYW3VQwFBAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggE",
+        "middle": "BAUGBAQGKH+RKIJGQ0w9GQwFCQkPGSUkJRpPjjMJAwYEAQEEU5YvdTQmEShLSDMPBgoLExBEj42oVg0EBQYFBQcHVo8HZyAaLTMvP0M7GxwfHCZycmI/DggEBAUFBAQDN5QVVRUtOxYeLC0eCgkPCwpJPwQJBQMCAwMBAAIDJYMwVDQ7BhILJExPGg8mDh5jSgMGBgQBAwMEAwMEIWhDYiAVMB0dDg9IRi8sSIhwHgMDBwYGBQYFBAQEBUhbNBQfOC5IMT1MJhNBYDklGQUGBwcFBgYCAgQEAg5MAy5QRzA8REBJEi1DKXtKHwUGBgYCBAQCAwECBAwTKUNgORoiLhYJKSELLkBnIQUCBgYDAwQEAw8kMQ08QEpOKyAeHR8wQiteKFdnDQQECQcDBQUUPk4+I148P0JHJRcKEjpOIh4XLV4vBwQGBgMCCjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQE",
+        "bottom": "CjNwYC4oJzZsKyRHKgICBjVBCB0lEEUUBgMEBwUERl0sHTEoLiovbyQXQx8HBidcLwUdKz8HCgoKCgsIDSNGPi8oJh4JRIouHTMgEAc0XEE7WywJCQkIBwkIFgUSIh0VGA0XIGCZKhAoKE6HW1qNawwIBwUGBAQEFR0dEgsKFQwaEApvlR0JPbytnpZtHA4RDw0PDQoJTV0vEBQZEQgREQ0bYo4glo4WHxwNCg4OEA8QDw8NQhk0DxsjFgQIFhAmEkRLbSsRCgkFBAQEAQMGBgQEHDIfGC4dKS0KFxMMTiMGRzcICgoLCwsNDAwMCwkGGBYpPisTGDEqHBE0En9QXlYBBQQBAQEEAwQDBAEFGBI+NyAJJhoYFC0kMh6DEGQOBAUHBwYIBgUEBgcTBjE6Bh4CLS8sHBI9PwtWIk4NAgIBAgIEBQgbMkllE0AaIiEnID1BLiRZXyFmGEELAwYHCgkUNU9jbGZQJUAFKwU1Ei4qUnBDFw5cITcMBwgNBEhua1g+JRQFOC8hIRwyDBoWDGqJFQ0xNy4HDAkPboBBHQsEBgUBQgssGC8nBBwkQzdSSBYsOh4NDglhhhYJBQMBAgEI"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 22.364024,
+        "top": 19.153258,
+        "middle": 21.210755,
+        "bottom": 25.847882,
+        "effectiveRatio": 0.662698
+      },
+      "effectiveDetailRatio": 0.662698,
+      "effectiveSharpness": 2.562912477257743,
+      "entropy": 6.916856853837089,
+      "extendable": false,
+      "sha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e",
+      "bytes": 738975,
+      "header": {
+        "width": 1920,
+        "height": 1700,
+        "rawWidth": 1920,
+        "rawHeight": 1700,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:12:35.980Z",
+        "width": 1920,
+        "height": 1700,
+        "bytes": 738975,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 2.562912477257743,
+        "entropy": 6.916856853837089,
+        "effectiveDetailRatio": 0.662698,
+        "kind": "source",
+        "coverScale": 0.794,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "scale": 0.7941176470588235,
+      "completeNativeMarker": true,
+      "remoteInspectorSameSha": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\brewers-contreras-option2027\\photos\\170465736-v2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Jackson_Chourio.jpg/1920px-Jackson_Chourio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "2f6e72a1fe94459c54e9767c62e1cebf6ea2a7c67dbc88fa0efe37a49170b59e",
+      "author": "IanStone20165",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "photoDate": "2025-06-07",
+      "imageCredit": "IanStone20165 · 2025-06-07 자료 · CC BY 4.0",
+      "rightsStatus": "approved",
+      "rightsEvidence": "각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:Jackson_Chourio.jpg의 저작자 IanStone20165와 CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.",
+      "description": "밀워키 모자·MKE 글씨·동소속 유니폼을 입은 잭슨 추리오의 미소 짓는 얼굴과 상체. 보호모가 아닌 모자를 쓰고 앉아 있는 별도 현장 사진이다. 얼굴의 그늘은 원본 한계다.",
+      "visualReview": "밀워키 모자·MKE 글씨·동소속 유니폼을 입은 잭슨 추리오의 미소 짓는 얼굴과 상체. 보호모가 아닌 모자를 쓰고 앉아 있는 별도 현장 사진이다. 얼굴의 그늘은 원본 한계다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:15:03.212Z",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "current_milwaukee_brewers_uniform_archive",
+      "sceneGroup": "chourio-20250607-portrait",
+      "strictNativeCoverScale": 0.7941176470588235,
+      "remoteInspectorVerified": true,
+      "fit": "cover"
+    },
+    {
+      "id": 149521502,
+      "title": "File:Yelich 1 61824.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Yelich_1_61824.jpg/3840px-Yelich_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yelich_1_61824.jpg",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-19 07:36:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Yelich 1 61824",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Christian Yelich|Logan O’Hoppe|Self-published work|Milwaukee Brewers at Los Angeles Angels (June 18, 2024)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Christian Yelich in the batter's box in Anaheim.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-06-18 04:50:45",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sewageboy\" title=\"User:Sewageboy\">Sewageboy</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:18:30.400Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 2087284,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.496428438613555,
+        "entropy": 6.64421154080037,
+        "effectiveDetailRatio": 0.573405,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "239397a72f2f071b",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "AwcIBAQEAAEBCzA0RDEDBQUCCgQXDAoFBgYCBwUEBgoFAwIDAgQCDSA+MzUIAQMCBRAKBwgEBgUECQgHCgcBAgADBAQJFRdGIzoGCwsKAwILCQYFCAgGCgsCBwUCAgMDAwwQCxFKE0UdOTUNDgUEBwoKCQgGCRNVBQQDAQECDA4BAws5GB9jTmgzDgIFDwgIBAkFFD2DAwUICAgPEAECBAQrGyhNIlBoEgopKhIHBAMMIYcTBAICAQgMBwoJBwkkEB5uRzZeRCs2Ix8EBg0NfSGNAwYNCQkJDAQCAw0nW1aBk6SWTjEKHx8JDAdsTXdKBA0BCggJCQ8THCBbhEE/TFI/RjIrJhAED05rUlgQJi80MC0wNC4kJDo1IiwwHjI4NUYjDAkLNXQoZBAJEBAMCg4JAg4NFAQ1YjpDLj06SRwRExYmZg1nFAMKKSQmJB4jJBwRGxEvMTcjMS8nGxgPGRU/CGIfAhkTCQ0PCwUJCAkDDEVoHyAIGRcjDhwfCxoZTDEGGBUNEAoQDw8RERALN2svOg8KKDo8JB4MCBwnQQwODwgBAggJCAkHBQUEHVRlKRceKEUhJhUZFwc+GgkGBBISFA4NCwMGCA8MDxIzHgstLTMfMxguFjEmDAgEBwYLBQkIBAMCCQQDAwYFEi09LSUEPzk1NSoODwgICA4OFBEQDw8QCAgEAQgMSCNkGyY6Czs8Rg0SDAYJCAcJGxwYGBMQCQkJBw8aJSs8USw8NiNZFAkLBAYFAwQEBA8PBw0TCQoEAQgVNRUkHTM+GlAtCgkEAwMCAQAEJSMYFhEJBAIHBAIYKAwSM0MpNDsNKiUQAQMDAAILBwUHBAQGAQUEBAENGxoiGDExLyQjHkI4FAYDAw0LDQkGAgEBBAgJCQkiGSQLAxUwDyUgMiE3Jg0MCwoBDQgPDgsIBwUICCAFLgkIDSIzIEQiLD0uEQkIBwUGAwwPCQcHCA0MCQcSG0Zpe2otGFMSCwoGDA8RICwyCwoGCggHCAUUFBUdQId3ZohEDVwxGRQRFRslLyQUBQEFBQQLExcSBwghcn94e2dAGjU5Iy4lHxoYCA4KGxEODhIWEhANBwoOLXRzdH9OGh4TCQ4WCQUDDRYdDQ4RCQsMBwoYGxABGyIhDAosIxcYDA4JCwIRGQsPDg4EAwUMGhkPTjMoKxoQDAMkHBgaCgoKDQ0VEAQIGA4DAQsVDRxDNx4LIyAQDQwtIjIgFhQdGAsQCgIGCg0MEw8YKyodV0lGNA0UFhNCJENOBAgEFBYRFRkkDgcJDhcZFAURFw8PHhwWDQJAVB5COwkfFxckMTg6BAsLCA0OFBsaHh0lFgkRJiw2bGl1KxwsQUM6Kh0LCwMMFRYYGRINBgQFChEOChUnUFkrFw4LBwUJCw0OEhgWDwkKDAQBBwULDxIRJSwZBg0OEhETFhISEQkDCAQGBwIGBAUKDgsODBATEQgMDQcHDQUCBgYJBQcFFRQPEQwMExEVEgwHCwoDCgYJBwkJBgYHBAMCAwMC",
+          "top": "AwcIBAQEAAEBCzA0RDEDBQUCCgQXDAoFBgYCBwUEBgoFAwIDAgQCDSA+MzUIAQMCBRAKBwgEBgUECQgHCgcBAgADBAQJFRdGIzoGCwsKAwILCQYFCAgGCgsCBwUCAgMDAwwQCxFKE0UdOTUNDgUEBwoKCQgGCRNVBQQDAQECDA4BAws5GB9jTmgzDgIFDwgIBAkFFD2DAwUICAgPEAECBAQrGyhNIlBoEgopKhIHBAMMIYcTBAICAQgMBwoJBwkkEB5uRzZeRCs2Ix8EBg0NfSGNAwYNCQkJDAQCAw0nW1aBk6SWTjEKHx8JDAdsTXdKBA0BCggJCQ8THCBbhEE/TFI/RjIrJhAED05rUlgQJi80MC0wNC4kJDo1IiwwHjI4NUYjDAkLNXQoZBAJEBAMCg4JAg4NFAQ1YjpDLj06SRwRExYmZg1nFAMKKSQmJB4jJBwRGxEvMTcjMS8nGxgPGRU/CGIfAhkTCQ0PCwUJCAkDDEVoHyAIGRcjDhwfCxoZTDEGGBUNEAoQDw8RERALN2svOg8KKDo8JB4MCBwnQQwODwgBAggJCAkHBQUEHVRlKRceKEUhJhUZFwc+GgkGBBIS",
+          "middle": "CQ0PCwUJCAkDDEVoHyAIGRcjDhwfCxoZTDEGGBUNEAoQDw8RERALN2svOg8KKDo8JB4MCBwnQQwODwgBAggJCAkHBQUEHVRlKRceKEUhJhUZFwc+GgkGBBISFA4NCwMGCA8MDxIzHgstLTMfMxguFjEmDAgEBwYLBQkIBAMCCQQDAwYFEi09LSUEPzk1NSoODwgICA4OFBEQDw8QCAgEAQgMSCNkGyY6Czs8Rg0SDAYJCAcJGxwYGBMQCQkJBw8aJSs8USw8NiNZFAkLBAYFAwQEBA8PBw0TCQoEAQgVNRUkHTM+GlAtCgkEAwMCAQAEJSMYFhEJBAIHBAIYKAwSM0MpNDsNKiUQAQMDAAILBwUHBAQGAQUEBAENGxoiGDExLyQjHkI4FAYDAw0LDQkGAgEBBAgJCQkiGSQLAxUwDyUgMiE3Jg0MCwoBDQgPDgsIBwUICCAFLgkIDSIzIEQiLD0uEQkIBwUGAwwPCQcHCA0MCQcSG0Zpe2otGFMSCwoGDA8RICwyCwoGCggHCAUUFBUdQId3ZohEDVwxGRQRFRslLyQUBQEFBQQLExcSBwghcn94e2dAGjU5Iy4lHxoYCA4K",
+          "bottom": "DQgPDgsIBwUICCAFLgkIDSIzIEQiLD0uEQkIBwUGAwwPCQcHCA0MCQcSG0Zpe2otGFMSCwoGDA8RICwyCwoGCggHCAUUFBUdQId3ZohEDVwxGRQRFRslLyQUBQEFBQQLExcSBwghcn94e2dAGjU5Iy4lHxoYCA4KGxEODhIWEhANBwoOLXRzdH9OGh4TCQ4WCQUDDRYdDQ4RCQsMBwoYGxABGyIhDAosIxcYDA4JCwIRGQsPDg4EAwUMGhkPTjMoKxoQDAMkHBgaCgoKDQ0VEAQIGA4DAQsVDRxDNx4LIyAQDQwtIjIgFhQdGAsQCgIGCg0MEw8YKyodV0lGNA0UFhNCJENOBAgEFBYRFRkkDgcJDhcZFAURFw8PHhwWDQJAVB5COwkfFxckMTg6BAsLCA0OFBsaHh0lFgkRJiw2bGl1KxwsQUM6Kh0LCwMMFRYYGRINBgQFChEOChUnUFkrFw4LBwUJCw0OEhgWDwkKDAQBBwULDxIRJSwZBg0OEhETFhISEQkDCAQGBwIGBAUKDgsODBATEQgMDQcHDQUCBgYJBQcFFRQPEQwMExEVEgwHCwoDCgYJBwkJBgYHBAMCAwMC"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 23.64168,
+          "top": 17.427646,
+          "middle": 25.027552,
+          "bottom": 28.683772,
+          "effectiveRatio": 0.573405
+        },
+        "extendable": false,
+        "sha256": "381e744fc66ce1d77bd21a6106eef5b31eb816d353b1cc0c739a5b7913799e6e"
+      },
+      "strictPassed": true,
+      "width": 3840,
+      "height": 2560,
+      "rawWidth": 3840,
+      "rawHeight": 2560,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "239397a72f2f071b",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "AwcIBAQEAAEBCzA0RDEDBQUCCgQXDAoFBgYCBwUEBgoFAwIDAgQCDSA+MzUIAQMCBRAKBwgEBgUECQgHCgcBAgADBAQJFRdGIzoGCwsKAwILCQYFCAgGCgsCBwUCAgMDAwwQCxFKE0UdOTUNDgUEBwoKCQgGCRNVBQQDAQECDA4BAws5GB9jTmgzDgIFDwgIBAkFFD2DAwUICAgPEAECBAQrGyhNIlBoEgopKhIHBAMMIYcTBAICAQgMBwoJBwkkEB5uRzZeRCs2Ix8EBg0NfSGNAwYNCQkJDAQCAw0nW1aBk6SWTjEKHx8JDAdsTXdKBA0BCggJCQ8THCBbhEE/TFI/RjIrJhAED05rUlgQJi80MC0wNC4kJDo1IiwwHjI4NUYjDAkLNXQoZBAJEBAMCg4JAg4NFAQ1YjpDLj06SRwRExYmZg1nFAMKKSQmJB4jJBwRGxEvMTcjMS8nGxgPGRU/CGIfAhkTCQ0PCwUJCAkDDEVoHyAIGRcjDhwfCxoZTDEGGBUNEAoQDw8RERALN2svOg8KKDo8JB4MCBwnQQwODwgBAggJCAkHBQUEHVRlKRceKEUhJhUZFwc+GgkGBBISFA4NCwMGCA8MDxIzHgstLTMfMxguFjEmDAgEBwYLBQkIBAMCCQQDAwYFEi09LSUEPzk1NSoODwgICA4OFBEQDw8QCAgEAQgMSCNkGyY6Czs8Rg0SDAYJCAcJGxwYGBMQCQkJBw8aJSs8USw8NiNZFAkLBAYFAwQEBA8PBw0TCQoEAQgVNRUkHTM+GlAtCgkEAwMCAQAEJSMYFhEJBAIHBAIYKAwSM0MpNDsNKiUQAQMDAAILBwUHBAQGAQUEBAENGxoiGDExLyQjHkI4FAYDAw0LDQkGAgEBBAgJCQkiGSQLAxUwDyUgMiE3Jg0MCwoBDQgPDgsIBwUICCAFLgkIDSIzIEQiLD0uEQkIBwUGAwwPCQcHCA0MCQcSG0Zpe2otGFMSCwoGDA8RICwyCwoGCggHCAUUFBUdQId3ZohEDVwxGRQRFRslLyQUBQEFBQQLExcSBwghcn94e2dAGjU5Iy4lHxoYCA4KGxEODhIWEhANBwoOLXRzdH9OGh4TCQ4WCQUDDRYdDQ4RCQsMBwoYGxABGyIhDAosIxcYDA4JCwIRGQsPDg4EAwUMGhkPTjMoKxoQDAMkHBgaCgoKDQ0VEAQIGA4DAQsVDRxDNx4LIyAQDQwtIjIgFhQdGAsQCgIGCg0MEw8YKyodV0lGNA0UFhNCJENOBAgEFBYRFRkkDgcJDhcZFAURFw8PHhwWDQJAVB5COwkfFxckMTg6BAsLCA0OFBsaHh0lFgkRJiw2bGl1KxwsQUM6Kh0LCwMMFRYYGRINBgQFChEOChUnUFkrFw4LBwUJCw0OEhgWDwkKDAQBBwULDxIRJSwZBg0OEhETFhISEQkDCAQGBwIGBAUKDgsODBATEQgMDQcHDQUCBgYJBQcFFRQPEQwMExEVEgwHCwoDCgYJBwkJBgYHBAMCAwMC",
+        "top": "AwcIBAQEAAEBCzA0RDEDBQUCCgQXDAoFBgYCBwUEBgoFAwIDAgQCDSA+MzUIAQMCBRAKBwgEBgUECQgHCgcBAgADBAQJFRdGIzoGCwsKAwILCQYFCAgGCgsCBwUCAgMDAwwQCxFKE0UdOTUNDgUEBwoKCQgGCRNVBQQDAQECDA4BAws5GB9jTmgzDgIFDwgIBAkFFD2DAwUICAgPEAECBAQrGyhNIlBoEgopKhIHBAMMIYcTBAICAQgMBwoJBwkkEB5uRzZeRCs2Ix8EBg0NfSGNAwYNCQkJDAQCAw0nW1aBk6SWTjEKHx8JDAdsTXdKBA0BCggJCQ8THCBbhEE/TFI/RjIrJhAED05rUlgQJi80MC0wNC4kJDo1IiwwHjI4NUYjDAkLNXQoZBAJEBAMCg4JAg4NFAQ1YjpDLj06SRwRExYmZg1nFAMKKSQmJB4jJBwRGxEvMTcjMS8nGxgPGRU/CGIfAhkTCQ0PCwUJCAkDDEVoHyAIGRcjDhwfCxoZTDEGGBUNEAoQDw8RERALN2svOg8KKDo8JB4MCBwnQQwODwgBAggJCAkHBQUEHVRlKRceKEUhJhUZFwc+GgkGBBIS",
+        "middle": "CQ0PCwUJCAkDDEVoHyAIGRcjDhwfCxoZTDEGGBUNEAoQDw8RERALN2svOg8KKDo8JB4MCBwnQQwODwgBAggJCAkHBQUEHVRlKRceKEUhJhUZFwc+GgkGBBISFA4NCwMGCA8MDxIzHgstLTMfMxguFjEmDAgEBwYLBQkIBAMCCQQDAwYFEi09LSUEPzk1NSoODwgICA4OFBEQDw8QCAgEAQgMSCNkGyY6Czs8Rg0SDAYJCAcJGxwYGBMQCQkJBw8aJSs8USw8NiNZFAkLBAYFAwQEBA8PBw0TCQoEAQgVNRUkHTM+GlAtCgkEAwMCAQAEJSMYFhEJBAIHBAIYKAwSM0MpNDsNKiUQAQMDAAILBwUHBAQGAQUEBAENGxoiGDExLyQjHkI4FAYDAw0LDQkGAgEBBAgJCQkiGSQLAxUwDyUgMiE3Jg0MCwoBDQgPDgsIBwUICCAFLgkIDSIzIEQiLD0uEQkIBwUGAwwPCQcHCA0MCQcSG0Zpe2otGFMSCwoGDA8RICwyCwoGCggHCAUUFBUdQId3ZohEDVwxGRQRFRslLyQUBQEFBQQLExcSBwghcn94e2dAGjU5Iy4lHxoYCA4K",
+        "bottom": "DQgPDgsIBwUICCAFLgkIDSIzIEQiLD0uEQkIBwUGAwwPCQcHCA0MCQcSG0Zpe2otGFMSCwoGDA8RICwyCwoGCggHCAUUFBUdQId3ZohEDVwxGRQRFRslLyQUBQEFBQQLExcSBwghcn94e2dAGjU5Iy4lHxoYCA4KGxEODhIWEhANBwoOLXRzdH9OGh4TCQ4WCQUDDRYdDQ4RCQsMBwoYGxABGyIhDAosIxcYDA4JCwIRGQsPDg4EAwUMGhkPTjMoKxoQDAMkHBgaCgoKDQ0VEAQIGA4DAQsVDRxDNx4LIyAQDQwtIjIgFhQdGAsQCgIGCg0MEw8YKyodV0lGNA0UFhNCJENOBAgEFBYRFRkkDgcJDhcZFAURFw8PHhwWDQJAVB5COwkfFxckMTg6BAsLCA0OFBsaHh0lFgkRJiw2bGl1KxwsQUM6Kh0LCwMMFRYYGRINBgQFChEOChUnUFkrFw4LBwUJCw0OEhgWDwkKDAQBBwULDxIRJSwZBg0OEhETFhISEQkDCAQGBwIGBAUKDgsODBATEQgMDQcHDQUCBgYJBQcFFRQPEQwMExEVEgwHCwoDCgYJBwkJBgYHBAMCAwMC"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 23.64168,
+        "top": 17.427646,
+        "middle": 25.027552,
+        "bottom": 28.683772,
+        "effectiveRatio": 0.573405
+      },
+      "effectiveDetailRatio": 0.573405,
+      "effectiveSharpness": 1.4964284386136362,
+      "entropy": 6.64421154080037,
+      "extendable": false,
+      "sha256": "381e744fc66ce1d77bd21a6106eef5b31eb816d353b1cc0c739a5b7913799e6e",
+      "bytes": 2087284,
+      "header": {
+        "width": 3840,
+        "height": 2560,
+        "rawWidth": 3840,
+        "rawHeight": 2560,
+        "orientation": 1,
+        "format": "jpeg",
+        "mimeType": "image/jpeg"
+      },
+      "localQuality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T15:13:43.838Z",
+        "width": 3840,
+        "height": 2560,
+        "bytes": 2087284,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.4964284386136362,
+        "entropy": 6.64421154080037,
+        "effectiveDetailRatio": 0.573405,
+        "kind": "source",
+        "coverScale": 0.527,
+        "targetWidth": 1080,
+        "targetHeight": 1350
+      },
+      "scale": 0.52734375,
+      "completeNativeMarker": true,
+      "remoteInspectorSameSha": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\brewers-contreras-option2027\\photos\\149521502-v4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Yelich_1_61824.jpg/3840px-Yelich_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Yelich_1_61824.jpg/3840px-Yelich_1_61824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceSha256": "381e744fc66ce1d77bd21a6106eef5b31eb816d353b1cc0c739a5b7913799e6e",
+      "author": "Sewageboy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "photoDate": "2024-06-18",
+      "imageCredit": "Sewageboy · 2024-06-18 자료 · CC BY-SA 4.0",
+      "rightsStatus": "approved",
+      "rightsEvidence": "각 원 Commons 파일 https://commons.wikimedia.org/wiki/File:Yelich_1_61824.jpg의 저작자 Sewageboy와 CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)를 개별 확인했다. 원본은 변경하지 않고 통상 카드 크롭·축소·그라데이션·한글 문안 변경을 공개 metadata에 표시한다. BY-SA 사진의 파생 카드에는 동일/호환 라이선스를 유지한다. 국내 언론사 사용권을 미국 매체에 포괄 전용하지 않는다.",
+      "description": "밀워키22번 옐리치가 타석에서 배트를 세운 뒷모습. YELICH 이름과 등번호·동소속 회색 유니폼·MKE 헬멧을 실제 확인했다. 얼굴은 보이지 않으며 신원은 원 Commons 설명과 이름으로 확인했다.",
+      "visualReview": "밀워키22번 옐리치가 타석에서 배트를 세운 뒷모습. YELICH 이름과 등번호·동소속 회색 유니폼·MKE 헬멧을 실제 확인했다. 얼굴은 보이지 않으며 신원은 원 Commons 설명과 이름으로 확인했다.",
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T15:15:03.212Z",
+      "currentTeamUniformVerified": true,
+      "currentTeamIdentityAndArchiveContextVerified": true,
+      "uniformApplicability": "current_milwaukee_brewers_uniform_archive",
+      "sceneGroup": "yelich-20240618-battersbox-back",
+      "strictNativeCoverScale": 0.52734375,
+      "remoteInspectorVerified": true,
+      "fit": "cover"
+    }
+  ]
+}
