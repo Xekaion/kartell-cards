@@ -1,0 +1,678 @@
+{
+  "channelId": "kbo-daily",
+  "handle": "@baseball_kartell",
+  "headline": "사이영상 최종 후보 6명\n수상자는 12일 발표",
+  "issueKey": "mlb-20261102-cy-young-award-both-league-six-finalists-announcement",
+  "checkedAt": "2026-11-06T17:03:10.943Z",
+  "sourceUrl": "https://bbwaa.com/2026-award-winners-to-be-announced-on-mlb-network/",
+  "corroboratingUrls": [
+    "https://bbwaa.com/voting-faq/",
+    "https://v.isplus.com/article/view/isp202611030116",
+    "https://statsapi.mlb.com/api/v1/people/694819/stats?stats=season&group=pitching&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/519242/stats?stats=season&group=pitching&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/650911/stats?stats=season&group=pitching&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/656302/stats?stats=season&group=pitching&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/800048/stats?stats=season&group=pitching&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/693645/stats?stats=season&group=pitching&season=2026",
+    "https://statsapi.mlb.com/api/v1/people/660271/stats?stats=season&group=pitching&season=2026"
+  ],
+  "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.\n2026-10-15 사용자 확인: 국내 언론사와 야구 관련인 사진 사용 계약 및 사용료 지급 완료. 이 실제 스포츠조선 AP연합뉴스 원본에만 해당 권한을 연결하며 미국 전체 매체 허가로 확대하지 않는다.\nU.S. Coast Guard official-duty photograph by Petty Officer Third Class Michael Lauofo, VIRIN260516-G-NB558-8929. Actual DVIDS page explicitly Public Domain. Public2000w publisher display downsample is directly embedded in that page; restricted download endpoint not used. Not CC0 or a domestic-contract claim.",
+  "photos": [
+    {
+      "title": "File:Chris Sale warming up for the Braves in Seattle, 2024.jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/source-1.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Sale_warming_up_for_the_Braves_in_Seattle,_2024.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\cy-young-finalists-six\\photos\\native-2.jpg",
+      "httpMime": "image/jpeg",
+      "sha256": "684bf606546618efb67a4762040849130342a291bac572c8ebd01a0440ad5598",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:03:01.898Z",
+        "width": 2067,
+        "height": 2906,
+        "bytes": 6265268,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.374990130048593,
+        "entropy": 7.350126061796345,
+        "effectiveDetailRatio": 0.575822,
+        "kind": "source",
+        "coverScale": 0.522,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 2067,
+        "rawHeight": 2906,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "ab59c6c204326b17",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "CQQMAwoCEAQNBQkICwcFCQcMBw0HCQUNMy4HRVETDAMFAgUCBwYJBQcGCRMJAgkCCgoOCAcIAyQwCzZCBAcJAQcEDAYIAQsFJBkcFgYDBwYTGwoPGwsQGwwYGxQCDAYQGhIGEg0eFhgBDxIQEBAbGxIRJSQGHx4THwcJDRAWGhQeCRA0bBYQBB8JIQYeICQXCiIdERsZCgsGCxUfChANBDNxHnkqIhgVAx0YDBVDPQ4EDhEuFjo8OBsWJig3NSUtWw0vHBAkKztHaEBZR0pBST5eck8maH2EeXpZQ0FAGR8iHCQsOS8zOSMRFl17cHh+SEIGS0Y9PTMvLjQfMFNEEUBnQQsQIQcOHEcXCwo3Z1siZGxscHJNOzUjRih9NYR7kEojKxYlHEJgV1xcaFRCX2tnZmJOYWFZXEIrN3FWR69MCwsODBETEhANDg8TDw0KCgoODyZyLz0kCG5rZFacTycyExYUFBUSAAAEBAEBAgEDBjtnLFVVNjKKelMTWSgXHQcHBQocAwMEBAMCAgMDDEoyTjMnNDEPT1VmIRYuJhkRHw8xAwMEBAEDAwIBCDdVIEgwWUU2MUAlHBIMKR8sFBMoAgICAwECAgEBAQlGTiYuQBIeJCIyEgoPAxgOGyMKAQEBAwEAAQECAgMxSBM2KiImGCQNFAcGGggjAwIoAAECAwMCAwQCBAxeTUklLxQOJh4VHiAZJQocJiIoAgMDAwQCAwQEBRtxOCM5PjIgQ0NEQUtRRUZQRURJCwsNCwkIBwcECSF1LyUfJi1lQCsrKyYlHyEeHRkcXl9hZWVpamtucoaTFEECOwiSfXF1d3p8fn+AgIKGl5eZmJiWlJORjZVGJyZMHVhTjH1+enV1cnBubm1pJCMiICAeHRsXFhwwHSZDJlE4FQsKBwUFBAIBAQIABQQFBQcGBAQEAhYpCS0mOD86BAQDAwYFBAYFAgQGBAUEBQcGBwcGBxcnCzEbRDg6CwUGBQUGBwUFBAQECAYHBQYHBgQHBxUyDjoWQTMrEAQCAwECAwEBAwICBAEFBAECAQEDCTg0ODsQTw5KDQMGBwYIBwYICAkLCQcKCAkMDgsOEDATNRwTNQpFDhMTEhASERAODg4QFxUXFxMWFxcXGzUNPhUSMho3ExENDg0MDg8LDAwKBQYHCQoLDAgJFzYPOAsMOzM+LxIQEAwODRAODQsNGRoYGhocHBwfJDQdLhkZNjY3NxgXGBUXGBoYGRwcAgQBAwMBAQEGDw00BwIDDCEzFwQCAgMBAQEAAgIDEBEVFRUTEg8SJlIjFxMWIg0nHxsYGBQYFxgbGBoYEg8SDwwMCwoWXCRmKwIEFSocHwMBAgQCAQYDAwIEDQ0UFRIREg4LCU8YGBQXGAEEGxgWGRYYGBkdGhoZAgMDBgcJCQcBBAkLCAoJDAoJCgkLDA0NDg4PEQwMBAQHCQgNEA4KDw8NDQ4MCQ0NCwsMDwwJCQcIBwUHERITFRMZFxMTFRUTEA0QEA0MDQwODBEPDAoLDAkJ",
+          "top": "CQQMAwoCEAQNBQkICwcFCQcMBw0HCQUNMy4HRVETDAMFAgUCBwYJBQcGCRMJAgkCCgoOCAcIAyQwCzZCBAcJAQcEDAYIAQsFJBkcFgYDBwYTGwoPGwsQGwwYGxQCDAYQGhIGEg0eFhgBDxIQEBAbGxIRJSQGHx4THwcJDRAWGhQeCRA0bBYQBB8JIQYeICQXCiIdERsZCgsGCxUfChANBDNxHnkqIhgVAx0YDBVDPQ4EDhEuFjo8OBsWJig3NSUtWw0vHBAkKztHaEBZR0pBST5eck8maH2EeXpZQ0FAGR8iHCQsOS8zOSMRFl17cHh+SEIGS0Y9PTMvLjQfMFNEEUBnQQsQIQcOHEcXCwo3Z1siZGxscHJNOzUjRih9NYR7kEojKxYlHEJgV1xcaFRCX2tnZmJOYWFZXEIrN3FWR69MCwsODBETEhANDg8TDw0KCgoODyZyLz0kCG5rZFacTycyExYUFBUSAAAEBAEBAgEDBjtnLFVVNjKKelMTWSgXHQcHBQocAwMEBAMCAgMDDEoyTjMnNDEPT1VmIRYuJhkRHw8xAwMEBAEDAwIBCDdVIEgwWUU2MUAlHBIMKR8sFBMo",
+          "middle": "AAAEBAEBAgEDBjtnLFVVNjKKelMTWSgXHQcHBQocAwMEBAMCAgMDDEoyTjMnNDEPT1VmIRYuJhkRHw8xAwMEBAEDAwIBCDdVIEgwWUU2MUAlHBIMKR8sFBMoAgICAwECAgEBAQlGTiYuQBIeJCIyEgoPAxgOGyMKAQEBAwEAAQECAgMxSBM2KiImGCQNFAcGGggjAwIoAAECAwMCAwQCBAxeTUklLxQOJh4VHiAZJQocJiIoAgMDAwQCAwQEBRtxOCM5PjIgQ0NEQUtRRUZQRURJCwsNCwkIBwcECSF1LyUfJi1lQCsrKyYlHyEeHRkcXl9hZWVpamtucoaTFEECOwiSfXF1d3p8fn+AgIKGl5eZmJiWlJORjZVGJyZMHVhTjH1+enV1cnBubm1pJCMiICAeHRsXFhwwHSZDJlE4FQsKBwUFBAIBAQIABQQFBQcGBAQEAhYpCS0mOD86BAQDAwYFBAYFAgQGBAUEBQcGBwcGBxcnCzEbRDg6CwUGBQUGBwUFBAQECAYHBQYHBgQHBxUyDjoWQTMrEAQCAwECAwEBAwICBAEFBAECAQEDCTg0ODsQTw5KDQMGBwYIBwYICAkL",
+          "bottom": "BQQFBQcGBAQEAhYpCS0mOD86BAQDAwYFBAYFAgQGBAUEBQcGBwcGBxcnCzEbRDg6CwUGBQUGBwUFBAQECAYHBQYHBgQHBxUyDjoWQTMrEAQCAwECAwEBAwICBAEFBAECAQEDCTg0ODsQTw5KDQMGBwYIBwYICAkLCQcKCAkMDgsOEDATNRwTNQpFDhMTEhASERAODg4QFxUXFxMWFxcXGzUNPhUSMho3ExENDg0MDg8LDAwKBQYHCQoLDAgJFzYPOAsMOzM+LxIQEAwODRAODQsNGRoYGhocHBwfJDQdLhkZNjY3NxgXGBUXGBoYGRwcAgQBAwMBAQEGDw00BwIDDCEzFwQCAgMBAQEAAgIDEBEVFRUTEg8SJlIjFxMWIg0nHxsYGBQYFxgbGBoYEg8SDwwMCwoWXCRmKwIEFSocHwMBAgQCAQYDAwIEDQ0UFRIREg4LCU8YGBQXGAEEGxgWGRYYGBkdGhoZAgMDBgcJCQcBBAkLCAoJDAoJCgkLDA0NDg4PEQwMBAQHCQgNEA4KDw8NDQ4MCQ0NCwsMDwwJCQcIBwUHERITFRMZFxMTFRUTEA0QEA0MDQwODBEPDAoLDAkJ"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 24.877562,
+          "top": 23.383596,
+          "middle": 18.112286,
+          "bottom": 28.996332,
+          "effectiveRatio": 0.575822
+        },
+        "extendable": false,
+        "sha256": "684bf606546618efb67a4762040849130342a291bac572c8ebd01a0440ad5598"
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2024-09-26 20:30:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Chris Sale warming up for the Braves in Seattle, 2024",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Chris Sale|Self-published work|2024 Atlanta Braves season",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Chris Sale warming up in the outfield for the Atlanta Braves before a start on the road against the Seattle Mariners, May 1, 2024",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-01 13:19:56",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jsayre64\" title=\"User:Jsayre64\">Jsayre64</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "people": [
+        "크리스 세일"
+      ],
+      "team": "애틀랜타 브레이브스",
+      "author": "Jsayre64",
+      "photoDate": "2024-05-01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "imageCredit": "세일 2024.05.01 자료 · Jsayre64/CC BY-SA4",
+      "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.",
+      "sceneGroup": "sale-20240501-seattle-warmup",
+      "description": "현애틀랜타 회색 유니폼과 A모자 크리스 세일이 시애틀 외야에서 글러브와 공을 들고 준비한다. 정확2024자료이며 11월시상식 사진이 아니다.",
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/source-1.jpg",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:51:34.508Z",
+      "fit": "cover",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chris_Sale_warming_up_for_the_Braves_in_Seattle%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceMirror": {
+        "commit": "62d1daff6b9b85b4d335d08a40c74834e8dcdbae",
+        "relative": "source-originals/2026-11-07-cy-young-finalists-six-v1",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chris_Sale_warming_up_for_the_Braves_in_Seattle%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/attribution.json"
+      }
+    },
+    {
+      "title": "File:Jacob Misiorowski.jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/source-2.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jacob_Misiorowski.jpg",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\cy-young-finalists-six\\photos\\native-1.jpg",
+      "httpMime": "image/jpeg",
+      "sha256": "aa4d7e69a18c19bfc99735821f8877dbfd340653afa5a047c05edba2d05e2d69",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:03:02.185Z",
+        "width": 4135,
+        "height": 2865,
+        "bytes": 4542282,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 4.499479808859724,
+        "entropy": 7.80733297066763,
+        "effectiveDetailRatio": 0.551212,
+        "kind": "source",
+        "coverScale": 0.471,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 4135,
+        "rawHeight": 2865,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "3df14b0d6d161749",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "PXKHXg5co6xyg3RGTjsnRAxnbC85CBQXBQQDAwQFRA0UX0VCjDeWgSIwNSg4CXtSRDcKCxQXBwQDAgUBg4mPKhI0V3kgmzcgQzkMeitkOAsFAhodBwQCAgIBkTOCO29MWyyFHn5fMhl7Fn0zGxwTFB0bBgYBAgIDPHFvIzxUKUcMflwqK4cTijQJER0jJCQRCQ0PEA8RU2xOHjJQMidSWiY7jQuVMQ4NORUbFhMRFBMSFBkXbzk3LTA6MVVfTDOLKowRFRZDS1UeBQYGBggJGTcrYk44R0FOQUpCMYIzdCIUJRlTGlktBgcLEBNMqJ6oDmpjKSAiKh1Be0B4Hw87DRNGFFQqBgsCYYu5gzdQjlk2Ew8XFj1OWIMRCyIGMCI5FEYfDgZNj1AOODpHhyUhECkkBh1YZwsKC1Wlr1ZsWWNaU1JZbzs7QDAxP0U4ExdCQjgaN2aBueW0sr+hREgiGmlxS2xRZGFVGDIrSzohCk+bzsrRtEEgKQUwam5MTFg0cEI1Ojc0Cy4pDA0TU5tuLBkTS0scPIFKRGQ6GEFiMj4CAgMEBxMVEgseQkt5m6aGMSo7ZzgPTEUiFyELGSswMzQuFCIWFRkPFA0PDyN/VElDQxIYSmJeX1xdYWtpa2lfU008PDgJPDMLEjU1bxFzLiQuEBYMCw0GBQQBBg0NIBETFisOMWldbysoYCxLXlovPD81NzQxMS8wNC8tFxcTFCk+SlEpUTwlYkBneG9nVhABBQgHBwQGBAUHBQQCAyBPUyIsbj4bWmk2JidzWQwKDQoHCAkHCwkODgkIDRMTU2RtUwULZF4gRRpjLwYGDhILEBAOEBAQMCssMCssO2RYKyc2UHwSUkOQlyEiHyMlJicoJSYtLismLi0qIxgnT2xzkFswOAguikoeGBcWFRYYGh8cCgkKDw0NDSVLSzc5NhIsOTFIYUQGCwwHCAoHBgcSBgIHBwgHQ20hIjY6RUQpLkJSIjMLAQ0LBAIEBhERBgMIDQwjaQxGKS0/QjEqLykyEV4iFRANCw0ICAoFKSslIy06QAozODAyLTAwPyUbSklQExYeGxQQDwsMMjM1NjtsXDaJRjg1NTUvMlYnOheDZlUwDRgdJCAdFA4OGkFtLoZpGhwZHx0hGzRnSVctUWuXknFBLg4nDAsEIoQrV3sZDQsJDw0OEA85bGWOhm9BHGBRV382CAUZj0REayEVGSIpLT1ESVZhQyQLEhc7WiQUREGbP2KyTT5MUnd5eHuJiIiHg356eGNhYVhLHgxXOFl0eIlnVxlDZFlOQTUsJBMSFhEFBw4QEQ0bHhojcVweCUJ8Pi8jFxwmGBYcExMRCAgSGRQYEw4XISYkJSUTMTQnMioZFxYhJiYnKiwmHRcUEQoJBwMDCQkHBwcFPFllYTorHyAfFBgQCQYEBw8PDwkLBwYKCwoIBgcHLi8kHRAEBwYFAQMJCggECg4NCwoJDQwGCQgEAQUFTUpJQDowJyYlICMiISEbHRcXGBQUGxgZHCAcGBwe",
+          "top": "PXKHXg5co6xyg3RGTjsnRAxnbC85CBQXBQQDAwQFRA0UX0VCjDeWgSIwNSg4CXtSRDcKCxQXBwQDAgUBg4mPKhI0V3kgmzcgQzkMeitkOAsFAhodBwQCAgIBkTOCO29MWyyFHn5fMhl7Fn0zGxwTFB0bBgYBAgIDPHFvIzxUKUcMflwqK4cTijQJER0jJCQRCQ0PEA8RU2xOHjJQMidSWiY7jQuVMQ4NORUbFhMRFBMSFBkXbzk3LTA6MVVfTDOLKowRFRZDS1UeBQYGBggJGTcrYk44R0FOQUpCMYIzdCIUJRlTGlktBgcLEBNMqJ6oDmpjKSAiKh1Be0B4Hw87DRNGFFQqBgsCYYu5gzdQjlk2Ew8XFj1OWIMRCyIGMCI5FEYfDgZNj1AOODpHhyUhECkkBh1YZwsKC1Wlr1ZsWWNaU1JZbzs7QDAxP0U4ExdCQjgaN2aBueW0sr+hREgiGmlxS2xRZGFVGDIrSzohCk+bzsrRtEEgKQUwam5MTFg0cEI1Ojc0Cy4pDA0TU5tuLBkTS0scPIFKRGQ6GEFiMj4CAgMEBxMVEgseQkt5m6aGMSo7ZzgPTEUiFyELGSswMzQu",
+          "middle": "GDIrSzohCk+bzsrRtEEgKQUwam5MTFg0cEI1Ojc0Cy4pDA0TU5tuLBkTS0scPIFKRGQ6GEFiMj4CAgMEBxMVEgseQkt5m6aGMSo7ZzgPTEUiFyELGSswMzQuFCIWFRkPFA0PDyN/VElDQxIYSmJeX1xdYWtpa2lfU008PDgJPDMLEjU1bxFzLiQuEBYMCw0GBQQBBg0NIBETFisOMWldbysoYCxLXlovPD81NzQxMS8wNC8tFxcTFCk+SlEpUTwlYkBneG9nVhABBQgHBwQGBAUHBQQCAyBPUyIsbj4bWmk2JidzWQwKDQoHCAkHCwkODgkIDRMTU2RtUwULZF4gRRpjLwYGDhILEBAOEBAQMCssMCssO2RYKyc2UHwSUkOQlyEiHyMlJicoJSYtLismLi0qIxgnT2xzkFswOAguikoeGBcWFRYYGh8cCgkKDw0NDSVLSzc5NhIsOTFIYUQGCwwHCAoHBgcSBgIHBwgHQ20hIjY6RUQpLkJSIjMLAQ0LBAIEBhERBgMIDQwjaQxGKS0/QjEqLykyEV4iFRANCw0ICAoFKSslIy06QAozODAyLTAwPyUbSklQExYeGxQQDwsM",
+          "bottom": "CgkKDw0NDSVLSzc5NhIsOTFIYUQGCwwHCAoHBgcSBgIHBwgHQ20hIjY6RUQpLkJSIjMLAQ0LBAIEBhERBgMIDQwjaQxGKS0/QjEqLykyEV4iFRANCw0ICAoFKSslIy06QAozODAyLTAwPyUbSklQExYeGxQQDwsMMjM1NjtsXDaJRjg1NTUvMlYnOheDZlUwDRgdJCAdFA4OGkFtLoZpGhwZHx0hGzRnSVctUWuXknFBLg4nDAsEIoQrV3sZDQsJDw0OEA85bGWOhm9BHGBRV382CAUZj0REayEVGSIpLT1ESVZhQyQLEhc7WiQUREGbP2KyTT5MUnd5eHuJiIiHg356eGNhYVhLHgxXOFl0eIlnVxlDZFlOQTUsJBMSFhEFBw4QEQ0bHhojcVweCUJ8Pi8jFxwmGBYcExMRCAgSGRQYEw4XISYkJSUTMTQnMioZFxYhJiYnKiwmHRcUEQoJBwMDCQkHBwcFPFllYTorHyAfFBgQCQYEBw8PDwkLBwYKCwoIBgcHLi8kHRAEBwYFAQMJCggECg4NCwoJDQwGCQgEAQUFTUpJQDowJyYlICMiISEbHRcXGBQUGxgZHCAcGBwe"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 27.211083,
+          "top": 22.974283,
+          "middle": 26.600564,
+          "bottom": 31.815673,
+          "effectiveRatio": 0.551212
+        },
+        "extendable": false,
+        "sha256": "aa4d7e69a18c19bfc99735821f8877dbfd340653afa5a047c05edba2d05e2d69"
+      },
+      "metadata": {
+        "DateTime": {
+          "value": "2025-06-26 01:15:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jacob Misiorowski",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Men's baseball players from the United States|Milwaukee Brewers players|American Family Field|2002 births|Jacob (given name)|Baseball players from Missouri|People of Jackson County, Missouri|Major League Baseball pitchers|National League All-Stars|Self-published work|Baseball players from the United States in 2025|Young men of the United States in 2025|June 2025 events in the United States|June 2025 in Milwaukee, Wisconsin|United States photographs taken on 2025-06-25|Nike baseball pants|2025 sports events in Milwaukee, Wisconsin|Major League Baseball players in 2025|2025 Milwaukee Brewers season|Misiorowski (surname)|Jacob Misiorowski",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "MLB right-handed pitcher Jacob Misiorowski delivering a pitch for the Milwaukee Brewers.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "25 June 2025, 12:18:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Drovetochicago&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Drovetochicago (page does not exist)\">Drovetochicago</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "people": [
+        "제이콥 미저러우스키"
+      ],
+      "team": "밀워키 브루어스",
+      "author": "Drovetochicago",
+      "photoDate": "2025-06-25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "imageCredit": "미저러우스키 2025.06.25 자료 · Drovetochicago/CC BY-SA4",
+      "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.",
+      "sceneGroup": "misiorowski-20250625-mil-pitch",
+      "description": "현밀워키32번 미저러우스키의 실제 마운드 투구. 주로등/옆얼굴과팔·글러브를확인했다. 과거표지사용원본이므로이번본문에만사용하고새표지로재사용하지않는다.",
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/source-2.jpg",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:51:34.803Z",
+      "fit": "cover",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Jacob_Misiorowski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceMirror": {
+        "commit": "62d1daff6b9b85b4d335d08a40c74834e8dcdbae",
+        "relative": "source-originals/2026-11-07-cy-young-finalists-six-v1",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Jacob_Misiorowski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/attribution.json"
+      }
+    },
+    {
+      "name": "크리스토퍼 산체스",
+      "subject": "크리스토퍼 산체스",
+      "team": "필라델피아 필리스",
+      "sourceUrl": "https://www.sportschosun.com/article/html/2026/08/07/2026080701000428500026551_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/ext/2026-08-07/202608070100042850002655",
+      "imageCredit": "산체스 2026.08 워싱턴전 자료 · AP연합뉴스/스포츠조선",
+      "creditDisplay": "사진 · 스포츠조선 · AP연합뉴스 (2026년 8월 워싱턴전 자료사진)",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-10-16-baseball-batch7\\mlb3-story\\photos\\sanchez-washington.jpg",
+      "photoDate": "2026-08",
+      "photoDateLabel": "2026년 8월 워싱턴전 자료사진",
+      "checkedAt": "2026-10-15T21:05:12.373Z",
+      "context": "8월 7일 한국시간 워싱턴전 산체스 투구. 첫 이미지의 기사 캡션에 경기와 인물이 명시됐다. 같은 URL을 기사 말미에도 사용하며 마지막 캡션은 다승 단독 1위로 나선 산체스다.",
+      "originalCaption": "다승 단독 1위로 나선 크리스토퍼 산체스. AP연합뉴스",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:03:02.259Z",
+        "width": 1200,
+        "height": 1799,
+        "bytes": 1250098,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.6242962022564453,
+        "entropy": 7.33045912097441,
+        "effectiveDetailRatio": 0.499214,
+        "kind": "source",
+        "coverScale": 0.9,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 1200,
+        "rawHeight": 1799,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "2c6e60e2e6869213",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "PCEUGig5KSINBxEMIygRGw4eGiYoYlVpqmIaCw4ELzhYQ0wqIxYYFRAIAhklBRgRGBRObIrEcSsOBwcDDyMQHiU+JxMhIx4jMzEXFRsjBTcvSoNZERkXCDElCzkzHSJBHy05KgUMHg8WKgsfMyELBhkEBhUTb3crRT9APl9GKCgcruHtWhAEGhcUGgUvKRENCjSyulx3RhMkU0YfDiz//27T7mYgEgkTCi8qJiIaSr6Ses9QGQYSGwQQH6jGYnGRjz4/EBIQCigjEylcoBu4x0IFDwsMBxILH5RaHVlzQCg1LhsgGR0pUYeCLrpoHQ4QAgMXKD09QXaqe2jJnA4bN11ON2eniyiCsDwCARADBBwsJhoKIxJqsUyqhD8wRDxNTKFFfcqSJA4HAQsYAxwiJD09PlNgf0UjMSUjPy8pRhHevk0NCQMJCQoUAgQcGBcaGVp9VxZpUB5ETjogKsKQEAEDBw4KCQYIEAwICQkLSI9CVFZpNIdjMTVZsm0KBgQJEAwKCAoPIx0XGRVAua+AUCcormQwHkDPbxwbGRgYFA0ODQ8MFRwdGSKL0FlcsGJqdAkVHqucKh4ZHyMgHBkTBg8PFikuHDmikRwpVIhRRCAHPa9HDBAMCRs1Njk0JBgWDgwSGjuqX0lCRUU5HzIZe4g7OyIbMT0bHx9KQwkGLjUvF3KGSEMSOA02GSM2tXNFFBEXAjtRHAg1PhAEHRMyXYYpExdUNRAfIRmTeUQRKyQdNQxCNwg2PA4FAQotnXQOMiI8BxwmPmdxOTYVIwkUHCkkRQpBPwYIDQ8fTn9xcIZYTFAfVZZHOS4dChcZBigXRRI6QgwIIREyMgwsKmxPU2lXaVYbPDwTKxEZJSUrRA02Pg4JMgM/RCEdDkFmMi5fOzkEK1EaKS0jNAZPOQQ4PgkJXDtQWBMjEw1GLiJKRiILEDlHGg4WDURIFwg4PwkKQGZdMAUcHA4aEhoUNxciIBYhLyQkLiwSHR8yOxEODS4nAgcQIgwcPB4bCBYaGRYLCRQXCgwWFRcYMhoDBwQHBAYGFg09Sl8iDA4ZDAkJBQkLEAwMDBEWMRkKHBoeGRs0MgxhNmpWFwoOEw4NCw0NEREPCQgiMxIGWlhQF0AtGEFuLHJZIxAUJyEgHx8hIiAeJykuLw4HNzFSKx1nWUFKe8Q7Gis4JiIfHyAhIiIhHx8bEBYUBmarSFU/BRl9xDtGNhQwPwUEAwECAgQGAgQKAQYICp+KSSlKcI17LAUdVRciNhwDAQECAwECAQEEBAMCPOBXl5d9YDoICgQMTTUtKywGCAcJCQoLCQkMDQ4OjqWswzgLMSckICEhJEshNygfGhkYFhMSEQ0NCQUEex2ZRU1bUEJEPz0/R0ICQk4/MjUxMS4uMDEqKCIZBlkdMCQLFSMdLCsfIQcESHJoMCkkJiUlLjg1Oz5CGiUWGxYdFRATDRERChlHOgRBNw0GAwULEQUKCw4YDQwZEA0GCQwMGBcIDg8iS0dQEw0DAwQDCA8KDA4P",
+          "top": "PCEUGig5KSINBxEMIygRGw4eGiYoYlVpqmIaCw4ELzhYQ0wqIxYYFRAIAhklBRgRGBRObIrEcSsOBwcDDyMQHiU+JxMhIx4jMzEXFRsjBTcvSoNZERkXCDElCzkzHSJBHy05KgUMHg8WKgsfMyELBhkEBhUTb3crRT9APl9GKCgcruHtWhAEGhcUGgUvKRENCjSyulx3RhMkU0YfDiz//27T7mYgEgkTCi8qJiIaSr6Ses9QGQYSGwQQH6jGYnGRjz4/EBIQCigjEylcoBu4x0IFDwsMBxILH5RaHVlzQCg1LhsgGR0pUYeCLrpoHQ4QAgMXKD09QXaqe2jJnA4bN11ON2eniyiCsDwCARADBBwsJhoKIxJqsUyqhD8wRDxNTKFFfcqSJA4HAQsYAxwiJD09PlNgf0UjMSUjPy8pRhHevk0NCQMJCQoUAgQcGBcaGVp9VxZpUB5ETjogKsKQEAEDBw4KCQYIEAwICQkLSI9CVFZpNIdjMTVZsm0KBgQJEAwKCAoPIx0XGRVAua+AUCcormQwHkDPbxwbGRgYFA0ODQ8MFRwdGSKL0FlcsGJqdAkVHqucKh4ZHyMgHBkTBg8P",
+          "middle": "EAwICQkLSI9CVFZpNIdjMTVZsm0KBgQJEAwKCAoPIx0XGRVAua+AUCcormQwHkDPbxwbGRgYFA0ODQ8MFRwdGSKL0FlcsGJqdAkVHqucKh4ZHyMgHBkTBg8PFikuHDmikRwpVIhRRCAHPa9HDBAMCRs1Njk0JBgWDgwSGjuqX0lCRUU5HzIZe4g7OyIbMT0bHx9KQwkGLjUvF3KGSEMSOA02GSM2tXNFFBEXAjtRHAg1PhAEHRMyXYYpExdUNRAfIRmTeUQRKyQdNQxCNwg2PA4FAQotnXQOMiI8BxwmPmdxOTYVIwkUHCkkRQpBPwYIDQ8fTn9xcIZYTFAfVZZHOS4dChcZBigXRRI6QgwIIREyMgwsKmxPU2lXaVYbPDwTKxEZJSUrRA02Pg4JMgM/RCEdDkFmMi5fOzkEK1EaKS0jNAZPOQQ4PgkJXDtQWBMjEw1GLiJKRiILEDlHGg4WDURIFwg4PwkKQGZdMAUcHA4aEhoUNxciIBYhLyQkLiwSHR8yOxEODS4nAgcQIgwcPB4bCBYaGRYLCRQXCgwWFRcYMhoDBwQHBAYGFg09Sl8iDA4ZDAkJBQkLEAwMDBEWMRkK",
+          "bottom": "XDtQWBMjEw1GLiJKRiILEDlHGg4WDURIFwg4PwkKQGZdMAUcHA4aEhoUNxciIBYhLyQkLiwSHR8yOxEODS4nAgcQIgwcPB4bCBYaGRYLCRQXCgwWFRcYMhoDBwQHBAYGFg09Sl8iDA4ZDAkJBQkLEAwMDBEWMRkKHBoeGRs0MgxhNmpWFwoOEw4NCw0NEREPCQgiMxIGWlhQF0AtGEFuLHJZIxAUJyEgHx8hIiAeJykuLw4HNzFSKx1nWUFKe8Q7Gis4JiIfHyAhIiIhHx8bEBYUBmarSFU/BRl9xDtGNhQwPwUEAwECAgQGAgQKAQYICp+KSSlKcI17LAUdVRciNhwDAQECAwECAQEEBAMCPOBXl5d9YDoICgQMTTUtKywGCAcJCQoLCQkMDQ4OjqWswzgLMSckICEhJEshNygfGhkYFhMSEQ0NCQUEex2ZRU1bUEJEPz0/R0ICQk4/MjUxMS4uMDEqKCIZBlkdMCQLFSMdLCsfIQcESHJoMCkkJiUlLjg1Oz5CGiUWGxYdFRATDRERChlHOgRBNw0GAwULEQUKCw4YDQwZEA0GCQwMGBcIDg8iS0dQEw0DAwQDCA8KDA4P"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 19.005103,
+          "top": 15.717215,
+          "middle": 16.692982,
+          "bottom": 21.9225,
+          "effectiveRatio": 0.499214
+        },
+        "extendable": false,
+        "sha256": "d3cf97921b54a39f81d2cad62eb6c9135f79a2271f8dc99160a86c440bd7f5b3"
+      },
+      "strictPolicy": {
+        "passed": true,
+        "reasons": []
+      },
+      "sha256": "d3cf97921b54a39f81d2cad62eb6c9135f79a2271f8dc99160a86c440bd7f5b3",
+      "fit": "cover",
+      "visuallyReviewed": true,
+      "coverCropConcern": false,
+      "visualReviewNote": "원본을 개별 육안 확인했다. 기사 캡션의 인물·유니폼과 일치하며, 중앙 4:5 구도에서 얼굴과 주요 동작이 남는다. 완성 카드의 글 가림은 최종 렌더 검수 대상이다.",
+      "rightsEvidence": "2026-10-15 사용자 확인: 국내 언론사와 야구 관련인 사진 사용 계약 및 사용료 지급 완료. 이 실제 스포츠조선 AP연합뉴스 원본에만 해당 권한을 연결하며 미국 전체 매체 허가로 확대하지 않는다.",
+      "people": [
+        "크리스토퍼 산체스"
+      ],
+      "author": "AP연합뉴스 / 스포츠조선 게재",
+      "license": "User-confirmed domestic publication contract",
+      "sceneGroup": "sanchez-202608-washington-pitch",
+      "description": "파란필라델피아유니폼/버건디P모자 산체스가 공을 든 왼팔을뻗어투구하는실제워싱턴전자료. 원문명시범위8월자료로표기하고정확현지촬영일은추정하지않는다. 이전본문재사용이며표지아니다.",
+      "url": "https://www.sportschosun.com/article/html/2026/08/07/2026080701000428500026551_w.jpg",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "reviewedAt": "2026-11-06T16:51:34.881Z",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/08/07/2026080701000428500026551_w.jpg"
+    },
+    {
+      "checkedAt": "2026-11-06T16:33:02.282Z",
+      "sourceUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2605/9693844/2000w_q95.jpg",
+      "sourcePageUrl": "https://www.dvidshub.net/image/9693844/coast-guard-participates-cleveland-guardians-armed-forces-day-2026",
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-07-midnight-catchup\\research-packages\\cy-young-finalists-six\\photos\\messick-dvids-public-2000.jpg",
+      "httpMime": "image/webp",
+      "sha256": "447515c86070732ddbb71fdbd8dec37ee8c876d09f61b6bbf1ff3d052d6b2d4e",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:03:02.361Z",
+        "width": 2000,
+        "height": 1333,
+        "bytes": 375292,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "effectiveSharpness": 0.7376286146289114,
+        "entropy": 7.609502676970806,
+        "effectiveDetailRatio": 0.412523,
+        "kind": "source",
+        "coverScale": 1.013,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 2000,
+        "rawHeight": 1333,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "667232323a3a3e3c",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "ehhhIWJ4YRosSVNTWUFtPw1od19dJVQwIUZNYDQpOzMoY09pJS9CQi47aJYzmkMoclgeIQosKxolESxEGUCXLCs9W1BjBgYKRVxsDTBZSmEbNj02LCYwOTYhal0nM2RVOytYGQoJTEEGDi9CIjAoDg0QECUgFTMzLys/Gx43ICt5Iws7aB8LKRwjWj8eEgEDDREJESUYGgQFFREWEkx1PhFqNh4INBweQ0oTJQ4FCRo1NRsgERMYHg4MFC8kbCUvQCkjQDU9QBcXMyoZMEtSISFhFhcXFBkWESpeIyA3HBk7FhsfOkdLTTNgUzYNMB1TMxsSDg4YFyoJQCwbEgkiKhQjQT5LN004CCU3DTA1CgYLIhRFQU5YL1Y+Fg0qHzYwHU4yBRguNjwLKytDLzhFJDpgKzRAWkgPDDIPO0EZJTcpLzwZOCUlJylgNi4oCjYUDBVhSxETFyQ+OC8xMEMwLBBWMyQzJQOPOBoHGg04Jz5QKi1HNE4uLB8MCBsQJnFUNTA4PEaEa15bRjwWJjoQEgkdLBMPByEpNCY8ZEIKLkU1HW0+cVllcFxoQDQ7R0kRBjRIREE6VR5VLggHT1oZaEgKFQ8JLTQmjntPR1xdQ2FNRUREVi1DCAUQKk5nNgcEEBEDD3JMKI10CRhEWCMRBgcGFTwHBAsPAxofFQMLCxALBgdthrDIKQMSCg0CAgAEBg0HBQcJFhwLHBkPCAgGBggCInH66R8NBgUHBAMEBwYFCAUjHR0iExQkCw0LBREIBQY6/KkYFQkEBAMHCw0GCxsaHD0MHBIWDgYaBggVDwoPguNkRU1KMQYGFgsJDxIaURtTBh0iFBALFA0kBwYEJZmGMkJFVS8TEQILCgkOIzo6LBcVCDENJDsrOSALEVCANwcaNygFBggKDAgGVlZTJyAaGho1NCIMDCYYC0yGMyRbUSkHBAkJCxEJbFVrdgcQGR8pJB5SKwYHBi+lYmZDjSIEVToYCRIJPnpjmGoMDxIcLDdEYDkcFQhzj0cXoS1wi4R1QQs2dWonLIlOGBgeMSUgTTUiHBxImzQSnCW8REhsdzcvbVM7MGFYDiMVH0ISQ0svGRQWZEA4iWyRCSdHbTkSWVQ6SFxVNB8+GSBKGkE1KCI9cRhSYa1MEy1mby0DNmRNZXQ9bFoUOyo3HEhWamtcSQ4uTVgiQ32GOggPATNBRiUENDJTKDAgNjJecFIpFRYyLTQ9aGEpKCgGAgQPBwIJG2EaNRJBR0kfGjdEVVBASk0lNjRVgGk6BAQDAgMEQR1STQ0TNmJbJh4gIyQfOFETGAYsHnFmDAQDAAMGFDAnJUovGzpqTRAuRjsyDlY4JgoUJUM6EwEEAwQBJg0eDgYwNw5YZyslJytEViE7MhwcDVdPCQwEAAQCDCcSFxUTPD0gVF0oDAkEKDEjCwkGAk1ZDwYKBQYHIyIWM0FNCzImLjVXMQ8CAQYJAwQCE1U+AwUICAIDSIuInZeAPEEyIhIZRR4MDw0NDgoJHl05BQUHBgkB",
+          "top": "ehhhIWJ4YRosSVNTWUFtPw1od19dJVQwIUZNYDQpOzMoY09pJS9CQi47aJYzmkMoclgeIQosKxolESxEGUCXLCs9W1BjBgYKRVxsDTBZSmEbNj02LCYwOTYhal0nM2RVOytYGQoJTEEGDi9CIjAoDg0QECUgFTMzLys/Gx43ICt5Iws7aB8LKRwjWj8eEgEDDREJESUYGgQFFREWEkx1PhFqNh4INBweQ0oTJQ4FCRo1NRsgERMYHg4MFC8kbCUvQCkjQDU9QBcXMyoZMEtSISFhFhcXFBkWESpeIyA3HBk7FhsfOkdLTTNgUzYNMB1TMxsSDg4YFyoJQCwbEgkiKhQjQT5LN004CCU3DTA1CgYLIhRFQU5YL1Y+Fg0qHzYwHU4yBRguNjwLKytDLzhFJDpgKzRAWkgPDDIPO0EZJTcpLzwZOCUlJylgNi4oCjYUDBVhSxETFyQ+OC8xMEMwLBBWMyQzJQOPOBoHGg04Jz5QKi1HNE4uLB8MCBsQJnFUNTA4PEaEa15bRjwWJjoQEgkdLBMPByEpNCY8ZEIKLkU1HW0+cVllcFxoQDQ7R0kRBjRIREE6VR5VLggHT1oZaEgK",
+          "middle": "OBoHGg04Jz5QKi1HNE4uLB8MCBsQJnFUNTA4PEaEa15bRjwWJjoQEgkdLBMPByEpNCY8ZEIKLkU1HW0+cVllcFxoQDQ7R0kRBjRIREE6VR5VLggHT1oZaEgKFQ8JLTQmjntPR1xdQ2FNRUREVi1DCAUQKk5nNgcEEBEDD3JMKI10CRhEWCMRBgcGFTwHBAsPAxofFQMLCxALBgdthrDIKQMSCg0CAgAEBg0HBQcJFhwLHBkPCAgGBggCInH66R8NBgUHBAMEBwYFCAUjHR0iExQkCw0LBREIBQY6/KkYFQkEBAMHCw0GCxsaHD0MHBIWDgYaBggVDwoPguNkRU1KMQYGFgsJDxIaURtTBh0iFBALFA0kBwYEJZmGMkJFVS8TEQILCgkOIzo6LBcVCDENJDsrOSALEVCANwcaNygFBggKDAgGVlZTJyAaGho1NCIMDCYYC0yGMyRbUSkHBAkJCxEJbFVrdgcQGR8pJB5SKwYHBi+lYmZDjSIEVToYCRIJPnpjmGoMDxIcLDdEYDkcFQhzj0cXoS1wi4R1QQs2dWonLIlOGBgeMSUgTTUiHBxImzQSnCW8REhsdzcvbVM7MGFY",
+          "bottom": "Gho1NCIMDCYYC0yGMyRbUSkHBAkJCxEJbFVrdgcQGR8pJB5SKwYHBi+lYmZDjSIEVToYCRIJPnpjmGoMDxIcLDdEYDkcFQhzj0cXoS1wi4R1QQs2dWonLIlOGBgeMSUgTTUiHBxImzQSnCW8REhsdzcvbVM7MGFYDiMVH0ISQ0svGRQWZEA4iWyRCSdHbTkSWVQ6SFxVNB8+GSBKGkE1KCI9cRhSYa1MEy1mby0DNmRNZXQ9bFoUOyo3HEhWamtcSQ4uTVgiQ32GOggPATNBRiUENDJTKDAgNjJecFIpFRYyLTQ9aGEpKCgGAgQPBwIJG2EaNRJBR0kfGjdEVVBASk0lNjRVgGk6BAQDAgMEQR1STQ0TNmJbJh4gIyQfOFETGAYsHnFmDAQDAAMGFDAnJUovGzpqTRAuRjsyDlY4JgoUJUM6EwEEAwQBJg0eDgYwNw5YZyslJytEViE7MhwcDVdPCQwEAAQCDCcSFxUTPD0gVF0oDAkEKDEjCwkGAk1ZDwYKBQYHIyIWM0FNCzImLjVXMQ8CAQYJAwQCE1U+AwUICAIDSIuInZeAPEEyIhIZRR4MDw0NDgoJHl05BQUHBgkB"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 9.128409,
+          "top": 8.360759,
+          "middle": 11.365488,
+          "bottom": 7.673491,
+          "effectiveRatio": 0.412523
+        },
+        "extendable": false,
+        "sha256": "447515c86070732ddbb71fdbd8dec37ee8c876d09f61b6bbf1ff3d052d6b2d4e"
+      },
+      "publicDisplayNotRestrictedDownload": true,
+      "originalActualDimensions": [
+        6245,
+        4163
+      ],
+      "standardPublisherDownscale": true,
+      "notUpscaledOrLocallyEdited": true,
+      "people": [
+        "파커 메식",
+        "Hoon Park"
+      ],
+      "team": "클리블랜드 가디언스",
+      "author": "Petty Officer Third Class Michael Lauofo / U.S. Coast Guard",
+      "photoDate": "2026-05-16",
+      "license": "Public domain — U.S. federal official-duty photograph",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USCG",
+      "imageCredit": "메식·Hoon Park 2026.05.16 자료 · Michael Lauofo/USCG·PD",
+      "rightsEvidence": "U.S. Coast Guard official-duty photograph by Petty Officer Third Class Michael Lauofo, VIRIN260516-G-NB558-8929. Actual DVIDS page explicitly Public Domain. Public2000w publisher display downsample is directly embedded in that page; restricted download endpoint not used. Not CC0 or a domestic-contract claim.",
+      "sceneGroup": "messick-20260516-armed-forces-handshake",
+      "description": "현클리블랜드 메식이 C모자와 CLEVELAND BASEBALL훈련티셔츠를입고 해안경비대Hoon Park와악수하는실제자료. 경기유니폼이라고주장하지않으며 정부원문에인물/당시역할이명시됐다. 원본전체장면의공식2000w표시본이다.",
+      "currentTeamVerification": {
+        "messick": "Official actual2026CLEclub identity plus DVIDS Ccap/CLEVELAND practiceapparel; not former club",
+        "hoonPark": "Military official ceremonialparticipant, professional baseball club uniform N/A; source May16role not claimed currentNovjob"
+      },
+      "normalBoundedResize": "Publisher2000x1333 is1.013x normal existing-renderer resampling to1350h, withinunchanged1.05limit. No AIupscaling.",
+      "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2605/9693844/2000w_q95.jpg",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:51:34.990Z",
+      "fit": "cover",
+      "originalSourceUrl": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2605/9693844/2000w_q95.jpg"
+    },
+    {
+      "id": "nl-mvp-finalists-2026-1",
+      "title": "File:Dodgers at Nationals (53677091634).jpg",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/source-5.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg",
+      "commonsMetadata": {
+        "DateTime": {
+          "value": "2024-04-25 00:31:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Dodgers at Nationals (53677091634)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images with extracted images|Flickr images reviewed by FlickreviewR 2|Shohei Ohtani in 2024|United States photographs taken on 2024-04-23|Photographs by All-Pro Reels|Los Angeles Dodgers at Washington Nationals (April 23, 2024)|Shohei Ohtani in Washington, D.C.|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "WASHINGTON, D.C., APRIL 24, 2024 — <a href=\"https://en.wikipedia.org/wiki/Washington_Nationals\" class=\"extiw\" title=\"en:Washington Nationals\">Washington Nationals</a> faced the <a href=\"https://en.wikipedia.org/wiki/Los_Angeles_Dodgers\" class=\"extiw\" title=\"en:Los Angeles Dodgers\">Los Angeles Dodgers</a> at <a href=\"https://en.wikipedia.org/wiki/Nationals_Park\" class=\"extiw\" title=\"en:Nationals Park\">Nationals Park</a>.  (Joe Glorioso/All-Pro Reels for Washington Times Sports)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-04-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joeglo/53677091634/\">Dodgers at Nationals</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10457902@N08\">All-Pro Reels</a> from District of Columbia, USA",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadataOriginalWidth": 4000,
+      "metadataOriginalHeight": 2665,
+      "metadataNativeWidth": 3840,
+      "metadataNativeHeight": 2558,
+      "deliveryEvidence": "Commons imageinfo official standard-size thumbnail; server-provided downscale only, no local image transform. Original first-attempt429 retained.",
+      "requestedStandardWidth": 3840,
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-06T17:03:02.699Z",
+        "width": 3840,
+        "height": 2558,
+        "bytes": 1659278,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.9036443088911097,
+        "entropy": 7.541473802411929,
+        "effectiveDetailRatio": 0.537491,
+        "kind": "source",
+        "coverScale": 0.528,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "rawWidth": 3840,
+        "rawHeight": 2558,
+        "orientation": 1,
+        "pages": 1,
+        "perceptualHash": "32330b0a0d57130f",
+        "edgeFingerprint": {
+          "version": "edge-v2",
+          "full": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD",
+          "top": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8",
+          "middle": "chEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwEC",
+          "bottom": "UwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD"
+        },
+        "detailFingerprint": {
+          "version": "detail-v1",
+          "full": 21.413032,
+          "top": 19.229752,
+          "middle": 27.034942,
+          "bottom": 18.704316,
+          "effectiveRatio": 0.537491
+        },
+        "extendable": false,
+        "sha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf"
+      },
+      "width": 3840,
+      "height": 2558,
+      "rawWidth": 3840,
+      "rawHeight": 2558,
+      "orientation": 1,
+      "pages": 1,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "perceptualHash": "32330b0a0d57130f",
+      "edgeFingerprint": {
+        "version": "edge-v2",
+        "full": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD",
+        "top": "XgwNBAIEBgQDAwQGBQwFCggKB1aVJY6DUFUnfHtPXxYQDA0REQwMDAkDCgUKCQ0EBimYbkGyRFhpd3RPXw8EAQYGBQcCAw0WCQQRFwsJBA5dmjGZiF5aGCMiaRoRDwwQEA4SGR8SDhgeEQ0NChU4e203ozFYYRQsahQEBAYGCQ0UFwcDDhMFAQMJFAssbHggcIeETGE0axEGBQIBBBIQMgIMCgcCAwUHFgUNZI5GKrZVblOIbBAEAgICDhBJXj4JBS05ShYMFAgIN5B2EmO2OGJzbA4ABAIHECtoPmIEL1c4X3EOGQgGEWubVhGJhBhobg0BBQkKDz9fPWYFPSQcH2FAGgcBByd4hzxRnVlhbgoFDw0JF3tqO5lDIkmNQU0tEwYEAw1Vj1MmtWmdaw8QEBY0XnMmD2GPT8tKdqaLQhQBAggxhH0eVKI8cxQQI0saMDEQISpO1XBMNEDK25gSBgkNXIthCWQxchEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8",
+        "middle": "chEeTRchWjATHTKTf3FgGmdjbOG/EgEHL2aBPixZbA9DIDA8PEklI0x3W0F5SIMKMjW/fwkIEVN3WhlgaiwdPk1oShMCFiKLsEEKOSpYfmtChyQDBiR7iyg8XjscOotALSYcI1Fop45xXXaRcEUndUwDBAlVoGATR0IvW1MMBBMKAVZjQUojNR4oLzVbViQHBAUWeqkvOFsxIhsMAyYgQ1BETW13JQRJEjRUGA4MAwADK6CRQGFDFVcRNkMaHBksjrNaiz4oISM4VxYEAgADBT63XS5sJCAiMC80PDuT33sneKWVgHiNpGEBAQAFAQRbWQkyWEAXHjAlFki7ai83RkNiG2k6mKYPBAEEAQUGUgUQO2hFCB4vQ6FIOjNJuM/BvVMXXb8yBgIFAAMFUggJCEBqPhkuUKE2T4+zjrMjh74+PcFQCgIGAQIDUwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwEC",
+        "bottom": "UwQEBAU9VDYtpj56rK9ECRoGIrqVFcuPEQMGAQEBTwUEAwMCN0p6h1OiiyILBAUIBm/eXG33Sg4EAQIBTAUEAgIECWDFLJSTKAgEAQUGChGX0VV83SEMAQEBSAcFBAQCDGO3I6prCAEBBAQIDQEMmaMtrpQJAwECRAsHBgcEDZKYW6s1BQQEBAQJDwYLJKRzQrk2CQQEOwsGBwkJLbdUs48MEw8NCwsUFgIDElmnG5xzAg0LcV1fYFtUaMkeukUyKicjHx8dGRUSDhyQeViiHgsKeHd6gH2BsWhdeZGFioN+gIGHgXNvaGxYkiyrh0hNHCAgHyI1TDoNUFBSVlxhaGlpZ2FiXFZjNi08dk5MICMgGhsdEQk4DhIYFxwhIiMgHiEhHx0lKzAePS8iDQ4UFxIUCQ0RCw4NCQYGBAQGCAcKDBIXGwwTDiQiGxwaEQwLBAEGBQEAAwMBBggLEBUUFRYYFRAMEhUPFhgbHhcYGhQQCwcFAgQHCQgJCgkFBQYGBgYHEhMVDw8MEBIYHBwcHRoZGhgWDgwJBgIGBAUICQoJDQsHCQ4PCwoMCw4TFRcbHx4gIB4ZGhoXEQ8TDgsMBQQD"
+      },
+      "detailFingerprint": {
+        "version": "detail-v1",
+        "full": 21.413032,
+        "top": 19.229752,
+        "middle": 27.034942,
+        "bottom": 18.704316,
+        "effectiveRatio": 0.537491
+      },
+      "effectiveDetailRatio": 0.537491,
+      "effectiveSharpness": 1.9036443088912598,
+      "entropy": 7.541473802411929,
+      "extendable": false,
+      "bytes": 1659278,
+      "sha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf",
+      "scale": 0.527756059421423,
+      "remoteInspectorVerified": true,
+      "remoteInspectorSameSha": true,
+      "strictPassed": true,
+      "localPath": "C:\\repos\\kartell-studio-main\\kartell-studio-main\\logs\\codex-2026-11-06-midnight-catchup\\research-packages\\nl-mvp-finalists-2026\\photos\\mvp-standard-2.jpg",
+      "people": [
+        "오타니 쇼헤이"
+      ],
+      "currentTeam": "LA 다저스",
+      "author": "All-Pro Reels / Joe Glorioso",
+      "photoDate": "2024-04",
+      "photoDatePrecision": "month; Commons original date2024-04-23와 description2024-04-24가 달라 카드에는 월까지만 표기",
+      "creditDisplay": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "sceneGroup": "ohtani-202404-washington-lead",
+      "description": "현LA다저스17번 회색유니폼 오타니가 베이스리드를잡는독립장면. CommonsdateTaken4/23과캡션4/24차이는월만표시해보존. 이전표지원본은이번본문에만사용한다.",
+      "imageCredit": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.",
+      "rightsLicense": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "originalAuthor": "Joe Glorioso / All-Pro Reels",
+      "originalSourceCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joeglo/53677091634/\">Dodgers at Nationals</a>",
+      "licenseMetadata": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg",
+      "deliveryTransform": "Commons imageinfo official standard-size thumbnail; server-provided downscale only, no local image transform. Original first-attempt429 retained.",
+      "intendedCardLicense": "CC BY-SA 2.0",
+      "context": "현재 소속이 같은 선수의 명시된 과거 자료사진. 2026 BBWAA 발표 현장을 촬영했다고 주장하지 않는다.",
+      "url": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/source-5.jpg",
+      "sourceSha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf",
+      "rightsStatus": "approved",
+      "currentTeamUniformVerified": true,
+      "visuallyReviewed": true,
+      "reviewedAt": "2026-11-06T16:51:35.337Z",
+      "strictNativeCoverScale": 0.527756059421423,
+      "team": "LA 다저스",
+      "license": "CC BY-SA 2.0",
+      "fit": "cover",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceMirror": {
+        "commit": "62d1daff6b9b85b4d335d08a40c74834e8dcdbae",
+        "relative": "source-originals/2026-11-07-cy-young-finalists-six-v1",
+        "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bytesUnchanged": true,
+        "metadataUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@62d1daff6b9b85b4d335d08a40c74834e8dcdbae/source-originals/2026-11-07-cy-young-finalists-six-v1/attribution.json"
+      }
+    }
+  ]
+}
