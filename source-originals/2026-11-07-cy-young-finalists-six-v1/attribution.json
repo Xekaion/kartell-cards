@@ -1,0 +1,63 @@
+{
+  "version": "licensed-real-source-archive-v1",
+  "story": "cy-young-finalists-six",
+  "rawResearch": {
+    "path": "logs/codex-2026-11-07-midnight-catchup/research-packages/cy-young-finalists-six/research-package-diagnostic-v3.json",
+    "sha256": "3236bdad5f7cb9c6b24df67c8d8ef8003ad0d86e7eb5a067bd79df15dbd14602"
+  },
+  "createdAt": "2026-11-06T16:58:47.464Z",
+  "purpose": "Stable immutable hosting of exact already reviewed licensed source photographs. Original publisher URLs, author, dates and individual license conditions remain attached. No broader rights claim.",
+  "sources": [
+    {
+      "slideIndex": 0,
+      "filename": "source-1.jpg",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chris_Sale_warming_up_for_the_Braves_in_Seattle%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Sale_warming_up_for_the_Braves_in_Seattle,_2024.jpg",
+      "sha256": "684bf606546618efb67a4762040849130342a291bac572c8ebd01a0440ad5598",
+      "bytes": 6265268,
+      "width": 2067,
+      "height": 2906,
+      "author": "Jsayre64",
+      "imageCredit": "세일 2024.05.01 자료 · Jsayre64/CC BY-SA4",
+      "photoDate": "2024-05-01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.",
+      "changesToOriginal": "None. Identical real source image bytes; no re-encoding, cropping, restoration, generation, or AI enlargement. Normal text/gradient composition of later cards is separately attributed."
+    },
+    {
+      "slideIndex": 1,
+      "filename": "source-2.jpg",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Jacob_Misiorowski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jacob_Misiorowski.jpg",
+      "sha256": "aa4d7e69a18c19bfc99735821f8877dbfd340653afa5a047c05edba2d05e2d69",
+      "bytes": 4542282,
+      "width": 4135,
+      "height": 2865,
+      "author": "Drovetochicago",
+      "imageCredit": "미저러우스키 2025.06.25 자료 · Drovetochicago/CC BY-SA4",
+      "photoDate": "2025-06-25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.",
+      "changesToOriginal": "None. Identical real source image bytes; no re-encoding, cropping, restoration, generation, or AI enlargement. Normal text/gradient composition of later cards is separately attributed."
+    },
+    {
+      "slideIndex": 4,
+      "filename": "source-5.jpg",
+      "originalSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dodgers_at_Nationals_%2853677091634%29.jpg/3840px-Dodgers_at_Nationals_%2853677091634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677091634).jpg",
+      "sha256": "b242d7f0cc185b8e669b9de62e8d9cf6daf180f13a4c0b0a5ab5c06c9a47d9bf",
+      "bytes": 1659278,
+      "width": 3840,
+      "height": 2558,
+      "author": "All-Pro Reels / Joe Glorioso",
+      "imageCredit": "오타니 2024.04 자료 · All-Pro Reels/CC BY-SA2",
+      "photoDate": "2024-04",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rightsEvidence": "Actual Commons individual file author/license/date verified. CC BY-SA derivative license retained per photograph; public metadata includes attribution and changes. No blanket domestic-media license is claimed for these sources.",
+      "changesToOriginal": "None. Identical real source image bytes; no re-encoding, cropping, restoration, generation, or AI enlargement. Normal text/gradient composition of later cards is separately attributed."
+    }
+  ]
+}
