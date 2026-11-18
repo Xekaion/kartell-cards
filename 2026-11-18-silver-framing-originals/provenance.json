@@ -1,0 +1,214 @@
+[
+  {
+    "key": "silver-pca",
+    "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-pca-alt-1.jpg",
+    "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/wc07pdpoa7zxzpsaeoqi.jpg",
+    "sourcePageUrl": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
+    "sourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/wc07pdpoa7zxzpsaeoqi.jpg",
+    "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/wc07pdpoa7zxzpsaeoqi.jpg",
+    "sourceLabel": "피트 크로암스트롱 / 컵스 자료사진",
+    "quality": {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-18T07:34:11.291Z",
+      "width": 5257,
+      "height": 3505,
+      "bytes": 2920795,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 0.7633030788808638,
+      "entropy": 7.256894078142068,
+      "effectiveDetailRatio": 0.525595,
+      "kind": "source",
+      "coverScale": 0.385,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "sha256": "bff0fac0a423bb997032c3f143eae35823539bebee029b5863d85dd969a847d1",
+      "perceptualHash": "d94c0f494c4d5517"
+    },
+    "rightsStatus": "approved",
+    "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+    "imageCredit": "MLB.com",
+    "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+    "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음.",
+    "context": {
+      "__typename": "Video",
+      "contentDate": "2026-09-24T21:40:22.675Z",
+      "preferredPlaybackScenarioURL({\"preferredPlaybacks\":\"mp4AvcPlayback\"})": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/24/e078f2c0-dd5c4692-978ef9e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "type": "video",
+      "description": "Take a look back at Pete Crow-Armstrong's journey to joining the historic 40/40 club",
+      "displayAsVideoGif": false,
+      "duration": "00:00:59",
+      "slug": "pete-crow-armstrong-s-historic-40-40-season",
+      "tags": [
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "mlb-milestone",
+          "title": "MLB Milestone",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "send-to-news-mlb-feed",
+          "title": "Send To News MLB feed",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "team-featured",
+          "title": "team featured",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "vod",
+          "title": "vod",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "highlight-reel-offense",
+          "title": "highlight reel offense",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "PersonTag",
+          "slug": "playerid-691718",
+          "title": "Pete Crow-Armstrong",
+          "person": {
+            "__ref": "Person:691718"
+          },
+          "type": "player"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "hitting",
+          "title": "hitting",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TeamTag",
+          "slug": "teamid-112",
+          "title": "Chicago Cubs",
+          "team": {
+            "__ref": "Team:112"
+          },
+          "type": "team"
+        }
+      ],
+      "thumbnail": {
+        "__typename": "Thumbnail",
+        "templateUrl": "https://img.mlbstatic.com/mlb-images/image/upload/{formatInstructions}/mlb/wc07pdpoa7zxzpsaeoqi"
+      },
+      "title": "Pete Crow-Armstrong's historic 40/40 season",
+      "relativeSiteUrl": "/video/pete-crow-armstrong-s-historic-40-40-season"
+    }
+  },
+  {
+    "key": "silver-witt-mvp",
+    "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-witt-mvp-alt-0.jpg",
+    "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/agu9pjwwne4kv7wvnm3d.jpg",
+    "sourcePageUrl": "https://www.mlb.com/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+    "sourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/agu9pjwwne4kv7wvnm3d.jpg",
+    "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/agu9pjwwne4kv7wvnm3d.jpg",
+    "sourceLabel": "바비 위트 주니어 / 캔자스시티 자료사진",
+    "quality": {
+      "status": "approved",
+      "code": "IMAGE_QUALITY_APPROVED",
+      "reason": "이미지 화질 기준을 통과했습니다.",
+      "checkedAt": "2026-11-18T07:34:11.621Z",
+      "width": 4731,
+      "height": 3154,
+      "bytes": 8710425,
+      "format": "jpeg",
+      "mimeType": "image/jpeg",
+      "effectiveSharpness": 1.4382070191780914,
+      "entropy": 7.810278489254415,
+      "effectiveDetailRatio": 0.496834,
+      "kind": "source",
+      "coverScale": 0.428,
+      "targetWidth": 1080,
+      "targetHeight": 1350,
+      "sha256": "3c514fc85379404c88e326223d2004b71c233596f84321e6461c92538842bf44",
+      "perceptualHash": "796266666664e6e7"
+    },
+    "rightsStatus": "approved",
+    "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+    "imageCredit": "MLB.com",
+    "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+    "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음.",
+    "context": {
+      "__typename": "Video",
+      "contentDate": "2026-11-13T00:20:00Z",
+      "preferredPlaybackScenarioURL({\"preferredPlaybacks\":\"mp4AvcPlayback\"})": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/28/64c62617-84b077ab-2626a534-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "type": "video",
+      "description": "Bobby Witt Jr. finishes in third place for the 2026 American League MVP Award after compiling 18 home runs and 45 stolen bases",
+      "displayAsVideoGif": false,
+      "duration": "00:00:30",
+      "slug": "bobby-witt-jr-finishes-third-for-2026-al-mvp",
+      "tags": [
+        {
+          "__typename": "TeamTag",
+          "slug": "teamid-118",
+          "title": "Kansas City Royals",
+          "team": {
+            "__ref": "Team:118"
+          },
+          "type": "team"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "mlb-network",
+          "title": "MLB Network",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "PersonTag",
+          "slug": "playerid-677951",
+          "title": "Bobby Witt Jr.",
+          "person": {
+            "__ref": "Person:677951"
+          },
+          "type": "player"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "most-valuable-player",
+          "title": "MVP",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "imagen-feed",
+          "title": "Imagen feed",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "team-featured",
+          "title": "team featured",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "vod",
+          "title": "vod",
+          "type": "taxonomy"
+        },
+        {
+          "__typename": "TaxonomyTag",
+          "slug": "awards-watch",
+          "title": "Awards Watch",
+          "type": "taxonomy"
+        }
+      ],
+      "thumbnail": {
+        "__typename": "Thumbnail",
+        "templateUrl": "https://img.mlbstatic.com/mlb-images/image/upload/{formatInstructions}/mlb/agu9pjwwne4kv7wvnm3d"
+      },
+      "title": "Bobby Witt Jr. finishes third for 2026 AL MVP",
+      "relativeSiteUrl": "/video/bobby-witt-jr-finishes-third-for-2026-al-mvp"
+    }
+  }
+]
