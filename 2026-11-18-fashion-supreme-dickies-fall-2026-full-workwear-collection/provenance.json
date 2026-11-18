@@ -179,13 +179,13 @@
     },
     {
       "slideIndex": 17,
-      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dfbdd0b1653e425ba1e7f13b4aac0a5c9698c60b/2026-11-18-six-direct-originals-v2/dickies/source-18.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/dickies/source-18.jpg",
       "sourcePageUrl": "https://hypebeast.com/2026/11/supreme-dickies-fall-2026-collection-release-info",
-      "sourceSha256": "1b8ef0bc74e6e692ace603addb4726bb006b51a73926078d9597444fed74c30f",
+      "sourceSha256": "384d55c5cd69d0cdd0b3f08059c9ed3061927cba436728a2c6b8317e640944b2",
       "rightsStatus": "approved",
       "rightsEvidence": "config/sources.json의 Hypebeast licensed_editorial 사용자 확보 사용권. 해당 기사의 실제 갤러리에 실린 동일 촬영 원본만 사용하며 사진별 기사 URL·원본 URL·SHA를 결속한다.",
       "imageCredit": "SUPREME / DICKIES",
-      "originalSourceUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-041.jpg?q=90&w=1400&cbr=1&fit=max"
+      "originalSourceUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-007.jpg?q=90&w=1521&cbr=1&fit=max"
     },
     {
       "slideIndex": 18,
@@ -804,39 +804,39 @@
       "originalSourceUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-030.jpg?q=90&w=1400&cbr=1&fit=max"
     },
     {
-      "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-041.jpg?q=90&w=1400&cbr=1&fit=max",
-      "galleryUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-041.jpg?q=90&w=800&cbr=1&fit=max",
-      "declaredWidth": 1400,
-      "declaredHeight": 933,
-      "galleryIndex": 41,
+      "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-007.jpg?q=90&w=1521&cbr=1&fit=max",
+      "galleryUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-007.jpg?q=90&w=800&cbr=1&fit=max",
+      "declaredWidth": 1521,
+      "declaredHeight": 2200,
+      "galleryIndex": 7,
       "galleryArticle": "dickies-hb",
       "originalDirectUrl": "https://hypebeast.com/image/2026/11/15/supreme-dickies-fall-2026-collection-release-info-055.jpg",
-      "path": "logs/codex-2026-11-18-six-direct/dickies/source-18.jpg",
-      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dfbdd0b1653e425ba1e7f13b4aac0a5c9698c60b/2026-11-18-six-direct-originals-v2/dickies/source-18.jpg",
+      "path": "logs/codex-2026-11-18-six-direct/dickies/replacement-18.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/dickies/source-18.jpg",
       "sourcePageUrl": "https://hypebeast.com/2026/11/supreme-dickies-fall-2026-collection-release-info",
       "quality": {
         "status": "approved",
         "code": "IMAGE_QUALITY_APPROVED",
         "reason": "이미지 화질 기준을 통과했습니다.",
-        "checkedAt": "2026-11-18T07:18:05.422Z",
-        "width": 1400,
-        "height": 933,
-        "bytes": 145641,
+        "checkedAt": "2026-11-18T07:29:52.032Z",
+        "width": 1521,
+        "height": 2200,
+        "bytes": 606609,
         "format": "jpeg",
         "mimeType": "image/jpeg",
-        "effectiveSharpness": 4.129766120018531,
-        "entropy": 2.9992929792661016,
-        "effectiveDetailRatio": 0.576374,
+        "effectiveSharpness": 1.3320528707579113,
+        "entropy": 7.370493076363346,
+        "effectiveDetailRatio": 0.538375,
         "kind": "source",
-        "coverScale": 1.447,
+        "coverScale": 0.71,
         "targetWidth": 1080,
         "targetHeight": 1350,
-        "sha256": "1b8ef0bc74e6e692ace603addb4726bb006b51a73926078d9597444fed74c30f"
+        "sha256": "384d55c5cd69d0cdd0b3f08059c9ed3061927cba436728a2c6b8317e640944b2"
       },
       "rightsStatus": "approved",
       "rightsEvidence": "config/sources.json의 Hypebeast licensed_editorial 사용자 확보 사용권. 해당 기사의 실제 갤러리에 실린 동일 촬영 원본만 사용하며 사진별 기사 URL·원본 URL·SHA를 결속한다.",
       "imageCredit": "SUPREME / DICKIES",
-      "originalSourceUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-041.jpg?q=90&w=1400&cbr=1&fit=max"
+      "originalSourceUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-007.jpg?q=90&w=1521&cbr=1&fit=max"
     },
     {
       "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F15%2Fsupreme-dickies-fall-2026-collection-release-info-042.jpg?q=90&w=1400&cbr=1&fit=max",
