@@ -1,0 +1,214 @@
+{
+  "channelId": "kbo-daily",
+  "headline": "한일 레전드 매치 20일 티켓 예매 시작",
+  "issueKey": "kbo-20261118-dream-players-ticket-sales-confirmed",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/News/KboPhoto/View.aspx?bdSe=559554",
+  "sourceObservedAt": "2026-11-18T15:12:38.684932+00:00",
+  "sourcePublishedAt": null,
+  "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+  "imageRights": [
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-1.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000954700089371_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095470008937",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\daeho-sc-0.jpg",
+      "imageCredit": "이대호 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "이대호; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "9af6837bebe8b2f688d334812198b7bf045907e002bfcd5ac9fcd116a1173ba7"
+      },
+      "size": [
+        1200,
+        1706
+      ],
+      "bytes": 1204889
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-2.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000954900089391_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095490008939",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\kim-0.jpg",
+      "imageCredit": "김태균 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "김태균; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "ae44bf0865e14c9ad304edde48840a3553a9569abe35bb4a63b6c33a965e7e59"
+      },
+      "size": [
+        1200,
+        1735
+      ],
+      "bytes": 1162321
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-3.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000951600089141_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095160008914",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\park-0.jpg",
+      "imageCredit": "류중일·박용택 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "류중일·박용택; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "42b123a4f306703c277ae36f52b1ee3c421facb837a496a73811f35e64fbbb69"
+      },
+      "size": [
+        1200,
+        1475
+      ],
+      "bytes": 927807
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-4.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/27/2026102701001736500114812_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-27/202610270100173650011481",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\oh-sc-1.jpg",
+      "imageCredit": "오승환·아들·강민호 · 2026-10-27 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-10-27",
+      "captureEvidence": "오승환·아들·강민호; 원문 사진 설명의 촬영일 2026-10-27; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "9ebe21790f3e412ab7b0ab8184780171489edf5bd24397539d0cf46250a3d535"
+      },
+      "size": [
+        1200,
+        1911
+      ],
+      "bytes": 1330515
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-5.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000957700089641_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095770008964",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\koo-0.jpg",
+      "imageCredit": "구대성 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "구대성; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "2d44b03057db40de0493683ea04bd528c45fd5d798a4882e456a9a0e902365ea"
+      },
+      "size": [
+        1200,
+        1551
+      ],
+      "bytes": 844504
+    }
+  ],
+  "photos": [
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-1.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000954700089371_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095470008937",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\daeho-sc-0.jpg",
+      "imageCredit": "이대호 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "이대호; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "9af6837bebe8b2f688d334812198b7bf045907e002bfcd5ac9fcd116a1173ba7"
+      },
+      "size": [
+        1200,
+        1706
+      ],
+      "bytes": 1204889
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-2.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000954900089391_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095490008939",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\kim-0.jpg",
+      "imageCredit": "김태균 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "김태균; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "ae44bf0865e14c9ad304edde48840a3553a9569abe35bb4a63b6c33a965e7e59"
+      },
+      "size": [
+        1200,
+        1735
+      ],
+      "bytes": 1162321
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-3.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000951600089141_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095160008914",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\park-0.jpg",
+      "imageCredit": "류중일·박용택 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "류중일·박용택; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "42b123a4f306703c277ae36f52b1ee3c421facb837a496a73811f35e64fbbb69"
+      },
+      "size": [
+        1200,
+        1475
+      ],
+      "bytes": 927807
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-4.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/27/2026102701001736500114812_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-27/202610270100173650011481",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\oh-sc-1.jpg",
+      "imageCredit": "오승환·아들·강민호 · 2026-10-27 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-10-27",
+      "captureEvidence": "오승환·아들·강민호; 원문 사진 설명의 촬영일 2026-10-27; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "9ebe21790f3e412ab7b0ab8184780171489edf5bd24397539d0cf46250a3d535"
+      },
+      "size": [
+        1200,
+        1911
+      ],
+      "bytes": 1330515
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/dff8d1aceee267a45d9996f6d865e6f659080f35/2026-11-19-midnight-originals-v1/dream/source-5.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/11/14/2026111401000957700089641_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-11-14/202611140100095770008964",
+      "path": "logs\\codex-2026-11-19-midnight-audit-0000\\photo-research\\koo-0.jpg",
+      "imageCredit": "구대성 · 2026-11-14 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-11-14",
+      "captureEvidence": "구대성; 원문 사진 설명의 촬영일 2026-11-14; 현장 자료사진이며 이번 발표 당일 사진으로 표현하지 않음",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인: KBO 계약으로 우리 매거진의 모든 야구 이미지 사용권 확보. 각 원문·원본·촬영자·촬영일·동일 bytes SHA에 연결.",
+      "quality": {
+        "sha256": "2d44b03057db40de0493683ea04bd528c45fd5d798a4882e456a9a0e902365ea"
+      },
+      "size": [
+        1200,
+        1551
+      ],
+      "bytes": 844504
+    }
+  ],
+  "imageGeneration": false
+}
