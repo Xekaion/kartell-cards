@@ -1,0 +1,382 @@
+{
+  "channelId": "kbo-daily",
+  "headline": "실버슬러거, 13명이 첫 수상",
+  "issueKey": "mlb-2026-silver-slugger-winners-confirmed",
+  "sourceUrl": "https://www.mlb.com/news/2026-silver-slugger-award-winners",
+  "sourceObservedAt": "2026-11-18T06:49:53.464Z",
+  "sourcePublishedAt": null,
+  "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+  "imageRights": [
+    {
+      "slideIndex": 0,
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/silver/source-1.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/mlb-silver-slugger-award-won-by-rookies",
+      "sourceSha256": "83ea092737f6593c6f319771709134e47ee3119b7d0a7ebbad6dc29eea6ca99b",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/v3b5yasiroqs3kuhowji.jpg"
+    },
+    {
+      "slideIndex": 1,
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/silver/source-2.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/chase-delauter-hits-1st-career-home-run-in-regular-season-debut",
+      "sourceSha256": "5b40255a7eaaadf568df97a215da19006e73c261a3ebceb19e3c23691cd4430a",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/vjrezcofkh5qmvk4jtle.jpg"
+    },
+    {
+      "slideIndex": 2,
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/silver/source-3.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/junior-caminero-hits-30-homers-for-second-straight-season",
+      "sourceSha256": "d9dad885014ad0fe139633347727b4891a9d1524f491aa5c1f92fbfb5950d717",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/ztplka06xfudnlvy4ziw.jpg"
+    },
+    {
+      "slideIndex": 3,
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/3ea9dae1dd9c66d1ca5af3913b8fedbc398e98f2/2026-11-18-silver-framing-originals/silver-pca-alt-1.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
+      "sourceSha256": "bff0fac0a423bb997032c3f143eae35823539bebee029b5863d85dd969a847d1",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/wc07pdpoa7zxzpsaeoqi.jpg"
+    },
+    {
+      "slideIndex": 4,
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/3ea9dae1dd9c66d1ca5af3913b8fedbc398e98f2/2026-11-18-silver-framing-originals/silver-witt-mvp-alt-0.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+      "sourceSha256": "3c514fc85379404c88e326223d2004b71c233596f84321e6461c92538842bf44",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/agu9pjwwne4kv7wvnm3d.jpg"
+    }
+  ],
+  "photos": [
+    {
+      "key": "silver-rookies",
+      "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-rookies.jpg",
+      "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/v3b5yasiroqs3kuhowji.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/mlb-silver-slugger-award-won-by-rookies",
+      "size": [
+        6027,
+        3389
+      ],
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/silver/source-1.jpg",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/v3b5yasiroqs3kuhowji.jpg",
+      "sourceLabel": "케빈 맥고니글 / 디트로이트 자료사진",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-18T07:27:42.444Z",
+        "width": 6027,
+        "height": 3389,
+        "bytes": 5760203,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.135943823531904,
+        "entropy": 7.727466231532162,
+        "effectiveDetailRatio": 0.531325,
+        "kind": "source",
+        "coverScale": 0.398,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "83ea092737f6593c6f319771709134e47ee3119b7d0a7ebbad6dc29eea6ca99b",
+        "perceptualHash": "43b05a1e879f5c1a"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+      "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음."
+    },
+    {
+      "key": "silver-delauter",
+      "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-delauter.jpg",
+      "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/vjrezcofkh5qmvk4jtle.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/chase-delauter-hits-1st-career-home-run-in-regular-season-debut",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/Xekaion/kartell-cards@cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/silver/source-2.jpg",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/vjrezcofkh5qmvk4jtle.jpg",
+      "sourceLabel": "체이스 델로터 / 클리블랜드 자료사진",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-18T07:27:42.904Z",
+        "width": 5845,
+        "height": 3897,
+        "bytes": 11359553,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9494077262255555,
+        "entropy": 7.3816740161405505,
+        "effectiveDetailRatio": 0.50835,
+        "kind": "source",
+        "coverScale": 0.346,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "5b40255a7eaaadf568df97a215da19006e73c261a3ebceb19e3c23691cd4430a",
+        "perceptualHash": "797c83e35b93a70b"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+      "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음."
+    },
+    {
+      "key": "silver-caminero",
+      "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-caminero.jpg",
+      "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/ztplka06xfudnlvy4ziw.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/junior-caminero-hits-30-homers-for-second-straight-season",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/cf9294a0f5c9f4ac19d96edca63c685331aa5f21/2026-11-18-six-direct-originals-v3/silver/source-3.jpg",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/ztplka06xfudnlvy4ziw.jpg",
+      "sourceLabel": "주니어 카미네로 / 탬파베이 자료사진",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-18T07:27:43.205Z",
+        "width": 3500,
+        "height": 1969,
+        "bytes": 3244176,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.9685138923408363,
+        "entropy": 7.815210610162467,
+        "effectiveDetailRatio": 0.441824,
+        "kind": "source",
+        "coverScale": 0.686,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "d9dad885014ad0fe139633347727b4891a9d1524f491aa5c1f92fbfb5950d717",
+        "perceptualHash": "19b0b83004868326"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+      "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음."
+    },
+    {
+      "key": "silver-pca",
+      "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-pca-alt-1.jpg",
+      "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/wc07pdpoa7zxzpsaeoqi.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/3ea9dae1dd9c66d1ca5af3913b8fedbc398e98f2/2026-11-18-silver-framing-originals/silver-pca-alt-1.jpg",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/wc07pdpoa7zxzpsaeoqi.jpg",
+      "sourceLabel": "피트 크로암스트롱 / 컵스 자료사진",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-18T07:34:11.291Z",
+        "width": 5257,
+        "height": 3505,
+        "bytes": 2920795,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 0.7633030788808638,
+        "entropy": 7.256894078142068,
+        "effectiveDetailRatio": 0.525595,
+        "kind": "source",
+        "coverScale": 0.385,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "bff0fac0a423bb997032c3f143eae35823539bebee029b5863d85dd969a847d1",
+        "perceptualHash": "d94c0f494c4d5517"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+      "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음.",
+      "context": {
+        "__typename": "Video",
+        "contentDate": "2026-09-24T21:40:22.675Z",
+        "preferredPlaybackScenarioURL({\"preferredPlaybacks\":\"mp4AvcPlayback\"})": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/24/e078f2c0-dd5c4692-978ef9e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "type": "video",
+        "description": "Take a look back at Pete Crow-Armstrong's journey to joining the historic 40/40 club",
+        "displayAsVideoGif": false,
+        "duration": "00:00:59",
+        "slug": "pete-crow-armstrong-s-historic-40-40-season",
+        "tags": [
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "mlb-milestone",
+            "title": "MLB Milestone",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "send-to-news-mlb-feed",
+            "title": "Send To News MLB feed",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "team-featured",
+            "title": "team featured",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "vod",
+            "title": "vod",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "highlight-reel-offense",
+            "title": "highlight reel offense",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "PersonTag",
+            "slug": "playerid-691718",
+            "title": "Pete Crow-Armstrong",
+            "person": {
+              "__ref": "Person:691718"
+            },
+            "type": "player"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "hitting",
+            "title": "hitting",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TeamTag",
+            "slug": "teamid-112",
+            "title": "Chicago Cubs",
+            "team": {
+              "__ref": "Team:112"
+            },
+            "type": "team"
+          }
+        ],
+        "thumbnail": {
+          "__typename": "Thumbnail",
+          "templateUrl": "https://img.mlbstatic.com/mlb-images/image/upload/{formatInstructions}/mlb/wc07pdpoa7zxzpsaeoqi"
+        },
+        "title": "Pete Crow-Armstrong's historic 40/40 season",
+        "relativeSiteUrl": "/video/pete-crow-armstrong-s-historic-40-40-season"
+      }
+    },
+    {
+      "key": "silver-witt-mvp",
+      "path": "logs\\codex-2026-11-18-six-direct\\baseball-photos\\silver-witt-mvp-alt-0.jpg",
+      "url": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/agu9pjwwne4kv7wvnm3d.jpg",
+      "sourcePageUrl": "https://www.mlb.com/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/3ea9dae1dd9c66d1ca5af3913b8fedbc398e98f2/2026-11-18-silver-framing-originals/silver-witt-mvp-alt-0.jpg",
+      "originalSourceUrl": "https://img.mlbstatic.com/mlb-images/image/upload/mlb/agu9pjwwne4kv7wvnm3d.jpg",
+      "sourceLabel": "바비 위트 주니어 / 캔자스시티 자료사진",
+      "quality": {
+        "status": "approved",
+        "code": "IMAGE_QUALITY_APPROVED",
+        "reason": "이미지 화질 기준을 통과했습니다.",
+        "checkedAt": "2026-11-18T07:34:11.621Z",
+        "width": 4731,
+        "height": 3154,
+        "bytes": 8710425,
+        "format": "jpeg",
+        "mimeType": "image/jpeg",
+        "effectiveSharpness": 1.4382070191780914,
+        "entropy": 7.810278489254415,
+        "effectiveDetailRatio": 0.496834,
+        "kind": "source",
+        "coverScale": 0.428,
+        "targetWidth": 1080,
+        "targetHeight": 1350,
+        "sha256": "3c514fc85379404c88e326223d2004b71c233596f84321e6461c92538842bf44",
+        "perceptualHash": "796266666664e6e7"
+      },
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 확인 모든 야구 이미지 계약. 사진별 실제 원문·촬영자·시점·SHA를 확인해 연결한다.",
+      "imageCredit": "MLB.com",
+      "photographer": "MLB.com 제공 원본. 개별 촬영자 이름은 원문에 표시되지 않아 추정하지 않음",
+      "captureEvidence": "현재 소속팀 유니폼의 실제 촬영 사진. 해당 공식 원문에 게시된 자료사진이며 수상식·계약 체결 당일 촬영으로 주장하지 않음.",
+      "context": {
+        "__typename": "Video",
+        "contentDate": "2026-11-13T00:20:00Z",
+        "preferredPlaybackScenarioURL({\"preferredPlaybacks\":\"mp4AvcPlayback\"})": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/28/64c62617-84b077ab-2626a534-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "type": "video",
+        "description": "Bobby Witt Jr. finishes in third place for the 2026 American League MVP Award after compiling 18 home runs and 45 stolen bases",
+        "displayAsVideoGif": false,
+        "duration": "00:00:30",
+        "slug": "bobby-witt-jr-finishes-third-for-2026-al-mvp",
+        "tags": [
+          {
+            "__typename": "TeamTag",
+            "slug": "teamid-118",
+            "title": "Kansas City Royals",
+            "team": {
+              "__ref": "Team:118"
+            },
+            "type": "team"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "mlb-network",
+            "title": "MLB Network",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "PersonTag",
+            "slug": "playerid-677951",
+            "title": "Bobby Witt Jr.",
+            "person": {
+              "__ref": "Person:677951"
+            },
+            "type": "player"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "most-valuable-player",
+            "title": "MVP",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "imagen-feed",
+            "title": "Imagen feed",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "team-featured",
+            "title": "team featured",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "vod",
+            "title": "vod",
+            "type": "taxonomy"
+          },
+          {
+            "__typename": "TaxonomyTag",
+            "slug": "awards-watch",
+            "title": "Awards Watch",
+            "type": "taxonomy"
+          }
+        ],
+        "thumbnail": {
+          "__typename": "Thumbnail",
+          "templateUrl": "https://img.mlbstatic.com/mlb-images/image/upload/{formatInstructions}/mlb/agu9pjwwne4kv7wvnm3d"
+        },
+        "title": "Bobby Witt Jr. finishes third for 2026 AL MVP",
+        "relativeSiteUrl": "/video/bobby-witt-jr-finishes-third-for-2026-al-mvp"
+      }
+    }
+  ],
+  "imageGeneration": false
+}
