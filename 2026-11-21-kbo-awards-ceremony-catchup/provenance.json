@@ -1,0 +1,204 @@
+{
+  "channelId": "kbo-daily",
+  "headline": "KBO 시상식 26일, MVP 후보 14명",
+  "issueKey": "kbo-2026-awards-ceremony-mvp-rookie-candidates-2026-11-26",
+  "sourceUrl": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12248",
+  "sourceObservedAt": "2026-11-20T15:10:24.960681+00:00",
+  "sourcePublishedAt": null,
+  "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+  "imageRights": [
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-1.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/29/2026102901001887200129751_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-29/202610290100188720012975",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-8.jpg",
+      "imageCredit": "구자욱 · 2026-10-29 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-10-29",
+      "captureEvidence": "2026-10-29 구자욱, 광주 KIA챔피언스필드 삼성 타격 훈련. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "833a7120d0f07d2c6b4ca52594adf35bc9d5b2142841e82c0951dbda8b6f4f0d"
+      },
+      "size": [
+        1200,
+        1553
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-2.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/30/2026103001001974900140061_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-30/202610300100197490014006",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-17.jpg",
+      "imageCredit": "김도영 · 2026-10-30 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-10-30",
+      "captureEvidence": "2026-10-30 김도영, 광주 KIA챔피언스필드 삼성전 2루타. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "33c71d2a508889f1ba6eeecb492c08f8080816630aae02367f959dba9ada2705"
+      },
+      "size": [
+        1200,
+        1588
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-3.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/08/12/2026081201000740600046061_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-08-12/202608120100074060004606",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-20.jpg",
+      "imageCredit": "허인서 · 2026-08-12 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-08-12",
+      "captureEvidence": "2026-08-12 허인서, 잠실 두산전 10회초 2루타. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "6f0920f6fa08a61aac73ef9374962b50c9164320b497cf0180df2b972deca672"
+      },
+      "size": [
+        1200,
+        1828
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-4.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/11/2026101101000694600045151_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-11/202610110100069460004515",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-14.jpg",
+      "imageCredit": "김도영 · 2026-10-11 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-10-11",
+      "captureEvidence": "2026-10-11 김도영, 광주 기아챔피언스필드 롯데전 KIA 수비 준비. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "91fde11950bbc48c83350198919fe7d7e0ef06310740386df8a9b3f60dba9a57"
+      },
+      "size": [
+        1200,
+        1621
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-5.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/07/22/2026072201001384200088151_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-22/202607220100138420008815",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-21.jpg",
+      "imageCredit": "허인서 · 2026-07-22 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-07-22",
+      "captureEvidence": "2026-07-22 허인서, 광주 KIA챔피언스필드 KIA전 9회초 적시타. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "6d315f862cf05e9b966caae8a993a28f92830ad572027dbab7bd61c95271a812"
+      },
+      "size": [
+        1200,
+        1600
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-1.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/29/2026102901001887200129751_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-29/202610290100188720012975",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-8.jpg",
+      "imageCredit": "구자욱 · 2026-10-29 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-10-29",
+      "captureEvidence": "2026-10-29 구자욱, 광주 KIA챔피언스필드 삼성 타격 훈련. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "833a7120d0f07d2c6b4ca52594adf35bc9d5b2142841e82c0951dbda8b6f4f0d"
+      },
+      "size": [
+        1200,
+        1553
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-2.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/30/2026103001001974900140061_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-30/202610300100197490014006",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-17.jpg",
+      "imageCredit": "김도영 · 2026-10-30 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-10-30",
+      "captureEvidence": "2026-10-30 김도영, 광주 KIA챔피언스필드 삼성전 2루타. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "33c71d2a508889f1ba6eeecb492c08f8080816630aae02367f959dba9ada2705"
+      },
+      "size": [
+        1200,
+        1588
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-3.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/08/12/2026081201000740600046061_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-08-12/202608120100074060004606",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-20.jpg",
+      "imageCredit": "허인서 · 2026-08-12 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-08-12",
+      "captureEvidence": "2026-08-12 허인서, 잠실 두산전 10회초 2루타. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "6f0920f6fa08a61aac73ef9374962b50c9164320b497cf0180df2b972deca672"
+      },
+      "size": [
+        1200,
+        1828
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-4.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/10/11/2026101101000694600045151_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-10-11/202610110100069460004515",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-14.jpg",
+      "imageCredit": "김도영 · 2026-10-11 자료 · 스포츠조선 박재만",
+      "photographer": "스포츠조선 박재만",
+      "photoDate": "2026-10-11",
+      "captureEvidence": "2026-10-11 김도영, 광주 기아챔피언스필드 롯데전 KIA 수비 준비. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "91fde11950bbc48c83350198919fe7d7e0ef06310740386df8a9b3f60dba9a57"
+      },
+      "size": [
+        1200,
+        1621
+      ]
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Xekaion/kartell-cards/4ca1a9ad40a40edf57502d4d7303155511b9cb73/2026-11-21-kbo-awards-source-v1/source-5.jpg",
+      "originalSourceUrl": "https://www.sportschosun.com/article/html/2026/07/22/2026072201001384200088151_w.jpg",
+      "sourcePageUrl": "https://www.sportschosun.com/baseball/2026-07-22/202607220100138420008815",
+      "path": "logs\\codex-2026-11-21-midnight-audit-0004\\aw-21.jpg",
+      "imageCredit": "허인서 · 2026-07-22 자료 · 스포츠조선 허상욱",
+      "photographer": "스포츠조선 허상욱",
+      "photoDate": "2026-07-22",
+      "captureEvidence": "2026-07-22 허인서, 광주 KIA챔피언스필드 KIA전 9회초 적시타. 원문 사진 설명과 실제 유니폼을 대조한 자료사진.",
+      "rightsStatus": "approved",
+      "rightsEvidence": "2026-11-08 사용자 직접 확인에 따라 KBO 계약으로 매거진의 야구 이미지 사용권 확보. 각 원문·원본·촬영일·촬영자와 SHA를 연결했다.",
+      "quality": {
+        "sha256": "6d315f862cf05e9b966caae8a993a28f92830ad572027dbab7bd61c95271a812"
+      },
+      "size": [
+        1200,
+        1600
+      ]
+    }
+  ],
+  "imageGeneration": false
+}
